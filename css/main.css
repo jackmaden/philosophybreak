@@ -87,7 +87,7 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
 /*mailchimp form*/
 #mc_embed_signup {width: 100%; padding: 35px 0;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
-#mc_embed_signup input {padding: 1em; font-family: 'Spectral', serif; border-radius: 24px; border: solid 1px #151515; font-size: 16px; width: 70%;}
+#mc_embed_signup input {padding: 0.8em 1em; font-family: 'Spectral', serif; border-radius: 24px; border: solid 1px #151515; font-size: 16px; width: 70%; line-height: normal;}
 #mc_embed_signup input[type="email"] {padding-right: 11%; font-weight: bold; color: #55bfff;}
 #mc_embed_signup input[type="submit"] {width: 40%; cursor: pointer; margin-left: -14%; color: #fff; background: linear-gradient(to right top, #151515, #253d4e);}
 #mc_embed_signup input:focus {border: solid 1px #55bfff; outline: none;}
