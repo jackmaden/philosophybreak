@@ -36,9 +36,27 @@
   <body>
     <!--nav-->
     <div id="nav">
-      <div class="page-center">
+      <div class="page-center nav-flex">
         <a class="logo" href=""><img src="images/pbgradthin.svg"><h1>philosophy break</h1></a>
+        <ul id="desktop-menu" class="mobile-no-display">
+          <a href="articles"><li>articles</li></a><span style="font-weight: bold; cursor: default;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+          <a href="about"><li>about</li></a><span style="font-weight: bold; cursor: default;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+          <a href="mailto:hello@philosophybreak.com"><li>contact</li></a>
+        </ul>
+        <div id="mobile-trigger" class="desktop-no-display">
+          <div class="bar1"></div>
+          <div class="bar2"></div>
+          <div class="bar3"></div>
+        </div>
       </div>
+    </div>
+    <div style="position: relative;">
+      <ul id="mobile-menu" class="desktop-no-display">
+          <a href="articles"><li>articles</li></a>
+          <a href="about"><li>about</li></a>
+          <a href="mailto:hello@philosophybreak.com"><li>contact</li></a>
+          <a href="https://www.instagram.com/philosophybreak/" target="_blank"><li><img src="images/instagram-logo.png" style="width: 50px;"></li></a>
+      </ul>
     </div>
 
     <!--body-->
@@ -62,11 +80,15 @@
       <div class="page-center">
         <a class="logo" style="justify-content:flex-end;" href=""><img src="images/pbgradthin.svg"></a>
         <div class="footer-links">
-          <p><a href="articles/">articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.instagram.com/philosophybreak/" target="_blank">instagram</a></p>
+          <p><a href="articles">articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about">about</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:hello@philosophybreak.com">contact</a></p>
           <p class="copyright">© philosophy break 2018. All rights reserved.</p>
         </div>
       </div>
     </div><!--end footer-->
+
+    <!----scripts---->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
 
   </body>
 </html>

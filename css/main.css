@@ -1,10 +1,13 @@
-/*reset browers*/
+/***reset browers***/
 * {padding: 0; margin: 0; line-height: 1.1;}
 
-/*fonts*/
+/***overflow***/
+html, body {width: 100%; overflow-x: hidden;}
+
+/***fonts***/
 body {font-family: 'Spectral', serif; font-size: 16px; color: #1a1a1a; letter-spacing: -0.5px; text-rendering: optimizeLegibility;}
 
-/*page center*/
+/***page center***/
 @media (max-width: 999px) {
     .page-center {margin: 0 12px;}
 }
@@ -12,7 +15,16 @@ body {font-family: 'Spectral', serif; font-size: 16px; color: #1a1a1a; letter-sp
     .page-center {width: 600px; margin: 0 auto;}
 }
 
-/*headings*/
+/***general classes***/
+/*responsive hide*/
+@media (max-width: 999px) {
+  .mobile-no-display {display: none !important;}
+}
+@media (min-width: 1000px) {
+  .desktop-no-display {display: none !important;}
+}
+
+/***headings***/
 h1 {font-size: 40px; font-weight: lighter;}
 h2 {font-size: 30px; margin: 1.8em 0 0.6em; font-weight: lighter;}
 h3, h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: lighter;}
@@ -26,7 +38,7 @@ h5 {font-size: 20px;}
     h3 {font-size: 28px;}
 }
 
-/*p and links*/
+/***p and links***/
 p {line-height: 1.5; margin: 1em 0; font-size: 18px;}
 @media (min-width: 1000px) {
   p {font-size: 20px;}
@@ -34,19 +46,31 @@ p {line-height: 1.5; margin: 1em 0; font-size: 18px;}
 a {color: #1a1a1a; text-decoration: underline; text-decoration-color: #55bfff;}
 a:hover {color: #55bfff;}
 
-/*section breaks*/
+/***section breaks***/
 div.section-break {width: 50px; border-bottom: solid 4px #55bfff; margin-top: 2em;}
 
-/*nav*/
+/***nav***/
 #nav {height: 40px;}
 /*logo*/
 a.logo {display: flex; align-items: flex-start; text-decoration: none; padding-top: 2px; box-shadow: none;}
 a.logo:hover {color: #1a1a1a;}
 a.logo img {width: 60px; border-radius: 50%; position: relative; z-index: 2;}
-a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5px; font-weight: bold;}
+a.logo h1 {margin-left: 10px; font-size: 17px; margin-top: 0.5em; padding-top: 5px; font-weight: bold;}
+/*menus*/
+.nav-flex {display: flex; align-items: center; justify-content: space-between;}
+ul#desktop-menu {list-style-type: none; margin-top: -14px; display: flex; align-items: center;}
+ul#desktop-menu a {display: inline-block;}
+ul#desktop-menu a li {display: inline; font-size: 17px;}
+#mobile-trigger {margin-top: -15px; cursor: pointer;}
+#mobile-trigger .bar1, #mobile-trigger .bar2, #mobile-trigger .bar3 {width: 20px; height: 2px; background-color: #151515; margin: 4px 0; transition: 0.4s;}
+#mobile-trigger.change .bar1 {-webkit-transform: rotate(-45deg) translate(-9px, 6px); transform: rotate(-45deg) translate(-5px, 4px);}
+#mobile-trigger.change .bar2 {opacity: 0;}
+#mobile-trigger.change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px); transform: rotate(45deg) translate(-4px, -4px);}
+ul#mobile-menu {background-color: #fff; text-align: right; list-style-type: none; position: absolute; right: 0; z-index: 3; height: 100%; box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); visibility:hidden;}
+ul#mobile-menu a {display: block;}
+ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
 
-
-/*footer*/
+/***footer***/
 #footer {background: linear-gradient(to right top, #151515, #253d4e); padding-bottom: 1em;}
 #footer img {margin-top: -25px;}
 #footer .footer-links {margin-top: -30px;}
@@ -64,20 +88,18 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
   .featured-image h1 {width: 600px; left: 0; right: 0; margin: 0 auto;}
 }
 
+/***article styling***/
 /*in-article image*/
 .full-width {width: 100%; height: auto; margin: 0.5em 0;}
-
 /*blockquote*/
 .blockquote {border-left: solid 4px #f5f5f5; padding: 0 16px; color: #8c8c8c; margin: 1em 0; font-weight: lighter; line-height: 1.4;}
-
 /*caption*/
 .caption {font-size: 14px; margin: 0; color: #8c8c8c;}
 .caption-pointer {color: #55bfff; margin-right: 2px;}
-
 /*big letter*/
 .big-letter {float: left; font-size: 100px; color: #55bfff; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px;}
 
-/*mailchimp form*/
+/***mailchimp form***/
 #mc_embed_signup {width: 100%; padding: 35px 0;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
 #mc_embed_signup input {padding: 0.8em 1em; font-family: 'Spectral', serif; border-radius: 25px; border: solid 1px #151515; font-size: 16px; width: 70%; line-height: normal;}
@@ -86,7 +108,7 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
 #mc_embed_signup input:focus {border: solid 1px #55bfff; outline: none;}
 #mc_embed_signup p {margin-bottom: 0;}
 
-/*animations*/
+/***animations***/
 /*fadeInRight*/
 @-webkit-keyframes fadeInRight {
   from {
@@ -94,7 +116,6 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
     -webkit-transform: translate3d(100%, 0, 0);
     transform: translate3d(100%, 0, 0);
   }
-
   to {
     opacity: 1;
     -webkit-transform: translate3d(0, 0, 0);
@@ -107,7 +128,6 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
     -webkit-transform: translate3d(10%, 0, 0);
     transform: translate3d(10%, 0, 0);
   }
-
   to {
     opacity: 1;
     -webkit-transform: translate3d(0, 0, 0);
@@ -120,6 +140,71 @@ a.logo h1 {margin-left: 10px; font-size: 16px; margin-top: 0.6em; padding-top: 5
   animation-name: fadeInRight;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+/*slideInRight*/
+@-webkit-keyframes slideInRight {
+  from {
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+  }
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes slideInRight {
+  from {
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+  }
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+.slideInRight {
+  -webkit-animation-name: slideInRight;
+  animation-name: slideInRight;
+  -webkit-animation-duration: 0.4s;
+  animation-duration: 0.4s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  visibility: visible !important;
+}
+/*slideOutRight*/
+@-webkit-keyframes slideOutRight {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    visibility: visible;
+  }
+  to {
+    visibility: hidden;
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+}
+@keyframes slideOutRight {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    visibility: visible;
+  }
+  to {
+    visibility: hidden;
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+}
+.slideOutRight {
+  -webkit-animation-name: slideOutRight;
+  animation-name: slideOutRight;
+  -webkit-animation-duration: 0.4s;
+  animation-duration: 0.4s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
