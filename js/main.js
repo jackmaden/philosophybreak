@@ -16,8 +16,8 @@ $(document).ready(function() {
 	});
 	//FEATURED IMAGE FULL
 	//center title vertically
-	$('.featured-image-full div').css({'top' : '40%', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
-	
+	$('.featured-image-full div').css({'top' : '40%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
+
 	//on scroll
 	$(window).scroll(function () {
 		//slide menu out if open on scroll & reset mobile trigger
