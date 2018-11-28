@@ -34,4 +34,13 @@ $(document).ready(function() {
 			}
 		});
 	});//end window scroll
+
+	//FEATURED IMAGE FULL
+	//center title vertically
+	$('.featured-image-full div').css({'top' : '40%', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
+
+	//on window load
+	$(window).on('load', function() {
+		$('.fade-right-load').addClass('fadeInRight');
+	});//end window load
 });//end document ready

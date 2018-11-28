@@ -87,6 +87,13 @@ ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
 @media (min-width: 1000px) {
   .featured-image h1 {width: 600px; left: 0; right: 0; margin: 0 auto;}
 }
+/*featured image full screen*/
+.featured-image-full {height: calc(100vh - 40px); width: 100%; overflow: hidden; background-size: cover; background-position: center center; position: relative;}
+.featured-image-full div {position: absolute; margin: 0 12px; top: 28%;}
+.featured-image-full div h1, .featured-image-full div h4 a {color: #fff;}
+@media (min-width: 1000px) {
+  .featured-image-full div {width: 600px; left: 0; right: 0; margin: 0 auto;}
+}
 
 /***article styling***/
 /*in-article image*/
@@ -134,7 +141,7 @@ ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
     transform: translate3d(0, 0, 0);
   }
 }
-.fade-right {opacity: 0;}
+.fade-right, .fade-right-load {opacity: 0;}
 .fadeInRight {
   -webkit-animation-name: fadeInRight;
   animation-name: fadeInRight;
