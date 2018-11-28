@@ -14,6 +14,10 @@ $(document).ready(function() {
 			$mobileMenu.removeClass('slideOutRight').addClass('slideInRight');
 		}
 	});
+	//FEATURED IMAGE FULL
+	//center title vertically
+	$('.featured-image-full div').css({'top' : '40%', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
+	
 	//on scroll
 	$(window).scroll(function () {
 		//slide menu out if open on scroll & reset mobile trigger
@@ -35,12 +39,4 @@ $(document).ready(function() {
 		});
 	});//end window scroll
 
-	//FEATURED IMAGE FULL
-	//center title vertically
-	$('.featured-image-full div').css({'top' : '40%', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
-
-	//on window load
-	$(window).on('load', function() {
-		$('.fade-right-load').addClass('fadeInRight');
-	});//end window load
 });//end document ready
