@@ -107,6 +107,9 @@ ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
 .caption-pointer {color: #55bfff; margin-right: 2px;}
 /*big letter*/
 .big-letter {float: left; font-size: 100px; color: #55bfff; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px;}
+@media (min-width: 1000px) {
+  .big-letter {font-size: 112px;}
+}
 
 /***mailchimp form***/
 #mc_embed_signup {width: 100%; padding: 35px 0;}
