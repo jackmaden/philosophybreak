@@ -18,6 +18,12 @@ $(document).ready(function() {
 	//center title vertically
 	$('.featured-image-full div').css({'top' : '40%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
 
+	//FORM VALIDATION
+	$('[type="submit"]').on('click', function () {
+    // this adds 'required' class to all the required inputs under the same <form> as the submit button
+    $(this).closest('form').find('[required]').addClass('required');
+	});
+
 	//on scroll
 	$(window).scroll(function () {
 		//slide menu out if open on scroll & reset mobile trigger
