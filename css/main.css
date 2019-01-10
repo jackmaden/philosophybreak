@@ -26,6 +26,7 @@ body {font-family: 'Spectral', serif; font-size: 16px; color: #1a1a1a; letter-sp
 
 /***headings***/
 h1 {font-size: 36px; font-weight: lighter;}
+h1#home-page {font-size: 40px;}
 h2 {font-size: 30px; margin: 1.8em 0 0.6em; font-weight: lighter;}
 h3, h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: lighter;}
 h3 {font-size: 25px;}
@@ -34,9 +35,11 @@ h5 {font-size: 20px;}
 
 @media (min-width: 1000px) {
     h1 {font-size: 45px;}
+    h1#home-page {font-size: 50px;}
     h2 {font-size: 35px;}
     h3 {font-size: 28px;}
 }
+
 
 /***p and links***/
 p {line-height: 1.5; margin: 1em 0; font-size: 18px;}
