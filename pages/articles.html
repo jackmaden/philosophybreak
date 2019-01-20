@@ -1,0 +1,14 @@
+---
+layout: default
+title: articles
+permalink: /articles/
+---
+
+{% for article in site.articles %}
+    <a class="featured-image" style="background-image: url('{{ article.image }}');" href="{{ article.url }}">
+        <h1>{{ article.title }}</h1>
+    </a>
+{% endfor %}
+
+<!--subscription form-->
+{% include subscription-form.html %}

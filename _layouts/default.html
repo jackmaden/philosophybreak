@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <!--meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!--stylesheet, favicon, font-->
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/pb-favicon.ico"/>
+    <link href="https://fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
+
+    {% seo %}
+    
+    <!--analytics-->
+    {% include analytics.html %}
+  </head>
+
+  <body>
+    <!--nav-->
+    {% include navigation.html %}
+    
+    <!--content-->
+    {{ content }}
+    
+    <!--footer-->
+    {% include footer.html %}
+    
+    <!--scripts-->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>

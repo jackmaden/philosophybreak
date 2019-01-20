@@ -1,2 +1,17 @@
-plugins:
-  - jekyll-sitemap
+name: philosophy break
+description: a clearing in your busy, cluttered life and newsfeed
+author: philosophy break
+author_email: hello@philosophybreak.com
+url: https://philosophybreak.com/
+
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: article
