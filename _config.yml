@@ -7,7 +7,7 @@ url: https://philosophybreak.com
 collections:
   articles:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
 
 defaults:
   - scope:
