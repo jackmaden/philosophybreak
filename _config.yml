@@ -17,4 +17,5 @@ defaults:
       layout: article
       
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
