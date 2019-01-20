@@ -2,7 +2,7 @@ name: philosophy break
 description: a clearing in your busy, cluttered life and newsfeed
 author: philosophy break
 author_email: hello@philosophybreak.com
-url: https://philosophybreak.com/
+url: https://philosophybreak.com
 
 collections:
   articles:
