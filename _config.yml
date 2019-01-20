@@ -15,3 +15,6 @@ defaults:
       type: "articles"
     values:
       layout: article
+      
+plugins:
+  - jekyll-sitemap
