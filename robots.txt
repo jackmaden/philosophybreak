@@ -1,4 +1,4 @@
 Sitemap: https://philosophybreak.com/sitemap.xml
 User-agent: *
 Disallow: /assets/*
-Disallow: /thank-you/*
+Disallow: /thank*
