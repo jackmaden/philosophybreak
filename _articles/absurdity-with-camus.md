@@ -27,7 +27,7 @@ gradient: 0.8
 <p>To sum up, then, according to Camus: we live in absurdity, we cannot escape this absurdity, and - due to the fact we are condemned never to comprehend the ultimate nature of existence - the only act that can have any bearing on our condition is suicide.</p>
 <p>So far, so bleak -- pointlessness, futility, suicide… On Camus’s view the answer to the question of whether or not life is worth living surely seems only to point one way...</p>
 <h2>Sisyphus as romantic hero</h2>
-<p>But wait! Stop! You see, rather than as a sad indictment of how we live, Camus actually views Sisyphus's exertions up and down the mountain as a <i>triumph</i>.</p>
+<p><span class="big-letter">B</span>ut wait! Stop! You see, rather than as a sad indictment of how we live, Camus actually views Sisyphus's exertions up and down the mountain as a <i>triumph</i>.</p>
 <h4 class="blockquote fade-right">Sisyphus shows us strength and resilience in the face of absurdity: he "knows himself to be the master of his days."</h4>
 <p>Camus argues that Sisyphus is demonstrative of the fact that we can live "with the certainty of a crushing fate, <i>without the resignation that ought to accompany it</i>." Sisyphus shows us strength and resilience in the face of absurdity: he "knows himself to be the master of his days."</p>
 <p class="caption"><img class="full-width" src="/assets/images/Sisyphus.jpg" alt="Sisyphus">
