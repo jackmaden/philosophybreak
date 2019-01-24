@@ -1,3 +1,3 @@
 Sitemap: https://philosophybreak.com/sitemap.xml
 User-agent: *
-Disallow: /thank*
+Disallow:
