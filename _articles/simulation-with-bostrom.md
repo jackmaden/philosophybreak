@@ -35,7 +35,7 @@ gradient: 0.8
 <h2>So, if we are in a simulation...?</h2>
 <p><span class="big-letter">I</span>f we accept the validity and soundness of The Simulation Argument - and while many don’t, some influential figures such as Elon Musk <a target="_blank" href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html">very publicly do</a> - what are the consequences?</p>
 <p>Well, if we <i>are</i> in a simulation, you could argue that nothing matters. We have no free will. We’re not even real.</p>
-<p>But, you could also argue: who cares? Nothing mattered anyway, we had no free will anyway (at least in the eyes of physics and the infinite regress of causality) - and what <i>is</i> real, anyway?</p>
+<p>But, you could also argue: who cares? Nothing mattered anyway, <a href="/articles/free-will-illusion-sam-harris">we had no free will</a> anyway - and what <i>is</i> real, anyway?</p>
 <h4 class="blockquote fade-right">But, you could also argue: who cares? Nothing mattered anyway, we had no free will anyway (at least in the eyes of physics and the infinite regress of causality) - and what <i>is</i> real, anyway?</h4>
 <p>The possibility of being in a simulation shouldn’t really alter the way we live. We can reassure ourselves with <a href="/articles/hallucinating-with-descartes">Descartes’s <i>cogito ergo sum</i></a> - even if we live in a virtual world, at least we exist. It’s still our job to ascribe meaning to our lives.</p>
 <p>If you wanted to get really tinfoil hat, you could even say that living in a simulation is almost comforting.</p>
