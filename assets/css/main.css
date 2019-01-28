@@ -59,8 +59,8 @@ div.section-break {width: 50px; border-bottom: solid 4px #36b4ff; margin-top: 2e
 /*logo*/
 a.logo {display: flex; align-items: flex-start; text-decoration: none; padding-top: 2px; box-shadow: none;}
 a.logo:hover {color: #1a1a1a;}
-a.logo img {width: 60px; border-radius: 50%; position: relative; z-index: 2; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
-a.logo h1 {margin-left: 10px; font-size: 17px; margin-top: 0.5em; padding-top: 5px; font-weight: bold;}
+a.logo img {width: 60px; border-radius: 50%; position: relative; z-index: 2; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
+a.logo h1 {margin-left: 10px; font-size: 17px; margin-top: 0.5em; padding-top: 5px;}
 /*menus*/
 .nav-flex {display: flex; align-items: center; justify-content: space-between;}
 ul#desktop-menu {list-style-type: none; margin-top: -14px; display: flex; align-items: center;}
@@ -71,7 +71,7 @@ ul#desktop-menu a li {display: inline; font-size: 17px;}
 #mobile-trigger.change .bar1 {-webkit-transform: rotate(-45deg) translate(-9px, 6px); transform: rotate(-45deg) translate(-5px, 4px);}
 #mobile-trigger.change .bar2 {opacity: 0;}
 #mobile-trigger.change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px); transform: rotate(45deg) translate(-4px, -4px);}
-ul#mobile-menu {background-color: #fff; text-align: right; list-style-type: none; position: absolute; right: 0; z-index: 3; height: 100%; box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); visibility:hidden;}
+ul#mobile-menu {background-color: #fff; text-align: right; list-style-type: none; position: absolute; right: 0; z-index: 3; height: 100%; -webkit-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); visibility:hidden;}
 ul#mobile-menu a {display: block;}
 ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
 
@@ -117,12 +117,12 @@ ul#mobile-menu a li {margin: 1.5em 12px 1.5em 1.5em; font-size: 22px;}
 }
 
 /***mailchimp form***/
-#mc_embed_signup {width: 100%; padding: 35px 0;}
+#mc_embed_signup {width: 100%; padding: 40px 0 35px;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
-#mc_embed_signup input {padding: 0.8em 1em; font-family: 'Spectral', serif; border-radius: 25px; border: solid 1px #151515; font-size: 16px; width: 70%; line-height: normal;}
-#mc_embed_signup input[type="email"] {padding-right: 16%; font-weight: bold; color: #36b4ff;}
-#mc_embed_signup input[type="submit"] {width: 40%; cursor: pointer; margin-left: -14%; color: #fff; background: linear-gradient(to right top, #000000, #151515);}
-#mc_embed_signup input:focus {border: solid 1px #36b4ff; outline: none;}
+#mc_embed_signup input {padding: 0.9em 1.6em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
+#mc_embed_signup input[type="email"] {padding-right: 16%; color: #36b4ff;}
+#mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -14%; color: #fff; background: linear-gradient(to right top, #000000, #151515);}
+#mc_embed_signup input:focus {outline: none; -webkit-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); -moz-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); box-shadow: 0 0 20px rgba(21, 71, 100, 0.3);}
 #mc_embed_signup input.required:invalid {border-color: red;}
 #mc_embed_signup p {margin-bottom: 0;}
 
