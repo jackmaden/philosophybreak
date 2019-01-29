@@ -26,7 +26,7 @@ And, as uncomfortable as this may be, it's very much backed by neuroscientific r
 
 In <a href="https://www.ncbi.nlm.nih.gov/pubmed/21486293" target="_blank">another study</a>, subjects were asked to press one of two buttons while watching a clock composed of a random sequence of letters on a screen. The experimenters used functional magnetic resonance imaging (fMRI) to show that two brain regions contained information about which button subjects would press a full _seven to ten seconds_ before the decision was consciously made.
 
-Finally, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21315264" target="_blank">more recently</a>, direct recordings from the cortex have shown that the activity of just 256 neurons is sufficient to predict with 80% accuracy a persons's decision to move 700 milliseconds before they become aware of it.
+Finally, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21315264" target="_blank">more recently</a>, direct recordings from the cortex have shown that the activity of just 256 neurons is sufficient to predict with 80% accuracy a person's decision to move 700 milliseconds before they become aware of it.
 
 As Harris comments:
 
