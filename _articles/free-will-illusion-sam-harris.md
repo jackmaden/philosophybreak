@@ -72,7 +72,7 @@ Besides, if our free agency extends to decisions made by unconscious neural netw
 In Harris's view, therefore, compatibilists like Dennett do not address the root issues surrounding free will, rather they change the subject by redefining what it means to be free, and by extending our idea of agency.
 
 <p class="caption"><img alt="octopus" class="full-width" src="/assets/images/octopus.jpg">
-<span class="caption-pointer">▲</span>The octopus is fiercely intelligent, but it's uncontroversial that along with all other animals it's driven by its genetics and environment.</p>
+<span class="caption-pointer">▲</span>The octopus is fiercely intelligent. Does free will have a place in the animal kingdom?</p>
 
 Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his <a target="_blank" href="https://samharris.org/reflections-on-free-will/">book-length review of Harris's Free Will</a>. Harris then <a target="_blank" href="https://samharris.org/the-marionettes-lament/">responds to that response</a>, eventually leading the two of them to <a target="_blank" href="https://samharris.org/podcasts/free-will-revisited/">record a podcast</a>, in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 
