@@ -1,12 +1,12 @@
 ---
 layout: default
-title: articles
+title: Articles
 permalink: /articles/
 ---
 
 {% for article in site.articles %}
     <a class="featured-image" style="background-image: url('{{ article.image }}');" href="{{ article.url }}">
-        <h1>{{ article.title }}</h1>
+        <h1><span>{{ article.title }}</span></h1>
     </a>
 {% endfor %}
 
