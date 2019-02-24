@@ -68,12 +68,17 @@ a.logo img.reduce-size {width: 63px; -webkit-transform-style: preserve-3d;
 #menu-trigger.change .bar2 {opacity: 0;}
 #menu-trigger.change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px); transform: rotate(45deg) translate(-4px, -4px);}
 /*menu*/
-ul#menu {background-color: rgba(255, 255, 255, 0.9); list-style-type: none; position: fixed; z-index: 1; min-height: 100%; -webkit-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); right: -300px; transition: all 0.3s linear;}
+ul#menu {background-color: rgba(255, 255, 255, 0.9); list-style-type: none; position: fixed; z-index: 1; min-height: 100%; -webkit-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); right: -400px; transition: all 0.3s linear;}
 ul#menu.show {right: 0 !important;} /*show menu*/
 ul#menu h3 {margin-left: 44px; margin-top: 36px;}
+ul#menu h3 small {display: block; font-size: 12px;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
-@media (min-width: 620px) {ul#menu h3 {font-size: 32px;} ul#menu li {font-size: 22px; margin: 2em 1.25em;}}
+@media (min-width: 620px) {
+  ul#menu h3 {font-size: 32px;} 
+  ul#menu h3 small {font-size: 15px;}
+  ul#menu li {font-size: 22px; margin: 2em 1.25em;}
+}
 
 /*initially position menu off screen*/
 @media (min-width: 400px) {
@@ -110,12 +115,12 @@ ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
 .featured-image-full:before {background-color: rgba(0,0,0,0.1); content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}*/
 .featured-image-full div {position: absolute; margin: 0 12px; top: 28%; transition: all 0.5s ease-out; opacity: 0;}
 .featured-image-full div h1, .featured-image-full div h4, .featured-image-full div h4 a {color: #fff;}
-.featured-image-full div h4:first-of-type {margin-top: 0.1em;}
-.featured-image-full div h4:last-of-type {margin-top: 2.2em;}
+.featured-image-full div h4:first-of-type {margin-top: 0.1em; font-size: 20px;}
+.featured-image-full div h4:last-of-type {margin-top: 1.5em; font-size: 18px;}
 .featured-image-full div h4 a:hover {background-color: #36b4ff;}
 @media (min-width: 620px) {
   .featured-image-full div {width: 600px; left: 0; right: 0; margin: 0 auto;}
-  .featured-image-full div h4:first-of-type {font-size: 28px;}
+  .featured-image-full div h4:first-of-type {font-size: 25px;}
 }
 
 /***article styling***/
@@ -133,6 +138,25 @@ ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
 }
 
 /***mailchimp form***/
+/*nav*/
+#nav-sign-up {width: 100%; max-width: 340px; padding: 0 1em; box-sizing: border-box;}
+#nav-sign-up p {font-size: 12px; margin-top: -2em;}
+#nav-sign-up input {padding: 0.8em 1.1em; font-size: 12px; box-sizing: border-box; font-family: 'Spectral', serif; border-radius: 40px; outline: none; border: none; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
+#nav-sign-up input[type="email"] {width: 75%; padding-right: 23%; background-color: rgba(255, 255, 255, 0.4); transition: background-color 0.3s;}
+#nav-sign-up input[type="submit"] {margin-left: -22%; width: 45%; color: #fff; background: linear-gradient(to right top, #000000, #151515);}
+#nav-sign-up input:focus {outline: none;}
+#nav-sign-up input[type="email"]:focus {outline: none; background-color: #fff;}
+#nav-sign-up input.required:invalid {border-color: red;}
+@media (max-width: 340px) {
+  #nav-sign-up input[type="email"] {width: 65%;}
+}
+@media (min-width: 620px) {
+  #nav-sign-up {padding: 0 2em;}
+  #nav-sign-up p, #nav-sign-up input {font-size: 15px;}
+}
+
+
+/*footer*/
 #mc_embed_signup {width: 100%; padding: 40px 0 35px;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
 #mc_embed_signup input {padding: 0.9em 1.5em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
