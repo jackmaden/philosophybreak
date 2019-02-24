@@ -19,7 +19,15 @@ $(document).ready(function() {
 		//make menu width of trigger's centre & show
 		$menu.css('width', triggerXCenter).toggleClass('show');
 		$menuHeader.css('margin-top', triggerYCenter); //header vertical align
+		//toggle scrolling
+		if ($menu.hasClass('show')) {
+			$('html').css("overflow-y", "hidden");
+		} else {
+    $('html').css("overflow-y", "visible");
+		}
 	});
+
+
 	//FEATURED IMAGE FULL
 	//center title vertically
 	$('.featured-image-full div').css({'top' : '40%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
@@ -47,7 +55,7 @@ $(document).ready(function() {
 		if ($menu.hasClass('show')) {
 			$menu.removeClass('show');
 		}*/
-		
+
 		//BLOCKQUOTE
 		//when fade-right divs -mostly blockquote atm- 20px from bottom of viewport, add fade in animation
 		$('.fade-right').each(function(i) {
