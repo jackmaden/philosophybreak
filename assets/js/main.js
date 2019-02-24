@@ -41,12 +41,13 @@ $(document).ready(function() {
 			$trigger.removeClass('reduce-size');
 		}
 		//slide menu out if open on scroll & reset mobile trigger
-		if ($trigger.hasClass('change')) {
+		/*if ($trigger.hasClass('change')) {
 			$trigger.removeClass('change');
 		}
 		if ($menu.hasClass('show')) {
 			$menu.removeClass('show');
-		}
+		}*/
+		
 		//BLOCKQUOTE
 		//when fade-right divs -mostly blockquote atm- 20px from bottom of viewport, add fade in animation
 		$('.fade-right').each(function(i) {
