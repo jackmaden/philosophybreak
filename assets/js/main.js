@@ -19,12 +19,6 @@ $(document).ready(function() {
 		//make menu width of trigger's centre & show
 		$menu.css('width', triggerXCenter).toggleClass('show');
 		$menuHeader.css('margin-top', triggerYCenter); //header vertical align
-		//toggle scrolling
-		if ($menu.hasClass('show')) {
-			$('html').css("overflow-y", "hidden");
-		} else {
-    $('html').css("overflow-y", "visible");
-		}
 	});
 
 
@@ -49,12 +43,12 @@ $(document).ready(function() {
 			$trigger.removeClass('reduce-size');
 		}
 		//slide menu out if open on scroll & reset mobile trigger
-		/*if ($trigger.hasClass('change')) {
+		if ($trigger.hasClass('change')) {
 			$trigger.removeClass('change');
 		}
 		if ($menu.hasClass('show')) {
 			$menu.removeClass('show');
-		}*/
+		}
 
 		//BLOCKQUOTE
 		//when fade-right divs -mostly blockquote atm- 20px from bottom of viewport, add fade in animation

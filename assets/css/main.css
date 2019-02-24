@@ -68,7 +68,7 @@ a.logo img.reduce-size {width: 63px; -webkit-transform-style: preserve-3d;
 #menu-trigger.change .bar2 {opacity: 0;}
 #menu-trigger.change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px); transform: rotate(45deg) translate(-4px, -4px);}
 /*menu*/
-ul#menu {background-color: rgba(255, 255, 255, 0.9); list-style-type: none; position: fixed; z-index: 1; min-height: 100%; -webkit-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); right: -400px; transition: all 0.3s linear;}
+ul#menu {background-color: rgba(255, 255, 255, 0.95); list-style-type: none; position: fixed; z-index: 1; min-height: 120%; -webkit-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); box-shadow: -10px 8px 10px rgba(0, 0, 0, 0.2); right: -400px; transition: all 0.3s linear;}
 ul#menu.show {right: 0 !important;} /*show menu*/
 ul#menu h3 {margin-left: 44px; margin-top: 36px;}
 ul#menu h3 small {display: block; font-size: 12px;}
