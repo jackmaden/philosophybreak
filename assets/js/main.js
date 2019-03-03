@@ -62,4 +62,9 @@ $(document).ready(function() {
 		});
 	});//end window scroll
 
+	//LAZYLOAD
+	var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".lazy"
+	});
+
 });//end document ready

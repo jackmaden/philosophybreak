@@ -3,7 +3,8 @@ layout: default
 ---
 
 <!--title-->
-<div class="featured-image" style="background-image: url('{{page.image}}');">
+<div class="title">
+    <img srcset="{{page.image-small}} 700w, {{page.image}} 1400w, {{page.image-large}} 2100w" src="{{page.image}}" alt="{{page.image-alt}}">
     <h1><span>{{page.title}}</span></h1>
 </div>
 

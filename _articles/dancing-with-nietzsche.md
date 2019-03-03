@@ -2,7 +2,9 @@
 title: Dancing with Nietzsche
 description: Discover how Nietzsche's Perspectivism provides a compelling approach to thinking about the world -- as well as our place in it.
 image: /assets/images/dancing-with-nietzsche.jpg
-gradient: 0.9
+image-alt: nietzsche perspectivism
+image-small: /assets/images/dancing-with-nietzsche-small.jpg
+image-large: /assets/images/dancing-with-nietzsche-large.jpg
 ---
 
 <p><span class="big-letter">Y</span>ou may or may not be familiar with the below quotation. It bounds across the internet in meme form, usually laid over images of silhouetted people dancing at sunset... or on underground train carriages.</p>
@@ -12,8 +14,10 @@ gradient: 0.9
 <h2>Nietzsche is not an enigma</h2>
 <p><span class="big-letter">T</span>he very form of quotations – the apostrophes clothing the words before that combined hammer-blow of surname and full stop – fixes our attention, arouses our curiosity. Listen up brain, our eyes signal, this statement is followed by a mysterious, virtually unpronounceable surname, and therefore taps into an esoteric realm of knowledge and meaning that we must pay attention to.</p>
 <p>‘Nietzsche’ thus appears as an enigmatic accompaniment to a lofty statement, an exotic brand, an unknowable badge of authenticity… when in actual fact, Friedrich Nietzsche (pronounced neat-cha) was simply a troubled German guy from the 19th century with a bonkers moustache and a brilliant mind.</p>
-<p class="caption"><img alt="nietzsche" class="full-width" src="/assets/images/nietzsche.jpg">
-<span class="caption-pointer">▲</span>Apparently Nietzsche's moustache paved the way for the modern shoe brush.</p>
+<div class="article-image" style="padding-bottom: 106.85%;">
+    <img class="lazy" data-src="/assets/images/nietzsche.jpg" alt="Nietzsche">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Apparently Nietzsche's moustache paved the way for the modern shoe brush.</p>
 <p>Nietzsche wrestled not with obscure inaccessible esoteric realms. Rather, he simply attempted to unpack why we label some things 'good' and others 'evil', how these judgements are formed, and ultimately how we can transcend such categories to each fulfil our true potential and become the best possible version of ourselves.</p>
 <p>Let’s return to our initial quotation, which is a good route into Nietzsche’s thinking:</p>
 <h4 class="blockquote fade-right">And those who were seen dancing were thought to be insane by those who could not hear the music.</h4>
@@ -32,8 +36,10 @@ gradient: 0.9
 <p>This might seem an obvious point – hardly profound – but Perspectivism is actually rather controversial.</p>
 <p>Astrophysicists, for instance, would certainly dismiss the idea that there are a number of different ways to think about, say, the nature of the universe.</p>
 <p>That life is governed by the laws of physics, they would argue, rests on solid mathematical foundations and myriad experiential data: it is <i>the</i> correct and objectively true way to think about the universe.</p>
-<p class="caption"><img alt="telescope" class="full-width" src="/assets/images/nietzsche-science.jpeg">
-<span class="caption-pointer">▲</span>Telescopes. The only perspective?</p>
+<div class="article-image" style="padding-bottom: 66.4%;">
+    <img class="lazy" data-src="/assets/images/nietzsche-science.jpeg" alt="telescope">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Telescopes. The only perspective?</p>
 <p>Science’s descriptions have contributed more to the human condition and cohere better with reality than any theological, spiritual, romantic or philosophical viewpoint ever has or indeed could. So, feel free to label all the non-evidence based subjects as mere perspectives, but leave science out of it.</p>
 <p>Is Perspectivism thus a load of rubbish? Does the deeper reading of our quotation merely reveal a flawed idea? Well, let’s consider how Nietzsche could respond to these scientists.</p>
 <p>Sure, he might say, science has been remarkably successful at explaining and harnessing nature for our benefit, but like everything else it remains a human construct.</p>
@@ -41,8 +47,10 @@ gradient: 0.9
 <h4 class="blockquote fade-right">The imperfect theories of science are not eternal; they simply express the way we – with our fleeting, biologically limited existences – currently think the universe works, evidenced by data that we – with our primitive, restrictive tools – have access to.</h4>
 <p>Brilliantly clever? Yes. Wonderfully useful? Yes. Objectively true? Not so sure, for science cannot escape the subjective lens of humankind. Besides, its focus on the physical side of the universe has led to the sacrifice of something rather significant: meaning.</p>
 <p>Take the heart. Is it only a lump of muscle that pumps blood around the body? Or is it, too, a hackneyed metaphor for love? Take stars. Are they only burning masses of exploding gasses, billions of miles away? Or are they, too, the inspiration for a million teenage poets, who weave their hopeless troubles into the night’s sky?</p>
-<p class="caption"><img alt="stars" class="full-width" src="/assets/images/nietzsche-stars.jpg">
-<span class="caption-pointer">▲</span>Twinkle, twinkle, ickle stars.</p>
+<div class="article-image" style="padding-bottom: 51.72%;">
+    <img class="lazy" data-src="/assets/images/nietzsche-stars.jpg" alt="stars">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Twinkle, twinkle, ickle stars.</p>
 <p>The point, to put an end to this overblown language, is that surely there is a place for all these things: surely our worldview is enriched by collating different perspectives, by thinking of the universe not only in terms of how it works but also in terms of what it means.</p>
 <p>Living in an internet age in which mortal battles in online comments sections rage on a daily basis, we could perhaps learn from the thought that none of us really perceive or opine <i>the</i> truth, as such truth may be permanently denied to us due to our limited and finite perspectives.</p>
 <p>So, rather than dismiss as insane or stupid opinions that we can’t understand or that differ from our own dogmatic agendas, if we were to consider and combine our subjective perspectives in a rational and thoughtful way, then perhaps, as well as learn something new, we might all get along a bit better, too.</p>

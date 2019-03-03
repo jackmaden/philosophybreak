@@ -2,7 +2,9 @@
 title: Why You Probably Don't Have Free Will
 description: Neuroscientist and philosopher Sam Harris argues that free will is an illusion. In his view, we are the mere conscious witnesses of decisions that deep in our brains have already been made.
 image: /assets/images/free-will.jpg
-gradient: 0.6
+image-alt: free will illusion
+image-small: /assets/images/free-will-small.jpg
+image-large: /assets/images/free-will-large.jpg
 ---
 
 <span class="big-letter">W</span>hat did you have for breakfast this morning? Was it delicious? Was it one to forget? Whatever it was, you didn't choose to have it. You might think you did. But, in actuality, you didn't. And though you may have had the conscious awareness of choice - porridge or toast? coffee or tea? - and remember making an active decision, the fact is you could not have selected any other option. Any decision you think you may have made was simply an illusion.
@@ -11,8 +13,10 @@ And, unfortunately, it doesn't just stop at breakfast. Or lunch. Or dinner. Or i
 
 At least, that's what American neuroscientist and philosopher Sam Harris would tell you.
 
-<p class="caption"><img alt="sam-harris" class="full-width" src="/assets/images/sam-harris.jpg">
-<span class="caption-pointer">▲</span>Sam Harris, giving a speech he couldn't say no to.</p>
+<div class="article-image" style="padding-bottom: 92.83%;">
+    <img class="lazy" data-src="/assets/images/sam-harris.jpg" alt="sam harris">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Sam Harris, giving a speech he couldn't say no to.</p>
 
 In his short but persuasive book, <a href="https://www.docdroid.net/5ty6HuO/free-will-sam-harris.pdf" target="_blank">Free Will</a>, Harris writes:
 
@@ -56,8 +60,10 @@ Discussing a full summary of compatibilist positions on free will is beyond the 
 
 Dennett argues that even if our thoughts and actions are the product of unconscious causes, they are still _ours_. Anything that our brains do or decide is something _we_ have done or decided. All Harris has done in his analysis is drive a wedge between our conscious and unconscious selves: we are still free to consciously shape our worlds - and so influence our unconscious - however we desire.
 
-<p class="caption"><img alt="daniel-dennett" class="full-width" src="/assets/images/daniel-dennett.jpg">
-<span class="caption-pointer">▲</span>Daniel Dennett, posing of his own free will.</p>
+<div class="article-image" style="padding-bottom: 66.16%;">
+    <img class="lazy" data-src="/assets/images/daniel-dennett.jpg" alt="daniel dennett">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Daniel Dennett, posing of his own free will.</p>
 
 But, in Harris's view, therein the preceding sentence lies the crux of our misunderstanding around free will: where, in this case, does the 'desire' according to which we'd like to shape the world come from?
 
@@ -71,8 +77,10 @@ Besides, if our free agency extends to decisions made by unconscious neural netw
 
 In Harris's view, therefore, compatibilists like Dennett do not address the root issues surrounding free will, rather they change the subject by redefining what it means to be free, and by extending our idea of agency.
 
-<p class="caption"><img alt="octopus" class="full-width" src="/assets/images/octopus.jpg">
-<span class="caption-pointer">▲</span>The octopus is fiercely intelligent. Does free will have a place in the animal kingdom?</p>
+<div class="article-image" style="padding-bottom: 67%;">
+    <img class="lazy" data-src="/assets/images/octopus.jpg" alt="octopus">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>The octopus is fiercely intelligent. Does free will have a place in the animal kingdom?</p>
 
 Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his <a target="_blank" href="https://samharris.org/reflections-on-free-will/">book-length review of Harris's Free Will</a>. Harris then <a target="_blank" href="https://samharris.org/the-marionettes-lament/">responds to that response</a>, eventually leading the two of them to <a target="_blank" href="https://samharris.org/podcasts/free-will-revisited/">record a podcast</a>, in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 

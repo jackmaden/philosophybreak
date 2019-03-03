@@ -1,8 +1,10 @@
 ---
 title: Hallucinating with Descartes
 description: Discover how Descartes' Skepticism provides a compelling comment on epistemology, as well as a controversial approach to thinking about the world.
-image: /assets/images//hallucinating-with-descartes.jpg
-gradient: 0.4
+image: /assets/images/hallucinating-with-descartes.jpg
+image-alt: descartes i think therefore i am
+image-small: /assets/images/hallucinating-with-descartes-small.jpg
+image-large: /assets/images/hallucinating-with-descartes-large.jpg
 ---
 
 <p><span class="big-letter">H</span>ave you ever woken from a dream and thought, ‘but my God, that seemed so real’? Have you ever hallucinated your tits off? Have you ever <i>sworn</i> to have witnessed something when someone else swears to have witnessed something else?</p>
@@ -13,8 +15,10 @@ gradient: 0.4
 <h4 class="blockquote fade-right">You are just a lump of animated carbon whose short time on a rocky planet hurtling round an average star will be fleeting, forgotten and, ultimately, pointless.</h4>
 <p>So you sigh, pick yourself up, stick the kettle on and read some Descartes. But uh oh. Here come those bloody <i>thoughts</i> again.</p>
 <p>You see, 17th Century French philosopher René Descartes – he’s a <i>professional</i> doubter: the unhappy father of that bastard of a philosophical movement, <a target="_blank" href="https://plato.stanford.edu/entries/skepticism/">Skepticism</a>.</p>
-<p class="caption"><img alt="descartes" class="full-width" src="/assets/images/descartes.jpg">
-<span class="caption-pointer">▲</span>René Descartes, meaning business.</p>
+<div class="article-image" style="padding-bottom: 73.4%;">
+    <img class="lazy" data-src="/assets/images/descartes.jpg" alt="descartes">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>René Descartes, meaning business.</p>
 <p>What most people quickly dismiss as a childish, narcissistic thought – that the universe was built to deceive its central character: you – the bosom of his great intellect nursed into a nightmarish, crippling existential crisis.</p>
 <h2>Descartes's demolition</h2>
 <p><span class="big-letter">D</span>escartes was worried that if the foundations of knowledge were not completely solid then anything built upon them would inevitably collapse. He thus decided that if there was reason to doubt the truth of something – no matter how slim the doubt – then it should be discarded as false.</p>
@@ -22,8 +26,10 @@ gradient: 0.4
 <h4 class="blockquote fade-right">I am here quite alone, and at last I will devote myself sincerely and without reservation to the general demolition of my opinions.</h4>
 <p>That the authenticity of our experience can be occasionally doubted is enough for Descartes to dismiss it as absolutely false: that our senses can sometimes mislead us without our knowing suggests that they could mislead us all the time.</p>
 <p>And, if we cannot trust information obtained from our senses, then how can we confirm the existence of an external world?</p>
-<p class="caption"><img alt="optical-illusion" class="full-width" src="/assets/images/descartes-optical.jpg">
-<span class="caption-pointer">▲</span>Are the dots above black or white? Optical illusions reveal just how easily our brains can be tricked or misled by everyday patterns.</p>
+<div class="article-image" style="padding-bottom: 76.25%;">
+    <img class="lazy" data-src="/assets/images/descartes-optical.jpg" alt="optical illusion">
+</div>
+<p class="caption"><span class="caption-pointer">▲</span>Are the dots above black or white? Optical illusions reveal just how easily our brains can be tricked or misled by everyday patterns.</p>
 <p>Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. Or maybe nothing physical exists at all and this is all just one big hallucination – <i>everything</i> is an illusion, a figment of the mental realm.</p>
 <p>Poor old Descartes got himself into a right state over all this:</p>
 <h4 class="blockquote fade-right">"So serious are the doubts into which I have been thrown as a result of yesterday's meditations that I can neither put them out of my mind nor see any way of resolving them. It feels as if I have fallen unexpectedly into a deep whirlpool which tumbles me around so that I can neither stand on the bottom nor swim up to the top" — René’s Big Night in (1641).</h4>

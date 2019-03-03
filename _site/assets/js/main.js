@@ -18,6 +18,8 @@ $(document).ready(function() {
 		$menu.css('width', triggerXCenter).toggleClass('show');
 		$menuHeader.css('margin-top', triggerYCenter); //header vertical align
 	});
+
+
 	//FEATURED IMAGE FULL
 	//center title vertically
 	$('.featured-image-full div').css({'top' : '40%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
@@ -45,6 +47,7 @@ $(document).ready(function() {
 		if ($menu.hasClass('show')) {
 			$menu.removeClass('show');
 		}
+
 		//BLOCKQUOTE
 		//when fade-right divs -mostly blockquote atm- 20px from bottom of viewport, add fade in animation
 		$('.fade-right').each(function(i) {
@@ -56,5 +59,10 @@ $(document).ready(function() {
 			}
 		});
 	});//end window scroll
+
+	//LAZYLOAD
+	var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".lazy"
+	});
 
 });//end document ready

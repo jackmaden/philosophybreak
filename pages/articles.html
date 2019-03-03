@@ -3,9 +3,17 @@ layout: default
 title: Articles
 permalink: /articles/
 ---
-
-{% for article in site.articles %}
-    <a class="featured-image" style="background-image: url('{{ article.image }}');" href="{{ article.url }}">
+<!--no lazy load-->
+{% for article in site.articles limit:2 %}
+    <a class="title" href="{{ article.url }}">
+        <img srcset="{{article.image-small}} 700w, {{article.image}} 1400w, {{article.image-large}} 2100w" src="{{article.image}}" alt="{{article.image-alt}}">
+        <h1><span>{{ article.title }}</span></h1>
+    </a>
+{% endfor %}
+<!--lazy load-->
+{% for article in site.articles offset:2 %}
+    <a class="title" href="{{ article.url }}">
+        <img class="lazy" data-srcset="{{article.image-small}} 700w, {{article.image}} 1400w, {{article.image-large}} 2100w" data-src="{{article.image}}" alt="{{article.image-alt}}">
         <h1><span>{{ article.title }}</span></h1>
     </a>
 {% endfor %}
