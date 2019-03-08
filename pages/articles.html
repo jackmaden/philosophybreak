@@ -1,22 +1,42 @@
 ---
 layout: default
-title: Articles
+title: Take a Break
 permalink: /articles/
+image: /assets/images/takeabreak.jpg
+image-alt: take a break
+image-small: /assets/images/takeabreak-small.jpg
+image-large: /assets/images/takeabreak-large.jpg
 ---
-<!--no lazy load-->
-{% for article in site.articles limit:2 %}
-    <a class="title" href="{{ article.url }}">
-        <img srcset="{{article.image-small}} 700w, {{article.image}} 1400w, {{article.image-large}} 2100w" src="{{article.image}}" alt="{{article.image-alt}}">
-        <h1><span>{{ article.title }}</span></h1>
-    </a>
-{% endfor %}
-<!--lazy load-->
-{% for article in site.articles offset:2 %}
-    <a class="title" href="{{ article.url }}">
-        <img class="lazy" data-srcset="{{article.image-small}} 700w, {{article.image}} 1400w, {{article.image-large}} 2100w" data-src="{{article.image}}" alt="{{article.image-alt}}">
-        <h1><span>{{ article.title }}</span></h1>
-    </a>
-{% endfor %}
+
+<div class="title">
+    <img srcset="{{page.image-small}} 700w, {{page.image}} 1400w, {{page.image-large}} 2100w" src="{{page.image}}" alt="{{page.image-alt}}">
+    <h1><span>Take a Break ↓</span></h1>
+</div>
+<div class="page-center">
+    <!--no lazy load-->
+    {% for article in site.articles limit:2 %}
+        <div class="article">
+            <a class="article-title" href="{{article.url}}">
+                <img src="{{article.image-small}}" alt="{{article.image-alt}}">
+                <h2><span>{{ article.title }}</span></h2>
+            </a>
+            <p>{{article.description}}</p>
+            <p><a href="{{article.url}}">Take this Break →</a></p>
+        </div>
+    {% endfor %}
+    <!--lazy load-->
+    {% for article in site.articles offset:2 %}
+        <div class="article">
+            <a class="article-title" href="{{article.url}}">
+                <img class="lazy" data-src="{{article.image-small}}" alt="{{article.image-alt}}">
+                <h2><span>{{ article.title }}</span></h2>
+            </a>
+            <p>{{article.description}}</p>
+            <p><a href="{{article.url}}">Take this Break →</a></p>
+        </div>
+    {% endfor %}
+    <div class="section-break"></div>
+</div><!--end page center-->
 
 <!--subscription form-->
 {% include subscription-form.html %}

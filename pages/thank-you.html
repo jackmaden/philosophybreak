@@ -3,10 +3,12 @@ layout: default
 title: Thank you
 permalink: /thank-you/
 image: /assets/images/thanks-subscribe.jpg
-image-alt: philosophy break
+image-alt: mountain range
+image-small: /assets/images/thanks-subscribe-small.jpg
+image-large: /assets/images/thanks-subscribe-large.jpg
 ---
 <div class="title">
-    <img src="{{page.image}}" alt="{{page.image-alt}}">
+    <img srcset="{{page.image-small}} 700w, {{page.image}} 1400w, {{page.image-large}} 2100w" src="{{page.image}}" alt="{{page.image-alt}}">
     <h1><span>Thank you for subscribing</span></h1>
 </div>
 <div class="page-center">

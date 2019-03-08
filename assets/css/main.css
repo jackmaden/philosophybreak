@@ -94,21 +94,21 @@ ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
 }
 
 /***footer***/
-#footer {background: linear-gradient(to right top, #000000, #1a1a1a); padding: 3em 0 1.5em;}
-#footer .footer-links p, #footer .footer-links p a {color: #fff; font-size: 16px;}
-#footer .footer-links p a {box-shadow: none; text-decoration: underline;}
+#footer {background-color: #000000; padding: 4em 0 2em;}
+#footer .footer-links p, #footer .footer-links p a {color: #fff; font-size: 16px; text-decoration: none;}
 #footer .footer-links p a:hover {color: #36b4ff;}
-#footer .footer-links p.copyright {font-size: 12px;color: #fff;}
+#footer p.copyright {font-size: 12px;color: #fff;}
 
 /***title module***/
-.title {background-color: #000000; position: relative; width: 100%; display: block; margin-bottom: 65px; height: 80vh;}
-.title img {position: absolute; top: 0; left: 0; width: 100%; height: 80vh; object-fit: cover;}
+.title {background-color: #000000; position: relative; width: 100%; display: block; margin-bottom: 65px; height: 75vh;}
+.title img {position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;}
 .title h1 {color: #fff;position: absolute; bottom: -40px; margin: 0 12px; letter-spacing: -1px; line-height: 1.4;}
 .title h1 span {background-color: #000000;}
 @media (min-width: 620px) {
   .title h1 {width: 600px; left: 0; right: 0; margin: 0 auto;}
 }
-/*featured image full screen (homepage)*/
+
+/***featured image full screen (homepage)***/
 .featured-image-full {height: 100vh; width: 100%; overflow: hidden; background-size: cover; background-position: center center; position: relative;}
 /*darkener
 .featured-image-full:before {background-color: rgba(0,0,0,0.1); content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}*/
@@ -137,31 +137,22 @@ ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
   .big-letter {font-size: 112px;}
 }
 
-/***mailchimp form***/
-/*nav*/
-#nav-sign-up {width: 100%; max-width: 340px; padding: 0 1em; box-sizing: border-box;}
-#nav-sign-up p {font-size: 12px; margin-top: -2em;}
-#nav-sign-up input {padding: 0.8em 1.1em; font-size: 12px; box-sizing: border-box; font-family: 'Spectral', serif; border-radius: 40px; outline: none; border: none; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
-#nav-sign-up input[type="email"] {width: 75%; padding-right: 23%; background-color: rgba(255, 255, 255, 0.4); transition: background-color 0.3s;}
-#nav-sign-up input[type="submit"] {margin-left: -22%; width: 45%; color: #fff; background: linear-gradient(to right top, #000000, #1a1a1a);}
-#nav-sign-up input:focus {outline: none;}
-#nav-sign-up input[type="email"]:focus {outline: none; background-color: #fff;}
-#nav-sign-up input.required:invalid {border-color: red;}
-@media (max-width: 340px) {
-  #nav-sign-up input[type="email"] {width: 65%;}
-}
-@media (min-width: 620px) {
-  #nav-sign-up {padding: 0 2em;}
-  #nav-sign-up p, #nav-sign-up input {font-size: 15px;}
-}
+/***article listing***/
+.article:first-of-type {margin-top: 6em;}
+.article {margin: 4em 0;}
+.article a.article-title {display: block; position: relative; width: 100%; height: 40vh; background-color: #000000;}
+.article a.article-title img {width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;}
+.article a.article-title h2 {position: absolute; bottom: -30px; margin: 0; color: #fff; line-height: 1.4;}
+.article a.article-title h2 span {background-color: #000000;}
+.article p {margin-top: 50px;}
+.article p:last-child {margin-top: 0;}
 
-
-/*footer*/
+/***form***/
 #mc_embed_signup {width: 100%; padding: 40px 0 35px;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
 #mc_embed_signup input {padding: 0.9em 1.5em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
-#mc_embed_signup input[type="email"] {padding-right: 16%; color: #36b4ff;}
-#mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -14%; color: #fff; background: linear-gradient(to right top, #000000, #1a1a1a);}
+#mc_embed_signup input[type="email"] {padding-right: 16%;}
+#mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -14%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);;}
 #mc_embed_signup input:focus {outline: none; -webkit-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); -moz-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); box-shadow: 0 0 20px rgba(21, 71, 100, 0.3);}
 #mc_embed_signup input.required:invalid {border-color: red;}
 #mc_embed_signup p {margin-bottom: 0;}
