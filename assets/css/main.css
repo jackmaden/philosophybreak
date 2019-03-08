@@ -151,7 +151,7 @@ ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
 #mc_embed_signup {width: 100%; padding: 40px 0 35px;}
 #mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em;}
 #mc_embed_signup input {padding: 0.9em 1.5em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
-#mc_embed_signup input[type="email"] {padding-right: 16%;}
+#mc_embed_signup input[type="email"] {padding-right: 16%; color: #282828}
 #mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -14%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);;}
 #mc_embed_signup input:focus {outline: none; -webkit-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); -moz-box-shadow: 0 0 20px rgba(21, 71, 100, 0.3); box-shadow: 0 0 20px rgba(21, 71, 100, 0.3);}
 #mc_embed_signup input.required:invalid {border-color: red;}
