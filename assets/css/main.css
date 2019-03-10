@@ -51,7 +51,7 @@ a {color: #282828; text-decoration: underline; text-decoration-color: #36b4ff;}
 a:hover {color: #36b4ff;}
 
 /***section breaks***/
-div.section-break {width: 50px; border-bottom: solid 4px #36b4ff; margin-top: 2em;}
+div.section-break {width: 100%; border-bottom: solid 4px #fff; margin-top: 2em;}
 
 /***nav***/
 /*logo*/
