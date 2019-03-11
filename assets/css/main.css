@@ -108,7 +108,7 @@ ul#menu #menu-social-icons a:hover svg path {fill: #36b4ff;}
 /***footer***/
 #footer {background-color: #000000; padding: 2em 0;}
 #footer .copyright-social {display: flex; justify-content: space-between; align-items: center;}
-#footer .copyright-social span:first-child {font-size: 14px;color: #f4f4f4;}
+#footer .copyright-social span:first-child {font-size: 16px; color: #f4f4f4;}
 #footer .copyright-social .social-icons {margin-left: auto;}
 #footer .copyright-social .social-icons a {margin-left: 10px;}
 #footer .copyright-social .social-icons a svg {height: 22px;}
@@ -118,7 +118,6 @@ ul#menu #menu-social-icons a:hover svg path {fill: #36b4ff;}
 #footer .copyright-social .social-icons a:hover svg path {fill: #36b4ff;}
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
-  #footer .copyright-social span:first-child {font-size: 16px;}
 }
 
 /***title module***/
