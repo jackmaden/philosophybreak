@@ -76,6 +76,7 @@ ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
 ul#menu li {margin: 2em 1em; padding-bottom: 8px; font-size: 18px; border-bottom: solid 1px #36b4ff;}
 ul#menu li:first-of-type {margin-top: 2.5em;}
+ul#menu li:last-of-type {padding-bottom: 5px;}
 /*social icons*/
 ul#menu #menu-social-icons {display: flex; align-items: flex-start;}
 ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 9px;}
