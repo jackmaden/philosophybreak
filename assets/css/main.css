@@ -74,10 +74,10 @@ ul#menu h3 {margin-left: 44px; margin-top: 36px;}
 ul#menu h3 small {display: block; font-size: 12px;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
-ul#menu li:first-of-type {margin-top: 2.5em;}
+ul#menu li {margin: 2em 1em; padding-bottom: 8px; font-size: 18px; border-bottom: solid 1px #36b4ff;}
+ul#menu li:first-of-type {margin-top: 3em;}
 /*social icons*/
-ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 2px;}
+ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 6px;}
 ul#menu #menu-social-icons a svg {height: 18px;}
 ul#menu #menu-social-icons a svg path {fill: #282828;}
 ul#menu #menu-social-icons a:hover {background: transparent;}
