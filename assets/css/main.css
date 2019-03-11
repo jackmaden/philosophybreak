@@ -47,7 +47,7 @@ p {line-height: 1.5; margin: 1em 0; font-size: 18px;}
 @media (min-width: 620px) {
   p {font-size: 20px;}
 }
-a {color: #282828; text-decoration: underline; text-decoration-color: #36b4ff;}
+a {color: #282828; text-decoration: underline; -webkit-text-decoration-color: #36b4ff; -ms-text-decoration-color: #36b4ff; -moz-text-decoration-color: #36b4ff; text-decoration-color: #36b4ff;}
 a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
 
 /***section breaks***/
@@ -75,9 +75,10 @@ ul#menu h3 small {display: block; font-size: 12px;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
 ul#menu li {margin: 2em 1em; padding-bottom: 8px; font-size: 18px; border-bottom: solid 1px #36b4ff;}
-ul#menu li:first-of-type {margin-top: 3em;}
+ul#menu li:first-of-type {margin-top: 2.5em;}
 /*social icons*/
-ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 6px;}
+ul#menu #menu-social-icons {display: flex;}
+ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 9px;}
 ul#menu #menu-social-icons a svg {height: 18px;}
 ul#menu #menu-social-icons a svg path {fill: #282828;}
 ul#menu #menu-social-icons a:hover {background: transparent;}
@@ -86,7 +87,7 @@ ul#menu #menu-social-icons a:hover svg path {fill: #36b4ff;}
   ul#menu h3 {font-size: 32px;} 
   ul#menu h3 small {font-size: 15px;}
   ul#menu li {font-size: 22px; margin: 2em 1.25em;}
-  ul#menu #menu-social-icons a {margin-left: 3px; margin-right: 5px;}
+  ul#menu #menu-social-icons a {margin-left: 3px; margin-right: 10px;}
   ul#menu #menu-social-icons a svg {height: 22px;}
 }
 
