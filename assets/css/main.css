@@ -75,11 +75,10 @@ ul#menu h3 small {display: block; font-size: 12px;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
 ul#menu li {margin: 2em 1em; font-size: 18px; border-bottom: solid 1px #36b4ff;}
-ul#menu li:last-of-type {margin-bottom: 12px;}
+ul#menu li:first-of-type {margin-top: 2.5em;}
 /*social icons*/
-ul#menu #menu-social-icons {margin-left: 1.2em;}
-ul#menu #menu-social-icons a {margin-right: 8px;}
-ul#menu #menu-social-icons a svg {height: 22px;}
+ul#menu #menu-social-icons a {margin-left: 2px; margin-right: 2px;}
+ul#menu #menu-social-icons a svg {height: 18px;}
 ul#menu #menu-social-icons a svg path {fill: #282828;}
 ul#menu #menu-social-icons a:hover {background: transparent;}
 ul#menu #menu-social-icons a:hover svg path {fill: #36b4ff;}
@@ -87,7 +86,8 @@ ul#menu #menu-social-icons a:hover svg path {fill: #36b4ff;}
   ul#menu h3 {font-size: 32px;} 
   ul#menu h3 small {font-size: 15px;}
   ul#menu li {font-size: 22px; margin: 2em 1.25em;}
-  ul#menu #menu-social-icons {margin-left: 1.85em;}
+  ul#menu #menu-social-icons a {margin-left: 3px; margin-right: 5px;}
+  ul#menu #menu-social-icons a svg {height: 22px;}
 }
 
 /*initially position menu off screen*/
