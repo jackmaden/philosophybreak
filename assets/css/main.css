@@ -76,7 +76,7 @@ ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
 ul#menu li {margin: 2em 1em; font-size: 18px;}
 ul#menu li a {display: flex; align-items: center;}
-ul#menu li a svg {margin-right: 9px; width: 20px; height: 20px;}
+ul#menu li a svg {margin-right: 6px; width: 20px; height: 20px;}
 ul#menu li a span {margin-top: 1px;}
 ul#menu li a svg path {fill: #36b4ff;}
 @media (min-width: 620px) {
