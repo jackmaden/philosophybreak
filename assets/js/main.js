@@ -19,6 +19,7 @@ $(document).ready(function() {
 		//make menu width of trigger's centre & show
 		$menu.css('width', triggerXCenter).toggleClass('show');
 		$menuHeader.css('margin-top', triggerYCenter); //header vertical align
+		$menuHeader.css('margin-bottom', triggerYCenter); //header vertical align
 	});
 
 
