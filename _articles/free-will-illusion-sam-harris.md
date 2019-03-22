@@ -20,7 +20,7 @@ At least, that's what American neuroscientist and philosopher Sam Harris would t
 
 In his short but persuasive book, <a href="https://www.docdroid.net/5ty6HuO/free-will-sam-harris.pdf" target="_blank">Free Will</a>, Harris writes:
 
-<h4 class="blockquote fade-right">"Free will <i>is</i> an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have."</h4>
+<blockquote class="fade-right">"Free will <i>is</i> an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have."</blockquote>
 
 And, as uncomfortable as this may be, it's very much backed by neuroscientific research.
 
@@ -34,7 +34,7 @@ Finally, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21315264" target="_blank">
 
 As Harris comments:
 
-<h4 class="blockquote">"These findings are difficult to reconcile with the sense that we are the conscious authors of our actions. One fact now seems indisputable: some moments <i>before</i> you are aware of what you will do next - a time in which you subjectively appear to have complete freedom to behave however you please - your brain has already determined what you will do. You then become conscious of this 'decision' and believe that you are in the process of making it."</h4>
+<blockquote>"These findings are difficult to reconcile with the sense that we are the conscious authors of our actions. One fact now seems indisputable: some moments <i>before</i> you are aware of what you will do next - a time in which you subjectively appear to have complete freedom to behave however you please - your brain has already determined what you will do. You then become conscious of this 'decision' and believe that you are in the process of making it."</blockquote>
 
 "The phrase 'free will'", therefore, as Harris later clarifies, simply "describes what it feels like to identify with certain mental states as they arise in consciousness" -- and our 'freedom' constitutes nothing more than this illusory feeling of control.
 
@@ -45,7 +45,7 @@ In other words, we are the mere conscious witnesses to decisions that, deep in o
 
 <span class="big-letter">O</span>n Harris's view, your genetics, your childhood, your environment -- all of the stimuli you're made up of and exposed to has conditioned your brain, in this moment, to read these very words; and if or when you stop, again, it won't be because you've consciously decided to do so -- it will be the result of a lifetime's worth of conditioning forged into your brain, a historical architecture of decision making that causes you to act the way you do at any given moment. As he states:
 
-<h4 class="blockquote">"Take a moment to think about the context in which your next decision will occur: You did not pick your parents or the time and place of your birth. You didn't choose your gender or most of your life experiences. You had no control whatsoever over your genome or the development of your brain. And now your brain is making choices on the basis of preferences and beliefs that have been hammered into it over a lifetime — by your genes, your physical development since the moment you were conceived, and the interactions you have had with other people, events, and ideas. Where is the freedom in this?"</h4>
+<blockquote>"Take a moment to think about the context in which your next decision will occur: You did not pick your parents or the time and place of your birth. You didn't choose your gender or most of your life experiences. You had no control whatsoever over your genome or the development of your brain. And now your brain is making choices on the basis of preferences and beliefs that have been hammered into it over a lifetime — by your genes, your physical development since the moment you were conceived, and the interactions you have had with other people, events, and ideas. Where is the freedom in this?"</blockquote>
 
 You might now stop and start reading again at random just to spite this hypothesis.
 
@@ -73,7 +73,7 @@ So Harris says to Dennett: we have no _control_ over how or why we desire what w
 
 Besides, if our free agency extends to decisions made by unconscious neural networks in our brain, as Dennett posits, does this mean it also includes the 'decisions' made by other organs we have no awareness of, like our digestive tracts, livers, and kidneys? As Harris states:
 
-<h4 class="blockquote fade-right">"To say that you are responsible for everything that goes on inside your skin because it's all 'you' is to make a claim that bears absolutely no relationship to the feelings of agency and moral responsibility that have made the idea of free will an enduring problem for philosophy."</h4>
+<blockquote class="fade-right">"To say that you are responsible for everything that goes on inside your skin because it's all 'you' is to make a claim that bears absolutely no relationship to the feelings of agency and moral responsibility that have made the idea of free will an enduring problem for philosophy."</blockquote>
 
 In Harris's view, therefore, compatibilists like Dennett do not address the root issues surrounding free will, rather they change the subject by redefining what it means to be free, and by extending our idea of agency.
 
@@ -96,9 +96,9 @@ But it's important not to mix determinism - the view that all events are complet
 
 Our choices matter. What we decide to do shapes the paths we take in life. The point is that _we cannot decide what we will decide to do_. As Harris summarises:
 
-<h4 class="blockquote">"You can change your life, and yourself, through effort and discipline - but you have whatever capacity for effort and discipline you have in this moment, and not a scintilla more (or less). You are either lucky in this department or you aren't - and you cannot make your own luck.
+<blockquote>"You can change your life, and yourself, through effort and discipline - but you have whatever capacity for effort and discipline you have in this moment, and not a scintilla more (or less). You are either lucky in this department or you aren't - and you cannot make your own luck.
 <br><br>
-"...choices, efforts, intentions, and reasoning influence our behavior - but they are themselves part of a chain of causes that precede conscious awareness and over which we exert no ultimate control. My choices matter - and there are paths toward making wiser ones - but I cannot choose what I choose."</h4>
+"...choices, efforts, intentions, and reasoning influence our behavior - but they are themselves part of a chain of causes that precede conscious awareness and over which we exert no ultimate control. My choices matter - and there are paths toward making wiser ones - but I cannot choose what I choose."</blockquote>
 
 This conclusion - that our choices matter but that we cannot choose them - has profound consequences for our ideas of personal and moral responsibility -- not to mention blame, justice, success, failure, and the entirety of our social, societal, and legal systems.
 
@@ -106,7 +106,7 @@ This conclusion - that our choices matter but that we cannot choose them - has p
 
 <span class="big-letter">I</span>f all of our choices are pre-determined, the idea that we are morally responsible for our actions takes a serious hit. As Harris says:
 
-<h4 class="blockquote fade-right">"The men and women on death row have some combination of bad genes, bad parents, bad environments, and bad ideas (and the innocent, of course, have supremely bad luck). Which of these quantities, exactly, were they responsible for?"</h4>
+<blockquote class="fade-right">"The men and women on death row have some combination of bad genes, bad parents, bad environments, and bad ideas (and the innocent, of course, have supremely bad luck). Which of these quantities, exactly, were they responsible for?"</blockquote>
 
 If we recognise that even the most 'evil' or dangerous people in existence are, at root, unlucky to be who they are, "the logic of hating (as opposed to fearing) them begins to unravel."
 
@@ -114,7 +114,7 @@ Our concept of justice, therefore, should reflect the fact that any of us could 
 
 Of course, removing personal responsibility from the picture doesn't mean that people who consistently cause harm to others should be encouraged to roam free. The moral justification for criminalising such behaviour, says Harris, is straightforward: everyone else is better off this way. As he states:
 
-<h4 class="blockquote fade-right">"If we could incarcerate earthquakes and hurricanes for their crimes, we would build prisons for them as well."</h4>
+<blockquote class="fade-right">"If we could incarcerate earthquakes and hurricanes for their crimes, we would build prisons for them as well."</blockquote>
 
 ## The levelling of a pre-determined world
 

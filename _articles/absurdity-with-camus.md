@@ -25,7 +25,7 @@ image-large: /assets/images/camus-large.jpg
 <h2>The consequences of living in absurdity</h2>
 <p><span class="big-letter">I</span>f we grant Camus that we <i>do</i> occupy this absurd space of yearning but never finding, it could be said that almost all of our concerns simply don’t matter, for on this view all of our beliefs, thoughts, and actions towards the world become trivial and meaningless. We are all Sisyphus, pointlessly rolling our boulders. Powerless. Petrified in absurdity like insects in amber.</p>
 <p>In this picture one concern <i>does</i> remain, however -- and it's a big one.</p>
-<h4 class="blockquote fade-right">"There is only one really serious philosophical question," Camus says, "and that is suicide. Deciding whether or not life is worth living is to answer the fundamental question in philosophy."</h4>
+<blockquote class="fade-right">"There is only one really serious philosophical question," Camus says, "and that is suicide. Deciding whether or not life is worth living is to answer the fundamental question in philosophy."</blockquote>
 <p>Yikes.</p>
 <p>To sum up, then, according to Camus: we live in absurdity, we cannot escape this absurdity, and - due to the fact we are condemned never to comprehend the ultimate nature of existence - the only act that can have any bearing on our condition is suicide.</p>
 <p>So far, so bleak -- pointlessness, futility, suicide… On Camus’s view the answer to the question of whether or not life is worth living surely seems only to point one way...</p>
@@ -37,9 +37,9 @@ image-large: /assets/images/camus-large.jpg
 </div>
 <p class="caption"><span class="caption-pointer">▲</span>Go on son!</p>
 <p>After the rock tumbles down - confirming the ultimate futility of his project - Sisyphus marches down after it. <i>This</i>, thinks Camus, is the moment Sisyphus's absurd fate is wholly laid bare, and where he attains full tragic consciousness.</p>
-<h4 class="blockquote fade-right">Trudging down the mountainside, he recognises the full extent of his wretched condition, yet "all Sisyphus's silent joy is contained therein. His fate belongs to him. His rock is his thing."</h4>
+<blockquote class="fade-right">Trudging down the mountainside, he recognises the full extent of his wretched condition, yet "all Sisyphus's silent joy is contained therein. His fate belongs to him. His rock is his thing."</blockquote>
 <p>In other words, if - as Camus imagines Sisyphus does - we take ownership of and responsibility for our own lives, if we avoid false solutions and <i>accept</i> our condition, we establish purpose - even happiness - in the face of absurdity.</p>
 <p>Just as Sisyphus accepts the futility of his punishment and thereby reshapes his tragic fate, Camus thinks, we become fully alive through acknowledging the hopelessness of the human condition. By approaching life with full consciousness, with vitality and intensity, by becoming the masters of our absurd fate -- this is how we answer the question of suicide, how we defy futility and establish what it means to live.</p>
 <p>Ultimately, then, while Camus believes we are condemned to absurdity by the human condition, his point is that that's not necessarily a bad thing -- in fact it's only by accepting this absurdity that a truly authentic life can be lived.</p>
 <p>Indeed, as Camus concludes:</p>
-<h4 class="blockquote fade-right">"The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."</h4>
+<blockquote class="fade-right">"The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."</blockquote>
