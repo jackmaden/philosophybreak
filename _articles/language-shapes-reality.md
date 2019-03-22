@@ -36,7 +36,7 @@ The languages we speak, it seems, shape everything we do: from how we process ex
 <div class="article-image" style="padding-bottom: 56.33%;">
     <img class="lazy" data-src="/assets/images/chimp-language.jpg" alt="chimpanzee">
 </div>
-<p class="caption"><span class="caption-pointer">▲</span>Chimpanzee brain structures - as well as their senses of sight, smell, hearing, and touch - are much like our own.</p>
+<p class="caption"><span class="caption-pointer">▲</span>Chimpanzee brain structures - as well as their senses of sight, smell, hearing, and touch - are very similar to those of humans.</p>
 
 A being’s _umwelt_ is made up of more than its sensory perception, however. It’s also shaped by the concepts it uses to model and interpret the world - concepts learned from culture. Indeed, observations of culture within different species have led to some compelling findings, <a href="https://theconversation.com/a-chimpanzee-cultural-collapse-is-underway-and-its-driven-by-humans-113133" target="_blank">as discussed in The Conversation</a>:
 
