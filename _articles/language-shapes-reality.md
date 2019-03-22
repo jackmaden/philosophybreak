@@ -62,4 +62,4 @@ If each language is a cognitive universe, our specialisations and interests are 
 </div>
 <p class="caption"><span class="caption-pointer">▲</span>Starry Night, a product of Vincent Van Gogh's <i>umwelt</i>.</p>
 
-Language is a strange, wonderful thing. It both contextualises and enables us to share our experiences. By broadening our linguistic capabilities and vocabularies, we broaden our cognitive universes - and so we deepen our understanding of the world, each other, and ourselves. Indeed: if our _umwelts_ are of our own making, how will you shape yours?
+Language is a strange, wonderful thing. It both contextualises and enables us to share our experiences. By broadening our linguistic capabilities and vocabularies, we broaden our cognitive universes - and so deepen our understanding of the world, each other, and ourselves. Indeed: if our _umwelts_ are of our own making, how will you shape yours?
