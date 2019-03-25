@@ -11,7 +11,25 @@ layout: default
 <!--copy-->
 <div class="page-center">
     {{ content }}
-    <div class="section-break"></div>
+</div>   
+
+<!--related articles-->
+<div class="white-section" style="margin-top: 3em;">
+    <div class="page-center">
+        <h3 style="margin-top: 1.5em;">Take another break ↓</h3>
+        <div id="related-articles">
+            {% assign filtered_articles = site.articles | where_exp: 'article', 'article.url != page.url' %}
+            {% assign random_articles = filtered_articles | sample: 4 %}
+            {% for article in random_articles %}
+                <div class="article">
+                    <a class="article-title" href="{{article.url}}">
+                        <img class="lazy" data-src="{{article.image-small}}" alt="{{article.image-alt}}">
+                        <h4><span>{{ article.title }}</span></h4>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
 </div>
 
 <!--subscription form-->
