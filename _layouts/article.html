@@ -16,7 +16,7 @@ layout: default
 <!--related articles-->
 <div class="white-section" style="margin-top: 3em;">
     <div class="page-center">
-        <h3 style="margin-top: 1.5em;">Take another break ↓</h3>
+        <p style="margin-top: 2em;"><i>What did you think of this break? <a href="#" target="_blank">Let us know on Instagram</a>. In the meantime, here are some other breaks we think you'll enjoy:</i></p>
         <div id="related-articles">
             {% assign filtered_articles = site.articles | where_exp: 'article', 'article.url != page.url' %}
             {% assign random_articles = filtered_articles | sample: 4 %}
