@@ -51,7 +51,7 @@ a {color: #282828; text-decoration: underline; -webkit-text-decoration-color: #3
 a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
 
 /***section breaks***/
-div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 4em;}
+div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em;}
 
 /***nav***/
 /**logo**/
@@ -104,11 +104,11 @@ ul#menu li a svg path {fill: #36b4ff;}
 /***footer***/
 #footer {background-color: #000000; padding: 2em 0;}
 #footer .copyright-social {display: flex; justify-content: space-between; align-items: center;}
-#footer .copyright-social span:first-child {font-size: 16px; color: #f4f4f4;}
+#footer .copyright-social span:first-child {font-size: 16px; color: #fff;}
 #footer .copyright-social .social-icons {margin-left: auto;}
 #footer .copyright-social .social-icons a {margin-left: 6px;}
 #footer .copyright-social .social-icons a svg {width: 22px; height: 22px;}
-#footer .copyright-social .social-icons a svg path {fill: #f4f4f4;}
+#footer .copyright-social .social-icons a svg path {fill: #fff;}
 /*social icon hover*/
 #footer .copyright-social .social-icons a:hover {background: transparent;}
 #footer .copyright-social .social-icons a:hover svg path {fill: #36b4ff;}
@@ -138,11 +138,22 @@ ul#menu li a svg path {fill: #36b4ff;}
   .featured-image-full div h4:first-of-type {font-size: 25px;}
 }
 
-/***article styling***/
+/***article listing***/
+.article:first-of-type {margin-top: 6em;}
+.article {margin: 4em 0;}
+.article a.article-title {display: block; position: relative; width: 100%; height: 350px; background-color: #000000;}
+.article a.article-title img {margin-left: -12px; width: calc(100% + 24px); height: 100%; object-fit: cover; position: absolute; top: 0;}
+@media (min-width: 620px) {.article a.article-title img {margin-left: 0; width: 100%;}}
+.article a.article-title h2, .article a.article-title h4 {position: absolute; bottom: -30px; margin: 0; color: #fff; line-height: 1.4;}
+.article a.article-title h2 span, .article a.article-title h4 span {background-color: #000000;}
+.article p {margin-top: 50px;}
+.article p:last-child {margin-top: 0;}
+
+/***in-article styling***/
 /*blockquote*/
 blockquote {border-left: solid 4px #e9e9e9; padding: 0 16px; color: #8c8c8c; margin: 1em 0; font-weight: lighter; line-height: 1.4; font-size: 22px;}
 /*article image*/
-.article-image {margin-top: 1.5em; height: 0; position: relative; background-color: #8c8c8c;}
+.article-image {margin-top: 1.5em; height: 0; position: relative; background-color: #e9e9e9;}
 .article-image img {width: 100%; height: auto; position: absolute;}
 /*caption*/
 .caption {font-size: 14px; margin-top: 10px; color: #8c8c8c;}
@@ -153,26 +164,29 @@ blockquote {border-left: solid 4px #e9e9e9; padding: 0 16px; color: #8c8c8c; mar
   .big-letter {font-size: 112px;}
 }
 
-/***article listing***/
-.article:first-of-type {margin-top: 6em;}
-.article {margin: 4em 0;}
-.article a.article-title {display: block; position: relative; width: 100%; height: 40vh; background-color: #000000;}
-.article a.article-title img {margin-left: -12px; width: calc(100% + 24px); height: 100%; object-fit: cover; position: absolute; top: 0;}
-@media (min-width: 620px) {.article a.article-title img {margin-left: 0; width: 100%;}}
-.article a.article-title h2 {position: absolute; bottom: -30px; margin: 0; color: #fff; line-height: 1.4;}
-.article a.article-title h2 span {background-color: #000000;}
-.article p {margin-top: 50px;}
-.article p:last-child {margin-top: 0;}
+/*related articles*/
+.white-section {background-color: #fff; padding: 0.5em 0;}
+#related-articles {display: flex; flex-wrap: wrap; margin-bottom: 3.5em;}
+#related-articles .article {width: 48.5%; margin: 1.5em 0;}
+#related-articles .article:nth-child(odd) {margin-right: 3%;}
+#related-articles .article .article-title {height: 140px;}
+#related-articles .article .article-title img {width: 100%; margin: 0;}
+#related-articles .article .article-title h4 {font-size: 18px; bottom: -22px;}
+@media (min-width: 620px) {
+    #related-articles {margin-bottom: 5em;}
+    #related-articles .article .article-title {height: 200px;}
+    #related-articles .article .article-title h4 {font-size: 24px;}
+}
 
 /***form***/
-#mc_embed_signup {width: 100%; padding: 40px 0 35px;}
-#mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /*iphone shadow fix*/-webkit-appearance: none;}
+#mc_embed_signup {width: 100%; padding: 50px 0 0; background-color: #000;}
+#mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px;}
 #mc_embed_signup input {padding: 0.9em 1.5em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal;}
 #mc_embed_signup input[type="email"] {padding-right: 16%; color: #282828;}
-#mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -14%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);;}
+#mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -15%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);;}
 #mc_embed_signup input:focus {outline: none;}
 #mc_embed_signup input.required:invalid {border-color: red;}
-#mc_embed_signup p {margin-bottom: 0;}
+#mc_embed_signup p {margin-bottom: 0; color: #fff;}
 
 /***animations***/
 /*fadeInRight*/
