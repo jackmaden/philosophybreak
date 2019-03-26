@@ -164,28 +164,28 @@ blockquote {border-left: solid 4px #e9e9e9; padding: 0 16px; color: #8c8c8c; mar
   .big-letter {font-size: 112px;}
 }
 /*related articles*/
-.white-section {background-color: #fff; padding: 0.5em 0;}
-#related-articles {display: flex; flex-wrap: wrap; margin-bottom: 2.5em;}
+.white-section {background-color: #fff; padding: 0.25em 0;}
+#related-articles {display: flex; flex-wrap: wrap; margin-bottom: 3em;}
 #related-articles .article {width: 48.5%; margin: 1.5em 0;}
 #related-articles .article:nth-child(odd) {margin-right: 3%;}
 #related-articles .article .article-title {height: 140px;}
 #related-articles .article .article-title img {width: 100%; margin: 0;}
 #related-articles .article .article-title h4 {font-size: 18px; bottom: -22px;}
 @media (min-width: 620px) {
-    #related-articles {margin-bottom: 3em;}
+    #related-articles {margin-bottom: 4em;}
     #related-articles .article .article-title {height: 200px;}
     #related-articles .article .article-title h4 {font-size: 24px;}
 }
 
 /***form***/
-#mc_embed_signup {width: 100%; padding: 50px 0 0; background-color: #000;}
-#mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px;}
+#mc_embed_signup {width: 100%; padding: 40px 0 35px;}
+#mc_embed_signup form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none;}
 #mc_embed_signup input {padding: 0.9em 1.5em; font-family: 'Spectral', serif; border-radius: 40px; border: none; font-size: 18px; width: 70%; line-height: normal;}
 #mc_embed_signup input[type="email"] {padding-right: 16%; color: #282828;}
 #mc_embed_signup input[type="submit"] {width: 45%; cursor: pointer; margin-left: -15%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);;}
 #mc_embed_signup input:focus {outline: none;}
 #mc_embed_signup input.required:invalid {border-color: red;}
-#mc_embed_signup p {margin-bottom: 0; color: #fff;}
+#mc_embed_signup p {margin-bottom: 0;}
 
 /***animations***/
 /*fadeInRight*/
