@@ -11,16 +11,18 @@ layout: default
 <!--copy-->
 <div class="page-center">
     {{ content }}
-    <div class="section-break"></div>
-</div>   
+</div>
+<div class="meta">
+    <p class="page-center"><img src="/assets/images/pbgradthin.svg" alt="philosophy break">{{page.published}}&nbsp;&nbsp;|&nbsp;&nbsp;Written by <a href="{{page.author-link}}" target="_blank">{{page.author}}</a></p>
+</div>
 
 <!--subscription form-->
 {% include subscription-form.html %}
 
 <!--related articles-->
-<div class="white-section" style="margin-top: 1em;">
+<div class="white-section">
     <div class="page-center">
-        <h3 style="margin-top: 1.5em; margin-bottom: 0.5em;">Take another break</h3>
+        <h3 style="margin-top: 1em; margin-bottom: 0;">Take another break</h3>
         <div id="related-articles">
             {% assign filtered_articles = site.articles | where_exp: 'article', 'article.url != page.url' %}
             {% assign random_articles = filtered_articles | sample: 4 %}

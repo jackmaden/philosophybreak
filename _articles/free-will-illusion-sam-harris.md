@@ -1,6 +1,9 @@
 ---
 title: Why You Probably Don't Have Free Will
 description: Neuroscientist and philosopher Sam Harris argues that free will is an illusion. In his view, we are the mere conscious witnesses of decisions that deep in our brains have already been made.
+published: February 2019
+author: Jack Maden
+author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/free-will.jpg
 image-alt: free will illusion
 image-small: /assets/images/free-will-small.jpg

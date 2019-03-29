@@ -1,6 +1,9 @@
 ---
 title: Dancing with Nietzsche
 description: Discover how 19th-century philosopher Friedrich Nietzsche's Perspectivism provides a compelling approach to thinking about the world -- as well as our place in it.
+published: October 2018
+author: Jack Maden
+author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/dancing-with-nietzsche.jpg
 image-alt: nietzsche perspectivism
 image-small: /assets/images/dancing-with-nietzsche-small.jpg

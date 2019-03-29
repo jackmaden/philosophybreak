@@ -1,6 +1,9 @@
 ---
 title: How the Languages We Speak Shape Our Realities
-description: There are around 7,000 human languages spoken across the globe, all with unique sounds, vocabularies, and structures. Discover how each language shapes our cognition and profoundly changes the way we experience the world.   
+description: There are around 7,000 human languages spoken across the globe, all with unique sounds, vocabularies, and structures. Discover how each language shapes our cognition and profoundly changes the way we experience the world.
+published: March 2019
+author: Jack Maden
+author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/language.jpg
 image-alt: hawaii coastline
 image-small: /assets/images/language-small.jpg

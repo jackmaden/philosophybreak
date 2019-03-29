@@ -1,6 +1,9 @@
 ---
 title: Hallucinating with Descartes
 description: Discover how 17th-century philosopher Descartes' Skepticism provides a compelling comment on epistemology, as well as a controversial approach to thinking about the world.
+published: November 2018
+author: Jack Maden
+author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/hallucinating-with-descartes.jpg
 image-alt: descartes i think therefore i am
 image-small: /assets/images/hallucinating-with-descartes-small.jpg
