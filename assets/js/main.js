@@ -9,7 +9,7 @@ $(document).ready(function() {
 					
 	//on click
 	$trigger.on('click', function() {
-	var	documentWidth = $(document).width(),
+	var	documentWidth = $(window).width(),
 		triggerXCoords = $trigger.offset().left + ($trigger[0].getBoundingClientRect().width / 2),
 		triggerXCenter = documentWidth - triggerXCoords,
 		triggerYCoords = $trigger.position().top + ($trigger[0].getBoundingClientRect().height / 2),
@@ -22,10 +22,33 @@ $(document).ready(function() {
 		$menuHeader.css('margin-bottom', triggerYCenter); //header vertical align
 	});
 
-
 	//FEATURED IMAGE FULL
 	//center title vertically
-	$('.featured-image-full div').css({'top' : '40%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
+	$('.featured-image-full div').css({'top' : '47%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
+
+	//CAROUSEL & TITLE
+	var $carouselTitle = $('.carousel-cell .title-center'),
+			$articleTitle = $('.title .title-center');
+	//for each carousel title, center vertically & fade in
+	$carouselTitle.each(function() {
+		$(this).css({'margin-bottom' : -$(this).outerHeight()/2, 'opacity' : '1'});
+	});
+	//position article title & fade in
+	$articleTitle.css({'bottom' : '10%', 'opacity' : '1'});
+
+
+	//FLICKITY
+	$('.main-carousel').flickity({
+		// options
+		cellAlign: 'left',
+		contain: true,
+		wrapAround: true, 
+		autoPlay: 6000,
+		setGallerySize: false,
+		pauseAutoPlayOnHover: false,
+		lazyLoad: 1,
+		prevNextButtons: false
+	});
 
 	//FORM VALIDATION
 	$('[type="submit"]').on('click', function () {
@@ -33,8 +56,22 @@ $(document).ready(function() {
     $(this).closest('form').find('[required]').addClass('required');
 	});
 
+	//SMOOTH SCROLLING
+	// Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+        window.location.hash = hash;
+      });
+    }
+  });
+
 	//on scroll
-	$(window).scroll(function () {
+	$(window).on('scroll', function() {
 		//reduce nav size when not at top
 		if ($(this).scrollTop() > 50) {
 			$logo.addClass('reduce-size');
