@@ -27,14 +27,43 @@ $(document).ready(function() {
 	$('.featured-image-full div').css({'top' : '47%', 'opacity' : '1', 'margin-top' : -$('.featured-image-full div').outerHeight()/2});
 
 	//CAROUSEL & TITLE
-	var $carouselTitle = $('.carousel-cell .title-center'),
-			$articleTitle = $('.title .title-center');
+	var $carousel = $('.main-carousel'),
+			$carouselCell = $('.carousel-cell'),
+			$title = $('.title'),
+			$carouselTitle = $('.carousel-cell .title-center'),
+			$articleTitle = $('.title .title-center'),
+			windowHeight = $(window).height();
+	//set 100vh to windowheigbt
+	$carousel.css({'height' : windowHeight});
+	$carouselCell.css({'height' : windowHeight});
+	$title.css({'height' : windowHeight});
 	//for each carousel title, center vertically & fade in
 	$carouselTitle.each(function() {
 		$(this).css({'margin-bottom' : -$(this).outerHeight()/2, 'opacity' : '1'});
 	});
 	//position article title & fade in
 	$articleTitle.css({'bottom' : '10%', 'opacity' : '1'});
+
+	//on resize
+	$(window).on('resize', function() {
+		//CAROUSEL & TITLE
+		var $carousel = $('.main-carousel'),
+		$carouselCell = $('.carousel-cell'),
+		$title = $('.title'),
+		$carouselTitle = $('.carousel-cell .title-center'),
+		$articleTitle = $('.title .title-center'),
+		windowHeight = $(window).height();
+		//set 100vh to windowheigbt
+		$carousel.css({'height' : windowHeight});
+		$carouselCell.css({'height' : windowHeight});
+		$title.css({'height' : windowHeight});
+		//for each carousel title, center vertically & fade in
+		$carouselTitle.each(function() {
+		$(this).css({'margin-bottom' : -$(this).outerHeight()/2, 'opacity' : '1'});
+		});
+		//position article title & fade in
+		$articleTitle.css({'bottom' : '10%', 'opacity' : '1'});
+	});
 
 
 	//FLICKITY
