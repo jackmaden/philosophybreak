@@ -2,7 +2,10 @@
 title: Why You Probably Don't Have Free Will
 description: Neuroscientist and philosopher Sam Harris argues that free will is an illusion. In his view, we are the mere conscious witnesses of decisions that deep in our brains have already been made.
 published: February 2019
+order: 5
+minutes: 8
 author: Jack Maden
+author-pic: /assets/images/pbgradthin.svg
 author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/free-will.jpg
 image-alt: free will illusion
@@ -12,7 +15,7 @@ image-large: /assets/images/free-will-large.jpg
 
 <span class="big-letter">W</span>hat did you have for breakfast this morning? Was it delicious? Was it one to forget? Whatever it was, you didn't choose to have it. You might think you did. But, in actuality, you didn't. And though you may have had the conscious awareness of choice - porridge or toast? coffee or tea? - and remember making an active decision, the fact is you could not have selected any other option. Any decision you think you may have made was simply an illusion.
 
-And, unfortunately, it doesn't just stop at breakfast. Or lunch. Or dinner. Or in fact _any decision you ever remember making_. Everything you've done couldn't possibly have happened any other way, and everything you will do will be decided for you -- without any input from your conscious self.
+And, unfortunately, it doesn't just stop at breakfast. Or lunch. Or dinner. Or in fact _any decision you ever remember making_. Everything you've done couldn't possibly have happened any other way, and everything you will do will be decided for you – without any input from your conscious self.
 
 At least, that's what American neuroscientist and philosopher Sam Harris would tell you.
 
@@ -21,7 +24,7 @@ At least, that's what American neuroscientist and philosopher Sam Harris would t
 </div>
 <p class="caption"><span class="caption-pointer">▲</span>Sam Harris, giving a speech he couldn't say no to.</p>
 
-In his short but persuasive book, <a href="https://www.docdroid.net/5ty6HuO/free-will-sam-harris.pdf" target="_blank">Free Will</a>, Harris writes:
+In his short but persuasive book, <a href="https://www.docdroid.net/5ty6HuO/free-will-sam-harris.pdf" target="_blank" rel="noopener">Free Will</a>, Harris writes:
 
 <blockquote class="fade-right">"Free will <i>is</i> an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have."</blockquote>
 
@@ -29,30 +32,30 @@ And, as uncomfortable as this may be, it's very much backed by neuroscientific r
 
 ## Decisions in the brain occur before you are conscious of them
 
-<span class="big-letter">I</span>n a famous experiment in the 1980s, physiologist <a href="https://www.ncbi.nlm.nih.gov/pubmed/6640273" target="_blank">Benjamin Libet used an electroencephalogram (EEG)</a> to demonstrate that activity in the brain's motor cortex can be detected _300 milliseconds_ before a person feels they've decided to move.
+<span class="big-letter">I</span>n a famous experiment in the 1980s, physiologist <a href="https://www.ncbi.nlm.nih.gov/pubmed/6640273" target="_blank" rel="noopener">Benjamin Libet used an electroencephalogram (EEG)</a> to demonstrate that activity in the brain's motor cortex can be detected _300 milliseconds_ before a person feels they've decided to move.
 
-In <a href="https://www.ncbi.nlm.nih.gov/pubmed/21486293" target="_blank">another study</a>, subjects were asked to press one of two buttons while watching a clock composed of a random sequence of letters on a screen. The experimenters used functional magnetic resonance imaging (fMRI) to show that two brain regions contained information about which button subjects would press a full _seven to ten seconds_ before the decision was consciously made.
+In <a href="https://www.ncbi.nlm.nih.gov/pubmed/21486293" target="_blank" rel="noopener">another study</a>, subjects were asked to press one of two buttons while watching a clock composed of a random sequence of letters on a screen. The experimenters used functional magnetic resonance imaging (fMRI) to show that two brain regions contained information about which button subjects would press a full _seven to ten seconds_ before the decision was consciously made.
 
-Finally, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21315264" target="_blank">more recently</a>, direct recordings from the cortex have shown that the activity of just 256 neurons is sufficient to predict with 80% accuracy a person's decision to move 700 milliseconds before they become aware of it.
+Finally, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21315264" target="_blank" rel="noopener">more recently</a>, direct recordings from the cortex have shown that the activity of just 256 neurons is sufficient to predict with 80% accuracy a person's decision to move 700 milliseconds before they become aware of it.
 
 As Harris comments:
 
 <blockquote>"These findings are difficult to reconcile with the sense that we are the conscious authors of our actions. One fact now seems indisputable: some moments <i>before</i> you are aware of what you will do next - a time in which you subjectively appear to have complete freedom to behave however you please - your brain has already determined what you will do. You then become conscious of this 'decision' and believe that you are in the process of making it."</blockquote>
 
-"The phrase 'free will'", therefore, as Harris later clarifies, simply "describes what it feels like to identify with certain mental states as they arise in consciousness" -- and our 'freedom' constitutes nothing more than this illusory feeling of control.
+"The phrase 'free will'", therefore, as Harris later clarifies, simply "describes what it feels like to identify with certain mental states as they arise in consciousness" – and our 'freedom' constitutes nothing more than this illusory feeling of control.
 
 In other words, we are the mere conscious witnesses to decisions that, deep in our brains, have already been made.
 
 
 ## Hammering the point home
 
-<span class="big-letter">O</span>n Harris's view, your genetics, your childhood, your environment -- all of the stimuli you're made up of and exposed to has conditioned your brain, in this moment, to read these very words; and if or when you stop, again, it won't be because you've consciously decided to do so -- it will be the result of a lifetime's worth of conditioning forged into your brain, a historical architecture of decision making that causes you to act the way you do at any given moment. As he states:
+<span class="big-letter">O</span>n Harris's view, your genetics, your childhood, your environment – all of the stimuli you're made up of and exposed to has conditioned your brain, in this moment, to read these very words; and if or when you stop, again, it won't be because you've consciously decided to do so – it will be the result of a lifetime's worth of conditioning forged into your brain, a historical architecture of decision making that causes you to act the way you do at any given moment. As he states:
 
 <blockquote>"Take a moment to think about the context in which your next decision will occur: You did not pick your parents or the time and place of your birth. You didn't choose your gender or most of your life experiences. You had no control whatsoever over your genome or the development of your brain. And now your brain is making choices on the basis of preferences and beliefs that have been hammered into it over a lifetime — by your genes, your physical development since the moment you were conceived, and the interactions you have had with other people, events, and ideas. Where is the freedom in this?"</blockquote>
 
 You might now stop and start reading again at random just to spite this hypothesis.
 
-You might think, 'I am _consciously deciding_ to read this article, and if you or Sam Harris continue to baselessly claim I have no agency I might just stop.' Well, here at philosophy break we hope you don't stop -- but according to the viewpoint under discussion neither you nor we (nor even Sam Harris) has any bearing over whether or not that actually happens. You have no choice in how you act. You have will -- but it is not free.
+You might think, 'I am _consciously deciding_ to read this article, and if you or Sam Harris continue to baselessly claim I have no agency I might just stop.' Well, here at philosophy break we hope you don't stop – but according to the viewpoint under discussion neither you nor we (nor even Sam Harris) has any bearing over whether or not that actually happens. You have no choice in how you act. You have will – but it is not free.
 
 
 ## Can we rescue free will from neuroscience?
@@ -72,7 +75,7 @@ But, in Harris's view, therein the preceding sentence lies the crux of our misun
 
 In fact, what is the source of _any_ of our thoughts, impulses, or desires? Do we consciously create them? Do they originate in consciousness? Harris argues no: rather, he thinks - and as anyone who has attempted or practises meditation can attest - they _appear_ in consciousness. It thus follows that any conscious intention to 'shape our unconscious' is itself a product of our unconscious workings.
 
-So Harris says to Dennett: we have no _control_ over how or why we desire what we desire -- we simply _experience_ these desires. And how does passively witnessing our unconscious workings in any way constitute 'freedom'?
+So Harris says to Dennett: we have no _control_ over how or why we desire what we desire – we simply _experience_ these desires. And how does passively witnessing our unconscious workings in any way constitute 'freedom'?
 
 Besides, if our free agency extends to decisions made by unconscious neural networks in our brain, as Dennett posits, does this mean it also includes the 'decisions' made by other organs we have no awareness of, like our digestive tracts, livers, and kidneys? As Harris states:
 
@@ -85,7 +88,7 @@ In Harris's view, therefore, compatibilists like Dennett do not address the root
 </div>
 <p class="caption"><span class="caption-pointer">▲</span>The octopus is fiercely intelligent. Does free will have a place in the animal kingdom?</p>
 
-Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his <a target="_blank" href="https://samharris.org/reflections-on-free-will/">book-length review of Harris's Free Will</a>. Harris then <a target="_blank" href="https://samharris.org/the-marionettes-lament/">responds to that response</a>, eventually leading the two of them to <a target="_blank" href="https://samharris.org/podcasts/free-will-revisited/">record a podcast</a>, in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
+Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his <a target="_blank" rel="noopener" href="https://samharris.org/reflections-on-free-will/">book-length review of Harris's Free Will</a>. Harris then <a target="_blank" rel="noopener" href="https://samharris.org/the-marionettes-lament/">responds to that response</a>, eventually leading the two of them to <a target="_blank" rel="noopener" href="https://samharris.org/podcasts/free-will-revisited/">record a podcast</a>, in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 
 For our purposes in this article, however, we can say that though the argument rages on, Harris's neuroscience-backed case that free will is an illusion - though uncomfortable - is certainly a compelling one, and not easily challenged by competing theories on the subject.
 
@@ -93,7 +96,7 @@ The rather scary question to answer now, therefore, is what if Harris is right?
 
 ## Do our choices matter?
 
-<span class="big-letter">I</span>f, as on Harris's view, our choices aren't free, do they still matter? We might think that, if we have no free will, we may as well just sit back and do nothing -- enjoy the ride of our uncontrollable lives as they play out before us like bizarre long-form experimental theatre performances of which we are mere spectators.
+<span class="big-letter">I</span>f, as on Harris's view, our choices aren't free, do they still matter? We might think that, if we have no free will, we may as well just sit back and do nothing – enjoy the ride of our uncontrollable lives as they play out before us like bizarre long-form experimental theatre performances of which we are mere spectators.
 
 But it's important not to mix determinism - the view that all events are completely determined by pre-existing causes - with fatalism, the view that we are powerless in the face of 'destiny'.
 
@@ -103,7 +106,7 @@ Our choices matter. What we decide to do shapes the paths we take in life. The p
 <br><br>
 "...choices, efforts, intentions, and reasoning influence our behavior - but they are themselves part of a chain of causes that precede conscious awareness and over which we exert no ultimate control. My choices matter - and there are paths toward making wiser ones - but I cannot choose what I choose."</blockquote>
 
-This conclusion - that our choices matter but that we cannot choose them - has profound consequences for our ideas of personal and moral responsibility -- not to mention blame, justice, success, failure, and the entirety of our social, societal, and legal systems.
+This conclusion - that our choices matter but that we cannot choose them - has profound consequences for our ideas of personal and moral responsibility – not to mention blame, justice, success, failure, and the entirety of our social, societal, and legal systems.
 
 ## Are we morally responsible for our actions?
 

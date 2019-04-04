@@ -2,7 +2,10 @@
 title: Are We Living in a Computer Simulation?
 description: Swedish philosopher Nick Bostrom's Simulation Argument is a persuasive argument concluding that the world around us is not real, but simply another person's - or civilization's - virtual reality.
 published: December 2018
+order: 3
+minutes: 3
 author: Jack Maden
+author-pic: /assets/images/pbgradthin.svg
 author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/simulation-bostrom.jpg
 image-alt: living in a simulation bostrom
@@ -10,9 +13,9 @@ image-small: /assets/images/simulation-bostrom-small.jpg
 image-large: /assets/images/simulation-bostrom-large.jpg
 ---
 
-<p><span class="big-letter">H</span>owever unsettling, it’s a persuasive possibility that the world around us is not ‘real’ but simulated by a computer. In 2003, Nick Bostrom - a Swedish philosopher at the University of Oxford - posited <a target="_blank" href="https://www.simulation-argument.com/simulation.html">The Simulation Argument</a>, a compelling line of reasoning with a deeply unsettling conclusion.</p>
+<p><span class="big-letter">H</span>owever unsettling, it’s a persuasive possibility that the world around us is not ‘real’ but simulated by a computer. In 2003, Nick Bostrom - a Swedish philosopher at the University of Oxford - posited <a target="_blank" rel="noopener" href="https://www.simulation-argument.com/simulation.html">The Simulation Argument</a>, a compelling line of reasoning with a deeply unsettling conclusion.</p>
 <p>Bostrom's conclusion suggests that, rather than the fun-loving carbon-based lifeforms we believe ourselves to be, we are in fact the artificial simulations of future civilizations, existent only as silicon chips in their data warehouses.</p>
-<p>That might seem crazy. But consider this. <a target="_blank" href="http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/">It’s widely agreed</a> that our computational power will continue to grow exponentially. And, in principle, there’s no reason why - given the same computational structures and processes - consciousness cannot exist on silicon chip neural networks rather than the neural networks of carbon-based biological lifeforms (more on this later).</p>
+<p>That might seem crazy. But consider this. <a target="_blank" rel="noopener" href="http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/">It’s widely agreed</a> that our computational power will continue to grow exponentially. And, in principle, there’s no reason why - given the same computational structures and processes - consciousness cannot exist on silicon chip neural networks rather than the neural networks of carbon-based biological lifeforms (more on this later).</p>
 <div class="article-image" style="padding-bottom: 78.48%;">
     <img class="lazy" data-src="/assets/images/bostrom.jpg" alt="nick bostrom">
 </div>
@@ -21,7 +24,7 @@ image-large: /assets/images/simulation-bostrom-large.jpg
 <p>Within this introductory context, Bostrom then argues that one of the following three statements <i>must</i> be true:</p>
 <blockquote>1. The human species is very likely to go extinct before reaching a ‘post-human’ stage.<br><br>2. Any ‘post-human' civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations of it).<br><br>3. We are almost certainly living in a computer simulation.</blockquote>
 <p>The first statement is rather depressing. It essentially means that we’ll destroy ourselves before being sufficiently technologically advanced to create simulations of the required nature at all. So let’s be optimistic for a moment and discount it as false.</p>
-<p>The likelihood of the second statement can also be called into question, considering the <a target="_blank" href="https://virtualrealitytimes.com/2017/03/13/full-list-of-virtual-reality-worlds/">sorts of worlds we’re already developing</a> with virtual reality technology today.</p>
+<p>The likelihood of the second statement can also be called into question, considering the <a target="_blank" rel="noopener" href="https://virtualrealitytimes.com/2017/03/13/full-list-of-virtual-reality-worlds/">sorts of worlds we’re already developing</a> with virtual reality technology today.</p>
 <p>If future anthropologists had the ability to recreate certain periods of human history and play them out, for example, why wouldn’t they?</p>
 <p>So, if we discount the first two statements… well, where does that leave us?</p>
 <blockquote class="fade-right">We are almost certainly living in a computer simulation.</blockquote>
@@ -38,7 +41,7 @@ image-large: /assets/images/simulation-bostrom-large.jpg
 <p>There are significant questions around whether or not technology could ever facilitate the necessary conditions for replicating human experience. Conscious, mental ‘stuff’ might simply be non-transferrable or irreconcilable to non-biological, physical ‘stuff’.</p>
 <p>But, then again, if we’re currently living in a simulation, this is a moot point. They’ve already figured out how to do it.</p>
 <h2>So, if we are in a simulation...?</h2>
-<p><span class="big-letter">I</span>f we accept the validity and soundness of The Simulation Argument - and while many don’t, some influential figures such as Elon Musk <a target="_blank" href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html">very publicly do</a> - what are the consequences?</p>
+<p><span class="big-letter">I</span>f we accept the validity and soundness of The Simulation Argument - and while many don’t, some influential figures such as Elon Musk <a target="_blank" rel="noopener" href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-ai-artificial-intelligence-computer-simulation-gaming-virtual-reality-a7060941.html">very publicly do</a> - what are the consequences?</p>
 <p>Well, if we <i>are</i> in a simulation, you could argue that nothing matters. We have no free will. We’re not even real.</p>
 <p>But, you could also argue: who cares? Nothing mattered anyway, <a href="/articles/free-will-illusion-sam-harris">we had no free will</a> anyway - and what <i>is</i> real, anyway?</p>
 <p>The possibility of being in a simulation shouldn’t really alter the way we live. We can reassure ourselves with <a href="/articles/hallucinating-with-descartes">Descartes’s <i>cogito ergo sum</i></a> - even if we live in a virtual world, at least we exist. It’s still our job to ascribe meaning to our lives.</p>

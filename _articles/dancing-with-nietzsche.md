@@ -1,8 +1,11 @@
 ---
 title: Dancing with Nietzsche
-description: Discover how 19th-century philosopher Friedrich Nietzsche's Perspectivism provides a compelling approach to thinking about the world -- as well as our place in it.
+description: Discover how 19th-century philosopher Friedrich Nietzsche's Perspectivism provides a compelling approach to thinking about the world – as well as our place in it.
 published: October 2018
+order: 1
+minutes: 5
 author: Jack Maden
+author-pic: /assets/images/pbgradthin.svg
 author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/dancing-with-nietzsche.jpg
 image-alt: nietzsche perspectivism
@@ -28,8 +31,8 @@ image-large: /assets/images/dancing-with-nietzsche-large.jpg
 <p>On reading the quotation we feel inclined to join the dancers and to condemn the judgemental observers for their ignorance: just because <i>they</i> can’t hear the music doesn’t mean that <i>we</i> are insane for dancing.</p>
 <p>So, the take-home message appears to read thus: just because you don’t understand or respond to something, that doesn’t make it insane.</p>
 <blockquote class="fade-right">Just because you don’t understand or respond to something, that doesn’t make it insane.</blockquote>
-<p>Now, why is Nietzsche spouting this sort of thing? The answer, in fact, might simply be: well, he's not – for it is unclear whether he actually directly wrote our quotation at all. Indeed, a <a target="_blank" href="https://quoteinvestigator.com/2012/06/05/dance-insane/">whole host of writers</a> could lay claim to being its source.</p>
-<p>That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, <a target="_blank" href="https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra"><i>Thus Spoke Zarathustra:</i></a></p>
+<p>Now, why is Nietzsche spouting this sort of thing? The answer, in fact, might simply be: well, he's not – for it is unclear whether he actually directly wrote our quotation at all. Indeed, a <a target="_blank" rel="noopener" href="https://quoteinvestigator.com/2012/06/05/dance-insane/">whole host of writers</a> could lay claim to being its source.</p>
+<p>That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra"><i>Thus Spoke Zarathustra:</i></a></p>
 <blockquote class="fade-right">You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.</blockquote>
 <p>This pairing – that not understanding something doesn’t mean you can dismiss or belittle it, and that there is no single or correct ‘way’ to life – reveals the core principles of what has come to be known as Nietzsche’s Perspectivism.</p>
 <h2>A new way of seeing the world: Perspectivism</h2>
@@ -58,4 +61,4 @@ image-large: /assets/images/dancing-with-nietzsche-large.jpg
 <p>Living in an internet age in which mortal battles in online comments sections rage on a daily basis, we could perhaps learn from the thought that none of us really perceive or opine <i>the</i> truth, as such truth may be permanently denied to us due to our limited and finite perspectives.</p>
 <p>So, rather than dismiss as insane or stupid opinions that we can’t understand or that differ from our own dogmatic agendas, if we were to consider and combine our subjective perspectives in a rational and thoughtful way, then perhaps, as well as learn something new, we might all get along a bit better, too.</p>
 <blockquote class="fade-right">"And as to whether these fruits of ours are to <i>your</i> taste? But what is that to the trees!" — Nietzsche.</blockquote>
-<p>Let's conclude this brief discussion on Perspectivism with some final words from our main man Nietzsche, taken from arguably his masterwork, <a href="https://www.goodreads.com/book/show/80449.On_the_Genealogy_of_Morals" target="_blank"><i>On the Genealogy of Morals:</i></a> "And as to whether these fruits of ours are to <i>your</i> taste?" he says - "But what is that to the trees!"</p>
+<p>Let's conclude this brief discussion on Perspectivism with some final words from our main man Nietzsche, taken from arguably his masterwork, <a href="https://www.goodreads.com/book/show/80449.On_the_Genealogy_of_Morals" target="_blank" rel="noopener"><i>On the Genealogy of Morals:</i></a> "And as to whether these fruits of ours are to <i>your</i> taste?" he says - "But what is that to the trees!"</p>

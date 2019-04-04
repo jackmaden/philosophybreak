@@ -2,7 +2,10 @@
 title: Hallucinating with Descartes
 description: Discover how 17th-century philosopher Descartes' Skepticism provides a compelling comment on epistemology, as well as a controversial approach to thinking about the world.
 published: November 2018
+order: 2
+minutes: 4
 author: Jack Maden
+author-pic: /assets/images/pbgradthin.svg
 author-link: https://www.instagram.com/philosophybreak/
 image: /assets/images/hallucinating-with-descartes.jpg
 image-alt: descartes i think therefore i am
@@ -17,7 +20,7 @@ image-large: /assets/images/hallucinating-with-descartes-large.jpg
 <p>But then you calm down and tell yourself to stop being such a self-obsessed, annoying little loser. Nothing was designed with you in mind, you assure yourself. The universe is bloody massive and you are just a lump of animated carbon whose short time on a rocky planet hurtling round an average star will be fleeting, forgotten and, ultimately, pointless. Dust. In. The. Bloody. Wind.</p>
 <blockquote class="fade-right">You are just a lump of animated carbon whose short time on a rocky planet hurtling round an average star will be fleeting, forgotten and, ultimately, pointless.</blockquote>
 <p>So you sigh, pick yourself up, stick the kettle on and read some Descartes. But uh oh. Here come those bloody <i>thoughts</i> again.</p>
-<p>You see, 17th Century French philosopher René Descartes – he’s a <i>professional</i> doubter: the unhappy father of that bastard of a philosophical movement, <a target="_blank" href="https://plato.stanford.edu/entries/skepticism/">Skepticism</a>.</p>
+<p>You see, 17th Century French philosopher René Descartes – he’s a <i>professional</i> doubter: the unhappy father of that bastard of a philosophical movement, <a target="_blank" rel="noopener" href="https://plato.stanford.edu/entries/skepticism/">Skepticism</a>.</p>
 <div class="article-image" style="padding-bottom: 73.4%;">
     <img class="lazy" data-src="/assets/images/descartes.jpg" alt="descartes">
 </div>
@@ -25,7 +28,7 @@ image-large: /assets/images/hallucinating-with-descartes-large.jpg
 <p>What most people quickly dismiss as a childish, narcissistic thought – that the universe was built to deceive its central character: you – the bosom of his great intellect nursed into a nightmarish, crippling existential crisis.</p>
 <h2>Descartes's demolition</h2>
 <p><span class="big-letter">D</span>escartes was worried that if the foundations of knowledge were not completely solid then anything built upon them would inevitably collapse. He thus decided that if there was reason to doubt the truth of something – no matter how slim the doubt – then it should be discarded as false.</p>
-<p>He sets about reviewing and systematically rejecting all kinds of ‘facts’ that he generally held to be true in his <a target="_blank" href="https://www.goodreads.com/book/show/30658.Meditations_on_First_Philosophy">Meditations on First Philosophy</a> (I think ‘René’s Big Night In’ would have made for a better title):</p>
+<p>He sets about reviewing and systematically rejecting all kinds of ‘facts’ that he generally held to be true in his <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/30658.Meditations_on_First_Philosophy">Meditations on First Philosophy</a> (I think ‘René’s Big Night In’ would have made for a better title):</p>
 <blockquote class="fade-right">I am here quite alone, and at last I will devote myself sincerely and without reservation to the general demolition of my opinions.</blockquote>
 <p>That the authenticity of our experience can be occasionally doubted is enough for Descartes to dismiss it as absolutely false: that our senses can sometimes mislead us without our knowing suggests that they could mislead us all the time.</p>
 <p>And, if we cannot trust information obtained from our senses, then how can we confirm the existence of an external world?</p>
