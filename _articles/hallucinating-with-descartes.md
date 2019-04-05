@@ -1,6 +1,6 @@
 ---
 title: Hallucinating with Descartes
-description: Discover how 17th-century philosopher Descartes' Skepticism provides a compelling comment on epistemology, as well as a controversial approach to thinking about the world.
+description: 17th-century philosopher Descartes' Skepticism provides a compelling comment on epistemology, as well as a controversial approach to thinking about the world.
 published: November 2018
 order: 2
 minutes: 4

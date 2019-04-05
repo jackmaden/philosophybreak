@@ -1,6 +1,6 @@
 ---
 title: Are We Living in a Computer Simulation?
-description: Swedish philosopher Nick Bostrom's Simulation Argument is a persuasive argument concluding that the world around us is not real, but simply another person's - or civilization's - virtual reality.
+description: Swedish philosopher Nick Bostrom's Simulation Argument states that the world around us is not real, but simply another person's - or civilization's - virtual reality.
 published: December 2018
 order: 3
 minutes: 3

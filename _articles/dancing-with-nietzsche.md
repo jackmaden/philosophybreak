@@ -1,6 +1,6 @@
 ---
 title: Dancing with Nietzsche
-description: Discover how 19th-century philosopher Friedrich Nietzsche's Perspectivism provides a compelling approach to thinking about the world – as well as our place in it.
+description: 19th-century philosopher Friedrich Nietzsche's Perspectivism provides a compelling approach to thinking about the world – as well as our place in it.
 published: October 2018
 order: 1
 minutes: 5
