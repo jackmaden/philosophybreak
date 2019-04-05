@@ -4,6 +4,7 @@
 * {padding: 0; margin: 0; line-height: 1.1;}
 
 /***overflow***/
+html {overflow-y: scroll;}
 html, body {width: 100%; overflow-x: hidden;}
 
 /***fonts and background***/
@@ -142,13 +143,13 @@ ul#menu li a svg path {fill: #36b4ff;}
 .title-img {height: 100%; width: 100%; object-fit: cover; top: 0; left: 0; position: absolute;}
 div.darkener {content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 /*different darkeners for carousel title & article title*/
-.carousel-cell div.darkener {background: rgba(0,0,0,0.7);}
-.title div.darkener {background: linear-gradient(to bottom, rgba(0,0,0,0.1), black);}
+.carousel-cell div.darkener {background: rgba(0,0,0,0.3);}
+.title div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));}
 div.separator {width: 80px; height: 4px; background:linear-gradient(to right top, #1aa9ff, #7cceff); margin: 1.5em 0;}
 /*title center vertically on /articles & fade in (look in js), and moved from bottom 20% to 10% on individual articles (look in js)*/
-div.title-center {position: absolute; left: 0; opacity: 0; right: 0; transition: all 0.5s ease-out;}
-.carousel-cell div.title-center {bottom: 46%;}
-.title div.title-center {bottom: 20%;}
+div.title-center {position: absolute; left: 0; right: 0; transition: all 0.5s ease-out;}
+.carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
+.title div.title-center {bottom: 20%; opacity: 0;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0;}
 div.title-center .description {font-size: 16px;}
@@ -159,7 +160,7 @@ div.title-center .description {font-size: 16px;}
 .scroll-prompt {position: absolute;  bottom: 16px; left:76px;}
 .scroll-prompt svg {width: 20px; height: 20px; fill: #fff;}
 /*hide description on small screens*/
-@media (max-height: 450px) {
+@media (max-height: 475px) {
   .carousel-cell .description, .title .description {display: none;}
 }
 /*larger screens*/

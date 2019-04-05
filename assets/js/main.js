@@ -30,39 +30,22 @@ $(document).ready(function() {
 	var $carousel = $('.main-carousel'),
 			$carouselCell = $('.carousel-cell'),
 			$title = $('.title'),
-			$carouselTitle = $('.carousel-cell .title-center'),
 			$articleTitle = $('.title .title-center'),
 			windowHeight = $(window).height();
-	//set 100vh to windowheigbt
+
+	//set 100vh to windowheight
 	$carousel.css({'height' : windowHeight});
 	$carouselCell.css({'height' : windowHeight});
 	$title.css({'height' : windowHeight});
-	//for each carousel title, center vertically & fade in
-	$carouselTitle.each(function() {
-		$(this).css({'margin-bottom' : -$(this).outerHeight()/2, 'opacity' : '1'});
-	});
 	//position article title & fade in
-	$articleTitle.css({'bottom' : '10%', 'opacity' : '1'});
-
-	//on resize
-	$(window).on('resize', function() {
-		//CAROUSEL & TITLE
-		var $carousel = $('.main-carousel'),
-		$carouselCell = $('.carousel-cell'),
-		$title = $('.title'),
-		$carouselTitle = $('.carousel-cell .title-center'),
-		$articleTitle = $('.title .title-center'),
+	$articleTitle.css({'bottom' : '60px', 'opacity' : '1'});
+	// carousel & title on resize
+	$(window).on('resize', function() { 
+		//new window height	
 		windowHeight = $(window).height();
-		//set 100vh to windowheigbt
 		$carousel.css({'height' : windowHeight});
 		$carouselCell.css({'height' : windowHeight});
 		$title.css({'height' : windowHeight});
-		//for each carousel title, center vertically & fade in
-		$carouselTitle.each(function() {
-		$(this).css({'margin-bottom' : -$(this).outerHeight()/2, 'opacity' : '1'});
-		});
-		//position article title & fade in
-		$articleTitle.css({'bottom' : '10%', 'opacity' : '1'});
 	});
 
 
