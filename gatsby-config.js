@@ -69,7 +69,7 @@ module.exports = {
               short_name: "Philosophy Break",
               start_url: "/",
               background_color: "#000",
-              theme_color: "#36b4ff",
+              theme_color: "#fff",
               // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
               // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
               display: "standalone",

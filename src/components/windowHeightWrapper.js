@@ -3,18 +3,12 @@ import React from "react"
 export class WindowHeightWrapper extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { width: 0, height: 0 };
+    this.state = { width: '100%', height: '100vh' };
     this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
   }
   
   componentDidMount() {
     this.updateWindowDimensions();
-    window.addEventListener('resize', this.updateWindowDimensions);
-    window.dispatchEvent(new Event('resize'));
-  }
-  
-  componentWillUnmount() {
-    window.removeEventListener('resize', this.updateWindowDimensions);
   }
   
   updateWindowDimensions() {
@@ -28,4 +22,4 @@ export class WindowHeightWrapper extends React.Component {
       </div>
     )
   }
-  }
+}

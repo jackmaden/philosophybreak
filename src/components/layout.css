@@ -124,7 +124,7 @@ ul#menu li a svg path {fill: #36b4ff;}
 }
 
 /***home-page***/
-.featured-image-full {height: 100vh; width: 100%; overflow: hidden; background-size: cover; background-position: center center; position: relative;}
+.featured-image-full {height: 100vh; width: 100%; overflow: hidden; background-size: cover; background-position: center center; position: relative; background-color: #000; display: block;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%; object-fit: cover;}
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-64%); transform: translateY(-64%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4 {color: #fff;}
@@ -135,7 +135,7 @@ ul#menu li a svg path {fill: #36b4ff;}
 }
 
 /***article full page carousel & title***/
-.carousel-cell, .title {height: 100vh; width: 100%; position: relative; display: block; background-color: #000}
+.carousel-cell, .title {height: 100vh; width: 100%; position: relative; display: block; background-color: #000;}
 .title-img {height: 100%; width: 100%; object-fit: cover; top: 0; left: 0; position: absolute;}
 div.darkener {content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 /*different darkeners for carousel title & article title*/
