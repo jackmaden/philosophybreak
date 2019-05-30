@@ -1,1 +1,1 @@
-# philosophybreak
+Philosophy Break is a clearing in your cluttered newsfeed.
