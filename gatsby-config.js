@@ -103,6 +103,17 @@ module.exports = {
                 ]
             }
         },
+        //polyfill
+        `gatsby-plugin-polyfill-io`,
+        {
+            resolve: `gatsby-plugin-compile-es6-packages`,
+            options: {
+              modules: [
+                `react-spring`, 
+                `react-anchor-link-smooth-scroll`
+              ]
+            }
+        },
         //offline functionality - place at end
         `gatsby-plugin-offline`
     ]
