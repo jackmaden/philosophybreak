@@ -78,7 +78,6 @@ module.exports = {
         },
         //process md files        
         {
-            
             resolve: `gatsby-transformer-remark`,
             options: {
                 plugins: [
@@ -104,7 +103,6 @@ module.exports = {
             }
         },
         //polyfill
-        `gatsby-plugin-polyfill-io`,
         {
             resolve: `gatsby-plugin-compile-es6-packages`,
             options: {
