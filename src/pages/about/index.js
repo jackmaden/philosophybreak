@@ -41,7 +41,7 @@ export default ({ data, location }) => {
                 <p>Streaming services hook us into <i>one more</i> episode; advertisements bombard us into submission; those of us with smartphones check them without thinking.</p>
                 <p>But the compulsion to watch, to shop, to hit refresh on our newsfeeds — all of it can be reined in by contemplating the world around us, and our place within it.</p>
                 <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose?</p>
-                <p>Dwelling on such questions returns us to the present moment and fuels our drive for life, for as Socrates - <a href="https://www.goodreads.com/book/show/73945.Apology" target="_blank" rel="noopener noreferrer">that great martyr of philosophy</a> - says:</p>
+                <p>Dwelling on such questions returns us to the present moment and fuels our drive for life, for as Socrates - <Link to="/articles/socrates-on-what-we-know">that great martyr of philosophy</Link> - says:</p>
                 <blockquote><p>The unexamined life is not worth living.</p></blockquote>
                 <p>Break up your Instagram newsfeed with compelling quotations and provocative questions that switch you from consumption mode to thoughtful mode. <a href="https://www.instagram.com/philosophybreak/" target="_blank" rel="noopener noreferrer">Follow Philosophy Break now</a>.</p>
                 <p>Additionally, add some thinking slots to your email inbox by subscribing to emails below.</p>
