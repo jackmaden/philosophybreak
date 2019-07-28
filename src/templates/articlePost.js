@@ -40,12 +40,12 @@ const ArticlePost = ({ data, location }) => {
         {/*after article*/}
         <div className="after-article grey-background">
           <div className="page-center">
-            <h4>GET WEEKLY BREAKS</h4>
+            <h4>Get Weekly Breaks</h4>
             <div className="separator"></div>
           </div>
           <SubscriptionForm />
           <div className="page-center">
-            <h4>TAKE ANOTHER BREAK</h4>
+            <h4>Take Another Break</h4>
             <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
             {edges.filter(edge => edge.node.fields.slug !== location.pathname).slice(0, 4).map(edge => {
                 //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead

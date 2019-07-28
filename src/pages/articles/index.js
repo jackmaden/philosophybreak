@@ -56,7 +56,7 @@ const Articles = ({ data, location }) => {
                 {/*subscription form*/}
                 <div className="after-article">
                     <div className="page-center">
-                        <h4>GET WEEKLY BREAKS</h4>
+                        <h4>Get Weekly Breaks</h4>
                         <div className="separator"></div>
                     </div>
                     <SubscriptionForm />
