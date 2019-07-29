@@ -41,6 +41,7 @@
     "react-scroll-progress-bar": "^1.1.7",
     "react-spring": "^8.0.19",
     "react-window-size": "^1.2.2",
+    "typeface-public-sans": "^1.0.6",
     "typeface-spectral": "0.0.72"
   },
   "devDependencies": {

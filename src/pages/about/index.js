@@ -50,12 +50,12 @@ export default ({ data, location }) => {
             {/*after article*/}
             <div className="after-article grey-background">
                 <div className="page-center">
-                    <h4>Get Weekly Breaks</h4>
+                    <h3>Get Weekly Breaks</h3>
                     <div className="separator"></div>
                 </div>
                 <SubscriptionForm />
                 <div className="page-center">
-                    <h4>Latest Breaks</h4>
+                    <h3>Latest Breaks</h3>
                     <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
                     {edges.slice(0, 4).map(edge => {
                         //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
