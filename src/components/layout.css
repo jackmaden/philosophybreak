@@ -237,7 +237,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 #mc_embed_signup p {margin-bottom: 0; color: #8c8c8c; font-weight: 200; font-size: 16px;}
 
 form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none;}
-input {padding: 1.05em 1.2em; font-family: 'Public Sans', sans-serif; border-radius: 40px; border: none; font-size: 16px; width: 70%; font-weight: 600;}
+input {padding: 1.05em 1.2em 1.18em; font-family: 'Public Sans', sans-serif; border-radius: 40px; border: none; font-size: 16px; width: 70%; font-weight: 600;}
 input[type="email"] {padding-right: 20%; color: #282828;}
 input[type="email"]::placeholder {color: #8c8c8c; font-weight: 200;}
 input[type="submit"] {width: 45%; cursor: pointer; margin-left: -15%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);}
