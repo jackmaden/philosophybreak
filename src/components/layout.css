@@ -84,7 +84,7 @@ a.logo svg.reduce-size {width: 63px; height: 63px; -webkit-transform-style: pres
 ul#menu {background-color: #fff; list-style-type: none; position: fixed; z-index: 2; min-height: 120%; -webkit-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); -moz-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); right: -400px; transition: all 0.3s linear;}
 ul#menu.show {right: 0 !important;} /*show menu*/
 ul#menu h3 {margin-left: 46px; margin-bottom: 26px; font-size: 18px; margin-top: 36px; font-weight: 900;}
-ul#menu h3 small {display: block; font-size: 8.5px; font-weight: 300;}
+ul#menu h3 small {display: block; font-size: 10px; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
 ul#menu li {padding: 1em 1em 1.2em; font-size: 18px; border-bottom: solid 1px #e9e9e9; font-weight: 400;}
@@ -94,11 +94,11 @@ ul#menu li a svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li a svg path {fill: #36b4ff;}
 @media (min-width: 360px) {
   ul#menu h3 {font-size: 22px;} 
-  ul#menu h3 small {font-size: 10px;}
+  ul#menu h3 small {font-size: 11.5px;}
 }
 @media (min-width: 620px) {
   ul#menu h3 {font-size: 30px;} 
-  ul#menu h3 small {font-size: 14px;}
+  ul#menu h3 small {font-size: 15.5px;}
   ul#menu li {font-size: 22px; padding: 1.1em 1.1em 1.3em;}
   ul#menu li a svg {width: 22px; height: 22px;}
 }
@@ -123,12 +123,12 @@ ul#menu li a svg path {fill: #36b4ff;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 50px;}
 #footer .logo-footer h3 {color: #e9e9e9; margin-top: 10px; font-weight: 900;}
-#footer .logo-footer h3 small {font-size: 11.5px; display: block; font-weight: 300;}
+#footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
 #footer .follow-footer {margin: 10px 0 30px;}
 #footer .disclaimer-footer p {color: #8c8c8c; font-size: 10px;}
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
-  #footer .logo-footer h3 small {font-size: 13px;}
+  #footer .logo-footer h3 small {font-size: 14px;}
 }
 
 /***home-page***/
@@ -136,13 +136,13 @@ ul#menu li a svg path {fill: #36b4ff;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%; object-fit: cover;}
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-64%); transform: translateY(-64%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4 {color: #fff;}
-.featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 16px; font-weight: 300;}
+.featured-image-full div.page-center h4 {margin-top: 0.1em; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 17.5px;}
 @media (min-width: 360px) {
-  .featured-image-full div.page-center h4 {font-size: 17.5px;}
+  .featured-image-full div.page-center h4 {font-size: 19.3px;}
 }
 @media (min-width: 620px) {
   .featured-image-full div.page-center {left: 0; right: 0;}
-  .featured-image-full div.page-center h4 {font-size: 23px;}
+  .featured-image-full div.page-center h4 {font-size: 25px;}
 }
 
 /***article full page carousel & title***/
@@ -159,7 +159,7 @@ div.title-center {position: absolute; left: 0; right: 0;}
 .title div.title-center {bottom: 50%;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
-div.title-center .description {font-size: 16px; font-weight: 300;}
+div.title-center .description {font-size: 18px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .time {font-size: 12px; font-weight: 400;}
 .time svg, .time div {width: 18px; height: 18px; margin-right: 6px;}
 .time svg {vertical-align: bottom;}
@@ -177,7 +177,7 @@ svg.bounce {margin-right: 0;}
 /*larger screens*/
 @media (min-width: 620px) {
   div.title-center h2 {font-size: 45px;}
-  div.title-center .description {font-size: 18px;}
+  div.title-center .description {font-size: 20px;}
   .time {font-size: 14px;}
   .time svg, .time div {width: 20px; height: 20px;}
   .scroll-prompt {left:0; right: 0;}
