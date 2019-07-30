@@ -28,8 +28,8 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #282828; t
 /***headings***/
 h1 {font-size: 36px; font-weight: 900;}
 h1#home-page {font-size: 34px;}
-h2 {font-size: 30px; margin: 1.8em 0 0.6em; font-weight: 600;}
-h3, h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 600;}
+h2 {font-size: 30px; margin: 1.8em 0 0.6em; font-weight: 400;}
+h3, h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
 h3 {font-size: 25px;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
@@ -54,7 +54,7 @@ p {line-height: 1.5; margin: 1em 0; font-size: 18px;}
 a {color: #282828; text-decoration: underline; -webkit-text-decoration-color: #36b4ff; -ms-text-decoration-color: #36b4ff; -moz-text-decoration-color: #36b4ff; text-decoration-color: #36b4ff;}
 a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
 /*buttons*/
-.button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 600;}
+.button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 400;}
 .button.primary {padding: 0.95em 1.2em 1.1em; border-radius: 40px; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff); -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.secondary svg {fill: #36b4ff;}
@@ -84,21 +84,21 @@ a.logo svg.reduce-size {width: 63px; height: 63px; -webkit-transform-style: pres
 ul#menu {background-color: #fff; list-style-type: none; position: fixed; z-index: 2; min-height: 120%; -webkit-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); -moz-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); right: -400px; transition: all 0.3s linear;}
 ul#menu.show {right: 0 !important;} /*show menu*/
 ul#menu h3 {margin-left: 46px; margin-bottom: 26px; font-size: 18px; margin-top: 36px; font-weight: 900;}
-ul#menu h3 small {display: block; font-size: 10px; font-family: 'Spectral', serif; font-weight: 400; letter-spacing: -0.5px;}
+ul#menu h3 small {display: block; font-size: 8.5px; font-weight: 300;}
 ul#menu h3 a, ul#menu li a {text-decoration: none;}
 ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {padding: 1em 1em 1.2em; font-size: 18px; border-bottom: solid 1px #e9e9e9; font-weight: 600;}
+ul#menu li {padding: 1em 1em 1.2em; font-size: 18px; border-bottom: solid 1px #e9e9e9; font-weight: 400;}
 ul#menu li:first-of-type {border-top: solid 1px #e9e9e9;}
 ul#menu li a {display: flex; align-items: flex-end;}
 ul#menu li a svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li a svg path {fill: #36b4ff;}
 @media (min-width: 360px) {
   ul#menu h3 {font-size: 22px;} 
-  ul#menu h3 small {font-size: 11.5px;}
+  ul#menu h3 small {font-size: 10px;}
 }
 @media (min-width: 620px) {
   ul#menu h3 {font-size: 30px;} 
-  ul#menu h3 small {font-size: 15px;}
+  ul#menu h3 small {font-size: 14px;}
   ul#menu li {font-size: 22px; padding: 1.1em 1.1em 1.3em;}
   ul#menu li a svg {width: 22px; height: 22px;}
 }
@@ -123,12 +123,12 @@ ul#menu li a svg path {fill: #36b4ff;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 50px;}
 #footer .logo-footer h3 {color: #e9e9e9; margin-top: 10px; font-weight: 900;}
-#footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
+#footer .logo-footer h3 small {font-size: 11.5px; display: block; font-weight: 300;}
 #footer .follow-footer {margin: 10px 0 30px;}
 #footer .disclaimer-footer p {color: #8c8c8c; font-size: 10px;}
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
-  #footer .logo-footer h3 small {font-size: 14px;}
+  #footer .logo-footer h3 small {font-size: 13px;}
 }
 
 /***home-page***/
@@ -136,13 +136,13 @@ ul#menu li a svg path {fill: #36b4ff;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%; object-fit: cover;}
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-64%); transform: translateY(-64%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4 {color: #fff;}
-.featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 17px; font-family: 'Spectral', serif; font-weight: 400; letter-spacing: -0.5px;}
+.featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 16px; font-weight: 300;}
 @media (min-width: 360px) {
-  .featured-image-full div.page-center h4 {font-size: 19px;}
+  .featured-image-full div.page-center h4 {font-size: 17.5px;}
 }
 @media (min-width: 620px) {
   .featured-image-full div.page-center {left: 0; right: 0;}
-  .featured-image-full div.page-center h4 {font-size: 25px;}
+  .featured-image-full div.page-center h4 {font-size: 23px;}
 }
 
 /***article full page carousel & title***/
@@ -159,14 +159,17 @@ div.title-center {position: absolute; left: 0; right: 0;}
 .title div.title-center {bottom: 50%;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
-div.title-center .description {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
-.time {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 12px;}
-.time svg, .time div {width: 20px; height: 20px; margin-right: 7px; vertical-align: text-top;}
+div.title-center .description {font-size: 16px; font-weight: 300;}
+.time {font-size: 12px; font-weight: 400;}
+.time svg, .time div {width: 18px; height: 18px; margin-right: 6px;}
+.time svg {vertical-align: bottom;}
+.time div {vertical-align: sub;}
+svg.bounce {margin-right: 0;}
 .title p.break, .carousel-cell p.break {position: absolute; bottom: 24px; left: 0; right: 0;}
 /*scroll prompt*/
 .scroll-prompt {position: absolute; bottom: 16px; left:76px;}
 .scroll-prompt svg {width: 20px; height: 20px; fill: #fff;}
-.bottom-blue-border {border-bottom: solid 2px #36b4ff;}
+.bottom-blue-border {padding-bottom: 1px; border-bottom: solid 2px #36b4ff; font-size: 11px;}
 /*hide description on small screens*/
 @media (max-height: 475px) {
   .carousel-cell .description, .title .description {display: none;}
@@ -176,9 +179,10 @@ div.title-center .description {font-family: 'Spectral', serif; letter-spacing: -
   div.title-center h2 {font-size: 45px;}
   div.title-center .description {font-size: 18px;}
   .time {font-size: 14px;}
-  .time svg, .time div {width: 22px; height: 22px;}
+  .time svg, .time div {width: 20px; height: 20px;}
   .scroll-prompt {left:0; right: 0;}
   .scroll-prompt svg {margin-left: 76px;}
+  .bottom-blue-border {font-size: 12px;}
 }
 
 /***article listing***/
@@ -234,12 +238,12 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 
 /***form***/
 #mc_embed_signup {width: 100%; padding: 36px 0 30px; background-color: #f8f8f8;}
-#mc_embed_signup p {margin-bottom: 0; color: #8c8c8c; font-weight: 200; font-size: 16px;}
+#mc_embed_signup p {margin-bottom: 0; color: #8c8c8c; font-weight: 300; font-size: 16px;}
 
 form {width: 100%; display: flex; align-items: center; margin-bottom: 0.6em; border-radius: 40px; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none;}
-input {padding: 1.05em 1.2em 1.18em; font-family: 'Public Sans', sans-serif; border-radius: 40px; border: none; font-size: 16px; width: 70%; font-weight: 600;}
+input {padding: 1.05em 1.2em 1.18em; font-family: 'Public Sans', sans-serif; border-radius: 40px; border: none; font-size: 16px; width: 70%; font-weight: 400;}
 input[type="email"] {padding-right: 20%; color: #282828;}
-input[type="email"]::placeholder {color: #8c8c8c; font-weight: 200;}
+input[type="email"]::placeholder {color: #8c8c8c; font-weight: 100;}
 input[type="submit"] {width: 45%; cursor: pointer; margin-left: -15%; color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);}
 input:focus {outline: none;}
 input.required:invalid {border-color: red;}
