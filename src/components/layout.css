@@ -159,7 +159,7 @@ div.title-center {position: absolute; left: 0; right: 0;}
 .title div.title-center {bottom: 50%;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
-div.title-center .description {font-size: 18px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .time {font-size: 12px; font-weight: 400;}
 .time svg, .time div {width: 18px; height: 18px; margin-right: 6px;}
 .time svg {vertical-align: bottom;}
@@ -177,7 +177,7 @@ svg.bounce {margin-right: 0;}
 /*larger screens*/
 @media (min-width: 620px) {
   div.title-center h2 {font-size: 45px;}
-  div.title-center .description {font-size: 20px;}
+  div.title-center .description {font-size: 18px;}
   .time {font-size: 14px;}
   .time svg, .time div {width: 20px; height: 20px;}
   .scroll-prompt {left:0; right: 0;}
