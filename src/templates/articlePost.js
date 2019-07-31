@@ -14,7 +14,7 @@ const ArticlePost = ({ data, location }) => {
   const post = data.markdownRemark
   const { edges } = data.allMarkdownRemark
   //declare react spring (it's an object, has options within it)
-  const dropIn = useSpring({opacity: 1, bottom: '60px', delay: 200, from: {opacity: 0, bottom: '200px'}})
+  const dropIn = useSpring({opacity: 1, bottom: '67px', delay: 200, from: {opacity: 0, bottom: '200px'}})
   const fadeIn = useSpring({opacity: 1, delay: 450, from: {opacity: 0}})
   return (
       <>

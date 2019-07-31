@@ -88,7 +88,7 @@ module.exports = {
                           maxWidth: 600,
                           showCaptions: true,
                           linkImagesToOriginal: false,
-                          wrapperStyle: `margin-top: 1.5em;`
+                          wrapperStyle: `margin: 2.2em 0;`
                         }
                     },
                     {
