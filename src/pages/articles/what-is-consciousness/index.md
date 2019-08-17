@@ -1,6 +1,6 @@
 ---
 title: "What is Consciousness?"
-description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how – or why. This article outlines the 'hard problem' of consciousness, as well as leading solutions to it."
+description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how – or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
 image: "./cucumber.jpg"
 imageAlt: "cucumbers"
 tags: ["Consciousness", "Physicalism", "Panpsychism"]
@@ -15,7 +15,7 @@ And that, as a very crude summary, is what happens when you look at a cucumber.
 
 But does this functional, biological story account for _all_ that happens?
 
-If we were to ask what happens, for example, when a _camera_ captures an image of a cucumber, we would tell a very similar story as the one we tell about our eyes and brain: the camera focuses light through its lens, processes this light into an image, and stores it in memory.
+If we were to ask what happens, for example, when a _camera_ captures an image of a cucumber, we would tell a very similar functional story as the one we tell about our eyes and brain: the camera focuses light through its lens, processes this light into an image, and stores it in memory.
 
 There is one crucial difference between us and cameras in this example, however: as humans, we _consciously experience_ the images that we capture — we have a felt-experience of _seeing_ the cucumber. And we wouldn't attribute this kind of rich inner experience to a camera: on our terms, when they take photos, cameras experience nothing at all. 
 
@@ -45,9 +45,11 @@ Indeed, the point about conscious experience is that there is _something it is l
 
 The scientific doctrine of physicalism, which states that only physical things exist in the universe, implies that consciousness must be a physical entity, the physiological result of biological processes and states of the brain. 
 
-Optimists about physicalist theories of consciousness say that, though we might not currently have all the answers about how, why, or in what form consciousness is physical, with continued research into the brain the solution to the hard problem of consciousness _will_ be answered within the physical causal system.
+![brain](./consciousness-brain.jpg "If we had all the physical information about a particular individual's brain, could we accurately recreate their conscious experiences? Yes, according to physicalism.")
 
-Not so, say detractors of physicalism: it's difficult to imagine how subjective, unique and complex feelings involving conscious instances of sight, smell, hearing, touch and taste could ever reduce down to certain organizations and firings of neurons in the brain. How can physical 'stuff' explain the subjective, felt-experience of biting into cool cucumber on a hot summer's day? The explanatory gap between brain processes and our rich inner lives of conscious experience is simply too wide to bridge using only physical materials: there has to be something more to complete the story. 
+Optimists about physicalist theories of consciousness say that, though we might not currently have all the answers about how, why, or in what form conscious experiences are physical, with continued research into the brain the solution to the hard problem of consciousness _will_ be answered within the physical causal system.
+
+Detractors of physicalism disagree. It's difficult to imagine, they argue, how subjective, unique and complex feelings involving conscious instances of sight, smell, hearing, touch and taste could ever reduce down to certain organizations and firings of neurons in the brain. How can physical 'stuff' explain the subjective, felt-experience of biting into cool cucumber on a hot summer's day? The explanatory gap between brain processes and our rich inner lives of conscious experience is simply too wide to bridge using only physical materials: there has to be something more to complete the story. 
 
 If one dismisses a physicalist theory of consciousness, however, then one admits to the existence of things nonphysical, and there is no place for nonphysical things in the current scientific picture of the world. Alternatives to physicalism, therefore, rethink not just the nature of consciousness but the entire fabric of reality.
 
@@ -61,6 +63,6 @@ Just like with traditional micro-level physical 'stuff', the basic building bloc
 
 ## What happens when you look at a cucumber?
 
-<span class="big-letter">W</span>hile panpsychism is becoming more popular as a theory, consciousness generally remains in its infancy as an area of research, and is fraught with controversy and debate. Some physicalist thinkers like Daniel Dennett deny the hard problem of consciousness even exists, claiming it to be an illusion of our own making; while anti-physicalists like Chalmers ["feel the problem in their bones."](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195117891&linkCode=as2&tag=philosophybre-20&linkId=9b047debf3f281fc2994a454aa5c8756) 
+<span class="big-letter">W</span>hile panpsychism is becoming more popular as a theory, consciousness generally remains in its infancy as an area of research, and is fraught with controversy and debate. Some physicalist thinkers like Daniel Dennett [deny the hard problem of consciousness even exists](http://www.amazon.com/gp/product/0393348784/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393348784&linkCode=as2&tag=philosophybre-20&linkId=f1611235b1d601213b8ee2514921e481), claiming it to be an illusion of our own making; while anti-physicalists like Chalmers ["feel the problem in their bones."](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195117891&linkCode=as2&tag=philosophybre-20&linkId=9b047debf3f281fc2994a454aa5c8756) 
 
-Regardless of whether you lean towards physicalism, panpsychism, or even dualism, the next time you look at a cucumber, take a moment to think about what's happening in your brain — and how much we all still have to learn.
+Regardless of whether you lean towards physicalism, or a non-physicalist theory like panpsychism, the next time you look at a cucumber, take a moment to think about what's happening in your brain — and how much we all still have to learn.
