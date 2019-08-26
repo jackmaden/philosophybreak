@@ -155,10 +155,11 @@ ul#menu li a svg path {fill: #36b4ff;}
 .panel div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-55%); transform: translateY(-55%);}
 .panel div.page-center h2, .panel div.page-center p {color: #fff;}
 .panel div.page-center h2 {font-weight: 900; margin-top: 1em;}
-.panel div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+.panel div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
 @media (min-width: 620px) {
   .panel {height: 450px;}
   .panel div.page-center {left: 0; right: 0;}
+  .panel div.page-center p {font-size: 18px;}
 }
 
 /***filters***/
