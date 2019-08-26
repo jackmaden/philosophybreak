@@ -9,7 +9,7 @@ export class ScrollProgressBar extends React.Component {
     };
     handleScroll = (e) => {
         let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-        let afterArticle = document.getElementById('footer').offsetHeight + document.getElementsByClassName('after-article')[0].offsetHeight;
+        let afterArticle = document.getElementById('footer').offsetHeight + document.getElementById('post-article-height').offsetHeight;
         let height = document.documentElement.scrollHeight - afterArticle;
         let scrolled = (winScroll / height) * 100;
         document.getElementById("progress-bar").style.width = scrolled + "%";

@@ -15,7 +15,7 @@ export default ({ data, location }) => {
     const fadeIn = useSpring({opacity: 1, delay: 450, from: {opacity: 0}})
     return (
         <>
-        <SEO title="About Philosophy Break" description="Philosophy Break's mission is to get more people engaged with philosophy. Our aim is to cultivate curiosity, encourage critical thought, and supplement a meaningful existence." pathname={location.pathname} />
+        <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break's mission is to get more people engaged with philosophy. Our aim is to cultivate curiosity, encourage critical thought, and supplement a meaningful existence." pathname={location.pathname} />
         <Layout>
             {/*article title*/}
             <WindowHeightWrapper className="title">

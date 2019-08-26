@@ -15,7 +15,7 @@ const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
     return (
         <>
-        <SEO title="Take a Break" description="Take a Philosophy Break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
+        <SEO title="Latest Breaks – Short, Informative Articles on Philosophy" description="Take a Philosophy Break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
         <Layout>
             {edges.slice(0, 1).map(edge => {
                 const {frontmatter, timeToRead, fields} = edge.node;
