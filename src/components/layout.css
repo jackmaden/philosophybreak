@@ -159,7 +159,7 @@ ul#menu li a svg path {fill: #36b4ff;}
 @media (min-width: 620px) {
   .panel {height: 450px;}
   .panel div.page-center {left: 0; right: 0;}
-  .panel div.page-center p {font-size: 18px;}
+  .panel div.page-center p {font-size: 20px;}
 }
 
 /***filters***/

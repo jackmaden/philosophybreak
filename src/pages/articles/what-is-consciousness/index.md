@@ -19,7 +19,7 @@ If we were to ask what happens, for example, when a _camera_ captures an image o
 
 There is one crucial difference between us and cameras in this example, however: as humans, we _consciously experience_ the images that we capture — we have a felt-experience of _seeing_ the cucumber. And we wouldn't attribute this kind of rich inner experience to a camera: on our terms, when they take photos, cameras experience nothing at all. 
 
-The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, or simply an extraneous mental accompaniment, a by-product? 
+The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, or simply an extraneous mental accompaniment – or neither? 
 
 These questions represent what philosopher David Chalmers has dubbed the 'hard problem' of consciousness. In his 1995 essay [Facing Up to the Hard Problem of Consciousness](http://www.consc.net/papers/facing.html), he writes:
 
@@ -43,7 +43,7 @@ Indeed, the point about conscious experience is that there is _something it is l
 
 <span class="big-letter">E</span>ven with a working idea of what conscious experience refers to, it remains shrouded in mystery. That physical matter can host or give rise to such a phenomenon is unexplained by both science and philosophy – unexplained, but not unexplored. 
 
-The scientific doctrine of physicalism, which states that only physical things exist in the universe, implies that consciousness must be a physical entity, the physiological result of biological processes and states of the brain. 
+The doctrine of physicalism, which states that only physical things exist in the universe, implies that consciousness must be a physical entity, the physiological result of biological processes and states of the brain. 
 
 ![brain](./consciousness-brain.jpg "If we had all the physical information about a particular individual's brain, could we accurately recreate their conscious experiences?")
 
@@ -67,9 +67,9 @@ Just like with traditional micro-level physical 'stuff', the basic building bloc
 
 Regardless of whether you lean towards physicalism, or a non-physicalist theory like panpsychism, the next time you look at a cucumber, take a moment to think about what's happening in your brain — and how much we all still have to learn. 
 
-## Further reading
+## Dive deeper
 
-If you're interested in exploring the fascinating subject of consciousness further, [we've compiled a reading list](/reading-lists/consciousness) of the most essential, compelling, and accessible works in the field.
+If you're interested in exploring consciousness further, [we've compiled a reading list](/reading-lists/consciousness) of the most essential, compelling, and accessible works in the field. Hit the banner below to access it now.
 
 <a class="reading-list cta" href="/reading-lists/consciousness">
     <img class="title-img" src="./consciousnesslist.jpg"/>
