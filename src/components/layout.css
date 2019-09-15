@@ -42,7 +42,7 @@ h5 {font-size: 20px;}
 
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 50px;}
+    h1#home-page {font-size: 65px;}
     h2 {font-size: 35px;}
     h3 {font-size: 28px;}
     h4 {font-size: 26px;}
@@ -140,8 +140,8 @@ ul#menu li a svg path {fill: #36b4ff;}
 .featured-image-full {height: 100vh; width: 100%; overflow: hidden; position: relative; background-color: #000; display: block;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%;}
 .featured-image-full div.gatsby-image-wrapper picture img {object-position: 35% center !important;}
-.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.4),transparent);}
-.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.7),transparent);}
+.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-48%); transform: translateY(-48%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center h4 {margin-top: 0.1em; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 17.5px;}
 @media (min-width: 360px) {
@@ -149,17 +149,22 @@ ul#menu li a svg path {fill: #36b4ff;}
 }
 @media (min-width: 620px) {
   .featured-image-full div.page-center {left: 0; right: 0;}
-  .featured-image-full div.page-center h4 {font-size: 25px;}
+  .featured-image-full div.page-center h4 {font-size: 33px;}
 }
 /***panels***/
 .panel {position: relative; height: 400px;}
+.panel.home {height:350px;}
 .panel div.darkener {background: linear-gradient(rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.2) 100%);}
+.panel.home div.darkener {background: linear-gradient(to bottom, #131b14, #021718);}
 .panel div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-55%); transform: translateY(-55%);}
+.panel.home.bottom div.page-center {-ms-transform: translateY(-65%); transform: translateY(-65%);}
+.panel.home.bottom div.gatsby-image-wrapper picture img {object-position: center top !important;}
 .panel div.page-center h2, .panel div.page-center p {color: #fff;}
 .panel div.page-center h2 {font-weight: 900; margin-top: 1em;}
 .panel div.page-center p, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
 @media (min-width: 620px) {
   .panel {height: 450px;}
+  .panel.home {height: 400px;}
   .panel div.page-center {left: 0; right: 0;}
   .panel div.page-center p, .featured-image-full div.page-center p {font-size: 20px;}
 }
