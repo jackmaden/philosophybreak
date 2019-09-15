@@ -137,10 +137,12 @@ ul#menu li a svg path {fill: #36b4ff;}
 }
 
 /***home-page***/
-.featured-image-full {height: 100vh; width: 100%; overflow: hidden; background-size: cover; background-position: center center; position: relative; background-color: #000; display: block;}
-.featured-image-full div.gatsby-image-wrapper {height: 100%; object-fit: cover;}
-.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-64%); transform: translateY(-64%);}
-.featured-image-full div.page-center h1, .featured-image-full div.page-center h4 {color: #fff;}
+.featured-image-full {height: 100vh; width: 100%; overflow: hidden; position: relative; background-color: #000; display: block;}
+.featured-image-full div.gatsby-image-wrapper {height: 100%;}
+.featured-image-full div.gatsby-image-wrapper picture img {object-position: 35% center !important;}
+.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.4),transparent);}
+.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center h4 {margin-top: 0.1em; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 17.5px;}
 @media (min-width: 360px) {
   .featured-image-full div.page-center h4 {font-size: 19.3px;}
@@ -155,11 +157,11 @@ ul#menu li a svg path {fill: #36b4ff;}
 .panel div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-55%); transform: translateY(-55%);}
 .panel div.page-center h2, .panel div.page-center p {color: #fff;}
 .panel div.page-center h2 {font-weight: 900; margin-top: 1em;}
-.panel div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
+.panel div.page-center p, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
 @media (min-width: 620px) {
   .panel {height: 450px;}
   .panel div.page-center {left: 0; right: 0;}
-  .panel div.page-center p {font-size: 20px;}
+  .panel div.page-center p, .featured-image-full div.page-center p {font-size: 20px;}
 }
 
 /***filters***/

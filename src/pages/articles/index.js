@@ -8,6 +8,7 @@ import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
+import PanelReadingList from '../../components/panelReadingList'
 
 const Articles = ({ data, location }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-20px'}})
@@ -62,6 +63,7 @@ const Articles = ({ data, location }) => {
                     <SubscriptionForm />
                 </div>
             </div>{/*end grey background*/}
+            <PanelReadingList />
         </Layout>
         </>
     )

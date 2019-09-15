@@ -17,7 +17,7 @@ At least, that's what American neuroscientist and philosopher Sam Harris would t
 
 ![Sam Harris](./sam-harris.jpg "Sam Harris, giving a speech he couldn't say no to.")
 
-In his short but persuasive book, [Free Will](https://www.docdroid.net/5ty6HuO/free-will-sam-harris.pdf), Harris writes:
+In his short but persuasive book, [Free Will](http://www.amazon.com/gp/product/1451683405/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451683405&linkId=bc8e08d322a1e8e5bb7e110c533bff12), Harris writes:
 
 >"Free will _is_ an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have."
 
@@ -56,7 +56,7 @@ You might think, 'I am _consciously deciding_ to read this article, and if you o
 
 <span class="big-letter">O</span>f course, this deterministic picture of our paths in life has prompted a vast literature attempting to save our notion of free will. 'Compatibilism' is a movement that accepts the neuroscientific picture of the brain but argues there's room within it for the idea that we remain free in how we think and act.
 
-Discussing a full summary of compatibilist positions on free will is beyond the scope of this article, but one that bears exploration - and that Harris himself engages - is a view well-articulated by American philosopher Daniel Dennett.
+Discussing a full summary of compatibilist positions on free will is beyond the scope of this article, but one that bears exploration - and that Harris himself engages - is a view [well-articulated by American philosopher Daniel Dennett](http://www.amazon.com/gp/product/0262527790/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262527790&linkCode=as2&tag=philosophybre-20&linkId=795cd4ce217c26f227723f6493490159).
 
 Dennett argues that even if our thoughts and actions are the product of unconscious causes, they are still _ours_. Anything that our brains do or decide is something _we_ have done or decided. All Harris has done in his analysis is drive a wedge between our conscious and unconscious selves: we are still free to consciously shape our worlds - and so influence our unconscious - however we desire.
 
