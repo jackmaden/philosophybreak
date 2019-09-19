@@ -36,9 +36,9 @@ export default ({ data, location }) => {
             {/*article content*/}
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
 
-                <BannerReadingList title="Consciousness" link="/reading-lists/consciousness" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
+                <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
 
-                <BannerReadingList title="History of Western Philosophy" link="/reading-lists/history-of-western-philosophy" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
+                <BannerReadingList title="History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
                 
                 <p>Is there another philosopher or philosophical subject for which you'd like to see a reading list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
             </div>
