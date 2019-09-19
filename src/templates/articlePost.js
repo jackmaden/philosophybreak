@@ -10,6 +10,8 @@ import { ScrollProgressBar } from '../components/scrollProgressBar'
 import { SubscriptionForm } from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import PanelReadingList from '../components/panelReadingList'
+import PanelAboutUs from '../components/panelAboutUs'
+import ListReadingList from '../components/listReadingList'
 
 const ArticlePost = ({ data, location }) => {
   const post = data.markdownRemark
@@ -38,9 +40,9 @@ const ArticlePost = ({ data, location }) => {
         {/*article content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}} dangerouslySetInnerHTML={{ __html: post.html }} />
         <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={post.frontmatter.authorPic.childImageSharp.fluid} alt={post.frontmatter.author}/></div>
-        {/*after article*/}
+        {/*post-article*/}
         <div id="post-article-height">
-          <div className="after-article grey-background">
+          <div className="grey-background">
             <div className="page-center">
               <h3>Get Weekly Breaks</h3>
               <div className="separator"></div>
@@ -51,6 +53,7 @@ const ArticlePost = ({ data, location }) => {
               <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
               {edges.filter(edge => edge.node.fields.slug !== location.pathname).slice(0, 4).map(edge => {
                   //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
+                  //using this rather than component to filter out the current article. In future can build out a 'related posts' section using this logic
                   const {frontmatter, timeToRead, fields} = edge.node;
                   return (
                     <div className="article" key={frontmatter.date}>
@@ -64,9 +67,14 @@ const ArticlePost = ({ data, location }) => {
                     </div>
                   )
               })}
+              <p className="text-center"><span className="shadow"><Link className="button secondary" to="/articles"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>View All Breaks</Link></span></p>
             </div>
           </div>
           <PanelReadingList />
+          <div className="grey-background">
+                <ListReadingList />
+            </div>
+            <PanelAboutUs />
         </div>
       </Layout>
       </>

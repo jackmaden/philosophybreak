@@ -9,6 +9,8 @@ import Layout from '../../components/layout'
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import PanelReadingList from '../../components/panelReadingList'
+import ListReadingList from '../../components/listReadingList'
+import PanelAboutUs from '../../components/panelAboutUs'
 
 const Articles = ({ data, location }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-20px'}})
@@ -16,7 +18,7 @@ const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
     return (
         <>
-        <SEO title="Latest Breaks – Short, Informative Articles on Philosophy" description="Take a Philosophy Break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
+        <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a Philosophy Break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
         <Layout>
             {edges.slice(0, 1).map(edge => {
                 const {frontmatter, timeToRead, fields} = edge.node;
@@ -55,15 +57,17 @@ const Articles = ({ data, location }) => {
                 </div>{/*end page center*/}
                 <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fixed={data.file.childImageSharp.fixed} alt="Philosophy Break"/></div>
                 {/*subscription form*/}
-                <div className="after-article">
-                    <div className="page-center">
-                        <h3>Get Weekly Breaks</h3>
-                        <div className="separator"></div>
-                    </div>
-                    <SubscriptionForm />
+                <div className="page-center">
+                    <h3>Get Weekly Breaks</h3>
+                    <div className="separator"></div>
                 </div>
+                <SubscriptionForm />
             </div>{/*end grey background*/}
             <PanelReadingList />
+            <div className="grey-background">
+                <ListReadingList />
+            </div>
+            <PanelAboutUs />
         </Layout>
         </>
     )

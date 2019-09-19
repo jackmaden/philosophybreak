@@ -18,7 +18,10 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #282828; t
 
 /***general classes***/
 .grey-background {background-color: #f8f8f8; padding: 24px 0;}
+.grey-background h3 {text-align: center; margin-top: 1em;}
+.grey-background .separator {margin: 1.5em auto 0;}
 .text-center {text-align: center;}
+
 /*responsive hide*/
 @media (max-width: 619px) {
   .mobile-no-display {display: none !important;}
@@ -230,7 +233,7 @@ svg.bounce {margin-right: 0;}
 .article {margin: 24px 0;}
 .article:first-of-type {margin-top: 0;}
 .article a {text-decoration: none; display: flex; background-color: #fff; align-items: center;}
-.article a:hover .article-info .time, .article a:hover .article-info .time svg, .article.white a:hover .article-info p.time:first-of-type {color: #fff; fill: #fff;}
+.article a:hover .article-info .time, .article a:hover .article-info .time svg {color: #fff; fill: #fff;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
 .article a .article-info h2 {margin: 0; font-size: 18px;}
@@ -269,12 +272,14 @@ svg.bounce {margin-right: 0;}
 }
 
 /***reading list book listing***/
-.article.white a {background-color: #f8f8f8;}
+.article.white > a {background: #f8f8f8;}
+.article.white > a:hover {background: #f8f8f8;}
+.article.white a:hover h2, .article.white a:hover p.time {color: #282828;}
 .article.white a div.gatsby-image-wrapper {width: 33%;}
 .article.white a div.gatsby-image-wrapper > picture > img {object-position: top center !important;}
 .article.white a .article-info {width: 67%}
-.article.white a .article-info p.time {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
-.article.white a .article-info p.time:first-of-type {color: #282828;}
+.article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #282828;}
+.article.white a .article-info a.button {display: inline-block; margin-top: 0.5em; margin-bottom: 0; font-size: 14px;}
 @media (min-width: 420px) {
   .article.white a div.gatsby-image-wrapper {width: 30%;}
   .article.white a .article-info {width: 70%}
@@ -286,6 +291,9 @@ svg.bounce {margin-right: 0;}
 @media (min-width: 520px) {
   .article.white a div.gatsby-image-wrapper {width: 25%;}
   .article.white a .article-info {width: 75%}
+}
+@media (min-width: 620px) {
+  .article.white a .article-info a.button {font-size: 16px;}
 }
 
 /***in-article styling***/
@@ -316,10 +324,6 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
   figcaption {font-size: 14px;}
   .big-letter {font-size: 112px;}
 }
-/*after-article*/
-.after-article h3 {text-align: center; margin-top: 1em;}
-.after-article .separator {margin: 1.5em auto 0;}
-
 
 /***form***/
 #mc_embed_signup {width: 100%; padding: 36px 0 30px; background-color: #f8f8f8;}
@@ -330,6 +334,7 @@ input, button {padding: 1em 1.2em 1.1em; font-family: 'Public Sans', sans-serif;
 input[type="email"] {padding-right: 20%; color: #282828;}
 input[type="email"]::placeholder {color: #8c8c8c; font-weight: 100;}
 button[type="submit"] {width: 45%; justify-content: center; cursor: pointer; margin-top: 0; margin-bottom: 0; margin-left: -15%; color: #fff; border: none; display: flex; align-items: flex-end; text-align: center;}
+button[type="submit"].button.primary {-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
 input:focus {outline: none;}
 input.required:invalid {border-color: red;}
 @media (min-width: 620px) {
