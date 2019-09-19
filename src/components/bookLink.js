@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 
 export default props => (
     <>    
-        <h4>{props.title}, by {props.author}</h4>
+        <h3>{props.title}, by {props.author}</h3>
         <div className="article white">
             <a target="_blank" rel="noopener noreferrer" href={props.link}>
                 <Img fluid={props.img} alt={props.title + ", by " + props.author} />

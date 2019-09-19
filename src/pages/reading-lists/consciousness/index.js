@@ -31,7 +31,7 @@ export default ({ data, location }) => (
             <BookLink title="Conversations on Consciousness" author="Susan Blackmore" link="https://www.amazon.com/gp/product/0195179595/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195179595&linkId=662d506c65722b6cfb7eacc629175797" img={data.consciousnessconversations.childImageSharp.fluid} />
             <p>If you're looking for an overview of just how varied and radical the ideas within the field of consciousness can be, Susan Blackmore's 2005 <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0195179595/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195179595&linkId=662d506c65722b6cfb7eacc629175797">Conversations on Consciousness</a> is a fantastic choice. Using wide-ranging interviews with leading thinkers and scientists of the field, including Chalmers and Dennett, Blackmore takes you on a mind-stretching trip from physicalism to dualism – and everything in between.</p>
 
-            <BookLink title="Other Minds: The Octopus, the Sea" author="Peter Godfrey-Smith" link="https://www.amazon.com/gp/product/0374537194/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0374537194&linkId=ca065077a342a85da57532f3df7f13db" img={data.consciousnessoctopus.childImageSharp.fluid} />
+            <BookLink title="Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness" author="Peter Godfrey-Smith" link="https://www.amazon.com/gp/product/0374537194/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0374537194&linkId=ca065077a342a85da57532f3df7f13db" img={data.consciousnessoctopus.childImageSharp.fluid} />
             <p>In his fascinating 2016 book <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0374537194/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0374537194&linkId=ca065077a342a85da57532f3df7f13db">Other Minds</a>, Peter Godfrey-Smith not only examines the weird mystery of consciousness, but charts its potential evolution from when life began. Drawing on his experience as a philosopher and enthusiastic scuba diver, he thoughtfully uses the octopus, a deeply alien yet oddly intelligent creature, to trace our inner lives back to their roots, and beautifully weaves in the story of how nature became aware of itself.</p>
 
             <BookLink title="The Origin of Consciousness in the Breakdown of the Bicameral Mind" author="Julian Jaynes" link="https://www.amazon.com/gp/product/0618057072/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0618057072&linkId=a7900042d1ab769263ab3c35e90b7638" img={data.consciousnessbicameral.childImageSharp.fluid} />
@@ -52,8 +52,8 @@ export default ({ data, location }) => (
             <div className="page-center">
                 <h3>Latest Breaks</h3>
                 <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
-                <ListArticleList />
             </div>
+            <ListArticleList />
         </div>
         <PanelReadingList />
     </Layout>
