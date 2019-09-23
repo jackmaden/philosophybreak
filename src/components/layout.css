@@ -32,9 +32,9 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #282828; t
 /***headings***/
 h1 {font-size: 36px; font-weight: 900;}
 h1#home-page {font-size: 34px;}
-h2 {font-size: 30px; margin: 2em 0 1em; font-weight: 400;}
+h2 {font-size: 30px; margin: 2em 0 0.5em; font-weight: 400;}
 h3, h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
-h3 {font-size: 25px;}
+h3 {font-size: 24px;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
 
@@ -215,16 +215,26 @@ svg.bounce {margin-right: 0;}
 }
 
 /*reading list title*/
-.title.list {height: 300px;}
+.title.list {height: 330px;}
 .title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));}
 .title.list div.title-center {bottom: 18px;}
+.time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
+.time.tag svg {width: 14px; height: 14px; vertical-align: sub; margin-right: 4px;}
+.reading-list-title .time.tag {font-size: 8px; margin-bottom: 4px;}
+.reading-list-title .time.tag svg {width: 12px; height: 12px;}
+.reading-list-title p {font-size: 16px;}
 .title.list h1 {font-size: 30px;}
-.title.list h4 {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 2px 0;}
-.title.list h4 svg {height: 20px; width: 20px; vertical-align: sub;}
+.title.list h4 {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 20px;}
 @media (min-width: 620px) {
+  .time.tag {font-size: 12px; margin-bottom: 6px;}
+  .time.tag svg {width: 16px; height: 16px; margin-right: 6px;}
+  .reading-list-title .time.tag {font-size: 10px;}
+  .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
   .title.list h1 {font-size: 40px;}
-  .title.list h4 {font-size: 24px;}
-  .title.list h4 svg {height: 22px; width: 22px; vertical-align: sub;}
+  .title.list h4 {font-size: 26px;}
+}
+@media (min-width: 1500px) {
+  .title.list {height: 450px;}
 }
 
 /***article listing***/
@@ -248,13 +258,13 @@ svg.bounce {margin-right: 0;}
 /***reading list***/
 .reading-list {display: block; margin: 24px 0; height: 180px; box-sizing: border-box; text-decoration: none; position:relative;}
 .grey-background .reading-list:first-child {margin-top: 0;}
-.reading-list:hover {-webkit-filter: brightness(1.3); filter: brightness(1.3);}
+.reading-list:hover {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
 .reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.5));}
-.reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-52%); transform: translateY(-52%);}
 .reading-list h3 {color: #fff; font-weight: 900; margin: 0 !important; text-align: left;}
 .reading-list p {color: #fff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .reading-list p svg {width: 16px; height: 16px; margin-right: 1px; vertical-align: middle;}
-.reading-list svg.cta {position: absolute; top:50%; -ms-transform: translateY(-50%); transform: translateY(-50%); right: 0; width: 50px; height: 50px; fill: #fff;}
+.reading-list svg.cta {position: absolute; top:50%; -ms-transform: translateY(-50%); transform: translateY(-50%); right: 0; width: 60px; height: 60px; fill: #fff;}
 @media (min-width: 620px) {
   .reading-list {height: 230px;}
   .reading-list div.reading-list-title {padding: 12px 20px;}
