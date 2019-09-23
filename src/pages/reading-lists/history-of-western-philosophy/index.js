@@ -13,7 +13,7 @@ import PanelReadingList from "../../../components/panelReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="The History of Western Philosophy – 5 Essential Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." pathname={location.pathname} />
+    <SEO title="The History of Western Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
         {/*article title*/}
