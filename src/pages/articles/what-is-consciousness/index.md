@@ -1,6 +1,6 @@
 ---
 title: "What is Consciousness?"
-description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how – or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
+description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how — or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
 image: "./cucumber.jpg"
 imageAlt: "cucumbers"
 tags: ["Consciousness", "Physicalism", "Panpsychism"]
@@ -23,7 +23,7 @@ The story of what happens when we look at cucumbers, therefore, seems incomplete
 
 These questions represent what philosopher David Chalmers has dubbed the 'hard problem' of consciousness. In his 1995 essay [Facing Up to the Hard Problem of Consciousness](http://www.consc.net/papers/facing.html), he writes:
 
->>“The really hard problem of consciousness is the problem of experience. When we think and perceive, there is a whir of information processing, but there is also a subjective aspect. [...] Why is it that when our cognitive systems engage in visual and auditory information-processing, we have visual or auditory experience: the quality of deep blue, the sensation of middle C? How can we explain why there is something it is like to entertain a mental image, or to experience an emotion? It is widely agreed that experience arises from a physical basis, but we have no good explanation of why and how it so arises. Why should physical processing give rise to a rich inner life at all? It seems objectively unreasonable that it should, and yet it does.”
+>“The really hard problem of consciousness is the problem of experience. When we think and perceive, there is a whir of information processing, but there is also a subjective aspect. [...] Why is it that when our cognitive systems engage in visual and auditory information-processing, we have visual or auditory experience: the quality of deep blue, the sensation of middle C? How can we explain why there is something it is like to entertain a mental image, or to experience an emotion? It is widely agreed that experience arises from a physical basis, but we have no good explanation of why and how it so arises. Why should physical processing give rise to a rich inner life at all? It seems objectively unreasonable that it should, and yet it does.”
 
 Solving the problem of consciousness, Chalmers thinks, lies not in simply describing the physical processes that correspond to it. The really hard problem, as illuminated by our cucumber example, lies in answering why conscious experience occurs at all.
 
@@ -35,7 +35,7 @@ So what _is_ this felt-experience, exactly? Perhaps we could say that when we ar
 
 Consciousness is characterized most evocatively, I think, by Thomas Nagel in his [What is it Like to be a Bat?](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf) essay, written in 1974: 
 
->>“[A]n organism has conscious mental states if there is something that it is like to _be_ that organism – something it is like _for_ the organism.” 
+>“[A]n organism has conscious mental states if there is something that it is like to _be_ that organism – something it is like _for_ the organism.” 
 
 Indeed, the point about conscious experience is that there is _something it is like_ for the experiencer to see x, hear y, or feel z, and it is through our subjective conscious experiences that we each know the world.
 
