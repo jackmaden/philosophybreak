@@ -45,6 +45,7 @@
     "typeface-spectral": "0.0.72"
   },
   "devDependencies": {
+    "gatsby-plugin-force-trailing-slashes": "^1.0.4",
     "gh-pages": "^2.0.1",
     "prettier": "^1.18.2"
   },

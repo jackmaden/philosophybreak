@@ -57,7 +57,7 @@ If Russell’s rallying cry for the study of philosophy has piqued your interest
 
 Hit the banner below now to further explore the wonderful subject of philosophy. 
 
-<a class="reading-list cta" href="/reading-lists/introduction-to-philosophy">
+<a class="reading-list cta" href="/reading-lists/introduction-to-philosophy/">
     <img class="title-img" src="./introduction.jpg"/>
     <div class="darkener"></div>
     <div class="reading-list-title">

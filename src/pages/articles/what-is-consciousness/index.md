@@ -69,9 +69,9 @@ Regardless of whether you lean towards physicalism, or a non-physicalist theory 
 
 ## Dive deeper
 
-If you're interested in exploring consciousness further, [we've compiled a reading list](/reading-lists/consciousness) of the most essential, compelling, and accessible works in the field. Hit the banner below to access it now.
+If you're interested in exploring consciousness further, [we've compiled a reading list](/reading-lists/consciousness/) of the most essential, compelling, and accessible works in the field. Hit the banner below to access it now.
 
-<a class="reading-list cta" href="/reading-lists/consciousness">
+<a class="reading-list cta" href="/reading-lists/consciousness/">
     <img class="title-img" src="./consciousnesslist.jpg"/>
     <div class="darkener"></div>
     <div class="reading-list-title">

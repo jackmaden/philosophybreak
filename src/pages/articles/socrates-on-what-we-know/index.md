@@ -36,7 +36,7 @@ In other words, Socrates believes himself to be wiser than those he speaks to be
 
 Known as the Socratic paradox, this phrase is not one that Socrates is recorded as saying, but thought to be derived from the passage in [Plato's Apology](http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863) outlined above. 
 
-Regardless, it's a significant statement for epistemology, the branch of philosophy concerned with the theory of knowledge. Socrates's discussions over two thousand years ago set in motion the profound doubting, the uncertainty as to what we can know, that came to the fore with [Descartes's _cogito ergo sum_](/articles/hallucinating-with-descartes). 
+Regardless, it's a significant statement for epistemology, the branch of philosophy concerned with the theory of knowledge. Socrates's discussions over two thousand years ago set in motion the profound doubting, the uncertainty as to what we can know, that came to the fore with [Descartes's _cogito ergo sum_](/articles/hallucinating-with-descartes/). 
 
 ## Annoying people to death
 
