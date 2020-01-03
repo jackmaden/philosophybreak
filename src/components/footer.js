@@ -16,7 +16,7 @@ export default () => (
             <div className="disclaimer-footer">
                 <p>Philosophy Break is a clearing in your cluttered newsfeed. Each break takes only a few minutes to read, and is designed to expand your mind and spark your philosophical curiosity — from how best to live our lives, to the ultimate nature of the worlds we live in. Learn more about us <Link to="/about/">here</Link>.</p> 
                 <p>To offset a fraction of what it costs to maintain Philosophy Break and keep it ad-free, we participate in the Amazon Associates Program. This means if you purchase a book on Amazon from a link on here, we may earn a small percentage of its price, at no extra cost to you. This helps support Philosophy Break, and is very much appreciated.</p>
-                <p>© Philosophy Break 2019</p>
+                <p>© Philosophy Break 2020</p>
             </div>
         </div>
         {/*Amazon onelink*/}
