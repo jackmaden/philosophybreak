@@ -1,25 +1,24 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Img from "gatsby-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
-import { SubscriptionForm } from '../../../components/subscriptionForm'
-import ListArticleList from "../../../components/listArticleList"
-import PanelReadingList from "../../../components/panelReadingList"
+import CtaReadingList from "../../../components/ctaReadingList"
+import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
     <SEO title="Consciousness – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the philosophy of consciousness." pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
-        {/*article title*/}
+        
+        {/*reading list title*/}
         <TitleReadingList title="Consciousness" number="5" img={data.title.childImageSharp.fluid} alt="consciousness" />
 
-        {/*article content*/}
+        {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
             <p><span className="big-letter">C</span>onsciousness is at once the most familiar thing to us, and perhaps the most mysterious. Why does conscious experience arise, and what is its nature? Is it a physical entity, or something else entirely? To what extent are other lifeforms conscious, and could we ever recreate their experiences? These difficult questions form the basis of the so-called <Link to="/articles/what-is-consciousness">'hard problem' of conscious experience</Link>, an area of research receiving growing attention.</p>
             <p>Within philosophy, the debate around consciousness is fierce. The following reading list is designed to provide you with a thorough introduction to the problem of consciousness, as well as a well-rounded view of leading solutions to it.</p>
@@ -46,25 +45,12 @@ export default ({ data, location }) => (
 
             <h2>Further reading</h2>
             <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+            <CtaReadingList />
         </div>
-        <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={data.philosophybreak.childImageSharp.fluid} alt="Philosophy Break"/></div>
 
-        {/*post-article*/}
-        <div id="post-article-height">
-            <div className="grey-background">
-                <div className="page-center">
-                    <h3>Get Weekly Breaks</h3>
-                    <div className="separator"></div>
-                </div>
-                <SubscriptionForm />
-                <div className="page-center">
-                    <h3>Latest Breaks</h3>
-                    <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
-                </div>
-                <ListArticleList />
-            </div>
-            <PanelReadingList />
-        </div>
+        {/*post reading list*/}
+        <PostReadingList />
+
     </Layout>
     </>
 )
@@ -109,13 +95,6 @@ export const query = graphql`
         five: file(relativePath: {eq: "consciousnessbicameral.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 300) {
-                    ...GatsbyImageSharpFluid
-                }
-            }
-        }
-        philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
-            childImageSharp {
-                fluid(maxWidth: 22) {
                     ...GatsbyImageSharpFluid
                 }
             }

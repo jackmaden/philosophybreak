@@ -1,25 +1,24 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
-import { SubscriptionForm } from '../../../components/subscriptionForm'
-import ListArticleList from "../../../components/listArticleList"
-import PanelReadingList from "../../../components/panelReadingList"
+import CtaReadingList from "../../../components/ctaReadingList"
+import PostReadingList from "../../../components/postReadingList"
+
 
 export default ({ data, location }) => (
     <>
     <SEO title="The History of Western Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
-        {/*article title*/}
+        {/*reading list title*/}
         <TitleReadingList title="The History of Western Philosophy" number="5" img={data.title.childImageSharp.fluid} alt="Western Philosophy" />
         
-        {/*article content*/}
+        {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
             <p><span className="big-letter">R</span>eading a book on the history of Western philosophy in its entirety might seem foreboding – but imagine writing one! Thankfully, a number of authors have stepped up to the Herculean task, providing us with a complete overview of how Western philosophy has unfolded over the last two and a half thousand years.</p>
             <p>The following reading list contains the best of such books. With each, you'll be taken on an illuminating journey from the pre-Socratic philosophers of Ancient Greece, through medieval times and the ideas of the Enlightenment, right up to the analytic and continental philosophy of today. Fasten your seat belts!</p>
@@ -46,25 +45,12 @@ export default ({ data, location }) => (
             
             <h2>Further reading</h2>
             <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+            <CtaReadingList />
         </div>
-        <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={data.philosophybreak.childImageSharp.fluid} alt="Philosophy Break"/></div>
-        
-        {/*post-article*/}
-        <div id="post-article-height">
-            <div className="grey-background">
-                <div className="page-center">
-                    <h3>Get Weekly Breaks</h3>
-                    <div className="separator"></div>
-                </div>
-                <SubscriptionForm />
-                <div className="page-center">
-                    <h3>Latest Breaks</h3>
-                    <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
-                </div>
-                <ListArticleList />
-            </div>
-            <PanelReadingList />
-        </div>
+       
+        {/*post reading list*/}
+        <PostReadingList />
+
     </Layout>
     </>
 )

@@ -9,8 +9,8 @@ import Layout from '../../components/layout'
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import PanelReadingList from '../../components/panelReadingList'
-import ListReadingList from '../../components/listReadingList'
 import PanelAboutUs from '../../components/panelAboutUs'
+import WatermarkBreak from "../../components/watermarkBreak"
 
 const Articles = ({ data, location }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-20px'}})
@@ -55,19 +55,21 @@ const Articles = ({ data, location }) => {
                         )
                     })}
                 </div>{/*end page center*/}
-                <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fixed={data.file.childImageSharp.fixed} alt="Philosophy Break"/></div>
-                {/*subscription form*/}
-                <div className="page-center">
-                    <h3>Get Weekly Breaks</h3>
-                    <div className="separator"></div>
-                </div>
-                <SubscriptionForm />
+            
             </div>{/*end grey background*/}
-            <PanelReadingList />
-            <div className="grey-background">
-                <ListReadingList />
+            
+            {/*custom spacing for watermark articles page*/}
+            <div style={{backgroundColor: '#f8f8f8', marginTop: '-48px'}}>
+                <WatermarkBreak />
             </div>
+
+            <SubscriptionForm />
+            <PanelReadingList />
             <PanelAboutUs />
+
+            {/*extra padding pre-footer on articles page*/}
+            <div className="grey-background" style={{paddingBottom: '6px'}}></div>
+
         </Layout>
         </>
     )

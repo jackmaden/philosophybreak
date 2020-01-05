@@ -1,25 +1,23 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Img from "gatsby-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
-import { SubscriptionForm } from '../../../components/subscriptionForm'
-import ListArticleList from "../../../components/listArticleList"
-import PanelReadingList from "../../../components/panelReadingList"
+import CtaReadingList from "../../../components/ctaReadingList"
+import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
     <SEO title="An Introduction to Philosophy – The Top 4 Books to Read" description="A curated reading list of the best and most essential introductions to the fascinating subject of philosophy." pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
-        {/*article title*/}
+        {/*reading list title*/}
         <TitleReadingList title="An Introduction to Philosophy" number="4" img={data.title.childImageSharp.fluid} alt="Introduction to Philosophy" />
         
-        {/*article content*/}
+        {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
             <p><span className="big-letter">P</span>hilosophy literally means ‘love of wisdom’, but defining it beyond this becomes a little tricky. In a nutshell, philosophy concerns itself with deep, fundamental questions: from how best we should live our lives, to the basic nature of the worlds we live in. But within this nutshell resides a whole universe of feeling, reason, and meaning. Considering such mammoth subject matter, it's difficult to know where to start.</p>
             <p>But fear not! This reading list contains the best general introductions to philosophy. Each book discusses the enduring questions philosophers have tackled throughout history — questions you have probably wondered about yourself. You know the ones. Why are we here? What's the right thing to do? What's the meaning of life?</p>
@@ -43,25 +41,12 @@ export default ({ data, location }) => (
             
             <h2>Further reading</h2>
             <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+            <CtaReadingList />
         </div>
-        <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={data.philosophybreak.childImageSharp.fluid} alt="Philosophy Break"/></div>
         
-        {/*post-article*/}
-        <div id="post-article-height">
-            <div className="grey-background">
-                <div className="page-center">
-                    <h3>Get Weekly Breaks</h3>
-                    <div className="separator"></div>
-                </div>
-                <SubscriptionForm />
-                <div className="page-center">
-                    <h3>Latest Breaks</h3>
-                    <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
-                </div>
-                <ListArticleList />
-            </div>
-            <PanelReadingList />
-        </div>
+        {/*post reading list*/}
+        <PostReadingList />
+
     </Layout>
     </>
 )

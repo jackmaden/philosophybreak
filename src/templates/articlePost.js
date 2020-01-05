@@ -9,9 +9,10 @@ import Layout from '../components/layout'
 import { ScrollProgressBar } from '../components/scrollProgressBar'
 import { SubscriptionForm } from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
+import WatermarkBreak from "../components/watermarkBreak"
 import PanelReadingList from '../components/panelReadingList'
 import PanelAboutUs from '../components/panelAboutUs'
-import ListReadingList from '../components/listReadingList'
+
 
 const ArticlePost = ({ data, location }) => {
   const post = data.markdownRemark
@@ -39,18 +40,18 @@ const ArticlePost = ({ data, location }) => {
         </WindowHeightWrapper>
         {/*article content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}} dangerouslySetInnerHTML={{ __html: post.html }} />
-        <div className="time" style={{marginTop: 48, textAlign: "center"}}><Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={post.frontmatter.authorPic.childImageSharp.fluid} alt={post.frontmatter.author}/></div>
+        
+        <WatermarkBreak />
+
         {/*post-article*/}
         <div id="post-article-height">
+          <SubscriptionForm />
           <div className="grey-background">
             <div className="page-center">
-              <h3>Get Weekly Breaks</h3>
-              <div className="separator"></div>
-            </div>
-            <SubscriptionForm />
-            <div className="page-center">
-              <h3>Take Another Break</h3>
-              <div className="separator" style={{margin: "1.5em auto 2em"}}></div>
+              <div className="text-center">
+                <h3>Take Another Break</h3>
+                <div className="separator" style={{marginBottom: "2em"}}></div>
+              </div>
               {edges.filter(edge => edge.node.fields.slug !== location.pathname).slice(0, 4).map(edge => {
                   //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
                   //using this rather than component to filter out the current article. In future can build out a 'related posts' section using this logic
@@ -71,10 +72,7 @@ const ArticlePost = ({ data, location }) => {
             </div>
           </div>
           <PanelReadingList />
-          <div className="grey-background">
-                <ListReadingList />
-            </div>
-            <PanelAboutUs />
+          <PanelAboutUs />
         </div>
       </Layout>
       </>
