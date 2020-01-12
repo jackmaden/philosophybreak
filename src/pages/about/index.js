@@ -25,7 +25,7 @@ export default ({ data, location }) => {
                 <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                 <h2>Our mission</h2>
                 <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy.</p>
-                <p>Why? Because we believe philosophy is the meaningful antidote to a world saturated by meaningless information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
+                <p>Why? Because we believe philosophy is the antidote to a world saturated by information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
                 <h2>The value of philosophy</h2>
                 <p>Why is there something rather than nothing? How can we live meaningful lives when all of us will die? What responsibilities do we have towards the world and each other? Is there a God? What is matter? What is consciousness? Why are we here?</p>
                 <p>The point of asking such questions is not necessarily to conclusively answer them, but rather to provide perspective and meaning for the one who asks.</p> 
