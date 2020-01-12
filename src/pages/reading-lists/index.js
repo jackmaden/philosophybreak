@@ -19,7 +19,7 @@ export default ({ data, location }) => {
             {/*page content*/}
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
                 
-                <p className="large-grey-font">Ready to deepen your knowledge, or looking for recommendations on what to read next? We've compiled reading lists of the most essential, compelling, and accessible works of particular philosophers and philosophical subjects.</p>
+                <p className="large-grey-font">Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects.</p>
 
                 <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
                 

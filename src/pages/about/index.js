@@ -25,10 +25,15 @@ export default ({ data, location }) => {
                 <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                 <h2>Our mission</h2>
                 <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy.</p>
-                <p>Why? Because we believe philosophy is the antidote to a world saturated by information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
+                <p>Why? Because we believe philosophy is the meaningful antidote to a world saturated by meaningless information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
                 <h2>The value of philosophy</h2>
-                <p>Philosophy as a subject has much to offer; but it is philosophy as an <i>act</i> that we seek to popularize. <i>To philosophize</i> means asking 'why', it means challenging assumptions, it means harnessing your curiosity to forge your own path.</p>
-                <p>Moreover, by thoughtfully dwelling on subjects larger than ourselves, <Link to="/articles/bertrand-russell-why-philosophy-matters/">so the great Bertrand Russell argued</Link>, we attain a humble tranquility — and leave our day-to-day stresses far behind.</p>
+                <p>Why is there something rather than nothing? How can we live meaningful lives when all of us will die? What responsibilities do we have towards the world and each other? Is there a God? What is matter? What is consciousness? Why are we here?</p>
+                <p>The point of asking such questions is not necessarily to conclusively answer them, but rather to provide perspective and meaning for the one who asks.</p> 
+                <p>By thoughtfully dwelling on subjects larger than ourselves, <Link to="/articles/bertrand-russell-why-philosophy-matters/">so the great Bertrand Russell argued</Link>, we recognize how little we <i>really</i> know about anything.</p>
+                <p>The uncertainty we feel in the face of such contemplation is fertile ground. Through it, we attain a humble tranquility that opens our minds beyond the "tyranny of custom", and equips us with the tools to consciously and actively <i>decide</i> what's important in life for ourselves.</p>
+                <h2>Living philosophically</h2>
+                <p>Reading the works of great thinkers on life, death, and what it all means is extremely rewarding, and philosophy as a historical subject has much to offer — but it is philosophy as an <i>act</i> that we seek to popularize.</p>
+                <p><i>To philosophize</i> means asking 'why', it means challenging assumptions, it means harnessing your curiosity to throw off inherited dogma and forge your own path.</p>
                 <p>We believe it is only by living philosophically that people can cultivate meaningful existences and fully realize their potential. For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous martyr of philosophy</Link>, declared:</p>
                 <blockquote><p>"The unexamined life is not worth living."</p></blockquote>
                 <h2>Get involved</h2>

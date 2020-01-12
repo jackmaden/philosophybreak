@@ -35,8 +35,7 @@ export default () => (
         <div className="page-center">
             <div className="text-center">
                 <h3>Dive Deeper</h3>
-                <div className="separator"></div>
-                <p className="small-grey-font">Explore our curated reading lists of the best and most important philosophical works ever written, broken down by subject.</p>
+                <div className="separator" style={{marginBottom: '2em'}}></div>
             </div>
             <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
             

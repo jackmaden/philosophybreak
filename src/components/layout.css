@@ -161,25 +161,22 @@ ul#menu li a svg path {fill: #36b4ff;}
 /*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
-.featured-image-full div.page-center h4 {margin-top: 0.1em; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 17.5px;}
+.featured-image-full div.page-center h4, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+.featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 17.5px;}
+.featured-image-full div.page-center p {font-size: 16px;}
 @media (min-width: 360px) {
   .featured-image-full div.page-center h4 {font-size: 19.3px;}
 }
 @media (min-width: 620px) {
   .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 33px;}
+  .featured-image-full div.page-center p {font-size: 20px;}
 }
-/***panels***/
-.panel {position: relative; height: 400px;}
-.panel div.darkener {background: linear-gradient(rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.2) 100%);}
-.panel div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
-.panel div.page-center h2, .panel div.page-center p {color: #fff;}
-.panel div.page-center h2 {font-weight: 900; margin-top: 0;}
-.panel div.page-center p, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px; font-size: 16px;}
+
+/***about image cta***/
+.about-cta-img {width: 100%; height: 120px; object-fit: cover;}
 @media (min-width: 620px) {
-  .panel {height: 450px;}
-  .panel div.page-center {left: 0; right: 0;}
-  .panel div.page-center p, .featured-image-full div.page-center p {font-size: 20px;}
+  .about-cta-img {height: 140px;}
 }
 
 /***filters***/
