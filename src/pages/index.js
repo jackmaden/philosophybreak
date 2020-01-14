@@ -57,7 +57,7 @@ export const query = graphql`
     query {
         file(relativePath: {eq: "philosophy-break.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100) {
+                fluid(maxWidth: 2100, quality: 80) {
                     ...GatsbyImageSharpFluid
                 }
             }
