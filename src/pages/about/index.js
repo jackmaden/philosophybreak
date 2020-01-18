@@ -21,24 +21,22 @@ export default ({ data, location }) => {
 
             {/*page content*/}
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-                <p className="large-grey-font">Philosophy Break is a clearing in your cluttered newsfeed. Each break takes only a few minutes to read, and is designed to spark your philosophical curiosity — from how best to live our lives, to the ultimate nature of the worlds we live in.</p>
+                <p className="large-grey-font">Philosophy Break is a clearing in your cluttered newsfeed. Each break takes only a few minutes to read, and is designed to expand your mind and spark your philosophical curiosity — from how best to live our lives, to the ultimate nature of the worlds we live in.</p>
                 <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                 <h2>Our mission</h2>
                 <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy.</p>
                 <p>Why? Because we believe philosophy is the antidote to a world saturated by information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
-                <h2>The value of philosophy</h2>
-                <p>Why is there something rather than nothing? How can we live meaningful lives when all of us will die? What responsibilities do we have towards the world and each other? Is there a God? What is matter? What is consciousness? Why are we here?</p>
-                <p>The point of asking such questions is not necessarily to conclusively answer them, but rather to provide perspective and meaning for the one who asks.</p> 
-                <p>By thoughtfully dwelling on subjects larger than ourselves, <Link to="/articles/bertrand-russell-why-philosophy-matters/">so the great Bertrand Russell argued</Link>, we recognize how little we <i>really</i> know about anything.</p>
-                <p>The uncertainty we feel in the face of such contemplation is fertile ground. Through it, we attain a humble tranquility that opens our minds beyond the "tyranny of custom", and equips us with the tools to consciously and actively <i>decide</i> what's important in life for ourselves.</p>
-                <h2>Living philosophically</h2>
-                <p>Reading the works of great thinkers on life, death, and what it all means is extremely rewarding, and philosophy as a historical subject has much to offer — but it is philosophy as an <i>act</i> that we seek to popularize.</p>
-                <p><i>To philosophize</i> means asking 'why', it means challenging assumptions, it means harnessing your curiosity to throw off inherited dogma and forge your own path.</p>
-                <p>We believe it is only by living philosophically that people can cultivate meaningful existences and fully realize their potential. For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous martyr of philosophy</Link>, declared:</p>
+                <h2>The value of living philosophically</h2>
+                <p>Why is there something rather than nothing? What responsibilities do we have towards the world and each other? What is consciousness? What is matter? Why are we here? Do our lives have significance when all of us will die?</p>
+                <p>We believe it is only by acknowledging and thoughtfully facing up to such questions that people can live authentically, cultivate meaningful existences, and fully realize their human potential.</p> 
+                <p>Reading the works of great thinkers on life, the universe, and what it all means is extremely rewarding, and philosophy as a historical subject has much to offer in this regard. But beyond this passive learning, it is <i>active philosophizing</i> that we seek to popularize.</p>
+                <p><i>To philosophize</i> means thinking for yourself, it means asking 'why', it means challenging assumptions and harnessing your curiosity to forge your own path — be it on matters concerning faith and existence, how to make a better world, or simply working out what's important to you and worth pursuing in life.</p>
+                <p>For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous martyr of philosophy</Link>, declared:</p>
                 <blockquote><p>"The unexamined life is not worth living."</p></blockquote>
                 <h2>Get involved</h2>
                 <p>To disrupt the noise and keep your mind curious, be sure to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">follow Philosophy Break on Instagram</a>, and subscribe to our newsletter below.</p>
-                <p>Like our cause? Help us spread the word by sharing Philosophy Break with your friends and family, to make newsfeeds everywhere a more philosophical place.</p>
+                <p>If you're looking to learn more about philosophy, our article on the great <Link to="/articles/bertrand-russell-why-philosophy-matters/">Bertrand Russell discussing why philosophy matters</Link>, as well as our <Link to="/reading-lists/introduction-to-philosophy/">reading list on the best introductions to philosophy</Link>, are good places to start.</p>
+                <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on Instagram <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">here</a> or via email <a href="mailto:hello@philosophybreak.com">here</a>.</p>
             </div>
             
             <WatermarkBreak />
