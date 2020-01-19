@@ -29,7 +29,7 @@ export default ({ data, location }) => {
                 <h2>The value of living philosophically</h2>
                 <p>Why is there something rather than nothing? What responsibilities do we have towards the world and each other? What is consciousness? What is matter? Why are we here? Are our lives significant when all of us will die?</p>
                 <p>We believe it is only by acknowledging and thoughtfully facing up to such questions that people can live authentically, cultivate meaningful existences, and fully realize their human potential.</p>
-                <p>Engaging with the works of great thinkers on life, the universe, and what it all means empowers us to think for ourselves — be it on matters concerning faith and existence, how to make a better world, or simply working out what's important and worth pursuing in life.</p>
+                <p>Engaging with the ideas of great thinkers on life, the universe, and what it all means empowers us to think for ourselves — be it on matters concerning faith and existence, how to make a better world, or simply working out what's important and worth pursuing in life.</p>
                 <p>For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous martyr of philosophy</Link>, declared:</p>
                 <blockquote><p>"The unexamined life is not worth living."</p></blockquote>
                 <h2>Get involved</h2>
