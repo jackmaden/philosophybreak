@@ -1,0 +1,73 @@
+---
+title: "Why ‘Zombies’ Cause Problems for Brain Science and Consciousness"
+description: "Philosophical 'zombies' are a thought experiment designed to illuminate problems with the science of the brain. This article introduces your zombie twin — an identical, non-conscious version of you."
+image: "./zombies-consciousness.jpg"
+imageAlt: "underwater"
+tags: ["Consciousness", "Physicalism", "Daniel Dennett", "David J. Chalmers"]
+date: "2020-02"
+author: "Jack Maden"
+authorPic: "./philosophybreak.png"
+authorLink: "https://www.instagram.com/philosophybreak/"
+---
+<span class="big-letter">I</span>magine you have an identical twin. Not just a genetically identical twin, but an exact physical replica — an atom for atom clone. Your twin looks like you, sounds like you, smells like you — and every neuron in their brain is <i>exactly the same as yours</i>. Despite these overwhelming similarities, however, there is one important difference. 
+
+_Your twin doesn't experience anything_. He or she has no 'inner' conscious life.
+
+Your twin is what philosophers in the field of consciousness refer to as a ‘philosophical zombie’. 
+
+Philosophical zombies aren’t the shuffling, withered kind of zombies you see in TV shows or films, but rather perfect biological replicas of humans that lack conscious experience. 
+
+So while your zombie twin's brain activity is identical to yours, they have no _awareness_ of their awareness. Beyond the electrical processes occurring in their brains, there is nothing going on 'inside'.  
+
+If you punch your zombie twin they’ll wince or cry out, the c-fibres in their somatic sensory system will be stimulated — designating pain — but they will not _experience_ the process of pain. And when afterwards they demand to know why you lashed out, they'll have as much conscious awareness as a kettle when it boils.
+
+Everyone you know could be such a zombie. You might be the only conscious being in the universe.
+
+## Exploiting the gap between consciousness and brain activity
+
+<span class="big-letter">A</span>re such zombies possible? Probably not. But the fact these imaginary beings are even conceivable to us indicates a significant explanatory gap between consciousness and brain activity, so think philosophers of consciousness like David J. Chalmers. 
+
+![David J. Chalmers consciousness](./davidjchalmers.jpg "David J. Chalmers: the bad boy rock star of the consciousness world.")
+
+If brain activity and conscious experience were sufficiently bound by current scientific explanations, Chalmers argues in his book [The Conscious Mind](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195117891&linkId=17c460a9634b6fbce9ec8a22d88884e9), then zombies would be inconceivable: the idea of them would make no sense to us. 
+
+But zombies clearly _are_ conceivable — we can easily imagine and discuss them — so brain activity and consciousness are _not_ sufficiently bound by the physical explanatory framework or concepts we use to describe them. 
+
+In other words, we have no concept of nor explanation for how physical ‘stuff’ in the brain possibly gives rise to our rich inner conscious lives. There is a yawning gap — unbridgeable by our current approach.
+
+## Brain science doesn’t tell us how or why consciousness arises — or even what it's for
+
+<span class="big-letter">T</span>ake vision. We have explanations for how our sight works but not for ‘why’ we see. When we look at things, our eyes capture an image that is processed and committed to memory by the brain. This seems like a nice, complete system for an organism that needs to navigate. 
+
+![cameras consciousness](./camera-consciousness.jpg "Do cameras experience the images they capture?")
+
+So why must this biological function, this whirring of electrical activity, be accompanied by an <i>awareness</i> of the information our eyes and brains process, an <i>experience</i> of what we call 'seeing', at all? We’ve already bagged the information — so what purpose does this seemingly extraneous conscious experience serve? 
+
+On that note, what purpose does _any_ conscious experience serve? Why did consciousness arise in the first place? Does it have utility, or is it a mere evolutionary by-product? Why are the functions of _our_ subatomic particles accompanied by conscious experiences but those of, say, a pencil, _aren't_? What makes us different from our zombie twins? 
+
+These are the undesirable questions that zombies, exploiting the gap between brain activity and consciousness, force us to ask. 
+
+## Are zombies really worth taking seriously?
+
+<span class="big-letter">Z</span>ombies show that reconciling brain activity with conscious experience is a problem — a problem that requires more, Chalmers thinks, than neuroscientific research to solve.
+
+For Chalmers, the way we currently approach brain science will never lead to a satisfactory explanation of how consciousness emerges because our conceptual framework is too limited. 
+
+Instead, he calls for a radical rethink that places consciousness alongside quantum fields as a fundamental building block of the universe. In his view, there is no other way to adequately explain it.
+
+Of course, there are many who find zombies absurd. [Daniel Dennett argues that zombies are ultimately inconceivable](/articles/what-is-consciousness/): they're based on the assumption that brain activity and consciousness can come apart, which is an illusion we'll one day prove to be impossible. An explanatory gap doesn't entail an actual gap, we just need to continue our neuroscientific research.
+
+But zombies are just a small part of Chalmers’s argument as to why the gap between consciousness and brain activity is currently unbridgeable. For a more in-depth discussion of his thoughts, as well as responses to them, [check out this philosophy break](/articles/what-is-consciousness).
+
+Alternatively, to dive even deeper on the nature of consciousness, our [curated reading list](/reading-lists/consciousness/) outlines the most compelling and comprehensive works in the field. Hit the banner below to access it now.
+
+<a class="reading-list cta" href="/reading-lists/consciousness/">
+    <img class="title-img" src="/consciousnesslist.jpg"/>
+    <div class="darkener"></div>
+    <div class="reading-list-title">
+        <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
+        <h3>Consciousness</h3>
+        <p style="margin: 0;">The Top 5 Books to Read</p>
+    </div>    
+    <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
+</a>

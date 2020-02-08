@@ -3,7 +3,7 @@ title: "What Happens When Machines Become Smarter than People?"
 description: "Philosopher Daniel Dennett is not worried about a catastrophic singularity event — but that doesn’t mean he’s not worried. This article outlines what he considers to be the real, practical dangers of artificial intelligence."
 image: "./dennettmachines.jpg"
 imageAlt: "typing keyboard daniel dennett"
-tags: ["AI", "Singularity", "Daniel Dennett"]
+tags: ["AI", "Singularity", "Daniel Dennett", "David J. Chalmers"]
 date: "2019-12"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"

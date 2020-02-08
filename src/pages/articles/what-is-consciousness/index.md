@@ -3,13 +3,13 @@ title: "What is Consciousness?"
 description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how — or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
 image: "./cucumber.jpg"
 imageAlt: "cucumbers"
-tags: ["Consciousness", "Physicalism", "Panpsychism"]
+tags: ["Consciousness", "Physicalism", "Panpsychism", "Daniel Dennett", "David J. Chalmers"]
 date: "2019-08"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://www.instagram.com/philosophybreak/"
 ---
-<span class="big-letter">W</span>hat happens when you look at a cucumber? Well, to put it simply, you see a cucumber. You consciously experience the oblong, dark green vegetable in all its glory. But what actually occurs in your eyes and brain to construct this vision? The story starts, as you turn your gaze, with light — light hits the cucumber, some of which is absorbed, and some of which reflects into your cornea. This light passes through your pupil and is focused by your eye's lens onto the retina, a thin, photosensitive tissue that converts light into electrical signals. These electrical signals are then sent to the brain via the optic nerve to be processed in the visual cortex, enabling you to 'see' an oblong, dark green object, which you skilfully classify as a cucumber. 
+<span class="big-letter">W</span>hat happens when you look at a cucumber? Well, to put it simply, you see a cucumber. You <i>consciously experience</i> the oblong, dark green vegetable in all its glory. But what actually occurs in your eyes and brain to construct this vision? The story starts, as you turn your gaze, with light — light hits the cucumber, some of which is absorbed, and some of which reflects into your cornea. This light passes through your pupil and is focused by your eye's lens onto the retina, a thin, photosensitive tissue that converts light into electrical signals. These electrical signals are then sent to the brain via the optic nerve to be processed in the visual cortex, enabling you to 'see' an oblong, dark green object, which you skilfully classify as a cucumber. 
 
 And that, as a very crude summary, is what happens when you look at a cucumber. 
 
@@ -19,7 +19,7 @@ If we were to ask what happens, for example, when a _camera_ captures an image o
 
 There is one crucial difference between us and cameras in this example, however: as humans, we _consciously experience_ the images that we capture — we have a felt-experience of _seeing_ the cucumber. And we wouldn't attribute this kind of rich inner experience to a camera: on our terms, when they take photos, cameras experience nothing at all. 
 
-The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, or simply an extraneous mental accompaniment – or neither? 
+The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, simply an extraneous mental accompaniment — or neither? 
 
 These questions represent what philosopher David Chalmers has dubbed the 'hard problem' of consciousness. In his 1995 essay [Facing Up to the Hard Problem of Consciousness](http://www.consc.net/papers/facing.html), he writes:
 
