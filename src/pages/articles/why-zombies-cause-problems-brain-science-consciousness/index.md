@@ -9,17 +9,17 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://www.instagram.com/philosophybreak/"
 ---
-<span class="big-letter">I</span>magine you have an identical twin. Not just a genetically identical twin, but an exact physical replica — an atom for atom clone. Your twin looks like you, sounds like you, smells like you — and every neuron in their brain is <i>exactly the same as yours</i>. Despite these overwhelming similarities, however, there is one important difference. 
+<span class="big-letter">I</span>magine you have an identical twin. Not just a genetic match, but an exact physical replica — an atom for atom clone. Your twin looks like you, sounds like you, smells like you — and every neuron in his or her brain is <i>exactly the same as yours</i>. Despite these overwhelming similarities, however, there is one important difference. 
 
-_Your twin doesn't experience anything_. He or she has no 'inner' conscious life.
+_Your twin doesn't experience anything_. They have no 'inner' conscious life.
 
 Your twin is what philosophers in the field of consciousness refer to as a ‘philosophical zombie’. 
 
 Philosophical zombies aren’t the shuffling, withered kind of zombies you see in TV shows or films, but rather perfect biological replicas of humans that lack conscious experience. 
 
-So while your zombie twin's brain activity is identical to yours, they have no _awareness_ of their awareness. Beyond the electrical processes occurring in their brains, there is nothing going on 'inside'.  
+So while your zombie twin's brain activity is identical to yours, they have no _awareness_ of their awareness. Beyond the electrical processes occurring in their brain, there is nothing going on 'inside'.  
 
-If you punch your zombie twin they’ll wince or cry out, the c-fibres in their somatic sensory system will be stimulated — designating pain — but they will not _experience_ the process of pain. And when afterwards they demand to know why you lashed out, they'll have as much conscious awareness as a kettle when it boils.
+If you punch your zombie twin they’ll wince or cry out, the c-fibres in their somatic sensory system will be stimulated — designating pain — but they will not _experience_ this process of pain. And when afterwards they demand to know why you lashed out, they'll have as much conscious awareness as a boiling kettle.
 
 Everyone you know could be such a zombie. You might be the only conscious being in the universe.
 
@@ -29,11 +29,9 @@ Everyone you know could be such a zombie. You might be the only conscious being 
 
 ![David J. Chalmers consciousness](./davidjchalmers.jpg "David J. Chalmers: the bad boy rock star of the consciousness world.")
 
-If brain activity and conscious experience were sufficiently bound by current scientific explanations, Chalmers argues in his book [The Conscious Mind](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195117891&linkId=17c460a9634b6fbce9ec8a22d88884e9), then zombies would be inconceivable: the idea of them would make no sense to us. 
+In his book [The Conscious Mind](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195117891&linkId=17c460a9634b6fbce9ec8a22d88884e9), Chalmers argues that if describing brain activity was sufficient for providing a complete explanation of consciousness, then zombies would be inconceivable. The idea of them would make no sense to us, because it would be impossible to separate brain activity and consciousness — even conceptually. 
 
-But zombies clearly _are_ conceivable — we can easily imagine and discuss them — so brain activity and consciousness are _not_ sufficiently bound by the physical explanatory framework or concepts we use to describe them. 
-
-In other words, we have no concept of nor explanation for how physical ‘stuff’ in the brain possibly gives rise to our rich inner conscious lives. There is a yawning gap — unbridgeable by our current approach.
+So, that zombies _are_ conceivable is a big deal. It indicates that understanding brain activity brings us no closer to understanding why consciousness emerges the way it does. 
 
 ## Brain science doesn’t tell us how or why consciousness arises — or even what it's for
 
@@ -43,7 +41,7 @@ In other words, we have no concept of nor explanation for how physical ‘stuff�
 
 So why must this biological function, this whirring of electrical activity, be accompanied by an <i>awareness</i> of the information our eyes and brains process, an <i>experience</i> of what we call 'seeing', at all? We’ve already bagged the information — so what purpose does this seemingly extraneous conscious experience serve? 
 
-On that note, what purpose does _any_ conscious experience serve? Why did consciousness arise in the first place? Does it have utility, or is it a mere evolutionary by-product? Why are the functions of _our_ subatomic particles accompanied by conscious experiences but those of, say, a pencil, _aren't_? What makes us different from our zombie twins? 
+On that note, what purpose does _any_ conscious experience serve? Why did consciousness arise in the first place? Does it have utility, or is it a mere evolutionary by-product? What makes us different from our zombie twins? 
 
 These are the undesirable questions that zombies, exploiting the gap between brain activity and consciousness, force us to ask. 
 
@@ -57,7 +55,7 @@ Instead, he calls for a radical rethink that places consciousness alongside quan
 
 Of course, there are many who find zombies absurd. [Daniel Dennett argues that zombies are ultimately inconceivable](/articles/what-is-consciousness/): they're based on the assumption that brain activity and consciousness can come apart, which is an illusion we'll one day prove to be impossible. An explanatory gap doesn't entail an actual gap, we just need to continue our neuroscientific research.
 
-But zombies are just a small part of Chalmers’s argument as to why the gap between consciousness and brain activity is currently unbridgeable. For a more in-depth discussion of his thoughts, as well as responses to them, [check out this philosophy break](/articles/what-is-consciousness).
+Zombies are just a small part of Chalmers’s argument as to why the gap between consciousness and brain activity is currently unbridgeable. For a more in-depth discussion of his thoughts, as well as responses to them, [check out this philosophy break](/articles/what-is-consciousness).
 
 Alternatively, to dive even deeper on the nature of consciousness, our [curated reading list](/reading-lists/consciousness/) outlines the most compelling and comprehensive works in the field. Hit the banner below to access it now.
 
