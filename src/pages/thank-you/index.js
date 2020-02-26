@@ -1,9 +1,9 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import {useSpring, animated} from 'react-spring'
 
-import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 
@@ -11,7 +11,9 @@ export default ({ data }) => {
     const fadeIn = useSpring({opacity: 1, bottom: '9%', from: {opacity: 0, bottom: '50%'}})
     return (
         <>
-        <SEO title="Thank You for Subscribing" />
+        <Helmet>
+            <meta name="robots" content="noindex" />
+        </Helmet>
         <Layout>
             {/*article title*/}
             <WindowHeightWrapper className="title">
