@@ -17,11 +17,11 @@ In his hyper-intelligent 1843 treatise [Either/Or: A Fragment of Life](http://ww
 
 Laughter is the appropriate response to the busy person, Kierkegaard believes, for it’s the perfect way to undercut his or her self-importance. 
 
-Indeed, busy people fill up their time, always finding things to do — but this self-generated activity, while commonly performed with an air of martyr-like haughtiness — 'I just have _so much on_' — is simply a means of trivial escapism, Kierkegaard argues.
+Indeed, busy people haughtily fill their time, always finding things to do — 'I just have _so much on_' — but this self-generated activity is simply a trivial means of escapism, Kierkegaard argues.
 
-Such busy people block out their calendars to distract themselves from important questions, such as who they are and what their lives are for, and to avoid confronting the general emptiness of their existences. 
+Such people block out their calendars to avoid confronting the general emptiness of their existences — to distract themselves from truly important questions, such as who they are and what their lives are for. 
 
-Everything is important but nothing is important. The busy person is thus ridiculous.
+Everything matters but nothing matters: busy people are thus ridiculous.
 
 ## But what if you just _are_ busy?
 
@@ -35,7 +35,7 @@ But here we must remember Kierkegaard’s diagnosis of 'the unhappy person', whi
 
 Investing everything you have in external events, people, or things is a surefire way to unhappiness, Kierkegaard advises. 
 
-Rather, it’s crucial to be attentive to yourself, present to your own wants and needs, as knowing what’s important to you is the first step in working out how to make your life a little less 'busy' — knowing which things to shed, and which to pay due time, care, and attention to. 
+Rather, it’s crucial to be attentive to yourself, present to your own wants and needs, as understanding what’s important to you is the first step in working out how to make your life a little less 'busy' — knowing which things to shed, and which to pay due time, care, and attention to. 
 
 So: who are you and what is your life for?
 
