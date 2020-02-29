@@ -1,7 +1,7 @@
 ---
 title: "Kierkegaard On Why Busy People Are Ridiculous"
 description: "19th-century Danish philosopher Søren Kierkegaard saw busyness as a vice. This article explores his arguments and discusses why, even when you have minimal time, being attentive to yourself is so crucial."
-image: "./kierkegaard-busy.jpg"
+image: "./kierkegaardbusy.jpg"
 imageAlt: "underwater"
 tags: ["Kierkegaard", "Existentialism"]
 date: "2020-03"
@@ -17,9 +17,11 @@ In his hyper-intelligent 1843 treatise [Either/Or: A Fragment of Life](http://ww
 
 Laughter is the appropriate response to the busy person, Kierkegaard believes, for it’s the perfect way to undercut his or her self-importance. 
 
-Indeed, busy people fill up their time, always finding things to do — but this self-generated activity, while commonly performed with an air of martyr-like haughtiness — 'I just have _so much on_' — is simply a means, Kierkegaard argues, of distracting themselves from important questions, such as who they are and what their lives are for. 
+Indeed, busy people fill up their time, always finding things to do — but this self-generated activity, while commonly performed with an air of martyr-like haughtiness — 'I just have _so much on_' — is simply a means of trivial escapism, Kierkegaard argues.
 
-Such busy people block out their calendars to avoid confronting the general emptiness of their existences. Everything is important but nothing is important. The busy person is thus ridiculous.
+Such busy people block out their calendars to distract themselves from important questions, such as who they are and what their lives are for, and to avoid confronting the general emptiness of their existences. 
+
+Everything is important but nothing is important. The busy person is thus ridiculous.
 
 ## But what if you just _are_ busy?
 
@@ -35,7 +37,7 @@ Investing everything you have in external events, people, or things is a surefir
 
 Rather, it’s crucial to be attentive to yourself, present to your own wants and needs, as knowing what’s important to you is the first step in working out how to make your life a little less 'busy' — knowing which things to shed, and which to pay due time, care, and attention to. 
 
-So who are you and what is your life for?
+So: who are you and what is your life for?
 
 ## Further reading
 
