@@ -17,11 +17,10 @@ export default ({ data, location }) => {
         <Layout>
 
             {/*page title*/}
-            <TopTitle title="What is Philosophy Break?" />
+            <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a clearing in your cluttered newsfeed, designed to expand your mind and spark your philosophical curiosity." />
 
             {/*page content*/}
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-                <p className="large-grey-font">Philosophy Break is a clearing in your cluttered newsfeed. Each break takes only a few minutes to read, and is designed to expand your mind and spark your philosophical curiosity — from how best to live our lives, to the ultimate nature of the worlds we live in.</p>
                 <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                 <h2>Our mission</h2>
                 <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy.</p>

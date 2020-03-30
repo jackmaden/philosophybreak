@@ -14,13 +14,10 @@ export default ({ data, location }) => {
         <Layout>
             
             {/*page title*/}
-            <TopTitle title="Reading Lists" />
+            <TopTitle title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
             
             {/*page content*/}
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-                
-                <p className="large-grey-font">Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects.</p>
-
                 <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
                 
                 <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
