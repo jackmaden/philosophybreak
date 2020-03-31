@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
+import {useSpring, animated} from 'react-spring'
 
 import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
@@ -11,6 +12,7 @@ import PanelAboutUs from '../../components/panelAboutUs'
 import WatermarkBreak from "../../components/watermarkBreak"
 
 const Articles = ({ data, location }) => {
+    const fadeIn = useSpring({opacity: 1, left: '0px', delay: 500, from: {opacity: 0, position: 'relative', left: '50px'}})
     const { edges } = data.allMarkdownRemark
     return (
         <>
@@ -24,7 +26,7 @@ const Articles = ({ data, location }) => {
                 <TopTitle title="Latest Breaks" subtitle="Expand your mind and stoke your philosophical curiosity with our latest breaks." />
 
                 {/*page content*/}
-                <div className="page-center">
+                <animated.div className="page-center" style={fadeIn}>
                     {/*article list*/}
                         {edges.map(edge => {
                             //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
@@ -43,7 +45,7 @@ const Articles = ({ data, location }) => {
                         })}
                 
                 {/*end page content*/}
-                </div>
+                </animated.div>
                 
                 <WatermarkBreak />
             
@@ -53,6 +55,9 @@ const Articles = ({ data, location }) => {
             <SubscriptionForm />
             <PanelReadingList />
             <PanelAboutUs />
+
+            {/*extra padding pre-footer*/}
+            <div className="grey-background" style={{paddingBottom: '6px'}}></div>
         </Layout>
         </>
     )
