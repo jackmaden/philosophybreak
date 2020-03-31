@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
-import {useSpring, animated} from 'react-spring'
 
 import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
@@ -12,7 +11,6 @@ import WatermarkBreak from "../../components/watermarkBreak"
 import PanelArticleList from "../../components/panelArticleList"
 
 export default ({ data, location }) => {
-    const fadeIn = useSpring({opacity: 1, left: '0px', delay: 500, from: {opacity: 0, position: 'relative', left: '50px'}})
     return (
         <>
         <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break's mission is to get more people engaged with philosophy. Our aim is to cultivate curiosity, encourage critical thought, and supplement a meaningful existence." pathname={location.pathname} />
@@ -24,7 +22,7 @@ export default ({ data, location }) => {
                 <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a clearing in your cluttered newsfeed, designed to expand your mind and spark your philosophical curiosity." />
 
                 {/*page content*/}
-                <animated.div id="break-start" className="page-center" style={fadeIn}>
+                <div id="break-start" className="page-center">
                     <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                     <h2>Our mission</h2>
                     <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy.</p>
@@ -39,7 +37,7 @@ export default ({ data, location }) => {
                     <p>To disrupt the noise and keep your mind curious, be sure to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">follow Philosophy Break on Instagram</a>, and subscribe to our newsletter below.</p>
                     <p>If you're looking to learn more about philosophy, our article on <Link to="/articles/bertrand-russell-why-philosophy-matters/">Bertrand Russell discussing why philosophy matters</Link>, as well as our <Link to="/reading-lists/introduction-to-philosophy/">reading list on the best introductions to philosophy</Link>, are good places to start.</p>
                     <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on Instagram <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">here</a> or via email <a href="mailto:hello@philosophybreak.com">here</a>.</p>
-                </animated.div>
+                </div>
                 
                 <WatermarkBreak />
 
