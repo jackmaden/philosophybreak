@@ -53,6 +53,6 @@ That we _invent_ the cognitive universes we occupy is a powerful thought — and
 
 If each language is a cognitive universe, our specializations and interests are word-galaxies within them — and new ones are there for us to explore.
 
-![starry night](./starry-language.jpg "Starry Night, a product of Vincent Van Gogh's <i>umwelt</i>.")
+![starry night](./starry-language.jpg "Starry Night, a product of Vincent Van Gogh's umwelt.")
 
 Language is a strange, wonderful thing. It both contextualizes and enables us to share our experiences. By broadening our linguistic capabilities and vocabularies, we broaden our cognitive universes — and so deepen our understanding of the world, each other, and ourselves. Indeed: if our _umwelts_ are of our own making, how will you shape yours?
