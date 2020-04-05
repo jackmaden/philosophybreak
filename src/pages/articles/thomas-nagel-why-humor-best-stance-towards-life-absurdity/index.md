@@ -19,7 +19,7 @@ Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing 
 
 <span class="big-letter">L</span>ike the existentialists and absurdists of the 20th century, Nagel believes the human condition is ultimately absurd. For Nagel, this absurdity arises not because anything we do won’t matter in, say, a million years. Nor because we are small or insignificant in the eyes of the universe. No: these are inadequate expressions of absurdity. 
 
-Rather, Nagel believes our absurd condition arises from a collision between the seriousness with which we take our lives, and our capacity to step back, look at things from a wider perspective, and see how ridiculously contingent and random our lives really are. 
+Rather, Nagel believes our absurd condition arises from a collision between the seriousness with which we take our lives, and our capacity to step back, look at things from a wider perspective, and see how ridiculously contingent the purposes of our lives really are. 
 
 In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf), Nagel writes:
 
@@ -27,7 +27,7 @@ In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files
 
 “Yet,” he continues, “when we take this view and recognize what we do as arbitrary, it does not disengage us from life, and _there lies our absurdity_: not in the fact that such an external view can be taken of us, but in the fact that we ourselves can take it, without ceasing to be the persons whose ultimate concerns are so coolly regarded.”
 
-We take our lives extremely seriously while living them: we follow careers or chase happiness or cultivate a certain lifestyle. But even in the day-to-day heat of this pursuit, we possess a strange ‘meta’ capacity to step back and recognize the randomness of the rituals we follow and desires we have — but _continue to follow and pursue them anyway_. 
+We are consumed by the act of living: we follow careers or chase happiness or cultivate a certain lifestyle. But even in the day-to-day heat of this pursuit, we possess a strange ‘meta’ capacity to step back and recognize the highly specific nature of the rituals we follow, the arbitrariness of the goals we have, knowing our purposes would be very different if our circumstances were different — but _continuing to follow and pursue them as if they're all-important anyway_. 
 
 The inadequate expressions of absurdity mentioned earlier — our insignificance due to small size and short lifespan — are thus revealed to simply be metaphors for this 'meta' perspective: “by feigning a nebula's-eye view,” Nagel explains, “we illustrate the capacity to see ourselves without presuppositions, as arbitrary, idiosyncratic, highly specific occupants of the world, one of countless possible forms of life.”
 
