@@ -46,6 +46,9 @@ h3 {font-size: 26px; font-weight: 900;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
 
+@media (min-width: 362px) {
+  h1#home-page {font-size: 38px;}
+}
 @media (min-width: 371px) {
   h1#home-page {font-size: 39px;}
 }
@@ -139,11 +142,11 @@ ul#menu li a svg path {fill: #36b4ff;}
 }
 
 /***footer***/
-#footer {background-color: #000000; padding: 3em 0 2em; text-align: center;}
+#footer {background-color: #fff; padding: 3em 0 2em; text-align: center;}
 #footer .logo-footer a {text-decoration: none;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 50px;}
-#footer .logo-footer h3 {color: #e9e9e9; margin-top: 10px; font-weight: 900;}
+#footer .logo-footer h3 {color: #282828; margin-top: 10px; font-weight: 900;}
 #footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
 #footer .follow-footer {margin: 10px 0 30px;}
 #footer .disclaimer-footer p {color: #8c8c8c; font-size: 10px;}
@@ -151,20 +154,23 @@ ul#menu li a svg path {fill: #36b4ff;}
 #footer .disclaimer-footer p a:hover {color: #fff;}
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
-  #footer .logo-footer h3 small {font-size: 14px;}
+  #footer .logo-footer h3 small {font-size: 16px;}
 }
 
 /***home-page***/
 .featured-image-full {height: 100vh; width: 100%; overflow: hidden; position: relative; background-color: #000; display: block;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%;}
-.featured-image-full div.gatsby-image-wrapper picture img {object-position: 38% center !important;}
+.featured-image-full div.gatsby-image-wrapper picture img {object-position: 39% center !important;}
 /*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center h4, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 17.5px;}
 .featured-image-full div.page-center p {font-size: 16px;}
-@media (min-width: 370px) {
+@media (min-width: 360px) {
+  .featured-image-full div.page-center h4 {font-size: 19.3px;}
+}
+@media (min-width: 371px) {
   .featured-image-full div.page-center h4 {font-size: 20px;}
   .featured-image-full div.page-center p {font-size: 17px;}
 }
