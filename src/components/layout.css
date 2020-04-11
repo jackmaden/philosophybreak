@@ -175,6 +175,7 @@ ul#menu li a svg path {fill: #36b4ff;}
   .featured-image-full div.page-center p {font-size: 17px;}
 }
 @media (min-width: 620px) {
+  .featured-image-full div.gatsby-image-wrapper picture img {object-position: center 45% !important;}
   .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 33px;}
   .featured-image-full div.page-center p {font-size: 20px;}
@@ -238,6 +239,8 @@ svg.bounce {margin-right: 0;}
 .reading-list-title .time.tag {font-size: 8px; margin-bottom: 4px;}
 .reading-list-title .time.tag svg {width: 12px; height: 12px;}
 .reading-list-title p {font-size: 16px;}
+div.separator.reading-list {margin: -3px 0 10px; width: 88px;}
+div.separator.reading-list.banner {width: 72px; height: 2px;}
 .title.list h1 {font-size: 30px;}
 .title.list h4 {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 20px;}
 @media (min-width: 620px) {
@@ -245,6 +248,8 @@ svg.bounce {margin-right: 0;}
   .time.tag svg {width: 16px; height: 16px; margin-right: 6px;}
   .reading-list-title .time.tag {font-size: 10px;}
   .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
+  div.separator.reading-list {width: 106px;}
+  div.separator.reading-list.banner {width: 90px; margin-top: -2px;}
   .title.list h1 {font-size: 40px;}
   .title.list h4 {font-size: 26px;}
 }
