@@ -21,7 +21,7 @@ const Articles = ({ data, location }) => {
             <div style={{backgroundColor: '#f8f8f8'}}>
 
                 {/*page title*/}
-                <TopTitle title="Latest Breaks" subtitle="Each break takes only a few minutes to read, and is crafted to spark your philosophical curiosity." />
+                <TopTitle title="Latest Breaks" subtitle="Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity." />
 
                 {/*page content*/}
                 <div className="page-center">
