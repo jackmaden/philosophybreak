@@ -19,7 +19,7 @@ Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing 
 
 <span class="big-letter">L</span>ike the existentialists and absurdists of the 20th century, Nagel believes the human condition is ultimately absurd. For Nagel, this absurdity arises not because anything we do won’t matter in, say, a million years. Nor because we are small or insignificant in the eyes of the universe. No: these are inadequate expressions of absurdity. 
 
-Rather, Nagel believes our absurd condition arises from a collision between the seriousness with which we take our lives, and our capacity to step back, look at things from a wider perspective, and see how ridiculously contingent the purposes of our lives really are. 
+Rather, Nagel believes our absurd condition arises from a collision between the seriousness with which we take our lives, and our capacity to step back, look at things from a wider perspective, and see how ridiculously contingent the activities that fill our lives really are. 
 
 In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf), Nagel writes:
 
@@ -59,9 +59,9 @@ Indeed, if our sense of the absurd arises as a result of our advanced capability
 
 ## Laughing together in the dark
 
-<span class="big-letter">W</span>hen we step back and see our strivings for what they are — random and without any real meaning — the view for Nagel is not heroic nor hopeless, but, as he puts it earlier in his essay, “sobering and comical”. 
+<span class="big-letter">W</span>hen we step back and see our strivings for what they are — highly specific and without any real universal meaning — the view for Nagel is not heroic nor hopeless, but, as he puts it earlier in his essay, “sobering and comical”. 
 
-We are self-aware mice unable to rise above our mousely strivings, and we continue to strive regardless. Does this ironic situation really call for despair? There's no real need, Nagel thinks, for such dramatics. To paraphrase Oscar Wilde's quip in the comedy Lady Windermere’s Fan — life is much too important to be taken seriously. The appropriate response to the human condition is a slightly bemused smile — a celebratory laugh that we understand life's absurdity, yet carry on regardless.
+We are self-aware mice unable to rise above our mousely strivings, and we continue to strive regardless. Does this ironic situation really call for despair? There's no real need for such dramatics, Nagel thinks. To paraphrase Oscar Wilde's quip in the comedy Lady Windermere’s Fan — life is much too important to be taken seriously. The appropriate response to the human condition is a slightly bemused smile — a celebratory laugh that we understand life's absurdity, yet carry on regardless.
 
 In summary, then — yes, life is absurd. But hey! — it's interesting, and we can help each other through it by championing our enlightened cognitive condition with an ironical, humorous stance, and let our amused fascination light up the dark. 
 
