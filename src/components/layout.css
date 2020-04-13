@@ -52,10 +52,16 @@ h5 {font-size: 20px;}
 @media (min-width: 370px) {
   h1#home-page {font-size: 39px;}
 }
+@media (min-width: 375px) {
+  h1#home-page {font-size: 41px;}
+}
+@media (min-width: 400px) {
+  h1#home-page {font-size: 44px;}
+}
 
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 65px;}
+    h1#home-page {font-size: 71px;}
     h2 {font-size: 35px;}
     h3 {font-size: 32px;}
     h4 {font-size: 26px;}
@@ -174,10 +180,16 @@ ul#menu li a svg path {fill: #36b4ff;}
   .featured-image-full div.page-center h4 {font-size: 20px;}
   .featured-image-full div.page-center p {font-size: 17px;}
 }
+@media (min-width: 375px) {
+  .featured-image-full div.page-center h4 {font-size: 21px;}
+}
+@media (min-width: 400px) {
+  .featured-image-full div.page-center h4 {font-size: 23px;}
+}
 @media (min-width: 620px) {
   .featured-image-full div.gatsby-image-wrapper picture img {object-position: center 45% !important;}
   .featured-image-full div.page-center {left: 0; right: 0;}
-  .featured-image-full div.page-center h4 {font-size: 33px;}
+  .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}
 }
 

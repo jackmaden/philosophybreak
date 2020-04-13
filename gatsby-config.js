@@ -18,7 +18,12 @@ module.exports = {
             },
         },
         //sitemap
-        `gatsby-plugin-sitemap`,
+        {
+            resolve: `gatsby-plugin-sitemap`,
+            options: {
+              exclude: [`/thank-you`]
+            }
+        },
         //robots.txt
         {
             resolve: 'gatsby-plugin-robots-txt',
