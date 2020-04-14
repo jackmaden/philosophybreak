@@ -19,7 +19,7 @@ export default ({ data, location }) => {
             <div style={{backgroundColor: '#f8f8f8'}}>
             
                 {/*page title*/}
-                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a clearing in your cluttered newsfeed, home to philosophy's best ideas, questions, and answers." />
+                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a clearing in your cluttered newsfeed, home to the best ideas, questions, and quotes in philosophy." />
 
                 {/*page content*/}
                 <div id="break-start" className="page-center">
