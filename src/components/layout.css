@@ -45,7 +45,7 @@ h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
 h3 {font-size: 26px; font-weight: 900;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
-
+/*
 @media (min-width: 360px) {
   h1#home-page {font-size: 38px;}
 }
@@ -58,10 +58,10 @@ h5 {font-size: 20px;}
 @media (min-width: 400px) {
   h1#home-page {font-size: 44px;}
 }
-
+*/
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 71px;}
+    h1#home-page {font-size: 48px;}
     h2 {font-size: 35px;}
     h3 {font-size: 32px;}
     h4 {font-size: 26px;}
@@ -95,41 +95,44 @@ span.shadow {padding: 0.65em 0 0.85em; border-radius: 40px; -webkit-box-shadow: 
 div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em;}
 
 /***secondary page top title***/
-.top-title {padding-top: 136px; margin-bottom: 48px; position: relative;}
+.top-title {padding-top: 116px; margin-bottom: 48px; position: relative;}
+@media (min-width: 620px) {
+  .top-title {padding-top: 126px;}
+}
 
 /***nav***/
+#nav {position: fixed; height: 66px; z-index: 3; -moz-box-shadow: 0 0 10px rgba(0,0,0,0.1); -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.1); box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #fff; width: 100%; transition: 0.2s;}
+#nav.reduce-size {height: 57px;}
+#nav .page-center {position: relative;}
 /**logo**/
-a.logo {position: fixed; top: 10px; z-index: 4;}
+a.logo {position: relative; top: 9px; text-decoration: none;}
+a.logo h3 {color: #282828; display: inline-block; margin: 11px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
+a.logo h3.reduce-size {font-size: 21px; margin: 8px 0 0 8px;}
+a.logo h3 span {font-size: 12px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: 0.2s; display: block; margin-top: 5px;}
+a.logo h3 span.reduce-size {font-size: 11px; }
 a.logo:hover {background: transparent;}
-a.logo svg {width: 80px; height: 80px; border-radius: 50%; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); transition: all 0.2s;}
-a.logo svg.reduce-size {width: 63px; height: 63px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden;}
+a.logo svg {width: 48px; height: 48px; border-radius: 50%;  transition: all 0.2s;}
+a.logo svg.reduce-size {width: 40px; height: 40px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden;}
 /**menu trigger**/
-#menu-trigger {position: fixed; top: 20px; margin-left: 70px; cursor: pointer; z-index: 3; padding: 1em; border: solid 3px #fff; border-radius: 50%; background-color: rgba(255, 255, 255, 0.7); -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); transition: all 0.2s;}
-#menu-trigger.reduce-size {transform-origin: left; transform: scale(0.8); margin-left: 56px; top: 12px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden;}
-#menu-trigger .bar1, #menu-trigger .bar2, #menu-trigger .bar3 {width: 20px; height: 2px; background-color: #1a1a1a; margin: 4px 0; transition: 0.4s;}
-#menu-trigger .change .bar1 {-webkit-transform: rotate(-45deg) translate(-9px, 6px); transform: rotate(-45deg) translate(-5px, 4px);}
+#menu-trigger {position: absolute; top: 22px; right: 0; cursor: pointer; transition: all 0.2s;}
+#menu-trigger.reduce-size {top:16px;}
+#menu-trigger .bar1, #menu-trigger .bar2, #menu-trigger .bar3 {width: 23px; height: 2px; background-color: #282828; margin: 4px 0; transition: 0.4s;}
+#menu-trigger .bar2 {width: 20px; margin: 6px 0 6px 3px;}
+#menu-trigger .change .bar1 {-webkit-transform: rotate(-45deg) translate(-6.5px, 5px); transform: rotate(-45deg) translate(-6.5px, 5px);}
 #menu-trigger .change .bar2 {opacity: 0;}
-#menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px); transform: rotate(45deg) translate(-4px, -4px);}
+#menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-6.5px, -5px); transform: rotate(45deg) translate(-6.5px, -5px);}
 /**menu**/
-ul#menu {background-color: #fff; list-style-type: none; position: fixed; z-index: 2; min-height: 120%; -webkit-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); -moz-box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); box-shadow: -30px 0 30px rgba(0, 0, 0, 0.3); right: -400px; transition: all 0.3s linear;}
+ul#menu {background-color: #fff; list-style-type: none; position: fixed; z-index: 2; min-height: 120%; -webkit-box-shadow: -25px 0 30px rgba(0, 0, 0, 0.2); -moz-box-shadow: -25px 0 30px rgba(0, 0, 0, 0.2); box-shadow: -25px 0 30px rgba(0, 0, 0, 0.2); right: -400px; transition: all 0.3s linear; min-width: 50%; padding-top: 70px;}
 ul#menu.show {right: 0 !important;} /*show menu*/
-ul#menu h3 {margin-left: 46px; margin-bottom: 26px; font-size: 18px; margin-top: 36px; font-weight: 900;}
-ul#menu h3 small {display: block; font-size: 10px; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
-ul#menu h3 a, ul#menu li a {text-decoration: none;}
-ul#menu h3 a:hover, ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {padding: 1em 1em 1.2em; font-size: 18px; border-bottom: solid 1px #e9e9e9; font-weight: 400;}
-ul#menu li:first-of-type {border-top: solid 1px #e9e9e9;}
+ul#menu li a {text-decoration: none;}
+ul#menu li a:hover {background: transparent; color: #36b4ff;}
+ul#menu li {padding: 1em 1em 1.2em; font-size: 17px; border-bottom: solid 1px #e9e9e9; font-weight: 400;}
 ul#menu li a {display: flex; align-items: flex-end;}
 ul#menu li a svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li a svg path {fill: #36b4ff;}
-@media (min-width: 360px) {
-  ul#menu h3 {font-size: 22px;} 
-  ul#menu h3 small {font-size: 11.5px;}
-}
+
 @media (min-width: 620px) {
-  ul#menu h3 {font-size: 30px;} 
-  ul#menu h3 small {font-size: 15.5px;}
-  ul#menu li {font-size: 22px; padding: 1.1em 1.1em 1.3em;}
+  ul#menu li {font-size: 21px; padding: 1.1em 1.1em 1.3em;}
   ul#menu li a svg {width: 22px; height: 22px;}
 }
 
@@ -168,7 +171,7 @@ ul#menu li a svg path {fill: #36b4ff;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%;}
 .featured-image-full div.gatsby-image-wrapper picture img {object-position: 42% center !important;}
 /*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
-.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-47%); transform: translateY(-47%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center h4, .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .featured-image-full div.page-center h4 {margin-top: 0.1em; font-size: 17.5px;}
@@ -187,7 +190,7 @@ ul#menu li a svg path {fill: #36b4ff;}
   .featured-image-full div.page-center h4 {font-size: 23px;}
 }
 @media (min-width: 620px) {
-  .featured-image-full div.gatsby-image-wrapper picture img {object-position: center 45% !important;}
+  .featured-image-full div.gatsby-image-wrapper picture img {object-position: center bottom !important;}
   .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}
@@ -243,7 +246,7 @@ svg.bounce {margin-right: 0;}
 }
 
 /*reading list title*/
-.title.list {height: 330px;}
+.title.list {height: 380px;}
 .title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));}
 .title.list div.title-center {bottom: 18px;}
 .time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
@@ -266,7 +269,7 @@ div.separator.reading-list.banner {width: 72px; height: 2px;}
   .title.list h4 {font-size: 26px;}
 }
 @media (min-width: 1500px) {
-  .title.list {height: 450px;}
+  .title.list {height: 480px;}
 }
 
 /***article listing***/
@@ -342,7 +345,7 @@ div.separator.reading-list.banner {width: 72px; height: 2px;}
 .progress-container {
   width: 100%;
   position: fixed;
-  top: 0;
+  top: 57px;
   z-index: 1;
   height: 4px;
 }
