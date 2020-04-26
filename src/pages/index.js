@@ -16,6 +16,18 @@ export default ({ data }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-50px'}})
     const fadeIn = useSpring({opacity: 1, marginLeft: '0px', delay: 700, from: {opacity: 0, marginLeft: '50px'}})
     const fadeAfter = useSpring({opacity: 1, delay: 1400, from: {opacity: 0}})
+    const myDate = new Date()
+    const hrs = myDate.getHours()
+
+    let greet = 'Hello there, Philosopher'
+
+    if (hrs < 12)
+    greet = 'Good Morning, Philosopher';
+    else if (hrs >= 12 && hrs < 17)
+    greet = 'Good Afternoon, Philosopher';
+    else if (hrs >= 17 && hrs < 24)
+    greet = 'Good Evening, Philosopher';
+
     return (
         <>
         <SEO title="Philosophy Break – A Clearing in Your Cluttered Newsfeed" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
@@ -25,9 +37,9 @@ export default ({ data }) => {
             <div className="darkener"></div>
                 <div className="page-center">
                     <animated.div style={dropIn}>
-                        <h1 id="home-page">Welcome to a clearing in your cluttered newsfeed.</h1>
+                        <h1 id="home-page">{greet}</h1>
                         <div className="separator"></div>
-                        <p>Break through life's noise with philosophy's best questions, quotes, and ideas — and start enjoying a more thoughtful life and mind.</p>
+                        <p>Welcome to a clearing in your cluttered newsfeed. Here you can break through life's noise with philosophy's best questions, quotes, and ideas — and start enjoying a more thoughtful life and mind.</p>
                     </animated.div>
                     <animated.div style={fadeIn}>
                         <Link className="button primary" to="/articles/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Started</Link>
