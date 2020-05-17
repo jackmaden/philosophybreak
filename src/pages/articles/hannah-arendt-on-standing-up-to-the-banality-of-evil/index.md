@@ -27,19 +27,19 @@ Eichmann embodied “the dilemma between the unspeakable horror of the deeds and
 
 <span class="big-letter">T</span>he ‘banality of evil’ is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by unthinking people. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.⁣⁣⁣
 
-This idea should be understood in the context of how Arendt viewed our relationship to the world. We live and think not in isolation, but in an interconnected web of social and cultural relations — a framework of shared language, acceptable behaviors, rituals and conventions that we are born into and conditioned by every single day. 
+This idea should be understood in the context of how Arendt viewed our relationship to the world. We live and think not in isolation, Arendt argues, but in an interconnected web of social and cultural relations — a framework of shared languages, behaviors, and conventions that we are conditioned by every single day. 
 
-This web of social and cultural relations is so all-encompassing we are barely conscious of it. It only becomes noticeable when something or someone doesn’t conform to it. 
+This web of social and cultural relations is so all-encompassing in shaping our thought and behavior we are barely conscious of it. It only becomes noticeable when something or someone doesn’t conform to it. 
 
 For example, if you were invited to a formal dinner, and proceeded to forego cutlery and eat your meal with your hands, you’d draw many a strange and disapproving look — perhaps you’d even be asked to leave by the more militant guests, for whom ‘eating with cutlery at formal dinners’ is such a deeply ingrained principle as to be worth defending with vigor. 
 
 ![Hannah Arendty](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
 
-But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, it is largely no: it is precisely our tendency to adopt judgements and behaviors without thinking that acts as a vehicle for evil and reveals its banality. 
+But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows banalities, including evil, to flourish. 
 
-If we’re not careful, evil principles become the new normal, and like the militant 'use cutlery' guests at the formal dinner party, we’ll defend those principles not because we’ve independently concluded they’re worth defending, but because they’re normal.
+For, if we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re normal.
 
-In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir for the ordinary people of Arendt’s day. It implied the crimes of Nazi Germany were not the responsibility of a handful of purely evil men. Those men kickstarted it, but society enabled it: a lack of critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.⁣⁣⁣
+In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not the responsibility of a handful of purely evil men. Those men kickstarted it, but society enabled it: a lack of critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.⁣⁣⁣
 
 Arendt had Nazi Germany as her template, but argued systemic oppression and the gradual normalization of evil can occur anywhere, any time, and at any scale. ⁣⁣
 
@@ -49,7 +49,7 @@ Can you think of anything you’re desensitized to today?
 
 <span class="big-letter">A</span>rendt’s 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6) remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
 
-In other words, it is through practicing independent thought and philosophy that we can stand up to the tidal wave of custom and circumstance the world throws at us — that we can weigh things and take responsibility for our judgements and behaviors ourselves, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we thought about them.  
+In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of custom and circumstance the world throws at us. It's not easy, but by practicing philosophy, we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
 
 To ensure your thoughts are always stimulated, we’ve put together a reading list of the most recommended introductory books to all things philosophy. Check it out by hitting the banner below now.
 
