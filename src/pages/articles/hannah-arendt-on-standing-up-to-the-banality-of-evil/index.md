@@ -1,0 +1,66 @@
+---
+title: "Hannah Arendt On Standing Up to the Banality of Evil"
+description: "For 20th-century German philosopher Hannah Arendt, most evil acts are not demonic — they are largely thoughtless. This article discusses why the trial of Nazi war criminal Adolf Eichmann caused her theory to emerge."
+image: "./arendtevil.jpg"
+imageAlt: "sheep"
+tags: ["Hannah Arendt", "Morality"]
+date: "2020-05"
+author: "Jack Maden"
+authorPic: "./philosophybreak.png"
+authorLink: "https://www.instagram.com/philosophybreak/"
+---
+<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher Hannah Arendt throughout her life and work, and in her final (and unfinished) 1977 book [The Life of the Mind](http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3), she seems to offer a conclusion, writing: 
+
+>“The sad truth is that most evil is done by people who never make up their minds to be good or evil.”
+
+Indeed, Arendt was a German philosopher and political theorist who saw the techniques and evil consequences of totalitarian regimes firsthand.⁣⁣⁣
+
+Born into a secular-Jewish family, Arendt fled Nazi Germany in the 1930s, eventually settling in New York, where after the war she covered the trial of Nazi war criminal Adolf Eichmann. ⁣⁣
+
+In her report for The New Yorker, and later published in her 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6), Arendt expressed how disturbed she was by Eichmann — but for reasons that might not be expected.
+
+Far from the monster she thought he’d be, Eichmann was instead a rather bland, “terrifyingly normal” bureaucrat. He carried out his murderous role with calm efficiency not due to an abhorrent, warped mindset, but because he’d absorbed the principles of the Nazi regime so unquestionably, he simply wanted to further his career and climb its ladders of power. 
+
+Eichmann embodied “the dilemma between the unspeakable horror of the deeds and the undeniable ludicrousness of the man who perpetrated them.” His actions were defined not so much by thought, but by the _absence_ of thought — convincing Arendt of the ‘banality of evil.’⁣⁣⁣
+⁣
+## Evil acts are not demonic; they are largely thoughtless
+
+<span class="big-letter">T</span>he ‘banality of evil’ is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by unthinking people. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.⁣⁣⁣
+
+This idea should be understood in the context of how Arendt viewed our relationship to the world. We live and think not in isolation, but in an interconnected web of social and cultural relations — a framework of shared language, acceptable behaviors, rituals and conventions that we are born into and conditioned by every single day. 
+
+This web of social and cultural relations is so all-encompassing we are barely conscious of it. It only becomes noticeable when something or someone doesn’t conform to it. 
+
+For example, if you were invited to a formal dinner, and proceeded to forego cutlery and eat your meal with your hands, you’d draw many a strange and disapproving look — perhaps you’d even be asked to leave by the more militant guests, for whom ‘eating with cutlery at formal dinners’ is such a deeply ingrained principle as to be worth defending with vigor. 
+
+![Hannah Arendty](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
+
+But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, it is largely no: it is precisely our tendency to adopt judgements and behaviors without thinking that acts as a vehicle for evil and reveals its banality. 
+
+If we’re not careful, evil principles become the new normal, and like the militant 'use cutlery' guests at the formal dinner party, we’ll defend those principles not because we’ve independently concluded they’re worth defending, but because they’re normal.
+
+In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir for the ordinary people of Arendt’s day. It implied the crimes of Nazi Germany were not the responsibility of a handful of purely evil men. Those men kickstarted it, but society enabled it: a lack of critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.⁣⁣⁣
+
+Arendt had Nazi Germany as her template, but argued systemic oppression and the gradual normalization of evil can occur anywhere, any time, and at any scale. ⁣⁣
+
+Can you think of anything you’re desensitized to today?
+
+## Standing up to evil’s banality
+
+<span class="big-letter">A</span>rendt’s 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6) remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
+
+In other words, it is through practicing independent thought and philosophy that we can stand up to the tidal wave of custom and circumstance the world throws at us — that we can weigh things and take responsibility for our judgements and behaviors ourselves, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we thought about them.  
+
+To ensure your thoughts are always stimulated, we’ve put together a reading list of the most recommended introductory books to all things philosophy. Check it out by hitting the banner below now.
+
+<a class="reading-list cta" href="/reading-lists/introduction-to-philosophy/">
+    <img class="title-img" src="./introduction.jpg"/>
+    <div class="darkener"></div>
+    <div class="reading-list-title">
+        <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
+        <div class="separator reading-list banner"></div>
+        <h3>An Introduction to Philosophy</h3>
+        <p style="margin: 0;">The Top 4 Books to Read</p>
+    </div>    
+    <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
+</a>
