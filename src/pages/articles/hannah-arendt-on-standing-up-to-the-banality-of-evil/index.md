@@ -1,6 +1,6 @@
 ---
 title: "Hannah Arendt On Standing Up to the Banality of Evil"
-description: "For 20th-century German philosopher Hannah Arendt, most evil acts are not demonic — they are largely thoughtless. This article discusses why the trial of Nazi war criminal Adolf Eichmann caused her theory to emerge."
+description: "For 20th-century German philosopher Hannah Arendt, most evil is committed by people who never make up their minds to be good or evil."
 image: "./arendtevil.jpg"
 imageAlt: "sheep"
 tags: ["Hannah Arendt", "Morality"]
@@ -21,13 +21,13 @@ In her report for The New Yorker, and later published in her 1963 book [Eichmann
 
 Far from the monster she thought he’d be, Eichmann was instead a rather bland, “terrifyingly normal” bureaucrat. He carried out his murderous role with calm efficiency not due to an abhorrent, warped mindset, but because he’d absorbed the principles of the Nazi regime so unquestionably, he simply wanted to further his career and climb its ladders of power. 
 
-Eichmann embodied “the dilemma between the unspeakable horror of the deeds and the undeniable ludicrousness of the man who perpetrated them.” His actions were defined not so much by thought, but by the _absence_ of thought — convincing Arendt of the ‘banality of evil.’⁣⁣⁣
+Eichmann embodied “the dilemma between the unspeakable horror of the deeds and the undeniable ludicrousness of the man who perpetrated them.” His actions were defined not so much by thought, but by the _absence_ of thought — convincing Arendt of the “banality of evil.”
 ⁣
-## Evil acts are not demonic; they are largely thoughtless
+## Evil is not monstrous; it takes place under the guise of 'normality'
 
-<span class="big-letter">T</span>he ‘banality of evil’ is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by unthinking people. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.⁣⁣⁣
+<span class="big-letter">T</span>he “banality of evil” is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by unthinking people. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.⁣⁣⁣
 
-This idea should be understood in the context of how Arendt viewed our relationship to the world. We live and think not in isolation, Arendt argues, but in an interconnected web of social and cultural relations — a framework of shared languages, behaviors, and conventions that we are conditioned by every single day. 
+This idea is best understood within the context of how Arendt viewed our relationship to the world. We live and think not in isolation, Arendt argues, but in an interconnected web of social and cultural relations — a framework of shared languages, behaviors, and conventions that we are conditioned by every single day. 
 
 This web of social and cultural relations is so all-encompassing in shaping our thought and behavior we are barely conscious of it. It only becomes noticeable when something or someone doesn’t conform to it. 
 
@@ -35,9 +35,9 @@ For example, if you were invited to a formal dinner, and proceeded to forego cut
 
 ![Hannah Arendty](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
 
-But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows banalities, including evil, to flourish. 
+But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows evil's banality to flourish. 
 
-For, if we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re normal.
+For, if we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re 'normal'.
 
 In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not the responsibility of a handful of purely evil men. Those men kickstarted it, but society enabled it: a lack of critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.⁣⁣⁣
 
@@ -49,7 +49,7 @@ Can you think of anything you’re desensitized to today?
 
 <span class="big-letter">A</span>rendt’s 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6) remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
 
-In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of custom and circumstance the world throws at us. It's not easy, but by practicing philosophy, we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
+In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of information, custom, and circumstance the world throws at us. It's not easy, but by practicing philosophy, we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
 
 To ensure your thoughts are always stimulated, we’ve put together a reading list of the most recommended introductory books to all things philosophy. Check it out by hitting the banner below now.
 
