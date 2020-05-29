@@ -27,6 +27,8 @@ export default ({ data, location }) => {
                     <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
                     
                     <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
+
+                    <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.fluid} alt="Friedrich Nietzsche reading list" />
                     
                     <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
                     
@@ -75,6 +77,13 @@ export const query = graphql`
             }
         }
         whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
+            childImageSharp {
+                fluid(maxWidth: 600) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 600) {
                     ...GatsbyImageSharpFluid
