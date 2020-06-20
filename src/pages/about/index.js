@@ -13,20 +13,20 @@ import PanelArticleList from "../../components/panelArticleList"
 export default ({ data, location }) => {
     return (
         <>
-        <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break's mission is to get more people engaged with philosophy. Our aim is to cultivate curiosity, encourage critical thought, and supplement a meaningful existence." pathname={location.pathname} />
+        <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. We believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be." pathname={location.pathname} />
         <Layout>
             {/*page background color*/}
             <div style={{backgroundColor: '#f8f8f8'}}>
             
                 {/*page title*/}
-                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a clearing in your cluttered newsfeed, home to the best questions, quotes, and ideas in philosophy." />
+                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
 
                 {/*page content*/}
                 <div id="break-start" className="page-center">
                     <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
                     <h2>Our mission</h2>
-                    <p>Philosophy Break was created in 2018 by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jack-maden/">Jack Maden</a> with a simple mission: to get more people engaged with philosophy. </p>
-                    <p>Why? Because we believe philosophy is the antidote to a world saturated by information — and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
+                    <p>We're on a mission to package philosophy's best questions, quotes, and ideas in ways that cultivate curiosity, encourage critical thought, and supplement a meaningful existence.</p>
+                    <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
                     <h2>The value of living philosophically</h2>
                     <p>Why is there something rather than nothing? What responsibilities do we have towards the world and each other? What is consciousness? What is matter? Why are we here? Are our lives significant when all of us will die?</p>
                     <p>We believe it is only by acknowledging and thoughtfully facing up to such questions that people can live authentically, cultivate meaningful existences, and fully realize their human potential.</p>

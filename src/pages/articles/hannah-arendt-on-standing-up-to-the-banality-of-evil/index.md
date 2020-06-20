@@ -33,7 +33,7 @@ This web of social and cultural relations is so all-encompassing in shaping our 
 
 For example, if you were invited to a formal dinner, and proceeded to forego cutlery and eat your meal with your hands, you’d draw many a strange and disapproving look — perhaps you’d even be asked to leave by the more militant guests, for whom ‘eating with cutlery at formal dinners’ is such a deeply ingrained principle as to be worth defending with vigor. 
 
-![Hannah Arendty](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
+![Hannah Arendt](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
 
 But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows evil's banality to flourish. 
 
