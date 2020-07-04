@@ -19,15 +19,15 @@ Why has [On The Nature of Things](https://www.amazon.com/gp/product/0140447962/r
 
 <span class="big-letter">E</span>picureanism is a system of philosophy based on the teachings of ancient Greek thinker Epicurus, founded in 307BC. Often caricatured today as an exclusively pleasure-seeking, hedonistic stance towards the world, Epicurean thinking is actually more focused on eradicating pain, fear, and anxiety from our day-to-day lives. As Lucretius summarizes in book two of [On The Nature of Things](https://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90), Epicurists believe the ultimate good for human nature is as follows:
 
->“To avoid bodily pain, to have a mind free from anxiety and fear, and to enjoy the pleasures of the senses.”
+>To avoid bodily pain, to have a mind free from anxiety and fear, and to enjoy the pleasures of the senses.
 
 And, to satisfy these goods, Lucretius continues, we don’t need anything lavish, expensive, or complicated: the solutions to our needs can be remarkably simple. As he expounds:
 
->“It is plain to see that our bodily nature needs very few things to banish pain, and to furnish us with many pleasures that are enjoyable from time to time. Nature herself does not complain if the halls are not full of golden statues of youths holding flaming torches to light up the banquets that go on all night, or if the house is not sparkling with silver and gleaming with gold, while the music echoes round the gilded rafters. For by the riverside, stretched out on the soft grass under the shade of a tall tree, people can relax and enjoy themselves far better without all that expense, especially when the weather smiles on them and the spring scatters the green meadow with flowers.” 
+>It is plain to see that our bodily nature needs very few things to banish pain, and to furnish us with many pleasures that are enjoyable from time to time. Nature herself does not complain if the halls are not full of golden statues of youths holding flaming torches to light up the banquets that go on all night, or if the house is not sparkling with silver and gleaming with gold, while the music echoes round the gilded rafters. For by the riverside, stretched out on the soft grass under the shade of a tall tree, people can relax and enjoy themselves far better without all that expense, especially when the weather smiles on them and the spring scatters the green meadow with flowers.
 
 But Epicureanism goes beyond prescribing how to live: it also offers a complete description of reality, one that is startlingly prescient to the physics of today. Advocating an atomic view of the universe, Epicurean thought on this matter can largely be summed up by a quote from an even earlier thinker, Democritus (born around 460BC): 
 
->“Nothing exists except atoms and empty space, everything else is opinion.”
+>Nothing exists except atoms and empty space, everything else is opinion.
 
 Indeed, Epicurus taught that the basic constituents of the world are irreducible bits of matter flying through the void, and he tried to explain all natural phenomena in such terms. He rejected the existence of an immaterial soul, or of anything non-physical, and said that the gods have no influence on our lives.
 
@@ -39,21 +39,21 @@ It is with these two Epicurean principles in mind — that being free from pain 
 
 For, as Lucretius puts it, death does not discriminate:
 
->“Suppose you are watching a whole fleet of your ships sailing home on the broad sea: does such a sight drive the fearful superstitions from your mind? Does the fear of death lose its hold on your mind and leave it carefree? Or are not such lavish displays in truth ridiculous and absurd? For the reality is that our human fears, the anxieties that pursue us, are not scared off by the sound of arms and fearsome weapons. They thrive just as much in the company of kings and powerful leaders, and show no respect for the glitter of gold or the glowing splendor of richly coloured clothes.”
+>Suppose you are watching a whole fleet of your ships sailing home on the broad sea: does such a sight drive the fearful superstitions from your mind? Does the fear of death lose its hold on your mind and leave it carefree? Or are not such lavish displays in truth ridiculous and absurd? For the reality is that our human fears, the anxieties that pursue us, are not scared off by the sound of arms and fearsome weapons. They thrive just as much in the company of kings and powerful leaders, and show no respect for the glitter of gold or the glowing splendor of richly coloured clothes.
 
 We can keep ourselves busy, but as [Kierkegaard also notes in Either/Or](/articles/kierkegaard-on-why-busy-people-are-ridiculous/), voluntarily keeping busy is just a way of avoiding confrontation with things we do not want to confront. Lucretius continues:
 
->“Look at the man who keeps leaving his vast mansion because he feels bored at home, and then suddenly decides to come back because he feels no better abroad. He drives full speed to his country retreat… and then rushes back to see the city again. Thus does everyone try to escape from themselves…”
+>Look at the man who keeps leaving his vast mansion because he feels bored at home, and then suddenly decides to come back because he feels no better abroad. He drives full speed to his country retreat… and then rushes back to see the city again. Thus does everyone try to escape from themselves…
 
 So, if we cannot outrun or distract ourselves from it, how can we overcome the fear, anxiety, and self-denial that our mortality causes within us? For Lucretius, the power to banish our fear of death belongs to reason alone — darkness of mind must be dispelled by contemplating nature and understanding its workings:
 
->“We hate ourselves because we are sick, yet we cannot grasp the cause of our sickness; but if we could see it, we would abandon such frantic activity and first try to understand the nature of the universe.”
+>We hate ourselves because we are sick, yet we cannot grasp the cause of our sickness; but if we could see it, we would abandon such frantic activity and first try to understand the nature of the universe.
 
 ## The mind depends on the body, so dying is nothing to us
 
 <span class="big-letter">L</span>ucretius’s first step in seeking to dispel our fear of death is to assert that, as we live in an atomic universe, it follows that our minds too must be physical or _bodily_ in nature. From this base — that the mind is part of the physical body — Lucretius says we must therefore conclude that the mind’s existence is linked irretrievably to the fate of the body: 
 
->“The mind is but one part of the human being, which occupies a definite location, just like the ears and the eyes and the other senses that guide our life; and since the hands or eyes or nose cannot feel or function when they are separated from us, but soon putrefy and rot, so the soul cannot exist without the body, or without the whole human being…” 
+>The mind is but one part of the human being, which occupies a definite location, just like the ears and the eyes and the other senses that guide our life; and since the hands or eyes or nose cannot feel or function when they are separated from us, but soon putrefy and rot, so the soul cannot exist without the body, or without the whole human being…
 
 So, if we acknowledge that our conscious minds depend on our bodies, it follows that as soon as our bodies cease to be alive, our minds will cease to exist: in death, no conscious element of ourselves persists. This leads Lucretius to thus conclude that “death is nothing to us” — because it literally _will_ be nothing to us: there is nothing to experience in death, because the experiencer no longer exists. 
 
@@ -63,7 +63,7 @@ From this doctrine arose the epitaph: _Non fui, fui, non sum, non curo_ (I was n
 
 To see just how little we need to worry about our own deaths, Lucretius continues:
 
->“Consider the time before we were born: we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation — not even if the the earth should collapse in to the sea, or the sea explode in the sky…”
+>Consider the time before we were born: we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation — not even if the the earth should collapse in to the sea, or the sea explode in the sky…
 
 The _act_ of dying, then — and _being_ dead — is nothing to reasonably worry about, because, just like before we were born, there is no part of our consciousness that exists to experience it. 
 
@@ -73,7 +73,7 @@ The _act_ of dying, then — and _being_ dead — is nothing to reasonably worry
 
 For Lucretius, this is one and the same worry. Our lust for life and our fear of death are the same thought, merely framed differently. By fretting about not having enough time with our loved ones, by not completing what we want to complete in life — we are really fretting about death. And, as Lucretius puts it, “it is this evil and excessive desire for life that makes us tremble with doubts and forebodings”:
 
->“People often feel a weight on their minds that bears down upon them and exhausts them. But if they could only know what are its causes, they would not live their lives in the way we so often observe: no one knowing what they want, everyone wanting to change their position in life, as if they could thereby lay down their burdens…”
+>People often feel a weight on their minds that bears down upon them and exhausts them. But if they could only know what are its causes, they would not live their lives in the way we so often observe: no one knowing what they want, everyone wanting to change their position in life, as if they could thereby lay down their burdens…
 
 Indeed, it is this unfocused longing for life, springing from a fear of death, that makes us so indecisive, so unhappy with our lot, so wanting for things we don’t have: “our mouths are always gaping open,” as Lucretius puts it, “with a constant thirst for life.”
 
@@ -81,7 +81,7 @@ So what’s the solution? We must remember death is nothing to us, and acknowled
 
 Besides, by prolonging life we subtract nothing from the time when we shall be dead. As Lucretius frankly puts it: 
 
->“No matter how many generations you live through, the same eternal death is still waiting, and someone who ends life as the sun goes down today will have just as long a period of non-existence as one who died many months and years before.” 
+>No matter how many generations you live through, the same eternal death is still waiting, and someone who ends life as the sun goes down today will have just as long a period of non-existence as one who died many months and years before. 
 
 Mortality is part of our nature. We wouldn’t expect a flower to live forever — and in fact its beauty in full-bloom, we might argue, is only magnified by its artful impermanence. 
 

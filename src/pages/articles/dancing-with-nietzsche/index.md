@@ -11,7 +11,7 @@ authorLink: "https://www.instagram.com/philosophybreak/"
 ---
 <span class="big-letter">Y</span>ou may or may not be familiar with the below quotation, often attributed to Nietzsche. It bounds across the internet in meme form, usually laid over images of silhouetted people dancing at sunset... or on underground train carriages.
 
->"And those who were seen dancing were thought to be insane by those who could not hear the music."
+>And those who were seen dancing were thought to be insane by those who could not hear the music.
 
 On a literal level, it’s a rather quirky observation. Nightclubs _would_ look a little off if the music was muted — hordes of fun-loving punters bumping and grinding in silence, like there’s no bloody tomorrow…
 
@@ -33,7 +33,7 @@ Now, why is Nietzsche opining this kind of thought? The answer, in fact, might s
 
 That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, [Thus Spoke Zarathustra](http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04):
 
->"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist."
+>You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.
 
 This pairing — that not understanding something doesn’t mean you can dismiss or belittle it, and that there is no single or correct ‘way’ to life — reveals the core principles of what has come to be known as Nietzsche’s perspectivism.
 
@@ -69,7 +69,7 @@ So, rather than dismiss as insane or stupid opinions that we can’t understand 
 
 Let's conclude this brief discussion on perspectivism with some final words from our main man Nietzsche, taken from arguably his masterwork, [On the Genealogy of Morals](http://www.amazon.com/gp/product/0199537089/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199537089&linkId=3c9dcd07416124082b4457889629bea5): 
 
->"And as to whether these fruits of ours are to _your_ taste? But what is that to the trees!"
+>And as to whether these fruits of ours are to _your_ taste? But what is that to the trees!
 
 ## Further reading
 

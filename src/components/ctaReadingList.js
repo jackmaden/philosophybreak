@@ -8,7 +8,7 @@ export default () => (
       query {
         file(relativePath: {eq: "readinglist.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

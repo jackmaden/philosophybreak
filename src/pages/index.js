@@ -81,21 +81,21 @@ export const query = graphql`
     query {
         default: file(relativePath: {eq: "philosophy-break.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100, quality: 80) {
+                fluid(maxHeight: 1000, quality: 70) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         morning: file(relativePath: {eq: "morning.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100, quality: 80) {
+                fluid(maxHeight: 1000, quality: 70) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         evening: file(relativePath: {eq: "evening.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100, quality: 80) {
+                fluid(maxHeight: 1000, quality: 70) {
                     ...GatsbyImageSharpFluid
                 }
             }

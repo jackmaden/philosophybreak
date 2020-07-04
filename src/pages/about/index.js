@@ -13,26 +13,49 @@ import PanelArticleList from "../../components/panelArticleList"
 export default ({ data, location }) => {
     return (
         <>
-        <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. We believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be." pathname={location.pathname} />
+        <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Our aim is to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential." pathname={location.pathname} />
         <Layout>
             {/*page background color*/}
-            <div style={{backgroundColor: '#f8f8f8'}}>
+            <div style={{backgroundColor: '#f2f3f4'}}>
             
                 {/*page title*/}
-                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
+                <TopTitle title="What is Philosophy Break?" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Our aim is to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential." />
 
                 {/*page content*/}
                 <div id="break-start" className="page-center">
-                    <Img fluid={data.about.childImageSharp.fluid} style={{margin: '2.2em 0 2em'}} alt="Philosophy Break" />
-                    <h2>Our mission</h2>
-                    <p>We're on a mission to package philosophy's best questions, quotes, and ideas in ways that cultivate curiosity, encourage critical thought, and supplement a meaningful existence.</p>
-                    <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
-                    <h2>The value of living philosophically</h2>
-                    <p>Why is there something rather than nothing? What responsibilities do we have towards the world and each other? What is consciousness? What is matter? Why are we here? Are our lives significant when all of us will die?</p>
-                    <p>We believe it is only by acknowledging and thoughtfully facing up to such questions that people can live authentically, cultivate meaningful existences, and fully realize their human potential.</p>
-                    <p>By engaging with the ideas of great thinkers throughout history, we're empowered to think for ourselves — be it on matters of faith and existence, how to make a better world, or simply working out what's worth pursuing in life.</p>
-                    <p>For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous martyr of philosophy</Link>, declared:</p>
-                    <blockquote><p>"The unexamined life is not worth living."</p></blockquote>
+                    <p>The addictive nature of the digital world afflicts many of us. The relentless torrent of information saturates our attention spans. But life is finite, and the things we give attention to define our lives. It's crucial to break free from the turbulent current and come up for air.</p>
+                    <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose? We believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
+                    <p>Philosophy Break wraps philosophy’s best ideas, quotes, and questions in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
+                </div>
+                <div className="white-background" style={{marginTop: '48px'}}>
+                    <div id="break-start" className="page-center text-center" style={{padding: "48px 0 12px"}}>
+                        <h3>Advisory board</h3>
+                        <div className="separator"></div>
+                        <div className="advisory">
+                            <div className="member">
+                                <Img fluid={data.jack.childImageSharp.fluid} alt="Jack Maden" />
+                                <p>Jack Maden<span class="large-grey-font">Founder</span></p>
+                            </div>
+                            <div className="member">
+                                <Img fluid={data.steph.childImageSharp.fluid} alt="Stephanie McAuliffe" />
+                                <p>Stephanie McAuliffe<span class="small-grey-font">Education Advisor</span></p>
+                            </div>
+                            <div className="member">
+                                <Img fluid={data.josh.childImageSharp.fluid} alt="Josh Brewin" />
+                                <p>Josh Brewin<span class="small-grey-font">Commercial Advisor</span></p>
+                            </div>
+                            <div className="member">
+                                <Img fluid={data.bayo.childImageSharp.fluid} alt="Bayo Adeoshun" />
+                                <p>Bayo Adeoshun<span class="small-grey-font">Social Advisor</span></p>
+                            </div>
+                            <div className="member">
+                                <Img fluid={data.sophie.childImageSharp.fluid} alt="Sophie Dundovic" />
+                                <p>Sophie Dundovic<span class="small-grey-font">Economics Advisor</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="break-start" className="page-center">
                     <h2>Get involved</h2>
                     <p>To disrupt the noise and keep your mind curious, be sure to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">follow Philosophy Break on Instagram</a>, and subscribe to weekly breaks via email below.</p>
                     <p>If you're looking to learn more about philosophy, our article on <Link to="/articles/bertrand-russell-why-philosophy-matters/">Bertrand Russell discussing why philosophy matters</Link>, as well as our <Link to="/reading-lists/introduction-to-philosophy/">reading list on the best introductions to philosophy</Link>, are good places to start.</p>
@@ -60,6 +83,41 @@ export const query = graphql`
         about: file(relativePath: {eq: "about-phones.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 600) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        jack: file(relativePath: {eq: "jack-maden.jpg"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        josh: file(relativePath: {eq: "josh.png"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        sophie: file(relativePath: {eq: "sophie.png"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        steph: file(relativePath: {eq: "steph.jpg"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        bayo: file(relativePath: {eq: "bayo.jpg"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150) {
                     ...GatsbyImageSharpFluid
                 }
             }

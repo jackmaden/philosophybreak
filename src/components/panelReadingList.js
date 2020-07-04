@@ -9,21 +9,21 @@ export default () => (
         query {
           introduction: file(relativePath: {eq: "introduction.jpg"}) {
               childImageSharp {
-                  fluid(maxWidth: 600) {
+                  fluid(maxHeight: 230) {
                       ...GatsbyImageSharpFluid
                   }
               }
           }
           consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
               childImageSharp {
-                  fluid(maxWidth: 600) {
+                  fluid(maxHeight: 230) {
                       ...GatsbyImageSharpFluid
                   }
               }
           }
           nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
               childImageSharp {
-                  fluid(maxWidth: 600) {
+                  fluid(maxHeight: 230) {
                       ...GatsbyImageSharpFluid
                   }
               }

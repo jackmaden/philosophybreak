@@ -13,7 +13,7 @@ authorLink: "https://www.instagram.com/philosophybreak/"
 
 In Australian Aboriginal community Pormpuraaw, for instance, the concepts ‘left’ and ‘right’ do not exist — instead, locations are referred to by their relation to the sun. [According to cognitive scientist Lera Boroditsky](https://www.wsj.com/articles/SB10001424052748703467304575383131592767868), about a third of the world’s languages discuss space in these kinds of absolute rather than relative terms. Boroditsky remarks:
 
->"As a result of this constant linguistic training, speakers of such languages are remarkably good at staying oriented and keeping track of where they are, even in unfamiliar landscapes."
+>As a result of this constant linguistic training, speakers of such languages are remarkably good at staying oriented and keeping track of where they are, even in unfamiliar landscapes.
 
 In Russia, meanwhile, the sky is not blue. At least, not in the way we — in English — think it’s blue. Why? Because in the Russian language there is no single word for blue. Rather, there are separate words for light blue (goluboy) and dark blue (siniy), which leads Russian speakers to distinguish two distinct colours. 
 

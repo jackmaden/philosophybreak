@@ -27,7 +27,7 @@ No wonder poor Lee Se-dol regards any possibility of reclaiming his 'best ever p
 
 As philosopher David J. Chalmers puts it in his paper, [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf):
 
->“What happens when machines become more intelligent than humans? One view is that this event will be followed by an explosion to ever-greater levels of intelligence, as each generation of machines creates more intelligent machines in turn. This intelligence explosion is now often known as the ‘singularity’.”
+>What happens when machines become more intelligent than humans? One view is that this event will be followed by an explosion to ever-greater levels of intelligence, as each generation of machines creates more intelligent machines in turn. This intelligence explosion is now often known as the ‘singularity’.
 
 The singularity is typically associated with world-ending consequences, with tech mavens like Elon Musk pronouncing it [humanity’s greatest existential threat](https://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x). Put simply, the concern is if we’re capable of creating machines more intelligent than we are, then that generation of machines is capable of creating machines more intelligent again. This would lead to an exponential situation where human intelligence is quickly and irretrievably left far behind by machine intelligence. Consequently, we’d lose authority and control. 
 
@@ -35,13 +35,13 @@ Best case, we become slaves to the machines; worst case, we’re exterminated as
 
 American philosopher Daniel Dennett, however, doesn’t buy it. In the final chapter of his latest book, [From Bacteria to Bach and Back](https://www.amazon.com/gp/product/0393355500/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393355500&linkId=1df61311519828d11acf4f3d14004e1d), Dennett reflects on the role technology is playing and will come to play in our lives. As he puts it:
 
->“I am not worried about humanity creating a race of super-intelligent agents destined to enslave us, but that does not mean I am not worried. I see other, less dramatic, but much more likely, scenarios in the immediate future that are cause for concern and call for immediate action.”
+>I am not worried about humanity creating a race of super-intelligent agents destined to enslave us, but that does not mean I am not worried. I see other, less dramatic, but much more likely, scenarios in the immediate future that are cause for concern and call for immediate action.
 
 ## Our reliance on AI could lead to negligence
 
 <span class="big-letter">F</span>or Dennett, while a singularity event remains possible in principle, “the task is orders of magnitude larger and more difficult than the cheerleaders have claimed.” He argues that smart technology presents us with more practical threats that have a far higher likelihood of occuring. As he clarifies:
 
->“The real danger, I think, is not that machines more intelligent than we are will usurp our role as captains of our destinies, but that we will _over_-estimate the comprehension of our latest thinking tools, prematurely ceding authority to them far beyond their competence.”
+>The real danger, I think, is not that machines more intelligent than we are will usurp our role as captains of our destinies, but that we will _over_-estimate the comprehension of our latest thinking tools, prematurely ceding authority to them far beyond their competence.
 
 Take transport. It’s not just aviation and shipping industries that depend on GPS for safe and efficient navigation: how many individuals now turn to their smartphones instead of using a road map? 
 
@@ -51,7 +51,7 @@ Alternatively, take medicine. Computer-based systems now outperform the best hum
 
 As Dennett summarizes:
 
->“_Use it or lose it_ is the rule of thumb cited at this point… how concerned should we be that we are dumbing ourselves down by our growing reliance on intelligent machines?”
+>_Use it or lose it_ is the rule of thumb cited at this point… how concerned should we be that we are dumbing ourselves down by our growing reliance on intelligent machines?
 
 It could be argued that we’ve always used technology to make our lives easier throughout history, and that AI is just the latest ‘dangerous’ invention we’ll soon all calm down about. 
 
@@ -61,7 +61,7 @@ This, for Dennett, is what's dangerous. What happens when the machines break? Wi
 
 As [NASA states](https://www.nasa.gov/topics/earth/features/2012-superFlares.html) in an article on solar flares:
 
->“In an increasingly technological world, where almost everyone relies on cell phones and GPS controls not just your in-car map system, but also airplane navigation and the extremely accurate clocks that govern financial transactions, space weather is a serious matter.”
+>In an increasingly technological world, where almost everyone relies on cell phones and GPS controls not just your in-car map system, but also airplane navigation and the extremely accurate clocks that govern financial transactions, space weather is a serious matter.
 
 So, besides preparing our machines for such space weather, what can we do _culturally_ to prevent ourselves becoming too dependent on technology? How can we ensure we never overestimate the competence of machines to run societies on our behalf?
 
@@ -69,13 +69,13 @@ So, besides preparing our machines for such space weather, what can we do _cultu
 
 <span class="big-letter">D</span>ennett’s solution to the problem of over-reliance is to make absolutely explicit the boundary between machines that are tools and those that claim to replace our comprehension. 
 
->“We should expose and ridicule all gratuitous anthropomorphism in systems, the cute, ever-more-human voices, the perky (but canned) asides. _When you are interacting with a computer, you should know you are interacting with a computer_.” 
+>We should expose and ridicule all gratuitous anthropomorphism in systems, the cute, ever-more-human voices, the perky (but canned) asides. _When you are interacting with a computer, you should know you are interacting with a computer_.
 
 We should make it fashionable to identify and point out flaws in systems, Dennett argues. What's more, we should write it into law that any advertisements for technology must acknowledge all shortcomings in the software — just like healthcare companies are obliged to list side effects. 
 
 As Dennett forcefully puts it:
 
->“Systems that deliberately conceal their shortcuts and gaps of incompetence should be deemed fraudulent, and their creators should go to jail for committing the crime of creating or using an artificial intelligence that impersonates a human being.”
+>Systems that deliberately conceal their shortcuts and gaps of incompetence should be deemed fraudulent, and their creators should go to jail for committing the crime of creating or using an artificial intelligence that impersonates a human being.
 
 This might seem alarmist, but Dennett’s argument should be considered in the context of how societies currently operate. 
 
@@ -83,7 +83,7 @@ Comprehension is already spread thin amongst various power structures. Politicia
 
 We can reboot machines easily (and frequently do to fix problems); but we can’t reboot civilization without causing serious harm. As Dennett concludes:
 
->“Civilization is a work in progress, and we abandon our attempt to understand it at our peril.”
+>Civilization is a work in progress, and we abandon our attempt to understand it at our peril.
 
 ## Give human intelligence a go
 

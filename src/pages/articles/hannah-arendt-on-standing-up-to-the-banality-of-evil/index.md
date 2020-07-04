@@ -11,7 +11,7 @@ authorLink: "https://www.instagram.com/philosophybreak/"
 ---
 <span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher Hannah Arendt throughout her life and work, and in her final (and unfinished) 1977 book [The Life of the Mind](http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3), she seems to offer a conclusion, writing: 
 
->“The sad truth is that most evil is done by people who never make up their minds to be good or evil.”
+>The sad truth is that most evil is done by people who never make up their minds to be good or evil.
 
 Indeed, Arendt was a German philosopher and political theorist who saw the techniques and evil consequences of totalitarian regimes firsthand.
 

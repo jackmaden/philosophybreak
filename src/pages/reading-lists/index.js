@@ -17,7 +17,7 @@ export default ({ data, location }) => {
         <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
         <Layout>
             {/*page background color*/}
-            <div style={{backgroundColor: '#f8f8f8'}}>
+            <div style={{backgroundColor: '#f2f3f4'}}>
 
                 {/*page title*/}
                 <TopTitle title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
@@ -55,37 +55,30 @@ export default ({ data, location }) => {
 
 export const query = graphql`
     query {
-        readinglist: file(relativePath: {eq: "readinglist.jpg"}) {
-            childImageSharp {
-                fluid(maxWidth: 2100) {
-                    ...GatsbyImageSharpFluid
-                }
-            }
-        }
         introduction: file(relativePath: {eq: "introduction.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

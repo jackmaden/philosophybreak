@@ -70,56 +70,56 @@ export const query = graphql`
     query {
         title: file(relativePath: {eq: "nietzsche.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100) {
+                fluid(maxHeight: 480) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         one: file(relativePath: {eq: "nietzsche-dynamite.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         two: file(relativePath: {eq: "nietzsche-hiking.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         three: file(relativePath: {eq: "nietzsche-beyondgoodevil.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         four: file(relativePath: {eq: "nietzsche-genealogy.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         five: file(relativePath: {eq: "nietzsche-zarathustra.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         six: file(relativePath: {eq: "nietzsche-morality.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         seven: file(relativePath: {eq: "nietzsche-truth.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

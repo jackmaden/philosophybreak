@@ -59,42 +59,42 @@ export const query = graphql`
     query {
         title: file(relativePath: {eq: "consciousness-list.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100) {
+                fluid(maxHeight: 480) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         one: file(relativePath: {eq: "theconsciousmind.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         two: file(relativePath: {eq: "consciousness-explained.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         three: file(relativePath: {eq: "consciousnessconversations.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         four: file(relativePath: {eq: "consciousnessoctopus.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         five: file(relativePath: {eq: "consciousnessbicameral.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

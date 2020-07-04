@@ -67,4 +67,4 @@ Ultimately, then, while Camus believes we are condemned to absurdity by the huma
 
 Indeed, as Camus concludes [The Myth of Sisyphus](http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb):
 
->"The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."
+>The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.

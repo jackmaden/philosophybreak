@@ -55,35 +55,35 @@ export const query = graphql`
     query {
         title: file(relativePath: {eq: "introduction.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100) {
+                fluid(maxHeight: 480) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         one: file(relativePath: {eq: "introductionnagel.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         two: file(relativePath: {eq: "introductionrussell.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         three: file(relativePath: {eq: "introductionblackburn.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         four: file(relativePath: {eq: "introductionwarburton.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

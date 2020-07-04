@@ -23,7 +23,7 @@ Rather, Nagel believes our absurd condition arises from a collision between the 
 
 In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf), Nagel writes:
 
->“We step back to find that the whole system of justification and criticism, which controls our choices and supports our claims to rationality, rests on responses and habits that we never question... We see ourselves from outside, and all the contingency and specificity of our aims and pursuits become clear.”
+>We step back to find that the whole system of justification and criticism, which controls our choices and supports our claims to rationality, rests on responses and habits that we never question... We see ourselves from outside, and all the contingency and specificity of our aims and pursuits become clear.
 
 “Yet,” he continues, “when we take this view and recognize what we do as arbitrary, it does not disengage us from life, and _there lies our absurdity_: not in the fact that such an external view can be taken of us, but in the fact that we ourselves can take it, without ceasing to be the persons whose ultimate concerns are so coolly regarded.”
 
@@ -43,19 +43,19 @@ If a mouse _were_ to suddenly gain such abilities, Nagel writes, “his life _wo
 
 [Camus states the absurdity of the human condition](/articles/absurdity-with-camus) arises from our need for meaning in a meaningless world. But for Nagel this doesn’t quite hit the mark. Absurdity arises not from our relationship to the world, he thinks, but from our human capacity to step back and adopt a universe-eye view of our existence. As he clarifies:
 
->“Camus maintains that the absurd arises because the world fails to meet our demands for meaning. This suggests that the world might satisfy those demands if it were different. But now we can see that this is not the case. There does not appear to be any conceivable world (containing us) about which unsettleable doubts could not arise. Consequently the absurdity of our situation derives not from a collision between our expectations and the world, but from a collision within _ourselves_.”
+>Camus maintains that the absurd arises because the world fails to meet our demands for meaning. This suggests that the world might satisfy those demands if it were different. But now we can see that this is not the case. There does not appear to be any conceivable world (containing us) about which unsettleable doubts could not arise. Consequently the absurdity of our situation derives not from a collision between our expectations and the world, but from a collision within _ourselves_.
 
 ## What should we do in the face of absurdity?
 
 <span class="big-letter">A</span>s well as differing to Camus in his conception of the absurd, Nagel also differs in his recommended response to it. While both agree that life’s absurdity cannot be escaped — that we must simply live with it — Camus recommends a stance of _defiance_ to help us cope, which Nagel questions:
 
->“Camus rejects suicide and the other solutions he regards as escapist. What he recommends is defiance or scorn. We can salvage our dignity, he appears to believe, by shaking a fist at the world which is deaf to our pleas, and continuing to live in spite of it. This will not make our lives un-absurd, but it will lend them a certain nobility. This seems to me romantic and slightly self-pitying.”
+>Camus rejects suicide and the other solutions he regards as escapist. What he recommends is defiance or scorn. We can salvage our dignity, he appears to believe, by shaking a fist at the world which is deaf to our pleas, and continuing to live in spite of it. This will not make our lives un-absurd, but it will lend them a certain nobility. This seems to me romantic and slightly self-pitying.
 
 For Nagel, “our absurdity warrants neither that much distress nor that much defiance.” Instead, we should recognize absurdity not as a demand for heroism but rather as a “manifestation of our most advanced and interesting characteristics”, arising from our incredible human ability for self-transcendence.
 
 Indeed, if our sense of the absurd arises as a result of our advanced capability to perceive our true situation in the universe, then what possible reason can we have to resent or escape it? As Nagel concludes:
 
->“It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If _sub specie aeternitatis_ there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.”
+>It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If _sub specie aeternitatis_ there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.
 
 ## Laughing together in the dark
 

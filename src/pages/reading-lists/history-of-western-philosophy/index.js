@@ -59,42 +59,42 @@ export const query = graphql`
     query {
         title: file(relativePath: {eq: "whistorylist.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 2100) {
+                fluid(maxHeight: 480) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         one: file(relativePath: {eq: "whistoryrussell.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         two: file(relativePath: {eq: "whistorykennynew.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         three: file(relativePath: {eq: "whistorykennybrief.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         four: file(relativePath: {eq: "whistorycolumbia.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         five: file(relativePath: {eq: "whistorymagee.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
                 }
             }

@@ -21,7 +21,7 @@ Throughout his academic life, Russell wrote a number of classics, from [Principi
 
 To start, Russell outlines why there is typically a rather dismissive attitude towards philosophy. As he puts it: 
 
->“Many men, under the influence of science or of practical affairs, are inclined to doubt whether philosophy is anything better than innocent but useless trifling, hair-splitting distinctions, and controversies on matters concerning which knowledge is impossible.”
+>Many men, under the influence of science or of practical affairs, are inclined to doubt whether philosophy is anything better than innocent but useless trifling, hair-splitting distinctions, and controversies on matters concerning which knowledge is impossible.
 
 This dismissive attitude towards philosophy is caused by two main things, Russell argues. Firstly, it is due to the fact that philosophy doesn’t produce obvious material benefits like science does. Secondly, it is because philosophy is unable to provide answers to most of the questions it asks. Why, then, is philosophy valuable?
 
@@ -29,27 +29,27 @@ This dismissive attitude towards philosophy is caused by two main things, Russel
 
 <span class="big-letter">R</span>egardless of whether we find answers to satisfy our curiosity, Russell argues, it is vital to keep alive our speculative interest in the universe which is apt to be killed if we limit ourselves to what can be known. Why? Because it is precisely in philosophy’s uncertainty that we find its value. As Russell puts it:
 
->“The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason. To such a man the world tends to become definite, finite, obvious; common objects rouse no questions, and unfamiliar possibilities are contemptuously rejected.” 
+>The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason. To such a man the world tends to become definite, finite, obvious; common objects rouse no questions, and unfamiliar possibilities are contemptuously rejected.
 
 As soon as we begin to philosophize, however, we find that “even the most everyday things lead to problems which only very incomplete answers can be given.” 
 
->“Thus, while diminishing our feeling of certainty as to what things are, philosophy greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect.”
+>Thus, while diminishing our feeling of certainty as to what things are, philosophy greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect.
 
 ## Thinking beyond ourselves makes us better people
 
 <span class="big-letter">H</span>umbling our certainty leads to another important value, Russell continues. By contemplating deep, abstract, mysterious subjects, our concern with the world is expanded beyond our own private sphere of interests. Without such contemplation, we may neglect attention to anyone or anything that doesn’t directly impact us — or, worse, mark such things as contrary to our interests, dividing the world into friend or foe. As Russell expounds: 
 
->“Unless we can so enlarge our interests as to include the whole outer world, we remain like a garrison in a beleaguered fortress… In such a life there is no peace, but a constant strife between the insistence of desire and the powerlessness of will. In one way or another, if our life is to be great and free, we must escape this prison and this strife. One way of escape is by philosophic contemplation.”
+>Unless we can so enlarge our interests as to include the whole outer world, we remain like a garrison in a beleaguered fortress… In such a life there is no peace, but a constant strife between the insistence of desire and the powerlessness of will. In one way or another, if our life is to be great and free, we must escape this prison and this strife. One way of escape is by philosophic contemplation.
 
 By thoughtfully dwelling on subjects bigger than ourselves, we attain a humble tranquility. As Russell puts it, “through the infinity of the universe the mind which contemplates it achieves some share in infinity”. 
 
 This contemplative spirit filters through to our actions, too — as we accordingly view our thoughts and desires in the context of the whole:
 
->“Thus contemplation enlarges not only the objects of our thoughts, but also the objects of our actions and our affections: it makes us citizens of the universe, not only of one walled city at war with all the rest. In this citizenship of the universe consists man's true freedom, and his liberation from the thraldom of narrow hopes and fears.”
+>Thus contemplation enlarges not only the objects of our thoughts, but also the objects of our actions and our affections: it makes us citizens of the universe, not only of one walled city at war with all the rest. In this citizenship of the universe consists man's true freedom, and his liberation from the thraldom of narrow hopes and fears.
 
 The study and practice of philosophy therefore opens up whole new worlds for us, making us think beyond ourselves to care about the bigger, more fulfilling picture in life. As Russell concludes:
 
->“Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.”
+>Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.
 
 ## Explore the best introductions to philosophy
 

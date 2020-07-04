@@ -18,7 +18,7 @@ const Articles = ({ data, location }) => {
         
         <Layout>
             {/*page background color*/}
-            <div style={{backgroundColor: '#f8f8f8'}}>
+            <div style={{backgroundColor: '#f2f3f4'}}>
 
                 {/*page title*/}
                 <TopTitle title="Latest Breaks" subtitle="Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity." />
@@ -71,7 +71,7 @@ export const query = graphql`
                         description
                         image {
                             childImageSharp {
-                                fluid(maxWidth: 2100) {
+                                fluid(maxHeight: 230) {
                                     ...GatsbyImageSharpFluid
                                 }
                             }

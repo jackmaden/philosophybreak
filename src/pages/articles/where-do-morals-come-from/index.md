@@ -47,7 +47,7 @@ In [The Bonobo and the Atheist](http://www.amazon.com/gp/product/0393347796/ref=
 
 De Waal talks fondly – with a hint of anthropomorphism, critics might say – of how bonobos look after disadvantaged members of the group, care for their elderly, and peacefully settle disputes. Indeed, his discussions suggest that the only authority that need be invoked when it comes to right and wrong is our own biology.
 
->“Our best-known ‘moral laws’ offer nice post hoc summaries of what we consider moral, but are limited in scope and full of holes. Morality has much more humble beginnings, which are recognizable in the behavior of other animals. Everything science has learned in the last few decades argues against the pessimistic view that morality is a thin veneer over a nasty human nature. On the contrary, our evolutionary background lends a massive helping hand without which we would never have gotten this far.”
+>Our best-known ‘moral laws’ offer nice post hoc summaries of what we consider moral, but are limited in scope and full of holes. Morality has much more humble beginnings, which are recognizable in the behavior of other animals. Everything science has learned in the last few decades argues against the pessimistic view that morality is a thin veneer over a nasty human nature. On the contrary, our evolutionary background lends a massive helping hand without which we would never have gotten this far.
 
 Think about it, demands De Waal: do we make everyday moral decisions by painstakingly reasoning over them, consulting internal rulebooks? Instead, he wonders, “what if morality is created in day-to-day social interaction, not at some abstract mental level? What if it is grounded in the emotions, which most of the time escape the neat categorizations that science is fond of?”
 
@@ -55,7 +55,7 @@ Indeed, it is little wonder that we have struggled to find a blanket moral frame
 
 After all, questions De Waal: 
 
->“Would it be realistic to urge people to be considerate of others if we didn’t already have a natural inclination to be so? Would it make sense to appeal to fairness and justice if we didn’t have powerful reactions to their absence?”
+>Would it be realistic to urge people to be considerate of others if we didn’t already have a natural inclination to be so? Would it make sense to appeal to fairness and justice if we didn’t have powerful reactions to their absence?
 
 ## We're all just monkeys refusing cucumber for grapes
 
@@ -65,4 +65,4 @@ Even if you are unconvinced by De Waal's arguments, [The Bonobo and the Atheist]
 
 As De Waal puts it, if nothing else, his bottom-up, biology-driven approach to morality acts as an important counterweight to top-down views:
 
->“[It] deserves attention at a time in which even avowed atheists are unable to wean themselves from a semi-religious morality, thinking that the world would be a better place if only a white-coated priesthood could take over from the frocked one.”
+>[It] deserves attention at a time in which even avowed atheists are unable to wean themselves from a semi-religious morality, thinking that the world would be a better place if only a white-coated priesthood could take over from the frocked one.

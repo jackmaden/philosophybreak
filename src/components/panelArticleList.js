@@ -14,7 +14,7 @@ export default () => {
                                     description
                                     image {
                                         childImageSharp {
-                                            fluid(maxWidth: 2100) {
+                                            fluid(maxHeight: 230) {
                                                 ...GatsbyImageSharpFluid
                                             }
                                         }

@@ -13,7 +13,7 @@ authorLink: "https://www.instagram.com/philosophybreak/"
 
 In his hyper-intelligent 1843 treatise [Either/Or: A Fragment of Life](http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a), Kierkegaard writes:
 
->“Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.”
+>Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
 
 Laughter is the appropriate response to the busy person, Kierkegaard believes, for it’s the perfect way to undercut his or her self-importance. 
 
@@ -31,7 +31,7 @@ And when it comes to the end of a long day, contemplating who you are and what y
 
 But here we must remember Kierkegaard’s diagnosis of 'the unhappy person', which comes in a later chapter of [Either/Or: A Fragment of Life](http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a):
 
->“The unhappy person is one who has his ideal, the content of his life, the fullness of his consciousness, the essence of his being, in some manner outside of himself. The unhappy man is always absent from himself, never present to himself.”
+>The unhappy person is one who has his ideal, the content of his life, the fullness of his consciousness, the essence of his being, in some manner outside of himself. The unhappy man is always absent from himself, never present to himself.
 
 Investing everything you have in external events, people, or things is a surefire way to unhappiness, Kierkegaard advises. 
 

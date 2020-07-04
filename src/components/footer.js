@@ -15,7 +15,7 @@ export default () => (
             </div>
             <div className="disclaimer-footer">
                 <p>Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Learn more about us <Link to="/about/">here</Link>. To offset a fraction of what it costs to maintain Philosophy Break and keep it ad-free, we participate in the Amazon Associates Program. This means if you purchase a book on Amazon from a link on here, we may earn a small percentage of its price, at no extra cost to you. This helps support Philosophy Break, and is very much appreciated.</p>
-                <p>© Philosophy Break 2020</p>
+                <p>© Philosophy Break Ltd, 2020</p>
             </div>
         </div>
         {/*Amazon onelink*/}
