@@ -365,7 +365,7 @@ div.separator.reading-list.banner {width: 72px; height: 2px;}
 }
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
-blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
+blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
 @media (min-width: 620px) {
   blockquote:before {margin-left: -40px;}
   blockquote p {font-size: 24px;}

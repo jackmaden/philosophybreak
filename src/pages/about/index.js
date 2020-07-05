@@ -29,28 +29,28 @@ export default ({ data, location }) => {
                 </div>
                 <div className="white-background" style={{marginTop: '48px'}}>
                     <div id="break-start" className="page-center text-center" style={{padding: "48px 0 12px"}}>
-                        <h3>Advisory board</h3>
+                        <h3>Advisory Board</h3>
                         <div className="separator"></div>
                         <div className="advisory">
                             <div className="member">
                                 <Img fluid={data.jack.childImageSharp.fluid} alt="Jack Maden" />
-                                <p>Jack Maden<span class="large-grey-font">Founder</span></p>
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Jack Maden</a><span class="large-grey-font">Founder</span></p>
                             </div>
                             <div className="member">
                                 <Img fluid={data.steph.childImageSharp.fluid} alt="Stephanie McAuliffe" />
-                                <p>Stephanie McAuliffe<span class="small-grey-font">Education Advisor</span></p>
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/McSmalliffe">Stephanie McAuliffe</a><span class="small-grey-font">Education Advisor</span></p>
                             </div>
                             <div className="member">
                                 <Img fluid={data.josh.childImageSharp.fluid} alt="Josh Brewin" />
-                                <p>Josh Brewin<span class="small-grey-font">Commercial Advisor</span></p>
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/josh-brewin-7b401648/">Josh Brewin</a><span class="small-grey-font">Commercial Advisor</span></p>
                             </div>
                             <div className="member">
                                 <Img fluid={data.bayo.childImageSharp.fluid} alt="Bayo Adeoshun" />
-                                <p>Bayo Adeoshun<span class="small-grey-font">Social Advisor</span></p>
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bayo92/">Bayo Adeoshun</a><span class="small-grey-font">Social Advisor</span></p>
                             </div>
                             <div className="member">
                                 <Img fluid={data.sophie.childImageSharp.fluid} alt="Sophie Dundovic" />
-                                <p>Sophie Dundovic<span class="small-grey-font">Economics Advisor</span></p>
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sophie-dundovic-63b08566/">Sophie Dundovic</a><span class="small-grey-font">Economics Advisor</span></p>
                             </div>
                         </div>
                     </div>
