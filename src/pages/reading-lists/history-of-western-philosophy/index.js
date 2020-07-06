@@ -12,7 +12,7 @@ import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="The History of Western Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." pathname={location.pathname} />
+    <SEO title="The History of Western Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
         {/*reading list title*/}

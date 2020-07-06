@@ -11,7 +11,7 @@ import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="Consciousness – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the philosophy of consciousness." pathname={location.pathname} />
+    <SEO title="Consciousness – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the philosophy of consciousness." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
     <Layout>
         <ScrollProgressBar />
         

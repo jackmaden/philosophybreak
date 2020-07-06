@@ -5,7 +5,7 @@ module.exports = {
         description: 'Philosophy Break is a clearing in your cluttered newsfeed.',
         url: 'https://philosophybreak.com',
         siteUrl: 'https://philosophybreak.com',
-        image: '/philosophy-break.jpeg',
+        image: '/philosophy--break.png',
         author: 'Jack Maden'
     },
     plugins: [
