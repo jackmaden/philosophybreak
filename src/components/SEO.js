@@ -113,12 +113,12 @@ const SEO = ({ title, description, image, pathname, article }) => (
             {(article ? true : null) && (
               <meta property="og:type" content="article" />
             )}
-            {seo.title && <meta property="og:title" content={seo.title} />}
+            {seo.title && <meta property="og:title" content={seo.title + " | Philosophy Break"} />}
             {seo.description && (
               <meta property="og:description" content={seo.description} />
             )}
             {seo.image && <meta property="og:image" content={seo.image} />}
-            {seo.title && <meta name="twitter:title" content={seo.title} />}
+            {seo.title && <meta name="twitter:title" content={seo.title + " | Philosophy Break"} />}
             {seo.description && (
               <meta name="twitter:description" content={seo.description} />
             )}
