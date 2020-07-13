@@ -87,37 +87,37 @@ export const query = graphql`
                 }
             }
         }
-        jack: file(relativePath: {eq: "jack-maden.jpg"}) {
+        jack: file(relativePath: {eq: "jackmaden.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 150, maxHeight: 150) {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         josh: file(relativePath: {eq: "josh.png"}) {
             childImageSharp {
-                fluid(maxWidth: 150, maxHeight: 150) {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         sophie: file(relativePath: {eq: "sophie.png"}) {
             childImageSharp {
-                fluid(maxWidth: 150, maxHeight: 150) {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         steph: file(relativePath: {eq: "steph.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 150, maxHeight: 150) {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
         bayo: file(relativePath: {eq: "bayo.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 150, maxHeight: 150) {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid
                 }
             }
