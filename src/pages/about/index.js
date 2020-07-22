@@ -52,6 +52,10 @@ export default ({ data, location }) => {
                                 <Img fluid={data.sophie.childImageSharp.fluid} alt="Sophie Dundovic" />
                                 <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sophie-dundovic-63b08566/">Sophie Dundovic</a><span class="small-grey-font">Economics Advisor</span></p>
                             </div>
+                            <div className="member">
+                                <Img fluid={data.anis.childImageSharp.fluid} alt="Anís Gammage" />
+                                <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/anisgammage/">Anís Gammage</a><span class="small-grey-font">Strategy Advisor</span></p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -116,6 +120,13 @@ export const query = graphql`
             }
         }
         bayo: file(relativePath: {eq: "bayo.jpg"}) {
+            childImageSharp {
+                fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        anis: file(relativePath: {eq: "anis.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 150, maxHeight: 150, quality: 90) {
                     ...GatsbyImageSharpFluid

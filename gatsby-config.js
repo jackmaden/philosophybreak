@@ -51,6 +51,12 @@ module.exports = {
         `gatsby-transformer-sharp`, 
         `gatsby-plugin-sharp`,
         {
+            resolve: `gatsby-source-instagram`,
+            options: {
+                username: `8608990298`
+            }
+        },
+        {
             //pointing to where markdown files live
             resolve: `gatsby-source-filesystem`,
             options: {

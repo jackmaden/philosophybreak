@@ -154,6 +154,8 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 #footer .logo-footer h3 {color: #2b2f33; margin-top: 10px; font-weight: 900;}
 #footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400;}
 #footer .follow-footer {margin: 10px 0 30px;}
+#footer .insta-footer {display: flex; flex-wrap: wrap; justify-content: space-between; margin: 1.5em 0 0.5em;}
+#footer .insta-footer .insta-post {width: 33%; margin-bottom: .3333%;}
 #footer .disclaimer-footer p {color: #929ba3; font-size: 10px;}
 #footer .disclaimer-footer p a {color: #929ba3; text-decoration-color: #929ba3;}
 #footer .disclaimer-footer p a:hover {color: #fff;}
@@ -198,15 +200,16 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 
 /***advisory board***/
 .advisory {display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 3em;}
-.advisory .member {width: 50%; margin-bottom: 2em; text-align: center;}
-.advisory .member .gatsby-image-wrapper {width: 70%; box-shadow: -6px -6px 0px 6px #e7f6ff; border-radius:50%; margin-left: auto; margin-right: auto;}
+.advisory .member {width: 45%; margin-bottom: 2em; text-align: center;}
+.advisory .member .gatsby-image-wrapper {width: 95%; box-shadow: -6px -6px 0px 6px #e7f6ff; border-radius:50%; margin-left: auto; margin-right: auto;}
 .advisory .member p {font-size: 16px;}
 .advisory .member p span {display: block; font-size: 14px; color: #929ba3;}
 
 @media (min-width: 620px) {
   .advisory {justify-content: flex-start;}
-  .advisory .member {width: 33%; margin-bottom: 2em; text-align: center;}
-  .advisory .member .gatsby-image-wrapper {width: 65%;}
+  .advisory .member {width: 26%; margin-bottom: 2em; text-align: center;}
+  .advisory .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 11%; margin-right: 11%}
+  .advisory .member .gatsby-image-wrapper {width: 100%;}
   .advisory .member p {font-size: 18px;}
   .advisory .member p span {font-size: 16px;}
 }
