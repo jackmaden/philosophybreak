@@ -7,7 +7,7 @@ export default () => {
         <StaticQuery
             query={graphql`
                 query {
-                    allInstaNode {
+                    allInstaNode(limit:3) {
                         edges {
                             node {
                                 id
@@ -38,11 +38,11 @@ export default () => {
                         </div>
                         
                         <div className="insta-footer">
-                            {data.allInstaNode.edges.slice(0, 3).map(edge => {
+                            {data.allInstaNode.edges.map(edge => {
                                 //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.localFile
                                 const {localFile, timestamp, id} = edge.node;
                                 return (
-                                    <div className="insta-post" key={timestamp}><a target="_blank" rel="noopener noreferrer" href={"https://www.instagram.com/p/" + id}><Img fluid={localFile.childImageSharp.fluid} /></a></div>
+                                    <div className="insta-post" key={timestamp}><a target="_blank" rel="noopener noreferrer" href={"https://www.instagram.com/p/" + id}><Img alt="philosophy break instagram" fluid={localFile.childImageSharp.fluid} /></a></div>
                                     
                                 )
                             })}
