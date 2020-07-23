@@ -9,6 +9,7 @@ import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelAboutUs from "../../components/panelAboutUs"
 import PanelArticleList from "../../components/panelArticleList"
 import WatermarkBreak from "../../components/watermarkBreak"
+import PanelInstagram from "../../components/panelInstagram"
 
 
 export default ({ data, location }) => {
@@ -42,6 +43,7 @@ export default ({ data, location }) => {
 
             {/*post-reading list content*/}
             <SubscriptionForm />
+            <PanelInstagram />
             <PanelArticleList />
             <PanelAboutUs />
 

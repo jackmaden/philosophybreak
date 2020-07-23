@@ -9,19 +9,20 @@ import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelAboutUs from '../../components/panelAboutUs'
 import WatermarkBreak from "../../components/watermarkBreak"
+import PanelInstagram from "../../components/panelInstagram"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
     return (
         <>
-        <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a Philosophy Break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
+        <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
         
         <Layout>
             {/*page background color*/}
             <div style={{backgroundColor: '#f2f3f4'}}>
 
                 {/*page title*/}
-                <TopTitle title="Latest Breaks" subtitle="Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity." />
+                <TopTitle title="Take a Break" subtitle="Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity." />
 
                 {/*page content*/}
                 <div className="page-center">
@@ -51,6 +52,7 @@ const Articles = ({ data, location }) => {
             </div>
 
             <SubscriptionForm />
+            <PanelInstagram />
             <PanelReadingList />
             <PanelAboutUs />
 

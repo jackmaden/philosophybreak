@@ -32,6 +32,10 @@ export default () => {
             `}
             render={data => (
                 <div className="page-center">
+                    <div className="text-center">
+                        <h3>Take a Break</h3>
+                        <div className="separator" style={{marginBottom: "2em"}}></div>
+                    </div>
                     {data.allMarkdownRemark.edges.slice(0, 4).map(edge => {
                         //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
                         const {frontmatter, timeToRead, fields} = edge.node;

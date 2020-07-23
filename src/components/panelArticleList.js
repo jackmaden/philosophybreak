@@ -34,7 +34,7 @@ export default () => {
                 <div className="grey-background">
                     <div className="page-center">
                         <div className="text-center">
-                            <h3>Latest Breaks</h3>
+                            <h3>Take a Break</h3>
                             <div className="separator" style={{marginBottom: "2em"}}></div>
                         </div>
                         {data.allMarkdownRemark.edges.slice(0, 4).map(edge => {
