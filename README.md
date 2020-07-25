@@ -1,1 +1,1 @@
-Philosophy Break is home to short, informative articles designed to spark curiosity about particular talking points in philosophy.
+Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Learn more about us here: https://philosophybreak.com/about/
