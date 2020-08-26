@@ -32,6 +32,8 @@ export default ({ data, location }) => {
                     <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.fluid} alt="Friedrich Nietzsche reading list" />
                     
                     <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
+
+                    <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.fluid} alt="metaphysics reading list" />
                     
                     <p>Is there another philosopher or philosophical subject for which you'd like to see a reading list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
                 </div>
@@ -79,6 +81,13 @@ export const query = graphql`
             }
         }
         nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
+            childImageSharp {
+                fluid(maxHeight: 230) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid
