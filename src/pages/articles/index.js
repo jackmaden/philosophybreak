@@ -9,7 +9,6 @@ import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelAboutUs from '../../components/panelAboutUs'
 import WatermarkBreak from "../../components/watermarkBreak"
-import PanelInstagram from "../../components/panelInstagram"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -19,7 +18,7 @@ const Articles = ({ data, location }) => {
         
         <Layout>
             {/*page background color*/}
-            <div style={{backgroundColor: '#f2f3f4'}}>
+            <div className="grey-background">
 
                 {/*page title*/}
                 <TopTitle title="Take a Break" subtitle="Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity." />
@@ -52,12 +51,9 @@ const Articles = ({ data, location }) => {
             </div>
 
             <SubscriptionForm />
-            <PanelInstagram />
             <PanelReadingList />
             <PanelAboutUs />
-
-            {/*extra padding pre-footer*/}
-            <div className="grey-background" style={{paddingBottom: '6px'}}></div>
+            
         </Layout>
         </>
     )

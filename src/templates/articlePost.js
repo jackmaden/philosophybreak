@@ -12,15 +12,14 @@ import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import WatermarkBreak from "../components/watermarkBreak"
 import PanelReadingList from '../components/panelReadingList'
 import PanelAboutUs from '../components/panelAboutUs'
-import PanelInstagram from "../components/panelInstagram"
 
 
 const ArticlePost = ({ data, location }) => {
   const post = data.markdownRemark
   const { edges } = data.allMarkdownRemark
   //declare react spring (it's an object, has options within it)
-  const dropIn = useSpring({opacity: 1, bottom: '67px', delay: 200, from: {opacity: 0, bottom: '200px'}})
-  const fadeIn = useSpring({opacity: 1, delay: 450, from: {opacity: 0}})
+  const dropIn = useSpring({opacity: 1, bottom: window.innerWidth < 1020 ? '67px' : '26px', delay: 200, from: {opacity: 0, bottom: '200px'}})
+  const fadeIn = useSpring({opacity: 1, delay: 950, from: {opacity: 0}})
   return (
       <>
       <SEO title={post.frontmatter.title} description={post.frontmatter.description} image={post.frontmatter.image.childImageSharp.sizes.src} pathname={post.fields.slug} article/>
@@ -31,7 +30,7 @@ const ArticlePost = ({ data, location }) => {
           <Img className="title-img" fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.imageAlt} />
           <div className="darkener"></div>
           {/*react spring fade in*/}
-          <animated.div style={dropIn} className="page-center title-center">
+          <animated.div style={dropIn} className="page-center title-center mid-width">
             <h1>{post.frontmatter.title}</h1>
             <div className="separator"></div>       
             <p className="description">{post.frontmatter.description}</p>
@@ -47,12 +46,13 @@ const ArticlePost = ({ data, location }) => {
         {/*post-article*/}
         <div id="post-article-height">
           <SubscriptionForm />
-          <div className="grey-background">
+          <div className="grey-background large-pad" style={{paddingBottom: "2px"}}>
             <div className="page-center">
-              <div className="text-center">
-                <h3>Take Another Break</h3>
+              <span className="text-center">
+                <h2>Take Another Break</h2>
                 <div className="separator" style={{marginBottom: "2em"}}></div>
-              </div>
+                <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
+              </span>
               {edges.filter(edge => edge.node.fields.slug !== location.pathname).slice(0, 4).map(edge => {
                   //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
                   //using this rather than component to filter out the current article. In future can build out a 'related posts' section using this logic
@@ -72,7 +72,6 @@ const ArticlePost = ({ data, location }) => {
               <p className="text-center"><span className="shadow"><Link className="button secondary" to="/articles"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>View All Breaks</Link></span></p>
             </div>
           </div>
-          <PanelInstagram />
           <PanelReadingList />
           <PanelAboutUs />
         </div>

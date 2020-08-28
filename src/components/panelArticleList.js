@@ -31,12 +31,13 @@ export default () => {
                 }
             `}
             render={data => (
-                <div className="grey-background">
+                <div className="grey-background large-pad">
                     <div className="page-center">
-                        <div className="text-center">
-                            <h3>Take a Break</h3>
+                        <span className="text-center">
+                            <h2>Take a Break</h2>
                             <div className="separator" style={{marginBottom: "2em"}}></div>
-                        </div>
+                            <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
+                        </span>
                         {data.allMarkdownRemark.edges.slice(0, 4).map(edge => {
                             //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead
                             const {frontmatter, timeToRead, fields} = edge.node;

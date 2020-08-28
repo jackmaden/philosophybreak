@@ -9,7 +9,6 @@ import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelAboutUs from "../../components/panelAboutUs"
 import PanelArticleList from "../../components/panelArticleList"
 import WatermarkBreak from "../../components/watermarkBreak"
-import PanelInstagram from "../../components/panelInstagram"
 
 
 export default ({ data, location }) => {
@@ -18,13 +17,13 @@ export default ({ data, location }) => {
         <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
         <Layout>
             {/*page background color*/}
-            <div style={{backgroundColor: '#f2f3f4'}}>
+            <div className="grey-background">
 
                 {/*page title*/}
                 <TopTitle title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
                 
                 {/*page content*/}
-                <div id="break-start" className="page-center">
+                <div className="page-center">
                     <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
                     
                     <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
@@ -34,8 +33,7 @@ export default ({ data, location }) => {
                     <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
 
                     <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.fluid} alt="metaphysics reading list" />
-                    
-                    <p>Is there another philosopher or philosophical subject for which you'd like to see a reading list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+
                 </div>
             
                 <WatermarkBreak />
@@ -45,12 +43,8 @@ export default ({ data, location }) => {
 
             {/*post-reading list content*/}
             <SubscriptionForm />
-            <PanelInstagram />
             <PanelArticleList />
             <PanelAboutUs />
-
-            {/*extra padding pre-footer*/}
-            <div className="grey-background" style={{paddingBottom: '6px'}}></div>
 
         </Layout>
         </>
