@@ -7,7 +7,7 @@ tags: ["Consciousness", "Physicalism", "Panpsychism", "Daniel Dennett", "David J
 date: "2019-08"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">W</span>hat happens when you look at a cucumber? Well, to put it simply, you see a cucumber. You <i>consciously experience</i> the oblong, dark green vegetable in all its glory. But what actually occurs in your eyes and brain to construct this vision? The story starts, as you turn your gaze, with light — light hits the cucumber, some of which is absorbed, and some of which reflects into your cornea. This light passes through your pupil and is focused by your eye's lens onto the retina, a thin, photosensitive tissue that converts light into electrical signals. These electrical signals are then sent to the brain via the optic nerve to be processed in the visual cortex, enabling you to 'see' an oblong, dark green object, which you skilfully classify as a cucumber. 
 

@@ -7,7 +7,7 @@ tags: ["Existentialism", "Absurdity", "Camus"]
 date: "2019-01"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">H</span>ave you ever felt — no matter what you do — that you're not getting anywhere? That all your efforts are futile? That regardless of how you act you simply end up back where you started?
 

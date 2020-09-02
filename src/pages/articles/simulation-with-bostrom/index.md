@@ -7,7 +7,7 @@ tags: ["Bostrom", "Simulation", "Consciousness"]
 date: "2018-12"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">H</span>owever unsettling, it’s a persuasive possibility that the world around us is not ‘real’ but simulated by a computer. In 2003, Nick Bostrom - a Swedish philosopher at the University of Oxford - posited [The Simulation Argument](https://www.simulation-argument.com/simulation.html), a compelling line of reasoning with a deeply unsettling conclusion.
 

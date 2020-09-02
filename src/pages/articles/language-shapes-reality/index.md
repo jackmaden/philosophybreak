@@ -7,7 +7,7 @@ tags: ["Animals", "Language"]
 date: "2019-03"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">T</span>here are around 7,000 human languages spoken across the globe, all with unique sounds, vocabularies, and structures. In light of recent research, it's becoming increasingly clear that each language significantly shapes the cognition of its speakers. 
 

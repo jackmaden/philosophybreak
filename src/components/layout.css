@@ -23,7 +23,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 /***general classes***/
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
-.darkblue-background {background:linear-gradient(to top right, #000a4a, #000c5d);}
+.darkblue-background {background:linear-gradient(to top right, #020887, #38369A);}
 .white-background {background-color: #fff;}
 .grey-background {background-color: #f2f3f4;}
 .small-pad {padding: 24px 0;}
@@ -127,24 +127,24 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 /**logo**/
 a.logo {position: relative; top: 12px; text-decoration: none; transition: 0.2s;}
 #nav.reduce-size a.logo {top: 10px;}
-a.logo h3 {color: #fff; display: inline-block; margin: 7px 0 0 8px; font-size: 22px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
-a.logo h3.reduce-size {color: #2b2f33; font-size: 20px; margin: 7px 0 0 7px;}
+a.logo h3 {color: #fff; display: inline-block; margin: 7px 0 0 9px; font-size: 22px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
+a.logo h3.reduce-size {color: #2b2f33; font-size: 20px; margin: 7px 0 0 8px;}
 #nav.light-bg a.logo h3, #nav.dark a.logo h3 {color: #2b2f33;}
-a.logo h3 span {font-size: 11.5px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: font-size 0.2s; display: block; margin-top: 5px;}
-a.logo h3 span.reduce-size {font-size: 10.5px; margin-top: 4.5px;}
+a.logo h3 span {font-size: 11.5px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: font-size 0.2s; display: block; margin-top: 6px;}
+a.logo h3 span.reduce-size {font-size: 10.5px; margin-top: 5px;}
 a.logo:hover {background: transparent;}
 a.logo svg {width: 40px; height: 40px; border-radius: 50%;  transition: all 0.2s;}
 a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden; margin-top: 1px;}
 /**menu trigger**/
-#menu-trigger {position: absolute; top: 19px; right: 0; cursor: pointer; transition: all 0.2s;}
+#menu-trigger {position: absolute; top: 17px; right: 0; cursor: pointer; transition: all 0.2s;}
 #menu-trigger span {display: none;}
-#menu-trigger.reduce-size {top:17px;}
-#menu-trigger .bar1, #menu-trigger .bar2, #menu-trigger .bar3 {width: 23px; height: 2px; background-color: #fff; margin: 4px 0; transition: 0.2s;}
+#menu-trigger.reduce-size {top:13px;}
+#menu-trigger .bar1, #menu-trigger .bar2, #menu-trigger .bar3 {width: 30px; height: 2px; background-color: #fff; margin: 3px 0; transition: 0.2s;}
 #nav.light-bg #menu-trigger .bar1, #nav.light-bg #menu-trigger .bar2, #nav.light-bg #menu-trigger .bar3, #menu-trigger.reduce-size .bar1, #menu-trigger.reduce-size .bar2, #menu-trigger.reduce-size .bar3 {background-color: #2b2f33;}
-#menu-trigger .bar2 {width: 20px; margin: 6px 0 6px 3px;}
-#menu-trigger .change .bar1 {-webkit-transform: rotate(-45deg) translate(-6.5px, 5px); transform: rotate(-45deg) translate(-6.5px, 5px); background-color: #2b2f33;}
+#menu-trigger .bar2 {width: 23px; margin: 10px 0 10px 7px;}
+#menu-trigger .change .bar1 {-webkit-transform: rotate(-45deg) translate(-11.75px, 5px); transform: rotate(-45deg) translate(-11.75px, 5px); background-color: #2b2f33;}
 #menu-trigger .change .bar2 {opacity: 0; background-color: #2b2f33;}
-#menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-6.5px, -5px); transform: rotate(45deg) translate(-6.5px, -5px); background-color: #2b2f33;}
+#menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-11.75px, -5px); transform: rotate(45deg) translate(-11.75px, -5px); background-color: #2b2f33;}
 /**menu**/
 ul#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; min-height: 100%; opacity: 0; transition: all 0.2s linear; width: calc(100% + 20px); padding-top: 90px; left: -20px;}
 ul#menu.show {opacity: 1 !important; left: 0 !important; z-index: 2 !important} /*show menu*/
@@ -191,7 +191,7 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 /*different class for different home page image depending on time of day*/
 .featured-image-full div.gatsby-image-wrapper picture img {object-position: 42% center !important;}
 .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: 35% center !important;}
-.featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 65% center !important;}
+.featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 45% center !important;}
 /*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
@@ -207,7 +207,7 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 @media (min-width: 620px) {
   .featured-image-full div.gatsby-image-wrapper picture img {object-position: center bottom !important;} 
   .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 62% !important;}
-  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 82% !important;}
+  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 62% !important;}
   .featured-image-full div.page-center {left: 0; right: 0; width: 600px;}
   .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}

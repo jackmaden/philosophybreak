@@ -7,7 +7,7 @@ tags: ["Frans de Waal", "Biology", "Ethics"]
 date: "2019-06"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">I</span>t’s breakfast time. You’re hungry. There’s a plate on the table. Two toasted bagels lie waiting. The most glorious array of fillings and condiments you’ve ever seen lie next to them. Salivation. Salvation. Any combination imaginable. It’s all yours...
 

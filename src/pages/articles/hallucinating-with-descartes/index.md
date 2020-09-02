@@ -7,7 +7,7 @@ tags: ["Descartes", "Skepticism"]
 date: "2018-11"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">H</span>ave you ever woken from a dream and thought, ‘but my God, that seemed so real’? Have you ever hallucinated your tits off? Have you ever _sworn_ to have witnessed something when someone else swears to have witnessed something else?
 

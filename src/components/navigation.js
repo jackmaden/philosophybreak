@@ -7,10 +7,15 @@ export class Navigation extends React.Component {
         super(props);
         this.state = {
             isClosed: true,
-            class: 'normal',
-            fontColor: 'light'
+            class: '',
+            fontColor: ''
         };
     }
+    
+    static defaultProps = {
+        bg: ''
+    }
+
     componentDidMount() {
         window.addEventListener('scroll', this.handleScroll);
     };
@@ -39,7 +44,6 @@ export class Navigation extends React.Component {
             this.setState({fontColor: ''})
         }
     }
-
     
     render() {
         return (

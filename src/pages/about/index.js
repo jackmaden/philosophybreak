@@ -38,7 +38,7 @@ export default ({ data, location }) => {
                     <div className="advisory">
                         <div className="member">
                             <Img fluid={data.jack.childImageSharp.fluid} alt="Jack Maden" />
-                            <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Jack Maden</a><span class="small-grey-font">Founder</span></p>
+                            <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Jack Maden</a><span class="small-grey-font">Founder & Director</span></p>
                         </div>
                         <div className="member">
                             <Img fluid={data.steph.childImageSharp.fluid} alt="Stephanie McAuliffe" />

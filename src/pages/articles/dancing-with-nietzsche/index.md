@@ -7,7 +7,7 @@ tags: ["Perspectivism", "Nietzsche"]
 date: "2018-10"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">Y</span>ou may or may not be familiar with the below quotation, often attributed to Nietzsche. It bounds across the internet in meme form, usually laid over images of silhouetted people dancing at sunset... or on underground train carriages.
 

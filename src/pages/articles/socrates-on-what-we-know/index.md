@@ -7,7 +7,7 @@ tags: ["Socrates", "Epistemology", "Ancient Greece"]
 date: "2019-07"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 
 <span class="big-letter">S</span>ocrates is philosophy’s martyr. Sentenced to death in 399BC Athens for ‘corrupting the minds of the youth,’ Socrates never wrote anything down. We know of his thinking only through the writings of his contemporaries, particularly his student Plato. ⁣

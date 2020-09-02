@@ -7,7 +7,7 @@ tags: ["AI", "Singularity", "Daniel Dennett", "David J. Chalmers"]
 date: "2019-12"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">L</span>ast month, former champion of the ancient board game Go, Lee Se-dol, retired from professional play. His reason? “With the debut of AI in Go games,” Lee Se-dol [told Yonhap News Agency in Seoul](https://en.yna.co.kr/view/AEN20191127004800315), “I’ve realized… even if I become the number one, there is an entity that cannot be defeated.”
 

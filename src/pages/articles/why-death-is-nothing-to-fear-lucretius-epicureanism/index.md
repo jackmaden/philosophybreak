@@ -7,7 +7,7 @@ tags: ["Lucretius", "Existentialism", "Epicurus", "Death"]
 date: "2020-06"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">L</span>ucretius was a Roman poet and philosopher born in 94BC, best-known for his epic poem De Rerum Natura (On The Nature of Things). [On The Nature of Things](https://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90) is a didactic, six-book work exploring everything from the fundamental nature of reality and what we can know, to the character of goodness and how we should best live. Since its publication over 2,000 years ago, the poem has been celebrated by such thinkers as Montaigne, Thomas Jefferson, and Einstein.
 

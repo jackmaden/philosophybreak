@@ -7,7 +7,7 @@ tags: ["Kierkegaard", "Existentialism"]
 date: "2020-03"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">A</span>re you busy today? On your feet? Rushing between appointments? Having no time is a symptom typical of modern life — and busyness is often worn as a badge of honor. Danish philosopher Søren Kierkegaard (1813 - 1855), however, saw busyness as nothing more than a ridiculous vice. 
 

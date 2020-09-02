@@ -7,7 +7,7 @@ tags: ["Consciousness", "Physicalism", "Daniel Dennett", "David J. Chalmers"]
 date: "2020-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">I</span>magine you have an identical twin. Not just a genetic match, but an exact physical replica — an atom for atom clone. Your twin looks like you, sounds like you, smells like you — and every neuron in his or her brain is <i>exactly the same as yours</i>. Despite these overwhelming similarities, however, there is one important difference. 
 

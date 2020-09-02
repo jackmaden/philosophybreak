@@ -7,7 +7,7 @@ tags: ["Bertrand Russell", "Philosophy"]
 date: "2019-10"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">B</span>ertrand Russell was a giant of the twentieth century. Recognized as one of the founders of modern analytical philosophy, his work has significantly influenced mathematics, logic, artificial intelligence, cognitive science, and computer science.⁣⁣
 

@@ -7,7 +7,7 @@ tags: ["Absurdity", "Existentialism", "Thomas Nagel"]
 date: "2020-04"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">T</span>hroughout the history of philosophy, philosophers have been relatively quiet on humor — and the little that has been written has been rather descriptive and surprisingly negative. Plato and Hobbes, for instance, regarded laughter as an expression of superiority — even of scorn. Kant and Schopenhauer, meanwhile, correspond more closely to what is known as ‘Incongruity Theory’ — that laughter is caused by the puncturing of a set up of expectation. 
 

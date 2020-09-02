@@ -7,7 +7,7 @@ tags: ["Free will", "Sam Harris"]
 date: "2019-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://www.instagram.com/philosophybreak/"
+authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">W</span>hat did you have for breakfast this morning? Was it delicious? Was it one to forget? Whatever it was, you didn't choose to have it. You might think you did. But, in actuality, you didn't. And though you may have had the conscious awareness of choice - porridge or toast? coffee or tea? - and remember making an active decision, the fact is you could not have selected any other option. Any decision you think you may have made was simply an illusion.
 
