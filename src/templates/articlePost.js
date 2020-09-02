@@ -6,6 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 import SEO from '../components/SEO'
 import Layout from '../components/layout'
+import { Navigation } from "../components/navigation"
 import { ScrollProgressBar } from '../components/scrollProgressBar'
 import { SubscriptionForm } from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
@@ -24,6 +25,7 @@ const ArticlePost = ({ data, location }) => {
       <>
       <SEO title={post.frontmatter.title} description={post.frontmatter.description} image={post.frontmatter.image.childImageSharp.sizes.src} pathname={post.fields.slug} article/>
       <Layout>
+      <Navigation />
         <ScrollProgressBar />
         {/*article title*/}
         <WindowHeightWrapper className="title">

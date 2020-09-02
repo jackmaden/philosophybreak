@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 
 import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
+import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
@@ -17,6 +18,8 @@ const Articles = ({ data, location }) => {
         <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
         
         <Layout>
+        <Navigation bg="light-bg" />
+        
             {/*page background color*/}
             <div className="grey-background">
 

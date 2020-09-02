@@ -6,6 +6,7 @@ import {useSpring, animated} from 'react-spring'
 
 import SEO from '../components/SEO'
 import Layout from '../components/layout'
+import { Navigation } from "../components/navigation"
 import { SubscriptionForm } from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import PanelReadingList from '../components/panelReadingList'
@@ -45,6 +46,7 @@ export default ({ data }) => {
         <>
         <SEO title="Philosophy Break – A Clearing in Your Cluttered Newsfeed" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
         <Layout>
+        <Navigation />
             <WindowHeightWrapper className={css}>
             <Img fluid={pic} alt="Philosophy Break" />
             <div className="darkener"></div>

@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
+import { Navigation } from "../../../components/navigation"
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
@@ -13,6 +14,7 @@ export default ({ data, location }) => (
     <>
     <SEO title="An Introduction to Philosophy – The Top 4 Books to Read" description="A curated reading list of the best and most essential introductions to the fascinating subject of philosophy." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
     <Layout>
+    <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
         <TitleReadingList title="An Introduction to Philosophy" number="4" img={data.title.childImageSharp.fluid} alt="Introduction to Philosophy" />

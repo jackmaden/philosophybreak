@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
+import { Navigation } from "../../../components/navigation"
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
@@ -13,6 +14,7 @@ export default ({ data, location }) => (
     <>
     <SEO title="Friedrich Nietzsche – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosopher Friedrich Nietzsche." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
     <Layout>
+    <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
         <TitleReadingList title="Friedrich Nietzsche" number="7" img={data.title.childImageSharp.fluid} alt="Friedrich Nietzsche" />

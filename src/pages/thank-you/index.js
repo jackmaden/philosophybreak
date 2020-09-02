@@ -5,6 +5,7 @@ import Img from "gatsby-image"
 import {useSpring, animated} from 'react-spring'
 
 import Layout from '../../components/layout'
+import { Navigation } from "../../components/navigation"
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 
 export default ({ data }) => {
@@ -15,6 +16,7 @@ export default ({ data }) => {
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>
+        <Navigation />
             {/*article title*/}
             <WindowHeightWrapper className="title">
                 <Img className="title-img" fluid={data.thanks.childImageSharp.fluid} alt="mountains" />

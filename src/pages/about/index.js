@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 
 import SEO from '../../components/SEO'
 import Layout from '../../components/layout'
+import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
@@ -14,6 +15,7 @@ export default ({ data, location }) => {
         <>
         <SEO title="About Us – Engaging People with Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Our aim is to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential." pathname={location.pathname} />
         <Layout>
+        <Navigation bg="light-bg" />
             {/*page title*/}
             <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
             <div className="two-col spectral page-center">
