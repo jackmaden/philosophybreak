@@ -1,8 +1,21 @@
 import React from "react"
-import { Link } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
+import Img from "gatsby-image"
 
-export default () => {
-    return (
+export default () => (
+    <StaticQuery
+    query={graphql`
+        query {
+            file(relativePath: {eq: "certified-social-enterprise.png"}) {
+                childImageSharp {
+                    fixed(width: 100, height: 100) {
+                        ...GatsbyImageSharpFixed
+                    }
+                }
+            }
+        }
+    `}
+    render={data => (
         <div id="footer">
             <div className="page-center">
                 <div className="logo-footer">
@@ -18,9 +31,11 @@ export default () => {
                     <p>Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Learn more about us <Link to="/about/">here</Link>. To offset a fraction of what it costs to maintain Philosophy Break and keep it ad-free, we participate in the Amazon Associates Program. This means if you purchase a book on Amazon from a link on here, we may earn a small percentage of its price, at no extra cost to you. This helps support Philosophy Break, and is very much appreciated.</p>
                     <p>© Philosophy Break Ltd, 2020</p>
                 </div>
+                <Img style={{margin: "30px 0 24px"}} fixed={data.file.childImageSharp.fixed} />
             </div>
             {/*Amazon onelink*/}
             <div id="amzn-assoc-ad-797b493c-1b64-4c6e-a017-445d37f42f08"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=797b493c-1b64-4c6e-a017-445d37f42f08"></script>
         </div>
-    )
-}
+    )}
+/>
+)
