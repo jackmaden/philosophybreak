@@ -48,7 +48,7 @@ export default ({ data }) => {
         <Layout>
         <Navigation />
             <WindowHeightWrapper className={css}>
-            <Img fluid={pic} alt="Philosophy Break" />
+            <Img fluid={pic} loading="eager" alt="Philosophy Break" />
             <div className="darkener"></div>
                 <div className="page-center text-center">
                     <animated.div style={dropIn}>

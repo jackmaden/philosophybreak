@@ -45,6 +45,8 @@ module.exports = {
               id: "GTM-NVRNWFT",
             }
         },
+        //preact
+        `gatsby-plugin-preact`,
         //catch all internal links & transform to Gatsby Link
         `gatsby-plugin-catch-links`,
         //gatsby images
