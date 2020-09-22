@@ -9,7 +9,7 @@ export default () => (
             file(relativePath: {eq: "certified-social-enterprise.png"}) {
                 childImageSharp {
                     fixed(width: 100, height: 100) {
-                        ...GatsbyImageSharpFluid_withWebp
+                        ...GatsbyImageSharpFixed_withWebp
                     }
                 }
             }
