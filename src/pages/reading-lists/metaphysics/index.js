@@ -100,84 +100,84 @@ export const query = graphql`
         title: file(relativePath: {eq: "metaphysics.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 1600) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         one: file(relativePath: {eq: "metaphysics-shortintro.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         two: file(relativePath: {eq: "metaphysics-history.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         three: file(relativePath: {eq: "metaphysics-anthology.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         four: file(relativePath: {eq: "metaphysics-aristotle.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         five: file(relativePath: {eq: "metaphysics-descartes.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         six: file(relativePath: {eq: "metaphysics-spinoza.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         seven: file(relativePath: {eq: "metaphysics-hume.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         eight: file(relativePath: {eq: "metaphysics-kant.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         nine: file(relativePath: {eq: "metaphysics-heidegger.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         ten: file(relativePath: {eq: "metaphysics-wiggins.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
             childImageSharp {
                 fluid(maxWidth: 22) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

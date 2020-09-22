@@ -6,7 +6,7 @@ export default props => {
     const dropIn = useSpring({opacity: 1, bottom: '20px', delay: 200, from: {opacity: 0, bottom: '100px'}})
     return (   
         <div className="title list">
-                <Img className="title-img" fluid={props.img} loading="eager" alt={props.alt} />
+                <Img className="title-img" fluid={props.img} fadeIn={false} loading="eager" alt={props.alt} />
                 <div className="darkener"></div>
                 {/*react spring fade in*/}
                 <animated.div style={dropIn} className="page-center title-center mid-width">

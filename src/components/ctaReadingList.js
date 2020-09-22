@@ -9,7 +9,7 @@ export default () => (
         file(relativePath: {eq: "readinglist.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

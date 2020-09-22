@@ -10,21 +10,21 @@ export default () => (
           introduction: file(relativePath: {eq: "introduction.jpg"}) {
               childImageSharp {
                   fluid(maxWidth: 600) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }
           consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
               childImageSharp {
                   fluid(maxHeight: 230) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }
           whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
               childImageSharp {
                   fluid(maxHeight: 230) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }

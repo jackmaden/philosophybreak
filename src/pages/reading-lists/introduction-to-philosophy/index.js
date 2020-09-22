@@ -58,42 +58,42 @@ export const query = graphql`
         title: file(relativePath: {eq: "introduction.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 1200) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         one: file(relativePath: {eq: "introductionnagel.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         two: file(relativePath: {eq: "introductionrussell.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         three: file(relativePath: {eq: "introductionblackburn.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         four: file(relativePath: {eq: "introductionwarburton.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
             childImageSharp {
                 fluid(maxWidth: 22) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

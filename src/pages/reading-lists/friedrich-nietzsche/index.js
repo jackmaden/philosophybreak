@@ -73,63 +73,63 @@ export const query = graphql`
         title: file(relativePath: {eq: "nietzsche.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 480) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         one: file(relativePath: {eq: "nietzsche-dynamite.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         two: file(relativePath: {eq: "nietzsche-hiking.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         three: file(relativePath: {eq: "nietzsche-beyondgoodevil.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         four: file(relativePath: {eq: "nietzsche-genealogy.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         five: file(relativePath: {eq: "nietzsche-zarathustra.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         six: file(relativePath: {eq: "nietzsche-morality.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         seven: file(relativePath: {eq: "nietzsche-truth.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
             childImageSharp {
                 fluid(maxWidth: 22) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

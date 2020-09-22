@@ -29,7 +29,7 @@ const ArticlePost = ({ data, location }) => {
         <ScrollProgressBar />
         {/*article title*/}
         <WindowHeightWrapper className="title">
-          <Img className="title-img" fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.imageAlt} />
+          <Img className="title-img" fluid={post.frontmatter.image.childImageSharp.fluid} fadeIn={false} loading="eager" alt={post.frontmatter.imageAlt} />
           <div className="darkener"></div>
           {/*react spring fade in*/}
           <animated.div style={dropIn} className="page-center title-center mid-width">
@@ -109,7 +109,7 @@ export const query = graphql`
                 src
               }
               fluid(maxHeight: 1000, quality: 70) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
               }
           }
         }
@@ -125,7 +125,7 @@ export const query = graphql`
                   image {
                       childImageSharp {
                           fluid(maxHeight: 230) {
-                              ...GatsbyImageSharpFluid
+                              ...GatsbyImageSharpFluid_withWebp
                           }
                       }
                   }

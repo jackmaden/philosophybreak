@@ -10,28 +10,28 @@ export default () => (
           introduction: file(relativePath: {eq: "introduction.jpg"}) {
               childImageSharp {
                   fluid(maxWidth: 600) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }
           consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
               childImageSharp {
                   fluid(maxHeight: 230) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }
           nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
               childImageSharp {
                   fluid(maxHeight: 230) {
-                      ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                   }
               }
           }
           metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid
+                      ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

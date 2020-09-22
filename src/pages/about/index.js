@@ -78,49 +78,49 @@ export const query = graphql`
         about: file(relativePath: {eq: "about-phones.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 600) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         jack: file(relativePath: {eq: "jackmaden.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         josh: file(relativePath: {eq: "josh.png"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         sophie: file(relativePath: {eq: "sophie.png"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         steph: file(relativePath: {eq: "steph.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         bayo: file(relativePath: {eq: "bayo.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         anis: file(relativePath: {eq: "anis.jpg"}) {
             childImageSharp {
                 fluid(maxWidth: 260, maxHeight: 260, quality: 90) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
