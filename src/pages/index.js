@@ -48,7 +48,7 @@ export default ({ data }) => {
         <Layout>
         <Navigation />
             <WindowHeightWrapper className={css}>
-            <Img fluid={pic} loading="eager" alt="Philosophy Break" />
+            <Img fluid={pic} fadeIn={false} loading="eager" alt="Philosophy Break" />
             <div className="darkener"></div>
                 <div className="page-center text-center">
                     <animated.div style={dropIn}>
@@ -80,21 +80,21 @@ export const query = graphql`
         default: file(relativePath: {eq: "philosophy-break.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 1000, quality: 70) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         morning: file(relativePath: {eq: "morning.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 1000, quality: 70) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         evening: file(relativePath: {eq: "evening.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 1000, quality: 70) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
