@@ -12,7 +12,7 @@ import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="Metaphysics – The Top 10 Books to Read" description="A curated reading list of the best and most essential books of and about metaphysics, including the writings of Aristotle, Spinoza, and Immanuel Kant." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
+    <SEO title="Metaphysics – The Top 10 Books to Read" description="A curated reading list of the best and most essential books of and about metaphysics, including the writings of Aristotle, Spinoza, and Immanuel Kant." image={data.title.childImageSharp.fluid.originalImg} pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

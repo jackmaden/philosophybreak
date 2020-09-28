@@ -12,7 +12,7 @@ import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="Friedrich Nietzsche – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosopher Friedrich Nietzsche." image={data.title.childImageSharp.fluid} pathname={location.pathname} />
+    <SEO title="Friedrich Nietzsche – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosopher Friedrich Nietzsche." image={data.title.childImageSharp.fluid.originalImg} pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />
