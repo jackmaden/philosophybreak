@@ -12,7 +12,7 @@ import PostReadingList from "../../../components/postReadingList"
 
 export default ({ data, location }) => (
     <>
-    <SEO title="Epistemology – The Top 9 Books to Read" description="A curated reading list of the best and most essential books of and about epistemology, including the writings of Plato, John Locke, and David Hume." image={data.title.childImageSharp.fluid.originalImg} pathname={location.pathname} />
+    <SEO title="Epistemology Reading List – The Top 9 Books to Read" description="A curated reading list of the best and most essential books of and about epistemology, including the writings of Plato, John Locke, and David Hume." image={data.title.childImageSharp.fluid.src} pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

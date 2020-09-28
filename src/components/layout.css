@@ -297,7 +297,7 @@ svg.bounce {margin-right: 0;}
 div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
 .title.list h1 {font-size: 30px;}
-.title.list h4 {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 20px;}
+.title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 20px; display:block; font-weight: 400;}
 @media (min-width: 620px) {
   .time.tag {font-size: 12px; margin-bottom: 6px;}
   .time.tag svg {width: 16px; height: 16px; margin-right: 6px;}
