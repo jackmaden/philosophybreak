@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://dazzling-thompson-5d6522.netlify.com/* https://philosophybreak.com/:splat 301!
+https://philosophybreak.netlify.app/* https://philosophybreak.com/:splat 301!
