@@ -59,7 +59,7 @@ Well, if we _are_ in a simulation, you could argue that nothing matters. We have
 
 But, you could also argue: who cares? Nothing mattered anyway, [we had no free will](/articles/free-will-illusion-sam-harris/) anyway - and what _is_ real, anyway?
 
-The possibility of being in a simulation shouldn’t really alter the way we live. We can reassure ourselves with [Descartes’s _cogito ergo sum_](/articles/hallucinating-with-descartes/) - even if we live in a virtual world, at least we exist. It’s still our job to ascribe meaning to our lives.
+The possibility of being in a simulation shouldn’t really alter the way we live. We can reassure ourselves with [Descartes’s _cogito ergo sum_](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained) - even if we live in a virtual world, at least we exist. It’s still our job to ascribe meaning to our lives.
 
 If you wanted to get really tinfoil hat, you could even say that living in a simulation is almost comforting.
 
