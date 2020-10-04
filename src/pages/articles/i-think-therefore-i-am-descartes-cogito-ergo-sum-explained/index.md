@@ -14,11 +14,11 @@ authorLink: "https://twitter.com/jackmaden_"
 
 What better way to spend the night?
 
-But Descartes was not without reason: in his work as a mathematician, he worried that if the foundations of knowledge were not completely solid, anything built upon them would inevitably collapse. He thus decided that if there was reason to doubt the truth of something — no matter how slim the doubt — then it should be discarded as false. ⁣
+But Descartes was not without reason: in his work as a mathematician, he worried that if the foundations of knowledge were not completely solid, anything built upon them would inevitably collapse. He thus decided that if there was reason to doubt the truth of something — no matter how slim the doubt — then it should be discarded as false.⁣
 
 ![Descartes](./descartes.jpg "René Descartes, meaning business.")
 
-With this strict criteria for truth in mind, it’s not long before — as depicted with masterful drama in his [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) — Descartes struggles to feel convinced by the existence of, well, anything. ⁣
+With this strict criteria for truth in mind, it’s not long before — as depicted with masterful drama in his [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) — Descartes struggles to feel convinced by the existence of, well, anything.
 
 The fact we dream and hallucinate means, for Descartes, our senses aren’t always trustworthy. Indeed, have you ever woken from a dream and thought, “but my God, that seemed so real”? Have you ever hallucinated your socks off? Have you ever _sworn_ to have witnessed something when someone else swears to have witnessed something else?
 
@@ -40,21 +40,21 @@ By this point frantic with worry, Descartes seeks to repair some of the damage c
 
 ## I think, therefore I am
 
-<span class="big-letter">I</span>n this exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.⁣
+<span class="big-letter">I</span>n this exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
 So, we have our base, our solid foundation: a thinking mind must exist. From this point on in his [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), Descartes attempts to rebuild all human knowledge and establish proofs for the existence of, among other things, God. Alas, his work here is generally acknowledged to not quite make up for his initial demolition job.
 
-Indeed, through absolutely bulldozing our confidence in the existence of anything but our thoughts, Descartes inadvertently creates two separate realms: the mental and the physical. The mental we can be sure of; the physical needs to, somehow, be linked to it. 
+Indeed, through absolutely bulldozing our confidence in the existence of anything but our thoughts, Descartes inadvertently creates two separate realms: the mental and the physical. The mental we can be sure of; the physical needs to, somehow, be linked to it.
 
-Believe it or not, philosophers have been trying to bridge this explanatory gap ever since.⁣
+Believe it or not, philosophers have been trying to bridge this explanatory gap ever since.
 
-## Is there an answer to Descartes' skepticism? 
+## Is there an answer to Descartes' skepticism?
 
-<span class="big-letter">D</span>escartes' doubting leaves us with a rather alarming concern: that our experience is not infallible, and that it has no bearing on the existence of an external world. Of course, this state of affairs has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about, which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us. 
+<span class="big-letter">D</span>escartes' doubting leaves us with a rather alarming concern: that our experience is not infallible, and that it has no bearing on the existence of an external world. Of course, this state of affairs has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about, which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
 
-There are a number of deep philosophical issues exposed by Descartes' [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), which is why it's perceived to mark the beginning of modern philosophy in the western tradition. Combine that with its highly accessible, dramatized style, and it's no wonder that this short text is still pored over by undergraduate students to this day. It's essential reading for anyone interested in philosophy.  
+There are a number of deep philosophical issues exposed by Descartes' [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), which is why it's perceived to mark the beginning of modern philosophy in the western tradition. Combine that with its highly accessible, dramatized style, and it's no wonder that this short text is still pored over by undergraduate students to this day. It's essential reading for anyone interested in philosophy.
 
-Beyond reading Descartes' [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes' pondering, we've put together a reading list of the [best and most essential works of metaphysics](/reading-lists/metaphysics), considering questions on time, space, nothingness, and God's existence. 
+Beyond reading Descartes' [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes' pondering, we've put together a reading list of the [best and most essential works of metaphysics](/reading-lists/metaphysics), considering questions on time, space, nothingness, and God's existence.
 
 If you're more interested in finding an answer to Descartes' skepticism around what we can know, as well as the extent to which we can close the explanatory gap and prove the existence of an external world, check out our [reading list on epistemology](/reading-lists/epistemology), the study of knowledge. You can hit the banner below to access it now.
 
