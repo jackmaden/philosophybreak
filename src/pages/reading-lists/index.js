@@ -23,7 +23,7 @@ export default ({ data, location }) => {
             <div className="grey-background">
 
                 {/*page title*/}
-                <TopTitle title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
+                <TopTitle class='' title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
                 
                 {/*page content*/}
                 <div className="page-center">
