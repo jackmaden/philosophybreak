@@ -325,7 +325,7 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 .article a:hover .article-info .time, .article a:hover .article-info .time svg {color: #fff; fill: #fff;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
-.article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 18px; font-weight: 400;}
+.article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 18px;}
 .article a .article-info .time {font-size: 10px; color: #929ba3;}
 .article a .article-info .time svg {width: 16px; height: 16px; margin-right: 4px; fill: #36b4ff;}
 .article a .article-info .button {margin-top: 1em;}
