@@ -39,6 +39,8 @@ export default ({ data, location }) => {
 
                     <BannerReadingList title="Epistemology" number="9" link="/reading-lists/epistemology/" img={data.epistemology.childImageSharp.fluid} alt="epistemology reading list" />
 
+                    <BannerReadingList title="Free Will" number="7" link="/reading-lists/free-will/" img={data.freewill.childImageSharp.fluid} alt="free will reading list" />
+
                 </div>
             
                 <WatermarkBreak />
@@ -94,6 +96,13 @@ export const query = graphql`
             }
         }
         epistemology: file(relativePath: {eq: "epistemology.jpg"}) {
+            childImageSharp {
+                fluid(maxHeight: 230) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        freewill: file(relativePath: {eq: "freewill.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid_withWebp
