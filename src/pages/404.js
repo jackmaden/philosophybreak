@@ -10,7 +10,7 @@ import WatermarkBreak from "../components/watermarkBreak"
 export default () => {
     return (
         <>
-        <Helmet>
+        <Helmet title="Page Not Found | Philosophy Break">
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>

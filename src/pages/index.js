@@ -44,7 +44,7 @@ export default ({ data }) => {
 
     return (
         <>
-        <SEO title="Philosophy Break – A Clearing in Your Cluttered Newsfeed" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
+        <SEO title="Philosophy Break – Philosophy's Best Questions, Quotes, and Ideas" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
         <Layout>
         <Navigation />
             <WindowHeightWrapper className={css}>

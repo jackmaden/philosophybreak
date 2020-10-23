@@ -12,7 +12,7 @@ export default ({ data }) => {
     const fadeIn = useSpring({opacity: 1, bottom: '9%', from: {opacity: 0, bottom: '50%'}})
     return (
         <>
-        <Helmet>
+        <Helmet title="Thank You | Philosophy Break">
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>

@@ -14,7 +14,7 @@ export default () => (
                   }
               }
           }
-          consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
+          ethics: file(relativePath: {eq: "ethics.jpg"}) {
               childImageSharp {
                   fluid(maxHeight: 230) {
                       ...GatsbyImageSharpFluid_withWebp
@@ -50,7 +50,7 @@ export default () => (
             
             <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.fluid} alt="Friedrich Nietzsche reading list" />
             
-            <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
+            <BannerReadingList title="Ethics and Morality" number="9" link="/reading-lists/ethics-and-morality/" img={data.ethics.childImageSharp.fluid} alt="ethics and morality reading list" />
 
             <BannerReadingList title="An Introduction to Philosophy" number="4" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
             
