@@ -208,12 +208,12 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
   .featured-image-full div.gatsby-image-wrapper picture img {object-position: center bottom !important;} 
   .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 45% !important;}
   .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 62% !important;}
+  .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}
 }
-
 @media (min-width: 1020px) {
-  .featured-image-full div.page-center {left: 0; right: 0; width: 1000px;}
+  .featured-image-full div.page-center {width: 1000px;}
 }
 
 /***about image cta***/
