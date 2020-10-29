@@ -53,9 +53,7 @@ The study and practice of philosophy therefore opens up whole new worlds for us,
 
 ## Explore the best introductions to philosophy
 
-If Russell’s rallying cry for the study of philosophy has piqued your interest, we’ve created a reading list of the top four introductory books on philosophy — including Russell’s [The Problems of Philosophy](http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043).
-
-Hit the banner below now to further explore the wonderful subject of philosophy. 
+<span class="big-letter">I</span>f Russell’s rallying cry for the study of philosophy has piqued your interest, we’ve created a reading list of the top four introductory books on philosophy — including Russell’s [The Problems of Philosophy](http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043). Hit the banner below now to further explore the wonderful subject of philosophy. 
 
 <a class="reading-list cta" href="/reading-lists/introduction-to-philosophy/">
     <img class="title-img" src="./introduction.jpg"/>

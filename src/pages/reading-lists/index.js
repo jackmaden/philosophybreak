@@ -43,6 +43,8 @@ export default ({ data, location }) => {
 
                     <BannerReadingList title="Ethics and Morality" number="9" link="/reading-lists/ethics-and-morality/" img={data.ethics.childImageSharp.fluid} alt="ethics and morality reading list" />
 
+                    <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.politics.childImageSharp.fluid} alt="political philosophy reading list" />
+
                 </div>
             
                 <WatermarkBreak />
@@ -112,6 +114,13 @@ export const query = graphql`
             }
         }
         ethics: file(relativePath: {eq: "ethics.jpg"}) {
+            childImageSharp {
+                fluid(maxHeight: 230) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        politics: file(relativePath: {eq: "politics.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid_withWebp
