@@ -15,9 +15,9 @@ In Australian Aboriginal community Pormpuraaw, for instance, the concepts ‘lef
 
 >As a result of this constant linguistic training, speakers of such languages are remarkably good at staying oriented and keeping track of where they are, even in unfamiliar landscapes.
 
-In Russia, meanwhile, the sky is not blue. At least, not in the way we — in English — think it’s blue. Why? Because in the Russian language there is no single word for blue. Rather, there are separate words for light blue (goluboy) and dark blue (siniy), which leads Russian speakers to distinguish two distinct colours. 
+In Russia, meanwhile, the sky is not blue. At least, not in the way we — in English — think it’s blue. Why? Because in the Russian language there is no single word for blue. Rather, there are separate words for light blue (goluboy) and dark blue (siniy), which leads Russian speakers to distinguish two distinct colors. 
 
-![blue abstract painting](./blue-language.jpg "How many colours do you see?")
+![blue abstract painting](./blue-language.jpg "How many colors do you see?")
 
 Moreover, those who speak the Zuñi language [have trouble](https://psycnet.apa.org/record/1955-03957-001) telling orange and yellow apart. Why? Because the Zuñi language doesn’t differentiate between them.  
 
@@ -47,7 +47,7 @@ The noises we make, the expressions we pull, the symbols we draw — all that we
 
 ## The cognitive universes we live in
 
-<span class="big-letter">C</span>ommenting on the multitude of languages across the globe, Boroditsky remarks: "the beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is. Human minds have invented not one cognitive universe, but 7,000."
+<span class="big-letter">C</span>ommenting on the multitude of languages across the globe, Boroditsky remarks: “the beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is. Human minds have invented not one cognitive universe, but 7,000.”
 
 That we _invent_ the cognitive universes we occupy is a powerful thought — and an empowering one. Within languages, specialist vocabulary provides deeper, more detailed conceptual clusters that enrich and inform our understanding of particular subjects. An engineer, for instance, describes a bridge differently to a painter; a violinist hears an orchestra differently to a percussionist; a chef explains a meal differently to a food critic. 
 
@@ -56,3 +56,19 @@ If each language is a cognitive universe, our specializations and interests are 
 ![starry night](./starry-language.jpg "Starry Night, a product of Vincent Van Gogh's umwelt.")
 
 Language is a strange, wonderful thing. It both contextualizes and enables us to share our experiences. By broadening our linguistic capabilities and vocabularies, we broaden our cognitive universes — and so deepen our understanding of the world, each other, and ourselves. Indeed: if our _umwelts_ are of our own making, how will you shape yours?
+
+## Further reading
+
+<span class="big-letter">I</span>f you're interested in learning more about the nature of language, we've put together a [reading list featuring the best 7 books on the philosophy of language](/reading-lists/philosophy-of-language/). After reading it, you'll have much clearer understanding as to why the symbols you're currently scanning mean anything at all. Hit the banner below to access the reading list now.  
+
+<a class="reading-list cta" href="/reading-lists/philosophy-of-language/">
+    <img class="title-img" src="./language1.jpg"/>
+    <div class="darkener"></div>
+    <div class="reading-list-title">
+        <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
+        <div class="separator reading-list banner"></div>
+        <h3>Philosophy of Language</h3>
+        <p style="margin: 0;">The Top 7 Books to Read</p>
+    </div>    
+    <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
+</a>

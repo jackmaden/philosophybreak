@@ -45,6 +45,8 @@ export default ({ data, location }) => {
 
                     <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.politics.childImageSharp.fluid} alt="political philosophy reading list" />
 
+                    <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.fluid} alt="philosophy of language reading list" />
+
                 </div>
             
                 <WatermarkBreak />
@@ -121,6 +123,13 @@ export const query = graphql`
             }
         }
         politics: file(relativePath: {eq: "politics.jpg"}) {
+            childImageSharp {
+                fluid(maxHeight: 230) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        language: file(relativePath: {eq: "language.jpg"}) {
             childImageSharp {
                 fluid(maxHeight: 230) {
                     ...GatsbyImageSharpFluid_withWebp

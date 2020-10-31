@@ -17,7 +17,7 @@ export default () => (
     `}
     render={data => (
         <div className="time" style={{marginTop: 48, textAlign: "center"}}>
-            <Img style={{display: "inline-block", marginBottom: 48, marginRight: 0}} fluid={data.file.childImageSharp.fluid} alt="Philosophy Break"/>
+            <Img style={{display: "inline-block", marginBottom: 96, marginRight: 0}} fluid={data.file.childImageSharp.fluid} alt="Philosophy Break"/>
         </div>
     )}
   />

@@ -290,8 +290,8 @@ svg.bounce {margin-right: 0;}
 }
 
 /*reading list title*/
-.title.list {height: 380px;}
-.title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));}
+.title.list {height: 420px;}
+.title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));}
 .title.list div.title-center {bottom: 18px;}
 .time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
 .time.tag svg {width: 14px; height: 14px; vertical-align: sub; margin-right: 4px;}
@@ -300,8 +300,8 @@ svg.bounce {margin-right: 0;}
 .reading-list-title p {font-size: 16px;}
 div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
-.title.list h1 {font-size: 30px;}
-.title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 20px; display:block; font-weight: 400;}
+.title.list h1 {font-size: 36px;}
+.title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
 @media (min-width: 620px) {
   .time.tag {font-size: 12px; margin-bottom: 6px;}
   .time.tag svg {width: 16px; height: 16px; margin-right: 6px;}
@@ -309,14 +309,14 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
   .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
   div.separator.reading-list {width: 114px;}
   div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {width: 96px; margin-top: -2px;}
-  .title.list h1 {font-size: 40px;}
-  .title.list h4 {font-size: 26px;}
+  .title.list h1 {font-size: 45px;}
+  .title.list h1 span {font-size: 28px;}
 }
 @media (min-width: 1020px) {
   div.separator.reading-list, div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {display: block;}
 }
 @media (min-width: 1500px) {
-  .title.list {height: 480px;}
+  .title.list {height: 630px;}
 }
 
 /***article listing***/
@@ -333,7 +333,7 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 .article a .article-info .button {margin-top: 1em;}
 @media (min-width: 620px) {
   .article a .gatsby-image-wrapper {height: 230px;}
-  .article a .article-info h2, #break-start .article a .article-info h2 {font-size: 19px;}
+  .article a .article-info h2, #break-start .article a .article-info h2 {font-size: 22px;}
   .article a .article-info .time {font-size: 12px;}
   .article a .article-info .time svg {width: 18px; height: 18px; margin-right: 6px;}
 }
@@ -348,7 +348,7 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 .reading-list:first-of-type {margin-top: 32px;}
 .reading-list:last-of-type {margin-bottom: 32px;}
 .reading-list:hover {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
-.reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.5));}
+.reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.8));}
 .reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-52%); transform: translateY(-52%);}
 .reading-list h3 {color: #fff; font-size: 24px; margin: 0 !important; text-align: left;}
 .reading-list p {color: #fff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
