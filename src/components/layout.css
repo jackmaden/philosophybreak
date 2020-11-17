@@ -23,7 +23,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 /***general classes***/
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
-.darkblue-background {background:linear-gradient(to top right,#38369A, #020887);}
+.darkblue-background {background: linear-gradient(to top right,#020887,#38369A);}
 .white-background {background-color: #fff;}
 .grey-background {background-color: #f2f3f4;}
 .small-pad {padding: 24px 0;}
@@ -37,7 +37,8 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font, .large-grey-font {font-size: 18px; color: #737d88; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font a {color: #737d88;}
-.darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a {color: #fff;}
+.darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a {color: #fff;}
+.two-col div.gatsby-image-wrapper {margin: 2em 0;}
 @media (min-width: 620px) {
   .small-grey-font, .large-grey-font {font-size: 20px;}
   .mid-width {width: 600px; margin-left: auto; margin-right: auto;}
@@ -45,9 +46,9 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 @media (min-width: 1020px) {
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
-  .two-col {display: flex; justify-content: space-between;}
+  .two-col {display: flex; justify-content: space-between; align-items: center;}
   .two-col div {width: 46%;}
-  .two-col div p {text-align: justify;}
+  .two-col div.gatsby-image-wrapper {width: 100%;}
 }
 @media (min-width: 1500px) {
   .large-pad {padding: 80px 0;}
@@ -69,6 +70,9 @@ h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
 h3 {font-size: 26px; font-weight: 900;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
+
+/*contents h5*/
+#break-start h5 {font-weight: 900;}
 
 @media (min-width: 360px) {
   h1#home-page {font-size: 42px;}
@@ -150,26 +154,57 @@ a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: pres
 #menu-trigger .change .bar2 {opacity: 0; background-color: #2b2f33;}
 #menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-9px, -5px); transform: rotate(45deg) translate(-9px, -5px); background-color: #2b2f33;}
 /**menu**/
-ul#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; min-height: 100%; opacity: 0; transition: all 0.2s linear; width: calc(100% + 20px); padding-top: 90px; left: -20px;}
+ul#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; min-height: 100%; opacity: 0; transition: all 0.2s linear; width: 100%; padding-top: 80px; left: -20px;}
 ul#menu.show {opacity: 1 !important; left: 0 !important; z-index: 2 !important} /*show menu*/
 ul#menu li a {text-decoration: none; color: #2b2f33;}
 ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {padding: 0.5em 0; font-size: 34px; font-weight: 900;}
-ul#menu li a {display: flex; align-items: center;}
-ul#menu li a svg {margin-right: 16px; width: 28px; height: 28px;}
-ul#menu li a svg path {fill: #36b4ff;}
-ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
+ul#menu li {padding: 0.6em 0; border-top: solid 1px #f2f3f4;}
+ul#menu li.primary {padding: 0.5em 0 0;}
+ul#menu li a div {display: flex; align-items: center;}
+ul#menu li.primary.one a div h3, ul#menu li:hover a p.small-grey-font, ul#menu li a:hover p.small-grey-font {color: #36b4ff}
+ul#menu li.primary.two a div h3, ul#menu li.primary.two:hover a p.small-grey-font, ul#menu li.primary.two a:hover p.small-grey-font {color: #3683ff}
+ul#menu li.primary.three a div h3, ul#menu li.primary.three:hover a p.small-grey-font, ul#menu li.primary.three a:hover p.small-grey-font {color: #020887}
+ul#menu li a div h5 {font-weight: 900; margin: 0; color: #bdbfc7;}
+ul#menu li.primary a div svg path {fill: #2b2f33;}
+ul#menu li a div svg {margin-right: 8px; width: 18px; height: 18px;}
+ul#menu li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
+ul#menu li:nth-of-type(4) {margin-top: 2em;}
+ul#menu li a div svg path, ul#menu li:hover a div svg path, ul#menu li a:active div svg path {fill: #bdbfc7;}
+ul#menu li.primary.one:hover a div svg path, ul#menu li.primary.one a:active div svg path {fill: #36b4ff;}
+ul#menu li.primary.two:hover a div svg path, ul#menu li.primary.two a:active div svg path {fill: #3683ff;}
+ul#menu li.primary.three:hover a div svg path, ul#menu li.primary.three a:active div svg path {fill: #020887;}
+ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 
 @media (min-width: 620px) {
-  ul#menu .page-center {width: 620px;}
-  ul#menu li {font-size: 38px;}
-  ul#menu li a svg {margin-right: 18px; width: 32px; height: 32px;}
+  ul#menu {padding-top: 90px;}
+  ul#menu .page-center {width: 600px;}
+  ul#menu li a div svg {margin-right: 10px; width: 22px; height: 22px;}
+  ul#menu li.primary a div svg {margin-right: 12px; width: 28px; height: 28px;}
+  ul#menu p.small-grey-font {font-size: 18px; margin-top: 9px;}
   /*show menu label*/
   #menu-trigger {display: flex; align-items: center;}
   #menu-trigger span {display: block; transition: 0.2s; margin-right: 9px; color: #fff; font-size: 16px; font-weight: 900; margin-top:1px;}
   #nav.reduce-size #menu-trigger span {color: #2b2f33; font-size: 14px; margin-top: 2px; margin-right: 8px;}
   #nav.light-bg #menu-trigger span, #nav.dark #menu-trigger span {color: #2b2f33;}
   #nav.reduce-size.dark {-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
+}
+
+@media (min-width: 1020px) {
+  ul#menu {padding-top: 100px;}
+  ul#menu .page-center {width: 1000px;}
+  ul#menu li:nth-of-type(4) {margin-top: 0;}
+  ul#menu li {padding: 1em 0 1em 0; display: inline-block; width: 30%;}
+  ul#menu li.primary {padding: 1em 0 2.5em; width: 30%; box-sizing: border-box; display: inline-block;}
+  ul#menu li.primary.two, ul#menu li:nth-of-type(5) {margin: 0 5%;}
+  ul#menu li.primary.one:hover {border-top: solid 1px #36b4ff;}
+  ul#menu li.primary.two:hover {border-top: solid 1px #3683ff;}
+  ul#menu li.primary.three:hover {border-top: solid 1px #020887;}
+}
+
+/*hide p descriptions on tiny screens*/
+@media (max-height: 560px) {
+  ul#menu p.small-grey-font {display: none;}
+  ul#menu li.primary {padding: 0.8em 0;}
 }
 
 
@@ -197,7 +232,7 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: 20% center !important;}
 .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 45% center !important;}
 /*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
-.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-55%);}
+.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-55%); transform: translateY(-55%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .featured-image-full div.page-center p {font-size: 16px;}
@@ -227,7 +262,7 @@ ul#menu li a:hover svg path, ul#menu li a:active svg path {fill: #36b4ff;}
 .advisory .member {width: 48%; margin-bottom: 2em; text-align: center;}
 .advisory .member .gatsby-image-wrapper {width: 90%; border-radius:50%; margin-left: auto; margin-right: auto;}
 .advisory .member p {font-size: 16px; font-weight: 900; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
-.advisory .member p span {display: block;  font-size: 14px; color: #fff; margin-top: 4px; font-weight: 400;}
+.advisory .member p span {display: block;  font-size: 14px; margin-top: 4px; font-weight: 400;}
 
 @media (min-width: 620px) {
   .advisory {justify-content: flex-start;}
@@ -319,6 +354,22 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
   .title.list {height: 630px;}
 }
 
+/***pillar page title***/
+.pillar {height: 100vh; width: 100%; overflow: hidden; position: relative; display: block; background-color: #000;}
+.pillar div.gatsby-image-wrapper {height: 100%;}
+.pillar div.gatsby-image-wrapper picture img {object-position: 22% center !important;}
+.pillar div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
+.pillar div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-45%); transform: translateY(-45%); left: 0; right: 0;}
+.pillar p.break {position: relative; margin-top: 3em;}
+
+.img-background {position: relative; height: 100%; width: 100%; background-color: #000; color: #fff;}
+.img-background div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
+.img-background .page-center {position: relative;}
+
+@media (min-width: 620px) {
+  .pillar div.gatsby-image-wrapper picture img {object-position: center 100% !important;}
+}
+
 /***article listing***/
 .article {margin: 24px 0;}
 .article:first-of-type {margin-top: 32px;}
@@ -327,7 +378,7 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 .article a:hover .article-info .time, .article a:hover .article-info .time svg {color: #fff; fill: #fff;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
-.article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 16px; font-weight: 800;}
+.article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 17px; font-weight: 800;}
 .article a .article-info .time {font-size: 10px; color: #737d88;}
 .article a .article-info .time svg {width: 16px; height: 16px; margin-right: 4px; fill: #36b4ff;}
 .article a .article-info .button {margin-top: 1em;}
@@ -428,6 +479,10 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
 blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
+.midblue-background blockquote:before {color: #3682ff; z-index: 0;}
+.img-background blockquote:before {color: #001d30; z-index: 0;}
+.img-background blockquote p {color: #fff; position: relative; z-index: 1;}
+.midblue-background blockquote p {position: relative; z-index: 1; color: #fff;}
 @media (min-width: 620px) {
   blockquote:before {margin-left: -40px;}
   blockquote p {font-size: 24px;}
@@ -438,6 +493,8 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
 .big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text;
   background-clip: text; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
+  .big-letter.section-head {width: 100%; text-align: center; margin-bottom: 0.2em;}
+  /*.midblue-background .big-letter {background: linear-gradient(to right top, #020887, #38369A); color: transparent; -webkit-background-clip: text; background-clip: text;}*/
   @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     .big-letter {background: none; color: #36b4ff;}
     }

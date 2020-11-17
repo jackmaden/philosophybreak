@@ -1,13 +1,32 @@
 import React from "react"
-import { Link } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
+import BackgroundImage from 'gatsby-background-image'
 
-export default () => (
-      <div className="darkblue-background large-pad">
-        <div className="page-center text-center">
-          <h3>Learn About Us</h3>
-          <div className="separator" style={{marginBottom: '2em'}}></div>
-          <p className="small-grey-font mid-width">We're on a mission to get more people engaged with philosophy. See why we think that's so important — and how you can get involved.</p>
-          <span className="shadow"><Link className="button primary" to="/about/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 448c-110.532 0-200-89.431-200-200 0-110.495 89.472-200 200-200 110.491 0 200 89.471 200 200 0 110.53-89.431 200-200 200zm107.244-255.2c0 67.052-72.421 68.084-72.421 92.863V300c0 6.627-5.373 12-12 12h-45.647c-6.627 0-12-5.373-12-12v-8.659c0-35.745 27.1-50.034 47.579-61.516 17.561-9.845 28.324-16.541 28.324-29.579 0-17.246-21.999-28.693-39.784-28.693-23.189 0-33.894 10.977-48.942 29.969-4.057 5.12-11.46 6.071-16.666 2.124l-27.824-21.098c-5.107-3.872-6.251-11.066-2.644-16.363C184.846 131.491 214.94 112 261.794 112c49.071 0 101.45 38.304 101.45 88.8zM298 368c0 23.159-18.841 42-42 42s-42-18.841-42-42 18.841-42 42-42 42 18.841 42 42z"/></svg>Find Out More</Link></span>
-        </div>
-      </div>
-)
+export default () => {
+  return (
+      <StaticQuery
+          query={graphql`
+            query {
+                space: file(relativePath: {eq: "space.jpg"}) {
+                    childImageSharp {
+                        fluid(maxHeight: 1000) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
+            }
+          `}
+          render={data => (
+            <BackgroundImage className="img-background large-pad" fluid={data.space.childImageSharp.fluid} style={{backgroundAttachment: "fixed"}}>
+              <div className="darkener"></div>
+              <div className="page-center text-center">
+                <h3>See How Philosophy Can Improve Your Life</h3>
+                <div className="separator" style={{marginBottom: '2em'}}></div>
+                <p className="small-grey-font mid-width" style={{color: "#fff"}}>Read our quick, simple guide to how philosophy can expand your mind, clarify your thinking, and improve your life.</p>
+                <span className="shadow"><Link className="button primary" to="/what-is-philosophy-why-is-it-important-today/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Started</Link></span>
+              </div>
+            </BackgroundImage>
+          )}
+      />
+  )
+}

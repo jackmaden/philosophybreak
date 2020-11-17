@@ -9,29 +9,27 @@ import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelArticleList from "../../components/panelArticleList"
+import PanelAboutUs from "../../components/panelAboutUs"
 
 export default ({ data, location }) => {
     return (
         <>
         <SEO title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Our aim is to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential." pathname={location.pathname} />
         <Layout>
-        <Navigation />
+        <Navigation bg="light-bg" />
             {/*page title*/}
-            <TopTitle class="darkblue-background" title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
+            <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
             <div className="two-col spectral page-center">
                 <div>
-                    <p><span className="big-letter">W</span>e're on a mission to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential.</p>
-                    <p>Why? Well, the addictive nature of the digital world afflicts many of us. The relentless torrent of information saturates our attention spans. But life is finite, and the things we give attention to define our lives. It's crucial to break free from the turbulent current and come up for air.</p>
-                    <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose? We believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be.</p>
+                    <p><span className="big-letter">S</span>ince 2018, we've been on a mission to wrap philosophy's best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
+                    <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be. <Link to="/what-is-philosophy-why-is-it-important-today/">Learn more about our thoughts on the power of philosophy here</Link>.</p>
+                    <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">get in touch with us on Instagram here</a> or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
                 </div>
                 <div>
-                    <p>Philosophy Break wraps philosophy’s best ideas, quotes, and questions in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
-                    <p>To disrupt the noise and keep your mind curious, be sure to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">follow Philosophy Break on Instagram</a>, and subscribe to weekly breaks via email below.</p>
-                    <p>If you're looking to learn more about philosophy, our article on <Link to="/articles/bertrand-russell-why-philosophy-matters/">Bertrand Russell discussing why philosophy matters</Link>, as well as our <Link to="/reading-lists/introduction-to-philosophy/">reading list on the best introductions to philosophy</Link>, are good places to start.</p>
-                    <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on Instagram <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">here</a> or via email <a href="mailto:hello@philosophybreak.com">here</a>.</p>
+                    <Img fluid={data.about.childImageSharp.fluid} fadeIn={false} loading="eager" alt="Philosophy Break" />
                 </div>
             </div>
-            <div className="darkblue-background" style={{marginTop: "64px"}}>
+            <div className="mid-pad">
                 <div className="page-center text-center" style={{padding: "48px 0 12px"}}>
                     <h3>Advisory Board</h3>
                     <div className="separator"></div>
@@ -68,6 +66,7 @@ export default ({ data, location }) => {
             <PanelArticleList />
             <SubscriptionForm />
             <PanelReadingList />
+            <PanelAboutUs />
         </Layout>
         </>
     )
@@ -75,9 +74,9 @@ export default ({ data, location }) => {
 
 export const query = graphql`
     query {
-        about: file(relativePath: {eq: "about-phones.jpg"}) {
+        about: file(relativePath: {eq: "about-mob.jpg"}) {
             childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxWidth: 600, quality: 90) {
                     ...GatsbyImageSharpFluid_withWebp
                 }
             }

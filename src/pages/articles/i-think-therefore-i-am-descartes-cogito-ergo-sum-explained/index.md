@@ -40,7 +40,7 @@ By this point frantic with worry, Descartes seeks to repair some of the damage c
 
 ## I think, therefore I am
 
-<span class="big-letter">A</span> clearer translation of Descartes's definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
+<span class="big-letter">A</span> clearer translation of Descartes' definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
 So, we have our base, our solid foundation: a thinking mind must exist. From this point on in his [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), Descartes attempts to rebuild all human knowledge and establish proofs for the existence of, among other things, God. Alas, his work here is generally acknowledged to not quite make up for his initial demolition job.
 
