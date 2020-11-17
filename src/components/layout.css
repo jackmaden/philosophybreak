@@ -24,6 +24,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
 .darkblue-background {background: linear-gradient(to top right,#020887,#38369A);}
+.darkradial-background {background: radial-gradient(#001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
 .grey-background {background-color: #f2f3f4;}
 .small-pad {padding: 24px 0;}
@@ -37,7 +38,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font, .large-grey-font {font-size: 18px; color: #737d88; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font a {color: #737d88;}
-.darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a {color: #fff;}
+.darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
 @media (min-width: 620px) {
   .small-grey-font, .large-grey-font {font-size: 20px;}
@@ -52,6 +53,16 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 }
 @media (min-width: 1500px) {
   .large-pad {padding: 80px 0;}
+}
+
+/*img panel bg*/
+.img-background {position: relative; height: 420px; width: 100%; background-color: #000; color: #fff;}
+.img-background div.gatsby-image-wrapper {height: 100%;}
+.img-background div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
+.img-background .page-center {position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+
+@media (min-width: 620px) {
+  .img-background .page-center {left: 0; right: 0;}
 }
 
 /*responsive hide*/
@@ -360,14 +371,19 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 .pillar div.gatsby-image-wrapper picture img {object-position: 22% center !important;}
 .pillar div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
 .pillar div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-45%); transform: translateY(-45%); left: 0; right: 0;}
+.pillar h1 {font-size: 32px;}
 .pillar p.break {position: relative; margin-top: 3em;}
 
-.img-background {position: relative; height: 100%; width: 100%; background-color: #000; color: #fff;}
-.img-background div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
-.img-background .page-center {position: relative;}
+@media (min-width: 350px) {
+  .pillar h1 {font-size: 34px;}
+}
+@media (min-width: 375px) {
+  .pillar h1 {font-size: 36px;}
+}
 
 @media (min-width: 620px) {
   .pillar div.gatsby-image-wrapper picture img {object-position: center 100% !important;}
+  .pillar h1 {font-size: 45px;}
 }
 
 /***article listing***/
@@ -480,8 +496,8 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
 blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
 .midblue-background blockquote:before {color: #3682ff; z-index: 0;}
-.img-background blockquote:before {color: #001d30; z-index: 0;}
-.img-background blockquote p {color: #fff; position: relative; z-index: 1;}
+.darkradial-background blockquote:before {color: #001d30; z-index: 0;}
+.darkradial-background blockquote p {position: relative; z-index: 1;}
 .midblue-background blockquote p {position: relative; z-index: 1; color: #fff;}
 @media (min-width: 620px) {
   blockquote:before {margin-left: -40px;}
