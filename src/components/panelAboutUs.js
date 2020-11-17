@@ -17,7 +17,7 @@ export default () => {
             }
           `}
           render={data => (
-            <BackgroundImage className="img-background large-pad" fluid={data.space.childImageSharp.fluid} style={{backgroundAttachment: "fixed"}}>
+            <BackgroundImage className="img-background large-pad" fluid={data.space.childImageSharp.fluid}>
               <div className="darkener"></div>
               <div className="page-center text-center">
                 <h3>See How Philosophy Can Improve Your Life</h3>

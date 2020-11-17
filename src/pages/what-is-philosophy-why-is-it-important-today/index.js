@@ -63,7 +63,7 @@ export default ({ data, location }) => {
                 <blockquote><p>The aim of philosophy is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.</p></blockquote>
             </div>
             </div>
-            <BackgroundImage id="section2" className="img-background mid-pad" fluid={data.space.childImageSharp.fluid} style={{backgroundAttachment: "fixed"}}>
+            <BackgroundImage id="section2" className="img-background mid-pad" fluid={data.space.childImageSharp.fluid}>
             <div className="darkener"></div>
             <div className="page-center" id="break-start">
             <p style={{marginTop:"0"}}><span className="big-letter section-head">II</span></p>
@@ -103,7 +103,7 @@ export default ({ data, location }) => {
                 <blockquote><p>Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.</p></blockquote>
             </div>
             </div>
-            <BackgroundImage id="section4" className="img-background mid-pad" fluid={data.space.childImageSharp.fluid} style={{backgroundAttachment: "fixed", paddingBottom: "0"}}>
+            <BackgroundImage id="section4" className="img-background mid-pad" fluid={data.space.childImageSharp.fluid} style={{paddingBottom: "0"}}>
             <div className="darkener"></div>
             <div className="page-center" id="break-start">
             <p style={{marginTop:"0"}}><span className="big-letter section-head">IV</span></p>
