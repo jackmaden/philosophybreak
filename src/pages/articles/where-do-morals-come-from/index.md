@@ -17,7 +17,7 @@ And I chew with my mouth wide open.
 
 And I’d already eaten breakfast.
 
-I doubt there’s a human being on Earth who’d find my behavior tolerable here. We humans like our food, but our sensitivity to fairness is keener even than hunger. From children decrying the confiscation of their favourite toys and the rage felt for commuters jumping queues, to more serious issues like gross wealth inequality and racial discrimination: wherever unfairness goes in human affairs, outrage often follows.
+I doubt there’s a human being on Earth who’d find my behavior tolerable here. We humans like our food, but our sensitivity to fairness is keener even than hunger. From children decrying the confiscation of their favorite toys and the rage felt for commuters jumping queues, to more serious issues like gross wealth inequality and racial discrimination: wherever unfairness goes in human affairs, outrage often follows.
 
 Our sensitivity to fairness indicates our status as moral beings. We all have ideas about what constitutes ‘right’ and ‘wrong’, ‘just’ and ‘unjust’, ‘good’ and ‘evil’. Philosophers, especially, have spilled oceans of ink throughout the ages attempting to articulate their ideas on such matters.
 
