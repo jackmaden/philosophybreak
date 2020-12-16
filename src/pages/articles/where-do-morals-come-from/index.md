@@ -73,7 +73,7 @@ As De Waal puts it, if nothing else, his Humean, bottom-up, biology-driven appro
 
 ## Further reading
 
-<span class="big-letter">I</span>f you're interested in learning more about ethics and morality generally, and in exploring some counterpunches to De Waal's position regarding its origins, [we've compiled a reading list](/reading-lists/free-will/) consisting of the subject's best writings. Hit the banner below to access it now. 
+<span class="big-letter">I</span>f you're interested in learning more about ethics and morality generally, and in exploring some counterpunches to De Waal's position regarding its origins, [we've compiled a reading list](/reading-lists/ethics-and-morality/) consisting of the subject's best writings. Hit the banner below to access it now. 
 
 <a class="reading-list cta" href="/reading-lists/ethics-and-morality/">
     <img class="title-img" src="./ethics.jpg"/>

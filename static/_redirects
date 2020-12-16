@@ -3,3 +3,6 @@ https://philosophybreak.netlify.app/* https://philosophybreak.com/:splat 301!
 
 # Redirect Descartes article
 /articles/hallucinating-with-descartes /articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained 301!
+
+# Redirect Socrates article
+/articles/socrates-on-what-we-know /articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing 301!
