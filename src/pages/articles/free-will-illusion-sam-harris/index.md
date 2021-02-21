@@ -76,7 +76,7 @@ In Harris's view, therefore, compatibilists like Dennett do not address the root
 
 Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his [book-length review of Harris's Free Will](https://samharris.org/reflections-on-free-will/). Harris then [responds to that response](https://samharris.org/the-marionettes-lament/), eventually leading the two of them to [record a podcast](https://samharris.org/podcasts/free-will-revisited/), in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 
-For our purposes in this article, however, we can say that though the argument rages on, Harris's neuroscience-backed case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatbilists like Dennett would disagree on this last point).
+For our purposes in this article, however, we can say that though the argument rages on, Harris's neuroscience-backed case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatibilists like Dennett would disagree on this last point).
 
 The rather scary question we turn to now, therefore, is what if Harris is right?
 

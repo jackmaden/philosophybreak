@@ -21,7 +21,7 @@ Or are they? Indeed, 20th-century French thinker Albert Camus believed the myth 
 
 “The workman of today,” Camus writes in his mind-bending book [The Myth of Sisyphus](http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb), “works every day in his life at the same tasks, and this fate is no less absurd [than Sisyphus's].”
 
-We wake up, we toil, we sleep; we wake up, we toil, we sleep; we push the boulder up, it rolls back down, we start again. And this cyclical mundanity points to the fundamental absurdity of the human condition: all this time we thought we were making progress — we're all just Sisyphus, each with our own boulder to bear. 
+We wake up, we toil, we sleep; we wake up, we toil, we sleep; we push the boulder up, it rolls back down, we start again. And this cyclical mundanity points to the fundamental absurdity of the human condition: all this time we thought we were making progress — we're all just Sisyphus, each with our own boulders to bear. 
 
 ## Beyond everyday absurdity
 

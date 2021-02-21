@@ -19,6 +19,8 @@ export default ({ data, location }) => {
         <Navigation bg="light-bg" />
             {/*page title*/}
             <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy." />
+
+            {/*page content*/}
             <div className="two-col spectral page-center">
                 <div>
                     <p><span className="big-letter">S</span>ince 2018, we've been on a mission to wrap philosophy's best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
@@ -62,7 +64,7 @@ export default ({ data, location }) => {
                 </div>
             </div>
                 
-            {/*page content*/}
+            {/*post-page content*/}
             <PanelArticleList />
             <SubscriptionForm />
             <PanelReadingList />

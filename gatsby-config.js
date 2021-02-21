@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: 'Philosophy Break',
         titleTemplate: "%s | Philosophy Break",
-        description: 'Philosophy Break is a clearing in your cluttered newsfeed.',
+        description: 'Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy.',
         url: 'https://philosophybreak.com',
         siteUrl: 'https://philosophybreak.com',
         image: '/philosophy--break.png',
@@ -21,7 +21,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-sitemap`,
             options: {
-              exclude: [`/thank-you`]
+              exclude: [`/thank-you`, `/thank-you-lifes-big-questions`]
             }
         },
         //robots.txt
@@ -52,12 +52,6 @@ module.exports = {
         //gatsby images
         `gatsby-transformer-sharp`, 
         `gatsby-plugin-sharp`,
-        {
-            resolve: `gatsby-source-instagram`,
-            options: {
-                username: `8608990298`
-            }
-        },
         {
             //pointing to where markdown files live
             resolve: `gatsby-source-filesystem`,

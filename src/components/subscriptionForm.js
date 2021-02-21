@@ -7,7 +7,7 @@ export class SubscriptionForm extends React.Component {
     }
     render () {
         return (
-            <div className="darkblue-background large-pad">
+            <div className="darkradial-background large-pad">
                 <div className="page-center text-center mid-width">
                     <h3>Get Weekly Breaks</h3>
                     <div className="separator" style={{marginBottom: "2em"}}></div>
