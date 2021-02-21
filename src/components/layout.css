@@ -82,6 +82,8 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
 /*responsive hide*/
 @media (max-width: 619px) {
   .mobile-no-display {display: none !important;}
+  .mobile-center {text-align: center;}
+  .mobile-center-margin {margin-left: auto !important; margin-right: auto !important;}
 }
 @media (min-width: 620px) {
   .desktop-no-display {display: none !important;}

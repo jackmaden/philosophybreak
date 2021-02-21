@@ -18,7 +18,7 @@ export default ({ data, location }) => {
             <div className="top-title darkradial-background" id="top">
                 <div className="two-col page-center">
                     <div>
-                        <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
+                        <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
                         <h1>Life’s Big Questions (and Philosophy's Best Answers)</h1>
                         <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                         <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery.</p>
@@ -93,7 +93,10 @@ export default ({ data, location }) => {
                         </div>
                     </div>
                 </div>
-            <div className="page-center small-pad small-width"><h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3><Checkout /></div>
+                <div className="page-center small-pad small-width">
+                    <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
+                    <Checkout />
+                </div>
             </div>
             
             {/*Reviews*/}
@@ -157,7 +160,8 @@ export default ({ data, location }) => {
                         <div className="small-mar">
                         </div>
                     </div>
-                    <div className="small-width mid-mar">
+                    <div className="page-center large-pad small-width">
+                        <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
                         <Checkout />
                     </div>
                 </div>
@@ -189,7 +193,7 @@ export default ({ data, location }) => {
                     <div className="two-col align-top">
                         <div>
                             <h4>Who wrote the course?</h4>
-                            <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, Jack Maden, who holds a master’s degree in philosophy from the University of Southampton. Having obtained great value from philosophy at postgraduate level, Jack wanted to make the subject’s riches accessible to a wider general audience, and created Philosophy Break in 2018. This course is the result of years of refinement and tweaking to make philosophy’s profound and important wisdom as relevant, interesting, and engaging to today’s digital world as possible.</p>
+                            <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who holds a master’s degree in philosophy from the University of Southampton. Having obtained great value from philosophy at postgraduate level, Jack wanted to make the subject’s riches accessible to a wider general audience, and created Philosophy Break in 2018. This course is the result of years of refinement and tweaking to make philosophy’s profound and important wisdom as relevant, interesting, and engaging to today’s digital world as possible.</p>
                         </div>
                         <div>
                             <h4>Where do profits from the course go?</h4>
@@ -197,31 +201,12 @@ export default ({ data, location }) => {
                             <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we’ll be happy to answer!</p>
                         </div>
                     </div>
-                    <div className="small-width mid-pad">
+                    <div className="page-center large-pad small-width">
+                        <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
                         <Checkout />
-                    </div>
-                </div>
-            </div>
-            {/*Bottom CTA*/}
-            <div className="small-pad darkradial-background">
-                <div className="two-col page-center">
-                    <div>
-                        <Img fluid={data.about.childImageSharp.fluid} fadeIn={false} loading="eager" alt="Life's Big Questions" />
-                    </div>
-                    <div>
-                        <h2>Start Answering Life's Big Questions Today</h2>
-                        <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
-                        <h4>$29.00 USD</h4>
-                        <p className="spectral">Are you ready to confront the human condition? A five-day whirlwind of philosophical reflection and discovery awaits you.</p>
-                        <Checkout />
-                        <AnchorLink className="no-hover desktop-no-display" href="#top"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
-                    </div>
-                    
-                </div>
-                <div className="page-center small-width small-pad">
-                    <div className="large-pad mobile-no-display">
                         <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
                     </div>
+                    <div className="small-pad"></div>
                 </div>
             </div>
         </Layout>
