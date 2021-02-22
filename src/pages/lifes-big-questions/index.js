@@ -11,7 +11,7 @@ import Checkout from "../../components/checkout"
 export default ({ data, location }) => {
     return (
         <>
-        <SEO title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery." pathname={location.pathname} />
+        <SEO title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery." pathname={location.pathname} />
         <Layout>
         <NavigationSimple/>
             {/*page title*/}
@@ -19,7 +19,7 @@ export default ({ data, location }) => {
                 <div className="two-col page-center">
                     <div>
                         <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
-                        <h1>Life’s Big Questions (and Philosophy's Best Answers)</h1>
+                        <h1>Life’s Big Questions (and Philosophy’s Best Answers)</h1>
                         <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                         <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery.</p>
                         <Checkout />
@@ -34,7 +34,7 @@ export default ({ data, location }) => {
             {/*Chapters*/}
             <div className="large-pad darkradial-background">
                 <div className="text-center page-center">
-                    <h2 id="look-inside">Quickly understand philosophy's best answers to some of life's most troubling questions</h2>
+                    <h2 id="look-inside">Quickly understand philosophy’s best answers to some of life’s most troubling questions</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font mid-width">Each day over five days, you'll receive beautifully-packaged materials that distill philosophy's best wisdom from the last two millennia, as well as guided reflections and curated further reading.</p>
                 </div>
@@ -42,7 +42,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col page-center row-reverse">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Why Does Anything Exist?</span></h3>
-                            <p className="small-grey-font">On day one of Life’s Big Questions, we’ll consider why there is something rather than nothing. If God created the universe, what created God? If the Big Bang caused the universe, what set the preconditions for the Big Bang? Chapter #1 features answers from philosophical titans like Leibniz and Spinoza, as well as contemporary quantum physicists and thinkers like Lawrence Krauss and Derek Parfit.</p>
+                            <p className="small-grey-font">On day one of Life's Big Questions, we'll consider why there is something rather than nothing. If God created the universe, what created God? If the Big Bang caused the universe, what set the preconditions for the Big Bang? Chapter #1 features answers from philosophical titans like Leibniz and Spinoza, as well as contemporary quantum physicists and thinkers like Lawrence Krauss and Derek Parfit.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter1.childImageSharp.fluid} alt="Why Does Anything Exist?" />
@@ -53,7 +53,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">2</span><span>Is the World Around Us ‘Real’?</span></h3>
-                            <p className="small-grey-font">On day two of Life’s Big Questions, we’ll inspect the extent to which the world around us reflects ‘reality’. Do our senses deceive us about what’s really there? Can we ever <i>prove</i> that we’re not all brains in vats? To face up to these questions, Chapter #2 draws on the approaches of such philosophical giants as Descartes, Locke, Berkeley, Hume, and Kant.</p>
+                            <p className="small-grey-font">On day two of Life's Big Questions, we'll inspect the extent to which the world around us reflects ‘reality’. Do our senses deceive us about what's really there? Can we ever <i>prove</i> that we're not all brains in vats? To face up to these questions, Chapter #2 draws on the approaches of such philosophical giants as Descartes, Locke, Berkeley, Hume, and Kant.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter2.childImageSharp.fluid} alt="Is the World Around Us ‘Real’?" />
@@ -64,7 +64,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">3</span><span>What Makes Us Conscious?</span></h3>
-                            <p className="small-grey-font">Are feelings and experiences something <i>different</i> from our brains, or <i>are</i> they our brains? Do they happen <i>in addition to</i> all the physical processes in our brains, or are they <i>identical</i> to them? On day three, we’ll consider the mystery of consciousness, featuring discussions from contemporary philosophers of mind like Thomas Nagel and David Chalmers.</p>
+                            <p className="small-grey-font">Are feelings and experiences something <i>different</i> from our brains, or <i>are</i> they our brains? Do they happen <i>in addition to</i> all the physical processes in our brains, or are they <i>identical</i> to them? On day three, we'll consider the mystery of consciousness, featuring discussions from contemporary philosophers of mind like Thomas Nagel and David Chalmers.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter3.childImageSharp.fluid} alt="What Makes Us Conscious?" />
@@ -75,7 +75,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Do We Have Free Will?</span></h3>
-                            <p className="small-grey-font">If we live in a world governed by cause and effect, and these causal chains stretch back to the beginning of the universe, where does human agency fit in? Is the freedom we feel in our actions simply an illusion? On day four, we’ll investigate the strange problem of free will, drawing from philosophical greats like Schopenhauer to contemporary neuroscientists and thinkers like Sam Harris and Daniel Dennett.</p>
+                            <p className="small-grey-font">If we live in a world governed by cause and effect, and these causal chains stretch back to the beginning of the universe, where does human agency fit in? Is the freedom we feel in our actions simply an illusion? On day four, we'll investigate the strange problem of free will, drawing from philosophical greats like Schopenhauer to contemporary neuroscientists and thinkers like Sam Harris and Daniel Dennett.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter4.childImageSharp.fluid} alt="Do We Have Free Will?" />
@@ -86,7 +86,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">5</span><span>How Should We Approach Life?</span></h3>
-                            <p className="small-grey-font">On the fifth and final day of Life’s Big Questions, we’ll turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. We’ll ask if there’s a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius — and consider the three main ethical systems for how we should treat other people.</p>
+                            <p className="small-grey-font">On the fifth and final day of Life's Big Questions, we'll turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. we'll ask if there's a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius — and consider the three main ethical systems for how we should treat other people.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter5.childImageSharp.fluid} alt="How Should We Approach Life?" />
@@ -94,7 +94,7 @@ export default ({ data, location }) => {
                     </div>
                 </div>
                 <div className="page-center small-pad small-width">
-                    <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
+                    <h3 className="small-mar text-center">Start Answering Life’s Big Questions Today</h3>
                     <Checkout />
                 </div>
             </div>
@@ -118,12 +118,12 @@ export default ({ data, location }) => {
                     <div className="two-col align-top">
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very informative</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>I found this course so refreshing as it is written in an easy to understand style, and raises stimulating questions at the end of each chapter. The philosophy book recommendations are also very well researched and informative. I would encourage anyone with an interest in the 'big questions' to sign up to this course.</span>
+                            <span style={{lineHeight: "1.3"}}>I found this course so refreshing as it is written in an easy to understand style, and raises stimulating questions at the end of each chapter. The philosophy book recommendations are also very well researched and informative. I would encourage anyone with an interest in the ‘big questions’ to sign up to this course.</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jill P. on 20 February 2021</span></div>
                         </div>
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great intro</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>I loved philosophy break on Instagram and had read some of the articles but wanted to take the next step. This was perfect because I could read it in my own time and felt I was on a journey toward something great. I feel enlightened and it’s led me to explore some of the topics in more detail. A great intro to philosophy. Would recommend.</span>
+                            <span style={{lineHeight: "1.3"}}>I loved philosophy break on Instagram and had read some of the articles but wanted to take the next step. This was perfect because I could read it in my own time and felt I was on a journey toward something great. I feel enlightened and it's led me to explore some of the topics in more detail. A great intro to philosophy. Would recommend.</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Florence R. on 19 February 2021</span></div>
                         </div>
                     </div>
@@ -147,21 +147,21 @@ export default ({ data, location }) => {
                         </div>
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great stuff</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>This was such a great way to consider the ‘big questions’. Quicker and easier to read than a book because it’s broken down into chapters, but just as eye-opening. Great stuff Philosophy Break!</span>
+                            <span style={{lineHeight: "1.3"}}>This was such a great way to consider the ‘big questions’. Quicker and easier to read than a book because it's broken down into chapters, but just as eye-opening. Great stuff Philosophy Break!</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>George N. on 18 February 2021</span></div>
                         </div>
                     </div>
                     <div className="two-col align-top">
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Perfect introduction</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>Loved this course! I’ve always had an interest in philosophy but the big books scare me a bit, so this course was the perfect way to ease me in. It was still challenging... but I could take it at my own pace after it arrived straight into my inbox and I could go back any time to revisit content that challenged me. Can’t wait for the next course. Thank you Philosophy Break!</span>
+                            <span style={{lineHeight: "1.3"}}>Loved this course! I've always had an interest in philosophy but the big books scare me a bit, so this course was the perfect way to ease me in. It was still challenging... but I could take it at my own pace after it arrived straight into my inbox and I could go back any time to revisit content that challenged me. Can't wait for the next course. Thank you Philosophy Break!</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie on 18 February 2021</span></div>
                         </div>
                         <div className="small-mar">
                         </div>
                     </div>
-                    <div className="page-center large-pad small-width">
-                        <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
+                    <div className="large-pad small-width">
+                        <h3 className="small-mar text-center">Start Answering Life’s Big Questions Today</h3>
                         <Checkout />
                     </div>
                 </div>
@@ -173,11 +173,11 @@ export default ({ data, location }) => {
                     <div className="two-col align-top small-mar">
                         <div>
                             <h4>Who is this course for?</h4>
-                            <p className="small-grey-font">This is for anyone curious about why we are here, the nature of existence, and how we should spend our lives. You may have read some philosophy, or you may have never engaged with the subject before: either way, we’ve distilled philosophy’s best answers so you can approach life’s nagging questions and anxieties in an accessible, organized fashion, and learn some of the best wisdom from history.</p>
+                            <p className="small-grey-font">This is for anyone curious about why we are here, the nature of existence, and how we should spend our lives. You may have read some philosophy, or you may have never engaged with the subject before: either way, we've distilled philosophy's best answers so you can approach life's nagging questions and anxieties in an accessible, organized fashion, and learn some of the best wisdom from history.</p>
                         </div>
                         <div>
                             <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is delivered over five days, with a new question considered each day. Each day’s materials take about 30 minutes to read through, with an extra fifteen or so minutes recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                            <p className="small-grey-font">The course is delivered over five days, with a new question considered each day. Each day's materials take about 30 minutes to read through, with an extra fifteen or so minutes recommended for reflection. You have access to course materials forever, so don't worry if you miss a day — you can take the course at your own pace.</p>
                         </div>
                     </div>
                     <div className="two-col align-top">
@@ -187,22 +187,22 @@ export default ({ data, location }) => {
                         </div>
                         <div>
                             <h4>What if I miss a day?</h4>
-                            <p className="small-grey-font">If over the five days of the course you miss a day, don’t worry — you’ll have access to course materials forever, and can come back to anything at any time and take everything at your own pace. </p>
+                            <p className="small-grey-font">If over the five days of the course you miss a day, don't worry — you'll have access to course materials forever, and can come back to anything at any time and take everything at your own pace. </p>
                         </div>
                     </div>
                     <div className="two-col align-top">
                         <div>
                             <h4>Who wrote the course?</h4>
-                            <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who holds a master’s degree in philosophy from the University of Southampton. Having obtained great value from philosophy at postgraduate level, Jack wanted to make the subject’s riches accessible to a wider general audience, and created Philosophy Break in 2018. This course is the result of years of refinement and tweaking to make philosophy’s profound and important wisdom as relevant, interesting, and engaging to today’s digital world as possible.</p>
+                            <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who holds a master's degree in philosophy from the University of Southampton. Having obtained great value from philosophy at postgraduate level, Jack wanted to make the subject's riches accessible to a wider general audience, and created Philosophy Break in 2018. This course is the result of years of refinement and tweaking to make philosophy's profound and important wisdom as relevant, interesting, and engaging to today's digital world as possible.</p>
                         </div>
                         <div>
                             <h4>Where do profits from the course go?</h4>
                             <p className="small-grey-font">Philosophy Break is a self-funded social enterprise, so we put all proceeds straight back into funding our mission of engaging more people with philosophy. By purchasing a course, you help support us on that mission.</p>
-                            <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we’ll be happy to answer!</p>
+                            <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we'll be happy to answer!</p>
                         </div>
                     </div>
-                    <div className="page-center large-pad small-width">
-                        <h3 className="small-mar text-center">Start Answering Life's Big Questions Today</h3>
+                    <div className="large-pad small-width">
+                        <h3 className="small-mar text-center">Start Answering Life’s Big Questions Today</h3>
                         <Checkout />
                         <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
                     </div>
