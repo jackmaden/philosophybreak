@@ -28,6 +28,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 .white-background {background-color: #fff;}
 .grey-background {background-color: #f2f3f4;}
 .small-pad {padding: 24px 0;}
+.small-pad-bottom {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
 .mid-pad {padding: 48px 0;}
 .mid-pad-bottom {padding-bottom: 48px;}
@@ -259,6 +260,7 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 }
 
 /***home-page***/
+.home-svg svg {width: 80px; margin-top: -10px; margin-bottom: 0.5em;}
 .featured-image-full {height: 100vh; width: 100%; overflow: hidden; position: relative; background-color: #000; display: block;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%;}
 /*different class for different home page image depending on time of day*/
@@ -282,6 +284,7 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   .featured-image-full div.page-center p {font-size: 20px;}
 }
 @media (min-width: 1020px) {
+  .home-svg svg {width: 100px; margin-top: -40px; margin-bottom: 0;}
   .featured-image-full div.page-center {width: 1000px;}
 }
 
