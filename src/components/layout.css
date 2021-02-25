@@ -444,7 +444,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .reading-list {display: block; margin: 24px 0; height: 180px; box-sizing: border-box; text-decoration: none; position:relative;}
 .reading-list:first-of-type {margin-top: 32px;}
 .reading-list:last-of-type {margin-bottom: 32px;}
-.reading-list:hover {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
+.reading-list:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.8));}
 .reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-52%); transform: translateY(-52%);}
 .reading-list h3 {color: #fff; font-size: 24px; margin: 0 !important; text-align: left;}

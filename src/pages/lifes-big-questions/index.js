@@ -11,7 +11,7 @@ import Checkout from "../../components/checkout"
 export default ({ data, location }) => {
     return (
         <>
-        <SEO title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery." pathname={location.pathname} />
+        <SEO title="Introduction to Philosophy Course: Life’s Big Questions" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery." pathname={location.pathname} />
         <Layout>
         <NavigationSimple/>
             {/*page title*/}
@@ -19,7 +19,7 @@ export default ({ data, location }) => {
                 <div className="two-col page-center">
                     <div>
                         <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
-                        <h1>Life’s Big Questions (and Philosophy’s Best Answers)</h1>
+                        <h1>Introduction to Philosophy Course: Life’s Big Questions</h1>
                         <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                         <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery.</p>
                         <Checkout />
@@ -147,7 +147,7 @@ export default ({ data, location }) => {
                         </div>
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great stuff</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>This was such a great way to consider the ‘big questions’. Quicker and easier to read than a book because it's broken down into chapters, but just as eye-opening. Great stuff Philosophy Break!</span>
+                            <span style={{lineHeight: "1.3"}}>This was such a great way to consider the ‘big questions’. Quicker and easier to read than a book because it's broken down into daily chapters, but just as eye-opening. Great stuff Philosophy Break!</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>George N. on 18 February 2021</span></div>
                         </div>
                     </div>
