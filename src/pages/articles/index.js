@@ -8,8 +8,8 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
-import PanelAboutUs from '../../components/panelAboutUs'
 import WatermarkBreak from "../../components/watermarkBreak"
+import PanelLBQ from "../../components/panelLBQ"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -52,10 +52,9 @@ const Articles = ({ data, location }) => {
             
             {/*end page background color*/}
             </div>
-
-            <SubscriptionForm />
+            <PanelLBQ />
             <PanelReadingList />
-            <PanelAboutUs />
+            <SubscriptionForm />
             
         </Layout>
         </>

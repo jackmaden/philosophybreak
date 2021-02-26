@@ -7,9 +7,9 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from '../../components/topTitle'
 import BannerReadingList from '../../components/bannerReadingList'
 import { SubscriptionForm } from '../../components/subscriptionForm'
-import PanelAboutUs from "../../components/panelAboutUs"
 import PanelArticleList from "../../components/panelArticleList"
 import WatermarkBreak from "../../components/watermarkBreak"
+import PanelLBQ from "../../components/panelLBQ"
 
 
 export default ({ data, location }) => {
@@ -55,10 +55,9 @@ export default ({ data, location }) => {
             </div>
 
             {/*post-reading list content*/}
-            <SubscriptionForm />
+            <PanelLBQ />
             <PanelArticleList />
-            <PanelAboutUs />
-
+            <SubscriptionForm />
         </Layout>
         </>
     )

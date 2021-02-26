@@ -10,6 +10,7 @@ import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelArticleList from "../../components/panelArticleList"
 import PanelAboutUs from "../../components/panelAboutUs"
+import PanelLBQ from "../../components/panelLBQ"
 
 export default ({ data, location }) => {
     return (
@@ -65,6 +66,7 @@ export default ({ data, location }) => {
             </div>
                 
             {/*post-page content*/}
+            <PanelLBQ />
             <PanelArticleList />
             <SubscriptionForm />
             <PanelReadingList />

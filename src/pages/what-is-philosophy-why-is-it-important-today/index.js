@@ -13,6 +13,7 @@ import PanelArticleList from "../../components/panelArticleList"
 import { WindowHeightWrapper } from "../../components/windowHeightWrapper"
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import WatermarkBreak from "../../components/watermarkBreak"
+import PanelLBQ from "../../components/panelLBQ"
 
 export default ({ data, location }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-50px'}})
@@ -53,8 +54,8 @@ export default ({ data, location }) => {
                 <p style={{marginTop: "2em"}}>Philosophy generally refers to the study of <Link to="/lifes-big-questions/">deep, fundamental questions</Link> relating to core aspects of the human condition.</p>
                 <p>These questions typically revolve around the <Link to="/reading-lists/metaphysics/">nature of existence</Link>, <Link to="/reading-lists/epistemology/">knowledge</Link>, <Link to="/reading-lists/consciousness/">consciousness</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, <Link to="/reading-lists/political-philosophy/">society</Link>, <Link to="/reading-lists/philosophy-of-language/">language</Link>, and more. They include:</p>
                 <blockquote><p>What is the fundamental nature of reality? Why are we here? What happens when we die? What is the relationship between my mind and the world? How and why does consciousness arise? Do we have free will? Why is language meaningful? What’s the right thing to do? What does a just society look like?</p></blockquote>
-                <p>If you’re interested in facing up to these questions right away, check out our <Link to="/lifes-big-questions/">celebrated introductory philosophy course: Life’s Big Questions</Link>, which distills philosophy’s best answers to them from the last few millennia.</p>
-                <p>Beyond the study of such questions, philosophy can be defined more broadly as an <i>act</i>.</p>
+                <p>(If you’re interested in facing up to these questions right away, check out our <Link to="/lifes-big-questions/">celebrated introductory philosophy course: Life’s Big Questions</Link>, which distills philosophy’s best answers to them from the last few millennia.)</p>
+                <p>But beyond the study of such questions, philosophy can be defined more broadly as an <i>act</i>.</p>
                 <p><i>To philosophize</i> means adopting a reflective stance and using our critical faculties to draw logical conclusions. Be it deciding who to vote for or what to have for dinner, whenever we engage in critical thinking — indeed, whenever we rationally weigh up arguments — we engage in philosophy.</p> 
                 <p>If we philosophize about our everyday concerns long enough, stripping them down to their core, we get closer to the questions that have occupied the great philosophers throughout history.</p> 
                 <p>‘Who should I vote for?’ becomes <Link to="/reading-lists/political-philosophy/">‘what does a just society look like?’</Link>; ‘what should I have for dinner?’ becomes <Link to="/reading-lists/ethics-and-morality/">‘what’s the right thing to do?’</Link>; boredom or feeling unfulfilled can lead to ‘how can I establish meaning?’ and, if you’re not careful, simply staring at patterns of light on a wall can lead to <Link to="/reading-lists/metaphysics/">‘what is the fundamental nature of reality?’</Link> — or, more dramatically, <Link to="/lifes-big-questions/">‘why are we even <i>here</i>?’</Link></p>
@@ -124,8 +125,9 @@ export default ({ data, location }) => {
 
             <div id="post-article-height">
                 <PanelArticleList />
-                <SubscriptionForm />
+                <PanelLBQ />
                 <PanelReadingList />
+                <SubscriptionForm />
             </div>
         </Layout>
         </>
