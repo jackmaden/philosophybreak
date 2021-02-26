@@ -86,7 +86,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">5</span><span>How Should We Approach Life?</span></h3>
-                            <p className="small-grey-font">On the fifth and final day of Life's Big Questions, we'll turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. we'll ask if there's a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius — and consider the three main ethical systems for how we should treat other people.</p>
+                            <p className="small-grey-font">On the fifth and final day of Life's Big Questions, we'll turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. We'll ask if there's a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius — and consider the three main ethical systems for how we should treat other people.</p>
                         </div>
                         <div>
                         <Img fluid={data.chapter5.childImageSharp.fluid} alt="How Should We Approach Life?" />
