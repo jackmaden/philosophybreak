@@ -268,9 +268,9 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 .featured-image-full div.gatsby-image-wrapper {height: 100%;}
 /*different class for different home page image depending on time of day*/
 .featured-image-full div.gatsby-image-wrapper picture img {object-position: 22% center !important;}
-.featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: 20% center !important;}
-.featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 45% center !important;}
-/*.featured-image-full div.darkener {background: radial-gradient(rgba(0,0,0,0.6),transparent);}*/
+.featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: 55% center !important;}
+.featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 20% center !important;}
+.featured-image-full div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8)); height: 20%;}
 .featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-63%); transform: translateY(-63%);}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
@@ -280,8 +280,8 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 }
 @media (min-width: 620px) {
   .featured-image-full div.gatsby-image-wrapper picture img {object-position: center bottom !important;} 
-  .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 45% !important;}
-  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 62% !important;}
+  .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 65% !important;}
+  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 15% !important;}
   .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}
@@ -289,6 +289,10 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 @media (min-width: 1020px) {
   .home-svg svg {width: 100px; margin-bottom: 0.25em;}
   .featured-image-full div.page-center {width: 1000px;}
+}
+@media (min-width: 1500px) {
+  .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 85% !important;}
+  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 15% !important;}
 }
 
 /***about image cta***/
@@ -327,7 +331,7 @@ div.darkener.instagram-filter {background: linear-gradient(90deg, rgba(131,58,18
 /***article full page carousel & title***/
 .carousel-cell, .title {height: 100vh; width: 100%; position: relative; display: block; background-color: #000;}
 .title-img {height: 100%; width: 100%; object-fit: cover; top: 0; left: 0; position: absolute;}
-div.darkener {content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+div.darkener {content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%;}
 /*different darkeners for carousel title & article title*/
 .carousel-cell div.darkener {background: rgba(0,0,0,0.4);}
 .title div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));}
