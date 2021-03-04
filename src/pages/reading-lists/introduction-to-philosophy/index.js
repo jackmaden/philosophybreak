@@ -10,10 +10,12 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
 export default ({ data, location }) => (
     <>
     <SEO title="An Introduction to Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and most essential introductions to the fascinating subject of philosophy." image={data.title.childImageSharp.fluid.src} pathname={location.pathname} />
+    <MailchimpPopUp />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

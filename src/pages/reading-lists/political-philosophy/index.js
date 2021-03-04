@@ -9,10 +9,12 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
 export default ({ data, location }) => (
     <>
     <SEO title="Political Philosophy Reading List – The Top 14 Books to Read" description="A curated reading list of the best and most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={data.title.childImageSharp.fluid.src} pathname={location.pathname} />
+    <MailchimpPopUp />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

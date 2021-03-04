@@ -14,6 +14,7 @@ import { WindowHeightWrapper } from "../../components/windowHeightWrapper"
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import WatermarkBreak from "../../components/watermarkBreak"
 import PanelLBQ from "../../components/panelLBQ"
+import MailchimpPopUp from "../../components/mailchimpPopUp"
 
 export default ({ data, location }) => {
     const dropIn = useSpring({opacity: 1, marginTop: '0px', delay: 200, from: {opacity: 0, marginTop: '-50px'}})
@@ -22,6 +23,7 @@ export default ({ data, location }) => {
     return (
         <>
         <SEO title="What is Philosophy, and Why is it Important Today?" description="Your simple guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for discovering its most insightful ideas." image={data.space.childImageSharp.fluid.src} pathname={location.pathname} />
+        <MailchimpPopUp />
         <Layout>
         <Navigation />
             <ScrollProgressBar />

@@ -9,11 +9,13 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
 
 export default ({ data, location }) => (
     <>
     <SEO title="The History of Western Philosophy – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the history of Western philosophy." image={data.title.childImageSharp.fluid.src} pathname={location.pathname} />
+    <MailchimpPopUp />
     <Layout>
     <Navigation />
         <ScrollProgressBar />
