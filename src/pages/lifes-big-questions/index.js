@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
@@ -42,7 +42,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col page-center row-reverse">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Why Does Anything Exist?</span></h3>
-                            <p className="small-grey-font">On day one of Life's Big Questions, we'll consider why there is something rather than nothing. If God created the universe, what created God? If the Big Bang caused the universe, what set the preconditions for the Big Bang? Chapter #1 features answers from philosophical titans like Leibniz and Spinoza, as well as contemporary quantum physicists and thinkers like Lawrence Krauss and Derek Parfit.</p>
+                            <p className="small-grey-font">On day one of Life's Big Questions, we'll consider why there is something rather than nothing. If God created the universe, why does God exist? If the Big Bang caused the universe, what set the preconditions for the Big Bang? Chapter #1 features answers from philosophical titans like Leibniz and Spinoza, as well as contemporary quantum physicists and thinkers like Lawrence Krauss and Derek Parfit. Want a sneak peek? <Link to="/articles/why-does-anything-exist/">Read an extract from this chapter here.</Link></p>
                         </div>
                         <div>
                         <Img fluid={data.chapter1.childImageSharp.fluid} alt="Why Does Anything Exist?" />
@@ -53,7 +53,7 @@ export default ({ data, location }) => {
                     <div className="two-col big-2-col row-reverse page-center">
                         <div>
                             <h3 className="flex-end"><span className="spectral big-letter">2</span><span>Is the World Around Us ‘Real’?</span></h3>
-                            <p className="small-grey-font">On day two of Life's Big Questions, we'll inspect the extent to which the world around us reflects ‘reality’. Do our senses deceive us about what's really there? Can we ever <i>prove</i> that we're not all brains in vats? To face up to these questions, Chapter #2 draws on the approaches of such philosophical giants as Descartes, Locke, Berkeley, Hume, and Kant.</p>
+                            <p className="small-grey-font">On day two of Life's Big Questions, we'll inspect the extent to which the world around us reflects ‘reality’. Do our senses deceive us about what's really there? Can we ever <i>prove</i> that we're not all brains in vats? To face up to these questions, Chapter #2 draws on the approaches of philosophical giants Descartes, Locke, Berkeley, Hume, and Kant. Interested in what's inside? <Link to="/articles/is-the-world-around-us-real/">Read an extract from this chapter here.</Link></p>
                         </div>
                         <div>
                         <Img fluid={data.chapter2.childImageSharp.fluid} alt="Is the World Around Us ‘Real’?" />
