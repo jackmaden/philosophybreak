@@ -485,7 +485,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 #break-start .article.white a:hover h2 {color: #2b2f33;} 
 .article.white a:hover p.time {color: #737d88;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
-.article.white a div.gatsby-image-wrapper {width: 33%;}
+.article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 33%;}
+.article.white a span.gatsby-resp-image-wrapper {margin: 0 !important;}
 .article.white a div.gatsby-image-wrapper > picture > img {object-position: top center !important;}
 .article.white a .article-info {width: 67%}
 .article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #737d88;}
@@ -509,6 +510,9 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .article.white {display: block; width: 100%;}
   .article.white {margin: 24px 0;}
 }
+
+/**reading list book listing cta***/
+
 
 /***insta panel***/
 .insta-panel {display: flex; flex-wrap: wrap; justify-content: space-between; margin: 1.5em 0 0.5em;}
