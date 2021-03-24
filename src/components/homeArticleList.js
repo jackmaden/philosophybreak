@@ -13,7 +13,7 @@ export default () => {
           description
           image {
             childImageSharp {
-              gatsbyImageData(layout: FULL_WIDTH)
+              gatsbyImageData(height: 230, layout: FULL_WIDTH)
             }
           }
           date

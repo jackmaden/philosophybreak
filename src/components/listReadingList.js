@@ -13,12 +13,12 @@ export default () => (
   }
   consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: FULL_WIDTH)
     }
   }
   whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: FULL_WIDTH)
     }
   }
 }

@@ -13,17 +13,17 @@ export default () => (
   }
   ethics: file(relativePath: {eq: "ethics.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: FULL_WIDTH)
     }
   }
   nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: FULL_WIDTH)
     }
   }
   freewill: file(relativePath: {eq: "freewill.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: FULL_WIDTH)
     }
   }
 }
