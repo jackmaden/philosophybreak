@@ -56,11 +56,7 @@ There are a number of deep philosophical issues exposed by Descartes' [Meditatio
 
 Beyond reading Descartes' [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes' pondering, check out our five-day [introductory philosophy course, Life's Big Questions](/lifes-big-questions/). 
 
-<<<<<<< HEAD
 On day two of [Life's Big Questions](/lifes-big-questions/), we hone in on the question of [whether or not the world around is real](/articles/is-the-world-around-us-real/), discussing Descartes further, and also considering responses from the philosophical giants who followed (and had a lot to say about Descartes' skepticism about the external world!), including [John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/), George Berkeley, David Hume, and Immanuel Kant. 
-=======
-On day two of [Life's Big Questions](/lifes-big-questions/), we hone in on the question of whether or not the world around is real, discussing Descartes further, and also considering responses from the philosophical giants who followed (and had a lot to say about Descartes' skepticism about the external world!), including John Locke, George Berkeley, David Hume, and Immanuel Kant. 
->>>>>>> parent of cd64b7b (locke-empiricism)
 
 If you're interested in finding an answer to Descartes' skepticism around what we can know, as well as the extent to which we can close the explanatory gap and prove the existence of an external world, [click here to explore the course now](/lifes-big-questions/). 
 
