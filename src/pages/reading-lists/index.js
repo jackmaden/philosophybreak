@@ -13,134 +13,109 @@ import PanelLBQ from "../../components/panelLBQ"
 
 
 export default ({ data, location }) => {
-    return (
-        <>
-        <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
-        <Layout>
-        <Navigation bg="light-bg" />
+    return <>
+    <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
+    <Layout>
+    <Navigation bg="light-bg" />
 
-            {/*page background color*/}
-            <div className="grey-background">
+        {/*page background color*/}
+        <div className="grey-background">
 
-                {/*page title*/}
-                <TopTitle class='' title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
-                
-                {/*page content*/}
-                <div className="page-center">
-                    <BannerReadingList title="An Introduction to Philosophy" number="5" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.fluid} alt="introduction to philosophy reading list" />
-                    
-                    <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.fluid} alt="history of western philosophy reading list" />
-
-                    <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.fluid} alt="Friedrich Nietzsche reading list" />
-                    
-                    <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.fluid} alt="consciousness reading list" />
-
-                    <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.fluid} alt="metaphysics reading list" />
-
-                    <BannerReadingList title="Epistemology" number="9" link="/reading-lists/epistemology/" img={data.epistemology.childImageSharp.fluid} alt="epistemology reading list" />
-
-                    <BannerReadingList title="Free Will" number="7" link="/reading-lists/free-will/" img={data.freewill.childImageSharp.fluid} alt="free will reading list" />
-
-                    <BannerReadingList title="Ethics and Morality" number="9" link="/reading-lists/ethics-and-morality/" img={data.ethics.childImageSharp.fluid} alt="ethics and morality reading list" />
-
-                    <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.politics.childImageSharp.fluid} alt="political philosophy reading list" />
-
-                    <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.fluid} alt="philosophy of language reading list" />
-
-                </div>
+            {/*page title*/}
+            <TopTitle class='' title="Reading Lists" subtitle="Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects." />
             
-                <WatermarkBreak />
+            {/*page content*/}
+            <div className="page-center">
+                <BannerReadingList title="An Introduction to Philosophy" number="5" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.gatsbyImageData} alt="introduction to philosophy reading list" />
+                
+                <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.gatsbyImageData} alt="history of western philosophy reading list" />
 
-            {/*end page background color*/}
+                <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
+                
+                <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.gatsbyImageData} alt="consciousness reading list" />
+
+                <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.gatsbyImageData} alt="metaphysics reading list" />
+
+                <BannerReadingList title="Epistemology" number="9" link="/reading-lists/epistemology/" img={data.epistemology.childImageSharp.gatsbyImageData} alt="epistemology reading list" />
+
+                <BannerReadingList title="Free Will" number="7" link="/reading-lists/free-will/" img={data.freewill.childImageSharp.gatsbyImageData} alt="free will reading list" />
+
+                <BannerReadingList title="Ethics and Morality" number="9" link="/reading-lists/ethics-and-morality/" img={data.ethics.childImageSharp.gatsbyImageData} alt="ethics and morality reading list" />
+
+                <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.politics.childImageSharp.gatsbyImageData} alt="political philosophy reading list" />
+
+                <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.gatsbyImageData} alt="philosophy of language reading list" />
+
             </div>
+        
+            <WatermarkBreak />
 
-            {/*post-reading list content*/}
-            <PanelLBQ />
-            <PanelArticleList />
-            <SubscriptionForm />
-        </Layout>
-        </>
-    )
+        {/*end page background color*/}
+        </div>
+
+        {/*post-reading list content*/}
+        <PanelLBQ />
+        <PanelArticleList />
+        <SubscriptionForm />
+    </Layout>
+    </>;
 }
 
-export const query = graphql`
-    query {
-        introduction: file(relativePath: {eq: "introduction.jpg"}) {
-            childImageSharp {
-                fluid(maxWidth: 600) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        epistemology: file(relativePath: {eq: "epistemology.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        freewill: file(relativePath: {eq: "freewill.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        ethics: file(relativePath: {eq: "ethics.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        politics: file(relativePath: {eq: "politics.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        language: file(relativePath: {eq: "language.jpg"}) {
-            childImageSharp {
-                fluid(maxHeight: 230) {
-                    ...GatsbyImageSharpFluid_withWebp
-                }
-            }
-        }
-        philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
-            childImageSharp {
-                fluid(maxWidth: 22) {
-                    ...GatsbyImageSharpFluid
-                }
-            }
-        }
+export const query = graphql`{
+  introduction: file(relativePath: {eq: "introduction.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: CONSTRAINED)
     }
+  }
+  consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  epistemology: file(relativePath: {eq: "epistemology.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  freewill: file(relativePath: {eq: "freewill.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  ethics: file(relativePath: {eq: "ethics.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  politics: file(relativePath: {eq: "politics.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  language: file(relativePath: {eq: "language.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 22, layout: CONSTRAINED)
+    }
+  }
+}
 `

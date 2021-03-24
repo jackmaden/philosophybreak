@@ -1,23 +1,23 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 export default () => (
   <StaticQuery
-    query={graphql`
-      query {
-        file(relativePath: {eq: "philosophybreak.png"}) {
-            childImageSharp {
-                fluid(maxWidth: 22) {
-                    ...GatsbyImageSharpFluid
-                }
-            }
-        }
-      }
-    `}
+    query={graphql`{
+  file(relativePath: {eq: "philosophybreak.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 22, layout: CONSTRAINED)
+    }
+  }
+}
+`}
     render={data => (
         <div className="time" style={{marginTop: 48, textAlign: "center"}}>
-            <Img style={{display: "inline-block", marginBottom: 96, marginRight: 0}} fluid={data.file.childImageSharp.fluid} alt="Philosophy Break"/>
+            <GatsbyImage
+                image={data.file.childImageSharp.gatsbyImageData}
+                style={{display: "inline-block", marginBottom: 96, marginRight: 0}}
+                alt="Philosophy Break" />
         </div>
     )}
   />

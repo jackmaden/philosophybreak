@@ -50,6 +50,7 @@ module.exports = {
         //catch all internal links & transform to Gatsby Link
         `gatsby-plugin-catch-links`,
         //gatsby images
+        `gatsby-plugin-image`,
         `gatsby-transformer-sharp`, 
         `gatsby-plugin-sharp`,
         {
@@ -94,6 +95,7 @@ module.exports = {
                         options: {
                           maxWidth: 600,
                           showCaptions: true,
+                          withWebp: true,
                           linkImagesToOriginal: false,
                           wrapperStyle: `margin: 2.2em 0 2em;`
                         }
