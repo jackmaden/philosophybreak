@@ -1,15 +1,12 @@
 import React from "react"
-import { GatsbyImage } from "gatsby-plugin-image";
+import Img from "gatsby-image"
 import {useSpring, animated} from 'react-spring'
 
 export default props => {
     const dropIn = useSpring({opacity: 1, bottom: '20px', delay: 200, from: {opacity: 0, bottom: '100px'}})
-    return (
+    return (   
         <div className="title list">
-                <GatsbyImage
-                    image={props.img}
-                    className="title-img"
-                    alt={props.alt} />
+                <Img className="title-img" fluid={props.img} fadeIn={false} loading="eager" alt={props.alt} />
                 <div className="darkener"></div>
                 {/*react spring fade in*/}
                 <animated.div style={dropIn} className="page-center title-center mid-width">
@@ -19,4 +16,4 @@ export default props => {
                     <span>The Top {props.number} Books to Read</span></h1>
                 </animated.div>
         </div>
-    );}
+    )}

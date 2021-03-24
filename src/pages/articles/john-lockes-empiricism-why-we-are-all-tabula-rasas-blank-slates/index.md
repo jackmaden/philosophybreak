@@ -70,7 +70,7 @@ And it turns out this is the case not just for colors, but for all our sensory p
 
 >...if the idea that a violet produced in one person’s mind by their eyes were what a marigold produced in another person’s, and vice versa. This could never be known, because one person’s mind couldn’t pass into another person’s body to perceive what appearances were produced.
 
-But while Locke thus agrees with the skeptic that our immediate experience is an unreliable guide to the true nature of reality, he does not agree that this gives us grounds to then doubt the _existence_ of such a reality. Of _course_ the physical world exists independently of us, Locke thinks: for what else causes our experiences? 
+But while Locke thus agrees with the skeptic that our immediate experience is an unreliable guide to the true nature of reality, he does not agree that this gives us grounds to thus doubt the _existence_ of such a reality. Of _course_ the physical world exists independently of us, Locke thinks: for what else causes our experiences? 
 
 ## The world must exist independently of us, for what else causes our sensory experiences?
 
