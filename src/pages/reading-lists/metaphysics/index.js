@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { getSrc } from "gatsby-plugin-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -11,9 +12,11 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
-export default ({ data, location }) => (
+const ReadingList = ({ data, location }) => {
+  const imagePath = getSrc(data.title)
+    return (
     <>
-    <SEO title="Metaphysics Reading List – The Top 10 Books to Read" description="A curated reading list of the best and most essential books of and about metaphysics, including the writings of Aristotle, Spinoza, and Immanuel Kant." image={data.title.childImageSharp.gatsbyImageData.src} pathname={location.pathname} />
+    <SEO title="Metaphysics Reading List – The Top 10 Books to Read" description="A curated reading list of the best and most essential books of and about metaphysics, including the writings of Aristotle, Spinoza, and Immanuel Kant." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -95,7 +98,8 @@ export default ({ data, location }) => (
 
     </Layout>
     </>
-)
+  )
+}
 
 export const query = graphql`{
   title: file(relativePath: {eq: "metaphysics.jpg"}) {
@@ -105,52 +109,52 @@ export const query = graphql`{
   }
   one: file(relativePath: {eq: "metaphysics-shortintro.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   two: file(relativePath: {eq: "metaphysics-history.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   three: file(relativePath: {eq: "metaphysics-anthology.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   four: file(relativePath: {eq: "metaphysics-aristotle.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   five: file(relativePath: {eq: "metaphysics-descartes.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   six: file(relativePath: {eq: "metaphysics-spinoza.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   seven: file(relativePath: {eq: "metaphysics-hume.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   eight: file(relativePath: {eq: "metaphysics-kant.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   nine: file(relativePath: {eq: "metaphysics-heidegger.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   ten: file(relativePath: {eq: "metaphysics-wiggins.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
@@ -160,3 +164,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default ReadingList

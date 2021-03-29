@@ -46,7 +46,6 @@
     "react-helmet": "^6.1.0",
     "react-scroll-progress-bar": "^1.1.12",
     "react-spring": "^9.0.0",
-    "react-window-size": "^1.2.2",
     "typeface-public-sans": "^1.1.13",
     "typeface-spectral": "^1.1.13"
   },

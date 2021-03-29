@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { getSrc } from "gatsby-plugin-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -11,9 +12,11 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
-export default ({ data, location }) => (
+const ReadingList = ({ data, location }) => {
+  const imagePath = getSrc(data.title)
+    return (
     <>
-    <SEO title="Political Philosophy Reading List – The Top 14 Books to Read" description="A curated reading list of the best and most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={data.title.childImageSharp.gatsbyImageData.src} pathname={location.pathname} />
+    <SEO title="Political Philosophy Reading List – The Top 14 Books to Read" description="A curated reading list of the best and most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -96,7 +99,8 @@ export default ({ data, location }) => (
 
     </Layout>
     </>
-)
+  )
+}
 
 export const query = graphql`{
   title: file(relativePath: {eq: "politics.jpg"}) {
@@ -106,72 +110,72 @@ export const query = graphql`{
   }
   one: file(relativePath: {eq: "politics-wolff.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   two: file(relativePath: {eq: "politics-justice.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   three: file(relativePath: {eq: "politics-arguing.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   four: file(relativePath: {eq: "politics-plato.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   five: file(relativePath: {eq: "politics-prince.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   six: file(relativePath: {eq: "politics-hobbes.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   seven: file(relativePath: {eq: "politics-locke.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   eight: file(relativePath: {eq: "politics-marx.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   nine: file(relativePath: {eq: "politics-popper.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   ten: file(relativePath: {eq: "politics-beauvoir.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   eleven: file(relativePath: {eq: "politics-arendt.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   twelve: file(relativePath: {eq: "politics-rawls.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   thirteen: file(relativePath: {eq: "politics-nozick.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   fourteen: file(relativePath: {eq: "politics-douglas.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
@@ -181,3 +185,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default ReadingList

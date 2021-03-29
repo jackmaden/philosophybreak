@@ -1,7 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 
-export default () => (
+const MailchimpPopUp = () => (
     <>
         {/*add mailchimp script for pop up (on articles & reading lists)*/}
         <Helmet> 
@@ -11,3 +11,5 @@ export default () => (
         </Helmet>
     </>
 )
+
+export default MailchimpPopUp

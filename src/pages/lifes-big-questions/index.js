@@ -8,8 +8,9 @@ import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
 import Checkout from "../../components/checkout"
 
-export default ({ data, location }) => {
-    return <>
+const Page = ({ data, location }) => {
+    return (
+    <>
     <SEO title="Introduction to Philosophy Course: Life’s Big Questions" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
@@ -45,17 +46,8 @@ export default ({ data, location }) => {
             <div className="mid-mar">
                 <div className="two-col big-2-col page-center row-reverse">
                     <div>
-<<<<<<< HEAD
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Why Does Anything Exist?</span></h3>
                         <p className="small-grey-font">On day one of Life's Big Questions, we'll consider why there is something rather than nothing. If God created the universe, why does God exist? If the Big Bang caused the universe, what set the preconditions for the Big Bang? Chapter #1 features answers from philosophical titans like Leibniz and Spinoza, as well as contemporary quantum physicists and thinkers like Lawrence Krauss and Derek Parfit. Want a sneak peek? <Link to="/articles/why-does-anything-exist/">Read an extract from this chapter here.</Link></p>
-=======
-                        <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
-                        <h1>Introduction to Philosophy Course: Life’s Big Questions</h1>
-                        <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
-                        <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind journey of reflection, understanding, and discovery.</p>
-                        <Checkout />
-                        <AnchorLink className="no-hover" href="#look-inside"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>Look Inside</button></AnchorLink>
->>>>>>> parent of cd64b7b (locke-empiricism)
                     </div>
                     <div>
                     <GatsbyImage
@@ -241,7 +233,8 @@ export default ({ data, location }) => {
             </div>
         </div>
     </Layout>
-    </>;
+    </>
+    )
 }
 
 export const query = graphql`{
@@ -277,3 +270,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default Page

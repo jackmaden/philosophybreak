@@ -2,12 +2,12 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default () => (
+const CtaReadingList = () => (
   <StaticQuery
     query={graphql`{
   file(relativePath: {eq: "readinglist.jpg"}) {
     childImageSharp {
-      gatsbyImageData(height: 230, layout: FULL_WIDTH)
+      gatsbyImageData(width: 600, layout: CONSTRAINED)
     }
   }
 }
@@ -30,3 +30,5 @@ export default () => (
     )}
   />
 )
+
+export default CtaReadingList

@@ -1,7 +1,7 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default props => (
+const BookLink = props => (
     <div className="article white">
         <a target="_blank" rel="noopener noreferrer" href={props.link}>
             <GatsbyImage image={props.img} alt={props.title + ", by " + props.author} />
@@ -13,3 +13,5 @@ export default props => (
         </a>
     </div>
 )
+
+export default BookLink

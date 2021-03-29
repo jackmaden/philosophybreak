@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { getSrc } from "gatsby-plugin-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -11,9 +12,11 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
-export default ({ data, location }) => (
+const ReadingList = ({ data, location }) => {
+  const imagePath = getSrc(data.title)
+    return (
     <>
-    <SEO title="Consciousness Reading List – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the philosophy of consciousness." image={data.title.childImageSharp.gatsbyImageData.src} pathname={location.pathname} />
+    <SEO title="Consciousness Reading List – The Top 5 Books to Read" description="A curated reading list of the best and essential books on the philosophy of consciousness." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -57,7 +60,8 @@ export default ({ data, location }) => (
 
     </Layout>
     </>
-)
+  )
+}
 
 export const query = graphql`{
   title: file(relativePath: {eq: "consciousness-list.jpg"}) {
@@ -67,28 +71,30 @@ export const query = graphql`{
   }
   one: file(relativePath: {eq: "theconsciousmind.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   two: file(relativePath: {eq: "consciousness-explained.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   three: file(relativePath: {eq: "consciousnessconversations.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   four: file(relativePath: {eq: "consciousnessoctopus.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   five: file(relativePath: {eq: "consciousnessbicameral.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
 }
 `
+
+export default ReadingList

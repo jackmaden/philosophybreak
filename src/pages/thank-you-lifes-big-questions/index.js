@@ -6,7 +6,7 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import WatermarkBreak from "../../components/watermarkBreak"
 
-export default () => {
+const Page = () => {
     return (
         <>
         <Helmet title="Thank You | Philosophy Break">
@@ -24,3 +24,5 @@ export default () => {
         </>
     )
 }
+
+export default Page

@@ -2,7 +2,7 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default () => (
+const Footer = () => (
     <StaticQuery
     query={graphql`{
   file(relativePath: {eq: "certified-social-enterprise.png"}) {
@@ -30,7 +30,8 @@ export default () => (
                 </div>
                 <GatsbyImage
                     image={data.file.childImageSharp.gatsbyImageData}
-                    style={{margin: "30px auto 24px"}} />
+                    style={{margin: "30px auto 24px"}}
+                    alt="Social enterprise badge" />
             </div>
             {/*Amazon onelink*/}
             <div id="amzn-assoc-ad-797b493c-1b64-4c6e-a017-445d37f42f08"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=797b493c-1b64-4c6e-a017-445d37f42f08"></script>
@@ -38,3 +39,5 @@ export default () => (
     )}
 />
 )
+
+export default Footer

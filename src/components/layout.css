@@ -339,7 +339,7 @@ div.separator {width: 80px; height: 4px; background:linear-gradient(to right top
 /*title center vertically on /articles & fade in (look in js), and moved from bottom 20% to 10% on individual articles (look in js)*/
 div.title-center {position: absolute; left: 0; right: 0;}
 .carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
-.title div.title-center {bottom: 50%;}
+.title div.title-center {bottom: 67px;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
 div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
@@ -366,6 +366,9 @@ svg.bounce {margin-right: 0;}
   .scroll-prompt {left:0; right: 0;}
   .scroll-prompt svg {margin-left: 76px;}
   .bottom-blue-border {font-size: 12px;}
+}
+@media (min-width: 1020px) {
+  .title div.title-center {bottom: 26px;}
 }
 
 /*reading list title*/

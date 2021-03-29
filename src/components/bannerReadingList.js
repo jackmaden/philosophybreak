@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
 
-export default props => (   
+const BannerReadingList = props => (   
     <Link className="reading-list" to={props.link}>
         <GatsbyImage image={props.img} className="title-img" alt={props.alt} />
         <div className="darkener"></div>
@@ -15,3 +15,5 @@ export default props => (
         </div>
     </Link>
 )
+
+export default BannerReadingList

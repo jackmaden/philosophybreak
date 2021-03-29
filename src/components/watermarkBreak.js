@@ -2,7 +2,8 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default () => (
+
+const WatermarkBreak = () => (
   <StaticQuery
     query={graphql`{
   file(relativePath: {eq: "philosophybreak.png"}) {
@@ -22,3 +23,5 @@ export default () => (
     )}
   />
 )
+
+export default WatermarkBreak

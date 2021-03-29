@@ -12,8 +12,9 @@ import WatermarkBreak from "../../components/watermarkBreak"
 import PanelLBQ from "../../components/panelLBQ"
 
 
-export default ({ data, location }) => {
-    return <>
+const Page = ({ data, location }) => {
+    return (
+    <>
     <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
@@ -58,58 +59,59 @@ export default ({ data, location }) => {
         <PanelArticleList />
         <SubscriptionForm />
     </Layout>
-    </>;
+    </>
+    )
 }
 
 export const query = graphql`{
   introduction: file(relativePath: {eq: "introduction.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: CONSTRAINED)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   epistemology: file(relativePath: {eq: "epistemology.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   freewill: file(relativePath: {eq: "freewill.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   ethics: file(relativePath: {eq: "ethics.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   politics: file(relativePath: {eq: "politics.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   language: file(relativePath: {eq: "language.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
@@ -119,3 +121,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default Page

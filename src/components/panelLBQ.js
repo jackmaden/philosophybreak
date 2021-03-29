@@ -2,7 +2,7 @@ import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default () => (
+const PanelLBQ = () => (
   <StaticQuery
     query={graphql`{
   lbq: file(relativePath: {eq: "Chapter1-full.png"}) {
@@ -40,3 +40,5 @@ export default () => (
     )}
     />
 )
+
+export default PanelLBQ

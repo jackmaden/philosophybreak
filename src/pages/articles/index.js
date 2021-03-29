@@ -13,7 +13,8 @@ import PanelLBQ from "../../components/panelLBQ"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
-    return <>
+    return (
+    <>
     <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
     
     <Layout>
@@ -59,7 +60,8 @@ const Articles = ({ data, location }) => {
         <SubscriptionForm />
         
     </Layout>
-    </>;
+    </>
+    )
 }
 
 export const query = graphql`query ArticleList {
@@ -71,7 +73,7 @@ export const query = graphql`query ArticleList {
           description
           image {
             childImageSharp {
-              gatsbyImageData(layout: FULL_WIDTH)
+              gatsbyImageData(width: 240, height: 230, layout: CONSTRAINED)
             }
           }
           imageAlt

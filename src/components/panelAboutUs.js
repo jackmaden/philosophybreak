@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-export default () => (
+const PanelAboutUs = () => (
   <div className="darkradial-background large-pad">
     <div className="page-center text-center">
       <h3>See How Philosophy Can Improve Your Life</h3>
@@ -11,3 +11,5 @@ export default () => (
     </div>
   </div>
 )
+
+export default PanelAboutUs

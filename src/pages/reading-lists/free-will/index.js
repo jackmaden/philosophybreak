@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { getSrc } from "gatsby-plugin-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -11,9 +12,11 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
-export default ({ data, location }) => (
+const ReadingList = ({ data, location }) => {
+  const imagePath = getSrc(data.title)
+    return (
     <>
-    <SEO title="Free Will Reading List – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about free will, exploring whether our actions are free, pre-determined, or something in between." image={data.title.childImageSharp.gatsbyImageData.src} pathname={location.pathname} />
+    <SEO title="Free Will Reading List – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about free will, exploring whether our actions are free, pre-determined, or something in between." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -67,7 +70,8 @@ export default ({ data, location }) => (
 
     </Layout>
     </>
-)
+  )
+}
 
 export const query = graphql`{
   title: file(relativePath: {eq: "freewill.jpg"}) {
@@ -77,37 +81,37 @@ export const query = graphql`{
   }
   one: file(relativePath: {eq: "freewill-pink.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   two: file(relativePath: {eq: "freewill-handbook.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   three: file(relativePath: {eq: "freewill-kane.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   four: file(relativePath: {eq: "freewill-four.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   five: file(relativePath: {eq: "freewill-strawson.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   six: file(relativePath: {eq: "freewill-harris.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   seven: file(relativePath: {eq: "freewill-dennett.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
@@ -117,3 +121,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default ReadingList

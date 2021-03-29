@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { getSrc } from "gatsby-plugin-image"
 
 import SEO from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -11,9 +12,11 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
-export default ({ data, location }) => (
+const ReadingList = ({ data, location }) => {
+  const imagePath = getSrc(data.title)
+    return (
     <>
-    <SEO title="Philosophy of Language Reading List – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosophy of language, including the writings of Wittgenstein, Kripke, and Chomsky." image={data.title.childImageSharp.gatsbyImageData.src} pathname={location.pathname} />
+    <SEO title="Philosophy of Language Reading List – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosophy of language, including the writings of Wittgenstein, Kripke, and Chomsky." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -75,7 +78,8 @@ export default ({ data, location }) => (
 
     </Layout>
     </>
-)
+  )
+}
 
 export const query = graphql`{
   title: file(relativePath: {eq: "language.jpg"}) {
@@ -85,37 +89,37 @@ export const query = graphql`{
   }
   one: file(relativePath: {eq: "language-mcginn.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   two: file(relativePath: {eq: "language-soames.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   three: file(relativePath: {eq: "language-anthology.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   four: file(relativePath: {eq: "language-wittgenstein.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   five: file(relativePath: {eq: "language-wittgenstein2.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   six: file(relativePath: {eq: "language-kripke.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   seven: file(relativePath: {eq: "language-chomsky.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
@@ -125,3 +129,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default ReadingList

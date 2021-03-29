@@ -12,8 +12,9 @@ import PanelArticleList from "../../components/panelArticleList"
 import PanelAboutUs from "../../components/panelAboutUs"
 import PanelLBQ from "../../components/panelLBQ"
 
-export default ({ data, location }) => {
-    return <>
+const Page = ({ data, location }) => {
+    return (
+    <>
     <SEO title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is a social enterprise dedicated to getting more people engaged with philosophy. Our aim is to promote the ideas of humanity's best minds to cultivate curiosity, engender clarity around life's big questions, and ultimately empower as many people as possible to fully realize their human potential." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
@@ -75,7 +76,8 @@ export default ({ data, location }) => {
         <PanelReadingList />
         <PanelAboutUs />
     </Layout>
-    </>;
+    </>
+    )
 }
 
 export const query = graphql`{
@@ -116,3 +118,5 @@ export const query = graphql`{
   }
 }
 `
+
+export default Page

@@ -3,22 +3,22 @@ import { StaticQuery, graphql, Link } from "gatsby"
 
 import BannerReadingList from "./bannerReadingList"
 
-export default () => (
+const ListReadingList = () => (
   <StaticQuery
     query={graphql`{
   introduction: file(relativePath: {eq: "introduction.jpg"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, layout: CONSTRAINED)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
   whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
 }
@@ -36,3 +36,5 @@ export default () => (
     )}
   />
 )
+
+export default ListReadingList

@@ -5,7 +5,7 @@ import { SubscriptionForm } from "./subscriptionForm"
 import PanelArticleList from "./panelArticleList"
 import PanelLBQ from "./panelLBQ"
 
-export default () => (
+const PostReadingList = () => (
     <>
         <WatermarkBreak />
         <div id="post-article-height">
@@ -15,3 +15,5 @@ export default () => (
         </div>
     </>
 )
+
+export default PostReadingList

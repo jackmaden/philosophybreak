@@ -6,9 +6,11 @@ import Footer from "./footer"
 require('typeface-spectral')
 require('typeface-public-sans')
 
-export default ({ children }) => (
+const Layout = ({ children }) => (
     <>
         {children}
         <Footer />
     </>
 )
+
+export default Layout
