@@ -25,7 +25,7 @@ const Page = ({ data, location }) => {
         <div className="two-col spectral page-center">
             <div>
                 <p><span className="big-letter">S</span>ince 2018, we've been on a mission to wrap philosophy's best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
-                <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and that the more people engage with philosophy, the more fulfilling their lives will be. <Link to="/what-is-philosophy-why-is-it-important-today/">Learn more about our thoughts on the power of philosophy here</Link>.</p>
+                <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be. <Link to="/what-is-philosophy-why-is-it-important-today/">Learn more about our thoughts on the power of philosophy here</Link>.</p>
                 <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">get in touch with us on Instagram here</a> or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
             </div>
             <div>

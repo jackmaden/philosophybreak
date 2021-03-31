@@ -32,6 +32,12 @@ const ReadingList = ({ data, location }) => {
 
             <p>Most of us feel we have some sort of internal moral compass, or at least a sense of what’s fair and unfair; but acknowledging we’re morally sensitive tends to be where consensus in ethics ends and controversy begins. Indeed, arguing about right and wrong and morally judging people is a favored pastime not just of philosophers but of most human beings.</p>
 
+            <div className="course-promo text-center">
+              <h4>How Should We Approach Life?</h4>
+              <p className="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
+              <Link className="button secondary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</Link>
+            </div>
+
             <p>This reading list is designed to give you a complete view of how different thinkers in philosophy have thought about good, evil, and everything in between.</p>
             
             <p>From introductory texts and anthologies, through to important primary works from the philosophical greats themselves — after consuming this list, you’ll have much more clarity about core moral arguments and ethical systems, and be able to make measured, informed contributions to even the most heated of contemporary debates. Let’s dive in!</p>

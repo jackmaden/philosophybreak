@@ -29,6 +29,12 @@ We wake up, we toil, we sleep; we wake up, we toil, we sleep; we push the boulde
 
 How so? Well, Camus argues that a paradox lies at the heart of human experience. On the one hand, we are by nature curious animals who long for meaning and purpose — a fundamental _reason_ for existing. On the other, we are not equipped to ever adequately satisfy this longing — Camus rejects every scientific, metaphysical, or religious attempt at doing so.
 
+<div class="course-promo text-center">
+    <h4>How Should We Approach Life?</h4>
+    <p class="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+</div>
+
 In other words, despite our yearning for an ultimate explanation for existence, in Camus’s mind such an explanation will _always_ be beyond our comprehension.
 
 And it is _this_ hopeless space we occupy — between our impulse to ask deep questions and our inability to answer them — that Camus labels ‘the absurd’. Hence the image of Sisyphus: we build theories up, inevitably they crash back down, and compulsively we start again.

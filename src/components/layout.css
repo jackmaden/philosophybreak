@@ -295,6 +295,22 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 15% !important;}
 }
 
+/***course question cta***/
+.course-promo {
+  border-top: solid 2px #f2f3f4;
+  border-bottom: solid 2px #f2f3f4;
+  padding: 36px 0;
+  margin: 48px 0;
+}
+.course-promo h4 {
+  margin: 0;
+}
+@media (min-width: 620px) {
+  .course-promo {
+    padding: 36px;
+  }
+}
+
 /***about image cta***/
 .about-cta-img {width: 100%; height: 120px; object-fit: cover;}
 @media (min-width: 620px) {

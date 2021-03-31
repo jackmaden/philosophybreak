@@ -44,6 +44,12 @@ Before Locke, it was not empiricist theories of knowledge but scholastic theorie
 
 [Descartes himself outlines the skeptical position](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) very effectively in his wonderful 1641 work, [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), where he worries he has no way of knowing if his experiences of the world are real, or the mere conjurings of an Evil Demon determined to delude and mislead him. 
 
+<div class="course-promo text-center">
+    <h4>Is the World Around Us ‘Real’?</h4>
+    <p class="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+</div>
+
 As our experiences sometimes deceive us, the skeptical argument runs, what basis do we have for trusting experience at _all?_ Hallucinations and the unreliability of eyewitness testimony demonstrate that our senses betray us occasionally — so how are we to know they aren’t deceiving us all the time? How can we prove the world around us even _exists?_  
 
 Descartes’ rationalist answer was to appeal to reason. His starting principle was his [_cogito ergo sum_](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) — I think therefore I am — and from this base he tries to build up truths, from the fact that he exists as a thinking being, all the way up to the existence of God. He does this purely through recognizing certain beliefs as ‘clear and distinct’ — as having no internal contradiction — and by deducing one after the other to establish a theory of knowledge based entirely on reason. 

@@ -30,6 +30,13 @@ const ReadingList = ({ data, location }) => {
             <p>All these questions and more form the basis of the branch of philosophy known as epistemology, the study of knowledge. While <Link to="/reading-lists/metaphysics/">metaphysics investigates the fundamental nature of reality</Link> and ponders what exists, epistemology asks how we can even <i>know</i> what exists. Do our experiences truly grant us access to ‘reality’? Can our judgements of the world be justified?</p>
             <p>From <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates declaring</Link> all he knows is that he knows nothing, <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/">Descartes worrying</Link> if the world around us is real, <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke insisting</Link> there is no such things as innate knowledge, through to the more technical arguments of the modern day around whether evidence can rationally constrain or inform our beliefs: philosophers throughout the ages have endlessly debated questions around our capacity for and access to knowledge.</p>
             <p>The stakes? Only the status of everything we know!</p>
+            
+            <div className="course-promo text-center">
+              <h4>Is the World Around Us ‘Real’?</h4>
+              <p className="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
+              <Link className="button secondary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</Link>
+            </div>
+
             <p>This reading list features a mix of primary and secondary texts to give you a wide ranging overview of epistemology. From introductions and contemporary anthologies to epistemological classics from the greats themselves: consuming this list will provide you with everything you could possibly want to know about knowing. </p>
 
             <h2>1. Knowledge: A Very Short Introduction, by Jennifer Nagel</h2>

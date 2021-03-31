@@ -52,7 +52,7 @@ Everything we know about Socrates, depicted as he is through the writings of oth
 
 ## Further reading
 
-<span class="big-letter">I</span>f you're interested in learning more about the human capacity for knowledge generally, and in exploring what the ultimate limits to our knowledge might be, [we've compiled a reading list](/reading-lists/epistemology/) consisting of the best writings on epistemology, the study of knowledge. It features philosophical classics from Plato, René Descartes, John Locke, David Hume, Immanuel Kant, and more. Hit the banner below to access it now. 
+<span class="big-letter">I</span>f you're interested in learning more about the human capacity for knowledge generally, and in exploring what the ultimate limits to our knowledge might be, [we've compiled a reading list](/reading-lists/epistemology/) consisting of the best writings on epistemology, the study of knowledge. It features philosophical classics from Plato, [René Descartes](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/), [John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/), David Hume, Immanuel Kant, and more. Hit the banner below to access it now. 
 
 <a class="reading-list cta" href="/reading-lists/epistemology/">
     <img class="title-img" src="./epistemology.jpg"/>

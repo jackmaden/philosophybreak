@@ -29,6 +29,12 @@ On reading the quotation we feel inclined to join the dancers and to condemn the
 
 So, the take-home message appears to read thus: just because you don’t understand or respond to something, that doesn’t make it insane.
 
+<div class="course-promo text-center">
+    <h4>How Should We Approach Life?</h4>
+    <p class="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+</div>
+
 Now, why is Nietzsche opining this kind of thought? The answer, in fact, might simply be: well, he's not — for it is unclear whether he actually directly wrote our quotation at all. Indeed, [a whole host of writers](https://quoteinvestigator.com/2012/06/05/dance-insane/) could lay claim to being its source.
 
 That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, [Thus Spoke Zarathustra](http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04):
