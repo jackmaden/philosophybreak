@@ -33,8 +33,8 @@ Indeed, Epicurus taught that the basic constituents of the world are irreducible
 
 <div class="course-promo text-center">
     <h4>How Should We Approach Life?</h4>
-    <p class="small-grey-font">Our celebrated introductory course distills philosophy's best answers to life's big questions, delivering materials direct to your inbox over five days.</p>
-    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+    <p class="small-grey-font">Get philosophy's best answers delivered direct to your inbox with our celebrated introduction to philosophy course.</p>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Philosophy's Best Answers</a>
 </div>
 
 It is with these two Epicurean principles in mind — that being free from pain and anxiety is the highest good, and that reality is fundamentally godless and atomic in nature — that Lucretius thus turns his attention to our biggest fear of all: death. 
