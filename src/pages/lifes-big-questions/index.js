@@ -37,7 +37,7 @@ const Page = ({ data, location }) => {
             </div>
         </div>
         {/*Chapters*/}
-        <div className="large-pad darkradial-background">
+        <div className="mid-pad darkradial-background">
             <div className="text-center page-center">
                 <h2 id="look-inside">Quickly understand philosophy’s best answers to some of life’s most troubling questions</h2>
                 <div className="separator"></div>
@@ -224,7 +224,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col align-top">
                     <div>
                         <h4>Who wrote the course?</h4>
-                        <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who received an MA in Philosophy from the University of Southampton in 2014. Having obtained great value from researching philosophy at postgraduate level, Jack wanted to make the subject's riches accessible to a wider general audience, and created Philosophy Break in 2018. This course is the result of years of refinement and tweaking to make philosophy's profound and important wisdom as relevant, interesting, and engaging to today's digital world as possible.</p>
+                        <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who received an MA in Philosophy from the University of Southampton in 2014, and has been producing educational resources and writing about philosophy ever since. This course is the result of years of refinement and tweaking to make philosophy's profound and important wisdom as relevant, interesting, and engaging to today's digital world as possible.</p>
                     </div>
                     <div>
                         <h4>Where do profits from the course go?</h4>

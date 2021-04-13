@@ -146,7 +146,7 @@ a.white-underline {-webkit-text-decoration-color: #fff; -ms-text-decoration-colo
 .button.primary:active {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
 .button.primary:disabled {-webkit-filter: brightness(1.2); filter: brightness(1.2); cursor: not-allowed;}
 .button.secondary {background: #fff;}
-a.button.secondary {color: #2b2f33;}
+a.button.secondary {color: #2b2f33; font-weight: 500;}
 .button.secondary:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff;}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.top-icon-align svg {vertical-align: text-top;}
@@ -300,19 +300,15 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 }
 
 /***course question cta***/
-.course-promo {
-  border-top: solid 2px #f2f3f4;
-  border-bottom: solid 2px #f2f3f4;
-  padding: 36px 0;
-  margin: 48px 0;
-}
-.course-promo h4 {
-  margin: 0;
-}
+.course-promo {border-top: solid 2px #f2f3f4; border-bottom: solid 2px #f2f3f4; padding: 36px 0; margin: 36px 0;}
+.course-promo h4 {margin: 0; font-weight: 600;}
+.course-promo p.small-grey-font {font-size: 16px;}
+.course-promo a.button.secondary {font-size: 15px; margin: 0;}
+
 @media (min-width: 620px) {
-  .course-promo {
-    padding: 36px;
-  }
+  .course-promo {padding: 54px 36px; margin: 36px 0;}
+  .course-promo p.small-grey-font {font-size: 18px;}
+  .course-promo a.button.secondary {font-size: 16.5px;}
 }
 
 /***about image cta***/
