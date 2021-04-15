@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import SEO from '../../components/SEO'
+import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from '../../components/topTitle'
@@ -15,7 +15,7 @@ import PanelLBQ from "../../components/panelLBQ"
 const Page = ({ data, location }) => {
     return (
     <>
-    <SEO title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
+    <Seo title="Reading Lists – Essential Books of Philosophy" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
 

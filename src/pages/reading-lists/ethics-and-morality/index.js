@@ -2,7 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import { getSrc } from "gatsby-plugin-image"
 
-import SEO from '../../../components/SEO'
+import Seo from '../../../components/SEO'
 import Layout from '../../../components/layout'
 import { Navigation } from "../../../components/navigation"
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <SEO title="Ethics and Morality Reading List – The Top 9 Books to Read" description="A curated reading list of the best and most essential books of and about ethics and morality, including the writings of Aristotle, Immanuel Kant, and Peter Singer." image={imagePath} pathname={location.pathname} />
+    <Seo title="Ethics and Morality Reading List – The Top 9 Books to Read" description="A curated reading list of the best and most essential books of and about ethics and morality, including the writings of Aristotle, Immanuel Kant, and Peter Singer." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

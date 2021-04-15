@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-import SEO from '../../components/SEO'
+import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
 import Checkout from "../../components/checkout"
@@ -11,7 +11,7 @@ import Checkout from "../../components/checkout"
 const Page = ({ data, location }) => {
     return (
     <>
-    <SEO title="Introduction to Philosophy Course: Life’s Big Questions" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." pathname={location.pathname} />
+    <Seo title="Introduction to Philosophy Course: Life’s Big Questions" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
         {/*page title*/}

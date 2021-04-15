@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-import SEO from '../../components/SEO'
+import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import { SubscriptionForm } from '../../components/subscriptionForm'
@@ -19,7 +19,7 @@ const Page = ({ data, location }) => {
     const imagePath = getSrc(data.space)
     return (
     <>
-    <SEO title="What is Philosophy, and Why is it Important Today?" description="Your simple guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for discovering its most insightful ideas." image={imagePath} pathname={location.pathname} />
+    <Seo title="What is Philosophy, and Why is it Important Today?" description="Your simple guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for discovering its most insightful ideas." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-import SEO from '../components/SEO'
+import Seo from '../components/SEO'
 import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
 import { ScrollProgressBar } from '../components/scrollProgressBar'
@@ -22,7 +22,7 @@ const ArticlePost = ({ data, location }) => {
   const imagePath = getSrc(post.frontmatter.image)
   return (
   <>
-  <SEO title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
+  <Seo title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
   <MailchimpPopUp />
   <Layout>
   <Navigation />

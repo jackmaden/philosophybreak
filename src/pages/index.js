@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-import SEO from '../components/SEO'
+import Seo from '../components/SEO'
 import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
 import { SubscriptionForm } from '../components/subscriptionForm'
@@ -41,7 +41,7 @@ const Page = ({ data }) => {
 
     return (
     <>
-    <SEO title="Philosophy Break – Timeless Wisdom for Time-Pressed People" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
+    <Seo title="Philosophy Break – Timeless Wisdom for Time-Pressed People" description="The home for philosophy's best ideas, questions, and answers – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
     <Navigation />
         {/*page title*/}

@@ -2,7 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import { getSrc } from "gatsby-plugin-image"
 
-import SEO from '../../../components/SEO'
+import Seo from '../../../components/SEO'
 import Layout from '../../../components/layout'
 import { Navigation } from "../../../components/navigation"
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <SEO title="Friedrich Nietzsche – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosopher Friedrich Nietzsche." image={imagePath} pathname={location.pathname} />
+    <Seo title="Friedrich Nietzsche – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about the philosopher Friedrich Nietzsche." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

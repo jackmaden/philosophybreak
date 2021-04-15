@@ -2,7 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-import SEO from '../../components/SEO'
+import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
@@ -15,7 +15,7 @@ const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
     return (
     <>
-    <SEO title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
+    <Seo title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
     
     <Layout>
     <Navigation bg="light-bg" />
