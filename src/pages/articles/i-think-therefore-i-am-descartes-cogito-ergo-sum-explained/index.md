@@ -42,6 +42,12 @@ By this point frantic with worry, Descartes seeks to repair some of the damage c
 
 <span class="big-letter">A</span> clearer translation of Descartes' definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
+<div class="course-promo text-center">
+    <h4>Philosophy in Your Twitter Feed</h4>
+    <p class="small-grey-font">Follow Philosophy Break on Twitter to get philosophy's best questions, wisdom, and ideas directly in your Twitter feed.</p>
+    <a target="_blank" rel="noopener noreferrer" class="button secondary" href="https://twitter.com/philosophybreak"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>Follow Philosophy Break</a>
+</div>
+
 So, we have our base, our solid foundation: a thinking mind must exist. From this point on in his [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), Descartes attempts to rebuild all human knowledge and establish proofs for the existence of, among other things, God. Alas, his work here is generally acknowledged to not quite make up for his initial demolition job.
 
 Indeed, through absolutely bulldozing our confidence in the existence of anything but our thoughts, Descartes inadvertently creates two separate realms: the mental and the physical. The mental we can be sure of; the physical needs to, somehow, be linked to it.

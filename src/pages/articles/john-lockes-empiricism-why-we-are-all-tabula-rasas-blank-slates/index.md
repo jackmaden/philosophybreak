@@ -94,7 +94,7 @@ The upshot of this is a world ‘in-itself’ (the world of primary qualities), 
 
 This distinction seems to align with common sense, but the skeptic might wonder if Locke’s arguments so far actually justify his assertion that the primary qualities of objects exist independently of our experiencing them. 
 
-If we can only access the primary qualities of an object through its secondary qualities, how can we know about the substance in which its primary qualities actually inhere? 
+If we can only access the primary qualities of an object through its secondary qualities, how can we know about the substance in which its primary qualities actually inhere? (Indeed, [the 18th-century Irish philosopher George Berkeley challenges Locke](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/) on this very point.)
 
 For example, if we can only measure the size of an object (one of its primary qualities) by relying on our sensory perception of its color, shape, and other secondary qualities, what makes us sure the primary qualities of the object truly exist independently of our sensory experience? How can we be sure the size of the object isn’t as contingent on our sensory apparatus as is its color? 
 
