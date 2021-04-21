@@ -16,7 +16,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 This might seem absurd, but the funny thing about Berkeley’s view is how, when you inspect it further, it can be difficult to really identify _why_ it’s absurd.
 
-![George Berkeley](./george-berkeley.jpg "An image of George Berkeley, currently existing in your mind.")
+![George Berkeley](./george-berkeley.jpg "George Berkeley, currently existing as an idea in your mind.")
 
 Think about it. Your device has a certain color, size, and shape, which you perceive with your eyes. Close your eyes, and the device disappears. 
 
