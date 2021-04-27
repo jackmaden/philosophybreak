@@ -38,7 +38,7 @@ Before Locke, it was not empiricist theories of knowledge but scholastic theorie
 
 [Rationalists like Descartes thought experience could not be trusted](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/), and thus sought to understand the world through the certainty of deductive truths, as in mathematics. 
 
-## Answering radical skepticism about the world around us
+## Empiricism and rationalism: answering the worry of skepticism
 
 <span class="big-letter">E</span>mpiricism and rationalism are essentially rival responses to the worry of _skepticism_. Skepticism in this context means finding the whole idea of human knowledge unconvincing, and being doubtful that we can really be said to know anything exists at all. 
 

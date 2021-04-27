@@ -1,6 +1,6 @@
 ---
 title: "George Berkeley’s Subjective Idealism: The World Is In Our Minds"
-description: "This article explores George Berkeley’s subjective idealism, the controversial view that everything in the universe is either a mind or an idea in the mind, and that matter does not exist."
+description: "According to George Berkeley’s subjective idealism, everything in the universe is either a mind or an idea in the mind, and matter cannot possibly exist."
 image: "./berkeley-subjective-idealism.jpg"
 imageAlt: "George Berkeley Subjective Idealism"
 tags: ["George Berkeley", "Epistemology", "Idealism"]
@@ -16,7 +16,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 This might seem absurd, but the funny thing about Berkeley’s view is how, when you inspect it further, it can be difficult to really identify _why_ it’s absurd.
 
-![George Berkeley](./george-berkeley.jpg "George Berkeley, currently existing as an idea in your mind.")
+![George Berkeley](./george-berkeley.jpg "George Berkeley, existing as an idea in your mind.")
 
 Think about it. Your device has a certain color, size, and shape, which you perceive with your eyes. Close your eyes, and the device disappears. 
 
