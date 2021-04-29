@@ -7,7 +7,7 @@ const PanelLBQ = props => (
     query={graphql`{
   lbq: file(relativePath: {eq: "Chapter1-full.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(width: 800, quality: 90, layout: CONSTRAINED)
     }
   }
 }

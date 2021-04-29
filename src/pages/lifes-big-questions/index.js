@@ -13,6 +13,7 @@ const Page = ({ data, location }) => {
     <>
     <Seo title="Introduction to Philosophy Course: Life’s Big Questions" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." pathname={location.pathname} />
     <Layout>
+        <div id="landing-page">{/*landing-page div limits page-center to 1000px on big screens*/}
     <NavigationSimple/>
         {/*page title*/}
         <div className="top-title darkradial-background" id="top">
@@ -243,6 +244,7 @@ const Page = ({ data, location }) => {
                 </div>
                 <div className="small-pad"></div>
             </div>
+        </div>
         </div>
     </Layout>
     </>

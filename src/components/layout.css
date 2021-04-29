@@ -19,6 +19,10 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
     .page-center {width: 1000px;}
     #break-start.page-center {width: 600px;}
 }
+@media (min-width: 1120px) {
+  .page-center {width: 1100px;}
+  #break-start.page-center {width: 600px;}
+}
 
 /***general classes***/
 .lightblue-background {background-color: #e7f6ff;}
@@ -64,6 +68,13 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 @media (min-width: 1500px) {
   .large-pad {padding: 80px 0;}
 }
+
+/*landing page - corrections for page-center on LBQ*/
+@media (min-width: 1120px) {
+  #landing-page .page-center, #landing-page ul#menu .page-center {width: 1000px;}
+  #landing-page .page-center.mid-width {width: 600px;}
+}
+
 
 /*slider*/
 div.slick-slider .slick-dots {position: relative; display: flex !important; flex-wrap: wrap; bottom: 0; margin-bottom: 40px; align-items: flex-start; text-align: left; justify-content: space-between;}
@@ -119,7 +130,7 @@ h5 {font-size: 20px;}
 }
 
 @media (min-width: 1020px) {
-    h1#home-page {font-size: 50px;}
+    h1#home-page {font-size: 45px;}
 }
 
 /***p and links and verified***/
@@ -162,17 +173,14 @@ a.button.secondary {color: #2b2f33; font-weight: 500;}
 div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em;}
 
 /***secondary page top title***/
-.top-title {padding-top: 116px; margin-bottom: 48px; position: relative;}
-.top-title.home {padding-top: 81px} /**smaller padding due to date stamp**/
+.top-title {padding-top: 116px; margin-bottom: 32px; position: relative;}
+.top-title.home {padding-bottom: 32px; margin-bottom: 0;}
 .top-title.darkradial-background {margin-bottom: 0; padding-bottom: 48px;}
 .top-title.darkblue-background h1, .top-title.darkblue-background p {color: #fff;}
-.top-title p.time {color: #737d88; font-size: 13px;}
-.top-title p.time svg {fill: #36b4ff; width: 16px; height: 16px; vertical-align: top;}
 
 @media (min-width: 620px) {
-  .top-title {padding-top: 126px;}
-  .top-title p.time {font-size: 15px; margin-bottom: 0.75em;}
-  .top-title p.time svg {width: 18px; height: 18px;}
+  .top-title {padding-top: 126px; margin-bottom: 48px;}
+  .top-title.home {padding-bottom: 48px; margin-bottom: 0;}
 }
 
 /***nav***/
@@ -248,7 +256,9 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   ul#menu li.primary.two:hover {border-top: solid 1px #3683ff;}
   ul#menu li.primary.three:hover {border-top: solid 1px #020887;}
 }
-
+@media (min-width: 1120px) {
+  ul#menu .page-center {width: 1100px;}
+}
 /*hide p descriptions on tiny screens*/
 @media (max-height: 560px) {
   ul#menu p.small-grey-font {display: none;}
@@ -348,6 +358,10 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   .advisory .member .gatsby-image-wrapper {width: 85%;}
   .advisory .member p {font-size: 20px;}
   .advisory .member p span {font-size: 18px;}
+}
+@media (min-width: 1120px) {
+  .advisory .member {width: 24%; margin-top: 1.5em;}
+  .advisory .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 14%; margin-right: 14%}
 }
 
 /***filters***/
@@ -460,7 +474,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article:first-of-type {margin-top: 32px;}
 .article:last-of-type {margin-bottom: 32px;}
 .article a {text-decoration: none; display: flex; background-color: #fff; align-items: center;}
-.article a:hover .article-info .time, .article a:hover .article-info .time svg, .article.home:first-of-type a:hover .article-info p.spectral {color: #fff; fill: #fff;}
+.article a:hover {background: #fff;}
+.article a:hover h2 {color: #36b4ff; text-decoration: underline; text-decoration-color: #36b4ff;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
 .article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 17px; font-weight: 800;}
