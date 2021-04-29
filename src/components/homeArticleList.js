@@ -39,7 +39,7 @@ const HomeArticleList = () => {
         `}
             render={data => (
               <>
-              <div className="grey-background mid-pad-bottom">
+              <div className="grey-background small-pad-bottom-mob-mid-pad-bottom-desk">
                 <div className="page-center">
                     
                     {data.allMarkdownRemark.edges.slice(0, 1).map(edge => {
@@ -83,7 +83,7 @@ const HomeArticleList = () => {
                   {/* LBQ PANEL */}
                   <PanelLBQ class="white-background" fill="#36b4ff" />
 
-                  <div className="grey-background large-pad mid-pad-bottom">
+                  <div className="grey-background mid-pad">
                     <div className="page-center">
 
                     {data.allMarkdownRemark.edges.slice(4, 5).map(edge => {
