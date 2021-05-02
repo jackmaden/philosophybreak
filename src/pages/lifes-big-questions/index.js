@@ -21,7 +21,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
                     <h1>Introduction to Philosophy Course: Life’s Big Questions</h1>
-                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(11 reviews)</AnchorLink></p>
+                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(15 reviews)</AnchorLink></p>
                     <h5>$29.00 USD</h5>
                     <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind journey of reflection, understanding, and discovery.</p>
                     <Checkout />
@@ -121,6 +121,30 @@ const Page = ({ data, location }) => {
         <div className="darkradial-background small-pad" id="reviews">
             <div className="page-center">
                 <h2>Course Reviews</h2>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Powerful - learned a great deal</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Really concise and effective. Powerful, actually - I learned a great deal. Loved the daily chapters, materials displayed really well. I really enjoyed this course and would definitely want to take another of your courses.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mart W. on 25 April 2021</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Comprehensive and engaging</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>I found this a very comprehensive introduction to philosophy, and it really left no question unanswered or deliberated, but was very engaging to consume - thanks! I'll definitely be recommending it to my friends and family.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Josh B. on 19 April 2021</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Just what I was looking for</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>This was the perfect scope and pacing for what I was looking for as an introduction to philosophy. I was thrown straight in to confront big issues and loved the daily chapters coming through to my inbox each day, which were fun and challenging reads. The questions and further reading at the end of each chapter were great too for making it all stick in my mind and giving me ideas for what to read next. Overall great course. Thanks very much!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julie S. on 14 April 2021</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent materials</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Excellent materials, reading and recommendations sent to my inbox over the last week. Each chapter was so interesting and I've learned so much about philosophy and its history so quickly. I'd definitely recommend this course for anyone who like me was interested in philosophy but wasn't sure where to really start. </span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Rene G. on 12 April 2021</span></div>
+                    </div>
+                </div>
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Definitely recommend!</i></span></p>

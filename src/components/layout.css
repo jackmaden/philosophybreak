@@ -559,6 +559,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 /***reading list book listing***/
 .article.white > a {background: #f2f3f4;}
 .article.white > a:hover {background: #f2f3f4;}
+.article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
+  background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
 #break-start .article.white a:hover h2 {color: #2b2f33;} 
 .article.white a:hover p.time {color: #737d88;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
