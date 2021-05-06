@@ -90,7 +90,7 @@ const ReadingList = ({ data, location }) => {
             <BookLink title="Anarchy, State, and Utopia" author="Robert Nozick" link="http://www.amazon.com/gp/product/0465051006/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0465051006&linkId=9df3bf5291c28f440a369e4049b3956a" img={data.thirteen.childImageSharp.gatsbyImageData} />
             
             <h2>Further reading</h2>
-            <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+            <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter</a> or <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram</a>.</p>
             <CtaReadingList />
         </div>
         

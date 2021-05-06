@@ -34,7 +34,7 @@ const PanelArticleList = () => {
                 <div className="grey-background large-pad">
                     <div className="page-center">
                         <span className="text-center">
-                            <h2>Take a Break</h2>
+                            <h2>Latest Breaks</h2>
                             <div className="separator" style={{marginBottom: "2em"}}></div>
                             <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
                         </span>

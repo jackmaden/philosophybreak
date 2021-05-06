@@ -35,9 +35,11 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #2b2f33; t
 .small-pad-bottom {padding-bottom: 24px;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
+.tiny-mar-bottom {margin-bottom: 12px;}
 .mid-pad {padding: 48px 0;}
 .mid-pad-bottom {padding-bottom: 48px;}
 .mid-mar {margin: 48px 0;}
+.mid-mar-top {margin-top: 48px;}
 .large-pad {padding: 64px 0;}
 .large-mar {margin: 64px 0;}
 .text-center {text-align: center;}
@@ -178,12 +180,18 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 .top-title {padding-top: 116px; margin-bottom: 32px; position: relative;}
 .top-title.home {padding-bottom: 32px; margin-bottom: 0;}
 .top-title.home p.large-grey-font {margin-bottom: 0;}
+.top-title.home p.large-grey-font a {color: #737d88; text-decoration-color: #d2d4d9;}
+.top-title.home p.large-grey-font a:hover {color: #fff;}
 .top-title.darkradial-background {margin-bottom: 0; padding-bottom: 48px;}
 .top-title.darkblue-background h1, .top-title.darkblue-background p {color: #fff;}
 
 @media (min-width: 620px) {
   .top-title {padding-top: 126px; margin-bottom: 48px;}
   .top-title.home {padding-bottom: 48px; margin-bottom: 0;}
+}
+
+@media (min-width: 1020px) {
+  .top-title.home p.mid-width {width: 658px;}
 }
 
 /***nav***/
@@ -561,7 +569,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white > a:hover {background: #f2f3f4;}
 .article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
-#break-start .article.white a:hover h2 {color: #2b2f33;} 
+#break-start .article.white a:hover h2 {color: #2b2f33; text-decoration: none;} 
 .article.white a:hover p.time {color: #737d88;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
 .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 33%;}

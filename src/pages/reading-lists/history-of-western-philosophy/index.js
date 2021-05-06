@@ -51,7 +51,7 @@ const ReadingList = ({ data, location }) => {
             <BookLink title="The Great Philosophers: An Introduction to Western Philosophy" author="Bryan Magee" link="http://www.amazon.com/gp/product/019289322X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=019289322X&linkId=582829b6ab8e2814e7c66f3f6b6526a5" img={data.five.childImageSharp.gatsbyImageData} />
             
             <h2>Further reading</h2>
-            <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">on Instagram</a>.</p>
+            <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter</a> or <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram</a>.</p>
             <CtaReadingList />
         </div>
        

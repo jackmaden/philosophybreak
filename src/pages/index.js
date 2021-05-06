@@ -10,6 +10,7 @@ import PanelReadingList from '../components/panelReadingList'
 import PanelAboutUs from '../components/panelAboutUs'
 import HomeArticleList from '../components/homeArticleList'
 import PanelLBQ from '../components/panelLBQ'
+import PanelArticleList from "../components/panelArticleList";
 
 const Page = ( {data} ) => {
 
@@ -44,7 +45,7 @@ const Page = ( {data} ) => {
           <div className="page-center">  
             <h1 id="home-page">{greet}</h1>
             <div className="separator"></div>
-            <p className="large-grey-font mid-width">Welcome to Philosophy Break, a place to enrich your mind with philosophy's best questions, wisdom, and ideas.</p>
+            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning more about philosophy. Nourish your mind with a <Link to="/articles/">quick philosophy break</Link> now, or dive deeper with our <Link to="/reading-lists/">reading lists</Link> and <Link to="/lifes-big-questions/">introductory philosophy course</Link>.</p>
           </div>
         </div>
 
@@ -63,7 +64,9 @@ const Page = ( {data} ) => {
                 </Link>
             </div>
 
+            <h3 className="mid-mar-top tiny-mar-bottom">Recommended for you</h3>
             {/* 2nd ARTICLE */ }
+            
             <div className="article home">
                 <Link to="/articles/bertrand-russell-why-philosophy-matters/">
                   <GatsbyImage image={data.russell.childImageSharp.gatsbyImageData} alt="What is philosophy?" />
@@ -115,8 +118,7 @@ const Page = ( {data} ) => {
         {/* LBQ PANEL */}
         <PanelLBQ class="white-background" fill="#36b4ff" />
 
-
-        <HomeArticleList pic={pic} />
+        <PanelArticleList />
 
         <SubscriptionForm />
         <PanelReadingList />
