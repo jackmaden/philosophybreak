@@ -26,7 +26,7 @@ const ReadingList = ({ data, location }) => {
         
         {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-            <p><span className="big-letter">W</span>hat is the fundamental nature of reality? What is time? What is space? Is there a God? What is change? Why is reality like it is? These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics. As 18th-century German philosopher Immanuel Kant puts it:</p> 
+            <p><span className="big-letter">W</span>hat is the fundamental nature of reality? What is time? What is space? Is there a God? <Link to="/articles/is-the-world-around-us-real/">Is the world around us ‘real’?</Link> What is change? Why is reality like it is? <Link to="/articles/why-does-anything-exist/">Why does <i>anything</i> exist?</Link> These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics. As 18th-century German philosopher Immanuel Kant puts it:</p> 
             <blockquote>
                 <p>Metaphysics is a dark ocean without shores or lighthouse, strewn with many a philosophic wreck.</p>
             </blockquote>

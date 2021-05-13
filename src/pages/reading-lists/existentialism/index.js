@@ -30,69 +30,9 @@ const ReadingList = ({ data, location }) => {
             
             <p>These are, broadly, the questions that thinkers tagged with the term ‘existentialist’ — be they philosophers, authors, or artists — have set out to answer over the last 200 years or so of existentialist thought.</p>
 
-            <p>Beyond pointing to such questions, defining existentialism is actually rather difficult, and mired in confusion.</p>
+            <p>Before diving into existentialism’s best books, if you’re interested in quickly learning more about existentialism generally, check out our brief <Link to="/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/">introduction to existentialist philosophy</Link>, in which we outline its three core principles. </p>
 
-            <p>For instance, the 19th-century Dane <Link to="/articles/kierkegaard-on-why-busy-people-are-ridiculous/">Søren Kierkegaard</Link> is commonly regarded as the first existentialist philosopher, though he himself never used the term — and probably would have dismissed the label, had he been alive to do so. In fact, 20th-century philosophers Martin Heidegger and <Link to="/articles/absurdity-with-camus/">Albert Camus</Link> <i>did</i> dismiss the label during their lifetimes, despite being considered core to existentialist thought.</p>
-
-            <p>‘Existentialism’ was explicitly adopted by the French philosopher Jean-Paul Sartre, who came to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche</Link> retrospectively recognized as precursors to the movement — with a number of Sartre’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.</p>
-
-            <p>Adding to the confusion, the term is not limited to philosophers, but has also been used to describe the work of novelists, playwrights, and artists — notably Fyodor Dostoevsky and Franz Kafka — making existentialism as much a general cultural movement as it is a specific philosophy.</p> 
-
-            <h2>So what <i>is</i> existentialism, exactly?</h2>
-
-            <p><span className="big-letter">T</span>he broader cultural use of the term ‘existentialist’ typically describes any thinker who places an emphasis on <i>individual lived experience</i> — particularly on the tension between the fact we are responsible for our choices, yet lack a clear framework for knowing if the decisions we make are the right ones, or if they even matter at all.</p>
-            
-            <p>This tension is generally accompanied by the suspicion that, beyond the everyday, there lies a deeper human need that natural science and traditional religions have not been able to fulfill. As such, existentialist works commonly feature themes like dread, boredom, anxiety, alienation, the absurd, freedom, commitment, nothingness, and what it really means to be an embodied being in an apparently uncaring, unknowable universe.</p>
-
-            <p>The more formal philosophical side of existentialism, meanwhile, goes deeper, generally revolving around three key principles: phenomenology, freedom, and authenticity.</p>
-
-            <div className="course-promo text-center">
-                <h4>Philosophy in Your Twitter Feed</h4>
-                <p className="small-grey-font">Follow Philosophy Break on Twitter to get philosophy's best questions, wisdom, and ideas directly in your Twitter feed.</p>
-                <a target="_blank" rel="noopener noreferrer" className="button secondary" href="https://twitter.com/philosophybreak"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>Follow Philosophy Break</a>
-            </div>
-
-            <p>Phenomenology is a philosophical movement developed by Edmund Husserl in the early 20th century and later adapted by Heidegger and others. Phenomenologists are interested in examining the underlying structures of consciousness and experience, typically emphasizing the crucial importance of the <i>first-person perspective</i> in understanding ourselves and the world around us.</p>
-
-            <p>For example, if we were to describe a bowl of fruit, typically we would describe distinct objects: a banana, an apple, some oranges, the bowl itself. Phenomenologists would encourage us to take a step back here: really, we see not objects but rather a unified multitude of shapes, textures, colors — that only <i>subsequently</i> we identify as a banana, an apple, and so forth. Additionally, our perceptions are not passive but ever-changing, flowing in time with our mode of consciousness, our moods, our memories and intentions.</p>
-            
-            <p>This intentional, first-person perspective is all too often stripped from our descriptions of the world, phenomenologists argue, when it is precisely in examining this intense, direct kind of experience that rich philosophical insight is to be found.</p>
-
-            <p>So, reclaiming the first-person perspective in all its immediacy and complexity — and acknowledging how entangled this perspective is with the world we perceive — lies at the heart of phenomenology, and became a useful way of thinking about the world for existentialists like Sartre. <a target="_blank" rel="noopener noreferrer" href="https://plato.stanford.edu/entries/existentialism/">As philosophy professor Steven Crowell writes</a> in his summary of existentialist thought:</p>
-
-            <blockquote>
-              <p>The phenomenological approach gave philosophical shape to the basic existential insight that thinking about human existence requires new categories not found in the conceptual repertoire of ancient or modern thought; human beings can be understood neither as substances with fixed properties, nor as subjects interacting with a world of objects.</p>
-            </blockquote>
-
-            <p>If the principle of phenomenology gave existentialism its basic shape — i.e. a technique for getting at how things <i>really are</i>, going behind the stale categorizations of common sense and natural science to describe human existence for what it really is — then the principle of <i>freedom</i> gave existentialism its founding value. As contemporary philosopher Jonathan Webber argues in his 2018 work, <a target="_blank" rel="noopener noreferrer" href="http://www.amazon.com/gp/product/0198866763/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0198866763&linkId=20ef2ccc8c2cda700f9482b060858b4e">Rethinking Existentialism</a>:</p>
-
-            <blockquote>
-              <p>As originally defined by Simone de Beauvoir and Jean-Paul Sartre, existentialism is the ethical theory that we ought to treat the freedom at the core of human existence as intrinsically valuable and the foundation of all other values.</p>
-            </blockquote>
-
-            <p>The decisions we make are <i>ours</i>, existentialists argue. We bear total responsibility for who we are — and in a universe apparently devoid of direction, purpose, or meaning, this dizzying freedom is the source of much of our anxiety. (Of course, many neuroscientists and philosophers today disagree that we have such freedom, stating that <Link to="/articles/free-will-illusion-sam-harris/">free will is an illusion</Link>.)</p>
-            
-            <p>Finally, say existentialists, once we’ve acknowledged the importance of the first-person perspective, and recognized the ultimate freedom we have in our lived existence moment-to-moment, the stance we should adopt is one of <i>authenticity</i>. We should face up to who we are — including the fact that we are mortals who will one day die — and be true to it, refusing to bow down to anything that compromises our personal freedom or authenticity, be it external pressures, societal norms, or escapist pleasures.</p>
-
-            <p>As Webber continues, the existentialism of Sartre and de Beauvoir begins with “eudaimonist arguments for the virtue of authenticity” and finally affirms “a categorical moral imperative of authenticity”.</p>
-            
-            <p>Yale professor Noreen Khawaja, meanwhile, in her work <a target="_blank" rel="noopener noreferrer" href="http://www.amazon.com/gp/product/B01NBG611K/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NBG611K&linkId=38cffdee0e816a693095289fae1d474a">The Religion of Existence</a> confirms that “the idea of personal authenticity [is] at the center of existential thought.”</p>
-
-            <p>In summary, then, while the popular conception of existentialism rather narrowly revolves around dread and angst in a meaningless universe, the formal philosophical movement is more holistic, and generally involves three core principles.</p>
-            
-            <p>Firstly, it involves a recognition of the foundational importance of the <i>phenomenological</i> first-person perspective. Secondly, it refers to an acknowledgement of the <i>freedom and responsibility</i> we have in our lived experience. And finally, it defends the idea that personal <i>authenticity</i> is our chief virtue, for it allows us to face up to who we are, live in harmony with the world, and thereby reduce our feelings of anxiety and alienation.</p>
-            
-            <p>This rather spiritual struggle takes place against the backdrop of an uncaring, Godless universe — one that we have been ‘thrown’ into and left to deal with ourselves — meaning that though many existentialists were atheists, their writing, as Khawaja puts it, “<i>feels</i> religious to its readers.”</p>
-
-            <h2>Existentialism’s best books</h2>
-
-            <p><span className="big-letter">T</span>his reading list puts together the top eight books of and about the philosophical movement of existentialism. It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the deeply influential existentialist figureheads themselves.</p>
-
-
-
-
-
-
+            <p>Otherwise, this reading list puts together the top eight books of and about the philosophical movement of existentialism. It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the deeply influential existentialist figureheads themselves. Let’s jump in!</p>
 
             <h2>1. At the Existentialist Café, by Sarah Bakewell</h2>
             <p>Published in 2016, Sarah Bakewell’s <a target="_blank" rel="noopener noreferrer" href="http://www.amazon.com/gp/product/1590518896/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1590518896&linkId=367f584335defe8aa26e8c811cea229c">At the Existentialist Café</a> is a fantastic place to start for anyone with a budding interest in existentialism. With brilliant narrative storytelling, Bakewell outlines the intersecting lives and philosophies of key existentialist figures — from Sartre, de Beauvoir and Merleau-Ponty, to Husserl, Heidegger, and Camus. As well as lucidly introducing their thinking, Bakewell contextualizes it to the troubled times in which most core existentialist thinkers lived (i.e. immediately before, during, and after the Second World War), granting deep insight into why different strands of existentialism emerged the way they did. The 464 pages of <a target="_blank" rel="noopener noreferrer" href="http://www.amazon.com/gp/product/1590518896/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1590518896&linkId=367f584335defe8aa26e8c811cea229c">At the Existentialist Café</a> fly by and are a joy to read, making this book a very nice entry point to existentialism.</p>
