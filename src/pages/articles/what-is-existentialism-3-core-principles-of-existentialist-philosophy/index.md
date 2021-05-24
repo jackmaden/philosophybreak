@@ -40,7 +40,7 @@ In this regard, Dostoevsky’s [Notes from the Underground](http://www.amazon.co
 
 For instance, the 19th-century Dane Søren Kierkegaard is commonly regarded as the first existentialist philosopher, though he himself never used the term — and probably would have dismissed the label, had he been alive to do so. In fact, 20th-century philosophers Martin Heidegger and Albert Camus _did_ dismiss the label during their lifetimes, despite being considered core to existentialist thought.
 
-‘Existentialism’ was explicitly adopted by the French philosopher Jean-Paul Sartre, who came to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and Friedrich Nietzsche retrospectively recognized as precursors to the movement — with a number of Sartre’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.
+‘Existentialism’ was explicitly adopted by the French philosopher Jean-Paul Sartre, who came to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) retrospectively recognized as precursors to the movement — with a number of Sartre’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.
 
 Given the confused allocation of who is and who is not an existentialist, some argue that only the work of Jean-Paul Sartre should be labelled _pure_ existentialism, seeing as he was the most explicit in defining the term. It’s true that Sartre perhaps provided the main thrust of existentialism as a movement, but as we shall see his work was deeply influenced and informed by his precursors and contemporaries. 
 

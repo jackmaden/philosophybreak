@@ -37,7 +37,7 @@ How so? Well, Camus argues that a paradox lies at the heart of human experience.
 
 In other words, despite our yearning for an ultimate explanation for existence, in Camus’s mind such an explanation will _always_ be beyond our comprehension.
 
-And it is _this_ hopeless space we occupy — between our impulse to ask deep questions and our inability to answer them — that Camus labels ‘the absurd’. Hence the image of Sisyphus: we build theories up, inevitably they crash back down, and compulsively we start again.
+And it is _this_ hopeless space we occupy — between our impulse to ask deep questions and our inability to answer them — that Camus labels ‘the absurd’. Hence the image of Sisyphus: we build theories up, inevitably they crash back down, and compulsively we start again. (For a slightly different take on the absurd, see [Thomas Nagel’s argument that absurdity](/articles/thomas-nagel-why-humor-best-stance-towards-life-absurdity/) arises not from our need for meaning in a meaningless world, but from the fact we are _consumed_ by our concerns, while simultaneously recognizing how contingent they are.)
 
 ## The consequences of living in absurdity
 
@@ -45,7 +45,7 @@ And it is _this_ hopeless space we occupy — between our impulse to ask deep qu
 
 In this picture one concern _does_ remain, however — and it's a big one.
 
->"There is only one really serious philosophical question," Camus says, "and that is suicide. Deciding whether or not life is worth living is to answer the fundamental question in philosophy."
+>“There is only one really serious philosophical question,” Camus says, “and that is suicide. Deciding whether or not life is worth living is to answer the fundamental question in philosophy.”
 
 Yikes.
 

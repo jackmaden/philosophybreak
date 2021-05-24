@@ -37,7 +37,7 @@ In other words, why does _anything_ exist? Surely, it would have been simpler fo
 
 ## Framing the question
 
-<span class="big-letter">N</span>othing being simpler than _something_ is certainly what 17th-century German philosopher Gottfried Wilhelm Leibniz propounds in his 1714 work, Principles of Nature and Grace. 
+<span class="big-letter">N</span>othing being simpler than _something_ is certainly what 17th-century German philosopher Gottfried Wilhelm Leibniz propounds in his 1714 work, [Principles of Nature and Grace](http://www.amazon.com/gp/product/1719502951/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1719502951&linkId=394db1dae6b2f925c17be9e452a9929e). 
 
 Leibniz argues that nothingness — no Earth, no stars, no galaxies, no universe, no atoms, no physical laws — would have been “simpler and easier” than the existence of the universe we see around us. That our universe _does_ exist, therefore, demands an explanation. 
 

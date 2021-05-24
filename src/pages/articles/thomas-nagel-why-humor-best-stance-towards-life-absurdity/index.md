@@ -17,7 +17,7 @@ Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing 
 
 ## Consider the absurdity of the human condition
 
-<span class="big-letter">L</span>ike the existentialists and absurdists of the 20th century, Nagel believes the human condition is ultimately absurd. For Nagel, this absurdity arises not because anything we do won’t matter in, say, a million years. Nor because we are small or insignificant in the eyes of the universe. No: these are inadequate expressions of absurdity. 
+<span class="big-letter">L</span>ike the [existentialists and absurdists](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/) of the 20th century, Nagel believes the human condition is ultimately absurd. For Nagel, this absurdity arises not because anything we do won’t matter in, say, a million years. Nor because we are small or insignificant in the eyes of the universe. No: these are inadequate expressions of absurdity. 
 
 Rather, Nagel believes our absurd condition arises from a collision between the seriousness with which we take our lives, and our capacity to step back, look at things from a wider perspective, and see how ridiculously contingent the activities that fill our lives really are. 
 
