@@ -31,7 +31,7 @@ _We caught up with Philip and Keith about the consciousness debate and their mot
 
 ## Philip, why do you think Keith’s illusionism is the wrong way to think about consciousness? 
 
-<b>Philip:</b> Nothing is more evident than the reality of one’s own feelings and experiences. If I’m in pain, the reality of that feeling of pain is just totally undeniable. And by attending to my experiences, I understand something of their nature: I grasp the character of the colors, sounds, smells and tastes that populate by waking experience. I can’t think of a more solid foundation upon which to build our theory of reality!
+<b>Philip:</b> Nothing is more evident than the reality of one’s own feelings and experiences. If I’m in pain, the reality of that feeling of pain is just totally undeniable. And by attending to my experiences, I understand something of their nature: I grasp the character of the colors, sounds, smells and tastes that populate my waking experience. I can’t think of a more solid foundation upon which to build our theory of reality!
 
 ## Keith, why do you think Philip’s panpsychism is the wrong way to think about consciousness?
 
