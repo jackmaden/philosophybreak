@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Stoicism Reading List – The Top 5 Books to Read" description="A curated reading list of the best and most essential books of and about stoicism, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
+    <Seo title="Stoicism Reading List – The Top 5 Books to Read" description="A curated reading list of the best and most essential books of and about Stoic philosophy, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />
@@ -28,7 +28,7 @@ const ReadingList = ({ data, location }) => {
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
             <p><span className="big-letter">F</span>or a philosophy founded almost 2,500 years ago by the ancient Greek philosopher Zeno of Citium, Stoicism is seemingly all the rage. Nuggets of Stoic wisdom dating back to ancient Greco-Roman times — particularly featuring Stoic philosophers Epictetus, Seneca, and Marcus Aurelius — float round the internet and chime with millions across social media.</p>
 
-            <p>This is likely due to how fantastically practical much Stoic wisdom can be. Unlike other philosophy — which, tragically, as a general subject is often perceived to be outdated or pointless (<Link to="/what-is-philosophy-why-is-it-important-today/">here’s our counter-argument on why philosophy in today’s world is actually as relevant and important as ever</Link>) — Stoicism cuts right to the heart of our day-to-day attitudes and behaviors, and its core principles are distilled in many famous natty aphorisms and quotations.</p> 
+            <p>This is likely due to how fantastically practical much Stoic wisdom can be. Unlike other philosophy — which, tragically, as a general subject is often perceived to be outdated or pointless (<Link to="/what-is-philosophy-why-is-it-important-today/">here’s our counter-argument as to why philosophy in today’s world is actually as relevant and important as ever</Link>) — Stoicism cuts right to the heart of our day-to-day attitudes and behaviors, and its core principles are distilled in many famous natty aphorisms and quotations.</p> 
 
             <p>For example, consider this from Marcus Aurelius:</p>
 
