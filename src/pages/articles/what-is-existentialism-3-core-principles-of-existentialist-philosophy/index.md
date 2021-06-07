@@ -84,7 +84,7 @@ So, reclaiming the first-person perspective in all its immediacy and complexity 
 
 As many existentialist thinkers were atheists, they believed no pre-ordained paths or objectives are assigned to any of us, and that human beings do not possess any inherent ‘nature’ or ‘value’ more fundamental than the fact we exist. In other words, being conscious of our own existences is the most fundamental thing about what it means to be a human being. 
 
-Sartre sloganizes this thought with his famous saying, _existence precedes essence_, and concludes that is thus up to us, moment to moment, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
+Sartre sloganizes this thought with his famous saying, _existence precedes essence_, and concludes that it is thus up to us, moment to moment, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
 
 The upshot of this is that, on the existentialist view, we bear total responsibility for who we are, and the decisions we make are _ours_ (of course, many neuroscientists and philosophers today disagree that we have such freedom, arguing that [free will is an illusion](/articles/free-will-illusion-sam-harris/)). 
 

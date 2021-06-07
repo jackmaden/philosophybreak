@@ -35,6 +35,8 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Existentialism" number="8" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
                 
+                <BannerReadingList title="Stoicism" number="5" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
+
                 <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.gatsbyImageData} alt="consciousness reading list" />
 
                 <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.gatsbyImageData} alt="metaphysics reading list" />
@@ -117,6 +119,11 @@ export const query = graphql`{
     }
   }
   existentialism: file(relativePath: {eq: "existentialism.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  stoicism: file(relativePath: {eq: "stoicism.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

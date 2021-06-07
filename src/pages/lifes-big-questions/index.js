@@ -21,7 +21,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
                     <h1>Life’s Big Questions: Introduction to Philosophy Course</h1>
-                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(15 reviews)</AnchorLink></p>
+                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(19 reviews)</AnchorLink></p>
                     <h5>$29.00 USD</h5>
                     <p className="spectral">This introductory course distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind journey of reflection, understanding, and discovery.</p>
                     <Checkout />
@@ -123,6 +123,30 @@ const Page = ({ data, location }) => {
                 <h2>Course Reviews</h2>
                 <div className="two-col align-top">
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Really well put together</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Really well put together. A good resource to fill in gaps on a subject matter that I am interested in. Written in accessible language, the way more philosophy should be. Content was great & well laid out on my iPad. My favorite chapter was the 2nd chapter on if the world around us is ‘real’. It wove together Descartes, Berkeley, Locke, Hume, and Kant so well that it seemed the evolution was predestined.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jared L. on 24 May 2021</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent series</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very positive course experience. Love the format - really nice to have something to look forward to each day with the daily chapters. The themes are discussed in a way that stimulates your interest without overwhelming you with information. Overall an excellent series, and I am sure I will keep returning to the chapters and hopefully doing some of the suggested further reading now my interest has been roused.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Alan M. on 21 May 2021</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great primer</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very glad I found this resource, as philosophy has always interested me but I never get round to finishing the introductory books. I actually finished this as it was a concise and engaging primer on the main topics covered and I feel more motivated to do more reading now, so thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lynda F. on 12 May 2021</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic starting point</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Great daily chapters. All fantastic starting points for learning more about each theme and all the different philosophers. Materials displayed well and the summary questions at the end were really effective for making me think more about the materials.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Carrie W. on 9 May 2021</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Powerful - learned a great deal</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Really concise and effective. Powerful, actually - I learned a great deal. Loved the daily chapters, materials displayed really well. I really enjoyed this introduction to philosophy and would definitely want to take another of your courses.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mart W. on 25 April 2021</span></div>
@@ -197,7 +221,7 @@ const Page = ({ data, location }) => {
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Challenging but fascinating</i></span></p>
                         <span style={{lineHeight: "1.3"}}>I was looking for something to extend my understanding beyond casual google searches and occasional journal articles. I found the course challenging, but feel much more confident to approach more complex philosophical texts now. Thank you.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tim on 19 February 2021</span></div>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tim D. on 19 February 2021</span></div>
                     </div>
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great stuff</i></span></p>
@@ -209,7 +233,7 @@ const Page = ({ data, location }) => {
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Perfect introduction</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Loved this course! I've always had an interest in philosophy but the big books scare me a bit, so this course was the perfect way to ease me in. It was still challenging... but I could take it at my own pace after it arrived straight into my inbox and I could go back any time to revisit content that challenged me. Can't wait for the next course. Thank you Philosophy Break!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie on 18 February 2021</span></div>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie D. on 18 February 2021</span></div>
                     </div>
                     <div className="small-mar">
                     </div>
