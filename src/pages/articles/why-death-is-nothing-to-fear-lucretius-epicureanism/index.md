@@ -83,6 +83,8 @@ For Lucretius, this is one and the same worry. Our lust for life and our fear of
 
 Indeed, it is this unfocused longing for life, springing from a fear of death, that makes us so indecisive, so unhappy with our lot, so wanting for things we don’t have: “our mouths are always gaping open,” as Lucretius puts it, “with a constant thirst for life.”
 
+As [Seneca also comments in his discussion on the apparent shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/), we are ever preoccupied with the future, and rarely attentive to the present.   
+
 So what’s the solution? We must remember death is nothing to us, and acknowledge that our unfocused craving for life in fact damages the only life we get: it removes us from appreciating what we already have. So, rather than forego current pleasures by worrying about future inevitabilities, we should accept and celebrate our mortality and live simply and authentically in the face of it. We should acknowledge that our time here is limited, but remind ourselves that it’s okay — because we’ll spend the time well, thankful for the present, without trying to control a future that ultimately we cannot escape, a future we won’t even experience.  
 
 Besides, by prolonging life we subtract nothing from the time when we shall be dead. As Lucretius frankly puts it: 

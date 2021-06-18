@@ -38,9 +38,9 @@ const ReadingList = ({ data, location }) => {
 
             <blockquote><p>It's not what happens to you, but how you react to it that matters.</p></blockquote> 
 
-            <p>Or this, from Seneca:</p>
+            <p>Or <Link to="/articles/seneca-on-coping-with-the-shortness-of-life/">Seneca on the shortness of life</Link>:</p>
 
-            <blockquote><p>There are more things that frighten us than injure us, and we suffer more in imagination than in reality.</p></blockquote>
+            <blockquote><p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death's final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… life is long if you know how to use it.</p></blockquote>
 
             <p>Very nice quotations — all lifted from the books below. But beyond these practical nuggets of wisdom encouraging us to stay calm and focus on what’s within our own control (and regulate our attitudes to anything outside that control), Stoicism is a fully-fledged, holistic value system that can be adopted as a philosophy for all aspects of life.</p> 
 
