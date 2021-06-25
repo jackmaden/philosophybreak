@@ -3,6 +3,7 @@ title: "Mind Chat’s Philip Goff and Keith Frankish On Why We Are Conscious"
 description: "We spoke to philosophers Philip Goff and Keith Frankish about their popular new online show, Mind Chat, in which they interview scientists and philosophers on the mystery of consciousness."
 image: "./mindchat.jpg"
 imageAlt: "Mind Chat Philip Goff Keith Frankish"
+imageSeo: "./mindchat.jpg"
 tags: ["Interview", "Consciousness", "Philip Goff", "Keith Frankish"]
 date: "2021-05-18"
 author: "Jack Maden"

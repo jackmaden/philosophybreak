@@ -3,6 +3,7 @@ title: "George Berkeley’s Subjective Idealism: The World Is In Our Minds"
 description: "According to George Berkeley’s subjective idealism, everything in the universe is either a mind or an idea in the mind, and matter cannot possibly exist."
 image: "./berkeley-subjective-idealism.jpg"
 imageAlt: "George Berkeley Subjective Idealism"
+imageSeo: "./george-berkeley.jpg"
 tags: ["George Berkeley", "Epistemology", "Idealism"]
 date: "2021-04-20"
 author: "Jack Maden"

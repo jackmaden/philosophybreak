@@ -2,7 +2,8 @@
 title: "Socrates and the Socratic Paradox: I Know That I Know Nothing"
 description: "Ancient Greek philosopher Socrates upset many people in his day by questioning their knowledge. This brief introduction to his thinking outlines how asking ‘why’ led to his death."
 image: "./socrates2.jpg"
-imageAlt: "beach socrates"
+imageAlt: "socrates and the socratic paradox"
+imageSeo: "./socrates3.jpg"
 tags: ["Socrates", "Epistemology", "Ancient Greece"]
 date: "2020-12"
 author: "Jack Maden"

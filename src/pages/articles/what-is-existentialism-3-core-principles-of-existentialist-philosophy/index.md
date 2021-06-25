@@ -3,6 +3,7 @@ title: "What is Existentialism? 3 Core Principles of Existentialist Philosophy"
 description: "This article introduces the philosophy of existentialism, outlining three core principles shared by existentialists including Jean-Paul Sartre, Simone de Beauvoir, and more."
 image: "./existentialist.jpg"
 imageAlt: "Existentialism"
+imageSeo: "./existentialist.jpg"
 tags: ["Existentialism", "Jean-Paul Sartre", "Simone de Beauvoir"]
 date: "2021-05-12"
 author: "Jack Maden"

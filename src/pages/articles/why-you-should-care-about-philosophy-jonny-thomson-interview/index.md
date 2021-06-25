@@ -3,6 +3,7 @@ title: "Why You Should Care About Philosophy: Jonny Thomson Interview"
 description: "“There’s a great pleasure and power in finding a thought or idea expressed so perfectly it could be ripped from your own soul.” In this interview, we speak to Jonny Thomson about why philosophy matters today."
 image: "./whyyou-should-care-about-philosophy.jpg"
 imageAlt: "Jonny Thomson Interview"
+imageSeo: "./whyyou-should-care-about-philosophy.jpg"
 tags: ["Interview", "Philosophy", "Jonny Thomson"]
 date: "2021-03-09"
 author: "Jack Maden"

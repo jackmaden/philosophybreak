@@ -47,7 +47,7 @@ const Page = ({ data, location }) => {
                         <GatsbyImage
                             image={data.steph.childImageSharp.gatsbyImageData}
                             alt="Stephanie McAuliffe" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/McSmalliffe">Stephanie McAuliffe</a><span class="small-grey-font">Education Advisor</span></p>
+                        <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/McAuliffeSteph">Stephanie McAuliffe</a><span class="small-grey-font">Education Advisor</span></p>
                     </div>
                     <div className="member">
                         <GatsbyImage image={data.josh.childImageSharp.gatsbyImageData} alt="Josh Brewin" />

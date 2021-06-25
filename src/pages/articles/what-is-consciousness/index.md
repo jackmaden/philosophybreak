@@ -3,6 +3,7 @@ title: "What is Consciousness?"
 description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how — or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
 image: "./cucumber.jpg"
 imageAlt: "cucumbers"
+imageSeo: "./cucumber.jpg"
 tags: ["Consciousness", "Physicalism", "Panpsychism", "Daniel Dennett", "David J. Chalmers"]
 date: "2019-08"
 author: "Jack Maden"

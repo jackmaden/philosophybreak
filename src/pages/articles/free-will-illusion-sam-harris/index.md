@@ -3,6 +3,7 @@ title: "Why You Probably Don't Have Free Will"
 description: "Neuroscientist and philosopher Sam Harris argues that free will is an illusion. In his view, we are the mere conscious witnesses of decisions that deep in our brains have already been made."
 image: "./free-will.jpg"
 imageAlt: "free will illusion"
+imageSeo: "./free-will.jpg"
 tags: ["Free will", "Sam Harris"]
 date: "2019-02"
 author: "Jack Maden"

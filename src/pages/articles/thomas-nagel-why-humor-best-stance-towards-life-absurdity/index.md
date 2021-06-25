@@ -3,6 +3,7 @@ title: "Thomas Nagel On Why Humor is the Best Response to Life's Absurdity"
 description: "Life is absurd — but that's no reason for despair, argues contemporary philosopher Thomas Nagel. This article discusses why he believes humor to be the best way to cope with being human."
 image: "./nagel-butterfly.jpg"
 imageAlt: "trapped butterfly"
+imageSeo: "./Thomas_Nagel.jpg"
 tags: ["Absurdity", "Existentialism", "Thomas Nagel"]
 date: "2020-04"
 author: "Jack Maden"
@@ -13,7 +14,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing about why we laugh and places humor as the essential stance to adopt in response to being human. 
 
-![Thomas Nagel](./thomasnagel.jpg "Thomas Nagel in 1978, having a laugh.")
+![Thomas Nagel](./Thomas_Nagel.jpg "Thomas Nagel in 1978, having a laugh.")
 
 ## Consider the absurdity of the human condition
 

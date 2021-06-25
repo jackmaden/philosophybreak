@@ -3,6 +3,7 @@ title: "Is the World Around Us ‘Real’?"
 description: "Do our senses deceive us about what's really there? In this extract from Chapter #2 of our Life's Big Questions course, we investigate philosophy's best answers to the question of whether the world we experience aligns to reality."
 image: "./is-the-world-real.jpg"
 imageAlt: "Is the World Around Us Real?"
+imageSeo: "./is-the-world-real.jpg"
 tags: ["Life's Big Questions", "Metaphysics", "Epistemology"]
 date: "2021-03"
 author: "Jack Maden"

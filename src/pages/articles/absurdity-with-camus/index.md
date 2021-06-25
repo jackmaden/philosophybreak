@@ -3,6 +3,7 @@ title: "Albert Camus on Coping with Life's Absurdity"
 description: "French thinker Albert Camus believed the myth of Sisyphus to be a brilliant metaphor for our everyday existence — and a perfect encapsulation of all intellectual endeavour."
 image: "./camus.jpg"
 imageAlt: "Camus Sisyphus absurdity"
+imageSeo: "./albertcamus.jpg"
 tags: ["Existentialism", "Absurdity", "Camus"]
 date: "2019-01"
 author: "Jack Maden"

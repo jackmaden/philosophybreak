@@ -3,6 +3,7 @@ title: "Bertrand Russell On Why Philosophy Matters"
 description: "The writings of towering 20th-century philosopher Bertrand Russell have drawn many great thinkers to the subject. This article discusses his famous rallying cry for philosophy's value."
 image: "./russell.jpg"
 imageAlt: "Bertrand Russell philosophy matters"
+imageSeo: "./bertrand-russell.jpg"
 tags: ["Bertrand Russell", "Philosophy"]
 date: "2019-10"
 author: "Jack Maden"

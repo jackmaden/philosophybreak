@@ -3,6 +3,7 @@ title: "Why Does Anything Exist?"
 description: "Why is there something rather than nothing? In this extract from Chapter #1 of our Life's Big Questions course, we investigate philosophy's best answers to the question of why anything exists."
 image: "./whydoes-anything-exist.jpg"
 imageAlt: "Why Does Anything Exist?"
+imageSeo: "./whydoes-anything-exist.jpg"
 tags: ["Life's Big Questions", "Metaphysics", "Ontology"]
 date: "2021-02"
 author: "Jack Maden"

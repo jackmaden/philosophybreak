@@ -2,7 +2,8 @@
 title: "Hannah Arendt On Standing Up to the Banality of Evil"
 description: "For 20th-century German philosopher Hannah Arendt, most evil is committed by people who never make up their minds to be good or evil."
 image: "./arendtevil.jpg"
-imageAlt: "sheep"
+imageAlt: "Hannah Arendt Banality of Evil"
+imageSeo: "./hannaharendt.jpg"
 tags: ["Hannah Arendt", "Morality"]
 date: "2020-05"
 author: "Jack Maden"
@@ -33,7 +34,7 @@ This web of social and cultural relations is so all-encompassing in shaping our 
 
 For example, if you were invited to a formal dinner, and proceeded to forego cutlery and eat your meal with your hands, you’d draw many a strange and disapproving look — perhaps you’d even be asked to leave by the more militant guests, for whom ‘eating with cutlery at formal dinners’ is such a deeply ingrained principle as to be worth defending with vigor. 
 
-![Hannah Arendt](./hannaharendt.jpg "Hannah Arendt in the US in 1944, having fled Nazi Europe three years before.")
+![Hannah Arendt](./hannaharendt.jpg "“The ideal subject of totalitarian rule is not the convinced Nazi or the dedicated Communist, but people for whom the distinction between fact and fiction, true and false, no longer exist” — Hannah Arendt in her 1951 work, The Origins of Totalitarianism.")
 
 But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows evil's banality to flourish. 
 

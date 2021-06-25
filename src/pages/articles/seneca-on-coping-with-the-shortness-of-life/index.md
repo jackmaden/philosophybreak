@@ -2,7 +2,8 @@
 title: "Seneca On Coping with the Shortness of Life"
 description: "Roman Stoic philosopher Seneca offers timeless advice for how we can face up to the fleeting nature of existence and live our lives without fear."
 image: "./seneca-life.jpg"
-imageAlt: "Stoicism"
+imageAlt: "Seneca Stoicism"
+imageSeo: "./seneca-painting.jpg"
 tags: ["Seneca", "Stoicism", "Death"]
 date: "2021-06-18"
 author: "Jack Maden"

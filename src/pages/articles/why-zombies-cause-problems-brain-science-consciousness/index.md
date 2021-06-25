@@ -3,6 +3,7 @@ title: "Why ‘Zombies’ Cause Problems for Brain Science and Consciousness"
 description: "Philosophical 'zombies' are a thought experiment designed to illuminate problems with the science of the brain. This article introduces your zombie twin — an identical, non-conscious version of you."
 image: "./zombies-consciousness.jpg"
 imageAlt: "underwater"
+imageSeo: "./zombies-consciousness.jpg"
 tags: ["Consciousness", "Physicalism", "Daniel Dennett", "David J. Chalmers"]
 date: "2020-02"
 author: "Jack Maden"

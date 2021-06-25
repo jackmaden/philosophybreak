@@ -3,6 +3,7 @@ title: "I Think Therefore I Am: Descartes' Cogito Ergo Sum Explained"
 description: "17th-century philosopher Descartes' exultant declaration — “I think, therefore I am” — is his defining philosophical statement. This article explores its meaning, significance, and how it altered the course of philosophy forever."
 image: "./hallucinating-with-descartes.jpg"
 imageAlt: "Descartes I think therefore I am"
+imageSeo: "./descartes.jpg"
 tags: ["Descartes", "Skepticism"]
 date: "2020-10"
 author: "Jack Maden"

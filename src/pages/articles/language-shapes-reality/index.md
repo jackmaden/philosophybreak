@@ -3,6 +3,7 @@ title: "How the Languages We Speak Shape Our Realities"
 description: "Studies in linguistic diversity suggest that the languages we speak profoundly shape our experiences of the world. How does your language affect you?"
 image: "./language.jpg"
 imageAlt: "hawaii coastline"
+imageSeo: "./language.jpg"
 tags: ["Animals", "Language"]
 date: "2019-03"
 author: "Jack Maden"
@@ -25,7 +26,7 @@ Language impacts not just how we see the world, but our mindset towards it too. 
 
 Chen finds that speaking a futured or futureless language has significant consequences for — you guessed it — attitudes towards the future. [As the TED article](https://ideas.ted.com/5-examples-of-how-the-languages-we-speak-can-affect-the-way-we-think/) summarising his research puts it: 
 
->Futureless language speakers are 30% more likely to report having saved in any given year than futured language speakers. This amounts to 25% more savings by retirement, if income is held constant. Chen’s explanation: when we speak about the future as more distinct from the present, it feels more distant — and we’re less motivated to save money now in favour of monetary comfort years down the line.
+>Futureless language speakers are 30% more likely to report having saved in any given year than futured language speakers. This amounts to 25% more savings by retirement, if income is held constant. Chen’s explanation: when we speak about the future as more distinct from the present, it feels more distant — and we’re less motivated to save money now in favor of monetary comfort years down the line.
 
 The languages we speak, it seems, shape everything we do: from how we process experiences to how we behave. The question is why: why does language — something apparently so arbitrary, with its sounds and symbols having no connection to meaning beyond those who can interpret them — have such a profound grip on how we experience the world? 
 
@@ -43,7 +44,7 @@ The _umwelt_ of such organisms as whales, dolphins, monkeys, and chimps, therefo
 
 >Many believe that chimpanzees have not evolved culture on the scale of human beings due to their lack of advanced language.
 
-The noises we make, the expressions we pull, the symbols we draw — all that we mutually understand about each other feeds a conceptual structure that blankets our realities. That’s why language has such a foundational impact on our cognition: our individual _umwelts_ are contextualised entirely by the cultures to which we belong and the languages with which we communicate.  
+The noises we make, the expressions we pull, the symbols we draw — all that we mutually understand about each other feeds a conceptual structure that blankets our realities. That’s why language has such a foundational impact on our cognition: our individual _umwelts_ are contextualized entirely by the cultures to which we belong and the languages with which we communicate.  
 
 ## The cognitive universes we live in
 

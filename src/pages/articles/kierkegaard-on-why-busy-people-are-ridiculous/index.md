@@ -3,6 +3,7 @@ title: "Kierkegaard On Why Busy People Are Ridiculous"
 description: "19th-century Danish philosopher Søren Kierkegaard saw busyness as a vice. This article explores his arguments and discusses why, even when you have minimal time, being attentive to yourself is so crucial."
 image: "./kierkegaardbusy.jpeg"
 imageAlt: "busy street"
+imageSeo: "./kierkegaardbusy.jpeg"
 tags: ["Kierkegaard", "Existentialism"]
 date: "2020-03"
 author: "Jack Maden"

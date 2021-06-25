@@ -3,6 +3,7 @@ title: "John Locke’s Empiricism: Why We Are All Tabula Rasas (Blank Slates)"
 description: "17th-century philosopher John Locke's empirical theory of knowledge had a major impact on the thinkers who followed. This article explores Locke's core arguments — and discusses their profound consequences."
 image: "./john-locke-empiricism.jpg"
 imageAlt: "John Locke Empiricism Tabula Rasa"
+imageSeo: "./johnlocke.jpg"
 tags: ["John Locke", "Epistemology", "Empiricism"]
 date: "2021-03-18"
 author: "Jack Maden"

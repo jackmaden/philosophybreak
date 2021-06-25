@@ -3,6 +3,7 @@ title: "Are We Living in a Computer Simulation?"
 description: "Swedish philosopher Nick Bostrom's Simulation Argument states that the world around us is not real, but simply another person's - or civilization's - virtual reality."
 image: "./simulation-bostrom.jpg"
 imageAlt: "living in a simulation bostrom"
+imageSeo: "./simulation-bostrom.jpg"
 tags: ["Bostrom", "Simulation", "Consciousness"]
 date: "2018-12"
 author: "Jack Maden"

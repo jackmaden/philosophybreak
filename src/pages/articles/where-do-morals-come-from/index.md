@@ -3,6 +3,7 @@ title: "Where Do Morals Come From?"
 description: "We all have a sense of right and wrong, but where does it come from? Primatologist Frans de Waal's new theory on the origin of morality turns traditional approaches on their heads."
 image: "./dewaal.jpg"
 imageAlt: "underwater"
+imageSeo: "./dewaal.jpg"
 tags: ["Frans de Waal", "Biology", "Ethics"]
 date: "2019-06"
 author: "Jack Maden"

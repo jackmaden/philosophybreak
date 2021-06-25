@@ -3,6 +3,7 @@ title: "Why Death is Nothing to Fear: Lucretius and Epicureanism"
 description: "In his epic poem De Rerum Natura (On The Nature of Things), Roman philosopher Lucretius outlines why, even though there may be no overarching design to life, we have nothing to fear in death. "
 image: "./lucretius-death-nothing-to-fear.jpg"
 imageAlt: "Lucretius - death is nothing to fear"
+imageSeo: "./lucretius-death-nothing-to-fear.jpg"
 tags: ["Lucretius", "Existentialism", "Epicurus", "Death"]
 date: "2020-06"
 author: "Jack Maden"
