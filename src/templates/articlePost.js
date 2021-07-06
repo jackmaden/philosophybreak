@@ -103,7 +103,7 @@ export const query = graphql`query ($slug: String!) {
       author
       authorPic {
         childImageSharp {
-          gatsbyImageData(width: 22, layout: CONSTRAINED)
+          gatsbyImageData(width: 22, layout: CONSTRAINED, placeholder: BLURRED)
         }
       }
       authorLink
