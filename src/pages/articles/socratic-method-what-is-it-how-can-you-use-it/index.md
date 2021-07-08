@@ -38,7 +38,7 @@ After just a little probing on the foundations of our convictions on such topics
 
 Socrates’s approach of sometimes relentless inquiry differed to the teachers in ancient Athens at the time, known as the Sophists, who went for the more conventional ‘sage on a stage’ educational method, trying to persuade people round to their viewpoints on things through impressive presentation and rhetoric. 
 
-This distinction in approach made Socrates somewhat of a celebrity of contrarian thought. While the Sophists tried to demonstrate their knowledge, Socrates did his best to demonstrate his (and everybody else’s) ignorance. His guiding principle was that we know nothing — and so, as W. K. C. Guthrie argues in [The Greek Philosophers](http://www.amazon.com/gp/product/0061310085/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061310085&linkId=989dfd27b4929d53dd18e6e17715c30d), the Socratic method was for Socrates as much as a device for establishing ignorance as it was establishing knowledge. 
+This distinction in approach made Socrates somewhat of a celebrity of contrarian thought. While the Sophists tried to demonstrate their knowledge, Socrates did his best to demonstrate his (and everybody else’s) ignorance. His guiding principle was that we know nothing — and so, as W. K. C. Guthrie argues in [The Greek Philosophers](http://www.amazon.com/gp/product/0061310085/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061310085&linkId=989dfd27b4929d53dd18e6e17715c30d), the Socratic method was for Socrates as much a device for establishing ignorance as it was establishing knowledge. 
 
 <div class="course-promo text-center">
     <h4>Philosophy in Your Twitter Feed</h4>
