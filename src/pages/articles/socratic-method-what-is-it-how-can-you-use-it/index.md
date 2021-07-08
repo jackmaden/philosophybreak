@@ -12,7 +12,11 @@ authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">T</span>he Socratic method is a form of cooperative dialogue whereby participants make assertions about a particular topic, investigate those assertions with questions designed to uncover presuppositions and stimulate critical thinking, and finally come to mutual agreement and understanding about the topic under discussion. 
 
-In more formal educational settings, the Socratic method is harnessed by teachers to ‘draw out’ knowledge from students. The teacher does not directly impart knowledge, but asks probing, thought-provoking questions to kickstart a dialogue between teacher and student, allowing students to formulate answers for themselves. 
+In more formal educational settings, the Socratic method is harnessed by teachers to ‘draw out’ knowledge from students. The teacher does not directly impart knowledge, but asks probing, thought-provoking questions to kickstart a dialogue between teacher and student, allowing students to formulate answers and principles for themselves. 
+
+As Stanford University comment in [an issue of their Speaking of Teaching newsletter](https://tomprof.stanford.edu/posting/810):
+
+>The Socratic method uses questions to examine the values, principles, and beliefs of students. Through questioning, the participants strive first to identify and then to defend their moral intuitions about the world which undergird their ways of life. Socratic inquiry deals not with producing a recitation of facts... but demands rather that the participants account for themselves, their thoughts, actions, and beliefs... Socratic inquiry aims to reveal the motivations and assumptions upon which students lead their lives.
 
 Proponents of the Socratic method argue that, by coming to answers themselves, students better remember both the answer and the logical reasoning that led them there than they would if someone had simply announced a conclusion up front. Furthermore, people are generally more accepting of views they’ve come to based on their own rational workings. 
 
@@ -20,9 +24,9 @@ Proponents of the Socratic method argue that, by coming to answers themselves, s
 
 The great philosopher Bertrand Russell once commented, “As usual in philosophy, the first difficulty is to see that the problem is difficult.” Being an inquisitive dialogue, the Socratic method is particularly effective here, revealing hidden subtleties and complexities in subjects that may otherwise appear obvious or simple, such as [whether the world around us is ‘real’](/articles/is-the-world-around-us-real/). 
 
-Apply the Socratic method to such a subject, and participants will quickly discover how difficult it is to establish a solid answer. This is a good outcome, Russell thinks, for informed skepticism has replaced uninformed conviction — or, as he puts it, “the net result is to substitute articulate hesitation for inarticulate certainty.”
+Apply the Socratic method to such a subject, and participants quickly discover how difficult it is to establish a solid answer. This is a good outcome, Russell thinks, for informed skepticism has replaced uninformed conviction — or, as he puts it, “the net result is to substitute articulate hesitation for inarticulate certainty.”
 
-As such, the Socratic method is at its most effective when applied to topics about which people hold deeply-held convictions, such as questions on [ethics](/reading-lists/ethics-and-morality/), value, [politics](/reading-lists/political-philosophy/), and how to live. 
+As such, the Socratic method is at its most effective when applied to topics about which people hold deep convictions, such as questions on [ethics](/reading-lists/ethics-and-morality/), value, [politics](/reading-lists/political-philosophy/), and how to live. 
 
 After just a little probing on the foundations of our convictions on such topics, we learn that what may have appeared simple is in fact a very complicated issue mired in difficulty, uncertainty, and nuance — and that our initial convictions might be less justified than we first thought. 
 
@@ -61,7 +65,7 @@ Following Socrates’s death, Plato continued to write dialogues featuring Socra
 
 <span class="big-letter">T</span>hough things ended rather morbidly for Socrates, his method of questioning has evolved and lived on as a brilliant way to draw people out of ignorance, encourage critical thinking, and cooperate in the pursuit of knowledge. Socrates is a martyr not just for philosophy, but for educational dialogue and productive, stimulating exchanges of different perspectives around interesting subjects of all kinds. 
 
-Any time you ask questions to get people to think differently about things, any time you participate in healthy, productive debate or problem solving, any time you come to an answer for yourself, you channel the same principles Socrates championed all those years ago.
+Any time you ask questions to get people to think differently about things, any time you participate in healthy, productive debate or problem solving, any time you examine principles and presuppositions and come to an answer for yourself, you channel the same principles Socrates championed all those years ago.
 
 <div class="course-promo text-center">
     <h4>How Should We Approach Life?</h4>
@@ -71,7 +75,7 @@ Any time you ask questions to get people to think differently about things, any 
 
 People tend to assent to uncomfortable conclusions more when they’ve done the reasoning and come to the answer themselves. This and a host of other benefits is why the Socratic method is still modelled by many educational institutions today: students are not told ‘what’ to think, but shown ‘how’ to think by being supplied with thoughtful questions rather than straight answers.  
 
-So, next time you’re locked in an argument with someone, or looking to inform an audience about a subject you’re experienced in, remember Socrates and the brilliant tradition of respecting different viewpoints and working together to find an answer. 
+So, next time you’re locked in an argument with someone, or looking to inform an audience about a subject you’re experienced in, remember Socrates and the brilliant tradition of respecting different viewpoints, digging out presuppositions, and working together to find an answer. 
 
 ## Further reading
 
