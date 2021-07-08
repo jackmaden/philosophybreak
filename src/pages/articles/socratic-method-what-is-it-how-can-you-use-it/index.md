@@ -10,9 +10,9 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">T</span>he Socratic method is a form of cooperative dialogue whereby participants make assertions about a particular topic, investigate those assertions with questions designed to uncover presuppositions and stimulate critical thinking, and finally come to mutual agreement and understanding about the topic under discussion. 
+<span class="big-letter">T</span>he Socratic method is a form of cooperative dialogue whereby participants make assertions about a particular topic, investigate those assertions with questions designed to uncover presuppositions and stimulate critical thinking, and finally come to mutual agreement and understanding about the topic under discussion (though such mutual agreement is not guaranteed or required). 
 
-In more formal educational settings, the Socratic method is harnessed by teachers to ‘draw out’ knowledge from students. The teacher does not directly impart knowledge, but asks probing, thought-provoking questions to kickstart a dialogue between teacher and student, allowing students to formulate answers and principles for themselves. 
+In more formal educational settings, the Socratic method is harnessed by teachers to ‘draw out’ knowledge from students. The teacher does not directly impart knowledge, but asks probing, thought-provoking questions to kickstart a dialogue between teacher and student, allowing students to formulate and justify answers for themselves. 
 
 As Stanford University comment in [an issue of their Speaking of Teaching newsletter](https://tomprof.stanford.edu/posting/810):
 
