@@ -35,7 +35,7 @@ const Page = ( {data} ) => {
 
     return (
     <>
-    <Seo title="Philosophy Break – Timeless Wisdom for Time-Pressed People" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
+    <Seo title="Philosophy Break – Your Home for Learning about Philosophy" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
     <Navigation bg="light-bg" />
 
@@ -44,7 +44,7 @@ const Page = ( {data} ) => {
           <div className="page-center">  
             <h1 id="home-page">{greet}</h1>
             <div className="separator"></div>
-            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning more about philosophy. Nourish your mind with a <Link to="/articles/">quick philosophy break</Link> now, or dive deeper with our <Link to="/reading-lists/">reading lists</Link> and <Link to="/lifes-big-questions/">introductory philosophy course</Link>.</p>
+            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Take a <Link to="/articles/">quick philosophy break</Link> now, or explore our <Link to="/reading-lists/">reading lists</Link> and <Link to="/lifes-big-questions/">introductory course</Link>.</p>
           </div>
         </div>
 

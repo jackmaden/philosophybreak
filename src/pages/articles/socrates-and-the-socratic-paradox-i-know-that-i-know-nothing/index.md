@@ -21,7 +21,7 @@ During Socrates's life, the Oracle of Delphi proclaimed him the wisest of all pe
 
 ## Ruffling influential feathers with the Socratic method
 
-<span class="big-letter">S</span>ocrates approached influential Athenians considered wise by the people of the day — statesmen, poets, and teachers. He conversed with these individuals using what is now known as the Socratic method: a form of argumentative dialogue that uses incisive questioning to stimulate critical thinking and draw out presuppositions. 
+<span class="big-letter">S</span>ocrates approached influential Athenians considered wise by the people of the day — statesmen, poets, and teachers. He conversed with these individuals using what is now known as the [Socratic method](/articles/socratic-method-what-is-it-how-can-you-use-it/), a form of cooperative dialogue that uses incisive questioning to stimulate critical thinking and draw out presuppositions. 
 
 A more straightforward way to think about the Socratic method is to imagine a relentlessly curious child asking ‘why’ after every single explanation an adult offers, seeking a truly foundational response to a question rather than an endless chain of unsatisfactory causal reasoning. Unfortunately for Socrates, being a quite famously ugly adult male, he was not afforded the same good grace a child might have been.
 

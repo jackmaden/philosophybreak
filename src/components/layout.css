@@ -192,7 +192,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 }
 
 @media (min-width: 1020px) {
-  .top-title.home p.mid-width {width: 658px;}
+  .top-title.home p.mid-width {width: 720px;}
 }
 
 /***nav***/
@@ -203,12 +203,12 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 #nav.reduce-size .page-center {margin-top: 10px;}
 /**logo**/
 a.logo {position: relative; text-decoration: none; transition: 0.2s;}
-a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 22px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
-a.logo h3.reduce-size {color: #001d30; font-size: 21px; margin: 6.5px 0 0 8px;}
+a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
+a.logo h3.reduce-size {color: #001d30; font-size: 22px; margin: 6.5px 0 0 8px;}
 #nav.light-bg a.logo h3, #nav.dark a.logo h3 {color: #001d30;}
 #nav.light-bg a.logo h3 span, #nav.dark a.logo h3 span {color: #737d88;}
-a.logo h3 span {font-size: 11.5px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: font-size 0.2s; display: block; margin-top: 6px;}
-a.logo h3 span.reduce-size {font-size: 11px; margin-top: 5.5px; color:#737d88;}
+a.logo h3 span {font-size: 11.25px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: font-size 0.2s; display: block; margin-top: 6px;}
+a.logo h3 span.reduce-size {font-size: 10.75px; margin-top: 5.5px; color:#737d88;}
 a.logo:hover {background: transparent;}
 a.logo svg {width: 40px; height: 40px; border-radius: 50%;  transition: all 0.2s;}
 a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden; margin-top: 1px;}
@@ -294,7 +294,7 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 }
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
-  #footer .logo-footer h3 small {font-size: 16px;}
+  #footer .logo-footer h3 small {font-size: 15.5px;}
 }
 
 /***home-page***/
