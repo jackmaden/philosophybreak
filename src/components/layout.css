@@ -32,6 +32,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .white-background {background-color: #fff;}
 .grey-background {background-color: #f2f3f4;}
 .small-pad {padding: 24px 0;}
+.small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
@@ -46,8 +47,8 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.small-grey-font, .large-grey-font {font-size: 18px; color: #737d88; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.small-grey-font a {color: #737d88;}
+.small-grey-font, .large-grey-font {font-size: 18px; color: #001d30; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+.small-grey-font a {color: #001d30;}
 .darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
 .flex-end {display: flex; align-items: flex-end;}
@@ -121,7 +122,7 @@ h5 {font-size: 20px;}
 #break-start h5 {font-weight: 900;}
 
 @media (min-width: 360px) {
-  h1#home-page {font-size: 42px;}
+  h1#home-page {font-size: 36px;}
 }
 
 @media (min-width: 620px) {
@@ -181,7 +182,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 .top-title {padding-top: 96px; margin-bottom: 32px; position: relative;}
 .top-title.home {padding-bottom: 32px; margin-bottom: 0;}
 .top-title.home p.large-grey-font {margin-bottom: 0;}
-.top-title.home p.large-grey-font a {color: #737d88; text-decoration-color: #d2d4d9;}
+.top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
 .top-title.home p.large-grey-font a:hover {color: #fff;}
 .top-title.darkradial-background {margin-bottom: 0; padding-bottom: 48px;}
 .top-title.darkblue-background h1, .top-title.darkblue-background p {color: #fff;}
@@ -203,12 +204,21 @@ a.logo {position: relative; text-decoration: none; transition: 0.2s;}
 a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
 a.logo h3.reduce-size {color: #001d30; font-size: 22px; margin: 6.5px 0 0 8px;}
 #nav.light-bg a.logo h3, #nav.dark a.logo h3 {color: #001d30;}
-#nav.light-bg a.logo h3 span, #nav.dark a.logo h3 span {color: #737d88;}
+#nav.light-bg a.logo h3 span, #nav.dark a.logo h3 span {color: #001d30;}
 a.logo h3 span {font-size: 11.25px; font-family: 'Spectral', serif; letter-spacing: -0.3px; font-weight: 400; transition: font-size 0.2s; display: block; margin-top: 6px;}
-a.logo h3 span.reduce-size {font-size: 10.75px; margin-top: 5.5px; color:#737d88;}
+a.logo h3 span.reduce-size {font-size: 10.75px; margin-top: 5.5px; color:#001d30;}
 a.logo:hover {background: transparent;}
 a.logo svg {width: 40px; height: 40px; border-radius: 50%;  transition: all 0.2s;}
 a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; -webkit-backface-visibility: hidden; backface-visibility: hidden; margin-top: 1px;}
+/*nav desktop cta*/
+#nav #menu-cta {display: flex;}
+#nav #menu-cta a.button.primary {display: none;}
+@media (min-width: 1020px) {
+  #nav #menu-cta a.button.primary {display: block; font-size: 14px; margin: -2px 0 0 24px; padding: 0.85em; transition: 0.2s;}
+  #nav #menu-cta a.button.primary svg {width: 14px; height: 14px; transition: 0.2s;}
+  #nav.reduce-size #menu-cta a.button.primary {font-size: 13px; padding: 0.8em;}
+  #nav.reduce-size #menu-cta a.button.primary svg {width: 13px; height: 13px;}
+}
 /**menu trigger**/
 #menu-trigger {cursor: pointer; transition: all 0.2s;}
 #menu-trigger span {display: none;}
@@ -235,9 +245,9 @@ ul#menu li a div svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
 ul#menu li:nth-of-type(4) {margin-top: 2em;}
 ul#menu li a div svg path, ul#menu li:hover a div svg path, ul#menu li a:active div svg path {fill: #bdbfc7;}
-ul#menu li.primary.one:hover a div svg path, ul#menu li.primary.one a:active div svg path {fill: #36b4ff;}
-ul#menu li.primary.two:hover a div svg path, ul#menu li.primary.two a:active div svg path {fill: #3683ff;}
-ul#menu li.primary.three:hover a div svg path, ul#menu li.primary.three a:active div svg path {fill: #020887;}
+ul#menu li.primary.one a div svg path, ul#menu li.primary.one a:active div svg path {fill: #36b4ff;}
+ul#menu li.primary.two a div svg path, ul#menu li.primary.two a:active div svg path {fill: #3683ff;}
+ul#menu li.primary.three a div svg path, ul#menu li.primary.three a:active div svg path {fill: #020887;}
 ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 
 @media (min-width: 620px) {
@@ -281,10 +291,10 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 100px;}
 #footer .logo-footer h3 {color: #001d30; margin-top: 10px; font-weight: 900;}
-#footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400; color: #737d88;}
+#footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400; color: #001d30;}
 #footer .follow-footer {margin: 20px 0 30px;}
-#footer .disclaimer-footer p {color: #737d88; font-size: 10px;}
-#footer .disclaimer-footer p a {color: #737d88; text-decoration-color: #737d88;}
+#footer .disclaimer-footer p {color: #001d30; font-size: 10px;}
+#footer .disclaimer-footer p a {color: #001d30; text-decoration-color: #001d30;}
 #footer .disclaimer-footer p a:hover {color: #fff;}
 @media (min-width: 470px) {
   #footer .follow-footer a:last-of-type {margin-left: 8px;}
@@ -460,29 +470,9 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /*white bg LBQ panel*/
-.white-background .time.tag, .white-background a.white-underline {color: #737d88;}
+.white-background .time.tag, .white-background a.white-underline {color: #001d30;}
 .white-background a.white-underline {text-decoration-color: #36b4ff;}
 
-/***pillar page title***/
-.pillar {height: 100vh; width: 100%; overflow: hidden; position: relative; display: block; background-color: #000;}
-.pillar div.gatsby-image-wrapper {height: 100%;}
-.pillar div.gatsby-image-wrapper picture img {object-position: 22% center !important;}
-.pillar div.darkener {background: radial-gradient(rgba(0,0,0,0.8), transparent);}
-.pillar div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-45%); transform: translateY(-45%); left: 0; right: 0;}
-.pillar h1 {font-size: 32px;}
-.pillar p.break {position: relative; margin-top: 3em;}
-
-@media (min-width: 350px) {
-  .pillar h1 {font-size: 34px;}
-}
-@media (min-width: 375px) {
-  .pillar h1 {font-size: 36px;}
-}
-
-@media (min-width: 620px) {
-  .pillar div.gatsby-image-wrapper picture img {object-position: center 100% !important;}
-  .pillar h1 {font-size: 45px;}
-}
 
 /***article listing***/
 .article {margin: 24px 0;}
@@ -494,7 +484,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
 .article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 17px; font-weight: 800;}
-.article a .article-info .time {font-size: 10px; color: #737d88; margin-bottom: 0;}
+.article a .article-info .time {font-size: 10px; color: #001d30; margin-bottom: 0;}
 .article a .article-info .time svg {width: 16px; height: 16px; margin-right: 4px; fill: #36b4ff;}
 .article a .article-info .button {margin-top: 1em;}
 @media (min-width: 620px) {
@@ -516,7 +506,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}
 .article.home:first-of-type a .article-info {width: 100%; padding: 10px 20px;}
 .article.home:first-of-type a .article-info h2 {font-size: 22px; font-weight: 900;}
-.article.home:first-of-type a .article-info p.spectral {font-size: 16px; color: #737d88;}
+.article.home:first-of-type a .article-info p.spectral {font-size: 16px; color: #001d30;}
 .article.home:first-of-type a .article-info .time {font-size: 12px; margin-bottom: 1em;}
 .article.home:first-of-type a .article-info .time svg {width: 18px; height: 18px;}
 @media (min-width: 620px) {
@@ -575,13 +565,13 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
 #break-start .article.white a:hover h2 {color: #001d30; text-decoration: none;} 
-.article.white a:hover p.time {color: #737d88;}
+.article.white a:hover p.time {color: #001d30;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
 .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 33%;}
 .article.white a span.gatsby-resp-image-wrapper {margin: 0 !important;}
 .article.white a div.gatsby-image-wrapper > picture > img {object-position: top center !important;}
 .article.white a .article-info {width: 67%}
-.article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #737d88;}
+.article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #001d30;}
 .article.white a .article-info a.button {display: inline-block; margin-top: 0.5em; margin-bottom: 0; font-size: 14px;}
 @media (min-width: 420px) {
   .article.white a div.gatsby-image-wrapper {width: 30%;}
@@ -637,7 +627,7 @@ blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important;
   blockquote p {font-size: 24px;}
 }
 /*in-article image captions (images styled by gatsby-remark-images in config*/
-figcaption {font-size: 12px; color: #737d88; font-weight: 200; margin-top: 10px; line-height: 1.5;}
+figcaption {font-size: 12px; color: #001d30; font-weight: 200; margin-top: 10px; line-height: 1.5;}
 figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
 .big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text;
@@ -656,7 +646,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 form {width: 100%; margin-bottom: 1.6em;}
 input, button {padding: 1em 1.2em 1.1em; font-family: 'Public Sans', sans-serif; border-radius: 4px; border: none; font-size: 16px; width: 100%; font-weight: 400; outline: none; margin: 0; box-sizing: border-box; text-shadow: none; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none;}
 input[type="email"] {color: #001d30;}
-input[type="email"]::placeholder {color: #737d88; font-weight: 100;}
+input[type="email"]::placeholder {color: #001d30; font-weight: 100;}
 button[type="submit"] {cursor: pointer; margin-top: 12px; margin-bottom: 0; color: #fff; display: flex; justify-content: center; align-items: flex-end; text-align: center;}
 button[type="submit"].button.primary {-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
 input:focus {outline: none;}

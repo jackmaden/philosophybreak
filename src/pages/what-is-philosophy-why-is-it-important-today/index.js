@@ -6,10 +6,10 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
+import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelArticleList from "../../components/panelArticleList"
-import { WindowHeightWrapper } from "../../components/windowHeightWrapper"
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import WatermarkBreak from "../../components/watermarkBreak"
 import PanelLBQ from "../../components/panelLBQ"
@@ -17,37 +17,54 @@ import MailchimpPopUp from "../../components/mailchimpPopUp"
 
 const Page = ({ data, location }) => {
     const imagePath = getSrc(data.space)
+
+    //change home page content based on time of day
+    const myDate = new Date() //get device date
+    const hrs = myDate.getHours() //get hours from date
+
+    let pic = data.default.childImageSharp.gatsbyImageData // variable for image & set default
+
+    if (hrs < 12) { //if morning
+        pic = data.morning.childImageSharp.gatsbyImageData
+    }
+    else if (hrs >= 12 && hrs < 17) { //if afternoon
+        pic = data.default.childImageSharp.gatsbyImageData
+    }
+    else if (hrs >= 17 && hrs < 24) { //if evening
+        pic = data.evening.childImageSharp.gatsbyImageData
+    }
+
     return (
     <>
-    <Seo title="What is Philosophy, and Why is it Important Today?" description="Your simple guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for discovering its most insightful ideas." image={imagePath} pathname={location.pathname} />
+    <Seo title="What is Philosophy, and Why is it Important Today?" description="Your quick guide to what philosophy involves and why exploring it could make a significant difference to your life." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
-    <Navigation />
+    <Navigation bg="light-bg" />
         <ScrollProgressBar />
         {/*page title*/}
-        <WindowHeightWrapper className="pillar">
-            <GatsbyImage
-                image={data.space.childImageSharp.gatsbyImageData}
-                alt="What is philosophy?" />
-            <div className="darkener"></div>
-            <div className="page-center text-center mid-width">
-                <h1 style={{color: "#fff"}}>What is Philosophy, and Why is it Important Today?</h1>
-                <div class="separator"></div>
-                <p className="large-grey-font" style={{color: "#fff"}}>Your quick guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for learning about its essential ideas.</p>
-                <p className="time break text-center"><AnchorLink href="#break-start" style={{ textDecoration: "none" }}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><linearGradient id="eed70a5d-3465-468c-b304-842a4dc6abf4" x1="90.9" y1="409.1" x2="409.1" y2="90.9" gradientUnits="userSpaceOnUse"><stop offset="0.35" stopColor="#1aa9ff"/><stop offset="0.44" stopColor="#22acff"/><stop offset="0.58" stopColor="#37b4ff"/><stop offset="0.75" stopColor="#5ac1ff"/><stop offset="0.89" stopColor="#7cceff"/></linearGradient></defs><title>Philosophy Break</title><g id="a694bf81-a4e3-4986-9301-cf65ad1fcac0" data-name="Layer 1"><path d="M250,499.5A249.5,249.5,0,0,1,73.58,73.58,249.5,249.5,0,1,1,426.42,426.42,247.84,247.84,0,0,1,250,499.5Z" fill="#fff"/><path d="M250,1A248.93,248.93,0,0,1,426.07,426.07a249,249,0,1,1-273-405.5A247.32,247.32,0,0,1,250,1m0-1C111.93,0,0,111.93,0,250S111.93,500,250,500,500,388.07,500,250,388.07,0,250,0Z" fill="#fff"/><circle cx="250" cy="250" r="225" fill="url(#eed70a5d-3465-468c-b304-842a4dc6abf4)"/></g><g id="4dca974f-b6d8-4b4f-b13a-2551c52acb2b" data-name="Layer 3"><path d="M462,325l-1.24,3.94C428.79,414.27,346.49,475,250,475c-98,0-181.41-62.69-212.25-150.16L461,325"/></g><g id="1a30999d-582a-4788-8e9a-e662ea057375" data-name="Layer 2"><polygon points="38 325 103 225 152 281 250 112 346 221 377 182 469 306 38 325" fill="#fff"/></g><g id="93c33bb2-e13c-4346-ae21-ff33957a2372" data-name="Layer 4"><polyline points="38 326 108 250.66 152 278.91 250 148 346 221.46 377 208.28 469 306.22 462 326"/><path d="M103.5,134.51c.26.33,4.76,5.92,12,5.14a14,14,0,0,0,10.29-6.86" fill="none" stroke="#000" strokeMiterlimit="10" strokeWidth="6"/><path d="M134.83,153.38c.26.33,4.76,5.92,12,5.14,6.75-.72,10-6.33,10.29-6.86" fill="none" stroke="#000" strokeMiterlimit="10" strokeWidth="6"/><path d="M159.7,124.22c.26.33,4.76,5.91,12,5.14A14,14,0,0,0,182,122.5" fill="none" stroke="#000" strokeMiterlimit="10" strokeWidth="6"/></g></svg><span style={{color:"#fff"}} className="bottom-blue-border">GET STARTED&nbsp;&nbsp;<svg className="bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#fff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></AnchorLink></p>
+        <TopTitle title="What is Philosophy, and Why is it Important Today?" subtitle="Your quick guide to what philosophy involves and why exploring it could make a significant difference to your life." />
+        
+        <p className="time break text-center"><AnchorLink href="#break-start" style={{ textDecoration: "none" }}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><linearGradient id="a" x1="90.9" y1="409.1" x2="409.1" y2="90.9" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#1aa9ff"/><stop offset="0.31" stop-color="#22acff"/><stop offset="0.44" stop-color="#37b4ff"/><stop offset="0.59" stop-color="#5ac1ff"/><stop offset="0.72" stop-color="#7cceff"/></linearGradient><linearGradient id="b" x1="131.91" y1="450.27" x2="377.59" y2="204.59" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#030810"/><stop offset="0.29" stop-color="#030a13"/><stop offset="0.5" stop-color="#02101c"/><stop offset="0.69" stop-color="#001a2c"/><stop offset="0.72" stop-color="#001d30"/></linearGradient></defs><circle cx="250" cy="250" r="250" fill="#fff"/><circle cx="250" cy="250" r="225" fill="url(#a)"/><path d="M-121.5,179.5" stroke="#000" stroke-miterlimit="10"/><path d="M27.12,281" stroke="#000" stroke-miterlimit="10"/><path d="M453,343"/><path d="M-516.5,142.5" stroke="#000" stroke-miterlimit="10"/><path d="M38,325" fill="#fff"/><polygon points="27 316 108 219.58 148 284 250 103 363 247.69 391 197.72 475 299 27 316" fill="#fff"/><path d="M34,312l74-61.18L148,284,250,148.16,363,251l28-26,79,72c-.91,3.91-1.9,7.92-3,12-1.88,7-2.9,10.68-5,17-.08,0-1.16,3.07-1.24,3.11-32,85.32-114.27,146.05-210.76,146.05-98,0-181.41-62.69-212.25-150.16L34,312" fill="url(#b)"/><path d="M103.5,134.51c.26.33,4.76,5.92,12,5.14a14,14,0,0,0,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M134.83,153.38c.26.33,4.76,5.92,12,5.14,6.75-.72,10-6.33,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M159.7,124.22c.26.33,4.76,5.91,12,5.14A14,14,0,0,0,182,122.5" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/></svg><span className="bottom-blue-border">GET STARTED&nbsp;&nbsp;<svg className="bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></AnchorLink></p>
+        
+        <div className="small-pad">
+            <div className="page-center">
+                <GatsbyImage image={pic} alt="What is philosophy?" />
             </div>
-        </WindowHeightWrapper>
+            
+            <div className="page-center text-center" id="break-start"> 
+                <div className="small-pad-top">
+                <h5>Contents:</h5>
+                <p><b>I.</b> <AnchorLink href="#section1">What is Philosophy? A Quick, Simple Definition</AnchorLink></p>
+                <p><b>II.</b> <AnchorLink href="#section2">How Can Philosophy Improve Your Life and Mind?</AnchorLink></p>
+                <p><b>III.</b> <AnchorLink href="#section3">What's the Point of Philosophy in Modern Times?</AnchorLink></p>
+                <p><b>IV.</b> <AnchorLink href="#section4">Where's the Best Place to Learn More about Philosophy?</AnchorLink></p>
+                </div>
+            </div>
+        </div>
+
         {/*page content*/}
-        <div className="grey-background small-pad">
-        <div className="page-center text-center" id="break-start">
-            <h5>Contents:</h5>
-            <p><b>I.</b> <AnchorLink href="#section1">What is Philosophy? A Quick, Simple Definition</AnchorLink></p>
-            <p><b>II.</b> <AnchorLink href="#section2">How Can Philosophy Improve Your Life and Mind?</AnchorLink></p>
-            <p><b>III.</b> <AnchorLink href="#section3">What's the Point of Philosophy in Modern Times?</AnchorLink></p>
-            <p><b>IV.</b> <AnchorLink href="#section4">Where's the Best Place to Learn More about Philosophy?</AnchorLink></p>
-        </div>
-        </div>
-        <div id="section1" className="mid-pad">
+
+        <div id="section1" className="small-pad">
         <div className="page-center" id="break-start">
             <p style={{marginTop:"0"}}><span className="big-letter section-head">I</span></p>
             <h2 className="text-center" style={{marginTop:"0"}}>What is Philosophy? A Quick, Simple Definition</h2>
@@ -65,7 +82,7 @@ const Page = ({ data, location }) => {
             <blockquote><p>The aim of philosophy is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.</p></blockquote>
         </div>
         </div>
-        <div id="section2" className="darkradial-background mid-pad">
+        <div id="section2" className="small-pad">
         <div className="page-center" id="break-start">
         <p style={{marginTop:"0"}}><span className="big-letter section-head">II</span></p>
             <h2 className="text-center" style={{marginTop:"0"}}>How Can Philosophy Improve Your Life and Mind?</h2>
@@ -84,7 +101,7 @@ const Page = ({ data, location }) => {
             <blockquote><p>The unexamined life is not worth living.</p></blockquote>
         </div>
         </div>
-        <div id="section3" className="mid-pad">
+        <div id="section3" className="small-pad">
         <div className="page-center" id="break-start">
             <p style={{marginTop:"0"}}><span className="big-letter section-head">III</span></p>
             <h2 className="text-center" style={{marginTop:"0"}}>What's the Point of Philosophy in Modern Times?</h2>
@@ -104,7 +121,7 @@ const Page = ({ data, location }) => {
             <blockquote><p>Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.</p></blockquote>
         </div>
         </div>
-        <div id="section4" className="darkradial-background mid-pad" style={{paddingBottom: "0"}}>
+        <div id="section4" className="small-pad-top">
         <div className="page-center" id="break-start">
         <p style={{marginTop:"0"}}><span className="big-letter section-head">IV</span></p>
             <h2 className="text-center" style={{marginTop:"0"}}>Where's the Best Place to Learn More about Philosophy?</h2>
@@ -136,7 +153,17 @@ const Page = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  space: file(relativePath: {eq: "space.jpg"}) {
+  default: file(relativePath: {eq: "philosophy-break.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  morning: file(relativePath: {eq: "morning.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  evening: file(relativePath: {eq: "evening.jpg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }
