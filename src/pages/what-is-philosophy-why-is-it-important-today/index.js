@@ -6,7 +6,6 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
-import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import PanelReadingList from '../../components/panelReadingList'
