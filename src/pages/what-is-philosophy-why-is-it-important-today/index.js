@@ -8,6 +8,7 @@ import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import { SubscriptionForm } from '../../components/subscriptionForm'
+import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import PanelReadingList from '../../components/panelReadingList'
 import PanelArticleList from "../../components/panelArticleList"
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
@@ -36,41 +37,41 @@ const Page = ({ data, location }) => {
 
     return (
     <>
-    <Seo title="What is Philosophy, and Why is it Important Today?" description="Your quick guide to what philosophy involves and why exploring it could make a significant difference to your life." image={imagePath} pathname={location.pathname} />
+    <Seo title="What is Philosophy, and Why is it Important Today?" description="Your quick guide to what philosophy involves, why exploring it could make a significant difference to your life, and next steps for learning about its essential ideas." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
-    <Navigation bg="light-bg" />
+    <Navigation />
         <ScrollProgressBar />
         {/*page title*/}
-        <TopTitle title="What is Philosophy, and Why is it Important Today?" subtitle="Your quick guide to what philosophy involves and why exploring it could make a significant difference to your life." />
-        
-        <p className="time break text-center"><AnchorLink href="#break-start" style={{ textDecoration: "none" }}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><linearGradient id="a" x1="90.9" y1="409.1" x2="409.1" y2="90.9" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#1aa9ff"/><stop offset="0.31" stop-color="#22acff"/><stop offset="0.44" stop-color="#37b4ff"/><stop offset="0.59" stop-color="#5ac1ff"/><stop offset="0.72" stop-color="#7cceff"/></linearGradient><linearGradient id="b" x1="131.91" y1="450.27" x2="377.59" y2="204.59" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#030810"/><stop offset="0.29" stop-color="#030a13"/><stop offset="0.5" stop-color="#02101c"/><stop offset="0.69" stop-color="#001a2c"/><stop offset="0.72" stop-color="#001d30"/></linearGradient></defs><circle cx="250" cy="250" r="250" fill="#fff"/><circle cx="250" cy="250" r="225" fill="url(#a)"/><path d="M-121.5,179.5" stroke="#000" stroke-miterlimit="10"/><path d="M27.12,281" stroke="#000" stroke-miterlimit="10"/><path d="M453,343"/><path d="M-516.5,142.5" stroke="#000" stroke-miterlimit="10"/><path d="M38,325" fill="#fff"/><polygon points="27 316 108 219.58 148 284 250 103 363 247.69 391 197.72 475 299 27 316" fill="#fff"/><path d="M34,312l74-61.18L148,284,250,148.16,363,251l28-26,79,72c-.91,3.91-1.9,7.92-3,12-1.88,7-2.9,10.68-5,17-.08,0-1.16,3.07-1.24,3.11-32,85.32-114.27,146.05-210.76,146.05-98,0-181.41-62.69-212.25-150.16L34,312" fill="url(#b)"/><path d="M103.5,134.51c.26.33,4.76,5.92,12,5.14a14,14,0,0,0,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M134.83,153.38c.26.33,4.76,5.92,12,5.14,6.75-.72,10-6.33,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M159.7,124.22c.26.33,4.76,5.91,12,5.14A14,14,0,0,0,182,122.5" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/></svg><span className="bottom-blue-border">GET STARTED&nbsp;&nbsp;<svg className="bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></AnchorLink></p>
-        
-        <div className="small-pad">
-            <div className="page-center">
-                <GatsbyImage image={pic} alt="What is philosophy?" />
-            </div>
-            
-            <div className="page-center text-center" id="break-start"> 
-                <div className="small-pad-top">
+
+        <WindowHeightWrapper className="title no-author">
+          <GatsbyImage image={pic} className="title-img" alt="What is philosophy?" />
+          <div className="darkener"></div>
+          <div className="page-center title-center mid-width">
+            <h1>What is Philosophy, and Why is it Important Today?</h1>
+            <div className="separator"></div>       
+            <p className="description">Your quick guide to what philosophy is and why it’s important today, how exploring it could make a significant difference to your life, and next steps for learning about its essential ideas.</p>
+          </div>
+          <p className="time break page-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><linearGradient id="a" x1="90.9" y1="409.1" x2="409.1" y2="90.9" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#1aa9ff"/><stop offset="0.31" stop-color="#22acff"/><stop offset="0.44" stop-color="#37b4ff"/><stop offset="0.59" stop-color="#5ac1ff"/><stop offset="0.72" stop-color="#7cceff"/></linearGradient><linearGradient id="b" x1="131.91" y1="450.27" x2="377.59" y2="204.59" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#030810"/><stop offset="0.29" stop-color="#030a13"/><stop offset="0.5" stop-color="#02101c"/><stop offset="0.69" stop-color="#001a2c"/><stop offset="0.72" stop-color="#001d30"/></linearGradient></defs><circle cx="250" cy="250" r="250" fill="#fff"/><circle cx="250" cy="250" r="225" fill="url(#a)"/><path d="M-121.5,179.5" stroke="#000" stroke-miterlimit="10"/><path d="M27.12,281" stroke="#000" stroke-miterlimit="10"/><path d="M453,343"/><path d="M-516.5,142.5" stroke="#000" stroke-miterlimit="10"/><path d="M38,325" fill="#fff"/><polygon points="27 316 108 219.58 148 284 250 103 363 247.69 391 197.72 475 299 27 316" fill="#fff"/><path d="M34,312l74-61.18L148,284,250,148.16,363,251l28-26,79,72c-.91,3.91-1.9,7.92-3,12-1.88,7-2.9,10.68-5,17-.08,0-1.16,3.07-1.24,3.11-32,85.32-114.27,146.05-210.76,146.05-98,0-181.41-62.69-212.25-150.16L34,312" fill="url(#b)"/><path d="M103.5,134.51c.26.33,4.76,5.92,12,5.14a14,14,0,0,0,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M134.83,153.38c.26.33,4.76,5.92,12,5.14,6.75-.72,10-6.33,10.29-6.86" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/><path d="M159.7,124.22c.26.33,4.76,5.91,12,5.14A14,14,0,0,0,182,122.5" fill="none" stroke="#001d30" stroke-miterlimit="10" stroke-width="6"/></svg><AnchorLink href="#break-start" style={{ textDecoration: "none" }}><span className="bottom-blue-border">GET STARTED&nbsp;&nbsp;<svg className="bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#fff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></AnchorLink></p>  
+        </WindowHeightWrapper>
+
+        <div className="grey-background small-pad">
+            <div className="page-center" id="break-start"> 
                 <h5>Contents:</h5>
                 <p><b>I.</b> <AnchorLink href="#section1">What is Philosophy? A Quick, Simple Definition</AnchorLink></p>
                 <p><b>II.</b> <AnchorLink href="#section2">How Can Philosophy Improve Your Life and Mind?</AnchorLink></p>
                 <p><b>III.</b> <AnchorLink href="#section3">What's the Point of Philosophy in Modern Times?</AnchorLink></p>
                 <p><b>IV.</b> <AnchorLink href="#section4">Where's the Best Place to Learn More about Philosophy?</AnchorLink></p>
-                </div>
             </div>
         </div>
 
-        {/*page content*/}
 
-        <div id="section1" className="small-pad">
+        {/*page content*/}
         <div className="page-center" id="break-start">
-            <p style={{marginTop:"0"}}><span className="big-letter section-head">I</span></p>
-            <h2 className="text-center" style={{marginTop:"0"}}>What is Philosophy? A Quick, Simple Definition</h2>
-            <div class="separator" style={{margin: "1.5em auto"}}></div>
-            <p style={{marginTop: "2em"}}>Philosophy generally refers to the study of <Link to="/lifes-big-questions/">deep, fundamental questions</Link> relating to core aspects of the human condition.</p>
-            <p>These questions typically revolve around the <Link to="/reading-lists/metaphysics/">nature of existence</Link>, <Link to="/reading-lists/epistemology/">knowledge</Link>, <Link to="/reading-lists/consciousness/">consciousness</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, <Link to="/reading-lists/political-philosophy/">society</Link>, <Link to="/reading-lists/philosophy-of-language/">language</Link>, and more. They include:</p>
+        
+        <div id="section1">
+            <h2>I. What is Philosophy? A Quick, Simple Definition</h2>
+            <p><span className="big-letter">P</span>hilosophy generally refers to the study of <Link to="/lifes-big-questions/">deep, fundamental questions</Link> relating to core aspects of the human condition. These questions typically revolve around the <Link to="/reading-lists/metaphysics/">nature of existence</Link>, <Link to="/reading-lists/epistemology/">knowledge</Link>, <Link to="/reading-lists/consciousness/">consciousness</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, <Link to="/reading-lists/political-philosophy/">society</Link>, <Link to="/reading-lists/philosophy-of-language/">language</Link>, and more. They include:</p>
             <blockquote><p>What is the fundamental nature of reality? Why are we here? What happens when we die? What is the relationship between my mind and the world? How and why does consciousness arise? Do we have free will? Why is language meaningful? What’s the right thing to do? What does a just society look like?</p></blockquote>
             <p>(If you’re interested in exploring these topics further, check out our <Link to="/lifes-big-questions/">celebrated introductory philosophy course: Life’s Big Questions</Link>, which distills philosophy’s best answers to these questions from the last few millennia.)</p>
             <p>But beyond the study of such questions, philosophy can be defined more broadly as an <i>act</i>.</p>
@@ -81,13 +82,9 @@ const Page = ({ data, location }) => {
             <p>As American philosopher Wilfred Sellars simply puts it:</p>
             <blockquote><p>The aim of philosophy is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.</p></blockquote>
         </div>
-        </div>
-        <div id="section2" className="small-pad">
-        <div className="page-center" id="break-start">
-        <p style={{marginTop:"0"}}><span className="big-letter section-head">II</span></p>
-            <h2 className="text-center" style={{marginTop:"0"}}>How Can Philosophy Improve Your Life and Mind?</h2>
-            <div class="separator" style={{margin: "1.5em auto"}}></div>
-            <p style={{marginTop: "2em"}}>Here at <Link to="/about/">Philosophy Break</Link>, we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be.</p>
+        <div id="section2">
+            <h2>II. How Can Philosophy Improve Your Life and Mind?</h2>
+            <p><span class="big-letter">H</span>ere at <Link to="/about/">Philosophy Break</Link>, we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be.</p>
             <p>The addictive nature of the digital world afflicts many of us. The relentless torrent of information saturates our attention spans. But life is finite, and the things we give attention to define our lives. It's crucial to break free from the turbulent current and come up for air.</p>
             <p>As Roman Stoic philosopher Seneca put it almost 2,000 years ago in his brilliant treatise, <Link to="/articles/seneca-on-coping-with-the-shortness-of-life/">On the Shortness of Life</Link>:</p>
             <blockquote><p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… Life is long if you know how to use it.</p></blockquote>
@@ -100,13 +97,9 @@ const Page = ({ data, location }) => {
             <p>For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the infamous Ancient Greek martyr of philosophy</Link>, declared:</p> 
             <blockquote><p>The unexamined life is not worth living.</p></blockquote>
         </div>
-        </div>
-        <div id="section3" className="small-pad">
-        <div className="page-center" id="break-start">
-            <p style={{marginTop:"0"}}><span className="big-letter section-head">III</span></p>
-            <h2 className="text-center" style={{marginTop:"0"}}>What's the Point of Philosophy in Modern Times?</h2>
-            <div class="separator" style={{margin: "1.5em auto"}}></div>
-            <p style={{marginTop: "2em"}}>The point of philosophy in modern times is the point philosophy has always had: to answer the fundamental questions that lie at the heart of the human condition.</p>
+        <div id="section3" className="small-pad-top">
+            <h2>III. What's the Point of Philosophy in Modern Times?</h2>
+            <p><span class="big-letter">T</span>he point of philosophy in modern times is the point philosophy has always had: to answer the fundamental questions that lie at the heart of the human condition.</p>
             <p>Philosophy plays a crucial role in this regard not just in personal study and exploration but formally in academia and modern research projects.</p>
             <p>It might be thought that some of the questions philosophy touches on, such as the <Link to="/reading-lists/metaphysics/">basic nature of the universe</Link>, or the <Link to="/reading-lists/consciousness/">emergence of consciousness</Link>, have been superseded by more specialist scientific subjects.</p>
             <p>For example, physicists are at the forefront of investigating the fundamental nature of reality. Likewise, neuroscientists are leading the way in unlocking the secrets of the brain. </p>
@@ -120,14 +113,9 @@ const Page = ({ data, location }) => {
             <p>The world is uncertain, and the value of philosophy lies precisely in facing up to this uncertainty — and in finding footholds for knowledge and progress in spite of it. As Bertrand Russell summarizes in his <Link to="/articles/bertrand-russell-why-philosophy-matters/">wonderful exposition on why philosophy matters</Link>:</p>
             <blockquote><p>Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.</p></blockquote>
         </div>
-        </div>
-        <div id="section4" className="small-pad-top">
-        <div className="page-center" id="break-start">
-        <p style={{marginTop:"0"}}><span className="big-letter section-head">IV</span></p>
-            <h2 className="text-center" style={{marginTop:"0"}}>Where's the Best Place to Learn More about Philosophy?</h2>
-            <div class="separator" style={{margin: "1.5em auto"}}></div>
-            <p style={{marginTop: "2em"}}>If you're interested in learning more about philosophy, then you're in the right place.</p>
-            <p>Philosophy Break wraps philosophy's best and most important insights and ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
+        <div id="section4">
+            <h2>IV. Where's the Best Place to Learn More about Philosophy?</h2>
+            <p><span class="big-letter">I</span>f you're interested in learning more about philosophy, then you're in the right place. Philosophy Break wraps philosophy's best and most important insights and ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
             <p>Our celebrated introductory philosophy course, <Link to="/lifes-big-questions/">Life's Big Questions</Link>, distills philosophy's best answers to some of life's most troubling questions, taking you on a whirlwind five-day journey of reflection, understanding, and discovery. Here's the questions covered:</p>
             <blockquote><p>Why does anything exist?⁣ Is the world around us ‘real’?⁣ What makes us conscious?⁣ Do we have free will?⁣ How should we approach life?⁣</p></blockquote>
             <p>Each day over five days, you'll receive beautifully-packaged materials that distill philosophy's best answers to these questions from the last few millennia. Interested in learning more? <Link to="/lifes-big-questions/">Explore the course now</Link>.</p>
@@ -166,6 +154,11 @@ export const query = graphql`{
   evening: file(relativePath: {eq: "evening.jpg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  pb: file(relativePath: {eq: "philosophybreak.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 22, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
 }

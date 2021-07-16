@@ -34,7 +34,6 @@ const ArticlePost = ({ data, location }) => {
         className="title-img"
         alt={post.frontmatter.imageAlt} />
       <div className="darkener"></div>
-      {/*react spring fade in*/}
       <div className="page-center title-center mid-width">
         <h1>{post.frontmatter.title}</h1>
         <div className="separator"></div>       

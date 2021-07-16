@@ -407,6 +407,7 @@ div.title-center {position: absolute; left: 0; right: 0;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
 div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+.title.no-author div.title-center .description {margin-bottom: 0;}
 .time {font-size: 12px; font-weight: 400;}
 .time svg, .time div {width: 18px; height: 18px; margin-right: 6px;}
 .time svg {vertical-align: bottom;}
@@ -433,6 +434,7 @@ svg.bounce {margin-right: 0;}
 }
 @media (min-width: 1020px) {
   .title div.title-center {bottom: 26px;}
+  .title.title.no-author div.title-center {bottom: 22px;}
 }
 
 /*reading list title*/
@@ -632,7 +634,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
 .big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text;
   background-clip: text; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
-  .big-letter.section-head {width: 100%; text-align: center; margin-bottom: 0.2em;}
+  .big-letter.section-head {width: 100%; margin-bottom: 0.2em;}
   /*.midblue-background .big-letter {background: linear-gradient(to right top, #020887, #38369A); color: transparent; -webkit-background-clip: text; background-clip: text;}*/
   @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     .big-letter {background: none; color: #36b4ff;}
