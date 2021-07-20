@@ -10,9 +10,12 @@ import Checkout from "../../components/checkout"
 import Reviews from "../../components/reviewsLBQ"
 
 const Page = ({ data, location }) => {
+    
+    const imagePath = getSrc(data.lbq)
+
     return (
     <>
-    <Seo title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." pathname={location.pathname} />
+    <Seo title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life's most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
         {/*page title*/}
@@ -189,6 +192,11 @@ const Page = ({ data, location }) => {
 }
 
 export const query = graphql`{
+  lbq: file(relativePath: {eq: "Lifes-Big-Questions-Course.jpg"}) {
+    childImageSharp {
+        gatsbyImageData(width: 1200, quality: 90, layout: CONSTRAINED)
+    }
+  }
   about: file(relativePath: {eq: "Chapter1-full.png"}) {
     childImageSharp {
       gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED, placeholder: BLURRED)

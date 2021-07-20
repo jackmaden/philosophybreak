@@ -16,7 +16,7 @@ import PanelLBQ from "../../components/panelLBQ"
 import MailchimpPopUp from "../../components/mailchimpPopUp"
 
 const Page = ({ data, location }) => {
-    const imagePath = getSrc(data.space)
+    const imagePath = getSrc(data.default)
 
     //change home page content based on time of day
     const myDate = new Date() //get device date
