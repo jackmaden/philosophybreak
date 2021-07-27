@@ -18,7 +18,7 @@ At least, that's what American neuroscientist and philosopher Sam Harris would t
 
 ![Sam Harris](./sam-harris.jpg "Sam Harris, giving a speech he couldn't say no to.")
 
-In his short but persuasive book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1451683405/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451683405&linkId=bc8e08d322a1e8e5bb7e110c533bff12">Free Will]</a>, Harris writes:
+In his short but persuasive book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1451683405/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451683405&linkId=bc8e08d322a1e8e5bb7e110c533bff12">Free Will</a>, Harris writes:
 
 >Free will _is_ an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have.
 

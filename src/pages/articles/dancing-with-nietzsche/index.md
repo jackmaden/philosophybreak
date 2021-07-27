@@ -38,7 +38,7 @@ So, the take-home message appears to read thus: just because you don’t underst
 
 Now, why is Nietzsche opining this kind of thought? The answer, in fact, might simply be: well, he's not — for it is unclear whether he actually directly wrote our quotation at all. Indeed, [a whole host of writers](https://quoteinvestigator.com/2012/06/05/dance-insane/) could lay claim to being its source.
 
-That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04">Thus Spoke Zarathustra]</a>:
+That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04">Thus Spoke Zarathustra</a>:
 
 >You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.
 
