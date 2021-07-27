@@ -38,7 +38,7 @@ So, the take-home message appears to read thus: just because you don’t underst
 
 Now, why is Nietzsche opining this kind of thought? The answer, in fact, might simply be: well, he's not — for it is unclear whether he actually directly wrote our quotation at all. Indeed, [a whole host of writers](https://quoteinvestigator.com/2012/06/05/dance-insane/) could lay claim to being its source.
 
-That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, [Thus Spoke Zarathustra](http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04):
+That it is widely thought to belong to Nietzsche, however, is justified in that the attitude it expresses signifies a recurring idea that permeates his work. This idea emerges when we pair our quotation with something that Nietzsche wrote in one of his last and most read writings, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=7eeb1d98e99338b5344b2c6e8eb04c04">Thus Spoke Zarathustra]</a>:
 
 >You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.
 
@@ -74,7 +74,7 @@ Living in an internet age in which mortal battles in online comments sections ra
 
 So, rather than dismiss as insane or stupid opinions that we can’t understand or that differ from our own dogmatic agendas, if we were to consider and combine our subjective perspectives in a rational and thoughtful way — a way that lent sufficient weight to evidence-based approaches, of course — then perhaps, as well as learn something new, we might all get along a bit better, too.
 
-Let's conclude this brief discussion on perspectivism with some final words from our main man Nietzsche, taken from arguably his masterwork, [On the Genealogy of Morals](http://www.amazon.com/gp/product/0199537089/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199537089&linkId=3c9dcd07416124082b4457889629bea5): 
+Let's conclude this brief discussion on perspectivism with some final words from our main man Nietzsche, taken from arguably his masterwork, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199537089/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199537089&linkId=3c9dcd07416124082b4457889629bea5">On the Genealogy of Morals</a>: 
 
 >And as to whether these fruits of ours are to _your_ taste? But what is that to the trees!
 

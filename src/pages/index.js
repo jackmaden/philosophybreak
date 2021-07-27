@@ -44,7 +44,8 @@ const Page = ( {data} ) => {
           <div className="page-center">  
             <h1 id="home-page">{greet}</h1>
             <div className="separator"></div>
-            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Take a <Link to="/articles/">quick philosophy break</Link> now, or explore our <Link to="/reading-lists/">reading lists</Link> and <Link to="/lifes-big-questions/">introductory course</Link>.</p>
+            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Take a <Link to="/articles/">quick philosophy break</Link> now, or enroll in our <Link to="/lifes-big-questions/">5-day introduction to philosophy course</Link>.</p>
+            <p id="home-buttons"><Link className="button secondary" to="/articles/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Take a Quick Break</Link><Link className="button primary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>Enroll in 5-Day Course</Link></p>
           </div>
         </div>
 
@@ -110,6 +111,28 @@ const Page = ( {data} ) => {
                     </div>
                 </Link>
             </div>
+
+            {/* 6th ARTICLE */ }
+            <div className="article home">
+                <Link to="/articles/socratic-method-what-is-it-how-can-you-use-it/">
+                  <GatsbyImage image={data.socrates.childImageSharp.gatsbyImageData} alt="René Descartes" />
+                    <div className="article-info">
+                      <h2>Socratic Method: What Is It and How Can You Use It?</h2>
+                      <p className="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"/></svg>7 MIN BREAK</p>
+                    </div>
+                </Link>
+            </div>
+
+            {/* 7th ARTICLE */ }
+            <div className="article home">
+                <Link to="/articles/is-the-world-around-us-real/">
+                  <GatsbyImage image={data.real.childImageSharp.gatsbyImageData} alt="René Descartes" />
+                    <div className="article-info">
+                      <h2>Is the World Around Us ‘Real’?</h2>
+                      <p className="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"/></svg>4 MIN BREAK</p>
+                    </div>
+                </Link>
+            </div>
           
           </div>
         </div>
@@ -159,6 +182,16 @@ export const query = graphql`{
     }
   }
   introduction: file(relativePath: {eq: "introduction.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 300, height: 300, layout: CONSTRAINED)
+    }
+  }
+  socrates: file(relativePath: {eq: "death-of-socrates.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 300, height: 300, layout: CONSTRAINED)
+    }
+  }
+  real: file(relativePath: {eq: "is-the-world-real.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 300, height: 300, layout: CONSTRAINED)
     }

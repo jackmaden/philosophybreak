@@ -12,7 +12,7 @@ authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">A</span>re you busy today? On your feet? Rushing between appointments? Having no time is a symptom typical of modern life — and busyness is often worn as a badge of honor. Danish philosopher Søren Kierkegaard (1813 - 1855), however, saw busyness as nothing more than a ridiculous vice. 
 
-In his hyper-intelligent 1843 treatise [Either/Or: A Fragment of Life](http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a), Kierkegaard writes:
+In his hyper-intelligent 1843 treatise <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>, Kierkegaard writes:
 
 >Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
 
@@ -30,7 +30,7 @@ Everything matters but nothing matters: busy people are thus ridiculous.
 
 And when it comes to the end of a long day, contemplating who you are and what your life is for may not be at the top of your to-do list. Much better to wind down and relax with some TV. 
 
-But here we must remember Kierkegaard’s diagnosis of 'the unhappy person', which comes in a later chapter of [Either/Or: A Fragment of Life](http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a):
+But here we must remember Kierkegaard’s diagnosis of 'the unhappy person', which comes in a later chapter of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>:
 
 >The unhappy person is one who has his ideal, the content of his life, the fullness of his consciousness, the essence of his being, in some manner outside of himself. The unhappy man is always absent from himself, never present to himself.
 
@@ -42,7 +42,7 @@ So: who are you and what is your life for?
 
 ## Further reading
 
-<span class="big-letter">I</span>f you’re looking to explore Kierkegaard further, [Either/Or: A Fragment of Life](http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a) is a brilliant place to start. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm. 
+<span class="big-letter">I</span>f you’re looking to explore Kierkegaard further, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a> is a brilliant place to start. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm. 
 
 Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from these two seemingly irreconcilable perspectives. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
 

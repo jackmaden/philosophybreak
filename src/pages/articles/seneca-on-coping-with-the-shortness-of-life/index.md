@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
 
-<span class="big-letter">I</span>n his brilliant 49 AD essay [On the Shortness of Life](http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae), Roman Stoic philosopher Seneca addresses his father-in-law, Paulinus, about the seemingly universal human complaint regarding the shortness of life: we are born, our existences rush swiftly by, and before we know it, we die. 
+<span class="big-letter">I</span>n his brilliant 49 AD essay <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae">On the Shortness of Life</a>, Roman Stoic philosopher Seneca addresses his father-in-law, Paulinus, about the seemingly universal human complaint regarding the shortness of life: we are born, our existences rush swiftly by, and before we know it, we die. 
 
 In the face of this certain fate, how can we shake off the pervasive suspicion that, however we end up living our brief lives, we’re not making the most of them? How can we keep existential frets and despairs at bay?
 
@@ -115,7 +115,7 @@ As Seneca reminds us:
 
 >You must not think a man has lived long because he has white hair and wrinkles: he has not lived long, just existed long. For suppose you should think that a man had had a long voyage who had been caught in a raging storm as he left harbour, and carried hither and thither and driven round and round in a circle by the rage of opposing winds? He did not have a long voyage, just a long tossing about.
 
-Seneca’s [On the Shortness of Life](http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae), though written almost 2,000 years ago, feels like it could have been written yesterday, so relevant is it to the same fears we live with today. Packed full of timeless wisdom about how to live a good life, it thoroughly rewards close reading. 
+Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae">On the Shortness of Life</a>, though written almost 2,000 years ago, feels like it could have been written yesterday, so relevant is it to the same fears we live with today. Packed full of timeless wisdom about how to live a good life, it thoroughly rewards close reading. 
 
 Do you agree with Seneca’s arguments throughout? Do you think he’s successful in remedying some of our concerns about the shortness of life? Is it entirely clear that Seneca’s solution — attending to the present and studying philosophy — will help us overcome our preoccupations? Should we only invest our time in ourselves? Is it misguided to dedicate our lives to something other than ourselves? Or do you think Seneca’s point is more about removing inauthentic or fleeting pursuits from our lives, and placing value on things that truly endure and matter instead?
 

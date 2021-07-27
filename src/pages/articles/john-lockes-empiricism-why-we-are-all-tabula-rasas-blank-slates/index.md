@@ -17,7 +17,7 @@ A philosopher who had particularly influential things to say about these questio
 
 ![John Locke](./johnlocke.jpg "John Locke, as perceived by your senses.")
 
-In his brilliant 1689 work [An Essay Concerning Human Understanding](http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51), Locke argues that, at birth, the mind is a _tabula rasa_ (a blank slate) that we fill with ‘ideas’ as we experience the world through the five senses. 
+In his brilliant 1689 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51">An Essay Concerning Human Understanding</a>, Locke argues that, at birth, the mind is a _tabula rasa_ (a blank slate) that we fill with ‘ideas’ as we experience the world through the five senses. 
 
 By ‘idea’, Locke means “whatsoever is the Object of the Understanding, when a person thinks.” In other words, an idea is anything you experience or reflect on — and Locke’s key point is we can only get such ‘ideas’ from the senses. 
 
@@ -43,7 +43,7 @@ Before Locke, it was not empiricist theories of knowledge but scholastic theorie
 
 <span class="big-letter">E</span>mpiricism and rationalism are essentially rival responses to the worry of _skepticism_. Skepticism in this context means finding the whole idea of human knowledge unconvincing, and being doubtful that we can really be said to know anything exists at all. 
 
-[Descartes himself outlines the skeptical position](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) very effectively in his wonderful 1641 work, [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124), where he worries he has no way of knowing if his experiences of the world are real, or the mere conjurings of an Evil Demon determined to delude and mislead him. 
+[Descartes himself outlines the skeptical position](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) very effectively in his wonderful 1641 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, where he worries he has no way of knowing if his experiences of the world are real, or the mere conjurings of an Evil Demon determined to delude and mislead him. 
 
 <div class="course-promo text-center">
     <h4>Is the World Around Us ‘Real’?</h4>
@@ -101,13 +101,13 @@ For example, if we can only measure the size of an object (one of its primary qu
 
 It seems we are led back to the skeptic’s chief concern: if all we have are mental events happening in our brain, and we can never directly access a ‘physical’ world, why assert the existence of such a world at all?  
 
-Locke, of course, has responses to these concerns, and dedicates significant space to addressing them in [An Essay Concerning Human Understanding](http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51). The success of his arguments has since been intensively discussed by Leibniz, Berkeley, Hume, Kant, and many more great thinkers influenced and stimulated by his work. 
+Locke, of course, has responses to these concerns, and dedicates significant space to addressing them in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51">An Essay Concerning Human Understanding</a>. The success of his arguments has since been intensively discussed by Leibniz, Berkeley, Hume, Kant, and many more great thinkers influenced and stimulated by his work. 
 
 ## Where does Locke’s empiricism leave us?
 
 <span class="big-letter">T</span>he extent to which Locke’s views align with the common sense of today is testament to the enduring influence his empiricism has had on Western thought. His arguments resonated with a lot of thinkers at the time, and challenged rationalism as the dominant approach to epistemology and answering the problem of skepticism. 
 
-As late philosopher Bryan Magee summarizes Locke’s legacy in his philosophical memoirs, [Confessions of a Philosopher](http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368):
+As late philosopher Bryan Magee summarizes Locke’s legacy in his philosophical memoirs, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368">Confessions of a Philosopher</a>:
 
 >If Locke has come to be thought of as something of a plain, commonsensical thinker, perhaps even a bit pedestrian, it is because what he had to say has become so familiar that it may be in danger of seeming obvious to us now; but the truth is that when he put it forward it was profoundly original, and not obvious at all. The fact that it can seem obvious now is a measure of his influence. Indeed, it could be seriously argued that he is the most influential philosopher since Aristotle. 
 

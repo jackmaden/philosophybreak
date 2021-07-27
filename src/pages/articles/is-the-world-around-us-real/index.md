@@ -46,7 +46,7 @@ Or is there _always_ room for skepticism?
 
 ![Descartes](./descartes.jpg "René Descartes, as he appears to your brain.")
 
-Descartes sets out on his search for certainty in his celebrated 1641 philosophical classic, [Meditations on First Philosophy](http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124) — but unfortunately it’s not long before, well, he struggles to find it _anywhere._ 
+Descartes sets out on his search for certainty in his celebrated 1641 philosophical classic, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — but unfortunately it’s not long before, well, he struggles to find it _anywhere._ 
 
 When you think about it, everything you encounter in life happens inside your brain. Everything is constituted by _your_ experiences, thoughts, feelings, and sense impressions. The feeling of the floor beneath your feet, that itch you get on your arm — even that cloud you watch moving through the sky: this is all just sensory information processed by your brain. 
 

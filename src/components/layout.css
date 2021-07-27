@@ -180,7 +180,7 @@ a.button.secondary {color: #001d30; font-weight: 500;}
 div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em;}
 
 /***secondary page top title***/
-.top-title {padding-top: 96px; margin-bottom: 32px; position: relative;}
+.top-title {padding-top: 106px; margin-bottom: 32px; position: relative;}
 .top-title.home {padding-bottom: 32px; margin-bottom: 0;}
 .top-title.home p.large-grey-font {margin-bottom: 0;}
 .top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
@@ -318,6 +318,10 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 .featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
 .featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .featured-image-full div.page-center p {font-size: 16px;}
+p#home-buttons {margin-bottom: 0.5em;}
+p#home-buttons a {width: 100%; box-sizing: border-box;}
+p#home-buttons a.secondary:active, p#home-buttons a.secondary:hover {-webkit-filter: brightness(1.2); filter: brightness(1.2); background: #fff; color: #001d30;}
+p#home-buttons a.secondary:active svg, p#home-buttons a.secondary:hover svg {fill: #36b4ff;}
 @media (min-width: 360px) {
   .featured-image-full div.page-center p {font-size: 18px;}
 }
@@ -328,6 +332,8 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   .featured-image-full div.page-center {left: 0; right: 0;}
   .featured-image-full div.page-center h4 {font-size: 36px;}
   .featured-image-full div.page-center p {font-size: 20px;}
+  p#home-buttons a {width: initial; box-sizing: border-box;}
+  p#home-buttons a.secondary {margin-right: 18px;}
 }
 @media (min-width: 1020px) {
   .home-svg svg {width: 100px; margin-bottom: 0.25em;}
@@ -503,7 +509,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .article:last-of-type {margin-bottom: 24px;}
 }
 
-/***article home***/
+/***article home (or now special as featured on /articles/ page) ***/
 .article.home:first-of-type {margin-top: 0;}
 .article.home:first-of-type a {flex-direction: column;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}

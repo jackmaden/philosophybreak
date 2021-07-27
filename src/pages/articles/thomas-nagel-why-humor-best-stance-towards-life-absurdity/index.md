@@ -68,9 +68,9 @@ In summary, then — yes, life is absurd. But hey! — it's interesting, and we 
 
 ## Further reading
 
-<span class="big-letter">I</span>f Nagel’s position on absurdity has stoked your amused fascination for life, his book [What Does It All Mean?](http://www.amazon.com/gp/product/0195052161/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195052161&linkId=37e9c1b9904009913b6ab114bca378f7) is his brilliant introduction to the questions that have occupied philosophers for millennia. 
+<span class="big-letter">I</span>f Nagel’s position on absurdity has stoked your amused fascination for life, his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0195052161/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195052161&linkId=37e9c1b9904009913b6ab114bca378f7">What Does It All Mean?</a> is his brilliant introduction to the questions that have occupied philosophers for millennia. 
 
-If you’re looking for something a bit more controversial, Nagel’s 2012 [Mind and Cosmos](https://www.amazon.com/gp/product/0199919755/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199919755&linkId=82242f05868bc9e83a2c9339323acda0) will provoke your thoughts on subjects ranging from evolution to the emergence of consciousness. Highly criticized when first published, Nagel’s book challenges the dominant materialist conception of the universe — and will challenge assumptions you may or may not be aware of making. 
+If you’re looking for something a bit more controversial, Nagel’s 2012 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0199919755/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199919755&linkId=82242f05868bc9e83a2c9339323acda0">Mind and Cosmos</a> will provoke your thoughts on subjects ranging from evolution to the emergence of consciousness. Highly criticized when first published, Nagel’s book challenges the dominant materialist conception of the universe — and will challenge assumptions you may or may not be aware of making. 
 
 If that doesn’t float your boat, check out our reading list of the most recommended introductory books to all things philosophy by hitting the banner below now. 
 

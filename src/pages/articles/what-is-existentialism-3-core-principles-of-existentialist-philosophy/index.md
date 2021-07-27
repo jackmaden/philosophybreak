@@ -31,7 +31,7 @@ Let's take a quick look at the cultural movement, before diving into the three k
 
 This tension is generally accompanied by the suspicion that, beyond the everyday, there lies a deeper human need that natural science and traditional religions have not been able to fulfill. As such, existentialist works commonly feature themes like dread, boredom, anxiety, alienation, the absurd, freedom, commitment, nothingness, and what it really means to be an embodied being in an apparently uncaring, unknowable universe.
 
-In this regard, Dostoevsky’s [Notes from the Underground](http://www.amazon.com/gp/product/067973452X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=067973452X&linkId=2a50a57b64e10025951baef7a6061f5a) and Kafka’s [The Trial](http://www.amazon.com/gp/product/0805209999/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0805209999&linkId=de194533fffd29a01939dff34c16581c) are classic examples of existentialist novels, and [the plays of Samuel Beckett](http://www.amazon.com/gp/product/0571229158/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0571229158&linkId=6be05873e4d375f03777771d71d116a5) and sculptures of Alberto Giacometti explore existentialist themes in fascinating, disturbing ways. 
+In this regard, Dostoevsky’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/067973452X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=067973452X&linkId=2a50a57b64e10025951baef7a6061f5a">Notes from the Underground</a> and Kafka’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0805209999/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0805209999&linkId=de194533fffd29a01939dff34c16581c">The Trial</a> are classic examples of existentialist novels, and <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0571229158/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0571229158&linkId=6be05873e4d375f03777771d71d116a5">the plays of Samuel Beckett</a> and sculptures of Alberto Giacometti explore existentialist themes in fascinating, disturbing ways. 
 
 ![Giacometti sculpture](./Giacometti.jpg "“Women of Venice (Femmes de Venise)”, 1956. Swiss artist Alberto Giacometti explored the human condition through his figurative sculpture.")
 
@@ -79,7 +79,7 @@ So, reclaiming the first-person perspective in all its immediacy and complexity 
 
 ## 2. Freedom
 
-<span class="big-letter">I</span>f the principle of phenomenology gave existentialism its basic shape — i.e. a technique for getting at how things _really are_, for going behind the stale categorizations of common sense and natural science to describe human existence for what it really is — then the principle of _freedom_ gave existentialism its founding value. As contemporary philosopher Jonathan Webber argues in his 2018 work, [Rethinking Existentialism](http://www.amazon.com/gp/product/0198866763/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0198866763&linkId=20ef2ccc8c2cda700f9482b060858b4e):
+<span class="big-letter">I</span>f the principle of phenomenology gave existentialism its basic shape — i.e. a technique for getting at how things _really are_, for going behind the stale categorizations of common sense and natural science to describe human existence for what it really is — then the principle of _freedom_ gave existentialism its founding value. As contemporary philosopher Jonathan Webber argues in his 2018 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0198866763/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0198866763&linkId=20ef2ccc8c2cda700f9482b060858b4e">Rethinking Existentialism</a>:
 
 >As originally defined by Simone de Beauvoir and Jean-Paul Sartre, existentialism is the ethical theory that we ought to treat the freedom at the core of human existence as intrinsically valuable and the foundation of all other values.
 
@@ -91,7 +91,7 @@ The upshot of this is that, on the existentialist view, we bear total responsibi
 
 But for the existentialists, in a universe apparently devoid of direction, purpose, or meaning, this dizzying freedom is the source of much of our anxiety — leading Sartre to assert that we are in fact ‘condemned’ to be free. 
 
-Kierkegaard summarizes this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, [The Concept of Anxiety](http://www.amazon.com/gp/product/1631490044/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1631490044&linkId=ebd6d73fad16fc954157a2aa8a0163eb):
+Kierkegaard summarizes this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1631490044/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1631490044&linkId=ebd6d73fad16fc954157a2aa8a0163eb">The Concept of Anxiety</a>:
 
 >Anxiety may be compared with dizziness. He whose eye happens to look down the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eye as in the abyss, for suppose he had not looked down. Hence, anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself. 
 
@@ -104,7 +104,7 @@ To overcome the anxiety and alienation that a recognition of our ultimate freedo
 
 As Webber puts it, the existentialism of Sartre and de Beauvoir begins with “eudaimonist arguments for the virtue of authenticity” and finally affirms “a categorical moral imperative of authenticity”.
 
-Yale professor Noreen Khawaja, meanwhile, in her work [The Religion of Existence](http://www.amazon.com/gp/product/B01NBG611K/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NBG611K&linkId=38cffdee0e816a693095289fae1d474a) confirms that “the idea of personal authenticity [is] at the center of existential thought.”
+Yale professor Noreen Khawaja, meanwhile, in her work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/B01NBG611K/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NBG611K&linkId=38cffdee0e816a693095289fae1d474a">The Religion of Existence</a> confirms that “the idea of personal authenticity [is] at the center of existential thought.”
 
 ## Where does existentialism leave us?
 

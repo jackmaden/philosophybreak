@@ -13,7 +13,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">S</span>ocrates is philosophy’s martyr. Sentenced to death in 399BC Athens for ‘corrupting the minds of the youth,’ Socrates never wrote anything down. We know of his era-defining thinking only through the writings of his contemporaries, particularly his student Plato. ⁣
 
-[Plato’s Socratic dialogues](http://www.amazon.com/gp/search?ie=UTF8&tag=philosophybre-20&linkCode=ur2&linkId=d76afcbb3930456671a7e40bb4bf0372&camp=1789&creative=9325&index=books&keywords=plato) — some of the most wonderful works in the history of philosophy — feature Socrates in lively conversation on a wide range of subjects, from justice and virtue to art and politics. The central theme in Socrates's thinking, however, concerned the nature of knowledge — specifically, on how none of us really have any. As a statement often attributed to Socrates puts it:
+<a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/search?ie=UTF8&tag=philosophybre-20&linkCode=ur2&linkId=d76afcbb3930456671a7e40bb4bf0372&camp=1789&creative=9325&index=books&keywords=plato">Plato’s Socratic dialogues</a> — some of the most wonderful works in the history of philosophy — feature Socrates in lively conversation on a wide range of subjects, from justice and virtue to art and politics. The central theme in Socrates's thinking, however, concerned the nature of knowledge — specifically, on how none of us really have any. As a statement often attributed to Socrates puts it:
 
 >True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.⁣
 
@@ -27,7 +27,7 @@ A more straightforward way to think about the Socratic method is to imagine a re
 
 ![socrates](./socrates.jpg "Imagine this man endlessly berating every claim you make.")
 
-By using his method of bottomless questioning, Socrates soon discovered that, in fact, nobody really knew anything about anything they claimed to know — be it on art, ethics, politics, justice, the self, or the true nature of the world around us. He thus concludes, as reported in [Plato's Apology](http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863), that the Oracle of Delphi may have been right in her judgement of his wisdom:⁣
+By using his method of bottomless questioning, Socrates soon discovered that, in fact, nobody really knew anything about anything they claimed to know — be it on art, ethics, politics, justice, the self, or the true nature of the world around us. He thus concludes, as reported in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">Plato's Apology</a>, that the Oracle of Delphi may have been right in her judgement of his wisdom:⁣
 
 >For my part, as I went away, I reasoned with regard to myself: I am wiser than this human being. For probably neither of us knows anything noble and good, but he supposes he knows something when he does not know, while I, just as I do not know, do not even suppose that I do. I am likely to be a little bit wiser than he in this very thing: that whatever I do not know, I do not even suppose I know.⁣
 
@@ -35,7 +35,7 @@ In other words, Socrates believes himself to be wiser than those he speaks to be
 
 >I know that I know nothing.⁣
 
-Known as the Socratic paradox, this phrase is not one that Socrates is recorded as saying, but thought to be derived from the passage in [Plato's Apology](http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863) outlined above. 
+Known as the Socratic paradox, this phrase is not one that Socrates is recorded as saying, but thought to be derived from the passage in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">Plato's Apology</a> outlined above. 
 
 Regardless, it's a significant statement for [epistemology, the branch of philosophy concerned with the theory of knowledge](/reading-lists/epistemology/). Socrates's discussions over two thousand years ago set in motion the profound doubting, the uncertainty as to what we can know — the uncertainty as to whether the foundations for human knowledge ultimately rest on anything other than tradition and custom — that came to the fore with [17th-century philosopher René Descartes's famous _cogito ergo sum_](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained). 
 
@@ -43,9 +43,9 @@ Regardless, it's a significant statement for [epistemology, the branch of philos
 
 <span class="big-letter">S</span>ocrates’s failure to find anyone wiser than himself, though perhaps noble in its pursuit of knowledge, made a lot of powerful people in Athens look very foolish. Death is a harsh punishment, but it is perhaps not surprising that authority figures wanted Socrates silenced.
 
-Plato’s [The Last Days of Socrates](http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863), which includes dialogues covering Socrates’s imprisonment, trial, and death, reveals how Socrates went on annoying his accusers until the very end, with wonderful expositions on justice, piety, and the value of questioning what we know. 
+Plato’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">The Last Days of Socrates</a>, which includes dialogues covering Socrates’s imprisonment, trial, and death, reveals how Socrates went on annoying his accusers until the very end, with wonderful expositions on justice, piety, and the value of questioning what we know. 
 
-Blackson's [Ancient Greek Philosophy](http://www.amazon.com/gp/product/1444335731/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1444335731&linkCode=as2&tag=philosophybre-20&linkId=f4805b14f023c0d6963bc982b21c14ce), meanwhile, brilliantly contextualizes Socrates by analyzing the philosophers who came before, during, and after: it's essential reading for anyone interested in Ancient Greek philosophy.
+Blackson's <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1444335731/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1444335731&linkCode=as2&tag=philosophybre-20&linkId=f4805b14f023c0d6963bc982b21c14ce">Ancient Greek Philosophy</a>, meanwhile, brilliantly contextualizes Socrates by analyzing the philosophers who came before, during, and after: it's essential reading for anyone interested in Ancient Greek philosophy.
 
 Everything we know about Socrates, depicted as he is through the writings of others, must be taken with a pinch of salt. Nonetheless, his legacy as the brilliant martyr of philosophy remains secure, decorated by an epitaph of his own making: 
 

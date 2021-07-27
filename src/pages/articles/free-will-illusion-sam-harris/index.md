@@ -18,7 +18,7 @@ At least, that's what American neuroscientist and philosopher Sam Harris would t
 
 ![Sam Harris](./sam-harris.jpg "Sam Harris, giving a speech he couldn't say no to.")
 
-In his short but persuasive book, [Free Will](http://www.amazon.com/gp/product/1451683405/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451683405&linkId=bc8e08d322a1e8e5bb7e110c533bff12), Harris writes:
+In his short but persuasive book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1451683405/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451683405&linkId=bc8e08d322a1e8e5bb7e110c533bff12">Free Will]</a>, Harris writes:
 
 >Free will _is_ an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have.
 
@@ -63,7 +63,7 @@ You might think, ‘I am _consciously deciding_ to read this article, and if you
     <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
 </div>
 
-Discussing a full summary of compatibilist positions on free will is beyond the scope of this article (for more here, check out our comprehensive [reading list on free will](/reading-lists/free-will/)) — but one that Harris himself engages, albeit rather lightly, is a view [well-articulated by American philosopher Daniel Dennett](http://www.amazon.com/gp/product/0262527790/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262527790&linkCode=as2&tag=philosophybre-20&linkId=795cd4ce217c26f227723f6493490159).
+Discussing a full summary of compatibilist positions on free will is beyond the scope of this article (for more here, check out our comprehensive [reading list on free will](/reading-lists/free-will/)) — but one that Harris himself engages, albeit rather lightly, is a view <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0262527790/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262527790&linkCode=as2&tag=philosophybre-20&linkId=795cd4ce217c26f227723f6493490159">well-articulated by American philosopher Daniel Dennett</a>.
 
 Dennett argues that even if some of our thoughts and actions are the product of unconscious causes, they are still _ours_. Anything that our brains do or decide is something _we_ have done or decided. All Harris has done in his analysis is drive a wedge between our conscious and unconscious selves: we are still free to consciously shape our worlds — and so influence our unconscious — however we desire.
 

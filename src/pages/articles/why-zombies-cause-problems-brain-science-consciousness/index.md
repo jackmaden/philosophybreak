@@ -28,7 +28,7 @@ If you punch your zombie twin they’ll wince or cry out, the c-fibres in their 
 
 ![David J. Chalmers consciousness](./davidjchalmers.jpg "David J. Chalmers: the bad boy rock star of the consciousness world.")
 
-In his book [The Conscious Mind](http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195117891&linkId=17c460a9634b6fbce9ec8a22d88884e9), Chalmers argues that if describing brain activity was sufficient for providing a complete explanation of consciousness, then zombies would be inconceivable. The idea of them would make no sense to us, because it would be impossible to think about brain processes and their corresponding experiences coming apart — even conceptually.
+In his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195117891&linkId=17c460a9634b6fbce9ec8a22d88884e9">The Conscious Mind</a>, Chalmers argues that if describing brain activity was sufficient for providing a complete explanation of consciousness, then zombies would be inconceivable. The idea of them would make no sense to us, because it would be impossible to think about brain processes and their corresponding experiences coming apart — even conceptually.
 
 So, that zombies _are_ conceivable is a big deal. It indicates that understanding brain activity brings us no closer to understanding how or why consciousness emerges the way it does. 
 

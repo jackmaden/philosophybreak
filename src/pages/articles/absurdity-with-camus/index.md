@@ -20,7 +20,7 @@ Or are they? Indeed, 20th-century French thinker Albert Camus believed the myth 
 
 ![Albert Camus](./albertcamus.jpg "Albert Camus, as cool as they come.")
 
-“The workman of today,” Camus writes in his mind-bending book [The Myth of Sisyphus](http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb), “works every day in his life at the same tasks, and this fate is no less absurd [than Sisyphus's].”
+“The workman of today,” Camus writes in his mind-bending book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb">The Myth of Sisyphus</a>, “works every day in his life at the same tasks, and this fate is no less absurd [than Sisyphus's].”
 
 We wake up, we toil, we sleep; we wake up, we toil, we sleep; we push the boulder up, it rolls back down, we start again. And this cyclical mundanity points to the fundamental absurdity of the human condition: all this time we thought we were making progress — we're all just Sisyphus, each with our own boulders to bear. 
 
@@ -60,7 +60,7 @@ So far, so bleak — pointlessness, futility, suicide… On Camus’s view the a
 
 Camus argues that Sisyphus is demonstrative of the fact that we can live “with the certainty of a crushing fate, _without the resignation that ought to accompany it_.” Sisyphus shows us strength and resilience in the face of absurdity: he “knows himself to be the master of his days.”
 
-![Sisyphus](./Sisyphus.jpg "Go on son!")
+![Sisyphus](./Sisyphus.jpg "Go on Sisyphus!")
 
 After the rock tumbles down — confirming the ultimate futility of his project — Sisyphus marches down after it. _This_, thinks Camus, is the moment Sisyphus's absurd fate is wholly laid bare, and where he attains full tragic consciousness.  
 
@@ -72,7 +72,7 @@ Just as Sisyphus _chooses_ to march down after his rock, thereby accepting the f
 
 Ultimately, then, while Camus believes we are condemned to absurdity by the human condition, his point is that that's not necessarily a bad thing — in fact it's only by confronting this absurdity and heroically carrying on in spite of it that a truly authentic life can be lived.
 
-Indeed, as Camus concludes [The Myth of Sisyphus](http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb):
+Indeed, as Camus concludes <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb">The Myth of Sisyphus</a>:
 
 >The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
 

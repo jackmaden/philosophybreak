@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher Hannah Arendt throughout her life and work, and in her final (and unfinished) 1977 book [The Life of the Mind](http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3), she seems to offer a conclusion, writing: 
+<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher Hannah Arendt throughout her life and work, and in her final (and unfinished) 1977 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3">The Life of the Mind</a>, she seems to offer a conclusion, writing: 
 
 >The sad truth is that most evil is done by people who never make up their minds to be good or evil.
 
@@ -18,7 +18,7 @@ Indeed, Arendt was a German philosopher and political theorist who saw the techn
 
 Born into a secular-Jewish family, Arendt fled Nazi Germany in the 1930s, eventually settling in New York, where after the war she covered the trial of Nazi war criminal Adolf Eichmann.
 
-In her report for The New Yorker, and later published in her 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6), Arendt expressed how disturbed she was by Eichmann — but for reasons that might not be expected.
+In her report for The New Yorker, and later published in her 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a>, Arendt expressed how disturbed she was by Eichmann — but for reasons that might not be expected.
 
 Far from the monster she thought he’d be, Eichmann was instead a rather bland, “terrifyingly normal” bureaucrat. He carried out his murderous role with calm efficiency not due to an abhorrent, warped mindset, but because he’d absorbed the principles of the Nazi regime so unquestionably, he simply wanted to further his career and climb its ladders of power. 
 
@@ -48,7 +48,7 @@ Can you think of anything you’re desensitized to today?
 
 ## Standing up to evil’s banality
 
-<span class="big-letter">A</span>rendt’s 1963 book [Eichmann in Jerusalem: A Report on the Banality of Evil](http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6) remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
+<span class="big-letter">A</span>rendt’s 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a> remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
 
 In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of information, custom, and circumstance the world throws at us. It's not easy, but by practicing philosophy, we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
 
