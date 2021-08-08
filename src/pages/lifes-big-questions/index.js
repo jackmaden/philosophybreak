@@ -23,9 +23,9 @@ const Page = ({ data, location }) => {
             <div className="two-col page-center">
                 <div>
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
-                    <h1>5-Day Introduction to Philosophy Course: Life's Big Questions</h1>
-                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(21 reviews)</AnchorLink></p>
-                    <p className="verified discount">20% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$29.00 USD</span>&nbsp;&nbsp;<span>$23.20 USD</span></h5>
+                    <h1>5-Day Introduction to Philosophy Course: Life’s Big Questions</h1>
+                    <p style={{marginBottom: 0}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(23 reviews)</AnchorLink></p>
+                    <h5>$29.00 USD</h5>
                     <p className="spectral">Learn thousands of years of philosophy in just five days. This introductory course distills what the great philosophers have said about how we should live, whether we have free will, if perception is reality, and why anything exists.</p>
                     <Checkout />
                     <AnchorLink className="no-hover" href="#look-inside"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>Look Inside</button></AnchorLink>
@@ -40,20 +40,26 @@ const Page = ({ data, location }) => {
         <div id="look-inside"  className="small-pad darkradial-background">
             <div className="page-center">
                 <h2 className="text-center">What you get:</h2>
-                <div className="three-col">
-                    <div className="small-mar">
-                        
-                        <p className="small-grey-font"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#36b4ff" d="M552 64H112c-20.858 0-38.643 13.377-45.248 32H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h496c13.255 0 24-10.745 24-24V88c0-13.255-10.745-24-24-24zM48 392V144h16v248c0 4.411-3.589 8-8 8s-8-3.589-8-8zm480 8H111.422c.374-2.614.578-5.283.578-8V112h416v288zM172 280h136c6.627 0 12-5.373 12-12v-96c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v96c0 6.627 5.373 12 12 12zm28-80h80v40h-80v-40zm-40 140v-24c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zm192 0v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0-144v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0 72v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12z"/></svg>Five concise overviews (each 30-40 min reads) distilling thousands of years of wisdom into accessible daily chunks</p>
+                <div className="four-col small-pad">
+                    <div className="small-mar-top">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
+                        <p className="small-grey-font">Crystal clear insight into how the great philosophers have answered life's big questions.</p>
                     </div>
                     <div className="small-mar">
-                        <p className="small-grey-font"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path fill="#36b4ff" d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>Five guided reflections and curated reading lists for effective and efficient learning on all topics covered</p>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 concise overviews</h5>
+                        <p className="small-grey-font">One primer (30-40 min read) for each core topic, distilling millennia of wisdom.</p>
+                    </div>
+                    <div className="small-mar">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 guided reflections</h5>
+                        <p className="small-grey-font">Five sets of questions and reflections to round out each day's philosophizing.</p>
                     </div>
                     <div className="small-mar-top">
-                        <p className="small-grey-font"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="#36b4ff" d="M176 80c-52.94 0-96 43.06-96 96 0 8.84 7.16 16 16 16s16-7.16 16-16c0-35.3 28.72-64 64-64 8.84 0 16-7.16 16-16s-7.16-16-16-16zM96.06 459.17c0 3.15.93 6.22 2.68 8.84l24.51 36.84c2.97 4.46 7.97 7.14 13.32 7.14h78.85c5.36 0 10.36-2.68 13.32-7.14l24.51-36.84c1.74-2.62 2.67-5.7 2.68-8.84l.05-43.18H96.02l.04 43.18zM176 0C73.72 0 0 82.97 0 176c0 44.37 16.45 84.85 43.56 115.78 16.64 18.99 42.74 58.8 52.42 92.16v.06h48v-.12c-.01-4.77-.72-9.51-2.15-14.07-5.59-17.81-22.82-64.77-62.17-109.67-20.54-23.43-31.52-53.15-31.61-84.14-.2-73.64 59.67-128 127.95-128 70.58 0 128 57.42 128 128 0 30.97-11.24 60.85-31.65 84.14-39.11 44.61-56.42 91.47-62.1 109.46a47.507 47.507 0 0 0-2.22 14.3v.1h48v-.05c9.68-33.37 35.78-73.18 52.42-92.16C335.55 260.85 352 220.37 352 176 352 78.8 273.2 0 176 0z"/></svg>20,000+ words of crystal clear insight into how the great philosophers have answered life's big questions</p>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 reading lists</h5>
+                        <p className="small-grey-font">Five curated reading lists for efficient further exploration of each topic covered.</p>
                     </div>
                 </div>
             </div>
-            <div className="mid-mar">
+            <div className="small-mar">
                 <div className="two-col big-2-col page-center row-reverse">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Why Does Anything Exist?</span></h3>
@@ -66,7 +72,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="mid-mar">
+            <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">2</span><span>Is the World Around Us ‘Real’?</span></h3>
@@ -79,7 +85,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="mid-mar">
+            <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">3</span><span>What Makes Us Conscious?</span></h3>
@@ -92,7 +98,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="mid-mar">
+            <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Do We Have Free Will?</span></h3>
@@ -105,7 +111,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="mid-mar">
+            <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">5</span><span>How Should We Approach Life?</span></h3>

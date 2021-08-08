@@ -19,7 +19,7 @@ const Checkout = () => {
     const stripe = await getStripe()
     const { error } = await stripe.redirectToCheckout({
       mode: "payment",
-      lineItems: [{ price: "price_1IcFJJI0AQnkYq2qepUE1hom", quantity: 1 }],
+      lineItems: [{ price: "price_1INKeTI0AQnkYq2qmrUl2xyB", quantity: 1 }],
       successUrl: `https://philosophybreak.com/thank-you-lifes-big-questions/`,
       cancelUrl: `https://philosophybreak.com/lifes-big-questions/`,
     })

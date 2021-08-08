@@ -34,6 +34,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .small-pad {padding: 24px 0;}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
+.tiny-pad-bottom {padding-bottom: 12px;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
 .tiny-mar-bottom {margin-bottom: 12px;}
@@ -46,6 +47,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .large-pad-bottom {padding-bottom: 64px;}
 .large-pad-top {padding-top: 64px;}
 .large-mar {margin: 64px 0;}
+.no-mar {margin: 0;}
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
@@ -53,13 +55,11 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .small-grey-font a {color: #001d30;}
 .darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
-p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .three-col div p.small-grey-font {font-size: 16px;} /*smaller font size on LP*/
-.three-col div p.small-grey-font span.big-letter {font-size: 60px;}
-.three-col div svg {width: 35px; height: 35px; float: left; margin: 10px 15px 10px 0;}
+p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 16px;} /*smaller font size on LP*/
 .flex-end {display: flex; align-items: flex-end;}
 .fade-out {position: absolute; bottom: 0; width: 100%; height: 250px; background-image: linear-gradient(to bottom, transparent, rgba(255,255,255,1));}
 @media (min-width: 620px) {
-  p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .three-col div p.small-grey-font {font-size: 18px;}
+  p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
   .small-grey-font, .large-grey-font {font-size: 20px;}
   .mid-width {width: 600px; margin-left: auto; margin-right: auto;}
   .small-width {width: 400px; margin-left: auto; margin-right: auto;}
@@ -69,14 +69,14 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 48px;}
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
-  .two-col, .three-col {display: flex; justify-content: space-between; align-items: center;}
+  .two-col, .four-col {display: flex; justify-content: space-between; align-items: center;}
   .two-col > div {width: 46%;}
   .two-col div div.gatsby-image-wrapper {width: 100%;}
   .two-col.row-reverse {flex-direction: row-reverse;}
   .two-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
-  .three-col > div {width: 31%;}
+  .four-col > div {width: 22.5%;}
 }
 @media (min-width: 1500px) {
   .large-pad {padding: 80px 0;}
@@ -185,13 +185,14 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 .top-title.home p.large-grey-font {margin-bottom: 0;}
 .top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
 .top-title.home p.large-grey-font a:hover {color: #fff;}
-.top-title.darkradial-background {margin-bottom: 0; padding-bottom: 48px;}
+.top-title.darkradial-background {margin-bottom: 0; padding-bottom: 24px;}
 .top-title.darkblue-background h1, .top-title.darkblue-background p {color: #fff;}
 
 @media (min-width: 1020px) {
   .top-title.home p.mid-width {width: 720px;}
   .top-title {margin-bottom: 24px;}
   .top-title.home {padding-bottom: 24px; margin-bottom: 0;}
+  .top-title.darkradial-background {padding-bottom: 48px;}
 }
 
 /***nav***/

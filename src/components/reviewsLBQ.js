@@ -8,9 +8,21 @@ export default function Reviews() {
     }
     
     return (
-        <div className="darkradial-background small-pad" id="reviews">
+        <div className="darkradial-background mid-pad" id="reviews">
             <div className="page-center">
-                <h2>21 Course Reviews</h2>
+                <h2>23 Course Reviews</h2>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Awesome</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Great content. Receiving one chapter each day is awesome. As someone who is not a native English speaker, I found the content easy to grasp which is something I really appreciate. The first and second chapters were my favorite because they discuss the most fundamental questions humans can ask, but all of the chapters were extremely interesting.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Ahmed K. on 2 August 2021</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Perfect difficulty level</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very good. Very well-written. Difficulty of the content is perfect for someone who might not be too familiar with philosophy so that is great too. Thank you!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jonathon B. on 27 July 2021</span></div>
+                    </div>
+                </div>
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great job to everybody involved</i></span></p>
@@ -47,21 +59,22 @@ export default function Reviews() {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Carrie W. on 9 May 2021</span></div>
                     </div>
                 </div>
-                <div className="two-col align-top">
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Powerful - learned a great deal</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Really concise and effective. Powerful, actually - I learned a great deal. Loved the daily chapters, materials displayed really well. I really enjoyed this introduction to philosophy and would definitely want to take another of your courses.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mart W. on 25 April 2021</span></div>
-                    </div>
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Comprehensive and engaging</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>I found this a very comprehensive introduction to philosophy, and it really left no question unanswered or deliberated, but was very engaging to consume - thanks! I'll definitely be recommending it.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Josh B. on 19 April 2021</span></div>
-                    </div>
-                </div>
+                
                 
                 {/*load more reviews*/}
                 <div id="load-more" className={isActive ? null : "show"}>
+                    <div className="two-col align-top">
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Powerful - learned a great deal</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Really concise and effective. Powerful, actually - I learned a great deal. Loved the daily chapters, materials displayed really well. I really enjoyed this introduction to philosophy and would definitely want to take another of your courses.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mart W. on 25 April 2021</span></div>
+                        </div>
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Comprehensive and engaging</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>I found this a very comprehensive introduction to philosophy, and it really left no question unanswered or deliberated, but was very engaging to consume - thanks! I'll definitely be recommending it.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Josh B. on 19 April 2021</span></div>
+                        </div>
+                    </div>
                     <div className="two-col align-top">
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffe636"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Just what I was looking for</i></span></p>
