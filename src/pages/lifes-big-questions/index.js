@@ -32,14 +32,14 @@ const Page = ({ data, location }) => {
                 </div>
                 <div>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life's Big Questions" />
-                    <p className="small-grey-font smaller text-center"><i>Course materials are delivered direct to your inbox over five days, and accessible forever from any device.</i></p>
+                    <p className="small-grey-font smaller text-center"><i>Course materials are delivered direct to your inbox over 5 days, and accessible forever from any device.</i></p>
                 </div>
             </div>
         </div>
         {/*Chapters*/}
         <div id="look-inside"  className="small-pad darkradial-background">
             <div className="page-center">
-                <h2 className="text-center">What you get:</h2>
+                <h2 className="text-center">Delivered Direct to Your Inbox Over 5 Days:</h2>
                 <div className="four-col small-pad">
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
@@ -47,7 +47,7 @@ const Page = ({ data, location }) => {
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 concise overviews</h5>
-                        <p className="small-grey-font">One primer (30-40 min read) for each core topic, distilling millennia of wisdom.</p>
+                        <p className="small-grey-font">One succinct overview (30-40 min read) for each core topic, distilling millennia of wisdom.</p>
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 guided reflections</h5>
