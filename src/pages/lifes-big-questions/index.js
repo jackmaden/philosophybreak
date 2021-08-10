@@ -39,7 +39,7 @@ const Page = ({ data, location }) => {
         {/*Chapters*/}
         <div id="look-inside"  className="small-pad darkradial-background">
             <div className="page-center">
-                <h2 className="text-center">Delivered Direct to Your Inbox Over 5 Days:</h2>
+                <h2 className="text-center">What You Get Delivered Direct to Your Inbox Over 5 Days:</h2>
                 <div className="four-col small-pad">
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
@@ -55,7 +55,7 @@ const Page = ({ data, location }) => {
                     </div>
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 reading lists</h5>
-                        <p className="small-grey-font">Five curated reading lists for efficient further exploration of each topic covered.</p>
+                        <p className="small-grey-font">Five curated reading lists for effective further exploration of each topic covered.</p>
                     </div>
                 </div>
             </div>
