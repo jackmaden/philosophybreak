@@ -61,8 +61,8 @@ const Articles = ({ data, location }) => {
                         );
                     })}
                 {/*intro article - wrapping in a p to take advantage of article.home first-of-type and also not to disrupt the margin-left of even elements for .article classes */}
-                <p style={{margin: "0"}}>
-                    <div className="article home">
+                <p>
+                    <div className="article home special-mar">
                         <Link to="/what-is-philosophy-why-is-it-important-today/">
                           <GatsbyImage image={pic} alt="What is philosophy?" />
                             <div className="article-info">

@@ -32,7 +32,7 @@ After just a little probing on the foundations of our convictions on such topics
 
 ## Why is it called the Socratic method?
 
-<span class="big-letter">T</span>he Socratic method derives its name from the conversational technique of ancient Greek philosopher Socrates, as presented in his student Plato’s dialogues written between 399 BC and 347 BC. The son of a midwife, Socrates draws parallels between his method and midwifery. In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0915144816/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0915144816&linkId=f2329e902542711d0c4006f84da94f7e">Plato’s dialogue Theaetetus</a>, Socrates states:
+<span class="big-letter">T</span>he Socratic method derives its name from the conversational technique of ancient Greek philosopher Socrates, as presented in his student [Plato’s dialogues written between 399 BC and 347 BC](/reading-lists/plato/). The son of a midwife, Socrates draws parallels between his method and midwifery. In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0915144816/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0915144816&linkId=f2329e902542711d0c4006f84da94f7e">Plato’s dialogue Theaetetus</a>, Socrates states:
 
 >The only difference [between my trade and that of midwives] is… my concern is not with the body but with the soul that is experiencing birth pangs. And the highest achievement of my art is the power to try by every test to decide whether the offspring of a young person’s thought is a false phantom or is something imbued with life and truth.
 
@@ -50,7 +50,7 @@ Indeed, Plato presents Socrates approaching various influential thinkers from an
 
 Typically the interlocutor in discussion with Socrates begins by making a confident, seemingly self-evident assertion about a particular topic. Socrates then asks them questions about said topic, wrapping them in a tangled web of contradictions and false presuppositions, before concluding that the assertion that began the discussion is hopelessly misguided. 
 
-Given this consistent outcome of most if not all of Plato’s dialogues, some have questioned whether Socrates himself actually provides an effective template for the Socratic method as we know it today, in that while the illusion of cooperative dialogue is present, the conversations are largely dominated by Socrates picking apart the views of others. 
+Given this consistent outcome of most if not all of [Plato’s dialogues](/reading-lists/plato/), some have questioned whether Socrates himself actually provides an effective template for the Socratic method as we know it today, in that while the illusion of cooperative dialogue is present, the conversations are largely dominated by Socrates picking apart the views of others. 
 
 ## Was Socrates’s method successful?
 
@@ -58,7 +58,7 @@ Given this consistent outcome of most if not all of Plato’s dialogues, some ha
 
 Socrates’s apparent victories in the name of reason and logic, while hugely entertaining and intellectually stimulating for the reader today, led to many important people in ancient Athens getting rather annoyed. Alas, Socrates was sentenced to death for corrupting the minds of the youth — but went on annoying his accusers til the very end with a wondrous exposition on piety and death, as recorded in a collection of Plato’s dialogues, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0872205541/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872205541&linkId=90955dbaab2985a7487b0d2c4ed767a0">The Trial and Death of Socrates</a>.
 
-Following Socrates’s death, Plato continued to write dialogues featuring Socrates as the protagonist in honor of his great teacher. This has led to lively discussion around how much of the Socrates featured in Plato’s dialogues represents Socrates, and how much he represents Plato. Regardless, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0872203492/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872203492&linkId=8901486cfbee73226648b5e5d6bb3319">Plato’s dialogues</a> — written over 2,000 years ago — are wondrous, and we are lucky to have them. 
+Following Socrates’s death, Plato continued to write dialogues featuring Socrates as the protagonist in honor of his great teacher. This has led to lively discussion around how much of the Socrates featured in Plato’s dialogues represents Socrates, and how much he represents Plato. Regardless, [Plato’s dialogues](/reading-lists/plato/) — written over 2,000 years ago — are wondrous, and we are lucky to have them. 
 
 
 ## How can you use the Socratic method today?
