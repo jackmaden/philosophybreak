@@ -44,7 +44,7 @@ const Page = ( {data} ) => {
           <div className="page-center">  
             <h1 id="home-page">{greet}</h1>
             <div className="separator"></div>
-            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Enroll in our 5-day introduction to philosophy course today.</p>
+            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Join our 5-day introduction to philosophy course today.</p>
             <p id="home-buttons"><Link className="button primary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>Enroll in 5-Day Course</Link></p>
             <p style={{marginTop: "-10px"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <Link to="/lifes-big-questions/" style={{fontSize: "15px"}}>(23 reviews)</Link></p>
           </div>
@@ -139,7 +139,7 @@ const Page = ( {data} ) => {
         </div>
             
         {/* LBQ PANEL */}
-        <PanelLBQ class="white-background" fill="#36b4ff" />
+        <PanelLBQ />
 
         <PanelArticleList />
 

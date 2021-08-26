@@ -29,7 +29,7 @@ const ReadingList = ({ data, location }) => {
             <p><span className="big-letter">P</span>lato was an ancient Greek philosopher widely considered to be one of the most important and pivotal figures in the history of Western philosophy, along with his teacher, Socrates, and his most famous student, Aristotle. Commenting on Plato’s vast influence, the 20th-century philosopher Alfred North Whitehead once noted:</p> 
             
             <blockquote>
-                <p>“The safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.”</p>
+                <p>The safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.</p>
             </blockquote>
             
             <p>Indeed, in his works (written between 399 BC and 347 BC), Plato sets out most of the major themes Western philosophy has since focused on, including <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, and <Link to="/reading-lists/political-philosophy/">politics</Link>.</p>
