@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function Reviews() {
+export default function Reviews(props) {
     const [isActive, setActive] = useState("false");
 
     const handleToggle = () => {
@@ -8,9 +8,9 @@ export default function Reviews() {
     }
     
     return (
-        <div className="darkradial-background mid-pad" id="reviews">
+        <div className={props.bg + " mid-pad"} id="reviews">
             <div className="page-center">
-                <h2>23 Course Reviews</h2>
+                <h2>{props.title}</h2>
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Awesome</i></span></p>
@@ -160,7 +160,7 @@ export default function Reviews() {
                 {/*toggle reviews*/}
                 <div id="review-button" className={isActive ? null : "show" }>
                     <div className="mid-mar-top small-width text-center">
-                        <button onClick={handleToggle} className="button primary" style={{background: "transparent", border: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"/></svg>Load More Reviews</button>
+                        <button onClick={handleToggle} className={"button " + props.toggle} style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"/></svg>Load More Reviews</button>
                     </div>
                 </div>
 

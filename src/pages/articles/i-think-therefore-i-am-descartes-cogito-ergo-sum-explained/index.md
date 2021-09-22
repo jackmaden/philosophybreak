@@ -31,7 +31,7 @@ But, according to Descartes's strict criteria for truth outlined above, where do
 
 And, if we cannot trust information obtained from our senses, then how can we confirm the existence of an external world?
 
-Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. Or maybe nothing physical exists at all and this is all just one big hallucination — _everything_ is an illusion, a figment of the mental realm.
+Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. Or maybe nothing physical exists at all and this is all just one big hallucination – _everything_ is an illusion, a figment of the mental realm, or even the conjurings of an Evil Demon determined to mislead us about the true nature of reality...
 
 Poor old Descartes got himself into a right state over all this:
 

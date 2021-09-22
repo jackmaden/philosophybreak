@@ -30,7 +30,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .darkblue-background {background: #1B264F; /*linear-gradient(to top right,#020887,#38369A);*/}
 .darkradial-background {background: radial-gradient(#001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
-.grey-background {background: linear-gradient(90deg, #f2f3f4, #fff, #f2f3f4);}
+.grey-background {background: radial-gradient(#fff, #fff, #f2f3f4);}
 .small-pad {padding: 24px 0;}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
@@ -48,6 +48,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .large-pad-top {padding-top: 64px;}
 .large-mar {margin: 64px 0;}
 .no-mar {margin: 0;}
+.no-mar-bottom {margin-bottom: 0 !important;}
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
@@ -138,6 +139,7 @@ h5 {font-size: 20px;}
 
 @media (min-width: 1020px) {
     h1#home-page {font-size: 45px;}
+    h1.smaller {font-size: 41px;}
 }
 
 /***p and links and verified***/
@@ -170,6 +172,9 @@ a.button.secondary {color: #001d30; font-weight: 500;}
 .button.top-icon-align svg {vertical-align: text-top;}
 .button.secondary svg {fill: #36b4ff;}
 :hover.button.secondary svg {fill: #fff;}
+
+.grey-background.no-hover .button.secondary:hover {color: #001d30;}
+.grey-background.no-hover :hover.button.secondary svg {fill: #36b4ff;}
 
 @media (min-width: 620px) {
   .button {font-size: 18px;}
@@ -455,7 +460,7 @@ svg.bounce {margin-right: 0;}
 .reading-list-title p {font-size: 16px;}
 div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
-div.separator.course {margin: -3px 0 10px; width: 100px;}
+div.separator.course {margin: -3px 0 10px; width: 116px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
@@ -466,7 +471,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
   div.separator.reading-list {width: 114px;}
   div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {width: 96px; margin-top: -2px;}
-  div.separator.course {width: 118px;}
+  div.separator.course {width: 138px;}
   div.separator.chapter {width: 100px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}
@@ -479,8 +484,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /*white bg LBQ panel*/
-.white-background .time.tag, .white-background a.white-underline {color: #001d30;}
-.white-background a.white-underline {text-decoration-color: #36b4ff;}
+.white-background .time.tag, .white-background a.white-underline, .grey-background .time.tag, .grey-background a.white-underline {color: #001d30;}
+.white-background a.white-underline, .grey-background a.white-underline {text-decoration-color: #36b4ff;}
 
 
 /***article listing***/
@@ -657,7 +662,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 form {width: 100%; margin-bottom: 1.6em;}
 input, button {padding: 1em 1.2em 1.1em; font-family: 'Public Sans', sans-serif; border-radius: 4px; border: none; font-size: 16px; width: 100%; font-weight: 400; outline: none; margin: 0; box-sizing: border-box; text-shadow: none; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none;}
 input[type="email"] {color: #001d30;}
-input[type="email"]::placeholder {color: #001d30; font-weight: 100;}
+input[type="email"]::placeholder {color: #001d30; font-weight: 200;}
 button[type="submit"] {cursor: pointer; margin-top: 12px; margin-bottom: 0; color: #fff; display: flex; justify-content: center; align-items: flex-end; text-align: center;}
 button[type="submit"].button.primary {-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
 input:focus {outline: none;}
