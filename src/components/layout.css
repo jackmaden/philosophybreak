@@ -484,8 +484,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /*white bg LBQ panel*/
-.white-background .time.tag, .white-background a.white-underline, .grey-background .time.tag, .grey-background a.white-underline {color: #001d30;}
-.white-background a.white-underline, .grey-background a.white-underline {text-decoration-color: #36b4ff;}
+.white-background .time.tag, .white-background a.white-underline, .grey-background.course .time.tag, .grey-background.course a.white-underline {color: #001d30;}
+.white-background a.white-underline, .grey-background.course a.white-underline {text-decoration-color: #36b4ff;}
 
 
 /***article listing***/
