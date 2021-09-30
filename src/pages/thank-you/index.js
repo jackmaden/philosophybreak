@@ -15,11 +15,11 @@ const Page = () => {
         <Layout>
         <Navigation bg="light-bg" />
             {/*page background color*/}
-            <div className="grey-background small-pad-bottom">
+            <div className="white-background small-pad-bottom">
                 {/*article title*/}
-                <TopTitle title="Thank You" subtitle="Thank you very much for subscribing to weekly breaks, philosopher! Your first philosophy break will be landing in your inbox soon. In the meantime, take a look at our introduction to philosophy course below. Enroll today, and by this time next week, you'll have a solid understanding of philosophy's top wisdom..." />
+                <TopTitle title="Thank You" subtitle="Thank you very much for subscribing to weekly breaks, philosopher! Your first philosophy break will be landing in your inbox soon. In the meantime, take a look at our bite-size introduction to philosophy course below. Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best further reading for continuing your philosophical journey..." />
             </div>
-            <PanelLBQ />
+            <PanelLBQ class="white-background" fill="#36b4ff" />
         </Layout>
         </>
     )
