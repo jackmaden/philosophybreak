@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Stoicism Reading List – The Top 5 Books to Read" description="A curated reading list of the best and most essential books of and about Stoic philosophy, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
+    <Seo title="Stoicism Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books of and about Stoic philosophy, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

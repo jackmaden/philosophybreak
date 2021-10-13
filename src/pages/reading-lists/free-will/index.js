@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Free Will Reading List – The Top 7 Books to Read" description="A curated reading list of the best and most essential books of and about free will, exploring whether our actions are free, pre-determined, or something in between." image={imagePath} pathname={location.pathname} />
+    <Seo title="Free Will Reading List – The Best 7 Books to Read" description="A curated reading list of the most essential books of and about free will, exploring whether our actions are free, pre-determined, or something in between." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

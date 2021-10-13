@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Existentialism Reading List – The Top 8 Books to Read" description="A curated reading list of the best and most essential books of and about existentialism, including the writings of Sartre, Heidegger, and Kierkegaard." image={imagePath} pathname={location.pathname} />
+    <Seo title="Existentialism Reading List – The Best 8 Books to Read" description="A curated reading list of the most essential books of and about existentialism, including the writings of Sartre, Heidegger, and Kierkegaard." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

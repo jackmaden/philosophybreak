@@ -21,7 +21,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-sitemap`,
             options: {
-              exclude: [`/thank-you`, `/thank-you-lifes-big-questions`]
+              exclude: [`/thank-you`, `/thank-you-lifes-big-questions`, `/thank-you-introduction-to-nietzsche`]
             }
         },
         //robots.txt

@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Epistemology Reading List – The Top 9 Books to Read" description="A curated reading list of the best and most essential books of and about epistemology, including the writings of Plato, John Locke, and David Hume." image={imagePath} pathname={location.pathname} />
+    <Seo title="Epistemology Reading List – The Best 9 Books to Read" description="A curated reading list of the most essential books of and about epistemology, including the writings of Plato, John Locke, and David Hume." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

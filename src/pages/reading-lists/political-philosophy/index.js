@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Political Philosophy Reading List – The Top 14 Books to Read" description="A curated reading list of the best and most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={imagePath} pathname={location.pathname} />
+    <Seo title="Political Philosophy Reading List – The Best 14 Books to Read" description="A curated reading list of the most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={imagePath} pathname={location.pathname} />
     <MailchimpPopUp />
     <Layout>
     <Navigation />

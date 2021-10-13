@@ -20,7 +20,7 @@ These are just a few of the questions posed by the oft-derided, mind-melting rea
 
 <span class="big-letter">S</span>o what _is_ metaphysics, exactly? Like most metaphysical questions, that’s not an easy one to answer. We might think based on the word itself that it refers to some ‘meta’ version of physics, but that's not quite accurate. 
 
-‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of Aristotle’s work in the first century BC. Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
+‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of [Aristotle’s work](/reading-lists/aristotle/) in the first century BC. Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
 
 Putting its rather arbitrary etymological origins to one side, we can say the word ‘metaphysics’ refers to the exploration of basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness — most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
 
