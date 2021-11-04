@@ -37,7 +37,7 @@ But, when it comes to reality, some philosophers argue there are questions that 
 <div class="course-promo text-center">
     <h4>Why Does Anything Exist?</h4>
     <p class="small-grey-font">Get philosophy's best answers to life's big questions with our celebrated introduction to philosophy course.</p>
-    <a class="button secondary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More</a>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More</a>
 </div>
 
 A quick, dirty, and by no means foolproof way to distinguish metaphysics from the sciences is as follows: the sciences concern the specific ‘how’ of reality, metaphysics concerns the general ‘what’ and ‘why’.
@@ -63,7 +63,7 @@ Well, defenders of metaphysics might state that it’s only by running up agains
 <div class="course-promo text-center">
     <h4>5-Day Introduction to Philosophy Course</h4>
     <p class="small-grey-font">Learn thousands of years of philosophy in just five days with our celebrated introductory course.</p>
-    <a class="button secondary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More</a>
+    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More</a>
 </div>
 
 Metaphysics adds a level of conceptual rigor and clarity that can only improve the steadfastness of our knowledge: it is not here to compete with or replace any other fields, it is here as a necessary supplement to them in our quest for truth about reality. Indeed, some argue that there is no real need to create a hard distinction between metaphysics and the sciences at all, for their aims are continuous and complementary. 

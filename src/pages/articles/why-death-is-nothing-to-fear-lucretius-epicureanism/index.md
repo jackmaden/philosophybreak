@@ -18,7 +18,7 @@ Why has <a target="_blank" rel="noopener noreferrer sponsored" href="https://www
 
 ## What is Epicureanism?
 
-<span class="big-letter">E</span>picureanism is a system of philosophy based on the teachings of ancient Greek thinker Epicurus, founded in 307BC. Often caricatured today as an exclusively pleasure-seeking, hedonistic stance towards the world, Epicurean thinking is actually more focused on eradicating pain, fear, and anxiety from our day-to-day lives. As Lucretius summarizes in book two of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90">On The Nature of Things</a>, Epicurists believe the ultimate good for human nature is as follows:
+<span class="big-letter">E</span>picureanism is a system of philosophy based on the teachings of [ancient Greek thinker Epicurus](/articles/epicurus-on-why-death-should-not-concern-us/), founded in 307BC. Often caricatured today as an exclusively pleasure-seeking, hedonistic stance towards the world, Epicurean thinking is actually more focused on eradicating pain, fear, and anxiety from our day-to-day lives. As Lucretius summarizes in book two of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90">On The Nature of Things</a>, Epicurists believe the ultimate good for human nature is as follows:
 
 >To avoid bodily pain, to have a mind free from anxiety and fear, and to enjoy the pleasures of the senses.
 
@@ -64,7 +64,7 @@ So, if we cannot outrun or distract ourselves from it, how can we overcome the f
 
 So, if we acknowledge that our conscious minds depend on our bodies, it follows that as soon as our bodies cease to be alive, our minds will cease to exist: in death, no conscious element of ourselves persists. This leads Lucretius to thus conclude that “death is nothing to us” — because it literally _will_ be nothing to us: there is nothing to experience in death, because the experiencer no longer exists. 
 
-This echoes the fuller Epicurean slogan: “Death is nothing to us. When we exist, death is not; and when death exists, we are not. All sensation and consciousness ends with death and therefore in death there is neither pleasure nor pain.”
+This echoes [the fuller Epicurean slogan](/articles/epicurus-on-why-death-should-not-concern-us/): “Death is nothing to us. When we exist, death is not; and when death exists, we are not. All sensation and consciousness ends with death and therefore in death there is neither pleasure nor pain.”
 
 From this doctrine arose the epitaph: _Non fui, fui, non sum, non curo_ (I was not; I was; I am not; I do not care) – which is inscribed on the gravestones of Epicurus's followers and seen on many ancient gravestones of the Roman Empire. ⁣⁣
 
