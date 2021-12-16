@@ -10,6 +10,8 @@ import PanelReadingList from '../components/panelReadingList'
 import PanelAboutUs from '../components/panelAboutUs'
 import PanelLBQ from '../components/panelLBQ'
 import PanelArticleList from "../components/panelArticleList";
+import { HomeSubscriptionForm } from "../components/homeSubscriptionForm";
+import PanelNietzsche from "../components/panelNietzsche";
 
 const Page = ( {data} ) => {
 
@@ -17,19 +19,23 @@ const Page = ( {data} ) => {
     const myDate = new Date() //get device date
     const hrs = myDate.getHours() //get hours from date
 
-    let greet = 'Hello there, Philosopher' // variable for message & set default
+    let svg = 'M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z'
+    let greet = 'HELLO THERE, PHILOSOPHER' // variable for message & set default
     let pic = data.default.childImageSharp.gatsbyImageData // variable for image & set default
 
     if (hrs < 12) { //if morning
-        greet = 'Good Morning, Philosopher'
+        svg = 'M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z'
+        greet = 'GOOD MORNING, PHILOSOPHER'
         pic = data.morning.childImageSharp.gatsbyImageData
     }
     else if (hrs >= 12 && hrs < 17) { //if afternoon
-        greet = 'Good Afternoon, Philosopher'
+        svg = 'M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z'
+        greet = 'GOOD AFTERNOON, PHILOSOPHER'
         pic = data.default.childImageSharp.gatsbyImageData
     }
     else if (hrs >= 17 && hrs < 24) { //if evening
-        greet = 'Good Evening, Philosopher'
+        svg = 'M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z'
+        greet = 'GOOD EVENING, PHILOSOPHER'
         pic = data.evening.childImageSharp.gatsbyImageData
     }
 
@@ -37,20 +43,34 @@ const Page = ( {data} ) => {
     <>
     <Seo title="Philosophy Break – Your Home for Learning about Philosophy" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
-    <Navigation bg="light-bg" />
+    <Navigation  />
 
         {/*page title*/}
-        <div className="grey-background top-title home text-center">
-          <div className="page-center">  
-            <h1 id="home-page">{greet}</h1>
-            <div className="separator"></div>
-            <p className="large-grey-font mid-width">Welcome to Philosophy Break, your home for learning about philosophy. Join our 5-day introduction to philosophy course today.</p>
-            <p id="home-buttons"><Link className="button primary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>Enroll in 5-Day Course</Link></p>
-            <p style={{marginTop: "-10px"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <Link to="/lifes-big-questions/" style={{fontSize: "15px"}}>(25 reviews)</Link></p>
+        <div className="darkradial-background top-title home">
+          <div className="two-col big-2-col page-center">
+            <div className="mobile-center">
+              <span className="tag time home" style={{marginBottom: "12px"}}>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
+              <h1 id="home-page">Welcome to Philosophy Break, your home for learning about philosophy</h1>
+              <p className="large-grey-font">Join thousands of thinkers and get philosophy breaks direct to your inbox, with weekly emails designed to make you think.</p>
+              <HomeSubscriptionForm />
+            </div>
+            <div>
+              <GatsbyImage
+                className="mobile-tablet-no-display"
+                image={data.home.childImageSharp.gatsbyImageData}
+                alt="Philosophy Break" />
+            </div>
           </div>
         </div>
 
-        <div className="grey-background small-pad-bottom-mob-mid-pad-bottom-desk">
+        {/* Nietzsche PANEL */}
+        <PanelNietzsche />
+
+        {/* LBQ PANEL */}
+        <PanelLBQ />
+
+        <div className="grey-background mid-pad small-pad-bottom-mob-mid-pad-bottom-desk">
           <div className="page-center">
             
             {/* 1st ARTICLE */ }
@@ -138,14 +158,12 @@ const Page = ( {data} ) => {
           </div>
         </div>
             
-        {/* LBQ PANEL */}
-        <PanelLBQ />
-
-        <PanelArticleList />
-
+        
         <SubscriptionForm />
-        <PanelReadingList />
+        <PanelArticleList />
         <PanelAboutUs/>
+        <PanelReadingList />
+        <SubscriptionForm />
     </Layout>
     </>
     )
@@ -155,6 +173,11 @@ export const query = graphql`{
   default: file(relativePath: {eq: "philosophy-break.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
+    }
+  }
+  home: file(relativePath: {eq: "philosophybreak-weekly.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   morning: file(relativePath: {eq: "morning.jpg"}) {

@@ -116,6 +116,9 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
   .mobile-center {text-align: center;}
   .mobile-center-margin {margin-left: auto !important; margin-right: auto !important;}
 }
+@media (max-width: 1019px) {
+  .mobile-tablet-no-display {display: none !important;}
+}
 @media (min-width: 620px) {
   .desktop-no-display {display: none !important;}
 }
@@ -138,7 +141,7 @@ h5 {font-size: 20px;}
 
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 42px;}
+    h1#home-page {font-size: 45px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
     h3 {font-size: 32px;}
@@ -209,7 +212,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 @media (min-width: 1020px) {
   .top-title {margin-bottom: 24px;}
   .top-title.home {padding-bottom: 24px; margin-bottom: 0;}
-  .top-title.darkradial-background {padding-bottom: 48px;}
+  .top-title.darkradial-background {padding-bottom: 60px;}
 }
 
 /***nav***/
@@ -463,7 +466,9 @@ svg.bounce {margin-right: 0;}
 .title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));}
 .title.list div.title-center {bottom: 18px;}
 .time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
+.time.tag.home {font-size: 12px;}
 .time.tag svg {width: 14px; height: 14px; vertical-align: sub; margin-right: 4px;}
+.time.tag.home svg {width: 16px; height: 16px;}
 .reading-list-title .time.tag {font-size: 8px; margin-bottom: 4px;}
 .reading-list-title .time.tag svg {width: 12px; height: 12px;}
 .reading-list-title p {font-size: 16px;}
@@ -475,7 +480,9 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
 @media (min-width: 620px) {
   .time.tag {font-size: 12px; margin-bottom: 6px;}
+  .time.tag.home {font-size: 14px;}
   .time.tag svg {width: 16px; height: 16px; margin-right: 6px;}
+  .time.tag.home svg {width: 18px; height: 18px;}
   .reading-list-title .time.tag {font-size: 10px;}
   .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
   div.separator.reading-list {width: 114px;}
