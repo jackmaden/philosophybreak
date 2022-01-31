@@ -6,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import Checkout from "../../components/checkout"
+import Checkout from "../../components/checkoutLBQ"
 import Reviews from "../../components/reviewsLBQ"
 
 const Page = ({ data, location }) => {
