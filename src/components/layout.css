@@ -32,6 +32,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .white-background {background-color: #fff;}
 .grey-background {background: radial-gradient(#fff, #fff, #f2f3f4);}
 .small-pad {padding: 24px 0;}
+@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
 .tiny-pad-bottom {padding-bottom: 12px;}
