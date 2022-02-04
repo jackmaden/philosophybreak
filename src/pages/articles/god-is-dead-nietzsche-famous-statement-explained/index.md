@@ -15,7 +15,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 By these words, Nietzsche does not so much mean that atheism is true — indeed, in the passage from which they’re taken, these words are presented as _fresh news_ to a group of atheists — he more means that, because “the belief in the Christian God has become unbelievable”, everything that “was built upon this faith, propped up by it, grown into it”, _including_ “the whole of our European morality,” is destined for “collapse.” 
 
-Nietzsche was writing, of course, in the aftermath of the Enlightenment, a time in which science, mathematics, and philosophy arose across Europe to displace Christianity as the guiding authority on truth about life and the universe. For centuries, Christianity’s teachings about reality — that there exists a Creator outside time and space, and that we should abide by the rules of this Creator to ensure a good afterlife — were entirely dominant. 
+[Nietzsche was writing](/reading-lists/friedrich-nietzsche/), of course, in the aftermath of the Enlightenment, a time in which science, mathematics, and philosophy arose across Europe to displace Christianity as the guiding authority on truth about life and the universe. For centuries, Christianity’s teachings about reality — that there exists a Creator outside time and space, and that we should abide by the rules of this Creator to ensure a good afterlife — were entirely dominant. 
 
 ![Nietzsche by Munch](./nietzsche-munch.jpeg "“Portrait of Friedrich Nietzsche”, by Edvard Munch, c. 1906.")
 
