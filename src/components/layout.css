@@ -31,6 +31,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .darkradial-background {background: radial-gradient(#001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
 .grey-background {background: radial-gradient(#fff, #fff, #f2f3f4);}
+.tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 @media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;}}
 .small-pad-top {padding-top: 24px;}
@@ -48,7 +49,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .large-pad-bottom {padding-bottom: 64px;}
 .large-pad-top {padding-top: 64px;}
 .large-mar {margin: 64px 0;}
-.no-mar {margin: 0;}
+.no-mar {margin: 0 !important;}
 .no-mar-bottom {margin-bottom: 0 !important;}
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
@@ -593,7 +594,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /***reading list book listing***/
-.article.white > a {background: #f2f3f4;}
+.article.white > a {background: #f2f3f4;} 
 .article.white > a:hover {background: #f2f3f4;}
 .article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
@@ -601,9 +602,11 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white a:hover p.time {color: #001d30;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
 .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 33%;}
+.article.white.cta a div.gatsby-image-wrapper, .article.white.cta a span.gatsby-resp-image-wrapper {width: 40%;}
 .article.white a span.gatsby-resp-image-wrapper {margin: 0 !important;}
 .article.white a div.gatsby-image-wrapper > picture > img {object-position: top center !important;}
 .article.white a .article-info {width: 67%}
+.article.white.cta a .article-info {width: 57%; margin-left: 3%;}
 .article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #001d30;}
 .article.white a .article-info a.button {display: inline-block; margin-top: 0.5em; margin-bottom: 0; font-size: 14px;}
 @media (min-width: 420px) {
@@ -620,6 +623,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 @media (min-width: 620px) {
   .article.white a .article-info a.button {font-size: 16px;}
+  .article.white.cta a div.gatsby-image-wrapper, .article.white.cta a span.gatsby-resp-image-wrapper {width: 40%;}
+  .article.white.cta a .article-info {width: 57%; margin-left: 3%;}
 }
 @media (min-width: 1020px) {
   .article.white {display: block; width: 100%;}
