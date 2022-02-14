@@ -3,8 +3,6 @@ import { Helmet } from "react-helmet"
 
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
-import PanelLBQ from "../../components/panelLBQ"
-import TopTitle from "../../components/topTitle"
 
 const Page = () => {
     return (
@@ -16,10 +14,14 @@ const Page = () => {
         <Navigation bg="light-bg" />
             {/*page background color*/}
             <div className="white-background small-pad-bottom">
-                {/*article title*/}
-                <TopTitle title="Thank You" subtitle="Thank you very much for subscribing to weekly breaks, philosopher! Your first philosophy break will be landing in your inbox soon. In the meantime, take a look at our bite-size introduction to philosophy course below. Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best further reading for continuing your philosophical journey..." />
+                <div className={"top-title text-center"}>
+                    <div className="page-center">
+                        <h1 className="mid-width">Thank You</h1>
+                        <div className="separator"></div>
+                        <p className="large-grey-font mid-width">Thank you very much for subscribing to weekly breaks, philosopher! Our welcome email will be landing in your inbox shortly. In the meantime, follow Philosophy Break on <a href="https://www.instagram.com/philosophybreak/" target="_blank" rel="noopener noreferrer">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter</a> to learn about philosophy directly in your newsfeed.</p>
+                    </div>
+                </div>
             </div>
-            <PanelLBQ class="white-background" fill="#36b4ff" />
         </Layout>
         </>
     )
