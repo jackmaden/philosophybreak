@@ -7,13 +7,12 @@ import Seo from '../components/SEO'
 import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
 import { ScrollProgressBar } from '../components/scrollProgressBar'
-import { SubscriptionForm } from '../components/subscriptionForm'
+import SubscriptionForm from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import WatermarkBreak from "../components/watermarkBreak"
 import PanelLBQ from '../components/panelLBQ' 
-import PanelReadingList from '../components/panelReadingList'
-import PanelAboutUs from '../components/panelAboutUs'
 import MailchimpPopUp from "../components/mailchimpPopUp"
+import PanelNietzsche from "../components/panelNietzsche";
 
 
 const ArticlePost = ({ data, location }) => {
@@ -52,6 +51,7 @@ const ArticlePost = ({ data, location }) => {
 
     {/*post-article*/}
     <div id="post-article-height">
+      <PanelNietzsche />
       <PanelLBQ />
       <div className="grey-background large-pad">
         <div className="page-center">
@@ -80,8 +80,6 @@ const ArticlePost = ({ data, location }) => {
         </div>
       </div>
       <SubscriptionForm />
-      <PanelReadingList />
-      <PanelAboutUs />
     </div>
   </Layout>
   </>

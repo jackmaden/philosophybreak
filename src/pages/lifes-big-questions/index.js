@@ -203,7 +203,7 @@ export const query = graphql`{
         gatsbyImageData(width: 1200, quality: 90, layout: CONSTRAINED)
     }
   }
-  about: file(relativePath: {eq: "Chapter1-full.png"}) {
+  about: file(relativePath: {eq: "Chapter1-full2.png"}) {
     childImageSharp {
       gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
     }

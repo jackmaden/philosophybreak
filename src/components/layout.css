@@ -33,6 +33,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .grey-background {background: radial-gradient(#fff, #fff, #f2f3f4);}
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
+figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 @media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
@@ -82,6 +83,10 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
   .four-col > div {width: 22.5%;}
   .two-col.text > div {width: 48%;}
+  figure.gatsby-resp-image-figure.big-image {margin: 3.2em 0 3em -200px; width: 1000px;}
+}
+@media (min-width: 1120px) {
+  figure.gatsby-resp-image-figure.big-image {margin-left: -250px; width: 1100px;}
 }
 @media (min-width: 1500px) {
   .large-pad {padding: 80px 0;}
@@ -328,39 +333,13 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   #footer .logo-footer h3 small {font-size: 15.5px;}
 }
 
-/***home-page***/
-.home-svg svg {width: 80px; margin-bottom: 0.5em;}
-.featured-image-full {height: 100vh; width: 100%; overflow: hidden; position: relative; background-color: #000; display: block;}
-.featured-image-full div.gatsby-image-wrapper {height: 100%;}
-/*different class for different home page image depending on time of day*/
-.featured-image-full div.gatsby-image-wrapper picture img {object-position: 22% center !important;}
-.featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: 55% center !important;}
-.featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: 20% center !important;}
-.featured-image-full div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8)); height: 20%;}
-.featured-image-full div.page-center {position: absolute; top: 50%; -ms-transform: translateY(-63%); transform: translateY(-63%);}
-.featured-image-full div.page-center h1, .featured-image-full div.page-center h4, .featured-image-full div.page-center p {color: #fff;}
-.featured-image-full div.page-center p {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.featured-image-full div.page-center p {font-size: 16px;}
-p#home-buttons {margin-bottom: 0.5em;}
 
-@media (min-width: 360px) {
-  .featured-image-full div.page-center p {font-size: 18px;}
-}
-@media (min-width: 620px) {
-  .featured-image-full div.gatsby-image-wrapper picture img {object-position: center bottom !important;} 
-  .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 65% !important;}
-  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 15% !important;}
-  .featured-image-full div.page-center {left: 0; right: 0;}
-  .featured-image-full div.page-center h4 {font-size: 36px;}
-  .featured-image-full div.page-center p {font-size: 20px;}
-}
+/*different class for WHY IS PHILOSOPHY IMPORTANT page (hero wrapped in featured-image-full) */
+div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% center !important;}
+
+
 @media (min-width: 1020px) {
-  .home-svg svg {width: 100px; margin-bottom: 0.25em;}
-  .featured-image-full div.page-center {width: 1000px;}
-}
-@media (min-width: 1500px) {
-  .featured-image-full.morning div.gatsby-image-wrapper picture img {object-position: center 85% !important;}
-  .featured-image-full.evening div.gatsby-image-wrapper picture img {object-position: center 15% !important;}
+  div.gatsby-image-wrapper.featured-image-full picture img {object-position: center 45% !important;}
 }
 
 /*course load more reviews*/
@@ -533,8 +512,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /***article home (or now special as featured on /articles/ page) ***/
-.article.home:first-of-type {margin-top: 0;}
-.article.home:first-of-type.special-mar {margin-top: 32px;}
+.article.home:first-of-type {margin-top: 32px;}
 .article.home:first-of-type a {flex-direction: column;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}
 .article.home:first-of-type a .article-info {width: 100%; padding: 10px 20px;}
@@ -548,7 +526,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 200px;}
 }
 @media (min-width: 1020px) {
-  .article.home:first-of-type {width: 100%; margin-top: 24px;}
+  .article.home:first-of-type {width: 100%;}
   .article.home:first-of-type.special-mar {margin-top: 24px;}
   .article.home:first-of-type a {flex-direction: row;}
   .article.home:first-of-type a .gatsby-image-wrapper {width: 50%; height: 400px;}
@@ -605,6 +583,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white.cta a div.gatsby-image-wrapper, .article.white.cta a span.gatsby-resp-image-wrapper {width: 40%;}
 .article.white a span.gatsby-resp-image-wrapper {margin: 0 !important;}
 .article.white a div.gatsby-image-wrapper > picture > img {object-position: top center !important;}
+.article.white a.non-markdown div.gatsby-image-wrapper > picture > img {object-position: 50% 50% !important; object-fit: contain !important;}
 .article.white a .article-info {width: 67%}
 .article.white.cta a .article-info {width: 57%; margin-left: 3%;}
 .article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #001d30;}

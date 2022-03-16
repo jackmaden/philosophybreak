@@ -6,3 +6,10 @@ https://philosophybreak.netlify.app/* https://philosophybreak.com/:splat 301!
 
 # Redirect Socrates article
 /articles/socrates-on-what-we-know /articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing 301!
+
+# Redirect why is philosophy important article
+/what-is-philosophy-why-is-it-important-today /why-is-philosophy-important-today 301!
+
+# Redirect weekly emails to philosophy basics
+/weekly-emails /philosophy-basics 301!
+

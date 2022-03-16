@@ -34,14 +34,20 @@ const HomeArticleList = () => {
         `}
             render={data => (
               <>
-                  <div className="grey-background mid-pad">
-                    <div className="page-center">
+                  <div className="grey-background large-pad">
 
+                    
+                    <div className="page-center">
+                    <span className="text-center">
+                            <h2>Latest Breaks</h2>
+                            <div className="separator" style={{marginBottom: "2em"}}></div>
+                            <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
+                        </span>
                     {data.allMarkdownRemark.edges.slice(0, 1).map(edge => {
                       // LATEST ARTICLE
                       const {frontmatter, fields} = edge.node;
                       return (
-                      <div className="article home" key={frontmatter.date}>
+                      <div className="article  home" key={frontmatter.date}>
                           <Link to={fields.slug}>
                               <GatsbyImage image={frontmatter.imageSeo.childImageSharp.gatsbyImageData} alt={frontmatter.imageAlt} />
                                 <div className="article-info">

@@ -22,7 +22,9 @@ These are just a few of the questions posed by the oft-derided, mind-melting rea
 
 ‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of [Aristotle’s work](/reading-lists/aristotle/) in the first century BC. Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
 
-Putting its rather arbitrary etymological origins to one side, we can say the word ‘metaphysics’ refers to the exploration of basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness — most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
+Putting its rather arbitrary etymological origins to one side, we can say the word ‘metaphysics’ refers to the philosophical study of _reality:_ metaphysics essentially attempts to establish a coherent picture of what reality ultimately _is_ and how reality ultimately _works_. 
+
+In doing so, it explores basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness — most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
 
 ![Metaphysics](./enigma-of-autumn.jpg "Giorgio de Chirico - The Enigma of an Autumn Afternoon, 1910, the first and defining work of the Pittura Metafisica (metaphysical painting) artistic movement.")
 

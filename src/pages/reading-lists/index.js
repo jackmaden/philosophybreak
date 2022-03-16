@@ -9,10 +9,11 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from '../../components/topTitle'
 import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
-import { SubscriptionForm } from '../../components/subscriptionForm'
+import SubscriptionForm from '../../components/subscriptionForm'
 import PanelArticleList from "../../components/panelArticleList"
 import WatermarkBreak from "../../components/watermarkBreak"
 import PanelLBQ from "../../components/panelLBQ"
+import PanelNietzsche from "../../components/panelNietzsche";
 
 
 const Page = ({ data, location }) => {
@@ -155,6 +156,7 @@ const Page = ({ data, location }) => {
 
 
         {/*post-reading list content*/}
+        <PanelNietzsche />
         <PanelLBQ />
         <PanelArticleList />
         <SubscriptionForm />
