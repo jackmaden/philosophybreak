@@ -11,7 +11,7 @@ import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import PanelLBQ from "../../components/panelLBQ"
 
 const Page = ({ data, location }) => {
-    const imagePath = getSrc(data.evening)
+    const imagePath = getSrc(data.default)
     return (
     <>
     <Seo title="What is Philosophy? Definition, How it Works, and 4 Core Branches" description="Your quick guide to exactly what philosophy is, how philosophers make progress, as well as the subject’s four core branches." image={imagePath} pathname={location.pathname} />
