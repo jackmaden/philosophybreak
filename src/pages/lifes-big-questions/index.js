@@ -32,7 +32,7 @@ const Page = ({ data, location }) => {
                 </div>
                 <div>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life's Big Questions" />
-                    <p className="small-grey-font smaller text-center"><i>Course materials are delivered direct to your inbox over 5 days, and accessible forever from any device.</i></p>
+                    <p className="small-grey-font smaller text-center no-mar-top-mob"><i>Course materials are delivered direct to your inbox over 5 days, and accessible forever from any device.</i></p>
                 </div>
             </div>
         </div>

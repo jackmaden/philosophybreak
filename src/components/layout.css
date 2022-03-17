@@ -34,7 +34,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
-@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;}}
+@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0;} .no-pad-top-mob {padding-top: 0;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
 .tiny-pad-bottom {padding-bottom: 12px;}

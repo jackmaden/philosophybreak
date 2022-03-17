@@ -36,7 +36,7 @@ const Page = ({ data, location }) => {
         {/*Chapters*/}
         <div id="look-inside"  className="grey-background small-pad-bottom">
             <div className="page-center">
-                <h2 className="small-pad text-center">What You Get Delivered to Your Inbox Over 6 Days:</h2>
+                <h2 className="small-pad text-center no-pad-top-mob">What You Get Delivered to Your Inbox Over 6 Days:</h2>
                 <div className="four-col tiny-pad-bottom-mob">
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
