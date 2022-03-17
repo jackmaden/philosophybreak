@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, getSrc } from "gatsby-plugin-image";
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
@@ -8,9 +8,12 @@ import { NavigationSimple } from "../../components/navigationSimple"
 import { HomeSubscriptionForm } from "../../components/homeSubscriptionForm";
 
 const Page = ({ data, location }) => {
+
+    const imagePath = getSrc(data.seo)
+
     return (
     <>
-    <Seo title="Learn the Basics of Philosophy" description="Expand your mind and learn the basics of philosophy with our free, 3-part email course." pathname={location.pathname} />
+    <Seo title="Learn the Basics of Philosophy" description="Expand your mind and learn the basics of philosophy with our free, 3-part email course." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple bg="light-bg" />
          {/*page title*/}
@@ -41,6 +44,11 @@ export const query = graphql`{
             gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
         }
     }
+    seo: file(relativePath: {eq: "pb-basics-seo.jpg"}) {
+      childImageSharp {
+          gatsbyImageData(width: 1200, layout: CONSTRAINED, placeholder: BLURRED)
+      }
+  }
 }
 `
 
