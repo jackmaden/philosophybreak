@@ -21,7 +21,7 @@ const Page = ({ data, location }) => {
         {/*page title*/}
 
         <WindowHeightWrapper className="title">
-          <GatsbyImage image={data.default.childImageSharp.gatsbyImageData} className="title-img" alt="What is philosophy?" />
+          <GatsbyImage image={data.default.childImageSharp.gatsbyImageData} className="title-img" alt="What is philosophy?" loading="eager" />
           <div className="darkener"></div>
           <div className="page-center title-center mid-width">
             <h1>What is Philosophy? Definition, How it Works, and 4 Core Branches</h1>

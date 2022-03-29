@@ -52,11 +52,11 @@ const Page = ( {data} ) => {
                 <div className="separator"></div>
               </div>
               <p className="large-grey-font">Wondering where to start? Expand your mind and learn the basics of philosophy with our free, popular, 3-part email course, which delivers our quickfire introductory materials direct to your inbox.</p>
-              <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" />
+              <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
               <HomeSubscriptionForm />
             </div>
             <div className="mobile-no-display">
-              <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" />
+              <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" loading="eager" />
             </div>
           </div>
         </div>

@@ -31,7 +31,7 @@ const ArticlePost = ({ data, location }) => {
       <GatsbyImage
         image={post.frontmatter.image.childImageSharp.gatsbyImageData}
         className="title-img"
-        alt={post.frontmatter.imageAlt} />
+        alt={post.frontmatter.imageAlt} loading="eager"/>
       <div className="darkener"></div>
       <div className="page-center title-center mid-width">
         <h1>{post.frontmatter.title}</h1>

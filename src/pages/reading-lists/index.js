@@ -51,7 +51,7 @@ const Page = ({ data, location }) => {
             <div>
                 <GatsbyImage
                     image={data.about.childImageSharp.gatsbyImageData}
-                    alt="Philosophy Break" />
+                    alt="Philosophy Break" loading="eager" />
             </div>
         </div>
               

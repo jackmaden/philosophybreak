@@ -1,17 +1,23 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { GatsbyImage, getSrc } from "gatsby-plugin-image";
+import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import Checkout from "../../components/checkoutNietzsche";
-import Reviews from "../../components/reviewsLBQ"
+import Checkout from "../../components/checkoutNietzsche"
+import ReviewsLatestNietzsche from "../../components/reviewsLatestNietzsche"
 
 const Page = ({ data, location }) => {
     
     const imagePath = getSrc(data.lbq)
+    const chap1 = getSrc(data.chapter1)
+    const chap2 = getSrc(data.chapter2)
+    const chap3 = getSrc(data.chapter3)
+    const chap4 = getSrc(data.chapter4)
+    const chap5 = getSrc(data.chapter5)
+    const chap6 = getSrc(data.chapter6)
 
     return (
     <>
@@ -24,113 +30,141 @@ const Page = ({ data, location }) => {
                 <div>
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>BITE-SIZE COURSE</span><div className="separator course"></div>
                     <h1 className="smaller">Introduction to Nietzsche and His 5 Greatest Ideas: 6-Day Course</h1>
+                    <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                     <p className="verified discount">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                     <Checkout />
                 </div>
                 <div>
-                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" />
+                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" />
+                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are delivered direct to your inbox over 6 days, and are accessible forever from any device.</i></p>
+                </div>
+            </div>
+            {/*latest reviews*/}
+            <div className="small-pad">
+                <div className="page-center text-center">
+                    <h4 className="no-mar-bottom">Latest Reviews:</h4>
+                    <ReviewsLatestNietzsche />
+                    <p className="no-mar-bottom"><AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>See All Reviews</AnchorLink></p>
                 </div>
             </div>
         </div>
         {/*Chapters*/}
-        <div id="look-inside"  className="grey-background small-pad-bottom">
+        <div id="look-inside"  className="grey-background small-pad">
             <div className="page-center">
-                <h2 className="small-pad text-center no-pad-top-mob">What You Get Delivered to Your Inbox Over 6 Days:</h2>
-                <div className="four-col tiny-pad-bottom-mob">
-                    <div className="small-mar">
+                <h2 className="text-center">What You Get Delivered to Your Inbox Over 6 Days:</h2>
+                <div className="four-col small-pad">
+                    <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
                         <p className="small-grey-font">Crystal clear insight into Nietzsche’s most provocative arguments and ideas.</p>
                     </div>
                     <div className="small-mar">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 6 concise overviews</h5>
-                        <p className="small-grey-font">One succinct overview (30-40 min read) distilling each core topic covered.</p>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 6 concise chapters</h5>
+                        <p className="small-grey-font">One succinct chapter (30-40 min read) distilling each core Nietzsche topic covered.</p>
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 6 guided reflections</h5>
-                        <p className="small-grey-font">Six sets of questions and reflections to round out each day's philosophizing.</p>
+                        <p className="small-grey-font">Six sets of questions and reflections to round out each day’s philosophizing.</p>
                     </div>
-                    <div className="small-mar">
+                    <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 6 reading lists</h5>
                         <p className="small-grey-font">Six curated reading lists for effective further exploration of Nietzsche’s great ideas.</p>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Life, Work, and Legacy</span></h3>
                         <p className="spectral">Who was Friedrich Nietzsche? What life did he lead that led him to have the ideas that he did? On day one we’ll set the scene and contextualize what’s to come by looking at Nietzsche the man, his influences, and outline all of his major works and chronology.</p>
                     </div>
                     <div>
+                    <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter1.childImageSharp.gatsbyImageData}
                         alt="Nietzsche’s Life, Work, and Legacy" />
+                        <p className="image-caption-tap">↗ Chapter 1 (51 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">2</span><span>The Apollonian & Dionysian</span></h3>
                         <p className="spectral">On day two we’ll start digging deeper into Nietzsche’s core ideas. We’ll begin with his early distinction between the Apollonian and Dionysian, which acts not only as a supremely illuminating way to consider life and art, but also as a precursor to his later ideas.</p>
                     </div>
                     <div>
+                    <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter2.childImageSharp.gatsbyImageData}
                         alt="The Apollonian & Dionysian" />
+                        <p className="image-caption-tap">↗ Chapter 2 (39 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">3</span><span>Perspectivism</span></h3>
                         <p className="spectral">Do human beings have access to objective truth? Day three will consider Nietzsche’s fascinating theory of perspectivism, a highly sophisticated account of what truth is and how we can access it — an account that continues to excite scholars today.</p>
                     </div>
                     <div>
+                    <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter3.childImageSharp.gatsbyImageData}
                         alt="Nietzsche’s Perspectivism" />
+                        <p className="image-caption-tap">↗ Chapter 3 (35 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Master & Slave Morality</span></h3>
                         <p className="spectral">Where do morals come from? Nietzsche’s profound contribution to answering this question will be discussed on day four, where we’ll assess his takedown of traditional values like altruism, as well as his concepts of the ascetic ideal, master morality, and slave morality.</p>
                     </div>
                     <div>
+                    <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter4.childImageSharp.gatsbyImageData}
                         alt="Master & Slave Morality" />
+                        <p className="image-caption-tap">↗ Chapter 4 (54 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">5</span><span>God is Dead & the Übermensch</span></h3>
                         <p className="spectral">What should we value in a Godless world — and why? Nietzsche’s attempt to provide a ‘revaluation of values’ will be discussed on day five, where we’ll consider his famous ideas that God is Dead, the eternal recurrence, and the Übermensch (superman).</p>
                     </div>
                     <div>
+                    <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter5.childImageSharp.gatsbyImageData}
                         alt="God is Dead & the Übermensch" />
+                        <p className="image-caption-tap">↗ Chapter 5 (46 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div className="small-mar">
-                <div className="two-col big-2-col page-center row-reverse">
+                <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">6</span><span>The Will to Power</span></h3>
                         <p className="spectral">Is there a unified system that underpins Nietzsche’s thought? Well, the ‘will to power’ is a good candidate. Day six will discuss how the will to power plays a crucial role throughout Nietzsche’s writings, and summarize where scholars stand on it today.</p>
                     </div>
                     <div>
+                    <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer">
                     <GatsbyImage
                         image={data.chapter6.childImageSharp.gatsbyImageData}
                         alt="The Will to Power" />
+                        <p className="image-caption-tap">↗ Chapter 6 (50 pages). Tap to enlarge.</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -143,8 +177,67 @@ const Page = ({ data, location }) => {
             </div>
         </div>
         
-        {/*Reviews*/}
-        <Reviews bg="grey-background no-hover" title="Reviews for Philosophy Break Courses" toggle="secondary" />
+        {/*Reviews - create component when over 10 (copy LBQ one)*/}
+        <div className="grey-background no-hover mid-pad" id="reviews">
+            <div className="page-center">
+                <h2>9 Course Reviews</h2>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Great course experience, content was clear and simple to read. Loved the way the course was delivered and the writing was informative, interesting, and easy to understand. My favorite chapter was the final one on the will to power, I thought it brought everything together very nicely. Thanks for creating such an accessible course on Nietzsche!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julien S. on 22 March 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Please make more</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>It was really good. Honestly, there are things I thought I knew but turns out I had completely misunderstood from the books and the course helped me to figure out what I was missing. The content was very easy to understand and didactic, covering everything I was hoping for, and the difficulty of material was very well balanced. Please make more!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Joaquim N. on 16 March 2022</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It's been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David U. on 11 March 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very good course experience. The daily chapters worked very well - one a day allowed me to pace my reading, and the course content was very good, with concepts clearly explained and easy to follow.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Brian P. on 27 February 2022</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Exactly what I hoped for</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>The length and depth of the course was exactly what I hoped for. (My only exposure to Nietzsche was in reading Will Durant's Story of Philosophy in high school - in the 1970s!) The content was well organized and let the reader see how Nietzsche developed his ideas over time. Placing his work in the context of his health issues was tremendously important. The writing was easy to understand and covered everything I expected it to (based on what little I already knew about Nietzsche) and more. All chapters were good, interesting, and engaging, but my favorite was #4, Master and Slave morality, which really resonated with me.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chuck M. on 25 February 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Brilliant course, very well researched and written. Cleared up a lot of uncertainty I had about Nietzsche, having tried and failed to get into his books! Really enjoyed the daily chapters and would recommend for anyone interested in but not sure where to start with Nietzsche.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 19 February 2022</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great survey of Nietzsche</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Great survey of Nietzsche's thought. Covered everything I wanted to know. Made Nietzsche's works really easy to understand, and I appreciated the references to all the ongoing scholarship on Nietzsche too. Thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Andy G. on 18 February 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Clears it all up</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very good. There are many, many misunderstandings of Nietzsche out there, and this course helped clear it all up for me! All the chapters are great but I actually found the fifth on Nietzsche's more positive philosophy to be the most inspiring.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lesh W. on 13 February 2022</span></div>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant introduction</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Brilliant introduction to Nietzsche. I tried reading Beyond Good and Evil years ago and found it interesting but knew most of it was going over my head. This course breaks it all down brilliantly and makes very difficult / unclear material very easy to understand, introducing lots of different scholarly perspectives and interpretations of what Nietzsche is saying. Highly recommend.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie D. on 11 February 2022</span></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
 
         <div className="grey-background small-pad">
             <div className="page-center">
@@ -221,37 +314,37 @@ export const query = graphql`{
   }
   about: file(relativePath: {eq: "intro-to-nietzsche-chap1-full.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   chapter1: file(relativePath: {eq: "Nietzsche-Chapter-1.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
   chapter2: file(relativePath: {eq: "Nietzsche-Chapter-2.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
   chapter3: file(relativePath: {eq: "Nietzsche-Chapter-3.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
   chapter4: file(relativePath: {eq: "Nietzsche-Chapter-4.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
   chapter5: file(relativePath: {eq: "Nietzsche-Chapter-5.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
   chapter6: file(relativePath: {eq: "Nietzsche-Chapter-6.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }
   }
 }

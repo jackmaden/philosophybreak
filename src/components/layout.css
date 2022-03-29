@@ -59,30 +59,36 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .small-grey-font a {color: #001d30;}
 .darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
+.two-col.small-top-mar div.gatsby-image-wrapper {margin: 1em 0 2em;} /*for course chapters on mobile*/ 
 p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 16px;} /*smaller font size on LP*/
 .flex-end {display: flex; align-items: flex-end;}
 .fade-out {position: absolute; bottom: 0; width: 100%; height: 250px; background-image: linear-gradient(to bottom, transparent, rgba(255,255,255,1));}
+.image-caption-tap {margin-top: -44px; font-size: 11px; color: rgb(115, 125, 136); margin-bottom: 44px;}
 @media (min-width: 620px) {
   p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
   .small-grey-font, .large-grey-font {font-size: 20px;}
   .mid-width {width: 600px; margin-left: auto; margin-right: auto;}
   .small-width {width: 400px; margin-left: auto; margin-right: auto;}
   .fade-out {height: 200px;}
+  .image-caption-tap {font-size: 12px; margin-top:-46px;}
 }
 @media (min-width: 1020px) {
   .small-pad-desktop {padding: 24px 0;}
   .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 48px;}
+  .no-pad-top-desktop {padding-top: 0;}
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
-  .two-col, .four-col {display: flex; justify-content: space-between; align-items: center;}
+  .two-col, .three-col, .four-col {display: flex; justify-content: space-between; align-items: center;}
   .two-col > div {width: 46%;}
+  .two-col.small-top-mar div.gatsby-image-wrapper {margin: 2em 0;} /* course chapters - normalizing it back for desktop*/
   .two-col div div.gatsby-image-wrapper {width: 100%;}
   .two-col.row-reverse {flex-direction: row-reverse;}
-  .two-col.align-top {align-items: flex-start;}
+  .two-col.align-top, .three-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
   .four-col > div {width: 22.5%;}
   .two-col.text > div {width: 48%;}
+  .three-col > div {width: 30%;}
   figure.gatsby-resp-image-figure.big-image {margin: 3.2em 0 3em -200px; width: 1000px;}
 }
 @media (min-width: 1120px) {
@@ -176,6 +182,7 @@ a {color: #001d30; text-decoration: underline; -webkit-text-decoration-color: #3
 a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
 a.no-hover:hover {background: none;}
 a.white-underline {-webkit-text-decoration-color: #fff; -ms-text-decoration-color: #fff; -moz-text-decoration-color: #fff; text-decoration-color: #fff;}
+a.no-decoration {text-decoration: none;}
 /*lists*/
 
 /*buttons*/
@@ -482,7 +489,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 
 /*white bg LBQ panel*/
 .white-background .time.tag, .white-background a.white-underline, .grey-background.course .time.tag, .grey-background.course a.white-underline {color: #001d30;}
-.white-background a.white-underline, .grey-background.course a.white-underline {text-decoration-color: #36b4ff;}
+.white-background a.white-underline, .grey-background.course a.white-underline {text-decoration-color: #001d30;}
 
 
 /***article listing***/

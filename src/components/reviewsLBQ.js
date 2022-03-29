@@ -13,6 +13,19 @@ export default function Reviews(props) {
                 <h2>{props.title}</h2>
                 <div className="two-col align-top">
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Fantastic! Loved the delivery of one chapter per day and the content was fascinating. I didn't know much about philosophy going into this, and some things like consciousness I didn't realize had such a philosophical component. Really interesting, and I'd highly recommend the course. Thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Bernie L. on 11 March 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Really good</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>I had a really good course experience, thanks. Good portion size of information each day, really easy to read, and really informative and interesting - cuts through a lot of waffle. Would recommend for anyone interested in philosophy.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Phoebe T. on 9 February 2022</span></div>
+                    </div>
+                </div>
+
+                <div className="two-col align-top">
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Truly enjoyed</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Excellent course experience! Good pace and length of reads, combined with very well written content. Complexities are shared in a digestible manner. The reading lists are a great addition. I truly enjoyed every chapter. Thanks!</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tomas R. on 27 January 2022</span></div>
@@ -59,24 +72,25 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jonathon B. on 27 August 2021</span></div>
                     </div>
                 </div>
-                <div className="two-col align-top">
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great job to everybody involved</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>It was great! Course material is written in a very accessible way that will appeal to any reader. The questions selected are the right ones, and they are presented in a nicely woven sequence. I can appreciate how hard it is to synthesize philosophy texts into such an easy to understand and nicely written text, so great job. One chapter per day represented a manageable time commitment that always left me excited for the next day, and my favorite chapter was the last one on how we should approach life. Reading what other thinkers had to say about it was very enriching and brought home the point that there is no universal answer. Great job to everybody involved in creating this course!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julien S. on 23 July 2021</span></div>
-                    </div>
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good introduction</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Very interesting content and delivered really thoughtfully. I enjoyed receiving one chapter per day and think it's a really good format for making what could be quite difficult content accessible and digestible. All the topics were stimulating but I especially enjoyed the discussion on free will. Determinism is quite terrifying! Overall a very good introduction to philosophy. Will certainly be recommending this course. Thank you!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sara B. on 15 June 2021</span></div>
-                    </div>
-                </div>
+                
                 
                 
                 
                 
                 {/*load more reviews*/}
                 <div id="load-more" className={isActive ? null : "show"}>
+                    <div className="two-col align-top">
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great job to everybody involved</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>It was great! Course material is written in a very accessible way that will appeal to any reader. The questions selected are the right ones, and they are presented in a nicely woven sequence. I can appreciate how hard it is to synthesize philosophy texts into such an easy to understand and nicely written text, so great job. One chapter per day represented a manageable time commitment that always left me excited for the next day, and my favorite chapter was the last one on how we should approach life. Reading what other thinkers had to say about it was very enriching and brought home the point that there is no universal answer. Great job to everybody involved in creating this course!</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julien S. on 23 July 2021</span></div>
+                        </div>
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good introduction</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Very interesting content and delivered really thoughtfully. I enjoyed receiving one chapter per day and think it's a really good format for making what could be quite difficult content accessible and digestible. All the topics were stimulating but I especially enjoyed the discussion on free will. Determinism is quite terrifying! Overall a very good introduction to philosophy. Will certainly be recommending this course. Thank you!</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sara B. on 15 June 2021</span></div>
+                        </div>
+                    </div>
                     <div className="two-col align-top">
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Really well put together</i></span></p>

@@ -21,7 +21,7 @@ const Page = ({ data, location }) => {
         {/*page title*/}
 
         <WindowHeightWrapper className="title">
-          <GatsbyImage image={data.default.childImageSharp.gatsbyImageData} className="title-img featured-image-full" alt="Why is philosophy important?" />
+          <GatsbyImage image={data.default.childImageSharp.gatsbyImageData} className="title-img featured-image-full" alt="Why is philosophy important?" loading="eager" />
           <div className="darkener"></div>
           <div className="page-center title-center mid-width">
             <h1>Why Is Philosophy Important Today, and How Can It Improve Your Life?</h1>

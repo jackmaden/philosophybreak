@@ -7,10 +7,6 @@ import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import SubscriptionForm from '../../components/subscriptionForm'
-import PanelReadingList from '../../components/panelReadingList'
-import PanelArticleList from "../../components/panelArticleList"
-import PanelAboutUs from "../../components/panelAboutUs"
-import PanelLBQ from "../../components/panelLBQ"
 
 const Page = ({ data, location }) => {
     return (
@@ -31,7 +27,7 @@ const Page = ({ data, location }) => {
             <div>
                 <GatsbyImage
                     image={data.about.childImageSharp.gatsbyImageData}
-                    alt="Philosophy Break" />
+                    alt="Philosophy Break" loading="eager" />
             </div>
         </div>
         <div className="mid-pad">
