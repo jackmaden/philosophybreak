@@ -34,7 +34,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
-@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0;} .no-pad-top-mob {padding-top: 0;}}
+@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0 !important;} .no-pad-top-mob {padding-top: 0;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
 .tiny-pad-bottom {padding-bottom: 12px;}
@@ -51,6 +51,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .large-pad-top {padding-top: 64px;}
 .large-mar {margin: 64px 0;}
 .no-mar {margin: 0 !important;}
+.no-mar-top {margin-top: 0 !important;}
 .no-mar-bottom {margin-bottom: 0 !important;}
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
@@ -75,7 +76,11 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 @media (min-width: 1020px) {
   .small-pad-desktop {padding: 24px 0;}
   .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 48px;}
+  .no-pad-desktop {padding: 0;}
   .no-pad-top-desktop {padding-top: 0;}
+  .no-pad-bottom-desktop {padding-bottom: 0;}
+  .no-mar-top-desktop {margin-top: 0;}
+  .no-mar-bottom-desktop {margin-bottom: 0;}
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
   .two-col, .three-col, .four-col {display: flex; justify-content: space-between; align-items: center;}
@@ -455,6 +460,7 @@ svg.bounce {margin-right: 0;}
 .title.list div.title-center {bottom: 18px;}
 .time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
 .time.tag.home {font-size: 12px;}
+.time.tag.new {margin-left: 6px;}
 .time.tag svg {width: 14px; height: 14px; vertical-align: sub; margin-right: 4px;}
 .time.tag.home svg {width: 16px; height: 16px;}
 .reading-list-title .time.tag {font-size: 8px; margin-bottom: 4px;}
@@ -462,7 +468,8 @@ svg.bounce {margin-right: 0;}
 .reading-list-title p {font-size: 16px;}
 div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
-div.separator.course {margin: -3px 0 10px; width: 116px;}
+div.separator.course {margin: -4px 0 10px; width: 116px;}
+div.separator.course.new {margin: -8px 0 10px 45px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}

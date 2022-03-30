@@ -1,7 +1,7 @@
 import React from "react"
 
 const ReviewsLatestNietzsche = () => (
-    <div className="three-col align-top" style={{textAlign: "left"}}>
+    <div className="three-col align-top">
         <div className="small-mar">
             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great</i></span></p>
             <span style={{lineHeight: "1.3"}}>Great course experience, content was clear and simple to read. Loved the way the course was delivered and the writing was informative, interesting, and easy to understand. My favorite chapter was the final one on the will to power, I thought it brought everything together very nicely. Thanks for creating such an accessible course on Nietzsche!</span>

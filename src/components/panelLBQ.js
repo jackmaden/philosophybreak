@@ -21,13 +21,16 @@ const PanelLBQ = props => (
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill={props.fill} d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>BITE-SIZE COURSE</span><div className="separator course mobile-center-margin"></div>
                     <h2>5-Day Introduction to Philosophy Course</h2>
                     <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <Link to="/lifes-big-questions/" className="white-underline" style={{fontSize: "16px"}}>(31 reviews)</Link></p>
-                    <p className="verified discount">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+
                     <GatsbyImage
                         image={data.lbq.childImageSharp.gatsbyImageData}
                         className="desktop-no-display"
                         fadeIn={false}
                         loading="eager"
                         alt="Life's Big Questions" />
+
+                    <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                    
                     <p className="large-grey-font no-mar-top-mob">Why does anything exist? Do we have free will? How should we approach life? We’ve distilled the great philosophers’ best answers to life’s big questions. Start learning today.</p>
                     <Link className="button primary" to="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>Learn More about Course</Link>
                 </div>
@@ -41,6 +44,7 @@ const PanelLBQ = props => (
             </div>
             <div className="small-pad no-pad-top-desktop">
                 <div className="page-center text-center">
+                    <h4 style={{fontWeight: "900"}} className="no-mar-bottom">Latest Course Reviews:</h4>
                     <ReviewsLatestLBQ />
                     <p className="no-mar-bottom"><Link to="/lifes-big-questions/" className="white-underline" style={{fontSize: "16px"}}>See All Course Reviews</Link></p>
                 </div>

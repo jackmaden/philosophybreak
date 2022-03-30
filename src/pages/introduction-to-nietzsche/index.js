@@ -28,14 +28,15 @@ const Page = ({ data, location }) => {
         <div className="top-title grey-background course no-mar-bottom small-pad-bottom-mob-mid-pad-bottom-desk" id="top">
             <div className="two-col page-center">
                 <div>
-                    <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>BITE-SIZE COURSE</span><div className="separator course"></div>
+                    <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>BITE-SIZE COURSE</span><div className="separator course new"></div>
                     <h1 className="smaller">Introduction to Nietzsche and His 5 Greatest Ideas: 6-Day Course</h1>
                     <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
-                    <p className="verified discount">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display" />
+                    <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                     <Checkout />
                 </div>
-                <div>
+                <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" />
                     <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are delivered direct to your inbox over 6 days, and are accessible forever from any device.</i></p>
                 </div>
@@ -43,17 +44,17 @@ const Page = ({ data, location }) => {
             {/*latest reviews*/}
             <div className="small-pad">
                 <div className="page-center text-center">
-                    <h4 className="no-mar-bottom">Latest Reviews:</h4>
+                    <h4 style={{fontWeight: "900"}} className="no-mar-bottom">Latest Course Reviews:</h4>
                     <ReviewsLatestNietzsche />
                     <p className="no-mar-bottom"><AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>See All Reviews</AnchorLink></p>
                 </div>
             </div>
         </div>
         {/*Chapters*/}
-        <div id="look-inside"  className="grey-background small-pad">
+        <div id="look-inside"  className="grey-background small-pad no-pad-bottom-desktop">
             <div className="page-center">
                 <h2 className="text-center">What You Get Delivered to Your Inbox Over 6 Days:</h2>
-                <div className="four-col small-pad">
+                <div className="four-col small-pad no-pad-desktop">
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
                         <p className="small-grey-font">Crystal clear insight into Nietzsche’s most provocative arguments and ideas.</p>
@@ -72,7 +73,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="small-mar">
+            <div className="small-mar no-mar-top-desktop">
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Life, Work, and Legacy</span></h3>
