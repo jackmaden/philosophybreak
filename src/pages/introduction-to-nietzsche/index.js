@@ -308,7 +308,7 @@ const Page = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  lbq: file(relativePath: {eq: "intro-to-nietzsche-social.png"}) {
+  lbq: file(relativePath: {eq: "intro-to-nietzsche-social.jpg"}) {
     childImageSharp {
         gatsbyImageData(width: 1200, quality: 90, layout: CONSTRAINED)
     }

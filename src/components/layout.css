@@ -145,6 +145,7 @@ h1 {font-size: 36px; font-weight: 900;}
 h1#home-page {font-size: 34px;}
 h2 {font-size: 34px; font-weight: 900;}
 #break-start h2 {font-size: 30px; margin: 2em 0 0.5em;}
+#break-start .smaller-h2 h2 {font-size: 24px;}
 h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
 h3 {font-size: 26px; font-weight: 900;}
 h4 {font-size: 22px;}
@@ -162,6 +163,7 @@ h5 {font-size: 20px;}
     h1#home-page {font-size: 45px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
+    #break-start .smaller-h2 h2 {font-size: 26px;}
     h3 {font-size: 32px;}
     h4 {font-size: 26px;}
     h5 {font-size: 22px;}
