@@ -35,7 +35,7 @@ While Judeo-Christian moral values aren’t exactly Nietzsche’s preference (he
 
 Indeed, regardless of its degenerative, life-denying properties (i.e. the valorization of self-denial in the name of ‘virtue’), the Judeo-Christian moral system is at least a _mechanism_ for value creation, Nietzsche says. And this mechanism is so deeply embedded within Western culture — with many of its values like pity, altruism, and compassion regarded as commonsensical or even natural — that coming to terms with its collapse will be painful, psychologically damaging, and extremely difficult. 
 
-We thus face a long, daunting task of dismantling our now foundationless values to rebuild them in healthier, life-affirming ways. After all, as Nietzsche puts it,
+We thus face a long, daunting task of dismantling our now foundationless values to rebuild them in healthier, life-affirming ways. After all, as Nietzsche puts it (in a typically pithy statement that features in our list of [Nietzsche’s cleverest quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)):
 
 >God is dead, but given the way of men, there may still be caves for thousands of years in which his shadow will be shown. And we — we still have to vanquish his shadow, too.
 

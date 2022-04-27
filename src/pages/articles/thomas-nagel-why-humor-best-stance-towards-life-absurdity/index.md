@@ -40,7 +40,7 @@ If a mouse _were_ to suddenly gain such abilities, Nagel writes, “his life _wo
 
 ## What _really_ makes life absurd? How Nagel differs from Camus
 
-<span class="big-letter">N</span>agel’s conception of absurdity — that we take our lives seriously despite recognizing their contingency — subtly differs from the better-known account put forward by the cool chief of absurdism, French philosopher Albert Camus. 
+<span class="big-letter">N</span>agel’s conception of absurdity — that we take our lives seriously despite recognizing their contingency — subtly differs from the better-known account put forward by the cool chief of absurdism, French philosopher [Albert Camus](/reading-lists/albert-camus/). 
 
 [Camus states the absurdity of the human condition](/articles/absurdity-with-camus) arises from our need for meaning in a meaningless world. But for Nagel this doesn’t quite hit the mark. Absurdity arises not from our relationship to the world, he thinks, but from our human capacity to step back and adopt a universe-eye view of our existence. As he clarifies:
 

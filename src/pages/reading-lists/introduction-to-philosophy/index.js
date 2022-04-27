@@ -18,7 +18,7 @@ const ReadingList = ({ data, location }) => {
       <>
       <Seo title="An Introduction to Philosophy – The Best 5 Books to Read" description="A curated reading list of the most essential introductions to the fascinating subject of philosophy." image={imagePath} pathname={location.pathname} />
       <MailchimpPopUp />
-      <Layout>
+      <Layout> 
       <Navigation />
           <ScrollProgressBar />
           {/*reading list title*/}
@@ -103,11 +103,6 @@ export const query = graphql`{
   four: file(relativePath: {eq: "introductionwarburton.jpg"}) {
     childImageSharp {
       gatsbyImageData(height: 230, layout: CONSTRAINED)
-    }
-  }
-  philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 22, layout: CONSTRAINED)
     }
   }
 }

@@ -122,11 +122,6 @@ export const query = graphql`{
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
-  philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 22, layout: CONSTRAINED)
-    }
-  }
 }
 `
 
