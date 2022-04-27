@@ -603,21 +603,21 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white a .article-info {width: 67%}
 .article.white.cta a .article-info {width: 57%; margin-left: 3%;}
 .article.white a .article-info p {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; color: #001d30;}
-.article.white a .article-info a.button {display: inline-block; margin-top: 0.5em; margin-bottom: 0; font-size: 14px;}
+.article.white a .article-info a.button, .article.white a .article-info span.button {display: inline-block; margin-top: 0.5em; margin-bottom: 0; font-size: 14px;}
 @media (min-width: 420px) {
-  .article.white a div.gatsby-image-wrapper {width: 30%;}
+  .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 30%;}
   .article.white a .article-info {width: 70%}
 }
 @media (min-width: 480px) {
-  .article.white a div.gatsby-image-wrapper {width: 27%;}
+  .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 27%;}
   .article.white a .article-info {width: 73%}
 }
 @media (min-width: 520px) {
-  .article.white a div.gatsby-image-wrapper {width: 25%;}
+  .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 25%;}
   .article.white a .article-info {width: 75%}
 }
 @media (min-width: 620px) {
-  .article.white a .article-info a.button {font-size: 16px;}
+  .article.white a .article-info a.button, .article.white a .article-info span.button {font-size: 16px;}
   .article.white.cta a div.gatsby-image-wrapper, .article.white.cta a span.gatsby-resp-image-wrapper {width: 40%;}
   .article.white.cta a .article-info {width: 57%; margin-left: 3%;}
 }

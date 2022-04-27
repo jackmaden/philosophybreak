@@ -28,6 +28,7 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-robots-txt',
             options: {
+              sitemap: 'https://philosophybreak.com/sitemap/sitemap-0.xml',
               policy: [{ userAgent: '*', disallow: '' }]
             }
         },

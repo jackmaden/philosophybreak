@@ -17,7 +17,7 @@ const HomeArticleList = () => {
                       description
                       imageSeo {
                         childImageSharp {
-                          gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
+                          gatsbyImageData(width: 600, layout: CONSTRAINED)
                         }
                       }
                       imageAlt

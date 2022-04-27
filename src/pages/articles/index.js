@@ -89,7 +89,7 @@ export const query = graphql`query ArticleList {
           imageAlt
           imageSeo {
             childImageSharp {
-              gatsbyImageData(width: 240, height: 230, layout: CONSTRAINED)
+              gatsbyImageData(width: 600, layout: CONSTRAINED)
             }
           }
           date
@@ -99,26 +99,6 @@ export const query = graphql`query ArticleList {
           slug
         }
       }
-    }
-  }
-  default: file(relativePath: {eq: "philosophy-break.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
-    }
-  }
-  morning: file(relativePath: {eq: "morning.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
-    }
-  }
-  evening: file(relativePath: {eq: "evening.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
-    }
-  }
-  file(relativePath: {eq: "philosophybreak.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 20, height: 20, layout: FIXED)
     }
   }
 }
