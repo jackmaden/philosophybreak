@@ -102,6 +102,8 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
 
+                <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.arendt.childImageSharp.gatsbyImageData} alt="Hannah Arendt reading list" />
+                
                 <BannerReadingList title="Albert Camus" number="5" link="/reading-lists/albert-camus/" img={data.camus.childImageSharp.gatsbyImageData} alt="Albert Camus reading list" />
                 
 
@@ -244,6 +246,11 @@ export const query = graphql`{
     }
   }
   camus: file(relativePath: {eq: "camus.webp"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  arendt: file(relativePath: {eq: "hannah-arendt.jpeg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

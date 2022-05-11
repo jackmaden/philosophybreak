@@ -47,7 +47,7 @@ The course gets rave reviews, and if you’re interested in Nietzsche it might b
     </a>
 </div>
 
-We’ve also created a condensed [reading list of the 7 best books by and about Nietzsche](/reading-lists/friedrich-nietzsche/), where we also offer some more biographical details about the great philosopher’s life.
+We’ve also created a condensed [reading list of the 7 best books by and about Nietzsche](/reading-lists/friedrich-nietzsche/), where we offer some more biographical details about the great philosopher’s life.
 
 Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocative quotations, organized chronologically according to the books in which they appear. Enjoy! 
 

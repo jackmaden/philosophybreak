@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher Hannah Arendt throughout her life and work, and in her final (and unfinished) 1977 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3">The Life of the Mind</a>, she seems to offer a conclusion, writing: 
+<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher [Hannah Arendt](/reading-lists/hannah-arendt/) throughout her life and work, and in her final (and unfinished) 1977 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3">The Life of the Mind</a>, she seems to offer a conclusion, writing: 
 
 >The sad truth is that most evil is done by people who never make up their minds to be good or evil.
 
@@ -52,16 +52,16 @@ Can you think of anything you’re desensitized to today?
 
 In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of information, custom, and circumstance the world throws at us. It's not easy, but by practicing philosophy, we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
 
-To ensure your thoughts are always stimulated, we’ve put together a reading list of [the 14 most important, influential, and informative books on political philosophy](/reading-lists/political-philosophy/). Check it out by hitting the banner below now.
+To ensure your thoughts are always stimulated, and to learn more about the work of brilliant philosopher Hannah Arendt, we’ve put together a reading list of [the best six books by and about Arendt](/reading-lists/hannah-arendt/). Check it out by hitting the banner below now.
 
-<a class="reading-list cta" href="/reading-lists/political-philosophy/">
-    <img class="title-img" src="./politics.jpg"/>
+<a class="reading-list cta" href="/reading-lists/hannah-arendt/">
+    <img class="title-img" src="./hannah-arendt.jpeg"/>
     <div class="darkener"></div>
     <div class="reading-list-title">
         <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
         <div class="separator reading-list banner"></div>
-        <h3>Political Philosophy</h3>
-        <p style="margin: 0;">The Top 14 Books to Read</p>
+        <h3>Hannah Arendt</h3>
+        <p style="margin: 0;">The Best 6 Books to Read</p>
     </div>    
     <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
 </a>
