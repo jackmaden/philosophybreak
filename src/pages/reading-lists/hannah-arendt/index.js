@@ -31,7 +31,7 @@ const ReadingList = ({ data, location }) => {
 
             <p>Arendt is perhaps most famous for her coining of the phrase, the ‘banality of evil’. As we explore in our short <Link to="/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/">explainer piece on the ‘banality of evil’</Link>, Arendt argues that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by unthinking people. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.</p>
 
-            <p>Early on in her academic life, Arendt was a student of the German philosopher Martin Heidegger, with whom she had a four-year love affair. Heidegger infamously joined the Nazi party in the years leading up to World War Two. Arendt cut ties with Heidegger, fled an increasingly hostile Berlin (as a Jewish woman, she’d already been targeted by the Gestapo), and settled in France for seven years.</p>
+            <p>Early on in her academic life, Arendt was a student of the German philosopher Martin Heidegger, with whom she had a two-year love affair. Heidegger infamously joined the Nazi party in the years leading up to World War Two. Arendt cut ties with Heidegger, fled an increasingly hostile Berlin (as a Jewish woman, she’d already been targeted by the Gestapo), and settled in France for seven years.</p>
 
             <div className="course-promo text-center">
                 <h4>Philosophy in Your Twitter Feed</h4>
