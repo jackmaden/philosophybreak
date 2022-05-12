@@ -15,7 +15,7 @@ const Page = ({ data, location }) => {
     <Layout>
     <Navigation bg="light-bg" />
         {/*page title*/}
-        <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible and engaging for all." />
+        <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible, engaging, and useful for all." />
 
         {/*page content*/}
         <div className="two-col spectral page-center">

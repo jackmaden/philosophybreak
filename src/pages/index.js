@@ -51,7 +51,7 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">Wondering where to start? Expand your mind and learn the basics of philosophy with our free, popular, 3-part email course, which delivers our quickfire introductory materials direct to your inbox.</p>
+              <p className="large-grey-font">Philosophy is difficult. We strive to make its wisdom accessible, engaging, and useful. Wondering where to start? Expand your mind and learn the basics of philosophy with our free, 3-part email course.</p>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
               <HomeSubscriptionForm />
             </div>
