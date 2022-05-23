@@ -20,7 +20,7 @@ const Page = ({ data, location }) => {
         {/*page content*/}
         <div className="two-col spectral page-center">
             <div>
-                <p><span className="big-letter">S</span>ince 2018, we’ve been on a mission to wrap philosophy’s best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
+                <p><span className="big-letter">P</span>hilosophy, though wonderful, can be dense. Since 2018, we’ve been on a mission to wrap its best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
                 <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, popular, <Link to="/philosophy-basics/">3-part email course on what philosopy is and how it can improve your life</Link>.</p>
                 <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
             </div>

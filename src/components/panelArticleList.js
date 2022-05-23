@@ -36,7 +36,7 @@ const PanelArticleList = () => {
                         <span className="text-center">
                             <h2>Latest Breaks</h2>
                             <div className="separator" style={{marginBottom: "2em"}}></div>
-                            <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
+                            <p className="small-grey-font mid-width">Each philosophy break takes only a few minutes to read, and is crafted to expand your mind and spark your curiosity.</p>
                         </span>
                         {data.allMarkdownRemark.edges.slice(0, 4).map(edge => {
                             //curly brackets around variable is a destructuring assignment - e.g. the below equals edge.node.frontmatter & also edge.node.timeToRead

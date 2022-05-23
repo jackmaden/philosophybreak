@@ -41,7 +41,7 @@ const HomeArticleList = () => {
                     <span className="text-center">
                             <h2>Latest Breaks</h2>
                             <div className="separator" style={{marginBottom: "2em"}}></div>
-                            <p className="small-grey-font mid-width">Each break takes only a few minutes to read, and is crafted to expand your mind and spark your philosophical curiosity.</p>
+                            <p className="small-grey-font mid-width">Each philosophy break takes only a few minutes to read, and is crafted to expand your mind and spark your curiosity.</p>
                         </span>
                     {data.allMarkdownRemark.edges.slice(0, 1).map(edge => {
                       // LATEST ARTICLE

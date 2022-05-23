@@ -39,19 +39,19 @@ const Page = ( {data} ) => {
     <>
     <Seo title="Philosophy Break – Your Home for Learning about Philosophy" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
-    <Navigation />
+    <Navigation bg="light-bg" />
 
         {/*page title*/}
-        <div className="darkradial-background top-title home">
+        <div className="grey-background top-title home">
           <div className="two-col big-2-col page-center">
             <div className="mobile-center">
-              <span className="tag time home" style={{marginBottom: "12px", color: "#fff"}}>
+              <span className="tag time home" style={{marginBottom: "12px", color: "#001d30"}}>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
               <h1 id="home-page">Welcome to your home for learning about philosophy</h1>
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">Philosophy is difficult. We strive to make its wisdom accessible, engaging, and useful. Wondering where to start? Expand your mind and learn the basics of philosophy with our free, 3-part email course.</p>
+              <p className="large-grey-font">Philosophy, though wonderful, can be dense. We strive to make its wisdom accessible, engaging, and useful. Wondering where to start? Learn the basics of philosophy with our free, 3-part email course:</p>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
               <HomeSubscriptionForm />
             </div>

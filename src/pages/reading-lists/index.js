@@ -21,22 +21,17 @@ const Page = ({ data, location }) => {
     <>
     <Seo title="Best Philosophy Books – Essential Philosophy Reading Lists by Subject" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
     <Layout>
-    <Navigation />
-
-        {/*page background color*/}
-        <div class="darkradial-background small-pad-bottom-mob-mid-pad-bottom-desk">
+    <Navigation bg="light-bg" />
 
             {/*page title*/}
             <TopTitle title="The Best Philosophy Books" subtitle="Explore our curated reading lists of the best and most important philosophy books, organized by subject and philosopher." />
             <div className="page-center">
-              <div className="button-pair">
+              <div className="button-pair small-pad-bottom">
                 
                 <AnchorLink href="#subject" className="button primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>Explore by Subject</AnchorLink>
                 <AnchorLink href="#philosopher" className="button secondary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M313.6 304c-28.7 0-42.5 16-89.6 16-47.1 0-60.8-16-89.6-16C60.2 304 0 364.2 0 438.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-25.6c0-74.2-60.2-134.4-134.4-134.4zM400 464H48v-25.6c0-47.6 38.8-86.4 86.4-86.4 14.6 0 38.3 16 89.6 16 51.7 0 74.9-16 89.6-16 47.6 0 86.4 38.8 86.4 86.4V464zM224 288c79.5 0 144-64.5 144-144S303.5 0 224 0 80 64.5 80 144s64.5 144 144 144zm0-240c52.9 0 96 43.1 96 96s-43.1 96-96 96-96-43.1-96-96 43.1-96 96-96z"/></svg>Explore by Philosopher</AnchorLink>
               </div>
             </div>
-            
-        </div>
             
             
             {/*page content*/}
