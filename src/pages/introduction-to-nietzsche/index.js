@@ -8,6 +8,7 @@ import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
 import Checkout from "../../components/checkoutNietzsche"
 import ReviewsLatestNietzsche from "../../components/reviewsLatestNietzsche"
+import ReviewsStarsNietzsche from "../../components/reviewsStarsNietzsche"
 
 const Page = ({ data, location }) => {
     
@@ -49,14 +50,44 @@ const Page = ({ data, location }) => {
                     <p className="no-mar-bottom"><AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>See All Reviews</AnchorLink></p>
                 </div>
             </div>
+            {/*pain points & benefits*/}
+            <div className="two-col big-1-col align-top page-center small-pad mobile-center">
+                <div>
+                    <h3 className="small-mar"><svg style={{"width": "26px", "height": "26px", "margin-right": "10px"}} className="bounce mobile-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>Does this sound like you?</h3><svg style={{"width": "26px", "height": "26px"}} className="bounce desktop-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                    <h3 className="small-mar">You’re intrigued by Nietzsche, but don’t know where to start.</h3>
+                    <h3 className="small-mar">You’d love to have expert understanding of his philosophy, but don’t have time to wade through all the books and secondary literature.</h3>
+                    <h3 className="small-mar">You want the nuance, but don’t want to invest thousands in acadaemia.</h3>
+                    </div>
+                <div>
+                    <p className="spectral"><b>We understand you completely.</b> That’s why we designed this course specifically to address these problems:</p>
+                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
+                    <p className="small-grey-font smaller">Discover the brilliance of Nietzsche’s greatest ideas in days rather than months.</p>
+                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Vanquish all misunderstandings</h5>
+                    <p className="small-grey-font smaller">See what Nietzsche actually means by God is Dead, slave morality, the Übermensch, and more. </p>
+                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
+                    <p className="small-grey-font smaller">Unlock distilled summaries of the latest scholarly interpretations of Nietzsche’s work.</p>
+                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
+                    <p className="small-grey-font smaller">Appreciate exactly why Nietzsche’s startling philosophy routinely changes people’s perspectives, and will perhaps change your own.</p>
+                </div>
+            </div>
+            <div className="page-center">
+                <ReviewsStarsNietzsche />
+            </div>
+            <div className="page-center small-pad mid-width text-center">
+            <h2 className="small-mar">In Just 6 Days, You’ll Finally Understand Nietzsche</h2>
+                    <div className="separator"></div>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                <div className="small-width"><Checkout /></div>
+            </div>
         </div>
         {/*Chapters*/}
         <div id="look-inside"  className="grey-background small-pad no-pad-bottom-desktop">
             <div className="page-center">
                 <h2 className="text-center">What You Get Delivered to Your Inbox Over 6 Days:</h2>
-                <div className="four-col small-pad no-pad-desktop">
+                <div className="four-col mobile-center small-pad no-pad-desktop">
                     <div className="small-mar-top">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 20,000+ words</h5>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Nietzsche’s story</h5>
                         <p className="small-grey-font">Crystal clear insight into Nietzsche’s most provocative arguments and ideas.</p>
                     </div>
                     <div className="small-mar">
@@ -171,9 +202,10 @@ const Page = ({ data, location }) => {
             </div>
             
             <div className="page-center small-pad mid-width text-center">
-            <h2 className="small-mar">Learn Nietzsche’s Greatest Ideas in Just 6 Days</h2>
+            <h2 className="small-mar">You Deserve It: Indulge Your Interest in Nietzsche Today</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                 <div className="small-width"><Checkout /></div>
             </div>
         </div>
@@ -244,12 +276,11 @@ const Page = ({ data, location }) => {
             <div className="page-center">
 
                 <div className="large-pad-bottom mid-width text-center">
-                    <h2 className="small-mar">Understand Exactly Why Nietzsche is so Influential</h2>
+                    <h2 className="small-mar no-mar-top">Treat Yourself to a Richer Perspective on Life</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
-                    <div className="small-width">
-                        <Checkout />
-                    </div>
+                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <div className="small-width"><Checkout /></div>
                 </div>
 
                 {/*FAQ*/}
@@ -292,6 +323,7 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <div className="small-width">
                         <Checkout />
                         <AnchorLink className="no-hover" href="#top"><button className="button secondary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
