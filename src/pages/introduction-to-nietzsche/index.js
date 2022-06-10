@@ -51,26 +51,36 @@ const Page = ({ data, location }) => {
                 </div>
             </div>
             {/*pain points & benefits*/}
-            <div className="two-col big-1-col align-top page-center small-pad mobile-center">
-                <div>
-                    <h3 className="small-mar"><svg style={{"width": "26px", "height": "26px", "margin-right": "10px"}} className="bounce mobile-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>Does this sound like you?</h3><svg style={{"width": "26px", "height": "26px"}} className="bounce desktop-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
-                    <h4 className="small-mar">You’re intrigued by Nietzsche, but don’t know where to start.</h4>
-                    <h4 className="small-mar">You’d love to have expert understanding of his philosophy, but don’t have time to wade through all the books and secondary literature.</h4>
-                    <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in academia.</h4>
-                    <h4 className="small-mar">You’d like to inform and enrich your life perspective, but don’t want to commit to an intensive, expensive program that asks the world of you.</h4>
+            <div className="page-center small-pad">
+                <div className="text-center">
+                    <h3 className="small-mar">Does this sound like you?</h3><svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                    <div className="mid-width">
+                        <h4 className="small-mar">You’re intrigued by Nietzsche, but don’t know where to start</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                        <h4 className="small-mar">You’d love to have expert understanding of his philosophy, but don’t have time to wade through all the books and secondary literature</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                        <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in academia</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                     </div>
-                <div>
-                    <p className="spectral"><b>We understand completely.</b> That’s why we designed this course to offer clarity and nuance, without the huge time sink, effort, or cost:</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
-                    <p className="small-grey-font smaller">Your time is precious. Discover the brilliance of Nietzsche’s greatest ideas in days rather than months.</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Vanquish all misunderstandings</h5>
-                    <p className="small-grey-font smaller">Goodbye ambiguity. See what Nietzsche actually means by God is Dead, slave morality, the Übermensch, and more. </p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
-                    <p className="small-grey-font smaller">No filler; no fluff. Unlock distilled summaries of the latest scholarly interpretations of Nietzsche’s work.</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
-                    <p className="small-grey-font smaller">Appreciate exactly why Nietzsche’s startling philosophy routinely changes people’s perspectives, and will perhaps change your own.</p>
+                    <h3 className="small-mar">We understand completely</h3>
+                    <p className="spectral mid-width">That’s why we designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
                 </div>
+                    <div className="three-col align-top text-center">
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
+                            <p className="small-grey-font smaller">Your time is precious. Unlock rich understanding of Nietzsche’s greatest ideas in days rather than months.</p>
+                        </div>
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
+                            <p className="small-grey-font smaller">No more misunderstandings. See what Nietzsche actually means by God is Dead, slave morality, the Übermensch, and more.</p>
+                        </div>
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
+                            <p className="small-grey-font smaller">Appreciate exactly why Nietzsche routinely changes people’s perspectives, and will perhaps change your own.</p>
+                        </div>
+                    </div>
             </div>
+
             <div className="page-center mobile-center">
                 <ReviewsStarsNietzsche />
             </div>

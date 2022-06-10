@@ -51,27 +51,37 @@ const Page = ({ data, location }) => {
                 </div>
             </div>
             {/*pain points and benefits*/}
-            <div className="two-col big-1-col align-top page-center small-pad mobile-center">
-                <div>
-                    <h3 className="small-mar"><svg style={{"width": "26px", "height": "26px", "margin-right": "10px"}} className="bounce mobile-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>Does this sound like you?</h3><svg style={{"width": "26px", "height": "26px"}} className="bounce desktop-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
-                    <h4 className="small-mar">You’re intrigued by philosophy, but don’t know where to start.</h4>
-                    <h4 className="small-mar">You’d love to discover and understand philosophy’s top answers to life’s big questions, but don’t have time to wade through all the books and secondary literature.</h4>
-                    <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in academia.</h4>
-                    <h4 className="small-mar">You’d like to inform and enrich your life perspective, but don’t want to commit to an intensive, expensive program that asks the world of you.</h4>
-                    
+            <div className="page-center small-pad">
+                <div className="text-center">
+                    <h3 className="small-mar">Does this sound like you?</h3><svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                    <div className="mid-width">
+                        <h4 className="small-mar">You’re intrigued by philosophy, but don’t know where to start</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                        <h4 className="small-mar">You’d love to discover and understand philosophy’s top answers to life’s big questions, but don’t have time to wade through all the books and secondary literature</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+                        <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in academia</h4>
+                        <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                     </div>
-                <div>
-                    <p className="spectral"><b>We understand completely.</b> That’s why we designed this course to offer clarity and nuance, without the huge time sink, effort, or cost:</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
-                    <p className="small-grey-font smaller">Your time is precious. Discover the greatest wisdom of philosophy in days rather than months.</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Vanquish all misunderstandings</h5>
-                    <p className="small-grey-font smaller">Goodbye ambiguity. See exactly what the greatest philosophers say about why anything exists, free will, how we should live, and more.</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
-                    <p className="small-grey-font smaller">No filler; no fluff. Unlock distilled summaries of the latest scholarly interpretations of the great philosophers.</p>
-                    <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
-                    <p className="small-grey-font smaller">Appreciate exactly why the greatest philosophy routinely changes people’s perspectives, and will perhaps change your own.</p>
+                    <h3 className="small-mar">We understand completely</h3>
+                    <p className="spectral mid-width">That’s why we designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
                 </div>
+                    <div className="three-col align-top text-center">
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
+                            <p className="small-grey-font smaller">Your time is precious. Unlock rich understanding of philosophy’s greatest wisdom in days rather than months.</p>
+                        </div>
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
+                            <p className="small-grey-font smaller">No filler; no fluff. See exactly what the great philosophers say about why anything exists, how we should live, and more.</p>
+                        </div>
+                        <div>
+                            <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
+                            <p className="small-grey-font smaller">Appreciate precisely why philosophy routinely changes people’s perspectives, and will perhaps change your own.</p>
+                        </div>
+                    </div>
             </div>
+
+        
             <div className="page-center mobile-center">
                 <ReviewsStarsLBQ />
             </div>
@@ -93,7 +103,7 @@ const Page = ({ data, location }) => {
                 <h2 className="text-center">What You Get Delivered to Your Inbox Over 5 Days:</h2>
                 <div className="four-col mobile-center small-pad no-pad-desktop">
                     <div className="small-mar-top">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Philosophy’s answers</h5>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Distilled wisdom</h5>
                         <p className="small-grey-font">Crystal clear insight into how the great philosophers have answered life’s big questions.</p>
                     </div>
                     <div className="small-mar">
