@@ -59,11 +59,11 @@ const Page = ({ data, location }) => {
                         <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                         <h4 className="small-mar">You’d love to discover and understand philosophy’s top answers to life’s big questions, but don’t have time to wade through all the books and secondary literature</h4>
                         <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
-                        <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in academia</h4>
+                        <h4 className="small-mar">You want the nuance, but don’t have thousands to invest in academia</h4>
                         <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                     </div>
                     <h3 className="small-mar">We understand completely</h3>
-                    <p className="spectral mid-width">That’s why we designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
+                    <p className="spectral mid-width">That’s why we’ve designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
                 </div>
                     <div className="three-col align-top text-center">
                         <div>
@@ -86,7 +86,7 @@ const Page = ({ data, location }) => {
                 <ReviewsStarsLBQ />
             </div>
             <div className="page-center small-pad mid-width text-center">
-                <h2 className="small-mar">In Just 5 Days, You’ll Know Philosophy’s Best Answers</h2>
+                <h2 className="small-mar">In Just 5 Days, You’ll Know Philosophy’s Best Answers to Life’s Big Questions</h2>
                 <div className="separator"></div>
                 <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
