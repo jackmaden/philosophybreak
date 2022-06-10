@@ -14,7 +14,7 @@ const ReviewsLatestNietzsche = () => (
         </div>
         <div className="small-mar">
             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
-            <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It's been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
+            <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It’s been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David U. on 11 March 2022</span></div>
         </div>
     </div>

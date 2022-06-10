@@ -34,8 +34,8 @@ const Page = ({ data, location }) => {
                     <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display" />
                     <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                    <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                     <Checkout />
+                    <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                 </div>
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" />
@@ -54,29 +54,30 @@ const Page = ({ data, location }) => {
             <div className="two-col big-1-col align-top page-center small-pad mobile-center">
                 <div>
                     <h3 className="small-mar"><svg style={{"width": "26px", "height": "26px", "margin-right": "10px"}} className="bounce mobile-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>Does this sound like you?</h3><svg style={{"width": "26px", "height": "26px"}} className="bounce desktop-no-display" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
-                    <h3 className="small-mar">You’re intrigued by Nietzsche, but don’t know where to start.</h3>
-                    <h3 className="small-mar">You’d love to have expert understanding of his philosophy, but don’t have time to wade through all the books and secondary literature.</h3>
-                    <h3 className="small-mar">You want the nuance, but don’t want to invest thousands in acadaemia.</h3>
+                    <h4 className="small-mar">You’re intrigued by Nietzsche, but don’t know where to start.</h4>
+                    <h4 className="small-mar">You’d love to have expert understanding of his philosophy, but don’t have time to wade through all the books and secondary literature.</h4>
+                    <h4 className="small-mar">You want the nuance, but don’t want to invest thousands in acadaemia.</h4>
+                    <h4 className="small-mar">You’d like to inform and enrich your life perspective, but don’t want to commit to an intensive, expensive program that asks the world of you.</h4>
                     </div>
                 <div>
-                    <p className="spectral"><b>We understand you completely.</b> That’s why we designed this course specifically to address these problems:</p>
+                    <p className="spectral"><b>We understand completely.</b> That’s why we designed this course to offer clarity and nuance, without the huge time sink, effort, or cost:</p>
                     <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
-                    <p className="small-grey-font smaller">Discover the brilliance of Nietzsche’s greatest ideas in days rather than months.</p>
+                    <p className="small-grey-font smaller">Your time is precious. Discover the brilliance of Nietzsche’s greatest ideas in days rather than months.</p>
                     <h5><span style={{"color": "#36b4ff"}}>➤</span> Vanquish all misunderstandings</h5>
-                    <p className="small-grey-font smaller">See what Nietzsche actually means by God is Dead, slave morality, the Übermensch, and more. </p>
+                    <p className="small-grey-font smaller">Goodbye ambiguity. See what Nietzsche actually means by God is Dead, slave morality, the Übermensch, and more. </p>
                     <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
-                    <p className="small-grey-font smaller">Unlock distilled summaries of the latest scholarly interpretations of Nietzsche’s work.</p>
+                    <p className="small-grey-font smaller">No filler; no fluff. Unlock distilled summaries of the latest scholarly interpretations of Nietzsche’s work.</p>
                     <h5><span style={{"color": "#36b4ff"}}>➤</span> Enrich your life</h5>
                     <p className="small-grey-font smaller">Appreciate exactly why Nietzsche’s startling philosophy routinely changes people’s perspectives, and will perhaps change your own.</p>
                 </div>
             </div>
-            <div className="page-center">
+            <div className="page-center mobile-center">
                 <ReviewsStarsNietzsche />
             </div>
             <div className="page-center small-pad mid-width text-center">
             <h2 className="small-mar">In Just 6 Days, You’ll Finally Understand Nietzsche</h2>
                     <div className="separator"></div>
-                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                 <div className="small-width"><Checkout /></div>
             </div>
@@ -204,7 +205,7 @@ const Page = ({ data, location }) => {
             <div className="page-center small-pad mid-width text-center">
             <h2 className="small-mar">You Deserve It: Indulge Your Interest in Nietzsche Today</h2>
                     <div className="separator"></div>
-                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                 <div className="small-width"><Checkout /></div>
             </div>
@@ -229,7 +230,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It's been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
+                        <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It’s been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David U. on 11 March 2022</span></div>
                     </div>
                     <div className="small-mar">
@@ -241,7 +242,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Exactly what I hoped for</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>The length and depth of the course was exactly what I hoped for. (My only exposure to Nietzsche was in reading Will Durant's Story of Philosophy in high school - in the 1970s!) The content was well organized and let the reader see how Nietzsche developed his ideas over time. Placing his work in the context of his health issues was tremendously important. The writing was easy to understand and covered everything I expected it to (based on what little I already knew about Nietzsche) and more. All chapters were good, interesting, and engaging, but my favorite was #4, Master and Slave morality, which really resonated with me.</span>
+                        <span style={{lineHeight: "1.3"}}>The length and depth of the course was exactly what I hoped for. (My only exposure to Nietzsche was in reading Will Durant’s Story of Philosophy in high school - in the 1970s!) The content was well organized and let the reader see how Nietzsche developed his ideas over time. Placing his work in the context of his health issues was tremendously important. The writing was easy to understand and covered everything I expected it to (based on what little I already knew about Nietzsche) and more. All chapters were good, interesting, and engaging, but my favorite was #4, Master and Slave morality, which really resonated with me.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chuck M. on 25 February 2022</span></div>
                     </div>
                     <div className="small-mar">
@@ -253,12 +254,12 @@ const Page = ({ data, location }) => {
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great survey of Nietzsche</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Great survey of Nietzsche's thought. Covered everything I wanted to know. Made Nietzsche's works really easy to understand, and I appreciated the references to all the ongoing scholarship on Nietzsche too. Thanks!</span>
+                        <span style={{lineHeight: "1.3"}}>Great survey of Nietzsche’s thought. Covered everything I wanted to know. Made Nietzsche’s works really easy to understand, and I appreciated the references to all the ongoing scholarship on Nietzsche too. Thanks!</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Andy G. on 18 February 2022</span></div>
                     </div>
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Clears it all up</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Very good. There are many, many misunderstandings of Nietzsche out there, and this course helped clear it all up for me! All the chapters are great but I actually found the fifth on Nietzsche's more positive philosophy to be the most inspiring.</span>
+                        <span style={{lineHeight: "1.3"}}>Very good. There are many, many misunderstandings of Nietzsche out there, and this course helped clear it all up for me! All the chapters are great but I actually found the fifth on Nietzsche’s more positive philosophy to be the most inspiring.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lesh W. on 13 February 2022</span></div>
                     </div>
                 </div>
@@ -278,7 +279,7 @@ const Page = ({ data, location }) => {
                 <div className="large-pad-bottom mid-width text-center">
                     <h2 className="small-mar no-mar-top">Treat Yourself to a Richer Perspective on Life</h2>
                     <div className="separator"></div>
-                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <div className="small-width"><Checkout /></div>
                 </div>
@@ -293,7 +294,7 @@ const Page = ({ data, location }) => {
                         </div>
                         <div>
                             <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is delivered over six days, with a new question considered each day. Each day’s materials take about 20-30 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                            <p className="small-grey-font">The course is delivered over six days, with a new question considered each day. Each day’s materials take about 30-40 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
                         </div>
                     </div>
                     <div className="two-col align-top">
@@ -322,7 +323,7 @@ const Page = ({ data, location }) => {
                 <div className="large-pad mid-width text-center">
                     <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                     <div className="separator"></div>
-                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best further reading for continuing your philosophical journey.</p>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <div className="small-width">
                         <Checkout />

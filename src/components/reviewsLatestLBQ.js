@@ -4,7 +4,7 @@ const ReviewsLatestLBQ = () => (
     <div className="three-col align-top">
         <div className="small-mar">
             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic</i></span></p>
-            <span style={{lineHeight: "1.3"}}>Fantastic! Loved the delivery of one chapter per day and the content was fascinating. I didn't know much about philosophy going into this, and some things like consciousness I didn't realize had such a philosophical component. Really interesting, and I'd highly recommend the course.</span>
+            <span style={{lineHeight: "1.3"}}>Fantastic! Loved the delivery of one chapter per day and the content was fascinating. I didn’t know much about philosophy going into this, and some things like consciousness I didn’t realize had such a philosophical component. Really interesting, and I’d highly recommend the course.</span>
             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Bernie L. on 11 March 2022</span></div>
         </div>
         <div className="small-mar">
