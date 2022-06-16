@@ -51,7 +51,7 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">The wisdom of philosophy can be transformative. Keen to start expanding your mind? Discover exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
+              <p className="large-grey-font">The wisdom of philosophy can be transformative. Are you up for expanding your mind? Discover exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
               <HomeSubscriptionForm />
             </div>

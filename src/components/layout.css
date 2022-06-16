@@ -30,7 +30,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .darkblue-background {background: #1B264F; /*linear-gradient(to top right,#020887,#38369A);*/}
 .darkradial-background {background: linear-gradient(to right, #030810, #001d30, #001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
-.grey-background {background: linear-gradient(to right, #e7f6ff, #fff, #fff, #e7f6ff);}
+.grey-background {background: linear-gradient(to right, #e7f6ff, #fff, #e7f6ff);}
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
