@@ -57,7 +57,7 @@ const PanelLBQ = props => (
 
 PanelLBQ.defaultProps = {
   class: "darkradial-background",
-  rowdirection: "row",
+  flexdirection: "row",
   fill: "#fff",
 }
 

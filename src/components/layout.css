@@ -28,9 +28,9 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
 .darkblue-background {background: #1B264F; /*linear-gradient(to top right,#020887,#38369A);*/}
-.darkradial-background {background: radial-gradient(#001d30, #030810); color: #fff; position: relative;}
+.darkradial-background {background: linear-gradient(to right, #030810, #001d30, #001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
-.grey-background {background: radial-gradient(#fff, #fff, #f2f3f4);}
+.grey-background {background: linear-gradient(to right, #e7f6ff, #fff, #fff, #e7f6ff);}
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
@@ -220,7 +220,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 
 /***secondary page top title***/
 .top-title {padding-top: 106px; margin-bottom: 32px; position: relative;}
-.top-title.home {padding-bottom: 12px; margin-bottom: 0;}
+.top-title.home {padding-bottom: 36px; margin-bottom: 0;}
 .top-title.home p.large-grey-font {margin-bottom: 0;}
 .top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
 .top-title.home p.large-grey-font a:hover {color: #fff;}
@@ -233,7 +233,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 
 @media (min-width: 1020px) {
   .top-title {margin-bottom: 24px;}
-  .top-title.home {padding-bottom: 0; margin-bottom: 0;}
+  .top-title.home {padding-bottom: 48px;}
   .top-title.course {padding-bottom: 48px;}
 }
 
@@ -284,7 +284,7 @@ ul#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; 
 ul#menu.show {opacity: 1 !important; left: 0 !important; z-index: 2 !important} /*show menu*/
 ul#menu li a {text-decoration: none; color: #001d30;}
 ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {padding: 0.6em 0; border-top: solid 1px #f2f3f4;}
+ul#menu li {padding: 0.6em 0; border-top: solid 1px #e7f6ff;}
 ul#menu li.primary {padding: 0.5em 0 0;}
 ul#menu li a div {display: flex; align-items: center;}
 ul#menu li.primary.one a div h3, ul#menu li:hover a p.small-grey-font, ul#menu li a:hover p.small-grey-font {color: #36b4ff}
@@ -379,7 +379,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 #review-button.show {display: none;}
 
 /***course question cta***/
-.course-promo {border-top: solid 2px #f2f3f4; border-bottom: solid 2px #f2f3f4; padding: 36px 0; margin: 36px 0;}
+.course-promo {border-top: solid 2px #e7f6ff; border-bottom: solid 2px #e7f6ff; padding: 36px 0; margin: 36px 0;}
 .course-promo h4 {margin: 0; font-weight: 600;}
 .course-promo p.small-grey-font {font-size: 16px;}
 .course-promo a.button.secondary {font-size: 15px; margin: 0;}
@@ -607,8 +607,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /***reading list book listing***/
-.article.white > a {background: #f2f3f4;} 
-.article.white > a:hover {background: #f2f3f4;}
+.article.white > a {background: #e7f6ff;}
+.article.white > a:hover {background: linear-gradient(to right, #e7f6ff, #e7f6ff, #fff, #e7f6ff);}
 .article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
 #break-start .article.white a:hover h2 {color: #001d30; text-decoration: none;} 

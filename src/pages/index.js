@@ -51,8 +51,8 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
+              <p className="large-grey-font">The wisdom of philosophy can be transformative. Keen to start expanding your mind? Discover exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
-              <p className="large-grey-font">Philosophy, though wonderful, can be dense. We strive to make its wisdom accessible, engaging, and useful. Wondering where to start? Learn the basics of philosophy with our free, 3-lesson email course:</p>
               <HomeSubscriptionForm />
             </div>
             <div className="mobile-no-display">
@@ -61,9 +61,11 @@ const Page = ( {data} ) => {
           </div>
         </div>
 
-        <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
+        <PanelLBQ flexdirection="row-reverse" />
 
-        <PanelNietzsche />
+        <PanelNietzsche flexdirection="row" />
+
+        <SubscriptionFormSmall />
 
         <HomeArticleList />
         <SubscriptionFormSmall />

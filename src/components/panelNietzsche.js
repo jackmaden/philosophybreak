@@ -4,7 +4,7 @@ import { GatsbyImage } from "gatsby-plugin-image"
 
 import ReviewsLatestNietzsche from "./reviewsLatestNietzsche"
 
-const PanelNietzsche = () => (
+const PanelNietzsche = props => (
   <StaticQuery
     query={graphql`{
   lbq: file(relativePath: {eq: "intro-to-nietzsche-chap1-full.png"}) {
@@ -17,7 +17,7 @@ const PanelNietzsche = () => (
     render={data => (
         <div className="grey-background course mid-pad coursepanel">
             <Link to="/introduction-to-nietzsche/">
-                <div className="two-col big-1-col row-reverse page-center">
+                <div className={props.flexdirection + " two-col big-1-col page-center"}>
                     {/*to account for centering the flare center NEW! we've done two separate html listings of it (one for mobile which adds a br/ and one for desktop which uses usual classes)*/}
                     <div className="mobile-center">
                         <div className="desktop-no-display">
@@ -57,5 +57,9 @@ const PanelNietzsche = () => (
     )}
     />
 )
+
+PanelNietzsche.defaultProps = {
+    flexdirection: "row-reverse",
+  }
 
 export default PanelNietzsche

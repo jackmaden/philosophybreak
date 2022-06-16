@@ -70,8 +70,8 @@ const Articles = ({ data, location }) => {
         
         {/*end page background color*/}
         </div>
-        <PanelLBQ />
-        <PanelNietzsche />
+        <PanelLBQ flexdirection="row-reverse" />
+        <PanelNietzsche flexdirection="row" />
         <SubscriptionForm />
         
     </Layout>

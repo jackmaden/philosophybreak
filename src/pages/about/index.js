@@ -14,17 +14,21 @@ const Page = ({ data, location }) => {
     <Seo title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible and engaging for all." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
+
+      {/*page background color*/}
+      <div className="grey-background">
+
         {/*page title*/}
         <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible, engaging, and useful for all." />
 
         {/*page content*/}
-        <div className="two-col spectral page-center">
+        <div className="two-col big-2-col spectral page-center">
             <div>
                 <p><span className="big-letter">P</span>hilosophy, though wonderful, can be dense. Since 2018, we’ve been on a mission to wrap its best ideas in a modern package to break through the noise of everyday life, encourage critical thinking, and supplement a meaningful existence.</p>
-                <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, popular, <Link to="/philosophy-basics/">3-part email course on what philosopy is and how it can improve your life</Link>.</p>
+                <p>Why? Because we believe philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
                 <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
             </div>
-            <div>
+            <div className="mobile-tablet-no-display">
                 <GatsbyImage
                     image={data.about.childImageSharp.gatsbyImageData}
                     alt="Philosophy Break" loading="eager" />
@@ -64,6 +68,9 @@ const Page = ({ data, location }) => {
                 </div>
             </div>
         </div>
+
+        {/*end page background color*/}
+        </div>
             
         {/*post-page content*/}
 
@@ -74,9 +81,9 @@ const Page = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  about: file(relativePath: {eq: "about-mob.jpg"}) {
+  about: file(relativePath: {eq: "pb-basics.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   jack: file(relativePath: {eq: "jackmaden.jpg"}) {

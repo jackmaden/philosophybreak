@@ -10,7 +10,6 @@ import TopTitle from '../../components/topTitle'
 import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
 import SubscriptionForm from '../../components/subscriptionForm'
-import PanelArticleList from "../../components/panelArticleList"
 import WatermarkBreak from "../../components/watermarkBreak"
 import PanelLBQ from "../../components/panelLBQ"
 import PanelNietzsche from "../../components/panelNietzsche";
@@ -22,6 +21,9 @@ const Page = ({ data, location }) => {
     <Seo title="Best Philosophy Books – Essential Philosophy Reading Lists by Subject" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
+
+      {/*page background color*/}
+      <div className="grey-background">
 
             {/*page title*/}
             <TopTitle title="The Best Philosophy Books" subtitle="Explore our curated reading lists of the best and most important philosophy books, organized by subject and philosopher." />
@@ -43,7 +45,7 @@ const Page = ({ data, location }) => {
                 <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, which is ideal for beginners and those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
                 <p>Will you chart the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>? Will you learn about the <Link to="/reading-lists/philosophy-of-language/">philosophy of language</Link>? Will you discover why <Link to="/reading-lists/aristotle/">Aristotle</Link> exerts such influence to this day? Will you investigate the mystery of <Link to="/reading-lists/free-will/">free will</Link>? The choice is (not) yours!</p>
             </div>
-            <div>
+            <div className="mobile-tablet-no-display">
                 <GatsbyImage
                     image={data.about.childImageSharp.gatsbyImageData}
                     alt="Philosophy Break" loading="eager" />
@@ -153,12 +155,15 @@ const Page = ({ data, location }) => {
             
         
             <WatermarkBreak />
-
+        {/*end page background color*/}
+        </div>
 
         {/*post-reading list content*/}
-        <PanelNietzsche />
-        <PanelLBQ />
-        <PanelArticleList />
+
+
+        
+        <PanelLBQ flexdirection="row-reverse" />
+        <PanelNietzsche flexdirection="row" />
         <SubscriptionForm />
     </Layout>
     </>

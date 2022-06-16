@@ -25,7 +25,7 @@ const Page = ({ location }) => {
         
         <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
         
-        <PanelNietzsche />
+        <PanelNietzsche flexdirection="row" />
 
         <div className="grey-background large-pad-bottom">
             <div className="page-center mid-width text-center">

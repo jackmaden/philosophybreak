@@ -10,10 +10,10 @@ const PostReadingList = () => (
     <>
         <WatermarkBreak />
         <div id="post-article-height">
-            <PanelNietzsche />
-            <PanelLBQ />
-            <PanelArticleList />
+            <PanelLBQ flexdirection="row-reverse" />
+            <PanelNietzsche flexdirection="row" />
             <SubscriptionForm />
+            <PanelArticleList />
         </div>
     </>
 )
