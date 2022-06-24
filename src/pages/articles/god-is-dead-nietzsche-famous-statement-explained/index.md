@@ -45,7 +45,7 @@ We thus face a long, daunting task of dismantling our now foundationless values 
 
 Removing the comfort of God, Judeo-Christian morals, and an afterlife, and having nothing to really replace them with — moving from _certainty_ about what life is for, to _uncertainty_ about what life is for — could lead to an all-pervading numbness or anguish about our lives not mattering in a seemingly pointless universe. 
 
-If we are unable to become our _own_ determiners of value (the blueprint for which Nietzsche famously hints at with his character of the ‘Übermensch’ or ‘superman’), then we’ll inevitably respond, Nietzsche laments, by burying our existential angst deep down, and by distracting ourselves with meaningless entertainment. 
+If we are unable to become our _own_ determiners of value (the blueprint for which Nietzsche famously hints at with his character of [the ‘Übermensch’ or ‘superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)), then we’ll inevitably respond, Nietzsche laments, by burying our existential angst deep down, and by distracting ourselves with meaningless entertainment. 
 
 Nietzsche characterizes this predicament in his 1883-5 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, presenting us with a devastating sketch of an apathetic, shallow, distracted humanity: 
 
@@ -57,7 +57,7 @@ Regardless, his questions stand: if there is no longer an absolute, incontestabl
 
 ## Learn more about Nietzsche 
  
-<span class="big-letter">N</span>ietzsche has his own fascinating answers to the question of how we can overcome nihilism. These answers are most explicitly embodied in his character of the ‘Übermensch’, commonly translated as the ‘superman’ or ‘overman’ — a picture of what we _could_ be, were we to move _beyond_ good and evil, establish our _own_ naturalized foundations for value, and each fulfill our potential to _become who we truly are_. 
+<span class="big-letter">N</span>ietzsche has his own fascinating answers to the question of how we can overcome nihilism. These answers are most explicitly embodied in his character of the [‘Übermensch’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), commonly translated as the ‘superman’ or ‘overman’ — a picture of what we _could_ be, were we to move _beyond_ good and evil, establish our _own_ naturalized foundations for value, and each fulfill our potential to _become who we truly are_. 
 
 To help you learn more about not just the Übermensch but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to his life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. [You can learn more and see if it’s for you here.](/introduction-to-nietzsche/)
 
