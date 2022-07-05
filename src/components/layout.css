@@ -196,6 +196,7 @@ a.no-decoration {text-decoration: none;}
 /*buttons*/
 .button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 400; padding: 1em 1.2em 1.1em; border-radius: 4px; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); cursor: pointer;}
 .button.primary {color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);}
+.button.full-width {width: 100%; box-sizing: border-box; text-align: center;}
 .button.primary:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .button.primary:active {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
 .button.primary:disabled {-webkit-filter: brightness(1.2); filter: brightness(1.2); cursor: not-allowed;}

@@ -6,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import Checkout from "../../components/checkoutNietzsche"
+import CheckoutNietzsche from "../../components/checkoutNietzsche"
 import ReviewsLatestNietzsche from "../../components/reviewsLatestNietzsche"
 import ReviewsStarsNietzsche from "../../components/reviewsStarsNietzsche"
 
@@ -34,7 +34,7 @@ const Page = ({ data, location }) => {
                     <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(9 reviews)</AnchorLink></p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display" />
                     <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                    <Checkout />
+                    <CheckoutNietzsche />
                     <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                 </div>
                 <div className="mobile-no-display">
@@ -89,7 +89,7 @@ const Page = ({ data, location }) => {
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                <div className="small-width"><Checkout /></div>
+                <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
         {/*Chapters*/}
@@ -217,7 +217,7 @@ const Page = ({ data, location }) => {
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                <div className="small-width"><Checkout /></div>
+                <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
         
@@ -291,7 +291,7 @@ const Page = ({ data, location }) => {
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                    <div className="small-width"><Checkout /></div>
+                    <div className="small-width"><CheckoutNietzsche /></div>
                 </div>
 
                 {/*FAQ*/}
@@ -336,7 +336,7 @@ const Page = ({ data, location }) => {
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
                     <div className="small-width">
-                        <Checkout />
+                        <CheckoutNietzsche />
                         <AnchorLink className="no-hover" href="#top"><button className="button secondary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
                     </div>
                 </div>

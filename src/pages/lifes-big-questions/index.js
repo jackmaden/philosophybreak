@@ -6,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import Checkout from "../../components/checkoutLBQ"
+import CheckoutLBQ from "../../components/checkoutLBQ"
 import Reviews from "../../components/reviewsLBQ"
 import ReviewsLatestLBQ from "../../components/reviewsLatestLBQ"
 import ReviewsStarsLBQ from "../../components/reviewsStarsLBQ"
@@ -34,7 +34,7 @@ const Page = ({ data, location }) => {
                     <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(31 reviews)</AnchorLink></p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display" />
                     <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
-                    <Checkout />
+                    <CheckoutLBQ />
                     <p className="spectral">Learn thousands of years of philosophy in just five days. This introductory course distills what the great philosophers have said about how we should live, whether we have free will, if perception is reality, and why anything exists.</p>
                 </div>
                 <div className="mobile-no-display">
@@ -90,7 +90,7 @@ const Page = ({ data, location }) => {
                 <div className="separator"></div>
                 <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
-                <div className="small-width"><Checkout /></div>
+                <div className="small-width"><CheckoutLBQ /></div>
             </div>
 
 
@@ -203,7 +203,7 @@ const Page = ({ data, location }) => {
                 <div className="separator"></div>
                 <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
-                <div className="small-width"><Checkout /></div>
+                <div className="small-width"><CheckoutLBQ /></div>
             </div>
         </div>
         
@@ -218,7 +218,7 @@ const Page = ({ data, location }) => {
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
-                    <div className="small-width"><Checkout /></div>
+                    <div className="small-width"><CheckoutLBQ /></div>
                 </div>
 
             {/*FAQ*/}
@@ -261,7 +261,7 @@ const Page = ({ data, location }) => {
                         <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                         <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
                         <div className="small-width">
-                            <Checkout />
+                            <CheckoutLBQ />
                             <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
                         </div>
                     </div>
