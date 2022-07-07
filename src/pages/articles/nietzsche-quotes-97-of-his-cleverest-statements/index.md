@@ -25,7 +25,7 @@ The consequence of this is that Nietzsche’s aphorisms often appear on the inte
 
 However, the consumption of Nietzsche’s work one quotation at a time can mean that understanding his broader philosophical project is difficult. And, while Nietzsche’s aphorisms are great, his philosophical ideas — taken as a whole — are even better. 
 
-If you’re looking to go beyond his quotations to learn about his actual philosophy, we’ve created a quick [6-part introductory course on Nietzsche’s greatest ideas](/introduction-to-nietzsche/), covering everything from his influential distinction between the Apollonian and Dionysian, his perspectival theory of knowledge, and his infamous proclomation that [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/), to his critique of traditional morality, his introduction of the eternal recurrence and the [Übermensch]((/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)), and his theory of the will to power. 
+If you’re looking to go beyond his quotations to learn about his actual philosophy, we’ve created a quick [6-part introductory course on Nietzsche’s greatest ideas](/introduction-to-nietzsche/), covering everything from his influential distinction between the Apollonian and Dionysian, his perspectival theory of knowledge, and his infamous proclomation that [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/), to his critique of traditional morality, his [introduction of the eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/) and the [Übermensch]((/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)), and his theory of the will to power. 
 
 The course gets rave reviews, and if you’re interested in Nietzsche it might be just what you’re looking for. Learn more about it by hitting the banner below now. 
 
@@ -142,13 +142,13 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 
 >19\. Christianity has done its utmost to close the circle and declared even doubt to be sin. One is supposed to be cast into belief without reason, by a miracle, and from then on to swim in it as in the brightest and least ambiguous of elements: even a glance towards land, even the thought that one perhaps exists for something else as well as swimming, even the slightest impulse of our amphibious nature — is sin! And notice that all this means that the foundation of belief and all reflection on its origin is likewise excluded as sinful. What is wanted are blindness and intoxication and an eternal song over the waves in which reason has drowned.
 
-20\. “I deny morality as I deny alchemy.”
+20\. “Moderation sees itself as beautiful; it is unaware that in the eye of the immoderate it appears black and sober and consequently ugly-looking.”
 
-21\. “Moderation sees itself as beautiful; it is unaware that in the eye of the immoderate it appears black and sober and consequently ugly-looking.”
+>21\. The surest way to corrupt a youth is to instruct them to hold in higher esteem those who think alike than those who think differently.
 
->22\. The surest way to corrupt a youth is to instruct them to hold in higher esteem those who think alike than those who think differently.
+22\. “For those who need consolation no means of consolation is so effective as the assertion that in their case no consolation is possible: it implies so great a degree of distinction that they at once hold up their heads again.”
 
-23\. “For those who need consolation no means of consolation is so effective as the assertion that in their case no consolation is possible: it implies so great a degree of distinction that they at once hold up their heads again.”
+23\. “All these bold birds who fly out into the wide, widest open—it is true! At some point they will not be able to fly any farther and will squat down on some pylon or sparse crag—and very grateful for this miserable accommodation to boot! But who would want to conclude from this that there was _no longer_ a vast and prodigious trajectory ahead of them, that they had flown as far and wide as one _could_ fly! All our great mentors and precursors have finally come to a stop, and it is hardly the noblest and most graceful of gestures with which fatigue comes to a stop: it will also happen to you and me! Of what concern, however, is that to you and me! _Other birds will fly farther!_” 
 
 ## Nietzsche quotations from The Gay Science (1882)
 

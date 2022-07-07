@@ -304,7 +304,7 @@ const Page = ({ data, location }) => {
                         </div>
                         <div>
                             <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is delivered over six days, with a new question considered each day. Each day’s materials take about 30-40 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                            <p className="small-grey-font">The course is delivered over six days, with a new core Nietzsche topic considered each day. Each day’s materials take about 30-40 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
                         </div>
                     </div>
                     <div className="two-col align-top">
