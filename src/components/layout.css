@@ -573,19 +573,20 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /***reading list***/
-.reading-list {display: block; margin: 24px 0; height: 180px; box-sizing: border-box; text-decoration: none; position:relative;}
+.reading-list {display: block; margin: 24px 0; height: 220px; box-sizing: border-box; text-decoration: none; position:relative; }
 .reading-list:first-of-type {margin-top: 32px;}
 .reading-list:last-of-type {margin-bottom: 32px;}
 .reading-list:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.8));}
 .reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-52%); transform: translateY(-52%);}
+.reading-list div.darkener, .reading-list .title-img {border-radius: 6px;}
 .reading-list h3 {color: #fff; font-size: 24px; margin: 0 !important; text-align: left;}
 .reading-list p {color: #fff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .reading-list p svg {width: 16px; height: 16px; margin-right: 1px; vertical-align: middle;}
 .reading-list svg.cta {position: absolute; top:50%; -ms-transform: translateY(-50%); transform: translateY(-50%); right: 0; width: 60px; height: 60px; fill: #fff;}
 .reading-list:hover h3 {text-decoration: underline; text-decoration-color: #36b4ff; color: #36b4ff;}
 @media (min-width: 620px) {
-  .reading-list {height: 230px;}
+  .reading-list {height: 280px;}
   .reading-list div.reading-list-title {padding: 12px 20px;}
   .reading-list h3 {font-size: 28px;}
   .reading-list p svg {width: 18px; height: 18px;}

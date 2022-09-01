@@ -67,4 +67,4 @@ We should thus look out at the cosmos not with defeatism, but with optimism: its
 
 ## In just 5 days, you’ll know philosophy’s best answers to life’s big questions
 
-<span class="big-letter">I</span>f you’re intrigued to learn more about humanity’s place in the universe, but not sure where to start, check out our [5-day introductory philosophy course](/lifes-big-questions), which distills the great philosophers’ best answers to life’s big questions, including how we should live, whether we have free will, if perception is reality, and why anything exists. [Learn more and see if it’s for you here](/lifes-big-questions).
+<span class="big-letter">I</span>f you’re intrigued to learn more about humanity’s place in the universe, but not sure where to start, check out our [5-day introductory philosophy course](/lifes-big-questions/), which distills the great philosophers’ best answers to life’s big questions, including how we should live, whether we have free will, if perception is reality, and why anything exists. [Learn more and see if it’s for you here](/lifes-big-questions/).
