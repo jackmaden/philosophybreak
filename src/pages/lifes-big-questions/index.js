@@ -27,19 +27,19 @@ const Page = ({ data, location }) => {
     <NavigationSimple/>
         {/*page title*/}
         <div className="top-title darkradial-background course" id="top">
-            <div className="two-col page-center">
+            <div className="two-col big-2-col page-center">
                 <div>
-                    <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>QUICK COURSE</span><div className="separator course"></div>
-                    <h1>5-Day Introduction to Philosophy Course: Life’s Big Questions</h1>
-                    <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(31 reviews)</AnchorLink></p>
-                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display" />
-                    <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
-                    <CheckoutLBQ />
-                    <p className="spectral">Learn thousands of years of philosophy in just five days. This introductory course distills what the great philosophers have said about how we should live, whether we have free will, if perception is reality, and why anything exists.</p>
+                    <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
+                    <h1 id="lbq">Unlock Philosophy’s Best Answers to Life’s Big Questions (with Just 1 Thoughtful, 30-min Read per Day)</h1>
+                    <p className="spectral">Discovering philosophy’s top wisdom has never been simpler. Each day over 5 days, you’ll receive a concise, stimulating, 30-minute read (accessible forever from any device) distilling the great philosophers’ best answers to life’s big questions. Start enriching your mind now.</p>
+                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display tiny-mar-top-important" />
+                    <div className="mobile-center">
+                        <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                        <CheckoutLBQ />
+                    </div>
                 </div>
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" />
-                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are delivered direct to your inbox over 5 days, and are accessible forever from any device.</i></p>
                 </div>
             </div>
             {/*latest reviews*/}
@@ -63,12 +63,12 @@ const Page = ({ data, location }) => {
                         <svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                     </div>
                     <h3 className="small-mar">We understand completely</h3>
-                    <p className="spectral mid-width">That’s why we’ve designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
+                    <p className="spectral mid-width mid-mar-bottom">That’s why we’ve designed this course to offer clarity and nuance, without demanding huge time, effort, or cost commitments:</p>
                 </div>
                     <div className="three-col align-top text-center">
                         <div>
                             <h5><span style={{"color": "#36b4ff"}}>➤</span> Quick, effortless insight</h5>
-                            <p className="small-grey-font smaller">Your time is precious. Unlock rich understanding of philosophy’s greatest wisdom in days rather than months.</p>
+                            <p className="small-grey-font smaller">Your time is precious. Unlock rich understanding of philosophy’s greatest wisdom in hours rather than years.</p>
                         </div>
                         <div>
                             <h5><span style={{"color": "#36b4ff"}}>➤</span> Cut through the noise</h5>
@@ -86,9 +86,9 @@ const Page = ({ data, location }) => {
                 <ReviewsStarsLBQ />
             </div>
             <div className="page-center small-pad mid-width text-center">
-                <h2 className="small-mar">In Just 5 Days, You’ll Know Philosophy’s Best Answers to Life’s Big Questions</h2>
+                <h2 className="small-mar">Learn Thousands of Years of Philosophy with Just 30 Minutes of Reading per Day</h2>
                 <div className="separator"></div>
-                <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
+                <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
@@ -108,7 +108,7 @@ const Page = ({ data, location }) => {
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 concise chapters</h5>
-                        <p className="small-grey-font">One succinct chapter (30-40 min read) for each core topic, distilling millennia of wisdom.</p>
+                        <p className="small-grey-font">One succinct chapter (30-minute read) for each core topic, distilling millennia of wisdom.</p>
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 5 guided reflections</h5>
@@ -199,24 +199,24 @@ const Page = ({ data, location }) => {
                 </div>
             </div>
             <div className="page-center small-pad mid-width text-center">
-                <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
+                <h2 className="small-mar">Treat Yourself: a One-off Investment for a Lifetime of Philosophical Wisdom</h2>
                 <div className="separator"></div>
-                <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
+                <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
         </div>
         
         {/*Reviews*/}
-        <Reviews bg="darkradial-background" title="31 Course Reviews" toggle="primary" />
+        <Reviews bg="darkradial-background" title="35 Course Reviews" toggle="primary" />
 
         
         <div className="darkradial-background small-pad">
             <div className="page-center">
                 <div className="large-pad-bottom mid-width text-center">
-                    <h2 className="small-mar">Treat Yourself to a Richer Perspective on Life</h2>
+                    <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
                     <div className="separator"></div>
-                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
+                    <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                     <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
                     <div className="small-width"><CheckoutLBQ /></div>
                 </div>
@@ -231,7 +231,7 @@ const Page = ({ data, location }) => {
                         </div>
                         <div>
                             <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is delivered over five days, with a new question considered each day. Each day’s materials take about 30-40 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                            <p className="small-grey-font">The course is delivered over five days, with a new question considered each day. Each day’s materials take about 30 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
                         </div>
                     </div>
                     <div className="two-col align-top">
@@ -258,11 +258,13 @@ const Page = ({ data, location }) => {
                     <div className="large-pad mid-width text-center">
                         <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                         <div className="separator"></div>
-                        <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
+                        <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                         <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$34.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
                         <div className="small-width">
                             <CheckoutLBQ />
-                            <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "solid #fff 2px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                            <div className="large-mar-top">
+                                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                            </div>
                         </div>
                     </div>
                     <div className="small-pad"></div>
@@ -280,7 +282,7 @@ export const query = graphql`{
         gatsbyImageData(width: 1200, quality: 90, layout: CONSTRAINED)
     }
   }
-  about: file(relativePath: {eq: "Chapter1-full2.png"}) {
+  about: file(relativePath: {eq: "LBQallChapters.png"}) {
     childImageSharp {
       gatsbyImageData(quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
     }

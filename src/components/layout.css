@@ -41,16 +41,19 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
 .tiny-mar-top {margin-top: 12px;}
+.tiny-mar-top-important {margin-top: 12px !important;}
 .tiny-mar-bottom {margin-bottom: 12px;}
 .mid-pad {padding: 48px 0;}
 .mid-pad-top {padding-top: 48px;}
 .mid-pad-bottom {padding-bottom: 48px;}
 .mid-mar {margin: 48px 0;}
 .mid-mar-top {margin-top: 48px;}
+.mid-mar-bottom {margin-bottom: 48px;}
 .large-pad {padding: 64px 0;}
 .large-pad-bottom {padding-bottom: 64px;}
 .large-pad-top {padding-top: 64px;}
 .large-mar {margin: 64px 0;}
+.large-mar-top {margin-top: 64px;}
 .no-mar {margin: 0 !important;}
 .no-mar-top {margin-top: 0 !important;}
 .no-mar-bottom {margin-bottom: 0 !important;}
@@ -144,6 +147,7 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
 /***headings***/
 h1 {font-size: 36px; font-weight: 900;}
 h1#home-page {font-size: 34px;}
+h1#lbq {font-size: 32px;}
 h2 {font-size: 34px; font-weight: 900;}
 #break-start h2 {font-size: 30px; margin: 2em 0 0.5em;}
 #break-start .smaller-h2 h2 {font-size: 24px;}
@@ -162,6 +166,7 @@ h5 {font-size: 20px;}
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
     h1#home-page {font-size: 45px;}
+    h1#lbq {font-size: 34px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
     #break-start .smaller-h2 h2 {font-size: 26px;}
@@ -490,6 +495,7 @@ div.separator.reading-list.banner {width: 80px; height: 2px;}
 div.separator.course {margin: -4px 0 10px; width: 98px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
 div.separator.course.wider {width: 110px;}
+div.separator.course.lbq {width: 208px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
@@ -504,6 +510,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {width: 96px; margin-top: -2px;}
   div.separator.course {width: 116px; margin-top: -5px;}
   div.separator.course.wider {width: 128px;}
+  div.separator.course.lbq {width: 250px;}
   div.separator.chapter {width: 100px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}

@@ -1,6 +1,6 @@
 ---
-title: "I Think Therefore I Am: Descartes' Cogito Ergo Sum Explained"
-description: "17th-century philosopher Descartes' exultant declaration — “I think, therefore I am” — is his defining philosophical statement. This article explores its meaning, significance, and how it altered the course of philosophy forever."
+title: "I Think Therefore I Am: Descartes’ Cogito Ergo Sum Explained"
+description: "17th-century philosopher Descartes’ exultant declaration — “I think, therefore I am” — is his defining philosophical statement. This article explores its meaning, significance, and how it altered the course of philosophy forever."
 image: "./hallucinating-with-descartes.jpg"
 imageAlt: "Descartes I think therefore I am"
 imageSeo: "./descartes.jpg"
@@ -19,7 +19,7 @@ But Descartes was not without reason: in his work as a mathematician, he worried
 
 ![Descartes](./descartes.jpg "René Descartes, meaning business.")
 
-With this strict criteria for truth in mind, it’s not long before — as depicted with masterful drama in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — Descartes struggles to feel convinced by the existence of, well, anything.
+With this strict criteria for truth in mind, it’s not long before — as depicted with masterful drama in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — Descartes struggles to feel convinced by the existence or reliability of, well, anything.
 
 The fact we dream and hallucinate means, for Descartes, our senses aren’t always trustworthy. Indeed, have you ever woken from a dream and thought, “but my God, that seemed so real”? Have you ever hallucinated your socks off? Have you ever _sworn_ to have witnessed something when someone else swears to have witnessed something else?
 
@@ -27,41 +27,51 @@ When our perception of the world fails us, it can be jarring. We take it for gra
 
 ![optical illusion](./descartes-optical.jpg "Are the dots above black or white? Optical illusions reveal just how easily our brains can be tricked or misled by everyday patterns.")
 
-But, according to Descartes's strict criteria for truth outlined above, where does that leave us? If the authenticity of our experience can occasionally be doubted, then that is enough for Descartes to dismiss it as absolutely false: that our senses can sometimes mislead us without our knowing suggests that they could mislead us all the time.
+But, according to Descartes’s strict criteria for truth outlined above, where does that leave us? If the authenticity of our experience can occasionally be doubted, then that is enough for Descartes to dismiss it as absolutely unreliable: that our senses can sometimes mislead us without our knowing suggests that they could mislead us all the time.
 
 And, if we cannot trust information obtained from our senses, then how can we confirm the existence of an external world?
 
-Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. Or maybe nothing physical exists at all and this is all just one big hallucination – _everything_ is an illusion, a figment of the mental realm, or even the conjurings of an Evil Demon determined to mislead us about the true nature of reality...
+Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. Or maybe nothing physical exists at all and this is all just one big hallucination — _everything_ is an illusion, a figment of the mental realm, or even the conjurings of an Evil Demon determined to mislead us about the true nature of reality...
+
+![are we living in a simulation?](./simulation.jpeg "Can we ever know for certain if the world we perceive is actually reality, rather than, say, a computer simulation?")
+
+And it’s not just our sensory capabilities that can be thrown into doubt: our ability to _reason_ could also be hopelessly impaired. If we have reasoned incorrectly before, Descartes notes, how can we ever know for sure that we are reasoning correctly now? 
+
+Maybe 2 + 2 really equals 5, not 4, and it is again the workings of an Evil Demon that makes us think differently. 
 
 Poor old Descartes got himself into a right state over all this:
 
->So serious are the doubts into which I have been thrown as a result of yesterday's meditations that I can neither put them out of my mind nor see any way of resolving them. It feels as if I have fallen unexpectedly into a deep whirlpool which tumbles me around so that I can neither stand on the bottom nor swim up to the top.
+>So serious are the doubts into which I have been thrown as a result of yesterday’s meditations that I can neither put them out of my mind nor see any way of resolving them. It feels as if I have fallen unexpectedly into a deep whirlpool which tumbles me around so that I can neither stand on the bottom nor swim up to the top.
 
 By this point frantic with worry, Descartes seeks to repair some of the damage caused by his relentless doubting by groping around for something — anything — we can be absolutely certain of. And, after a while, he finds it.
 
 ## I think, therefore I am
 
-<span class="big-letter">A</span> clearer translation of Descartes' definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. Phew. Mop that brow, eh René. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
+<span class="big-letter">A</span> clearer translation of Descartes’ definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. 
 
-<div class="course-promo text-center">
-    <h4>Philosophy in Your Twitter Feed</h4>
-    <p class="small-grey-font">Follow Philosophy Break on Twitter to get philosophy's best questions, wisdom, and ideas directly in your Twitter feed.</p>
-    <a target="_blank" rel="noopener noreferrer" class="button secondary" href="https://twitter.com/philosophybreak"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>Follow Philosophy Break</a>
-</div>
+Phew. Mop that brow, eh René: at last, here is something we can be absolutely certain of. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
-So, we have our base, our solid foundation: a thinking mind must exist. From this point on in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, Descartes attempts to rebuild all human knowledge and establish proofs for the existence of, among other things, God. Alas, his work here is generally acknowledged to not quite make up for his initial demolition job.
+Descartes believed his discovery of the _Cogito_ to be hugely significant, for it withstands all the skepticism you can throw at it. 
 
-Indeed, through absolutely bulldozing our confidence in the existence of anything but our thoughts, Descartes inadvertently creates two separate realms: the mental and the physical. The mental we can be sure of; the physical needs to, somehow, be linked to it.
+Indeed, even if you doubt the reliability of your senses, and even if you doubt the reliability of your reason (i.e. the two main sources for knowledge), the _Cogito_ remains true. For, however wrong you are in your estimation of reality, you can never be wrong about the fact of your own existence, for in order to think you are wrong about something, there has to be a _you_ that exists to be wrong.  
+
+So, Descartes establishes his base, his solid foundation for certain, indubitable knowledge: a thinking mind must exist. 
+
+From this point on in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, Descartes attempts to rebuild all human knowledge and establish proofs for the existence of, among other things, God. 
+
+Alas, his work here is generally acknowledged to not quite make up for his initial demolition job. We may have certainty with the _Cogito_, but the possible unreliability of our senses and reason doesn’t leave much else. 
+
+Through absolutely bulldozing our confidence in the existence of anything but our thoughts, Descartes inadvertently created two separate realms: the mental and the physical. The mental we can be sure exists (however deceived or deluded that existence may be); the physical world needs to, somehow, be linked to it.
 
 Believe it or not, philosophers have been trying to bridge this explanatory gap ever since.
 
-## Is there an answer to Descartes' skepticism?
+## Is there an answer to Descartes’ skepticism?
 
-<span class="big-letter">D</span>escartes' doubting leaves us with a rather alarming concern: that [perception might not be reality](/articles/is-the-world-around-us-real/), and that our experience is not infallible and has no bearing on the existence of an external world. Of course, this state of affairs has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about — including by [John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) and [George Berkeley](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/) — which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
+<span class="big-letter">D</span>escartes’ doubting leaves us with a rather alarming concern: that [perception might not be reality](/articles/is-the-world-around-us-real/), that our reasoning abilities are not necessarily reliable, and that our experience is not infallible and has no bearing on the existence of an external world. Of course, this state of affairs has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about — including by the 17th-century philosophers [John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) and [George Berkeley](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/) — which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
 
-There are a number of deep [epistemological](/reading-lists/epistemology/) and [metaphysical](/reading-lists/metaphysics/) issues exposed by Descartes' <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, which is why it's perceived to mark the beginning of modern philosophy in the Western tradition. Combine that with its highly accessible, dramatized style, and it's no wonder that this short text is still pored over by undergraduate students to this day. It's essential reading for anyone interested in philosophy.
+There are a number of deep [epistemological](/reading-lists/epistemology/) and [metaphysical](/reading-lists/metaphysics/) issues exposed by Descartes’ <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, which is why it’s perceived to mark the beginning of modern philosophy in the Western tradition. Combine that with its highly accessible, dramatized style, and it’s no wonder that this short text is still pored over by undergraduate students to this day. It’s essential reading for anyone interested in philosophy.
 
-Beyond reading Descartes' <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes' pondering, check out our 5-day [introductory philosophy course, Life's Big Questions](/lifes-big-questions/). 
+Beyond reading Descartes’ <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes’ pondering, check out our 5-day [introductory philosophy course, Life’s Big Questions](/lifes-big-questions/), in which you can unlock philosophy’s best answers to life’s big questions with just one thoughtful, 30-minute read per day. If you’re intrigued by philosophy, but don’t have time to wade through lots of books and secondary literature, this is the ideal place to start. 
 
 
 <div class="article white">

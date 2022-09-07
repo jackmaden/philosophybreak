@@ -11,6 +11,33 @@ export default function Reviews(props) {
         <div className={props.bg + " mid-pad"} id="reviews">
             <div className="page-center">
                 <h2>{props.title}</h2>
+                
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant primers</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Brilliant primers on all the major topics of philosophy. I wasn't entirely sure what to expect but the content provides a ton of value, it's all brilliantly written and delivered and covers so much. Highly recommend if you're at all interested in philosophy.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Rebecca L. on 7 August 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Thoroughly enjoyed</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Great! All content was very well written and easily digestible. Thoroughly enjoyed throughout. Free will was my favorite chapter, due to my personal interest in the subject, but all chapters were both interesting and easy to comprehend.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Niall C on 24 July 2022</span></div>
+                    </div>
+                </div>
+                
+                <div className="two-col align-top">
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very good. After completing the course I am now planning to start a serious study of philosophy. The materials displayed well on all my devices and the content is very interesting - I was able to follow even though English is not my first language. My favorite chapter was Chapter 2 - considering we perceive a 'photo' of reality, rather than reality itself, was a real breakthrough.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Luca G. on 19 June 2022</span></div>
+                    </div>
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Stimulating</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Excellent course, very well thought out and written. Receiving one chapter per day was stimulating and course content displayed well on my device. My favorite chapter was ethics and morality because the practical focus appealed to me, but the whole course was most interesting.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert J. on 21 April 2022</span></div>
+                    </div>
+                </div>
+
                 <div className="two-col align-top">
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic</i></span></p>
@@ -48,30 +75,6 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Philippa M. on 10 January 2022</span></div>
                     </div>
                 </div>
-                <div className="two-col align-top">
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Enjoyable & contemplative</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Excellent course. An enjoyable, contemplative read. The bite-sized portions allowed me to digest the information, and the content was very interesting and easy to understand — a good survey of philosophical ideas with references to books for digging deeper. I especially enjoyed the chapter on free will. As a financial planner, I’m trying to balance cognitive biases with behavioral change. This chapter provides good food for thought in how I approach my practice. Overall, great work.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David H. on 17 November 2021</span></div>
-                    </div>
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Loved it</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Thank you very much for giving me something to look forward to each day with the daily chapters — I loved it! Very refreshing to read something this clear and direct about how the great philosophers have approached some of the most difficult and enduring questions we can ask. Some truly interesting ideas I hadn’t encountered before. Thanks!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 4 October 2021</span></div>
-                    </div>
-                </div>
-                <div className="two-col align-top">
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Awesome</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Great content. Receiving one chapter each day is awesome. As someone who is not a native English speaker, I found the content easy to grasp which is something I really appreciate. The first and second chapters were my favorite because they discuss the most fundamental questions humans can ask, but all of the chapters were extremely interesting.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Ahmed K. on 2 September 2021</span></div>
-                    </div>
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Perfect difficulty level</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Very good. Very well-written. Difficulty of the content is perfect for someone who might not be too familiar with philosophy so that is great too. Thank you!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jonathon B. on 27 August 2021</span></div>
-                    </div>
-                </div>
                 
                 
                 
@@ -79,6 +82,32 @@ export default function Reviews(props) {
                 
                 {/*load more reviews*/}
                 <div id="load-more" className={isActive ? null : "show"}>
+
+                    <div className="two-col align-top">
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Enjoyable & contemplative</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Excellent course. An enjoyable, contemplative read. The bite-sized portions allowed me to digest the information, and the content was very interesting and easy to understand — a good survey of philosophical ideas with references to books for digging deeper. I especially enjoyed the chapter on free will. As a financial planner, I’m trying to balance cognitive biases with behavioral change. This chapter provides good food for thought in how I approach my practice. Overall, great work.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David H. on 17 November 2021</span></div>
+                        </div>
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Loved it</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Thank you very much for giving me something to look forward to each day with the daily chapters — I loved it! Very refreshing to read something this clear and direct about how the great philosophers have approached some of the most difficult and enduring questions we can ask. Some truly interesting ideas I hadn’t encountered before. Thanks!</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 4 October 2021</span></div>
+                        </div>
+                    </div>
+
+                    <div className="two-col align-top">
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Awesome</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Great content. Receiving one chapter each day is awesome. As someone who is not a native English speaker, I found the content easy to grasp which is something I really appreciate. The first and second chapters were my favorite because they discuss the most fundamental questions humans can ask, but all of the chapters were extremely interesting.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Ahmed K. on 2 September 2021</span></div>
+                        </div>
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Perfect difficulty level</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Very good. Very well-written. Difficulty of the content is perfect for someone who might not be too familiar with philosophy so that is great too. Thank you!</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jonathon B. on 27 August 2021</span></div>
+                        </div>
+                    </div>
                     <div className="two-col align-top">
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great job to everybody involved</i></span></p>
