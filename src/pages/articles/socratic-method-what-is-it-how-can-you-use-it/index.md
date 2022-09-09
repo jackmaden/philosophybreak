@@ -14,7 +14,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 In more formal educational settings, the Socratic method is harnessed by teachers to ‘draw out’ knowledge from students. The teacher does not directly impart knowledge, but asks probing, thought-provoking questions to kickstart a dialogue between teacher and student, allowing students to formulate and justify answers for themselves. 
 
-As Stanford University comment in [an issue of their Speaking of Teaching newsletter](https://tomprof.stanford.edu/posting/810):
+As Stanford University comment in an issue of their Speaking of Teaching newsletter:
 
 >The Socratic method uses questions to examine the values, principles, and beliefs of students. Through questioning, the participants strive first to identify and then to defend their moral intuitions about the world which undergird their ways of life. Socratic inquiry deals not with producing a recitation of facts... but demands rather that the participants account for themselves, their thoughts, actions, and beliefs... Socratic inquiry aims to reveal the motivations and assumptions upon which students lead their lives.
 
