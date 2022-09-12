@@ -4,7 +4,7 @@ description: "According to George Berkeley’s subjective idealism, everything i
 image: "./berkeley-subjective-idealism.jpg"
 imageAlt: "George Berkeley Subjective Idealism"
 imageSeo: "./george-berkeley.jpg"
-tags: ["George Berkeley", "Epistemology", "Idealism"]
+tags: ["George Berkeley", "Epistemology", "Metaphysics", "Idealism"]
 date: "2021-04-20"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
