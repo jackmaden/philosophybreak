@@ -47,7 +47,7 @@ For instance, in his 1710 work, <a target="_blank" rel="noopener noreferrer spon
 
 >It is indeed an opinion strangely prevailing amongst people that houses, mountains, rivers, and in a word all sensible objects, have an existence natural or real, distinct from their being perceived by the understanding… for what are the forementioned objects but things we perceive by sense? And what do we perceive besides our own ideas or sensations? And is it not plainly repugnant that any one of these or any combination of them should exist unperceived?
 
-On this view, it is absurd to say a lonesome falling tree makes a sound. For Berkeley, it is absurd to say the tree, without a conscious mind there perceiving it, even exists. (You can learn more about his mind-bending arguments for this position in [our short explainer piece on Berkeley’s subjective idealism, his theory that the world is in our minds](/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)). 
+On this view, it is absurd to say a lonesome falling tree makes a sound. For Berkeley, it is absurd to say the tree, without a conscious mind there perceiving it, even exists. (You can learn more about his mind-bending arguments for this position in [our short explainer piece on Berkeley’s subjective idealism, his theory that the world is in our minds](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)). 
 
 But to conclude this brief reflection on the tension between perception and reality, consider a comment from the Nobel Prize-winning quantum physicist Max Planck in a 1931 interview (italics added):
  
