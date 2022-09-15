@@ -609,10 +609,10 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 
 
 /***reading list cta***/
-.reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 180px; overflow:hidden;}
+.reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 220px; overflow:hidden; border-radius: 6px;}
 .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-image {object-fit: cover;}
 @media (min-width: 620px) {
-  .reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 230px; overflow:hidden;}
+  .reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 280px; overflow:hidden;}
 }
 
 /***reading list book listing***/
