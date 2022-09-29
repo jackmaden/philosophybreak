@@ -19,6 +19,13 @@ const ArticlePost = ({ data, location }) => {
   const post = data.markdownRemark
   const { edges } = data.allMarkdownRemark
   const imagePath = getSrc(post.frontmatter.imageSeo)
+  
+  /*smooth scroll for md posts*/
+  if (typeof window !== "undefined") {
+    // eslint-disable-next-line global-require
+    require("smooth-scroll")('a[href*="#"]')
+  }
+
   return (
   <>
   <Seo title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
@@ -51,9 +58,9 @@ const ArticlePost = ({ data, location }) => {
 
     {/*post-article*/}
     <div id="post-article-height">
-      <PanelLBQ flexdirection="row-reverse" />
-      <PanelNietzsche flexdirection="row" />
       <SubscriptionForm />
+      <PanelNietzsche flexdirection="row" />
+      <PanelLBQ flexdirection="row-reverse" />
       <div className="grey-background large-pad">
         <div className="page-center">
           <span className="text-center">

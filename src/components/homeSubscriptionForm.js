@@ -7,7 +7,7 @@ export class HomeSubscriptionForm extends React.Component {
     }
     render () {
         return (
-            <div id="mc_embed_signup" className="small-pad">
+            <div id="mc_embed_signup" className="small-pad-top">
                 <form style={{marginBottom: "1em"}} action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
                     <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
                 	<input type="hidden" name="tags" value="4995664" />

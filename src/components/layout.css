@@ -676,6 +676,23 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   width: 0%;
   background: linear-gradient(to right top, #1aa9ff, #7cceff);
 }
+/*lists */
+#break-start ul, #break-start ol {
+  margin: 1em 0;
+  margin-inline-start: 2em;
+  font-family: 'Spectral', serif;
+  letter-spacing: -0.5px;
+}
+#break-start ul li, #break-start ol li {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 0.5em 0;
+}
+
+@media (min-width: 620px) {
+  #break-start ul li, #break-start ol li {font-size: 20px;}
+}
+
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
 blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
@@ -693,6 +710,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
 .big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text;
   background-clip: text; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
+  .big-letter.smaller {font-size: 68px;}
   .big-letter.section-head {width: 100%; margin-bottom: 0.2em;}
   /*.midblue-background .big-letter {background: linear-gradient(to right top, #020887, #38369A); color: transparent; -webkit-background-clip: text; background-clip: text;}*/
   @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
@@ -701,6 +719,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 @media (min-width: 620px) {
   figcaption {font-size: 14px;}
   .big-letter {font-size: 112px;}
+  .big-letter.smaller {font-size: 75px;}
 }
 
 /***form***/

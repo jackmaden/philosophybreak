@@ -9,7 +9,7 @@ export class SubscriptionFormSmall extends React.Component {
         return (
             <div className="darkradial-background large-pad">
                 <div className="page-center text-center mid-width">
-                    <h3 style={{marginBottom: "1em"}}>Learn the basics of philosophy with our free, popular, 3-lesson email course:</h3>
+                    <h3 style={{marginBottom: "1em"}}>Discover exactly what philosophy is and how it can improve your life with just 1 email per day for 3 days:</h3>
                     <div id="mc_embed_signup">
                         <form style={{marginBottom: "1em"}} action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
                             <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>

@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet"
 
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
-import TopTitle from "../../components/topTitle"
+import JackHeadshot from "../../components/jackHeadshot"
 
 const Page = () => {
     return (
@@ -14,9 +14,15 @@ const Page = () => {
         <Layout>
         <Navigation bg="light-bg" />
             {/*page background color*/}
-            <div className="white-background">
-                {/*article title*/}
-                <TopTitle title="Thank You" subtitle="Thank you very much for your purchase, philosopher! Your course materials are on their way to the email address you provided. Please allow up to 30 minutes for delivery, and be advised that some email filters can send initial emails from unknown senders to your junk folder. If you encounter any issues, just drop us a line at hello@philosophybreak.com, and we’ll be happy to help. For now, fasten your seatbelt — a whirlwind philosophical journey awaits!" />
+            <div className="grey-background small-pad-bottom">
+                <div className="top-title text-center">
+                    <div className="page-center">
+                        <h1 className="mid-width">Thank You</h1>
+                        <div className="separator"></div>
+                        <p className="large-grey-font mid-width">Thank you very much for your purchase, philosopher! Your course materials are on their way to the email address you provided. Please allow up to 30 minutes for delivery, and be advised that some email filters can send initial emails from unknown senders to your junk folder (if using gmail, they can sometimes end up in your ‘Promotions’ folder, too). If you encounter any issues, just drop me a line at hello@philosophybreak.com, and I’ll be happy to help. For now, fasten your seatbelt — a whirlwind philosophical journey awaits!</p>
+                        <JackHeadshot />
+                    </div>
+                </div>
             </div>
         </Layout>
         </>

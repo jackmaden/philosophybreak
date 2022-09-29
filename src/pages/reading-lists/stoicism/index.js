@@ -26,7 +26,9 @@ const ReadingList = ({ data, location }) => {
         
         {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-            <p><span className="big-letter">F</span>or a philosophy founded almost 2,500 years ago by the ancient Greek philosopher Zeno of Citium, Stoicism is seemingly all the rage. Nuggets of Stoic wisdom dating back to ancient Greco-Roman times — particularly featuring Stoic philosophers Epictetus, Seneca, and Marcus Aurelius — float round the internet and chime with millions across social media.</p>
+            <p><span className="big-letter">F</span>or a philosophy founded almost 2,500 years ago by the ancient Greek philosopher Zeno of Citium, Stoicism (a strong philosophical rival to <Link to="/reading-lists/epicureanism/">Epicureanism</Link>) is seemingly all the rage.</p> 
+            
+            <p>Nuggets of Stoic wisdom dating back to ancient Greco-Roman times — particularly featuring Stoic philosophers Epictetus, Seneca, and Marcus Aurelius — float round the internet and chime with millions across social media.</p>
 
             <p>This is likely due to how fantastically practical much Stoic wisdom can be. Unlike other philosophy — which, tragically, as a general subject is often perceived to be outdated or pointless (<Link to="/philosophy-basics/">here’s our counter-argument as to why philosophy in today’s world is actually as relevant and important as ever</Link>) — Stoicism cuts right to the heart of our day-to-day attitudes and behaviors, and its core principles are distilled in many famous natty aphorisms and quotations.</p> 
 

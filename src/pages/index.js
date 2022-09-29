@@ -51,11 +51,10 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">The wisdom of philosophy can be transformative. Are you up for expanding your mind? Discover exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
-              <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} className="desktop-no-display" alt="Philosophy Break" loading="eager" />
+              <p className="large-grey-font">At last. You made it. The perfect place to begin your philosophical journey. Start by discovering exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
               <HomeSubscriptionForm />
             </div>
-            <div className="mobile-no-display">
+            <div>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" loading="eager" />
             </div>
           </div>

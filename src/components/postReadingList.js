@@ -10,9 +10,9 @@ const PostReadingList = () => (
     <>
         <WatermarkBreak />
         <div id="post-article-height">
-            <PanelLBQ flexdirection="row-reverse" />
-            <PanelNietzsche flexdirection="row" />
             <SubscriptionForm />
+            <PanelNietzsche flexdirection="row" />
+            <PanelLBQ flexdirection="row-reverse" />
             <PanelArticleList />
         </div>
     </>
