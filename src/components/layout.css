@@ -88,6 +88,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
   .two-col, .three-col, .four-col {display: flex; justify-content: space-between; align-items: center;}
+  .two-col.wrap {flex-wrap: wrap;} /*for course reviews, so I don't have to keep listing two-cols*/
   .two-col > div {width: 46%;}
   .two-col.small-top-mar div.gatsby-image-wrapper {margin: 2em 0;} /* course chapters - normalizing it back for desktop*/
   .two-col div div.gatsby-image-wrapper {width: 100%;}
