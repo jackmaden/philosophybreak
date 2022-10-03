@@ -229,7 +229,7 @@ const Page = ({ data, location }) => {
 
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>The content was excellent, stimulating, and well written. The course was interesting and challenging and exceeded my expectations. A lot of depth was shared on each topic. I read each chapter on the day it arrived. One reading is just the beginning. I'll be taking notes on each chapter that will require spending time with the text. Ch. 5 was my favorite. The 3 topics are key to understanding Nietzsche. There is much to learn from this great thinker. Thank you for the opportunities.</span>
+                        <span style={{lineHeight: "1.3"}}>The course was interesting and challenging and exceeded my expectations. The content was excellent, stimulating, and well written. A lot of depth was shared on each topic. I read each chapter on the day it arrived. One reading is just the beginning. I'll be taking notes on each chapter that will require spending time with the text. Ch. 5 was my favorite. The 3 topics are key to understanding Nietzsche. There is much to learn from this great thinker. Thank you for the opportunities.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert J. on 19 July 2022</span></div>
                     </div>
                     

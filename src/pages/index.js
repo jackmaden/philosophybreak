@@ -47,11 +47,11 @@ const Page = ( {data} ) => {
             <div className="mobile-center">
               <span className="tag time home" style={{marginBottom: "12px", color: "#001d30"}}>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
-              <h1 id="home-page">Welcome to your home for learning about philosophy</h1>
+              <h1 id="home-page">The wisdom of philosophy can be <span className="gradient-text">life-changing.</span> We’re here to help you unlock it.</h1>
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">Philosophy can be transformative. Are you up for expanding your mind? Discover exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
+              <p className="large-grey-font">We provide shortcuts to philosophy’s top wisdom. Do you want to enrich your mind? Start by discovering exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
               <HomeSubscriptionForm />
             </div>
             <div>

@@ -69,6 +69,11 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 .flex-end {display: flex; align-items: flex-end;}
 .fade-out {position: absolute; bottom: 0; width: 100%; height: 250px; background-image: linear-gradient(to bottom, transparent, rgba(255,255,255,1));}
 .image-caption-tap {margin-top: -44px; font-size: 11px; color: rgb(115, 125, 136); margin-bottom: 44px;}
+/*text gradient*/
+.gradient-text {
+  background-color: #001d30; background-image: linear-gradient(to right, #001d30, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;
+}
+
 @media (min-width: 620px) {
   p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
   .small-grey-font, .large-grey-font {font-size: 20px;}
@@ -96,6 +101,8 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.align-top, .three-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
+  /*home page special width*/
+  .home .two-col.big-2-col > div:first-child {width: 54%}
   .four-col > div {width: 22.5%;}
   .two-col.text > div {width: 48%;}
   .three-col > div {width: 30%;}
@@ -166,7 +173,7 @@ h5 {font-size: 20px;}
 
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 45px;}
+    h1#home-page {font-size: 41px;}
     h1#lbq {font-size: 34px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
@@ -176,7 +183,7 @@ h5 {font-size: 20px;}
     h5 {font-size: 22px;}
 }
 
-@media (min-width: 1020px) {
+@media (min-width: 1120px) {
     h1#home-page {font-size: 45px;}
     h1.smaller {font-size: 41px;}
 }
@@ -201,14 +208,14 @@ a.no-decoration {text-decoration: none;}
 
 /*buttons*/
 .button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 400; padding: 1em 1.2em 1.1em; border-radius: 4px; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); cursor: pointer;}
-.button.primary {color: #fff; background:linear-gradient(to right top, #1aa9ff, #7cceff);}
+.button.primary {color: #fff; background:linear-gradient(to right top, #3682ff, #1aa9ff, #7cceff);}
 .button.full-width {width: 100%; box-sizing: border-box; text-align: center;}
 .button.primary:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .button.primary:active {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
 .button.primary:disabled {-webkit-filter: brightness(1.2); filter: brightness(1.2); cursor: not-allowed;}
 .button.secondary {background: #fff;}
 a.button.secondary {color: #001d30; font-weight: 500;}
-.button.secondary:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff;}
+.button.secondary:hover {background: linear-gradient(to right top, #3682ff, #1aa9ff, #7cceff); color: #fff;}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.top-icon-align svg {vertical-align: text-top;}
 .button.secondary svg {fill: #36b4ff;}
@@ -374,7 +381,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 
 /*course panel CTAs link headings*/
 .coursepanel a {text-decoration: none;}
-.coursepanel a:hover h2 {text-decoration: underline; text-decoration-color: #36b4ff; color: #36b4ff;}
+.coursepanel a:hover h2 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
 .coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span {color: #001d30;}
 .coursepanel a.white-underline {text-decoration: underline;}
 
@@ -526,6 +533,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 /*white bg LBQ panel*/
 .white-background .time.tag, .white-background a.white-underline, .grey-background.course .time.tag, .grey-background.course a.white-underline {color: #001d30;}
 .white-background a.white-underline, .grey-background.course a.white-underline {text-decoration-color: #001d30;}
+.white-background a.white-underline:hover, .grey-background.course a.white-underline:hover {color: #fff; text-decoration-color: #fff;}
 
 
 /***article listing***/
@@ -534,7 +542,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article:last-of-type {margin-bottom: 32px;}
 .article a {text-decoration: none; display: flex; background-color: #fff; align-items: center;}
 .article a:hover {background: #fff;}
-.article a:hover h2 {color: #36b4ff; text-decoration: underline; text-decoration-color: #36b4ff;}
+.article a:hover h2 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
+#break-start .article.white a:hover h2 {background-image: linear-gradient(to right, #001d30, #001d30); background-color: #001d30;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
 .article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 17px; font-weight: 800;}
@@ -592,7 +601,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .reading-list p {color: #fff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .reading-list p svg {width: 16px; height: 16px; margin-right: 1px; vertical-align: middle;}
 .reading-list svg.cta {position: absolute; top:50%; -ms-transform: translateY(-50%); transform: translateY(-50%); right: 0; width: 60px; height: 60px; fill: #fff;}
-.reading-list:hover h3 {text-decoration: underline; text-decoration-color: #36b4ff; color: #36b4ff;}
+.reading-list:hover h3 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
 @media (min-width: 620px) {
   .reading-list {height: 280px;}
   .reading-list div.reading-list-title {padding: 12px 20px;}
@@ -709,8 +718,7 @@ blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important;
 figcaption {font-size: 12px; color: #001d30; font-weight: 200; margin-top: 10px; line-height: 1.5;}
 figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
-.big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text;
-  background-clip: text; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
+.big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
   .big-letter.smaller {font-size: 68px;}
   .big-letter.section-head {width: 100%; margin-bottom: 0.2em;}
   /*.midblue-background .big-letter {background: linear-gradient(to right top, #020887, #38369A); color: transparent; -webkit-background-clip: text; background-clip: text;}*/
