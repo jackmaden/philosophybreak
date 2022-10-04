@@ -47,7 +47,7 @@ const Page = ( {data} ) => {
             <div className="mobile-center">
               <span className="tag time home" style={{marginBottom: "12px", color: "#001d30"}}>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
-              <h1 id="home-page">The wisdom of philosophy can be <span className="gradient-text">life-changing.</span> We’re here to help you unlock it.</h1>
+              <h1 id="home-page">The wisdom of philosophy can be life-changing. We’re here to help you unlock it.</h1>
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
