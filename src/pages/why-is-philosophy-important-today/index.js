@@ -62,7 +62,7 @@ const Page = ({ data, location }) => {
 
             <p>By engaging with the ideas of great thinkers throughout history, we’re empowered to think for ourselves — be it on matters of meaning and existence, how to make a better world, or simply working out what’s worth pursuing in life.</p>
 
-            <p>For as Socrates, <Link to="/articles/socrates-on-what-we-know/">the famous Ancient Greek martyr of philosophy</Link>, declared:</p> 
+            <p>For as <Link to="/reading-lists/socrates/">Socrates</Link>, <Link to="/articles/socrates-on-what-we-know/">the famous ancient Greek martyr of philosophy</Link>, declared:</p> 
             <blockquote><p>The unexamined life is not worth living.</p></blockquote>
 
             <p>Philosophical contemplation is the starting gun that jolts us out of going through life as if we’re only going through the motions, living only according to the expectations of others, or living by norms we’ve never really thought about, let alone endorsed.</p>

@@ -444,6 +444,7 @@ div.darkener.instagram-filter {background: linear-gradient(90deg, rgba(131,58,18
 /***article full page carousel & title***/
 .carousel-cell, .title {height: 100vh; width: 100%; position: relative; display: block; background-color: #000;}
 .title-img {height: 100%; width: 100%; object-fit: cover; top: 0; left: 0; position: absolute;}
+.title-img.image-top.gatsby-image-wrapper img {object-position: center 10%;}
 div.darkener {content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%;}
 /*different darkeners for carousel title & article title*/
 .carousel-cell div.darkener {background: rgba(0,0,0,0.4);}
@@ -500,7 +501,7 @@ svg.bounce {margin-right: 0;}
 .reading-list-title p {font-size: 16px;}
 div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
-div.separator.course {margin: -4px 0 10px; width: 98px;}
+div.separator.course {margin: -3px 0 10px; width: 146px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
 div.separator.course.wider {width: 110px;}
 div.separator.course.lbq {width: 208px;}
@@ -516,7 +517,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .reading-list-title .time.tag svg {width: 14px; height: 14px;}.reading-list-title p {font-size: 18px;}
   div.separator.reading-list {width: 114px;}
   div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {width: 96px; margin-top: -2px;}
-  div.separator.course {width: 116px; margin-top: -5px;}
+  div.separator.course {width: 176px; margin-top: -5px;}
   div.separator.course.wider {width: 128px;}
   div.separator.course.lbq {width: 250px;}
   div.separator.chapter {width: 100px;}

@@ -22,11 +22,11 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Aristotle" number="8" img={data.title.childImageSharp.gatsbyImageData} alt="Aristotle" />
+        <TitleReadingList title="Aristotle" number="8" img={data.title.childImageSharp.gatsbyImageData} imgposition="image-top" alt="Aristotle" />
         
         {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-            <p><span className="big-letter">A</span>ristotle was an ancient Greek philosopher who, like his <Link to="/reading-lists/plato/">legendary teacher Plato</Link>, is considered to be one of the most significant figures in the history of Western philosophy. Over his lifetime, he transformed most of the subjects he investigated, writing as many as 200 treatises (of which only 31 survive) on topics ranging from logic, <Link to="/reading-lists/political-philosophy/">politics</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to biology, mathematics, and <Link to="/reading-lists/metaphysics/">metaphysics</Link>. </p> 
+            <p><span className="big-letter">A</span>ristotle was an ancient Greek philosopher who, like his <Link to="/reading-lists/plato/">legendary teacher Plato</Link> (and <i>his</i> legendary teacher, <Link to="/reading-lists/socrates/">Socrates</Link>), is considered to be one of the most significant figures in the <Link to="/reading-lists/history-of-western-philosophy/">history of western philosophy</Link>. Over his lifetime, he transformed most of the subjects he investigated, writing as many as 200 treatises (of which only 31 survive) on topics ranging from logic, <Link to="/reading-lists/political-philosophy/">politics</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to biology, mathematics, and <Link to="/reading-lists/metaphysics/">metaphysics</Link>. </p> 
 
             <p>It was largely from Aristotle’s works that the West inherited its entire intellectual approach, including the problems it investigates and its methods of inquiry. Consequently, like Plato, Aristotle holds a unique influence on almost every form of knowledge in the West, and his writings continue to be a subject of contemporary debate today.</p>    
 

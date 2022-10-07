@@ -94,6 +94,8 @@ const Page = ({ data, location }) => {
                   <div class="separator"></div>
                 </div>
 
+                <BannerReadingList title="Socrates" number="5" link="/reading-lists/socrates/" img={data.socrates.childImageSharp.gatsbyImageData} alt="socrates reading list" />
+                
                 <BannerReadingList title="Plato" number="6" link="/reading-lists/plato/" img={data.plato.childImageSharp.gatsbyImageData} alt="plato reading list" />
 
                 <BannerReadingList title="Aristotle" number="8" link="/reading-lists/aristotle/" img={data.aristotle.childImageSharp.gatsbyImageData} alt="aristotle reading list" />
@@ -260,6 +262,11 @@ export const query = graphql`{
     }
   }
   arendt: file(relativePath: {eq: "hannah-arendt.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  socrates: file(relativePath: {eq: "socrates.jpeg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

@@ -139,7 +139,7 @@ const Page = ({ data, location }) => {
 
             <p><span className="big-letter">A</span>s we’ve seen, the concerns of philosophy are both deep and wide-ranging. There may be some areas that interest you, there may be others you find a little dry* (*cough, logic, cough).</p>
 
-            <p>Either way, philosophers have been studying the difficult questions mentioned above for thousands of years. The ancient Greek philosophers <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, and <Link to="/reading-lists/aristotle/">Aristotle</Link> are the major foundational figures of so-called ‘Western’ philosophy — so much so that, as the 20th-century philosopher Alfred North Whitehead once noted, “the safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.”</p>
+            <p>Either way, philosophers have been studying the difficult questions mentioned above for thousands of years. The ancient Greek philosophers <Link to="/reading-lists/socrates/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, and <Link to="/reading-lists/aristotle/">Aristotle</Link> are the major foundational figures of so-called ‘Western’ philosophy — so much so that, as the 20th-century philosopher Alfred North Whitehead once noted, “the safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.”</p>
 
             <figure className="gatsby-resp-image-figure big-image">
               <StaticImage src="../../images/plato-aristotle.png" alt="Plato and Aristotle" placeholder="blurred" layout="fullWidth" />

@@ -22,11 +22,11 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Plato" number="6" img={data.title.childImageSharp.gatsbyImageData} alt="Plato" />
+        <TitleReadingList title="Plato" number="6" img={data.title.childImageSharp.gatsbyImageData} imgposition="image-top" alt="Plato" />
         
         {/*reading list content*/}
         <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-            <p><span className="big-letter">P</span>lato was an ancient Greek philosopher widely considered to be one of the most important and pivotal figures in the history of Western philosophy, along with his teacher, Socrates, and his most famous student, <Link to="/reading-lists/aristotle/">Aristotle</Link>. Commenting on Plato’s vast influence, the 20th-century philosopher Alfred North Whitehead once noted:</p> 
+            <p><span className="big-letter">P</span>lato was an ancient Greek philosopher widely considered to be one of the most important and pivotal figures in the <Link to="/reading-lists/history-of-western-philosophy/">history of western philosophy</Link>, along with his teacher, <Link to="/reading-lists/socrates/">Socrates</Link>, and his most famous student, <Link to="/reading-lists/aristotle/">Aristotle</Link>. Commenting on Plato’s vast influence, the 20th-century philosopher Alfred North Whitehead once noted:</p> 
             
             <blockquote>
                 <p>The safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.</p>

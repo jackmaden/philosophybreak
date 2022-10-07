@@ -5,7 +5,7 @@ const TitleReadingList = props => (
         <div className="title list">
                 <GatsbyImage
                     image={props.img}
-                    className="title-img"
+                    className={'title-img ' + props.imgposition}
                     alt={props.alt} loading="eager" />
                 <div className="darkener"></div>
                 <div className="page-center title-center mid-width">
@@ -16,5 +16,9 @@ const TitleReadingList = props => (
                 </div>
         </div>
     )
+
+TitleReadingList.defaultProps = {
+    imgposition: " ",
+}
 
 export default TitleReadingList
