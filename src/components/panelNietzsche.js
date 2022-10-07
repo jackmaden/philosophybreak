@@ -35,7 +35,7 @@ const PanelNietzsche = props => (
                             fadeIn={false}
                             alt="Introduction to Nietzsche" />
 
-                        <p className="large-grey-font no-mar-top-mob">Learn everything you need to know about Friedrich Nietzsche with just six 30-minute chapters. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
+                        <p className="large-grey-font no-mar-top-mob">Learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
 
                         <p><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <Link to="/introduction-to-nietzsche/" className="white-underline" style={{fontSize: "16px"}}>(10 reviews)</Link></p>
 

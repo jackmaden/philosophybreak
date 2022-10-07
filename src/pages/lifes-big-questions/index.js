@@ -34,7 +34,7 @@ const Page = ({ data, location }) => {
                     <p className="spectral">Discovering philosophy’s top wisdom has never been simpler. Each day for the next 5 days, you’ll receive a value-packed, 30-minute read (accessible forever from any device) distilling the great philosophers’ best answers to life’s big questions. Start enriching your mind now.</p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display tiny-mar-top-important" />
                     <div className="mobile-center">
-                        <p className="verified discount no-mar-top">LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                        <h5>$39.00 USD (One-off payment)</h5>
                         <CheckoutLBQ />
                     </div>
                 </div>
@@ -89,7 +89,7 @@ const Page = ({ data, location }) => {
                 <h2 className="small-mar">Learn Thousands of Years of Philosophy with Just 30 Minutes of Reading per Day</h2>
                 <div className="separator"></div>
                 <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                <p className="verified discount no-mar-top">LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
 
@@ -202,7 +202,7 @@ const Page = ({ data, location }) => {
                 <h2 className="small-mar">Treat Yourself: a One-off Investment for a Lifetime of Philosophical Wisdom</h2>
                 <div className="separator"></div>
                 <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                <p className="verified discount no-mar-top">LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
         </div>
@@ -217,7 +217,7 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                    <p className="verified discount no-mar-top">LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width"><CheckoutLBQ /></div>
                 </div>
 
@@ -259,11 +259,11 @@ const Page = ({ data, location }) => {
                         <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                         <div className="separator"></div>
                         <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                        <p className="verified discount no-mar-top">LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$29.00 USD</span></h5>
+                        <h5>$39.00 USD (One-off payment)</h5>
                         <div className="small-width">
                             <CheckoutLBQ />
                             <div className="large-mar-top">
-                                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
                             </div>
                         </div>
                     </div>

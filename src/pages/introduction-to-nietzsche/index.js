@@ -31,11 +31,12 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>SIX 30-MIN CHAPTERS</span><div className="separator course new"></div>
                     <h1 className="smaller">Radically Strengthen Your Grasp of Nietzsche and His 5 Greatest Ideas</h1>
-                    <p style={{marginBottom: 0}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>(10 reviews)</AnchorLink></p>
+                    <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six 30-minute chapters. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display" />
-                    <p className="verified discount no-mar-top-mob">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
-                    <CheckoutNietzsche />
-                    <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche with just six 30-minute chapters. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
+                    <div className="mobile-center">
+                        <h5>$39.00 USD (One-off payment)</h5>
+                        <CheckoutNietzsche />
+                    </div>
                 </div>
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" />
@@ -88,7 +89,7 @@ const Page = ({ data, location }) => {
             <h2 className="small-mar">In Just 6 Days, You’ll Finally Understand Nietzsche</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
@@ -216,7 +217,7 @@ const Page = ({ data, location }) => {
             <h2 className="small-mar">You Deserve It: Indulge Your Interest in Nietzsche Today</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
@@ -296,7 +297,7 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar no-mar-top">Treat Yourself to a Richer Perspective on Life</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width"><CheckoutNietzsche /></div>
                 </div>
 
@@ -340,10 +341,12 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <p className="verified discount no-mar-top">15% DISCOUNT – LIMITED OFFER</p><h5 className="discount"><span>$39.00 USD</span>&nbsp;&nbsp;<span>$34.00 USD</span></h5>
+                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width">
                         <CheckoutNietzsche />
-                        <AnchorLink className="no-hover" href="#top"><button className="button secondary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                        <div className="large-mar-top">
+                            <AnchorLink className="no-hover" href="#top"><button className="button secondary nowhitehover" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                        </div>
                     </div>
                 </div>
 

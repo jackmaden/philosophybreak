@@ -216,10 +216,12 @@ a.no-decoration {text-decoration: none;}
 .button.secondary {background: #fff;}
 a.button.secondary {color: #001d30; font-weight: 500;}
 .button.secondary:hover {background: linear-gradient(to right top, #3682ff, #1aa9ff, #7cceff); color: #fff;}
+.button.secondary.nowhitehover:hover {color: #001d30;}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.top-icon-align svg {vertical-align: text-top;}
 .button.secondary svg {fill: #36b4ff;}
 :hover.button.secondary svg {fill: #fff;}
+:hover.button.secondary.nowhitehover svg {fill: #36b4ff;}
 
 .grey-background.no-hover .button.secondary:hover {color: #001d30;}
 .grey-background.no-hover :hover.button.secondary svg {fill: #36b4ff;}
