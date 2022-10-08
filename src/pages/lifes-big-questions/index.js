@@ -29,7 +29,7 @@ const Page = ({ data, location }) => {
         <div className="top-title darkradial-background course" id="top">
             <div className="two-col big-2-col page-center">
                 <div>
-                    <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>FIVE 30-MIN CHAPTERS</span><div className="separator course"></div>
+                    <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>5-DAY COURSE</span><div className="separator course"></div>
                     <h1 id="lbq">Unlock Philosophy’s Best Answers to Life’s Big Questions (with Just 1 Concise, 30-min Read per Day)</h1>
                     <p className="spectral">Discovering philosophy’s top wisdom has never been simpler. Each day for the next 5 days, you’ll receive a value-packed, 30-minute read (accessible forever from any device) distilling the great philosophers’ best answers to life’s big questions. Start enriching your mind now.</p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display tiny-mar-top-important" />
