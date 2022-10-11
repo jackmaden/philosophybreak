@@ -12,7 +12,7 @@ authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">W</span>hat is the fundamental nature of reality? What is time? What is space? Is there a God? [Is the world around us ‘real’?](/articles/is-the-world-around-us-real/) What is change?  Do numbers exist? What is causation, and can there be such a thing as a ‘first cause’? Why is reality like it is? What does it mean for something to exist?  [Why does _anything_ exist?](/articles/why-does-anything-exist/) 
 
-These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics. As 18th-century German philosopher Immanuel Kant puts it: 
+These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics. As [18th-century German philosopher Immanuel Kant](/reading-lists/immanuel-kant/) puts it: 
 
 >Metaphysics is a dark ocean without shores or lighthouse, strewn with many a philosophic wreck.
 

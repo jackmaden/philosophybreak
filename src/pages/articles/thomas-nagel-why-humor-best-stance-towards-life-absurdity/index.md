@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">T</span>hroughout the history of philosophy, philosophers have been relatively quiet on humor — and the little that has been written has been rather descriptive and surprisingly negative. Plato and Hobbes, for instance, regarded laughter as an expression of superiority — even of scorn. Kant and Schopenhauer, meanwhile, correspond more closely to what is known as ‘Incongruity Theory’ — that laughter is caused by the puncturing of a set up of expectation. 
+<span class="big-letter">T</span>hroughout the history of philosophy, philosophers have been relatively quiet on humor — and the little that has been written has been rather descriptive and surprisingly negative. Plato and Hobbes, for instance, regarded laughter as an expression of superiority — even of scorn. [Kant](/reading-lists/immanuel-kant/) and Schopenhauer, meanwhile, correspond more closely to what is known as ‘Incongruity Theory’ — that laughter is caused by the puncturing of a set up of expectation. 
 
 Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing about why we laugh and places humor as the essential stance to adopt in response to being human. 
 

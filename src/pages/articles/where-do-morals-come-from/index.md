@@ -30,7 +30,7 @@ But _why_ do we act morally? And where do our moral ideas come from? Are they gi
 
 <span class="big-letter">F</span>or the vast majority of human civilization, morality has been viewed as something that sits on top of human nature. Human nature cannot be trusted — we’re all selfish monsters — so we need rules to ensure good, cooperative behavior.
 
-Who creates these rules? Well, religions cast God as the moral authority; while philosophers from Aristotle to Kant have put forward frameworks that permit Reason to settle all things right and wrong. 
+Who creates these rules? Well, religions cast God as the moral authority; while philosophers from [Aristotle](/reading-lists/aristotle/) to [Kant](/reading-lists/immanuel-kant/) have put forward frameworks that permit Reason to settle all things right and wrong. 
 
 It doesn’t really matter which authority is invoked here — God or Reason — what is important is that these kinds of theories formulate principles and then impose them on human conduct. The Ten Commandments; The Golden Rule (treat others as you wish to be treated); Utilitarianism — all these moral systems share this top-down orientation, and imply that without imposed rules our natural tendency would be to run riot.
 
@@ -71,7 +71,7 @@ After all, questions De Waal:
 
 ## We're all just monkeys refusing cucumber for grapes
 
-<span class="big-letter">D</span>e Waal’s arguments, backed by accumulating research as they are, are difficult to ignore for advocates of top-down moral frameworks. That morality is grounded in emotional intuition may be an unpopular idea for lovers of reason like Immanuel Kant, but it is an unarguable one for followers of Hume, an intuitive one in day-to-day lived experience — and a research-backed one in biology.
+<span class="big-letter">D</span>e Waal’s arguments, backed by accumulating research as they are, are difficult to ignore for advocates of top-down moral frameworks. That morality is grounded in emotional intuition may be an unpopular idea for lovers of reason like [Immanuel Kant](/reading-lists/immanuel-kant/), but it is an unarguable one for followers of Hume, an intuitive one in day-to-day lived experience — and a research-backed one in biology.
 
 Even if you are unconvinced by De Waal's arguments, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0393347796/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347796&linkCode=as2&tag=philosophybre-20&linkId=b8d22117bc2c7ae9baab95ffa07722dc">The Bonobo and the Atheist</a> remains a fascinating read, packed full of interesting and sometimes hilarious animal studies on fairness — not least [this one](https://www.youtube.com/watch?v=meiU6TxysCg) regarding an outraged monkey absolutely refusing to eat cucumber slices on seeing his partner receive grapes.
 

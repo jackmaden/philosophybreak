@@ -22,7 +22,7 @@ const Page = ({ data, location }) => {
 
     return (
     <>
-    <Seo title="Introduction to Nietzsche and His 5 Greatest Ideas: 6-Day Course" description="Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch." image={imagePath} pathname={location.pathname} />
+    <Seo title="Introduction to Nietzsche Course: His 5 Greatest Ideas" description="Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple bg="light-bg" />
         {/*page title*/}
