@@ -70,7 +70,7 @@ So the idea is that really attending to reality is not just necessary, but also 
 
 >I think there’s a way in which just accepting things can be a failure to acknowledge how bad they are, and that sometimes you have to rail against even things you can’t control.
 
-In 1868 there was a new translation of Epictetus, one of the great Stoic thinkers, that was reviewed by the novelist Henry James. Now, Epictetus was enslaved in ancient Greece, and part of his teachings included his story of adapting to the condition of living under slavery. And in his critique, Henry James imagines what it would be like for a black person in the American South to simply repeat the Stoic mantra of just reconciling yourself to it. Does that solve slavery? 
+In 1868 there was a new translation of Epictetus, one of the great Stoic thinkers, that was reviewed by the novelist Henry James. Now, Epictetus was enslaved in ancient Greece, and part of his teachings included his story of adapting to the condition of living under slavery. And in his critique, Henry James imagines what it would be like for a black person in the American South to simply repeat the Stoic mantra of just reconciling yourself to it. 
 
 I think there’s a way in which just accepting things can be a failure to acknowledge how bad they are, and that sometimes you have to rail against even things you can’t control. I think the same thing about the Stoic attitude to grief, which is basically that we can and should extinguish it. 
 
@@ -79,7 +79,7 @@ My view is that we should protest against things even when we can’t control or
 ![The Great Day of His Wrath, by John Martin](./day-of-wrath.jpg "The Great Day of His Wrath, by John Martin (1851 - 1853). How should we balance personal wellbeing with concern for large-scale problems?")
 
 
-## That said, you discuss doom scrolling and how it’s easier than ever to become enraged by events in the world. How do you think we can balance personal wellbeing with, say, engagement with injustice?
+## That said, you discuss ‘doom scrolling’ and how it’s easier than ever to become enraged by events in the world. How do you think we can balance personal wellbeing with, say, engagement with injustice?
 
 <span class="big-letter">W</span>hen we confront the injustice of the world, it’s very easy to feel overwhelmed and powerless and like there’s very little we can do. And so it’s important to allow for a certain kind of self-compassion.
 
