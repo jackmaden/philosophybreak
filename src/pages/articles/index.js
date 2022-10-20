@@ -89,7 +89,7 @@ export const query = graphql`query ArticleList {
           imageAlt
           imageSeo {
             childImageSharp {
-              gatsbyImageData(width: 600, layout: CONSTRAINED)
+              gatsbyImageData(width: 800, layout: CONSTRAINED)
             }
           }
           date
