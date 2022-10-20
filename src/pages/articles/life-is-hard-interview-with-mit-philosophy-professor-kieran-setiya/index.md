@@ -44,15 +44,15 @@ In political philosophy, for example, there’s been a critique of so-called ‘
 
 And I think something like that is true in the ethics of individual flourishing, too — that even if you’re right about what an ideal life would look like, it won’t include whatever circumstances you’re in right now, and so it won’t give you a guide to it.
 
->Living well involves being in touch with reality. You have to live in the world as it is, not the world as we wish it would be.
+>Living well involves being in touch with reality. We have to live in the world as it is, not the world as we wish it would be.
 
 So that’s one central thing to say. The other is there’s a distinction I emphasize in the book between feeling happy and living well, and it’s a distinction you can illustrate in thought experiments philosophers are fond of. 
 
-Consider, for instance, you’re plugged into a simulation, it’s all completely unreal. Maybe it simulates an ideal life and you feel happy, but you’re not really living a good life. You’re not really living at all. 
+Suppose, for instance, you’re plugged into a simulation, it’s all completely unreal. Maybe it simulates an ideal life and you feel happy, but you’re not really living a good life. You’re not really living at all. 
 
 That’s an extreme case, but you can see the same contrast in cases of, say, deception, or cases where people’s lives are not in touch with reality.
 
-And what that suggests is that while feeling happy is important, living well involves being in touch with reality. You have to live in the world as it is, not the world as we wish it would be. And once you start thinking about the goal of philosophical self-help as living well, it looks like the only way to do that is to actually take in fully the circumstance you’re in and figure out, okay, if this is really the world I’m dealing with — warts and all — how can I approach it? How _should_ I approach it?
+And what that suggests is that while feeling happy is important, living well involves being in touch with reality. We have to live in the world as it is, not the world as we wish it would be. And once you start thinking about the goal of philosophical self-help as living well, it looks like the only way to do that is to actually take in fully the circumstance you’re in and figure out, okay, if this is really the world I’m dealing with — warts and all — how can I approach it? How _should_ I approach it?
 
 
 ## Is there a balance to be struck in terms of being so remorselessly in touch with reality versus just preserving a sense of well-being? 
