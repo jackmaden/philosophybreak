@@ -75,11 +75,13 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.gatsbyImageData} alt="philosophy of language reading list" />
 
-                <BannerReadingList title="Existentialism" number="8" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
+                <BannerReadingList title="Buddhist Philosophy" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
                 
                 <BannerReadingList title="Epicureanism" number="5" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
                 
                 <BannerReadingList title="Stoicism" number="5" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
+
+                <BannerReadingList title="Existentialism" number="8" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
 
                 
                 </div>
@@ -101,6 +103,8 @@ const Page = ({ data, location }) => {
                 <BannerReadingList title="Aristotle" number="8" link="/reading-lists/aristotle/" img={data.aristotle.childImageSharp.gatsbyImageData} alt="aristotle reading list" />
 
                 <BannerReadingList title="Epicurus" number="5" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
+
+                <BannerReadingList title="Gautama Buddha" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
 
                 <BannerReadingList title="Immanuel Kant" number="6" link="/reading-lists/immanuel-kant/" img={data.kant.childImageSharp.gatsbyImageData} alt="Immanuel Kant reading list" />
                 
@@ -274,6 +278,11 @@ export const query = graphql`{
     }
   }
   kant: file(relativePath: {eq: "kant.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  buddhism: file(relativePath: {eq: "buddhism.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

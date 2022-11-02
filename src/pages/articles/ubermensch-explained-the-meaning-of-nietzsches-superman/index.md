@@ -27,7 +27,7 @@ To fully appreciate the significance of the Übermensch in Nietzsche’s philoso
 
 ## God is dead
 
-<span class="big-letter">F</span>ollowing the enlightenment and the separation of church and state across Europe, Nietzsche notes that Christianity does not have the authority or legitimacy it once had. In fact, [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/). And that means everything built on top of God, including the entire western value system, is destined for collapse.
+<span class="big-letter">F</span>ollowing the enlightenment and the separation of church and state across Europe, Nietzsche notes that Christianity does not have the authority or legitimacy it once had. In fact, [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/). And that means everything built on top of God, including the entire Western value system, is destined for collapse.
 
 The trouble is, many people haven’t realized this yet. As we discuss in our short explainer piece on [Nietzsche’s infamous ‘God is dead’ declaration](/articles/god-is-dead-nietzsche-famous-statement-explained/), many in Nietzsche’s day greeted the decline of Christianity with a shrug, or even jubilation. 
 
@@ -39,7 +39,7 @@ Erode Christian values — erode the coping mechanism — and how will people be
 
 ## The Last Man
 
-<span class="big-letter">N</span>ietzsche worried that, if we’re not careful, the death of God would lead to a deep nihilism. Recognizing western values (derived from Christianity) as foundationless, yet not proactively replacing them with anything, we’d inevitably end up burying our existential angst deep down. We’d pick our fates from one of the following: delude ourselves with false beliefs, become irretrievably depressed, or distract ourselves with vacuous pursuits and meaningless entertainment. 
+<span class="big-letter">N</span>ietzsche worried that, if we’re not careful, the death of God would lead to a deep nihilism. Recognizing Western values (derived from Christianity) as foundationless, yet not proactively replacing them with anything, we’d inevitably end up burying our existential angst deep down. We’d pick our fates from one of the following: delude ourselves with false beliefs, become irretrievably depressed, or distract ourselves with vacuous pursuits and meaningless entertainment. 
 
 Nietzsche characterizes this predicament in his 1883-5 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, presenting us with a devastating sketch of an apathetic, shallow, distracted humanity:
 

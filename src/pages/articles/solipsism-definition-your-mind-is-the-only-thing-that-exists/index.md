@@ -71,7 +71,7 @@ So, as before, the solipsist can happily retort that solipsism remains a possibi
 
 Berkeley thought the only things in existence were minds and their potential contents (e.g. sensory perceptions, feelings, thoughts, and so on). 
 
-To the question of whether a falling tree makes a noise when there’s no one around to hear it, for instance, Berkeley answers with a definitive no: things only exist if there is some kind of being there to perceive them — all else is superfluous and nonsensical. 
+To the question of [whether a falling tree makes a noise when there’s no one around to hear it](/articles/if-a-tree-falls-in-the-forest-and-theres-no-one-around-to-hear-it-does-it-make-a-sound/), for instance, Berkeley answers with a definitive no: things only exist if there is some kind of being there to perceive them — all else is superfluous and nonsensical. 
 
 ![George Berkeley](./george-berkeley.jpg "George Berkeley, existing as an idea in your mind.")
 
