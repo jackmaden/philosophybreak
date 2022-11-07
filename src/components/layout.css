@@ -608,7 +608,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .reading-list:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .reading-list div.darkener {background: linear-gradient(to left, transparent, rgba(0,0,0,0.8));}
 .reading-list div.reading-list-title {position: absolute; padding: 12px; top: 50%; -ms-transform: translateY(-52%); transform: translateY(-52%);}
-.reading-list div.darkener, .reading-list .title-img {border-radius: 6px;}
+.reading-list div.darkener, .reading-list .title-img {border-radius: 10px;}
 .reading-list h3 {color: #fff; font-size: 24px; margin: 0 !important; text-align: left;}
 .reading-list p {color: #fff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .reading-list p svg {width: 16px; height: 16px; margin-right: 1px; vertical-align: middle;}
@@ -631,7 +631,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 
 
 /***reading list cta***/
-.reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 220px; overflow:hidden; border-radius: 6px;}
+.reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 220px; overflow:hidden; border-radius: 10px;}
 .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-image {object-fit: cover;}
 @media (min-width: 620px) {
   .reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 280px; overflow:hidden;}
