@@ -76,6 +76,8 @@ const Page = ({ data, location }) => {
                 <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.gatsbyImageData} alt="philosophy of language reading list" />
 
                 <BannerReadingList title="Buddhist Philosophy" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
+
+                <BannerReadingList title="Confucianism" number="5" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
                 
                 <BannerReadingList title="Epicureanism" number="5" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
                 
@@ -103,6 +105,8 @@ const Page = ({ data, location }) => {
                 <BannerReadingList title="Aristotle" number="8" link="/reading-lists/aristotle/" img={data.aristotle.childImageSharp.gatsbyImageData} alt="aristotle reading list" />
 
                 <BannerReadingList title="Epicurus" number="5" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
+
+                <BannerReadingList title="Confucius" number="5" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
 
                 <BannerReadingList title="Gautama Buddha" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
 
@@ -283,6 +287,11 @@ export const query = graphql`{
     }
   }
   buddhism: file(relativePath: {eq: "buddhism.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  confucius: file(relativePath: {eq: "confucius.webp"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
