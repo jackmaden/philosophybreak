@@ -20,9 +20,11 @@ If we transpose Aristotle’s thought — that we often do not know how to spend
 
 At the other extreme, we find those who want to forget work so thoroughly they spend all their leisure time distracting themselves with physical pleasures or meaningless entertainment. 
 
-And, unfortunately, in the middle of these extremes lies perpetual anxiety: guilt for not being more ‘productive’; guilt for not being more ‘social’. 
+And, unfortunately, in the middle of these extremes lies perpetual anxiety: guilt for not being more ‘productive’; guilt for not being more ‘social’.
 
-Turning again to Aristotle, we find the solution lies in not viewing work or recovery as ends in themselves. Rather, they should be viewed as the means by which to further constructive leisure. 
+While there are a lucky few who are able to derive genuine fulfillment and personal growth from work, many unhappily find themselves somewhere on the spectrum between pointless workaholism and unconstructive recovery.
+
+Turning again to Aristotle, we find the solution lies in not viewing work or recovery as ends in themselves. Rather, they should be viewed merely as the means by which to further constructive leisure. 
 
 For it is in leisure, not in work or recovery, that the true beauty and meaning of the human condition can be found. Amusements and distractions have their place, but they do not constitute true leisure. In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199213615/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199213615&linkId=f18186fee7d024481a9574760906cea9">The Nicomachean Ethics</a>, Aristotle writes: 
 
