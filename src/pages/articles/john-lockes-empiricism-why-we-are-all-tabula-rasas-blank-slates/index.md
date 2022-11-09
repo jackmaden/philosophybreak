@@ -13,7 +13,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">A</span>re we born with innate knowledge? Or do we acquire knowledge only through our sensory experiences? Does the world of our sensory experience align to ‘reality’? Or is experience a poor guide to what’s really there? These are key questions of [epistemology](/reading-lists/epistemology/), the branch of philosophy concerned with what knowledge is, how we acquire it, and whether it has secure foundations. 
 
-A philosopher who had particularly influential things to say about these questions is the 17th-century English philosopher, John Locke, who argued that knowledge is demonstrably acquired _only_ through sensory experience, but that our sensory experience is not infallible.
+A philosopher who had particularly influential things to say about these questions is the 17th-century English philosopher, [John Locke](/reading-lists/john-locke/), who argued that knowledge is demonstrably acquired _only_ through sensory experience, but that our sensory experience is not infallible.
 
 ![John Locke](./johnlocke.jpg "John Locke, as perceived by your senses.")
 

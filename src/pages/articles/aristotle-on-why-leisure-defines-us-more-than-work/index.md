@@ -2,7 +2,7 @@
 title: "Aristotle On Why Leisure Defines Us More than Work"
 description: "Ancient Greek philosopher Aristotle believed we should define ourselves less by our work, and more by our leisure activities."
 image: "./aristotle-leisure.jpg"
-imageAlt: "Epicurus On Why Death Does Not Concern Us"
+imageAlt: "Aristotle On Why Leisure Defines Us More than Work"
 imageSeo: "./aristotle-leisure.jpg"
 tags: ["Aristotle", "Leisure"]
 date: "2022-11-07"

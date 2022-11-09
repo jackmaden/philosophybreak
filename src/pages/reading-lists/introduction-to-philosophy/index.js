@@ -16,7 +16,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
       <>
-      <Seo title="An Introduction to Philosophy – The Best 5 Books to Read" description="A curated reading list of the most essential introductions to the fascinating subject of philosophy." image={imagePath} pathname={location.pathname} />
+      <Seo title="An Introduction to Philosophy – The Best 5 Books to Read" description="A curated reading list of the best books that offer introductions to philosophy." image={imagePath} pathname={location.pathname} />
       <MailchimpPopUp />
       <Layout> 
       <Navigation />
