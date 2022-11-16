@@ -41,7 +41,7 @@ const Page = ({ data, location }) => {
 
             <div className="two-col spectral">
             <div>
-                <p><span className="big-letter">P</span>hilosophy is a vast subject that cannot be practically broken down into a single reading list. As such, we’ve organized philosophy’s best books both by subject — from core branches like <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/epistemology/">epistemology</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to particular movements like <Link to="/reading-lists/existentialism/">existentialism</Link> and <Link to="/reading-lists/stoicism/">Stoicism</Link> — as well as by individual philosopher, from <Link to="/reading-lists/plato/">Plato</Link> to <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche</Link>.</p>
+                <p><span className="big-letter">P</span>hilosophy is a vast subject that cannot be practically broken down into a single reading list. As such, we’ve organized philosophy’s best books both by subject — from core branches like <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/epistemology/">epistemology</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to particular movements like <Link to="/reading-lists/existentialism/">existentialism</Link> and <Link to="/reading-lists/stoicism/">Stoicism</Link> — as well as by individual philosophers, from <Link to="/reading-lists/socrates/">Socrates</Link> to <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche</Link>.</p>
                 <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, which is ideal for beginners and those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
                 <p>Will you chart the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>? Will you learn about the <Link to="/reading-lists/philosophy-of-language/">philosophy of language</Link>? Will you discover why <Link to="/reading-lists/aristotle/">Aristotle</Link> exerts such influence to this day? Will you investigate the mystery of <Link to="/reading-lists/free-will/">free will</Link>? The choice is (not) yours!</p>
             </div>
@@ -117,6 +117,8 @@ const Page = ({ data, location }) => {
                 <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
 
                 <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.arendt.childImageSharp.gatsbyImageData} alt="Hannah Arendt reading list" />
+
+                <BannerReadingList title="Ayn Rand" number="5" link="/reading-lists/ayn-rand/" img={data.rand.childImageSharp.gatsbyImageData} alt="Ayn Rand reading list" />
                 
                 <BannerReadingList title="Albert Camus" number="5" link="/reading-lists/albert-camus/" img={data.camus.childImageSharp.gatsbyImageData} alt="Albert Camus reading list" />
                 
@@ -299,6 +301,11 @@ export const query = graphql`{
     }
   }
   confucius: file(relativePath: {eq: "confucius.webp"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  rand: file(relativePath: {eq: "rand.jpeg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

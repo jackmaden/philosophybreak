@@ -1,6 +1,6 @@
 ---
 title: "John Locke’s Empiricism: Why We Are All Tabula Rasas (Blank Slates)"
-description: "17th-century philosopher John Locke's empirical theory of knowledge had a major impact on the thinkers who followed. This article explores Locke's core arguments — and discusses their profound consequences."
+description: "17th-century philosopher John Locke’s empirical theory of knowledge had a major impact on the thinkers who followed. This article explores Locke's core arguments — and discusses their profound consequences."
 image: "./john-locke-empiricism.jpg"
 imageAlt: "John Locke Empiricism Tabula Rasa"
 imageSeo: "./johnlocke.jpg"
@@ -13,7 +13,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">A</span>re we born with innate knowledge? Or do we acquire knowledge only through our sensory experiences? Does the world of our sensory experience align to ‘reality’? Or is experience a poor guide to what’s really there? These are key questions of [epistemology](/reading-lists/epistemology/), the branch of philosophy concerned with what knowledge is, how we acquire it, and whether it has secure foundations. 
 
-A philosopher who had particularly influential things to say about these questions is the 17th-century English philosopher, [John Locke](/reading-lists/john-locke/), who argued that knowledge is demonstrably acquired _only_ through sensory experience, but that our sensory experience is not infallible.
+A philosopher who had particularly influential things to say about these questions is the 17th-century English philosopher, John Locke (here’s our [reading list on John Locke’s best and most essential books](/reading-lists/john-locke/), who argued that knowledge is demonstrably acquired _only_ through sensory experience, but that our sensory experience is not infallible.
 
 ![John Locke](./johnlocke.jpg "John Locke, as perceived by your senses.")
 
