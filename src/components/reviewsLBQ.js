@@ -15,6 +15,12 @@ export default function Reviews(props) {
                 <div className="two-col wrap align-top">
 
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good starting point</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>I really enjoyed reading the material. It is easy to understand, entertaining and thought-provoking and has given me some new approaches that I’ll continue to think about. I really appreciate that you deliver an overview of those fundamental topics that to me seems academically founded (different approaches/ideas are introduced and compared) and at the same time the reading is quite brief. That is very efficient but gives the reader some trust that a field has been viewed from the most important angles. I think this leaves me in a very good starting point when it comes to categorizing future information. I also find the conclusion motivating and positive, that there’s a good life ahead. The first and last chapters were my favorites. I find the question 'why is there anything at all?' is a mind blower. And the last chapter (especially about absurdity) relates to that. Thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mario H. on 26 November 2022</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Wonderful introduction</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Wonderful, clear, concise, and very informative. This is a great introductory course, exactly what I was looking for in general and enough depth to inspire further investigations. Receiving one chapter a day was good, I took my time and read them at my optimum leisure. My favorite chapter started as my least favorite: Free Will. It's really easy to take this subject personally, but it made me think of what 'Free Will' really means in language and conversations as well as what 'Destiny' and 'Fate' have come to 'mean'. I also really enjoy the reading lists at the end of the chapters and have taken up a few suggestions. Thanks!</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Matt J. on 16 September 2022</span></div>
@@ -67,11 +73,6 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chris J. on 15 January 2022</span></div>
                     </div>
 
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Excellent course experience. All the content was interesting, but my favorite chapter was chapter four on free will.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Amaro H. on 11 January 2022</span></div>
-                    </div>
 
                 </div>
                 
@@ -83,6 +84,13 @@ export default function Reviews(props) {
 
                     <div className="two-col wrap align-top">
                         
+
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Excellent course experience. All the content was interesting, but my favorite chapter was chapter four on free will.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Amaro H. on 11 January 2022</span></div>
+                        </div>
+
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Brilliant topics, well written and well delivered. Loved all the chapters. Overall a really good experience, thanks. </span>
