@@ -34,7 +34,6 @@ const Page = ({ data, location }) => {
                     <p className="spectral">Discovering philosophy’s top wisdom has never been simpler. Each day for the next 5 days, you’ll receive a value-packed, 30-minute read (accessible forever from any device) distilling the great philosophers’ best answers to life’s big questions. Start enriching your mind now.</p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display tiny-mar-top-important" />
                     <div className="mobile-center">
-                        <h5>$39.00 USD (One-off payment)</h5>
                         <CheckoutLBQ />
                     </div>
                 </div>
@@ -89,7 +88,6 @@ const Page = ({ data, location }) => {
                 <h2 className="small-mar">Learn Thousands of Years of Philosophy with Just 30 Minutes of Reading per Day</h2>
                 <div className="separator"></div>
                 <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
 
@@ -202,7 +200,6 @@ const Page = ({ data, location }) => {
                 <h2 className="small-mar">Treat Yourself: a One-off Investment for a Lifetime of Philosophical Wisdom</h2>
                 <div className="separator"></div>
                 <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
         </div>
@@ -217,7 +214,6 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width"><CheckoutLBQ /></div>
                 </div>
 
@@ -259,7 +255,6 @@ const Page = ({ data, location }) => {
                         <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                         <div className="separator"></div>
                         <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                        <h5>$39.00 USD (One-off payment)</h5>
                         <div className="small-width">
                             <CheckoutLBQ />
                             <div className="large-mar-top">

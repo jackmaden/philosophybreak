@@ -34,7 +34,6 @@ const Page = ({ data, location }) => {
                     <p className="spectral">Learn everything you need to know about the philosophy of Friedrich Nietzsche in just six 30-minute daily chapters. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display" />
                     <div className="mobile-center">
-                        <h5>$39.00 USD (One-off payment)</h5>
                         <CheckoutNietzsche />
                     </div>
                 </div>
@@ -86,10 +85,9 @@ const Page = ({ data, location }) => {
                 <ReviewsStarsNietzsche />
             </div>
             <div className="page-center small-pad mid-width text-center">
-            <h2 className="small-mar">In Just 6 Days, You’ll Finally Understand Nietzsche</h2>
+            <h2 className="small-mar">Go from Being Curious to Finally Understanding Nietzsche’s Philosophy</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
@@ -217,7 +215,6 @@ const Page = ({ data, location }) => {
             <h2 className="small-mar">You Deserve It: Indulge Your Interest in Nietzsche Today</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <h5>$39.00 USD (One-off payment)</h5>
                 <div className="small-width"><CheckoutNietzsche /></div>
             </div>
         </div>
@@ -303,7 +300,6 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar no-mar-top">Treat Yourself to a Richer Perspective on Life</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width"><CheckoutNietzsche /></div>
                 </div>
 
@@ -347,7 +343,6 @@ const Page = ({ data, location }) => {
                     <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
                     <div className="separator"></div>
                     <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
-                    <h5>$39.00 USD (One-off payment)</h5>
                     <div className="small-width">
                         <CheckoutNietzsche />
                         <div className="large-mar-top">
