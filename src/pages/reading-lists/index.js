@@ -39,16 +39,15 @@ const Page = ({ data, location }) => {
             {/*page content*/}
             <div className="page-center">
 
-            <div className="two-col spectral">
+            <div className="two-col align-top spectral">
             <div>
-                <p><span className="big-letter">P</span>hilosophy is a vast subject that cannot be practically broken down into a single reading list. As such, we’ve organized philosophy’s best books both by subject — from core branches like <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/epistemology/">epistemology</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to particular movements like <Link to="/reading-lists/existentialism/">existentialism</Link> and <Link to="/reading-lists/stoicism/">Stoicism</Link> — as well as by individual philosophers, from <Link to="/reading-lists/socrates/">Socrates</Link> to <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche</Link>.</p>
-                <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, which is ideal for beginners and those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
-                <p>Will you chart the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>? Will you learn about the <Link to="/reading-lists/philosophy-of-language/">philosophy of language</Link>? Will you discover why <Link to="/reading-lists/aristotle/">Aristotle</Link> exerts such influence to this day? Will you investigate the mystery of <Link to="/reading-lists/free-will/">free will</Link>? The choice is (not) yours!</p>
+                <p><span className="big-letter">P</span>hilosophy is a vast subject that cannot be practically broken down into a single reading list. As such, we’ve organized philosophy’s best books both by subject — from core branches like <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/epistemology/">epistemology</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to particular movements like <Link to="/reading-lists/existentialism/">existentialism</Link> and <Link to="/reading-lists/stoicism/">Stoicism</Link> — as well as by individual philosophers, from <Link to="/reading-lists/socrates/">Socrates</Link> and <Link to="/reading-lists/confucius/">Confucius</Link>, to <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche</Link> and <Link to="/reading-lists/hannah-arendt/">Hannah Arendt</Link>.</p>
+                
             </div>
-            <div className="mobile-tablet-no-display">
-                <GatsbyImage
-                    image={data.about.childImageSharp.gatsbyImageData}
-                    alt="Philosophy Break" loading="eager" />
+            <div>
+                <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, or our <Link to="/philosophy-basics/">quick introductory email course</Link>, which are ideal for those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
+                <p>Will you chart the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>? Will you learn about the <Link to="/reading-lists/philosophy-of-language/">philosophy of language</Link>? Will you investigate the mystery of <Link to="/reading-lists/free-will/">free will</Link>? The choice is (not) yours!</p>
+
             </div>
         </div>
               

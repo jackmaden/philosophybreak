@@ -61,7 +61,7 @@ The point is that, when you think about it, our experience of the world is chara
 
 Though we may typically describe our experiences as though we are mere subjects passively perceiving objects, we do not actually _experience_ the world in this way. Rather we are _immersed_ in whatever we are experiencing, existing in the world through an ever-shifting kaleidoscopic lens of memory, desire, mood, attention, inattention, intention. 
 
-So, when looking at the bowl of fruit we see not mere passive objects but a _potential snack_ — or even a potential allergic reaction. We cast our own selves into the world and they stick to every object of our experience: our perceptions are our concepts and intentions mirrored back at us. Thus we see not just a piece of wood attached to some metal but a _hammer_, a _tool_ — something we can intentionally _use_.
+So, when looking at the bowl of fruit we see not mere passive objects but a _potential snack_ — or even a potential allergic reaction. We cast our own selves into the world and they stick to every object of our experience: our perceptions are our concepts and intentions mirrored back at us. Thus, to take an example from Heidegger, we see not just a piece of wood attached to some metal but a _hammer_, a _tool_ — something we can intentionally _use_.
 
 <div class="course-promo text-center">
     <h4>Philosophy in Your Twitter Feed</h4>
