@@ -101,7 +101,7 @@ Finally, the ‘whole’ body is something that is found in the idea of bodily i
 
 <span class="big-letter">T</span>he body positivity movement is doing some of this work, with real impact. But it’s also a movement that has been used by large companies, including beauty companies, to sell their products. The idea of body positivity is an important counterbalance to the idea of body inadequacy and shame. But it’s important that this doesn’t become another way to fail — as is parodied in the [excellent song by Rachel Lark and the Damaged Goods](https://www.youtube.com/watch?v=iZNRriHkJsI): 
 
->“All the other women should love their bodies, but I wanna lose five pounds!”
+>All the other women should love their bodies, but I wanna lose five pounds!
 
 The body neutrality movement is one response to that worry. It’s close to my idea of the unmodified body in that the goal it emphasizes — being neutral about your body — is similar to the idea of letting your body be good enough just as it is. The question always is how can we tackle the pressures to change our bodies collectively, without putting the burden and the shame on individuals? This is largely an empirical question that will require experimentation and study.
 
