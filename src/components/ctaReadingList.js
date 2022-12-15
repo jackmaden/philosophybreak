@@ -14,7 +14,7 @@ const CtaReadingList = () => (
 `}
     render={data => (
       <>
-        <p>Explore more reading lists of the <Link to="/reading-lists/">best philosophy books</Link>:</p>
+        <p>In the meantime, why not explore more of our reading lists on the <Link to="/reading-lists/">best philosophy books</Link>:</p>
         <Link className="reading-list" to="/reading-lists/">
             <GatsbyImage
                 image={data.file.childImageSharp.gatsbyImageData}
