@@ -15,6 +15,12 @@ export default function Reviews(props) {
                 <div className="two-col wrap align-top">
 
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Endlessly fascinating</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Awesome, endlessly fascinating course experience. Each day I was looking forward to getting the new chapter in my email. The content was very interesting and easy to understand, and made me want to dive deeper into the topics. My favorite chapter was chapter 5: 'How should we approach life?'. It was so fascinating that after reading it I was reflecting for like 2 hours!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Alex K. on 18 December 2022</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good starting point</i></span></p>
                         <span style={{lineHeight: "1.3"}}>I really enjoyed reading the material. It is easy to understand, entertaining and thought-provoking and has given me some new approaches that I’ll continue to think about. I really appreciate that you deliver an overview of those fundamental topics that to me seems academically founded (different approaches/ideas are introduced and compared) and at the same time the reading is quite brief. That is very efficient but gives the reader some trust that a field has been viewed from the most important angles. I think this leaves me in a very good starting point when it comes to categorizing future information. I also find the conclusion motivating and positive, that there’s a good life ahead. The first and last chapters were my favorites. I find the question 'why is there anything at all?' is a mind blower. And the last chapter (especially about absurdity) relates to that. Thanks!</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mario H. on 26 November 2022</span></div>
@@ -67,11 +73,6 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tomas R. on 27 January 2022</span></div>
                     </div>
 
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Very good course experience. Well paced, and covered a very large area. Content was interesting and easy to read. It very nicely covered the promised topics. My favorite chapter was chapter five on ways of approaching life. It gave a great framework for further exploring what is important in life.</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chris J. on 15 January 2022</span></div>
-                    </div>
 
 
                 </div>
@@ -84,6 +85,11 @@ export default function Reviews(props) {
 
                     <div className="two-col wrap align-top">
                         
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Very good course experience. Well paced, and covered a very large area. Content was interesting and easy to read. It very nicely covered the promised topics. My favorite chapter was chapter five on ways of approaching life. It gave a great framework for further exploring what is important in life.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chris J. on 15 January 2022</span></div>
+                        </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
