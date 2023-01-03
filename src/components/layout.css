@@ -286,12 +286,12 @@ a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: pres
   #nav {padding-top:4px;}
   #nav.reduce-size {padding-top: 0;}
   #nav #desktop-links {display: flex;}
-  #nav #desktop-links a {text-decoration: none; margin: 0 16px; color: #fff; font-size: 15px; transition: 0.2s;}
+  #nav #desktop-links a {text-decoration: none; margin: 0 22px; color: #fff; font-size: 15px; transition: 0.2s;}
   #nav.light-bg #desktop-links a {color: #001d30;}
   #nav.light-bg #desktop-links a:hover, #nav.reduce-size #menu-cta #desktop-links a:hover {color: #fff;}
   #nav #menu-cta a.button.primary {display: block; font-size: 14px; margin: -2px 0 0 24px; padding: 0.85em; transition: 0.2s;}
   #nav #menu-cta a.button.primary svg {width: 14px; height: 14px; transition: 0.2s;}
-  #nav.reduce-size #desktop-links a {color: #001d30; font-size: 14px;}
+  #nav.reduce-size #desktop-links a {color: #001d30; font-size: 14px; margin: 0 20px;}
   #nav.reduce-size #menu-cta a.button.primary {font-size: 13px; padding: 0.8em;}
   #nav.reduce-size #menu-cta a.button.primary svg {width: 13px; height: 13px;}
 }

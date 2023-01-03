@@ -59,27 +59,27 @@ export class NavigationSimple extends React.Component {
                             <Link to="/courses/">
                                 <div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>
-                                    <h3>Quick Courses</h3>
+                                    <h3>Courses</h3>
                                 </div>
                                 <p className="small-grey-font">Introductory philosophy courses distilling the subject's greatest wisdom.</p>
                             </Link>
                         </li>
-                        <li className="primary two">{/*<!--take a break-->*/}
-                            <Link to="/articles/">
-                                <div>
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>
-                                    <h3>Latest Breaks</h3>
-                                </div>
-                                <p className="small-grey-font">Bite-size philosophy articles designed to stimulate your brain.</p>
-                            </Link>
-                        </li>
-                        <li className="primary three">{/*<!--reading list-->*/}
+                        <li className="primary two">{/*<!--reading list-->*/}
                             <Link to="/reading-lists/">
                                 <div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"/></svg>
                                     <h3>Reading Lists</h3>
                                 </div>
                                 <p className="small-grey-font">Curated reading lists on philosophy's best and most important works.</p>
+                            </Link>
+                        </li>
+                        <li className="primary three">{/*<!--take a break-->*/}
+                            <Link to="/articles/">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>
+                                    <h3>Latest Breaks</h3>
+                                </div>
+                                <p className="small-grey-font">Bite-size philosophy articles designed to stimulate your brain.</p>
                             </Link>
                         </li>
                         <li>{/*<!--about us-->*/}

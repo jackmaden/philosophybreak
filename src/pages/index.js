@@ -51,7 +51,7 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font">We provide shortcuts to philosophy’s top wisdom. Do you want to enrich your mind? Start by discovering exactly what philosophy is and how it can improve your life with our free, 3-lesson email course:</p>
+              <p className="large-grey-font">Start by discovering exactly what philosophy is and how it can improve your life with our quick 3-lesson email course:</p>
               <HomeSubscriptionForm />
             </div>
             <div>
