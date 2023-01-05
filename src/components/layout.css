@@ -40,6 +40,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .tiny-pad-bottom {padding-bottom: 12px;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
+.small-mar-top {margin-top: 24px;}
 .tiny-mar-top {margin-top: 12px;}
 .tiny-mar-top-important {margin-top: 12px !important;}
 .tiny-mar-bottom {margin-bottom: 12px;}
@@ -62,6 +63,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font, .large-grey-font {font-size: 18px; color: #001d30; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .small-grey-font a {color: #001d30;}
+.light-blue-font {font-size: 18px; color: #84d1ff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
 .two-col.small-top-mar div.gatsby-image-wrapper {margin: 1em 0 2em;} /*for course chapters on mobile*/ 
@@ -516,6 +518,7 @@ div.separator.course {margin: -3px 0 10px; width: 94px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
 div.separator.course.wider {width: 110px;}
 div.separator.course.lbq {width: 208px;}
+div.separator.course.chapter {width: 124px; margin: -3px auto 10px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
@@ -532,6 +535,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.course.wider {width: 128px;}
   div.separator.course.lbq {width: 250px;}
   div.separator.chapter {width: 100px;}
+  div.separator.course.chapter {width: 146px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}
 }
