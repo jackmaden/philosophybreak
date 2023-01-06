@@ -518,7 +518,7 @@ div.separator.course {margin: -3px 0 10px; width: 94px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
 div.separator.course.wider {width: 110px;}
 div.separator.course.lbq {width: 208px;}
-div.separator.course.chapter {width: 124px; margin: -3px auto 10px;}
+div.separator.course.chapter {width: 136px; margin: -3px auto 10px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
@@ -535,7 +535,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.course.wider {width: 128px;}
   div.separator.course.lbq {width: 250px;}
   div.separator.chapter {width: 100px;}
-  div.separator.course.chapter {width: 146px;}
+  div.separator.course.chapter {width: 164px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}
 }
