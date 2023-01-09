@@ -395,9 +395,11 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 
 /*course panel CTAs link headings*/
 .coursepanel a {text-decoration: none;}
-.coursepanel a:hover h2 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
+.coursepanel a:hover h3 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
+.coursepanel h3 {font-size: 34px;}
 .coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span {color: #001d30;}
 .coursepanel a.white-underline {text-decoration: underline;}
+@media (min-width: 620px) {.coursepanel h3 {font-size: 40px;}}
 
 
 /*course load more reviews*/
