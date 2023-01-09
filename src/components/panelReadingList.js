@@ -32,7 +32,7 @@ const PanelReadingList = () => (
       <div className="grey-background large-pad">
         <div className="page-center">
             <span className="text-center">
-                <h2>Reading Lists</h2>
+              <h3 className="bigger">Reading Lists</h3>
                 <div className="separator" style={{marginBottom: '2em'}}></div>
                 <p className="small-grey-font mid-width">Explore our curated reading lists of the best and most important works of particular philosophers and philosophical subjects.</p>
             </span>

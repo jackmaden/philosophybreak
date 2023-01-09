@@ -61,7 +61,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .text-center {text-align: center;}
 .text-center .separator {margin: 1.5em auto;}
 .spectral {font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.small-grey-font, .large-grey-font {font-size: 18px; color: #001d30; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
+.small-grey-font, .large-grey-font {font-size: 18px; color: #001d30; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400; line-height: 1.5}
 .small-grey-font a {color: #001d30;}
 .light-blue-font {font-size: 18px; color: #84d1ff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
@@ -172,6 +172,7 @@ h2 {font-size: 34px; font-weight: 900;}
 #break-start .smaller-h2 h2 {font-size: 24px;}
 h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
 h3 {font-size: 26px; font-weight: 900;}
+h3.bigger {font-size: 34px;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
 
@@ -191,6 +192,7 @@ h5 {font-size: 20px;}
     #break-start h2 {font-size: 35px;}
     #break-start .smaller-h2 h2 {font-size: 26px;}
     h3 {font-size: 32px;}
+    h3.bigger {font-size: 40px;}
     h4 {font-size: 26px;}
     h5 {font-size: 22px;}
 }
@@ -561,17 +563,17 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article:last-of-type {margin-bottom: 32px;}
 .article a {text-decoration: none; display: flex; background-color: #fff; align-items: center;}
 .article a:hover {background: #fff;}
-.article a:hover h2 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
-#break-start .article.white a:hover h2 {background-image: linear-gradient(to right, #001d30, #001d30); background-color: #001d30;}
+.article a:hover h4 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
+#break-start .article.white a:hover h4 {background-image: linear-gradient(to right, #001d30, #001d30); background-color: #001d30;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
-.article a .article-info h2, #break-start .article a .article-info h2 {margin: 0; font-size: 17px; font-weight: 800;}
+.article a .article-info h4, #break-start .article a .article-info h4 {margin: 0; font-size: 17px; font-weight: 800;}
 .article a .article-info .time {font-size: 10px; color: #001d30; margin-bottom: 0;}
 .article a .article-info .time svg {width: 16px; height: 16px; margin-right: 4px; fill: #36b4ff;}
 .article a .article-info .button {margin-top: 1em;}
 @media (min-width: 620px) {
   .article a .gatsby-image-wrapper {height: 230px;}
-  .article a .article-info h2, #break-start .article a .article-info h2 {font-size: 22px;}
+  .article a .article-info h4, #break-start .article a .article-info h4 {font-size: 22px;}
   .article a .article-info .time {font-size: 12px;}
   .article a .article-info .time svg {width: 18px; height: 18px; margin-right: 6px;}
 }
@@ -587,12 +589,12 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.home:first-of-type a {flex-direction: column;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}
 .article.home:first-of-type a .article-info {width: 100%; padding: 10px 20px;}
-.article.home:first-of-type a .article-info h2 {font-size: 22px; font-weight: 900;}
+.article.home:first-of-type a .article-info h4 {font-size: 22px; font-weight: 900;}
 .article.home:first-of-type a .article-info p.spectral {font-size: 16px; color: #001d30;}
 .article.home:first-of-type a .article-info .time {font-size: 12px; margin-bottom: 1em;}
 .article.home:first-of-type a .article-info .time svg {width: 18px; height: 18px;}
 @media (min-width: 620px) {
-  .article.home:first-of-type a .article-info h2 {font-size: 26px;}
+  .article.home:first-of-type a .article-info h4 {font-size: 26px;}
   .article.home:first-of-type a .article-info p.spectral {font-size: 18px;}
   .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 200px;}
 }
@@ -602,7 +604,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .article.home:first-of-type a {flex-direction: row;}
   .article.home:first-of-type a .gatsby-image-wrapper {width: 50%; height: 400px;}
   .article.home:first-of-type a .article-info {width: 50%; padding: 26px;}
-  .article.home:first-of-type a .article-info h2 {font-size: 32px;}
+  .article.home:first-of-type a .article-info h4 {font-size: 32px;}
   .article.home:first-of-type a .article-info .time {font-size: 13px;}
   .article.home:first-of-type a .article-info .time svg {width: 20px; height: 20px;}
   .article.home:nth-of-type(even) {margin-left: 0; margin-right: 4%;}
@@ -649,7 +651,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.white > a:hover {background: linear-gradient(to right, #e7f6ff, #e7f6ff, #fff, #e7f6ff);}
 .article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
-#break-start .article.white a:hover h2 {color: #001d30; text-decoration: none;} 
+#break-start .article.white a:hover h4 {color: #001d30; text-decoration: none;} 
 .article.white a:hover p.time {color: #001d30;}
 .article.white a:hover p.time svg {fill: #36b4ff;}
 .article.white a div.gatsby-image-wrapper, .article.white a span.gatsby-resp-image-wrapper {width: 33%;}

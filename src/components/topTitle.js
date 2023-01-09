@@ -6,7 +6,7 @@ const TopTitle = props => (
             <div className="page-center">
                 <h1>{props.title}</h1>
                 <div className="separator"></div>
-                <p className="large-grey-font mid-width">{props.subtitle}</p>
+                <h2 className="large-grey-font mid-width">{props.subtitle}</h2>
             </div>
         </div>
         </>
