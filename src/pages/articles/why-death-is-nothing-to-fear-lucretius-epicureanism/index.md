@@ -35,10 +35,10 @@ But Epicureanism goes beyond prescribing how to live: it also offers a complete 
 Indeed, Epicurus taught that the basic constituents of the world are irreducible bits of matter flying through the void, and he tried to explain all natural phenomena in such terms. He rejected the existence of an immaterial soul, or of anything non-physical, and said that the gods have no influence on our lives.
 
 <div class="course-promo text-center">
-    <h4>How Should We Approach Life?</h4>
-    <p><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-    <p class="small-grey-font">Get philosophy's best answers delivered direct to your inbox with our celebrated introduction to philosophy course.</p>
-    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+    <h4>Philosophies for Living: the Ultimate Guide to Choosing Your Personal Philosophy</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
+    <p class="small-grey-font">Find meaning, purpose, and become a better you by exploring 7 of the world’s most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
+    <a class="button secondary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More Now</a>
 </div>
 
 It is with these two Epicurean principles in mind — that being free from pain and anxiety is the highest good, and that reality is fundamentally godless and atomic in nature — that Lucretius thus turns his attention to our biggest fear of all: death. 

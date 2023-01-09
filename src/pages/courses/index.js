@@ -7,6 +7,7 @@ import TopTitle from '../../components/topTitle'
 import SubscriptionForm from '../../components/subscriptionForm'
 import PanelLBQ from "../../components/panelLBQ"
 import PanelNietzsche from "../../components/panelNietzsche";
+import PanelPFL from "../../components/panelPFL";
 
 
 const Page = ({ location }) => {
@@ -25,6 +26,8 @@ const Page = ({ location }) => {
         
         <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
         
+        <PanelPFL />
+
         <PanelNietzsche flexdirection="row" />
 
         <div className="grey-background large-pad-bottom">

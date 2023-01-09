@@ -11,6 +11,7 @@ import PanelReadingList from '../components/panelReadingList'
 import PanelLBQ from '../components/panelLBQ'
 import { HomeSubscriptionForm } from "../components/homeSubscriptionForm";
 import PanelNietzsche from "../components/panelNietzsche";
+import PanelPFL from "../components/panelPFL";
 import HomeArticleList from "../components/homeArticleList";
 
 const Page = ( {data} ) => {
@@ -60,11 +61,12 @@ const Page = ( {data} ) => {
           </div>
         </div>
 
+        
         <PanelLBQ flexdirection="row-reverse" />
 
         <PanelNietzsche flexdirection="row" />
 
-        <SubscriptionFormSmall />
+        <PanelPFL />
 
         <HomeArticleList />
         <SubscriptionFormSmall />

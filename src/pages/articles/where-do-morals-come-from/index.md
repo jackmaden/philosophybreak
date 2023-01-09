@@ -35,10 +35,10 @@ Who creates these rules? Well, religions cast God as the moral authority; while 
 It doesn’t really matter which authority is invoked here — God or Reason — what is important is that these kinds of theories formulate principles and then impose them on human conduct. The Ten Commandments; The Golden Rule (treat others as you wish to be treated); Utilitarianism — all these moral systems share this top-down orientation, and imply that without imposed rules our natural tendency would be to run riot.
 
 <div class="course-promo text-center">
-    <h4>How Should We Approach Life?</h4>
-    <p><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-    <p class="small-grey-font">Get philosophy's best answers delivered direct to your inbox with our celebrated introduction to philosophy course.</p>
-    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+    <h4>Philosophies for Living: the Ultimate Guide to Choosing Your Personal Philosophy</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
+    <p class="small-grey-font">Find meaning, purpose, and become a better you by exploring 7 of the world’s most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
+    <a class="button secondary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More Now</a>
 </div>
 
 Articulating the optimal top-down moral system has caused much excitement over the course of human civilization. Despite wars fought with both weapons and words, establishing a victor has proven difficult: finding a set of universal moral laws that suits everyone, it turns out, is not particularly easy. Religious people fight religious people; religious people fight nonreligious people; and nonreligious people fight nonreligious people.

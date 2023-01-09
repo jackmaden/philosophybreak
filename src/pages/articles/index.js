@@ -8,8 +8,6 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import SubscriptionForm from '../../components/subscriptionForm'
 import WatermarkBreak from "../../components/watermarkBreak"
-import PanelLBQ from "../../components/panelLBQ"
-import PanelNietzsche from "../../components/panelNietzsche";
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -70,8 +68,6 @@ const Articles = ({ data, location }) => {
         
         {/*end page background color*/}
         </div>
-        <PanelLBQ flexdirection="row-reverse" />
-        <PanelNietzsche flexdirection="row" />
         <SubscriptionForm />
         
     </Layout>

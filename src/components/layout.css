@@ -720,6 +720,10 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   #break-start ul li, #break-start ol li {font-size: 20px;}
 }
 
+/*in-article-reviews*/
+p.review-font {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-size: 14px;}
+@media (min-width: 620px) {p.review-font {font-size: 16px;}}
+
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
 blockquote p {padding: 0 16px; color: #36b4ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}

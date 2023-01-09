@@ -11,8 +11,6 @@ import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
 import SubscriptionForm from '../../components/subscriptionForm'
 import WatermarkBreak from "../../components/watermarkBreak"
-import PanelLBQ from "../../components/panelLBQ"
-import PanelNietzsche from "../../components/panelNietzsche";
 
 
 const Page = ({ data, location }) => {
@@ -189,9 +187,7 @@ const Page = ({ data, location }) => {
         {/*post-reading list content*/}
 
 
-        
-        <PanelLBQ flexdirection="row-reverse" />
-        <PanelNietzsche flexdirection="row" />
+      
         <SubscriptionForm />
     </Layout>
     </>
