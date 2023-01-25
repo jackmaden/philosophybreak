@@ -709,7 +709,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 /*lists */
 #break-start ul, #break-start ol {
-  margin: 1em 0;
+  margin: 1.75em 0;
   margin-inline-start: 2em;
   font-family: 'Spectral', serif;
   letter-spacing: -0.5px;
@@ -717,7 +717,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 #break-start ul li, #break-start ol li {
   line-height: 1.5;
   font-size: 18px;
-  margin: 0.5em 0;
+  margin: 0.75em 0;
 }
 
 @media (min-width: 620px) {
