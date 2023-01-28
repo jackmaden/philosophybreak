@@ -1,4 +1,5 @@
 module.exports = {
+    trailingSlash: `always`,
     siteMetadata: {
         title: 'Philosophy Break',
         titleTemplate: "%s | Philosophy Break",

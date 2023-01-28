@@ -76,7 +76,7 @@ const Articles = ({ data, location }) => {
 }
 
 export const query = graphql`query ArticleList {
-  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {
+  allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
     edges {
       node {
         frontmatter {
@@ -97,7 +97,6 @@ export const query = graphql`query ArticleList {
       }
     }
   }
-}
-`
+}`
 
 export default Articles

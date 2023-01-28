@@ -1,18 +1,19 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
-const Footer = () => (
-    <StaticQuery
-    query={graphql`{
-  file(relativePath: {eq: "certified-social-enterprise.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 100, height: 100, layout: FIXED)
-    }
-  }
-}
-`}
-    render={data => (
+export default function Footer() {
+    const data = useStaticQuery(graphql`
+        query {
+            file(relativePath: {eq: "certified-social-enterprise.png"}) {
+                childImageSharp {
+                gatsbyImageData(width: 100, height: 100, layout: FIXED)
+                }
+            }
+        }
+    `)
+
+    return (
         <div id="footer">
             <div className="page-center">
                 <div className="logo-footer">
@@ -37,8 +38,5 @@ const Footer = () => (
             {/*Amazon onelink*/}
             <div id="amzn-assoc-ad-797b493c-1b64-4c6e-a017-445d37f42f08"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=797b493c-1b64-4c6e-a017-445d37f42f08"></script>
         </div>
-    )}
-/>
-)
-
-export default Footer
+    )
+}
