@@ -47,8 +47,8 @@ module.exports = {
               id: "GTM-NVRNWFT",
             }
         },
-        //preact
-        `gatsby-plugin-preact`,
+        //preact REMOVING COS IT CAUSES BUILD ISSUES `gatsby-plugin-preact`,
+        
         //catch all internal links & transform to Gatsby Link
         `gatsby-plugin-catch-links`,
         //gatsby images
