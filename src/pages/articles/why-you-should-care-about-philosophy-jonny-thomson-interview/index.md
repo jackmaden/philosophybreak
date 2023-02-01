@@ -32,7 +32,7 @@ I think teachers have incredible power. For good and for bad.
 
 ## Why do you think learning about philosophy is important today?
 
-<span class="big-letter">F</span>or some people, I think there are life-changing, transformative truths to be found in philosophy. There are certain issues and problems that come with just being a human, and when you find someone from an entirely different century or continent trying to solve those problems, I think it’s both reassuring and therapeutic. It’s nice to know some 14th century monk was terrified of death, too.
+<span class="big-letter">F</span>or some people, I think there are life-changing, transformative truths to be found in philosophy. There are certain issues and problems that come with just being a human, and when you find someone from an entirely different century or continent trying to solve those problems, I think it’s both reassuring and therapeutic. It’s nice to know some 14th-century monk was terrified of death, too.
 
 >There’s a great pleasure and power in finding a thought or idea expressed so perfectly it could be ripped from your own soul.
 
@@ -44,11 +44,11 @@ I think that’s quite enough mixed metaphors.
 
 ## What would be your response to someone who dismisses philosophy as boring, outdated, or unimportant? 
 
-<span class="big-letter">T</span>o be honest, I’d have to say, “fair enough”. Sometimes, philosophy can be boring, outdated or unimportant. I’ve read stuff which is all three.
+<span class="big-letter">T</span>o be honest, I’d have to say, “fair enough”. Sometimes, philosophy can be boring, outdated, or unimportant. I’ve read stuff which is all three.
 
 But — there’s a _big_ caveat to that. 
 
-Each of those words is massively context sensitive. What is boring to you now might not be in ten year’s time. What seems outdated, has depths of truth when you come back to it later. And most of all, what seems inconsequential to you in an earlier part of life, will suddenly seem magnificently important later on. 
+Each of those words is massively context sensitive. What is boring to you now might not be in ten years’ time. What seems outdated, has depths of truth when you come back to it later. And most of all, what seems inconsequential to you in an earlier part of life, will suddenly seem magnificently important later on. 
 
 I came to properly read Simone de Beauvoir, for instance, only in the last few years. I read her once when I was in school, and couldn’t get on board with it. Now, she’s my favorite philosopher to read. I think it’s a combination of my knowing more about philosophy, but also seeing more of life, to appreciate what she’s talking about. I think the same is true for authors like Dostoyevky or Tolstoy. They’re different experiences as you get older. I’ve come to appreciate the Greeks much more, too. They really did say it all first, and they did so better than a lot of imitators that came after.
 

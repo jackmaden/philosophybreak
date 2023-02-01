@@ -70,11 +70,11 @@ const Page = ({ data, location }) => {
             <p>Philosophy opens our eyes to the multitudinous ways we can spend our lives, engendering tolerance for those whose practices differ from our own, and reawakening a childlike wonder and appreciation for the sheer mystery and opportunity lying at the heart of existence.</p>            
 
             <h2>Why is philosophy important today?</h2>
-            <p><span class="big-letter">P</span>hilosophy is sometimes considered outdated — a perception not helped by the subject’s apparent obsession with reaching back over thousands of years to consider the works of ancient bearded figures like <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, and <Link to="/reading-lists/aristotle/">Aristotle</Link>.</p>
+            <p><span class="big-letter">P</span>hilosophy is sometimes considered outdated — a perception not helped by the subject’s apparent obsession with reaching back over thousands of years to consider the works of ancient figures like <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, <Link to="/reading-lists/aristotle/">Aristotle</Link>, and <Link to="/reading-lists/confucius/">Confucius</Link>.</p>
             
             <p>But the point of philosophy in modern times remains the point philosophy has always had: to answer the fundamental questions that lie at the heart of the human condition.</p>
 
-            <p>Philosophy plays a crucial role in this regard not just in personal study and exploration, but formally in academia and modern research projects. And, even as time mercilessly advances, it turns out ancient figures whose works have survived over millennia still have some of the most interesting things to say about our human predicament, making their wisdom worth studying generation after generation.</p>
+            <p>Philosophy plays a crucial role in this regard not just in personal study and exploration, but formally in academia and modern research projects. And, even as time mercilessly advances, it turns out ancient figures whose works have survived over millennia still have some of the most interesting things to say about our human predicament, making their wisdom worth republishing and studying generation after generation.</p>
 
             <figure className="gatsby-resp-image-figure big-image">
               <StaticImage src="../../images/death-of-socrates.jpg" alt="The Death of Socrates" placeholder="blurred" layout="fullWidth" />
