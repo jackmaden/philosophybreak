@@ -47,7 +47,7 @@ If after death our consciousness was to be magically resurrected millions of yea
 
 <span class="big-letter">W</span>hat do you think of this analysis? Do you think Epicurus is right in declaring death is nothing to fear? Or is the prospect of non-consciousness, of being deprived of experience and time, rightly feared?
 
-If you’re looking to delve deeper into the teachings of Epicurus, we’ve created a [reading list of the best works of and about Epicureanism](/reading-lists/epicureanism/). Hit the banner below to access it now. 
+If you’re looking to delve deeper into the teachings of Epicurus, we’ve created a short [Epicureanism explainer](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/), as well as a [reading list of the best works of and about Epicureanism](/reading-lists/epicureanism/). Hit the banner below to access it now. 
 
 <a class="reading-list cta" href="/reading-lists/epicureanism/">
     <img class="title-img" src="./epicureanism.webp"/>

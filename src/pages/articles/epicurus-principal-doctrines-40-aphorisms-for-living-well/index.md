@@ -13,7 +13,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">E</span>picurus was an ancient Greek philosopher whose influential teachings have come to be collectively labeled as Epicureanism. 
 
-Often caricatured as a rather hedonistic, pleasure-obsessed philosophy, Epicureanism is actually more about living life free from anxiety and bodily pain, and places a strong emphasis on friendship and community in the search for a meaningful, happy human life. 
+Often caricatured as a rather hedonistic, pleasure-obsessed philosophy, Epicureanism (as we outline in our brief [Epicureanism explainer](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)) is actually more about living life free from anxiety and bodily pain, and places a strong emphasis on friendship and community in the search for a meaningful, happy human life. 
 
 The Epicureans have things to say not just about ethics, but also share rich views on [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), [epistemology](/reading-lists/epistemology/), and — more famously — [why mortality is nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/) and [death should not concern us](/articles/epicurus-on-why-death-should-not-concern-us/).
 
