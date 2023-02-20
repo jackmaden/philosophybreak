@@ -84,7 +84,7 @@ module.exports = {
               // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
               display: "standalone",
               icon: "src/images/philosophybreak.png",
-              include_favicon: false, 
+              include_favicon: false, //it was generating a 32x32 default favicon, when google requires a 48x48. Disabling the 32x32 should enable google to pick up the 48x48 via the apple-touch-icon
             },
         },
         //process md files        
