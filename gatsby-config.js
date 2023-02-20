@@ -83,7 +83,8 @@ module.exports = {
               // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
               // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
               display: "standalone",
-              icon: "src/images/philosophybreak.png", 
+              icon: "src/images/philosophybreak.png",
+              include_favicon: false, 
             },
         },
         //process md files        
