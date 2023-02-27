@@ -1,6 +1,6 @@
 ---
 title: "Epicureanism Defined: Philosophy is a Form of Therapy"
-description: "Often mischaracterized as a rather debaucherous, hedonistic philosophy, Epicureanism actually focuses on the removal of pain and anxiety from our lives, and champions a calm ‘philosophy as therapy’ approach in pursuit of life’s highest pleasure: mental tranquility."
+description: "Often mischaracterized as a rather debaucherous form of hedonism, Epicureanism actually focuses on the removal of pain and anxiety from our lives, and champions a calm ‘philosophy as therapy’ approach in pursuit of life’s highest pleasure: mental tranquility."
 image: "./epicurus-garden.jpg"
 imageAlt: "The Garden of Epicurus"
 imageSeo: "./the-garden-epicurus.webp"
@@ -14,7 +14,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 The modern English word ‘epicurean’, meanwhile, has come to mean someone devoted to sensual enjoyment, especially from luxurious food and drink. And this is what the word ‘pleasure’ may bring to mind, too: sensory indulgence. 
 
-But this characterization of Epicureanism — that it’s a debaucherous, hedonistic, even debased philosophy — is a grave injustice to Epicurus’s actual teachings. 
+But this characterization of Epicureanism — that it’s a debaucherous, even debased philosophy — is a grave injustice to Epicurus’s actual teachings. 
 
 While Epicurus’s philosophy does champion pleasure, it also places different types of pleasure in a strict hierarchy. And, for Epicureans, by far and away the most important type of pleasure is _ataraxia_, literally meaning ‘not being troubled’, but usually translated as ‘tranquility’.
 
@@ -47,7 +47,7 @@ Epicurus identifies four major examples of such pains, and offers philosophicall
 
 Follow these four mantras, Epicureans advise, and you’ll be well on your way to living a tranquil life of _ataraxia_, a happy life free from anxiety. 
 
-We explore the first two of these in our articles covering [Lucretius on why mortality (and the afterlife) are nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/), as well [Epicurus on the true nature of death](/articles/epicurus-on-why-death-should-not-concern-us/). 
+We explore the first two of these in our articles covering [Lucretius on why mortality (and the afterlife) are nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/), as well as [Epicurus on the true nature of death](/articles/epicurus-on-why-death-should-not-concern-us/). 
 
 For the remainder of _this_ article, let’s consider the third mantra — what’s good is easy to get — to see Epicurus’s therapeutic approach to philosophy in action.
 
