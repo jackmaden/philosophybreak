@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql, Link, Script } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
@@ -91,7 +91,7 @@ const Page = ({ data, location }) => {
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
 
-
+            <Script id="purchase-parity" src='https://cdn.paritydeals.com/banner.js' />
         </div>
 
 
