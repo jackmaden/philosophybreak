@@ -52,7 +52,7 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font home">Start by discovering what philosophy is and how it can improve your life with our quick, 3-lesson email course:</p>
+              <p className="large-grey-font home">Get started with our free, popular, 3-lesson email course on what philosophy is and how it can transform your life:</p>
               <HomeSubscriptionForm />
             </div>
             <div>

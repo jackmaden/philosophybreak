@@ -120,7 +120,7 @@ Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://w
 
 Do you agree with Seneca’s arguments throughout? Do you think he’s successful in remedying some of our concerns about the shortness of life? Is it entirely clear that Seneca’s solution — attending to the present and studying philosophy — will help us overcome our preoccupations? Should we only invest our time in ourselves? Is it misguided to dedicate our lives to something other than ourselves? Or do you think Seneca’s point is more about removing inauthentic or fleeting pursuits from our lives, and placing value on things that truly endure and matter instead?
 
-If you’d like to explore these questions further or learn more about Stoicism generally, check out our [reading list on Stoic philosophy](/reading-lists/stoicism/), which features the best five books of and about Stoicism. Hit the banner below to access it now! 
+If you’d like to explore these questions further or learn more about Stoicism generally, check out our explainer of [the four cardinal virtues of Stoicism](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/), as well as our [reading list on Stoic philosophy](/reading-lists/stoicism/), which features the best five books of and about Stoicism. Hit the banner below to access it now! 
 
 <a class="reading-list cta" href="/reading-lists/stoicism/">
     <img class="title-img" src="./stoicism.jpg"/>

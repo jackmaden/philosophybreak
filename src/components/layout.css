@@ -418,10 +418,13 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .course-promo p.small-grey-font {font-size: 16px;}
 .course-promo a.button.secondary {font-size: 15px; margin: 0;}
 
+.course-promo.darkradial-background {border-radius: 20px; padding: 36px 12px;}
+
 @media (min-width: 620px) {
-  .course-promo {padding: 54px 36px; margin: 36px 0;}
+  .course-promo, .course-promo.darkradial-background {padding: 54px 36px; margin: 36px 0;}
   .course-promo p.small-grey-font {font-size: 18px;}
   .course-promo a.button.secondary {font-size: 16.5px;}
+
 }
 
 /***about image cta***/

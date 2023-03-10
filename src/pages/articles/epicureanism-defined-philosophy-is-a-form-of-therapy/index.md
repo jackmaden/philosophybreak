@@ -34,7 +34,7 @@ As the Roman poet Lucretius puts it in his important Epicurean work, <a target="
 
 ## Philosophy as therapy: the fourfold cure for anxiety
 
-<span class="big-letter">S</span>o, how _can_ we live lives of tranquility? Well, Epicurus’s answer is that the bulk of our fears, anxieties, worries, and yearnings are caused by false beliefs we have about ourselves and reality. He wants to show us that we already have everything we need to live happy lives, but that our false beliefs about the world cause us anxiety and lead us astray. (In this way, Epicureanism shares much common ground with Stoicism and Buddhism, the top works of which can be explored in our reading lists of [philosophy’s best books](/reading-lists/)). 
+<span class="big-letter">S</span>o, how _can_ we live lives of tranquility? Well, Epicurus’s answer is that the bulk of our fears, anxieties, worries, and yearnings are caused by false beliefs we have about ourselves and reality. He wants to show us that we already have everything we need to live happy lives, but that our false beliefs about the world cause us anxiety and lead us astray. (In this way, Epicureanism shares much common ground with Stoicism and Buddhism, the top works of which can be explored in our reading lists of [philosophy’s best books](/reading-lists/) — and we outline [the four cardinal virtues of Stoicism here](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/)). 
 
 Through careful and proper use of reason, Epicurus wants to demonstrate that many of our fears and worries are baseless. He thinks that by conducting _philosophy as therapy_ in this way, we can relieve ourselves from many of life’s pains.
 
@@ -61,11 +61,11 @@ Modernity might very well try to convince us that we need quite a lot: we need a
 
 We might feel the need to pack our lives with certain _experiences_, too — the luxury holiday, the fancy restaurant, the unmissable show. And, of course, to pay for all this, we need ever-more money.
 
-<div class="course-promo text-center">
+<div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-    <p class="small-grey-font">Find meaning, purpose, and become a better you by exploring 7 of the world’s most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button secondary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More Now</a>
+    <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
+    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Register Interest Now</a>
 </div>
 
 While the particular products and experiences may have changed a little since Epicurus’s day, the sentiment has not: in his writings, Epicurus recognizes that humans must anxiously navigate a great swirling whirlpool of desires, pressures, and expectations on a daily basis. 
@@ -117,3 +117,10 @@ In his therapeutic analysis of desire, Epicurus thus hopes to have revealed to u
 Indeed, though Epicureanism is typically associated with debaucherous hedonism, the life Epicurus recommends could not be further from this. His main focus is to provide everyone with the tools they need to identify mistakes they make about reality, dispel the anxiety such mistakes cause, and live lives free of suffering in the pursuit of ataraxia. 
 
 To further explore Epicureanism and six more hugely influential philosophies for life — including Stoicism, Buddhism, and Existentialism — check out our new course, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
+
+<div class="course-promo darkradial-background text-center">
+    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
+    <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
+    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Register Interest Now</a>
+</div>
