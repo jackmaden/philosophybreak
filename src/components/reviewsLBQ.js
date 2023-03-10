@@ -15,6 +15,12 @@ export default function Reviews(props) {
                 <div className="two-col wrap align-top">
 
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>The course is a very well-written, interesting overview of the main ideas in philosophy. It’s a concise, yet not superficial, exploration of the big questions, written in a way that challenges you to reframe your understanding on life. It looked great on desktop and phone. I enjoyed all the chapters, but the Descartes and Matrix one was my favorite (#2?). I love the exploration of how we come to know ourselves and whether or not we can trust our own inputs. Thanks for this - it was great!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Terence B. on 10 March 2023</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Endlessly fascinating</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Awesome, endlessly fascinating course experience. Each day I was looking forward to getting the new chapter in my email. The content was very interesting and easy to understand, and made me want to dive deeper into the topics. My favorite chapter was chapter 5: 'How should we approach life?'. It was so fascinating that after reading it I was reflecting for like 2 hours!</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Alex K. on 18 December 2022</span></div>
@@ -67,13 +73,6 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Phoebe T. on 9 February 2022</span></div>
                     </div>
 
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Truly enjoyed</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Excellent course experience! Good pace and length of reads, combined with very well written content. Complexities are shared in a digestible manner. The reading lists are a great addition. I truly enjoyed every chapter. Thanks!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tomas R. on 27 January 2022</span></div>
-                    </div>
-
-
 
                 </div>
                 
@@ -85,6 +84,12 @@ export default function Reviews(props) {
 
                     <div className="two-col wrap align-top">
                         
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Truly enjoyed</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Excellent course experience! Good pace and length of reads, combined with very well written content. Complexities are shared in a digestible manner. The reading lists are a great addition. I truly enjoyed every chapter. Thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tomas R. on 27 January 2022</span></div>
+                    </div>
+
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Very good course experience. Well paced, and covered a very large area. Content was interesting and easy to read. It very nicely covered the promised topics. My favorite chapter was chapter five on ways of approaching life. It gave a great framework for further exploring what is important in life.</span>
