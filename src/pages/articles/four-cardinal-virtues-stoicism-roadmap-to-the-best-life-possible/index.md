@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">W</span>hile [Aristotle’s golden mean](/articles/the-golden-mean-aristotle-guide-to-living-excellently/) suggests virtuous or excellent character is simply the result of _using reason well_ in all that we do, the Stoics — following Plato — hone in on four virtues in particular:  
+<span class="big-letter">W</span>hile [Aristotle’s golden mean](/articles/the-golden-mean-aristotle-guide-to-living-excellently/) suggests virtuous or excellent character is simply the result of _using reason well_ in all that we do, the Stoics — following Plato — home in on four virtues in particular:  
 
 - __Wisdom.__ Understanding the world and successfully navigating its complexity. 
 - __Courage.__ Standing up for what’s right. 
