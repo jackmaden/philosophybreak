@@ -13,7 +13,7 @@ import PanelPFL from "../../components/panelPFL";
 const Page = ({ location }) => {
     return (
     <>
-    <Seo title="Philosophy Courses – Introductory Philosophy for Beginners" description="Quick, introductory philosophy courses distilling the subject's greatest wisdom." pathname={location.pathname} />
+    <Seo title="Online Philosophy Courses – Introductory Philosophy for Beginners" description="Introductory online philosophy courses distilling the subject's greatest wisdom." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
 
@@ -21,7 +21,7 @@ const Page = ({ location }) => {
     <div className="grey-background">
 
         {/*page title*/}
-        <TopTitle class="no-mar-bottom" title="Introductory Philosophy Courses" subtitle="Explore our introductory philosophy courses, where you can learn the subject’s greatest wisdom in days rather than years." />            
+        <TopTitle class="no-mar-bottom" title="Online Philosophy Courses" subtitle="Explore our introductory philosophy courses, where you can learn the subject’s greatest wisdom in days rather than years." />            
         </div>
         
         <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
