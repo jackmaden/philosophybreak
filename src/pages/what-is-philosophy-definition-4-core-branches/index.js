@@ -46,8 +46,8 @@ const Page = ({ data, location }) => {
             <p>Facing up to such questions has been a central part of the intellectual histories of civilizations the world over. Here are some more:</p>
             <blockquote><p>What is the fundamental nature of reality? Why are we here? What happens when we die? What is the relationship between my mind and the world? How and why does consciousness arise? Do we have free will? Why is language meaningful? What’s the right thing to do? What does a just society look like?</p></blockquote>
             <p>Philosophical contemplation may not always provide final answers, but it can make it easier to live authentically in the face of the questions.⁣</p>
-            <p>Indeed, beyond the study of such fundamental questions, philosophy can be defined more broadly as an <i>act</i>.</p> 
-            <p><i>To philosophize</i> means adopting a critical stance and using reason to draw logical conclusions. Be it deciding who to vote for or what to have for dinner, whenever we engage in critical thinking — indeed, whenever we rationally weigh up arguments — we engage in philosophy.</p> 
+            <p>Beyond the study of such fundamental questions, philosophy can be defined more broadly as an <i>act</i>.</p> 
+            <p><i>To philosophize</i> means adopting a critical stance and using reason to draw logical conclusions. Be it deciding who to vote for or what to have for dinner, whenever we engage in critical thinking — whenever we rationally weigh up arguments — we engage in philosophy.</p> 
 
             <figure className="gatsby-resp-image-figure big-image">
               <StaticImage src="../../images/the-thinker.jpg" alt="The Thinker" placeholder="blurred" layout="fullWidth" />
