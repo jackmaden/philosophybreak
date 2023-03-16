@@ -35,24 +35,7 @@ John Kaag, in his book, <a target="_blank" rel="noopener noreferrer sponsored" h
  
 And, while we might be tempted to look externally to judge what is ‘right’, for instance at given moralities, religions, or conventions, the point of the eternal recurrence is that only by being truly authentic to ourselves, only by finding, choosing, and being responsible for own paths could we possibly ever affirm or approve of our lives. 
 
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
-</div>
+<div class="course-promo darkradial-background text-center"><h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
 
 As Kaag concludes: “Only when one realizes this is he or she prepared to face the eternal recurrence, the entire cycle, without the risk of being crushed. Only then is one able to say with Yeats, ‘And yet again,’ and truly mean it.” 
 
@@ -76,24 +59,7 @@ As Alexander Nehamas puts it, discussing the eternal recurrence in his 1998 book
 
 <span class="big-letter">N</span>ietzsche considered the eternal recurrence to be his most important philosophical discovery. This confuses most scholars, for outside <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, Nietzsche only explicitly discusses the eternal recurrence in the short passage in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0394719859/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0394719859&linkId=56f8e2d8aef7bc2ab60d5aed696e0fdf">The Gay Science</a> referenced above. An interesting and provocative thought, perhaps — but _Nietzsche’s most important contribution?_ Really?
 
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
-</div>
+<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
 
 This confusion arises, argues Paul S. Loeb in his essay _Eternal Recurrence_ (which also features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>), because most Nietzsche scholarship doesn’t fully engage with Nietzsche’s literary work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a> — the book in which the eternal recurrence receives its most sustained expression. 
 
@@ -121,23 +87,6 @@ For our purposes in this short article, it is enough to regard the eternal recur
 
 ## Learn more about the eternal recurrence and Nietzsche’s fascinating philosophy
 
-To help you learn more about not just the eternal recurrence but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to his life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. [Learn more and see if it’s for you here.](/introduction-to-nietzsche/)
+To help you learn more about not just the eternal recurrence but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to his life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. 
 
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
-</div>
+<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>

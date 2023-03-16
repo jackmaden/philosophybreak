@@ -94,11 +94,11 @@ In describing our experiences of the world, we never truly encounter or directly
 
 Say you’re eating a meal with some friends. Presumably everyone sees the same or at least a similar set up, and shares similar experiences eating the food, and so on. Is Berkeley saying everyone’s mind is uniquely generating their own experience? That seems absurd, and a much simpler explanation would be that there is an independently existing table (made of matter) that everyone is independently experiencing with their own sensory apparatus.
 
-<div class="course-promo text-center">
-    <h4>Is the World Around Us ‘Real’?</h4>
-    <p><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-    <p class="small-grey-font">Get philosophy's best answers delivered direct to your inbox with our celebrated introduction to philosophy course.</p>
-    <a class="button secondary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Course Now</a>
+<div class="course-promo darkradial-background text-center">
+    <h4>Life’s Big Questions: Is the World Around Us ‘Real’?</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
+    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
 
 Berkeley agrees that there is an independently existing table, but disagrees that its existence depends on some alien non-mental substance like matter. Non-mental things, Berkeley reminds us, do not have the power to cause ideas in us: only other ideas can do that. So, the source of all ideas — including the source of your shared experience of the table — must be another mind… 

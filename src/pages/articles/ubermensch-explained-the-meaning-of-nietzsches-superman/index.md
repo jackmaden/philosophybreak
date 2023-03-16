@@ -87,24 +87,7 @@ For, Nietzsche suggests, it is by living up to an indepedent _aesthetic_, rather
 
 Rather than look externally, the Übermensch is his _own_ determiner of value. He transcends the petty needs of ‘man’ and moves beyond illusions to live and take joy in the _here_ and _now_ of life on Earth. He affirms his own character, and has the power and fortitude to say ‘yes’ to all of life’s joys and all of life’s pains.
 
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
-</div>
+<div class="course-promo darkradial-background text-center"><h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
 
 So, though some popular interpretations of Nietzsche’s concept of the Übermensch say it hints at some sort of superior human _race_ — as the Nazis, for instance, tragically had it — it is more about _self_-overcoming, rather than necessarily overcoming other people. As the philosopher Jacob Golomb puts it in his 2013 essay, _Will to Power_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>): 
 
@@ -156,25 +139,4 @@ Furthermore, are all human ‘drives’ permissible? What about our drives for c
 
 <span class="big-letter">T</span>o explore these questions and Nietzsche’s general philosophy further, check out our [introduction to Nietzsche course](/introduction-to-nietzsche/), which delivers materials direct to your inbox over 6 days. 
 
-We distill Nietzsche’s best and most misunderstood ideas — from perspectivism and slave morality, to the Übermensch and the will the power — and illuminate exactly why Nietzsche routinely changes people’s perspectives, and will perhaps change your own.
-
-Read the reviews and see if the course is for you by hitting the banner below now.
-
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
-</div>
+<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>

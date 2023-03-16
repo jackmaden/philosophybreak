@@ -51,6 +51,13 @@ By this point frantic with worry, Descartes seeks to repair some of the damage c
 
 Phew. Mop that brow, eh René: at last, here is something we can be absolutely certain of. It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
+<div class="course-promo darkradial-background text-center">
+    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
+    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+</div>
+
 Descartes believed his discovery of the _Cogito_ to be hugely significant, for it withstands all the skepticism you can throw at it. 
 
 Indeed, even if you doubt the reliability of your senses, and even if you doubt the reliability of your reason (i.e. the two main sources for knowledge), the _Cogito_ remains true. For, however wrong you are in your estimation of reality, you can never be wrong about the fact of your own existence, for in order to think you are wrong about something, there has to be a _you_ that exists to be wrong.  
@@ -73,16 +80,10 @@ There are a number of deep [epistemological](/reading-lists/epistemology/) and [
 
 Beyond reading Descartes’ <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> in full, to further explore the theme of what constitutes the ultimate nature of reality, touched on by Descartes’ pondering, check out our 5-day [introductory philosophy course, Life’s Big Questions](/lifes-big-questions/), in which you can unlock philosophy’s best answers to life’s big questions with just one thoughtful, 30-minute read per day. If you’re intrigued by philosophy, but don’t have time to wade through lots of books and secondary literature, this is the ideal place to start. 
 
-
-<div class="article white">
-    <a href="/lifes-big-questions/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 86.722%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/b150fc2491da6aca8c3e6ce36306c4ec/a7625/Chapter1-full.webp 723w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/b150fc2491da6aca8c3e6ce36306c4ec/b3386/Chapter1-full.png" srcset="/static/b150fc2491da6aca8c3e6ce36306c4ec/b3386/Chapter1-full.png 723w" alt="Introduction to Philosophy: Life’s Big Questions" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>5-Day Introduction to Philosophy: Life’s Big Questions</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
+<div class="course-promo darkradial-background text-center">
+    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
+    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
+    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
+

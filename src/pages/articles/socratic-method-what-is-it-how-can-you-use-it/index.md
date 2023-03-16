@@ -67,11 +67,11 @@ Following Socrates’s death, Plato continued to write dialogues featuring Socra
 
 Any time you ask questions to get people to think differently about things, any time you participate in healthy, productive debate or problem solving, any time you examine principles and presuppositions and come to an answer for yourself, you channel the same principles Socrates championed all those years ago.
 
-<div class="course-promo text-center">
+<div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-    <p class="small-grey-font">Find meaning, purpose, and become a better you by exploring 7 of the world’s most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button secondary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Learn More Now</a>
+    <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
+    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
 
 People tend to assent to uncomfortable conclusions more when they’ve done the reasoning and come to the answer themselves. This and a host of other benefits is why the Socratic method is still modelled by many educational institutions today: students are not told ‘what’ to think, but shown ‘how’ to think by being supplied with thoughtful questions rather than straight answers.  

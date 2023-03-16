@@ -352,7 +352,7 @@ const Page = ({ data, location }) => {
             <div className="mid-width mobile-padding text-center">
                 <h2 className="no-mar">Buy Now for Instant Access</h2>
                 <div className="separator"></div>
-                <p className="small-grey-font">And consider adding a 1:1 tutor session to discuss course content (or any topic you like) with the founder of Philosophy Break, Jack Maden.</p>
+                <p className="small-grey-font">And why not add a 1:1 tutor session with course creator, Jack Maden.</p>
                 <p className="mid-mar-bottom"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "16px"}}>(12 reviews)</span></p>
             </div>
             <div className="mobile-padding">
