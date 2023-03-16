@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql, Link, Script } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
@@ -23,6 +24,7 @@ const Page = ({ data, location }) => {
     return (
     <>
     <Seo title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life’s most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." image={imagePath} pathname={location.pathname} />
+    <Helmet><script async src="https://js.stripe.com/v3/pricing-table.js"></script></Helmet>
     <Layout>
     <NavigationSimple/>
         {/*page title*/}
@@ -90,13 +92,12 @@ const Page = ({ data, location }) => {
                 <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
                 <div className="small-width"><CheckoutLBQ /></div>
             </div>
-
-            <Script id="purchase-parity" src='https://cdn.paritydeals.com/banner.js' />
+            
         </div>
 
 
         {/*Chapters*/}
-        <div id="look-inside"  className="small-pad darkradial-background no-pad-bottom-desktop">
+        <div id="look-inside" className="small-pad darkradial-background no-pad-bottom-desktop">
             <div className="page-center">
                 <h2 className="text-center">What You Get Delivered to Your Inbox Over 5 Days:</h2>
                 <div className="four-col mobile-center small-pad no-pad-desktop">
@@ -208,7 +209,7 @@ const Page = ({ data, location }) => {
         <Reviews bg="darkradial-background" title="38 Course Reviews" toggle="primary" />
 
         
-        <div className="darkradial-background small-pad">
+        <div className="darkradial-background small-pad large-pad-bottom">
             <div className="page-center">
                 <div className="large-pad-bottom mid-width text-center">
                     <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
@@ -251,21 +252,29 @@ const Page = ({ data, location }) => {
                             <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we’ll be happy to answer!</p>
                         </div>
                     </div>
-                    <div className="large-pad mid-width text-center">
-                        <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
-                        <div className="separator"></div>
-                        <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                        <div className="small-width">
-                            <CheckoutLBQ />
-                            <div className="large-mar-top">
-                                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="small-pad"></div>
                 </div>
             </div>
         </div>
+        <div id="pricing" className="large-pad-top darkblue-bg">
+            <div className="mid-width mobile-padding text-center">
+                <h2 className="no-mar">Buy Now for Instant Access</h2>
+                <div className="separator"></div>
+                <p className="small-grey-font">And consider adding a 1:1 tutor session to discuss course content (or any topic you like) with the founder of Philosophy Break, Jack Maden.</p>
+                <p className="mid-mar-bottom"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "16px"}}>(38 reviews)</span></p>
+            </div>
+            <div className="mobile-padding">
+                <stripe-pricing-table pricing-table-id="prctbl_1MlwGcI0AQnkYq2qwWOIoOnw" publishable-key="pk_live_51II9raI0AQnkYq2qu34W5YLLLJ3nFrARYGYc9C7d4fRtgJDMc6d0y2zcEZoAif6r2zjwxSUbKzWPKmueU3GVvgHB00pNoQAiDq"></stripe-pricing-table>
+            </div>
+            <div className="large-mar-top">
+                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+            </div>
+
+            <div className="small-pad"></div>
+        </div>
+        
+
+        <Script id="purchase-parity" src='https://cdn.paritydeals.com/banner.js' />
+
     </Layout>
     </>
     )

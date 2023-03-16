@@ -28,6 +28,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
 .darkblue-background {background: #1B264F; /*linear-gradient(to top right,#020887,#38369A);*/}
+.darkblue-bg {background: #030810; color: #fff; position: relative;}
 .darkradial-background {background: linear-gradient(to right, #030810, #001d30, #001d30, #030810); color: #fff; position: relative;}
 .white-background {background-color: #fff;}
 .grey-background {background: linear-gradient(to right, #e7f6ff, #fff, #e7f6ff);}
@@ -64,7 +65,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .small-grey-font, .large-grey-font {font-size: 18px; color: #001d30; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400; line-height: 1.5}
 .small-grey-font a {color: #001d30;}
 .light-blue-font {font-size: 18px; color: #84d1ff; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.darkblue-background .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
+.darkblue-background .small-grey-font, .darkblue-bg .small-grey-font, .darkblue-background .small-grey-font a, .darkblue-background .large-grey-font, .darkblue-background h3, .darkblue-background a, .midblue-background a, .img-background a, .darkradial-background a, .darkradial-background .small-grey-font, .darkradial-background .large-grey-font, .darkradial-background .small-grey-font a {color: #fff;}
 .two-col div.gatsby-image-wrapper {margin: 2em 0;}
 .two-col.small-top-mar div.gatsby-image-wrapper {margin: 1em 0 2em;} /*for course chapters on mobile*/ 
 p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 16px;} /*smaller font size on LP*/
@@ -156,6 +157,7 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
   .mobile-no-display {display: none !important;}
   .mobile-center {text-align: center;}
   .mobile-center-margin {margin-left: auto !important; margin-right: auto !important;}
+  .mobile-padding {padding: 0 12px;}
 }
 @media (max-width: 1019px) {
   .mobile-tablet-no-display {display: none !important;}
