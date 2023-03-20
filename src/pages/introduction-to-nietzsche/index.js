@@ -1,5 +1,4 @@
 import React from "react"
-import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
@@ -7,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import CheckoutNietzsche from "../../components/checkoutNietzsche"
+import { CheckoutNietzsche } from "../../components/checkoutNietzsche"
 import ReviewsLatestNietzsche from "../../components/reviewsLatestNietzsche"
 import ReviewsStarsNietzsche from "../../components/reviewsStarsNietzsche"
 
@@ -24,7 +23,6 @@ const Page = ({ data, location }) => {
     return (
     <>
     <Seo title="Introduction to Nietzsche Course: His 5 Greatest Ideas" description="Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch." image={imagePath} pathname={location.pathname} />
-    <Helmet><script async src="https://js.stripe.com/v3/pricing-table.js"></script></Helmet>
     <Layout>
     <NavigationSimple bg="light-bg" />
         {/*page title*/}
@@ -301,7 +299,7 @@ const Page = ({ data, location }) => {
             </div>
         </div>
 
-        <div className="grey-background small-pad large-pad-bottom">
+        <div className="grey-background small-pad">
             <div className="page-center">
 
                 <div className="large-pad-bottom mid-width text-center">
@@ -346,22 +344,21 @@ const Page = ({ data, location }) => {
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div id="pricing" className="large-pad-top lightblue-background">
-            <div className="mid-width mobile-padding text-center">
-                <h2 className="no-mar">Buy Now for Instant Access</h2>
-                <div className="separator"></div>
-                <p className="small-grey-font">And why not add a 1:1 tutor session with course creator, Jack Maden.</p>
-                <p className="mid-mar-bottom"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "16px"}}>(12 reviews)</span></p>
-            </div>
-            <div className="mobile-padding">
-                <stripe-pricing-table pricing-table-id="prctbl_1MmElsI0AQnkYq2qgKPg7v96" publishable-key="pk_live_51II9raI0AQnkYq2qu34W5YLLLJ3nFrARYGYc9C7d4fRtgJDMc6d0y2zcEZoAif6r2zjwxSUbKzWPKmueU3GVvgHB00pNoQAiDq"></stripe-pricing-table>
-            </div>
-            <div className="large-mar-top">
-                <AnchorLink className="no-hover" href="#top"><button className="button secondary nowhitehover" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
-            </div>
 
+                <div className="large-pad mid-width text-center">
+                    <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
+                    <div className="separator"></div>
+                    <p className="small-grey-font">Enroll today, and by this time next week, you’ll understand Nietzsche’s best ideas, have clarity on exactly what he was trying to say, and know the best next steps for continuing your philosophical journey.</p>
+                    <div className="small-width">
+                        <CheckoutNietzsche />
+                        <div className="large-mar-top">
+                            <AnchorLink className="no-hover" href="#top"><button className="button secondary nowhitehover" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
             <div className="small-pad"></div>
         </div>
             
