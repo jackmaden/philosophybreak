@@ -27,9 +27,9 @@ const Page = ({ data, location }) => {
 
         <div className="two-col mid-pad big-2-col page-center">
             <div>
-                <h3>Why popularize philosophy? Because we believe it’s the antidote to a world saturated by information</h3>
+                <h3>We want to bring the life-enhancing power of philosophy to as many people as possible</h3>
                 <div className="spectral">
-                  <p><span className="big-letter">W</span>hile there is no guidebook for life, philosophers have had incredibly insightful things to say about existence for thousands of years. We want to cut through the noise of modernity and help shine a light on those nuggets of wisdom, because we think the more that people engage with them, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
+                  <p><span className="big-letter">W</span>e believe philosophy is the antidote to a world saturated by information. While there is no guidebook for life, philosophers have had incredibly insightful things to say about existence for thousands of years. We want to help shine a light on those nuggets of wisdom, because we think the more that people engage with and discuss them, the more thoughtful and fulfilling their lives will be. You can learn more about our views on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
                   <p><strong>Like our cause or looking to contribute?</strong> We’d love to hear from you. Get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
                 </div>
             </div>
@@ -43,12 +43,12 @@ const Page = ({ data, location }) => {
         <div className="large-pad">
           <div className="mid-width mobile-padding">
                 <div className="text-center">
-                  <h3>Unlocking the wisdom of philosophy: a quick note from the founder</h3>
+                  <h3>Unlocking the wisdom of philosophy: a quick note from the founder of Philosophy Break, Jack Maden</h3>
                   <div className="separator"></div>
                 </div>
                 <div className="spectral"> 
                   <blockquote><p>Philosophy, though wonderful, can be dense and confusing. For those unfamiliar with the subject, it can also be very difficult to know where to start. So, having received great value from studying philosophy for 15+ years (picking up a master’s degree along the way), I founded Philosophy Break in 2018 to distill my meandering philosophical education into ultra-concise online learning materials, available to all.</p></blockquote>
-                  <p>Fast forward to today, and the Philosophy Break website receives millions of visits annually from people looking to add philosophical wisdom to their lives via our <Link to="/articles/">introductory philosophy articles</Link>, our <Link to="/reading-lists/">philosophy reading lists</Link>, and our <Link to="/courses/">online philosophy courses</Link>.</p>
+                  <p>Fast forward to today, and Philosophy Break receives millions of online visits annually from people looking to add the mind-opening wisdom of philosophy to their lives via our <Link to="/courses/">online philosophy courses</Link>, our <Link to="/reading-lists/">philosophy reading lists</Link>, and our <Link to="/articles/">introductory philosophy articles</Link>.</p>
                   <p>I’m thrilled that our content strikes a chord with so many thinkers from around the world — and I hope you’ll find value in the project, too.</p>
                   <p>If you have any questions or feedback or just want to say hello, you can find me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Twitter here</a>, and reach out any time <a href="mailto:hello@philosophybreak.com">via email here</a>. I’d love to hear from you. Until then, happy philosophizing!</p>
                 </div>   
