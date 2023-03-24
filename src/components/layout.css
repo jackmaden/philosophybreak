@@ -437,31 +437,31 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 
 /***advisory board***/
 .advisory {display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 3em;}
-.advisory .member {width: 48%; margin-bottom: 2em; text-align: center;}
-.advisory .member .gatsby-image-wrapper {width: 90%; margin-left: auto; margin-right: auto;}
-.advisory .member .gatsby-image-wrapper img {border-radius: 50%;}
-.advisory .member p {font-size: 16px; font-weight: 900; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
-.advisory .member p span {display: block;  font-size: 14px; margin-top: 4px; font-weight: 400;}
+.member {width: 100%; margin-bottom: 2em; text-align: center;}
+.member .gatsby-image-wrapper {width: 100%; margin-left: auto; margin-right: auto;}
+.member .gatsby-image-wrapper img {border-radius: 50%;}
+.member p {font-size: 16px; font-weight: 900; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
+.member p span {display: block;  font-size: 14px; margin-top: 4px; font-weight: 400;}
 
 @media (min-width: 620px) {
   .advisory {justify-content: flex-start;}
-  .advisory .member {width: 30%; margin-bottom: 2em; text-align: center;}
-  .advisory .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 5%; margin-right: 5%}
-  .advisory .member .gatsby-image-wrapper {width: 90%;}
-  .advisory .member p {font-size: 18px;}
-  .advisory .member p span {font-size: 16px;}
+  .member {width: 100%; margin-bottom: 2em; text-align: center;}
+  .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 5%; margin-right: 5%}
+  .member .gatsby-image-wrapper {width: 100%;}
+  .member p {font-size: 18px;}
+  .member p span {font-size: 16px;}
 }
 
 @media (min-width: 1020px) {
-  .advisory .member {width: 26%; margin-top: 1.5em;}
-  .advisory .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 11%; margin-right: 11%}
-  .advisory .member .gatsby-image-wrapper {width: 85%;}
-  .advisory .member p {font-size: 20px;}
-  .advisory .member p span {font-size: 18px;}
+  .member {width: 100%; margin-top: 1.5em;}
+  .member:nth-child(2), .member:nth-child(5) {margin-left: 11%; margin-right: 11%}
+  .member .gatsby-image-wrapper {width: 100%;}
+  .member p {font-size: 20px;}
+  .member p span {font-size: 18px;}
 }
 @media (min-width: 1120px) {
-  .advisory .member {width: 24%; margin-top: 1.5em;}
-  .advisory .member:nth-child(2), .advisory .member:nth-child(5) {margin-left: 14%; margin-right: 14%}
+  .member {width: 100%; margin-top: 1.5em;}
+  .member:nth-child(2), .member:nth-child(5) {margin-left: 14%; margin-right: 14%}
 }
 
 /***filters***/

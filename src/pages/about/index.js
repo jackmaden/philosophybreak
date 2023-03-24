@@ -7,11 +7,12 @@ import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import SubscriptionForm from '../../components/subscriptionForm'
+import JackHeadshot from "../../components/jackHeadshot"
 
 const Page = ({ data, location }) => {
     return (
     <>
-    <Seo title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible and engaging for all." pathname={location.pathname} />
+    <Seo title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is an online social enterprise dedicated to making the wisdom of philosophy accessible and engaging for all." pathname={location.pathname} />
     <Layout>
     <Navigation bg="light-bg" />
 
@@ -19,14 +20,18 @@ const Page = ({ data, location }) => {
       <div className="grey-background">
 
         {/*page title*/}
-        <TopTitle title="About Us" subtitle="Philosophy Break is a social enterprise dedicated to making the wisdom of philosophy accessible, engaging, and useful for all." />
+        <TopTitle title="About Us" subtitle="Founded in 2018, Philosophy Break is an online social enterprise dedicated to making the wisdom of philosophy accessible, engaging, and useful for all." />
 
         {/*page content*/}
-        <div className="two-col big-2-col spectral page-center">
+
+
+        <div className="two-col mid-pad big-2-col page-center">
             <div>
-                <p><span className="big-letter">P</span>hilosophy, though wonderful, can be dense and confusing. For those unfamiliar with the subject, it can also be very difficult to know where to start. So, since 2018, we’ve been on a mission to distill philosophy’s most important wisdom into ultra-concise online learning materials, accessible to all.</p>
-                <p>Why? Because we believe philosophy is the antidote to a world saturated by information. Not only does philosophy encourage critical thinking, but it contains a great deal of practical wisdom to help supplement a meaningful existence. We think the more that people engage with philosophy, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
-                <p>Like our cause or looking to contribute? Help us spread the word by sharing Philosophy Break with your friends and family, and get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
+                <h3>Why popularize philosophy? Because we believe it’s the antidote to a world saturated by information</h3>
+                <div className="spectral">
+                  <p><span className="big-letter">W</span>hile there is no guidebook for life, philosophers have had incredibly insightful things to say about existence for thousands of years. We want to cut through the noise of modernity and help shine a light on those nuggets of wisdom, because we think the more that people engage with them, the more fulfilling their lives will be. You can learn more about our thoughts on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
+                  <p><strong>Like our cause or looking to contribute?</strong> We’d love to hear from you. Get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
+                </div>
             </div>
             <div className="mobile-tablet-no-display">
                 <GatsbyImage
@@ -34,43 +39,26 @@ const Page = ({ data, location }) => {
                     alt="Philosophy Break" loading="eager" />
             </div>
         </div>
-        <div className="mid-pad">
-            <div className="page-center text-center" style={{padding: "48px 0 12px"}}>
-                <h3>Advisory Board</h3>
-                <div className="separator"></div>
-                <div className="advisory">
-                    <div className="member">
-                        <GatsbyImage image={data.jack.childImageSharp.gatsbyImageData} alt="Jack Maden" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Jack Maden</a><span class="small-grey-font">Founder & Director</span></p>
-                    </div>
-                    <div className="member">
-                        <GatsbyImage
-                            image={data.steph.childImageSharp.gatsbyImageData}
-                            alt="Stephanie McAuliffe" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/McAuliffeSteph">Stephanie McAuliffe</a><span class="small-grey-font">Education Advisor</span></p>
-                    </div>
-                    <div className="member">
-                        <GatsbyImage image={data.josh.childImageSharp.gatsbyImageData} alt="Josh Brewin" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/josh-brewin-7b401648/">Josh Brewin</a><span class="small-grey-font">Commercial Advisor</span></p>
-                    </div>
-                    <div className="member">
-                        <GatsbyImage image={data.bayo.childImageSharp.gatsbyImageData} alt="Bayo Adeoshun" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bayo92/">Bayo Adeoshun</a><span class="small-grey-font">Social Advisor</span></p>
-                    </div>
-                    <div className="member">
-                        <GatsbyImage image={data.sophie.childImageSharp.gatsbyImageData} alt="Sophie Dundovic" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sophie-dundovic-63b08566/">Sophie Dundovic</a><span class="small-grey-font">Economics Advisor</span></p>
-                    </div>
-                    <div className="member">
-                        <GatsbyImage image={data.anis.childImageSharp.gatsbyImageData} alt="Anís Gammage" />
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/anisgammage/">Anís Gammage</a><span class="small-grey-font">Strategy Advisor</span></p>
-                    </div>
+        </div>
+        <div className="large-pad">
+          <div className="mid-width mobile-padding">
+                <div className="text-center">
+                  <h3>Unlocking the wisdom of philosophy: a quick note from the founder</h3>
+                  <div className="separator"></div>
                 </div>
-            </div>
+                <div className="spectral"> 
+                  <blockquote><p>Philosophy, though wonderful, can be dense and confusing. For those unfamiliar with the subject, it can also be very difficult to know where to start. So, having received great value from studying philosophy for 15+ years (picking up a master’s degree along the way), I founded Philosophy Break in 2018 to distill my meandering philosophical education into ultra-concise online learning materials, available to all.</p></blockquote>
+                  <p>Fast forward to today, and the Philosophy Break website receives millions of visits annually from people looking to add philosophical wisdom to their lives via our <Link to="/articles/">introductory philosophy articles</Link>, our <Link to="/reading-lists/">philosophy reading lists</Link>, and our <Link to="/courses/">online philosophy courses</Link>.</p>
+                  <p>I’m thrilled that our content strikes a chord with so many thinkers from around the world — and I hope you’ll find value in the project, too.</p>
+                  <p>If you have any questions or feedback or just want to say hello, you can find me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jackmaden_">Twitter here</a>, and reach out any time <a href="mailto:hello@philosophybreak.com">via email here</a>. I’d love to hear from you. Until then, happy philosophizing!</p>
+                </div>   
+                <JackHeadshot /> 
+            </div>             
         </div>
 
+
         {/*end page background color*/}
-        </div>
+        
             
         {/*post-page content*/}
 
@@ -84,36 +72,6 @@ export const query = graphql`{
   about: file(relativePath: {eq: "pb-basics.png"}) {
     childImageSharp {
       gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
-    }
-  }
-  jack: file(relativePath: {eq: "jackmaden.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
-    }
-  }
-  josh: file(relativePath: {eq: "josh.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
-    }
-  }
-  sophie: file(relativePath: {eq: "sophie.png"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
-    }
-  }
-  steph: file(relativePath: {eq: "steph.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
-    }
-  }
-  bayo: file(relativePath: {eq: "bayo.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
-    }
-  }
-  anis: file(relativePath: {eq: "anis.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 260, height: 260, quality: 90, layout: CONSTRAINED)
     }
   }
 }
