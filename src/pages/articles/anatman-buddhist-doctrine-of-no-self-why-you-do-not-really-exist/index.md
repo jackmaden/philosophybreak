@@ -95,9 +95,9 @@ The Buddha would agree: the self is a convenient concept, a useful fiction. Ther
 
 But we must remember that the utility of this fictional, conventional self is limited, and actually becomes very detrimental very quickly if we take it too far. 
 
-If we start believing the self is actually a _thing_ — some kind of independent, persisting _substance_ — the danger is that it encourages us to view everything through its lens. We judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
+If we start believing the self is actually If we start believing the self is actually _real_ — some kind of independent, persisting substance as opposed to a convenient fiction — the danger is that it encourages us to view everything through its lens. We judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
 
-And, as the world rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, we’ll remain perpetually dissatisfied. 
+And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we misunderstand what we really are, we set ourselves up for perpetual suffering.
 
 ## The dangers of identity
 
@@ -105,7 +105,7 @@ And, as the world rarely accords with the hopes and desires we place on it — b
 
 Consider ‘I am a failure’ — what does this mean? Which parts of you have failed? The hairs on your skin? Your digestive system? Your ability to count? 
 
-Or consider ‘I am a pessimist’ — don’t you have a mix of hopeful thoughts, too? Is your laughter pessimistic? Why box in your entire, boundless existential potential by declaring you identify _only_ with the pessimistic thoughts that bubble up, not all the others? 
+Or consider ‘I am a pessimist’ — don’t you experience a mix of hopeful thoughts, too? Is your laughter pessimistic? Why box in your boundless composite existence by selecting _only_ the pessimistic thoughts that bubble up, declaring _those_ to be a true reflection of some persistent ‘self’, and ignoring the great variety and flux of existence? 
 
 <div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
@@ -120,7 +120,7 @@ So it is with a positive sense of identity, the Buddha argues. We might find rea
 
 Buddhism aims to fix our misconceptions about identity not by showing us the ‘correct’ identity, but by claiming that we do not have an identity at all.
 
-When in a transient, composite world we see ourselves for what we really are — ever-changing bundles of the same — we recognize that all identity is fallacy, unbox ourselves from self-limiting beliefs, and flow with the swirl.
+When in a transient, composite world we see ourselves for what we really are — ever-changing bundles of the same — we recognize that all identity is fallacy, unbox ourselves from illusions of self, and flow with the swirl.
 
 ## How can we apply anātman to everyday life?
 
