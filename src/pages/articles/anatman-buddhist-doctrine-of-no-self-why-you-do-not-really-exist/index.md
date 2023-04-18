@@ -22,11 +22,11 @@ By deflating our conventional notion of ‘self’ and understanding what we _re
 
 ## Anātman: ‘you’ do not really exist
 
-<span class="big-letter">O</span>n the face of it, the Buddha’s concept of anātman — i.e. no-self: you do not really exist — seems a very strange view, for our sense of self is surely one of the most familiar things to us; but there’s a lot of misunderstanding about what the Buddha really means here.
+<span class="big-letter">O</span>n the face of it, the Buddha’s concept of anātman — i.e. no-self: you do not really exist — seems a very strange view, for our sense of self is surely one of the most familiar things to us; but there’s a lot of misunderstanding about what the Buddha really means here. Indeed, there is much discussion within Buddhism itself about what anātman entails. For the purposes of this article, we’ll explore the topic through the lens of the Buddha’s original teachings as recorded by the suttas in the Pali Canon.
 
 Firstly, it’s important to understand the historical context in which the Buddha was operating, for he was reacting to the Brahminic tradition (a precursor to modern Hinduism) dominant in 500 BCE India. Within this tradition, the concept of _ātman_ — i.e. self or soul — is crucial. 
 
-The Buddha, therefore, is not saying people don’t exist. He’s specifically targeting the Brahmin concept of ātman, which means a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
+The Buddha, therefore, is not saying people don’t exist. He’s specifically targeting the Brahmin concept of ātman, which involves a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
 
 Indeed, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
 
@@ -43,7 +43,7 @@ Consider a heap of sand. The word ‘heap’ is simply a convenient way to refer
 
 So it is with the self, the Buddha thinks. We use individual names and pronouns like ‘I’, ‘you’, ‘he’, ‘she’, ‘they’, and we may think that in using such words we are referring to individual, persisting entities. But people are not individual, persisting entities — we are _composite, ever-changing_ entities. Like heaps of sand, we are nothing more than the sum of our parts. 
 
-A famous Buddhist text that illustrates this thinking is _The Questions of King Milinda_, in which the King discusses with the sage Nāgasena the question of what makes a chariot a chariot:
+A famous Buddhist text that illustrates this thinking is _The Questions of King Milinda_ (not actually included in the original Pali Canon, but considered to be as important as the texts that do), in which the King discusses with the sage Nāgasena the question of what makes a chariot a chariot:
 
 <blockquote><p>‘Is it the pole that is the chariot?’<br/>
 ‘I did not say that.’<br/>
@@ -91,13 +91,17 @@ What makes us continuous with the people we were ten years ago, then, is not som
 
 <span class="big-letter">I</span>n response to this analysis, we might think, well — what’s the harm? Even if the self is nothing more than the sum of its swirling parts, an incredibly complicated web of cause and effect, isn’t it just easier to say ‘I am tired’ rather than something like ‘the current emergent feeling from thousands of ever-changing processes is tiredness’?
 
-The Buddha would agree: the self is a convenient concept, a useful fiction. There is relatively little harm in using the self as shorthand to refer to the myriad parts that make up the composite entity that is ‘you’ — especially if it helps you improve those parts (‘I will eat more healthily’ benefits a significant number of parts, for example). 
+Buddhists, to an extent, might agree: the self is a convenient concept, a useful fiction. 
 
-But we must remember that the utility of this fictional, conventional self is limited, and actually becomes very detrimental very quickly if we take it too far. 
+Now, it should be noted that there is a great deal of Buddhist literature discussing this point, and there are some Buddhist schools that would disagree with the idea that referring to a self is ever productive.
+
+If we follow the Buddha’s original teachings as recorded by the suttas in the Pali Canon, however, we might say there is relatively little harm in using the _convention_ of self as shorthand to refer to the thousands of parts that make up the composite entity that is ‘you’ — especially if it helps improve those parts in ways that lessen suffering (‘I will eat more healthily’ benefits a significant number of parts, for example). 
+
+But — and here all Buddhist schools would agree — we must remember that the utility of this fictional, conventional self is limited, and actually becomes very detrimental very quickly if we take it too far. 
 
 If we start believing the self is actually If we start believing the self is actually _real_ — some kind of independent, persisting substance as opposed to a convenient fiction — the danger is that it encourages us to view everything through its lens. We judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
 
-And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we misunderstand what we really are, we set ourselves up for perpetual suffering.
+And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we use flawed mental models as crutches and misunderstand what we really are, we set ourselves up for perpetual suffering.
 
 ## The dangers of identity
 
