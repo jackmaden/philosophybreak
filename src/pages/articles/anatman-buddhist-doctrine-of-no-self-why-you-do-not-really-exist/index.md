@@ -28,9 +28,9 @@ Firstly, it’s important to understand the historical context in which the Budd
 
 The Buddha, therefore, is not saying people don’t exist. He’s specifically targeting the Brahmin concept of ātman, which involves a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
 
-Indeed, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
+For, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
 
-Why does the Buddha think this? Because we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
+Why does the Buddha think this? Because, when you think about it, no part of us ever stays the same: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
 
 <div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
@@ -99,7 +99,11 @@ If we follow the Buddha’s original teachings as recorded by the suttas in the 
 
 But — and here all Buddhist schools would agree — we must remember that the utility of this fictional, conventional self is limited, and actually becomes very detrimental very quickly if we take it too far. 
 
-If we start believing the self is actually _real_ — some kind of independent, persisting substance as opposed to a convenient fiction — the danger is that it encourages us to view everything through its lens. We judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
+If we start believing the self is actually _real_ — some kind of independent, persisting substance as opposed to a convenient fiction — the danger is that it encourages us to view everything through its lens: we feel so intimately connected to this self that it becomes the most important thing in the universe.  
+
+We then judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
+
+We thus become enslaved by the self’s demands. Like a black hole bending spacetime to trap light, the illusion of self warps reality and traps our thoughts, feelings, and experiences in ego.
 
 And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we use flawed mental models as crutches and misunderstand what we really are, we set ourselves up for perpetual suffering.
 
@@ -126,13 +130,15 @@ Buddhism aims to fix our misconceptions about identity not by showing us the ‘
 
 When in a transient, composite world we see ourselves for what we really are — ever-changing bundles of the same — we recognize that all identity is fallacy, unbox ourselves from illusions of self, and flow with the swirl.
 
+By releasing ourselves from the distorting gravity of self, we see that we are just like everything else, and not more important than anything else: _everything_ in reality becomes our concern, not just the illusory self’s small, warped part of it.
+
 ## How can we apply anātman to everyday life?
 
 <span class="big-letter">T</span>he Buddhist picture of the world is very far from convention: everything is impermanent, everything is composite, and the self does not really exist.
 
 When going about our days, we probably don’t have these truths at the forefront of our minds. We might agree with them in quiet moments of reflection, but if we’re eating cereal, or thanking a colleague, we’re probably not thinking ‘life is transient and the self is an illusion.’
 
-Instead, when we are commuting or out with friends or at work, viewing the world through the lens of self, desire, and attachment may come back and play a central role. 
+Instead, when we are commuting or out with friends, viewing the world through the lens of self, desire, and attachment may come back and play a central role. 
 
 So, how practical is the Buddhist teaching of no-self for eradicating suffering, really? How can it help us deal with stress at work? Frustration with politics? Difficult relationships?
 
@@ -152,9 +158,17 @@ By being too wrapped up by your idea of self, you disengage from the world and m
 
 Living according to transient identity, status, and attachment will only bring dissatisfaction, the Buddha says; being ever-mindful of the flow will bring peace.
 
+## No-self creates room for that central Buddhist value: compassion
+
+<span class="big-letter">B</span>eyond the lessening of personal suffering, perhaps the most important practical outcome that comes from deflating the self is the room it creates for compassion. By moving the grasping, reality-warping self out of the way, we better recognize that, though we may be trapped in _duḥkha_, so is _everybody else we know_. 
+
+The existence of _every sentient being_ is characterized by suffering, for exactly the same reason ours is: we live transient lives of ignorance and pain. 
+
+In encouraging detachment from self, then, Buddhism does not look away from reality. It’s not here to free us _from_ the world; it’s here to free us _for_ the world. Honing _selflessness_ through Buddhist practice, we put grasping ego to one side, open ourselves to reality, and cultivate love and compassion for all living beings.
+
 ## Learn more about Buddhist philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about no-self and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then you might like our new course, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
+<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then you might like our new course, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
 
 <div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>

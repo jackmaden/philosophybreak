@@ -107,7 +107,7 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Confucius" number="5" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
 
-                <BannerReadingList title="Gautama Buddha" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
+                <BannerReadingList title="The Buddha" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
 
                 <BannerReadingList title="Machiavelli" number="5" link="/reading-lists/machiavelli/" img={data.machiavelli.childImageSharp.gatsbyImageData} alt="Machiavelli reading list" />
                 
