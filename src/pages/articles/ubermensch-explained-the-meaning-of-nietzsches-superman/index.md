@@ -77,7 +77,7 @@ Not the rejection of our desires, not the denial of the urges and forces that ma
 
 >In the end, when the work is complete, it becomes clear how it was the force of a _single taste_ that ruled and shaped everything great and small…
 
-For, Nietzsche suggests, it is by living up to an indepedent _aesthetic_, rather than to an external ‘ethical’ standard, that humans can truly fulfill their potential. As he famously declares in his 1872 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?crid=3P4QPQ8RR92BA&keywords=the+birth+of+tragedy&qid=1650786632&sprefix=the+birth+of+tragedy%2Caps%2C132&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=40882a22fcc22c3e2a1e43c5d2742a01&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> (in a typically compelling statement that features in our list of [Nietzsche’s best quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)): 
+For, Nietzsche suggests, it is by living up to an independent _aesthetic_, rather than to an external ‘ethical’ standard, that humans can truly fulfill their potential. As he famously declares in his 1872 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?crid=3P4QPQ8RR92BA&keywords=the+birth+of+tragedy&qid=1650786632&sprefix=the+birth+of+tragedy%2Caps%2C132&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=40882a22fcc22c3e2a1e43c5d2742a01&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> (in a typically compelling statement that features in our list of [Nietzsche’s best quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)): 
 
 >It is only as an aesthetic phenomenon that existence and the world are _eternally justified_.
 
@@ -133,7 +133,9 @@ There is no life beyond this one on Earth — and according to Zarathustra’s p
 
 For instance: do you think humanity is capable of what Nietzsche describes as ‘self-overcoming’, of becoming a being resembling the Übermensch? Moreover, what would a world of Übermensch look like? Is a happy society filled with independent, self-determining Übermensch realistic? 
 
-Furthermore, are all human ‘drives’ permissible? What about our drives for cruelty? How can we channel those in positive ways? How can we make cruelty beautiful? Is cultivating our lives and characters so that they’re beautiful as an ‘aesthetic package’ more important than, say, fighting for justice? Should we really aspire to live aesthetically rather than ethically?
+Some scholars point out that Nietzsche never suggests the Übermensch is accessible to all. In fact, the purpose of most people in society is to prepare the conditions that would allow such special individuals to flourish. On this reading, the Übermensch is — like a new and improved Zarathustra — a new prophet, a unique individual that creates value grounded in this world, without appeal to anything transcendent. This individual would lead humanity into the next phase of our psychological growth.
+
+Regardless of its accessibility, here are some additional questions we might have about the Übermensch project in general: are all human ‘drives’ permissible? What about our drives for cruelty? How can we channel those in positive ways? How can we make cruelty beautiful? Is cultivating our lives and characters so that they’re beautiful as an ‘aesthetic package’ more important than, say, fighting for justice? Should we really aspire to live aesthetically rather than ethically?
 
 ## In just 6 days, you’ll understand Nietzsche’s philosophy
 
