@@ -26,7 +26,7 @@ By deflating our conventional notion of ‘self’ and understanding what we _re
 
 Firstly, it’s important to understand the historical context in which the Buddha was operating, for he was reacting to the Brahminic tradition (a precursor to modern Hinduism) dominant in 500 BCE India. Within this tradition, the concept of _ātman_ — i.e. self or soul — is crucial. 
 
-The Buddha, therefore, is not saying people don’t exist. He’s specifically targeting the Brahmin concept of ātman, which involves a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
+The Buddha, therefore, is not saying the convention of _people_ doesn’t exist. He’s specifically targeting the Brahmin concept of ātman, which involves a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
 
 For, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
 
@@ -59,9 +59,9 @@ And still he answered no.<br/>
 
 Nāgasena goes on to explain that just as a chariot is nothing in addition to all its parts, so the self is nothing — no _extra_ thing — in addition to all of _our_ parts. 
 
-Like a chariot, the self is simply a convenient fiction, a shorthand reference for the many different parts that make us up. 
+Like a chariot, the self is simply a convenient fiction, a shorthand reference for the many different parts that make us up. Its existence is based in _convention_, rather than in some ultimate persisting material of reality.
 
-So, people exist: we just aren’t what we think we are. When we refer to individuals, we are actually referring to great masses of processes, bounded within particular body parts. Your name is simply a shorthand way of grouping thousands of ever-changing processes, which themselves are made up of thousands of smaller processes, and so on. 
+So, people exist in a _conventional_ sense: we just aren’t what we think we are in an _ultimate_ sense. When we refer to individuals, we are actually referring to great masses of interacting processes, bounded within particular body parts. Your name is simply a shorthand way of grouping thousands of ever-changing processes, which themselves are made up of thousands of smaller processes, and so on. 
 
 ‘You’, then, are nothing more than a composite of the individual thoughts, desires, body parts, processes, and atoms that make you up. 
 
@@ -83,7 +83,7 @@ Hume goes on to conclude that people are thus…
 
 Though it’s supposed Hume came to his views entirely independently, <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/episode/0hZR9tRKq7iF130aJDVKJM?si=31f570d2ee9149e7">recent research by philosophy professor Alison Gopnik</a> suggests Hume may have been influenced by Buddhist philosophy. Indeed, the Buddha came to these very same conclusions some 2,000 years earlier: the self is an illusion, entrenched by the structure of our language.
 
-The key point is this: though we attempt to impose continuous narrative and meaning on our ‘selves’, these narratives are hopelessly simplified fictions: in reality, we are incredibly complex, swirling bundles of change.
+The key point is this: though we attempt to impose continuous narrative and meaning on our ‘selves’, these narratives are hopelessly simplified fictions and conventions: in reality, we are incredibly complex, swirling bundles of change.
 
 What makes us continuous with the people we were ten years ago, then, is not some fixed ‘self’, but a particular chain of causes and effects. We mistake our imperfect, ever-shifting memories of this chain for _substance_, and the convention of ‘self’ emerges.
 
@@ -91,11 +91,11 @@ What makes us continuous with the people we were ten years ago, then, is not som
 
 <span class="big-letter">I</span>n response to this analysis, we might think, well — what’s the harm? Even if the self is nothing more than the sum of its swirling parts, an incredibly complicated web of cause and effect, isn’t it just easier to say ‘I am tired’ rather than something like ‘the current emergent feeling from thousands of ever-changing processes is tiredness’?
 
-Buddhists, to an extent, might agree: the self is a convenient concept, a useful fiction. 
+Buddhists, to an extent, might agree: the self is a convention, a convenient concept, a useful fiction. 
 
 Now, it should be noted that there is a great deal of Buddhist literature discussing this point, and there are some Buddhist schools that would disagree with the idea that referring to a self is ever productive.
 
-If we follow the Buddha’s original teachings as recorded by the suttas in the Pali Canon, however, we might say there is relatively little harm in using the _convention_ of self as shorthand to refer to the thousands of parts that make up the composite entity that is ‘you’ — especially if it helps improve those parts in ways that lessen suffering (‘I will eat more healthily’ benefits a significant number of parts, for example). 
+If we follow the Buddha’s original teachings as recorded by the suttas in the Pali Canon, however, we might say there is relatively little harm in using the _convention_ of self as shorthand for the thousands of interacting parts that make ‘you’ up — especially if it helps improve those parts in ways that lessen suffering (‘I will eat more healthily’ benefits a significant number of parts, for example). 
 
 But — and here all Buddhist schools would agree — we must remember that the utility of this fictional, conventional self is limited, and actually becomes very detrimental very quickly if we take it too far. 
 
@@ -103,7 +103,7 @@ If we start believing the self is actually _real_ — some kind of independent, 
 
 We then judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
 
-We thus become enslaved by the self’s demands. Like a black hole bending spacetime to trap light, the illusion of self warps reality and traps our thoughts, feelings, and experiences in ego.
+We become enslaved by the self’s demands. Like a black hole bending spacetime to trap light, the illusion of self warps reality and traps our thoughts, feelings, and experiences in ego.
 
 And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we use flawed mental models as crutches and misunderstand what we really are, we set ourselves up for perpetual suffering.
 

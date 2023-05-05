@@ -41,15 +41,15 @@ In this regard, Dostoevsky’s <a target="_blank" rel="noopener noreferrer spons
 
 For instance, the 19th-century Dane Søren Kierkegaard is commonly regarded as the first existentialist philosopher, though he himself never used the term — and probably would have dismissed the label, had he been alive to do so. In fact, 20th-century philosophers Martin Heidegger and [Albert Camus](/reading-lists/albert-camus/) _did_ dismiss the label during their lifetimes, despite being considered core to existentialist thought.
 
-‘Existentialism’ was explicitly adopted by the French philosopher Jean-Paul Sartre, who came to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) retrospectively recognized as precursors to the movement — with a number of Sartre’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.
+The word ‘existentialism’ was first introduced by the French philosopher Gabriel Marcel in 1943, and only explicitly adopted by Jean-Paul Sartre and Simone de Beauvoir, with the former coming to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) retrospectively recognized as precursors to the movement — with a number of Sartre and de Beauvoir’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.
 
-Given the confused allocation of who is and who is not an existentialist, some argue that only the work of Jean-Paul Sartre should be labelled _pure_ existentialism, seeing as he was the most explicit in defining the term. It’s true that Sartre perhaps provided the main thrust of existentialism as a movement, but as we shall see his work was deeply influenced and informed by his precursors and contemporaries. 
+Given the confused allocation of who is and who is not an existentialist, some argue that only the work of Jean-Paul Sartre should be labelled _pure_ existentialism, seeing as he was the most explicit in accepting (and organizing his work around) the term. It’s true that Sartre perhaps provided the main thrust of existentialism as a movement, but as we shall see his work was deeply influenced and informed by his precursors and contemporaries. 
 
 Of this work, there are generally three core principles that emerge as central to existentialist philosophy: phenomenology, freedom, and authenticity. Let’s take a quick look at each in turn.
 
 ## 1. Phenomenology
 
-<span class="big-letter">P</span>henomenology is a philosophical movement developed by Edmund Husserl in the early 20th century and later adapted by Heidegger and others. Phenomenologists are interested in examining the underlying structures of consciousness and experience, typically emphasizing the crucial importance of the _first-person perspective_ in understanding ourselves and the world around us.
+<span class="big-letter">P</span>henomenology is a philosophical movement developed by Edmund Husserl in the early 20th century and later adapted by Heidegger, Karl Jaspers, and others. Phenomenologists are interested in examining the underlying structures of consciousness and experience, typically emphasizing the crucial importance (and inseparability) of the _first-person perspective_ in understanding ourselves and the world around us.
 
 ![Edmund Husserl](./husserl.jpg "Edmund Husserl, from your first-person perspective.")
 
