@@ -28,6 +28,7 @@ export default function Footer() {
                 </div>
                 <div className="disclaimer-footer mid-width">
                     <p>Philosophy Break is an online social enterprise dedicated to making the wisdom of philosophy accessible, engaging, and useful for all. Learn more <Link to="/about/">about us here</Link>. To offset a fraction of what it costs to maintain Philosophy Break and keep it ad-free, we participate in the Amazon Associates Program. This means if you purchase a book on Amazon from a link on here, we may earn a small percentage of its price, at no extra cost to you. This helps support Philosophy Break, and is very much appreciated.</p>
+                    <p><Link to="/privacy-policy/">Privacy Policy</Link> | <Link to="/cookie-policy/">Cookie Policy</Link></p>
                     <p>© Philosophy Break Ltd, {new Date().getFullYear()}</p>
                 </div>
                 <GatsbyImage
