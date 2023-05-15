@@ -29,7 +29,7 @@ In other words, if you were to discover that every moment of your life, all its 
 
 <span class="big-letter">C</span>onsidered as a thought experiment, the eternal recurrence thus amounts to, as Daniel Came puts it in his essay _The Birth of Tragedy and Beyond_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>), a “litmus test of an individual’s capacity to affirm life.”
 
-John Kaag, in his book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Hiking-Nietzsche-Becoming-Who-You/dp/1250234689?&linkCode=ll1&tag=philosophybre-20&linkId=36a6c3e7e958d38ec31cc16cfbb92854&language=en_US&ref_=as_li_ss_tl">Hiking with Nietzsche</a>, concurs: 
+John Kaag, in his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Hiking-Nietzsche-Becoming-Who-You/dp/1250234689?&linkCode=ll1&tag=philosophybre-20&linkId=36a6c3e7e958d38ec31cc16cfbb92854&language=en_US&ref_=as_li_ss_tl">Hiking with Nietzsche</a>, concurs: 
 
 >Nietzsche suggests that the affirmation of the eternal return is possible only if one is willing and able to become well-adjusted to life and to oneself… The specter of infinite monotony was for Nietzsche the abiding impetus to assume absolute responsibility: if one’s choices are to be replayed endlessly, they’d better be the ‘right’ ones.
  

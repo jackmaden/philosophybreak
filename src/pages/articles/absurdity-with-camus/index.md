@@ -1,6 +1,6 @@
 ---
 title: "Albert Camus on Coping with Life's Absurdity"
-description: "French thinker Albert Camus believed the myth of Sisyphus to be a brilliant metaphor for our everyday existence — and a perfect encapsulation of all intellectual endeavour."
+description: "French thinker Albert Camus believed the myth of Sisyphus to be a brilliant metaphor for our everyday existence — and a perfect encapsulation of all intellectual endeavor."
 image: "./camus.jpg"
 imageAlt: "Camus Sisyphus absurdity"
 imageSeo: "./albertcamus.jpg"
@@ -20,13 +20,13 @@ Or are they? Indeed, 20th-century French thinker Albert Camus believed the myth 
 
 ![Albert Camus](./albertcamus.jpg "Albert Camus, as cool as they come.")
 
-“The workman of today,” Camus writes in his mind-bending book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb">The Myth of Sisyphus</a>, “works every day in his life at the same tasks, and this fate is no less absurd [than Sisyphus's].”
+“The workman of today,” Camus writes in his renowned essay <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=fc4b62f6b48b010eb1967d6d2ca7d7bb">The Myth of Sisyphus</a>, “works every day in his life at the same tasks, and this fate is no less absurd [than Sisyphus's].”
 
 We wake up, we toil, we sleep; we wake up, we toil, we sleep; we push the boulder up, it rolls back down, we start again. And this cyclical mundanity points to the fundamental absurdity of the human condition: all this time we thought we were making progress — we're all just Sisyphus, each with our own boulders to bear. 
 
 ## Beyond everyday absurdity
 
-<span class="big-letter">F</span>or Camus, it's not just the similarities between Sisyphus and our repetitive day-to-day schedules that make our existences absurd; it goes far beyond that. Camus thinks Sisyphus's situation perfectly encapsulates _the entirety of human intellectual and philosophical endeavour_.
+<span class="big-letter">F</span>or Camus, it's not just the similarities between Sisyphus and our repetitive day-to-day schedules that make our existences absurd; it goes far beyond that. Camus thinks Sisyphus's situation perfectly encapsulates _the entirety of human intellectual and philosophical endeavor_.
 
 How so? Well, Camus argues that a paradox lies at the heart of human experience. On the one hand, we are by nature curious animals who long for meaning and purpose — a fundamental _reason_ for existing. On the other, we are not equipped to ever adequately satisfy this longing — Camus rejects every scientific, metaphysical, or religious attempt at doing so.
 

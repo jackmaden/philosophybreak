@@ -134,7 +134,7 @@ By releasing ourselves from the distorting gravity of self, we see that we are j
 
 ## How can we apply anātman to everyday life?
 
-<span class="big-letter">T</span>he Buddhist picture of the world is very far from convention: everything is impermanent, everything is composite, and the self does not really exist.
+<span class="big-letter">T</span>he Buddhist picture of reality is very far from our everyday view of the world: everything is impermanent, everything is composite, and the self does not really exist.
 
 When going about our days, we probably don’t have these truths at the forefront of our minds. We might agree with them in quiet moments of reflection, but if we’re eating cereal, or thanking a colleague, we’re probably not thinking ‘life is transient and the self is an illusion.’
 
@@ -142,7 +142,7 @@ Instead, when we are commuting or out with friends, viewing the world through th
 
 So, how practical is the Buddhist teaching of no-self for eradicating suffering, really? How can it help us deal with stress at work? Frustration with politics? Difficult relationships?
 
-The Buddhist scholar Nicolas Bommarito suggests in his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0190887508?storeType=ebooks&qid=1681655187&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=df607345f7fc7a5f283f45274168b693&language=en_US&ref_=as_li_ss_tl">Seeing Clearly</a> (which features in our list of [Buddhist philosophy’s best books](/reading-lists/buddhist-philosophy/)) that one way Buddhism can play a role here is in helping us recognize everyday life not as fake or unimportant but as a convention: a form of living governed by certain rules and restrictions that we participate in, but the fate of which we aren’t wholly attached to. 
+The Buddhist scholar Nicolas Bommarito suggests in his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0190887508?storeType=ebooks&qid=1681655187&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=df607345f7fc7a5f283f45274168b693&language=en_US&ref_=as_li_ss_tl">Seeing Clearly</a> (which features in our list of [Buddhist philosophy’s best books](/reading-lists/buddhist-philosophy/)) that one way Buddhism can play a role here is in helping us recognize everyday life not as fake or unimportant but as a _convention:_ a form of living governed by certain rules and restrictions that we participate in, but the fate of which we aren’t wholly attached to. 
 
 So, we can view the world through the lens of self for convenience at work and in society, but we don’t need to get too attached to that lens. 
 
