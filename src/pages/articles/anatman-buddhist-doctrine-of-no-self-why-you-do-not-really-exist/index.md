@@ -30,7 +30,7 @@ The Buddha, therefore, is not saying the convention of _people_ doesn’t exist.
 
 For, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
 
-Why does the Buddha think this? Because, when you think about it, no part of us ever stays the same: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
+Why does the Buddha hold this position? Because, when you think about it, no part of us ever stays the same: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
 
 <div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
@@ -168,7 +168,7 @@ In encouraging detachment from self, then, Buddhism does not look away from real
 
 ## Learn more about Buddhist philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then you might like our new course, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
+<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then consider signing up to our new guide, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
 
 <div class="course-promo darkradial-background text-center">
     <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
