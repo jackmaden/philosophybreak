@@ -39,7 +39,9 @@ In this regard, Dostoevsky’s <a target="_blank" rel="noopener noreferrer spons
 
 <span class="big-letter">T</span>he more formal philosophical side of existentialism, meanwhile, grapples with its core themes and concepts more directly, and it’s worth taking a brief look at its history, which can be confusing.
 
-For instance, the 19th-century Dane Søren Kierkegaard is commonly regarded as the first existentialist philosopher, though he himself never used the term — and probably would have dismissed the label, had he been alive to do so. In fact, 20th-century philosophers Martin Heidegger and [Albert Camus](/reading-lists/albert-camus/) _did_ dismiss the label during their lifetimes, despite being considered core to existentialist thought.
+For instance, the 19th-century Dane Søren Kierkegaard is commonly regarded as the first existentialist philosopher, though he himself never used the term — and probably would have dismissed the label, had he been alive to do so (for more on this, check out our article on [Kierkegaard’s influence on existentialism](/articles/kierkegaard-on-finding-the-meaning-of-life/)).
+
+In fact, 20th-century philosophers Martin Heidegger and [Albert Camus](/reading-lists/albert-camus/) _did_ dismiss the label during their lifetimes, despite being considered core to existentialist thought.
 
 The word ‘existentialism’ was first introduced by the French philosopher Gabriel Marcel in 1943, and only explicitly adopted by Jean-Paul Sartre and Simone de Beauvoir, with the former coming to define the subject around his own works. Only then were earlier thinkers like Kierkegaard and [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) retrospectively recognized as precursors to the movement — with a number of Sartre and de Beauvoir’s contemporaries also lumped in under the term, regardless of whether they explicitly identified as such.
 

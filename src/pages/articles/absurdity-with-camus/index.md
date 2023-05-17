@@ -78,7 +78,7 @@ Indeed, as Camus concludes <a target="_blank" rel="noopener noreferrer sponsored
 >The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
 
 ## Further reading
-<span class="big-letter">I</span>f you're interested in learning more about Camus' absurdism and the existentialist themes explored in this article more generally, check out our brief [introduction to existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), as well as [our reading list of Camus' best books](/reading-lists/albert-camus/).
+<span class="big-letter">I</span>f you're interested in learning more about Camus' absurdism and the existentialist themes explored in this article more generally, check out our brief [introduction to existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), [Kierkegaard on finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/), as well as [our reading list of Camus' best books](/reading-lists/albert-camus/).
 
 <a class="reading-list cta" href="/reading-lists/albert-camus/">
     <img class="title-img" src="./camus-books.webp"/>

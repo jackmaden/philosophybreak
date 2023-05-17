@@ -1,6 +1,6 @@
 ---
 title: "Kierkegaard On Why Busy People Are Ridiculous"
-description: "19th-century Danish philosopher Søren Kierkegaard saw busyness as a vice. This article explores his arguments and discusses why, even when you have minimal time, being attentive to yourself is so crucial."
+description: "Busyness is a vice, suggests a passage from 19th-century Danish philosopher Søren Kierkegaard. This article explores the passage and discusses why, even when you have minimal time, being attentive to yourself is so crucial."
 image: "./kierkegaardbusy.jpeg"
 imageAlt: "busy street"
 imageSeo: "./kierkegaardbusy.jpeg"
@@ -10,19 +10,20 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">A</span>re you busy today? On your feet? Rushing between appointments? Having no time is a symptom typical of modern life — and busyness is often worn as a badge of honor. Danish philosopher Søren Kierkegaard (1813 - 1855), however, saw busyness as nothing more than a ridiculous vice. 
-
-In his hyper-intelligent 1843 treatise <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>, Kierkegaard writes:
+<span class="big-letter">A</span>re you busy today? On your feet? Rushing between appointments? Well, take a moment for this quick passage from the 19th-century Danish philosopher Søren Kierkegaard... 
 
 >Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
 
-Laughter is the appropriate response to the busy person, Kierkegaard believes, for it’s the perfect way to undercut his or her self-importance. 
+Kierkegaard wrote these words from the perspective of one of the characters in his 1843 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm.⁣
 
-Indeed, busy people haughtily fill their time, always finding things to do — 'I just have _so much on_' — but this self-generated activity is simply a trivial means of escapism, Kierkegaard argues.
+The quotation above is taken from the first character, A, who lambasts busyness as a vice — and believes the appropriate response to it is laughter, for it’s the perfect way to undercut the busy person’s self-importance.
 
-Such people block out their calendars to avoid confronting the general emptiness of their existences — to distract themselves from truly important questions, such as who they are and what their lives are for. 
+Busy people haughtily fill their time, always finding things to do — ‘I just have _so much on_’ — but this self-generated activity is simply a trivial means of escapism, A thinks.
 
-Everything matters but nothing matters: busy people are thus ridiculous.
+Nowadays, busyness is often worn as a badge of honor. But on A’s view, ‘busy’ people block out their calendars to avoid confronting the general emptiness of their existences — to distract themselves from truly important questions, such as who they are and what their lives are for. 
+
+Everything is important but nothing is important. The busy person is thus ridiculous.⁣
+
 
 ## But what if you just _are_ busy?
 
@@ -30,23 +31,21 @@ Everything matters but nothing matters: busy people are thus ridiculous.
 
 And when it comes to the end of a long day, contemplating who you are and what your life is for may not be at the top of your to-do list. Much better to wind down and relax with some TV. 
 
-But here we must remember Kierkegaard’s diagnosis of 'the unhappy person', which comes in a later chapter of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>:
+But here we must remember Kierkegaard’s diagnosis of ‘the unhappy person’, which comes in a later chapter of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>:
 
 >The unhappy person is one who has his ideal, the content of his life, the fullness of his consciousness, the essence of his being, in some manner outside of himself. The unhappy man is always absent from himself, never present to himself.
 
-Investing everything you have in external events, people, or things is a surefire way to unhappiness, Kierkegaard advises. 
+This passage suggests investing everything you have in external events, people, or things is a surefire way to unhappiness. 
 
-Rather, it’s crucial to be attentive to yourself, present to your own wants and needs, as understanding what’s important to you is the first step in working out how to make your life a little less 'busy' — knowing which things to shed, and which to pay due time, care, and attention to. 
+Instead, it’s crucial to be attentive to yourself, present to your own wants and needs, as understanding what’s important to you is the first step in working out how to make your life a little less ‘busy’ — knowing which things to shed, and which to pay due time, care, and attention to. 
 
 So: who are you and what is your life for?
 
 ## Further reading
 
-<span class="big-letter">I</span>f you’re looking to explore Kierkegaard further, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a> is a brilliant place to start. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm. 
+<span class="big-letter">I</span>f you’re looking to explore him further, check out our quick article on [Kierkegaard’s approach to finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/) — and for a deeper dive, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a> is a brilliant place to start. Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from the two seemingly irreconcilable perspectives of A and Judge Vilhelm. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
 
-Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from these two seemingly irreconcilable perspectives. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
-
-Alternatively, f you're interested in learning more about the existentialist themes explored in this article more generally, check out our brief [introduction to existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), as well as [our existentialist reading list](/reading-lists/existentialism/).
+Finally, if you’re interested in learning more about the existentialist themes explored in this article more generally, check out our brief [introduction to existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), as well as [our existentialist reading list](/reading-lists/existentialism/).
 
 <a class="reading-list cta" href="/reading-lists/existentialism/">
     <img class="title-img" src="./existentialism.jpg"/>

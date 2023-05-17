@@ -57,7 +57,7 @@ Given its far-reaching influence, what do you make of Kierkegaard’s initial an
 
 ## Learn more about Kierkegaard and existentialism
 
-<span class="big-letter">I</span>f you’re interested in learning more about Kierkegaard, existentialism, and responses to nihilism, then consider signing up for our new guide, [How to Live a Good Life](/philosophies-for-living/) (according to 7 of the world’s wisest philosophies — including existentialism, Buddhism, and Stoicism).
+<span class="big-letter">I</span>f you’re interested in learning more, you might like our quick article on [Kierkegaard’s critique of busyness](/articles/kierkegaard-on-why-busy-people-are-ridiculous/), our reading list on [existentialism’s best books](/reading-lists/existentialism/) — and to dive deeper into existentialist responses to nihilism, consider signing up for our new guide, [How to Live a Good Life](/philosophies-for-living/) (according to 7 of the world’s wisest philosophies — including existentialism, Buddhism, and Stoicism).
 
 <div class="course-promo darkradial-background text-center">
     <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>

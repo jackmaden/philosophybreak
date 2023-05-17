@@ -35,7 +35,7 @@ Nietzsche thought these were the wrong reactions.
 
 While Nietzsche is no fan of Christianity, he recognizes that the removal of its values is dangerous. Christianity, flawed though it is, at least provides some structure and meaning to people’s lives. It offers not just a set of values but a coping mechanism for suffering. 
 
-Erode Christian values — erode the coping mechanism — and how will people bear existence? How will they stand the yawning abyss of meaninglessness? How will they deal with the inevitable pain and suffering that all humans, living imperfect mortal lives, must face?
+Erode Christian values — erode the coping mechanism — and how will people bear existence? As [Kierkegaard also questions when discussing purpose in life](/articles/kierkegaard-on-finding-the-meaning-of-life/), how will humanity stand the yawning abyss of meaninglessness? How will they deal with the inevitable pain and suffering that all humans, living imperfect mortal lives, must face?
 
 ## The Last Man
 
