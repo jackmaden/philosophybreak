@@ -130,8 +130,8 @@ const Page = () => {
                     <h2>Where can I get further information?</h2>
                     <p>If you have any questions about our use of cookies or other technologies, please email us at hello@philosophybreak.com or by post to:</p>
                     <p>Philosophy Break Ltd</p>
-                    <p>22 Mary Datchelor House</p>
-                    <p>London, London SE5 8FB</p>
+                    <p>11 Curtain Rd</p>
+                    <p>London EC2A 3JX</p>
                     <p>United Kingdom</p>
                     <p>For more information about how we may use personal data, please read our <Link to="/privacy-policy/">privacy policy</Link>.</p>
 
