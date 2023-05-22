@@ -17,7 +17,7 @@ const Page = () => {
              <Navigation bg='light-bg' />
              <div className='grey-background'>
 
-             <TopTitle title="Privacy Policy" subtitle="Last updated January 23, 2023" />
+             <TopTitle title="Privacy Policy" subtitle="Last updated May 20, 2023" />
 
 
                 <div id="break-start" className="page-center mid-mar-top large-pad-bottom">

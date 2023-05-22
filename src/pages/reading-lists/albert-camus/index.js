@@ -10,14 +10,12 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
-import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
     <Seo title="Albert Camus Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books by Albert Camus, including The Myth of Sisyphus, The Stranger, and more." image={imagePath} pathname={location.pathname} />
-    <MailchimpPopUp />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

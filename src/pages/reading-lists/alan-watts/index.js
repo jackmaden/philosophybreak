@@ -10,14 +10,12 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
-import MailchimpPopUp from "../../../components/mailchimpPopUp"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
     <Seo title="Alan Watts Reading List – The Best 5 Books to Read" description="A curated reading list of the best books by the philosopher Alan Watts." image={imagePath} pathname={location.pathname} />
-    <MailchimpPopUp />
     <Layout>
     <Navigation />
         <ScrollProgressBar />

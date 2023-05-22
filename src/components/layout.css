@@ -24,6 +24,17 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
   #break-start.page-center {width: 600px;}
 }
 
+/* MV CSS */
+@media only screen and (max-width: 359px) {
+  #break-start {
+    margin-left: unset !important;
+    margin-right: unset !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+} 
+/* END OF CSS */
+
 /***general classes***/
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
