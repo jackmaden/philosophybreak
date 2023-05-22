@@ -25,6 +25,10 @@ const Page = ({ data, location }) => {
     <Seo title="Life’s Big Questions: Introduction to Philosophy Course" description="This introductory course distills philosophy’s best answers to some of life’s most troubling questions in less than a week, taking you on a whirlwind journey of reflection, understanding, and discovery." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
+        
+        {/*DISABLE MEDIAVINE ADS*/}
+        <div id="mediavine-settings" data-blocklist-all="1" ></div>
+
         {/*page title*/}
         <div className="top-title darkradial-background course" id="top">
             <div className="two-col big-2-col page-center">

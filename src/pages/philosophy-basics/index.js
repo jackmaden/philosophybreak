@@ -16,6 +16,10 @@ const Page = ({ data, location }) => {
     <Seo title="Discover Exactly What Philosophy Is and How It Can Improve Your Life " description="Expand your mind and learn the basics of philosophy with just 1 email per day for 3 days." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple bg="light-bg" />
+
+      {/*DISABLE MEDIAVINE ADS*/}
+      <div id="mediavine-settings" data-blocklist-all="1" ></div>
+
          {/*page title*/}
          <div className="grey-background top-title home">
           <div className="two-col big-2-col page-center">

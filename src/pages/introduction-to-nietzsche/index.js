@@ -25,6 +25,10 @@ const Page = ({ data, location }) => {
     <Seo title="Introduction to Nietzsche Course: His 5 Greatest Ideas" description="Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple bg="light-bg" />
+    
+        {/*DISABLE MEDIAVINE ADS*/}
+        <div id="mediavine-settings" data-blocklist-all="1" ></div>
+
         {/*page title*/}
         <div className="top-title grey-background course" id="top">
             <div className="two-col page-center">

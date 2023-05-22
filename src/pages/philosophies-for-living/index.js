@@ -13,6 +13,10 @@ const Page = ({ location }) => {
     <Seo title="Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy" description="Discover practical wisdom from 7 of the world’s most influential philosophies — including Stoicism, Buddhism, and Existentialism — to help you find meaning, purpose, and live a good life." pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
+
+        {/*DISABLE MEDIAVINE ADS*/}
+        <div id="mediavine-settings" data-blocklist-all="1" ></div>
+
         {/*page title*/}
         <div className="top-title darkradial-background course" id="top">
             <div className="page-center text-center">

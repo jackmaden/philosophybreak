@@ -15,6 +15,10 @@ const Page = () => {
         </Helmet>
         <Layout>
              <Navigation bg='light-bg' />
+
+{/*DISABLE MEDIAVINE ADS*/}
+<div id="mediavine-settings" data-blocklist-all="1" ></div>
+
              <div className='grey-background'>
 
              <TopTitle title="Privacy Policy" subtitle="Last updated May 20, 2023" />
