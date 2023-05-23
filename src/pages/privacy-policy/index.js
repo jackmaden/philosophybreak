@@ -16,8 +16,8 @@ const Page = () => {
         <Layout>
              <Navigation bg='light-bg' />
 
-{/*DISABLE MEDIAVINE ADS*/}
-<div id="mediavine-settings" data-blocklist-all="1" ></div>
+            {/*DISABLE MEDIAVINE ADS*/}
+            <div id="mediavine-settings" data-blocklist-all="1" ></div>
 
              <div className='grey-background'>
 

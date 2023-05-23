@@ -12,7 +12,6 @@ import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import WatermarkBreak from "../components/watermarkBreak"
 import PanelLBQ from '../components/panelLBQ'
 import PanelPFL from '../components/panelPFL' 
-import MailchimpPopUp from "../components/mailchimpPopUp"
 import PanelNietzsche from "../components/panelNietzsche";
 
 
@@ -30,7 +29,6 @@ const ArticlePost = ({ data, location }) => {
   return (
   <>
   <Seo title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
-  <MailchimpPopUp />
   <Layout>
   <Navigation />
     <ScrollProgressBar />
