@@ -15,7 +15,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 One of the most prominent themes in Kierkegaard’s work is his critique of the ‘rational detachment’ practiced by the philosophical tradition that came before him — and how such practice fails to provide us with insight into topics like the meaning of life.
 
-Kierkegaard especially targets his contemporary, the German philosopher Hegel, who he saw as continuing this tradition by attempting to write from a ‘view from nowhere’ — attempting to be detached and objective, when of course, writing from a very particular and singular human perspective, Hegel had a claim on neither of those things.
+Kierkegaard especially targets his contemporary, the German philosopher Hegel, whom he saw as continuing this tradition by attempting to write from a ‘view from nowhere’ — attempting to be detached and objective, when of course, writing from a very particular and singular human perspective, Hegel had a claim on neither of those things.
 
 ![Oil painting of Kierkegaard, by Luplau Janssen (1902)](./Kierkegaard.jpg "Oil painting of Kierkegaard, by Luplau Janssen (1902).")
 

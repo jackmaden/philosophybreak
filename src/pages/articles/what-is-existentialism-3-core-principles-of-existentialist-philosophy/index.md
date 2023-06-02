@@ -89,9 +89,15 @@ As many existentialist thinkers were atheists, they believed no pre-ordained pat
 
 Sartre sloganizes this thought with his famous saying, _existence precedes essence_, and concludes that it is thus up to us, moment to moment, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
 
+As Sartre puts it in his 1946 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Existentialism-Humanism-Jean-Paul-Sartre/dp/0300115466?crid=UPF8047QW078&linkCode=ll1&tag=philosophybre-20&linkId=6bb88418483d73a3062f594572e693ea&language=en_US&ref_=as_li_ss_tl">Existentialism Is a Humanism</a>: 
+
+>Man first of all exists, encounters himself, surges up in the world — and defines himself afterwards.
+
 The upshot of this is that, on the existentialist view, we bear total responsibility for who we are, and the decisions we make are _ours_ (of course, many neuroscientists and philosophers today disagree that we have such freedom, arguing that [free will is an illusion](/articles/free-will-illusion-sam-harris/)). 
 
-But for the existentialists, in a universe apparently devoid of direction, purpose, or meaning, this dizzying freedom is the source of much of our anxiety — leading Sartre to assert that we are in fact ‘condemned’ to be free. 
+But for the existentialists, in a universe apparently devoid of direction, purpose, or meaning, this dizzying freedom is the source of much of our anxiety — leading Sartre to assert that we are in fact ‘condemned’ to be free:
+
+>Man is condemned to be free. Condemned, because he did not create himself; because, once hurled into the world, he is responsible for everything he does.
 
 Kierkegaard summarizes this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1631490044/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1631490044&linkId=ebd6d73fad16fc954157a2aa8a0163eb">The Concept of Anxiety</a>:
 
