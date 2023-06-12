@@ -63,7 +63,11 @@ Like a chariot, the self is simply a convenient fiction, a shorthand reference f
 
 So, people exist in a _conventional_ sense: we just aren’t what we think we are in an _ultimate_ sense. When we refer to individuals, we are actually referring to great masses of interacting processes, bounded within particular body parts. Your name is simply a shorthand way of grouping thousands of ever-changing processes, which themselves are made up of thousands of smaller processes, and so on. 
 
-‘You’, then, are nothing more than a composite of the individual thoughts, desires, body parts, processes, and atoms that make you up. 
+In fact, much like the subatomic scientific picture of the world, Buddhists think that, at root, everything is simply made of individual pieces of ‘dharma’ — like atoms, but with a miniscule time element, too. Tiny slices of the cosmos _in real-time_, configured in different ways.  
+
+There is a vast Buddhist literature that categorizes these ‘slivers of happenings’ — dharmas — to describe exactly how they make up us and everything we interact with.
+
+The crucial Buddhist insight is that the sum of these tiny slices of the cosmos is not greater than its parts: ‘you’ are nothing more than a composite of the individual thoughts, desires, body parts, processes, and atoms that make you up. 
 
 ## You do not ‘experience’ your perceptions and feelings; you _are_ your perceptions and feelings
 
