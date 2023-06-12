@@ -75,7 +75,11 @@ This trick was famously articulated in the Western tradition of philosophy, too,
 
 In other words, all we find when dwelling on ourselves is a bundle of thoughts and perceptions: we can never use ‘I’ unless it’s attached to a corresponding am / want / think / feel. 
 
-The upshot is that, while thoughts and feelings exist, there is no separate ‘I’ — no separate person — _experiencing_ those thoughts and feelings. The person simply _is_ those ever-changing thoughts and feelings. You are sadness one minute; happiness the next.
+Now, we might typically think of the self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think the self is some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
+
+But the Buddhist insight is that this kind of ‘self’ _only_ emerges when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so this idea of ‘self’ only emerges when one is thinking; it has no real, independent existence beyond this.
+
+The upshot is that, while thoughts and feelings exist, there is no separate ‘I’ — no separate self — _experiencing_ those thoughts and feelings. The person simply _is_ those ever-changing thoughts and feelings. You are sadness one minute; happiness the next.
 
 Hume goes on to conclude that people are thus… 
 
@@ -91,9 +95,9 @@ What makes us continuous with the people we were ten years ago, then, is not som
 
 <span class="big-letter">I</span>n response to this analysis, we might think, well — what’s the harm? Even if the self is nothing more than the sum of its swirling parts, an incredibly complicated web of cause and effect, isn’t it just easier to say ‘I am tired’ rather than something like ‘the current emergent feeling from thousands of ever-changing processes is tiredness’?
 
-Buddhists, to an extent, might agree: the self is a convention, a convenient concept, a useful fiction. 
+Some Buddhists might, to an extent, agree: referring to a self can occasionally be convenient. 
 
-Now, it should be noted that there is a great deal of Buddhist literature discussing this point, and there are some Buddhist schools that would disagree with the idea that referring to a self is ever productive.
+But there is a great deal of literature discussing this point, and it should be noted that there are some Buddhist schools that would disagree with the idea that referring to a self is ever productive.
 
 If we follow the Buddha’s original teachings as recorded by the suttas in the Pali Canon, however, we might say there is relatively little harm in using the _convention_ of self as shorthand for the thousands of interacting parts that make ‘you’ up — especially if it helps improve those parts in ways that lessen suffering (‘I will eat more healthily’ benefits a significant number of parts, for example). 
 
@@ -103,7 +107,7 @@ If we start believing the self is actually _real_ — some kind of independent, 
 
 We then judge reality only by how it impacts this fictional self, which leads us to develop certain attachments and aversions: ‘I like this and I don’t like that’, ‘I want more of this and less of that’, ‘I _love_ this and require it to be content’, ‘I _hate_ this and whenever it happens I am filled with dread and anxiety’. 
 
-We become enslaved by the self’s demands. Like a black hole bending spacetime to trap light, the illusion of self warps reality and traps our thoughts, feelings, and experiences in ego.
+We become enslaved by the fictional self, by the demands of the ever-changing internal monologue. Like a black hole bending spacetime to trap light, the illusion of self warps reality and traps our thoughts, feelings, and experiences in ego.
 
 And, as the world is fundamentally transient and rarely accords with the hopes and desires we place on it — bad things happen, and good things always end — as long as we continue to view reality through the lens of illusory ego, as long as we continue to grasp for things we imagine this ‘self’ wants, as long as we use flawed mental models as crutches and misunderstand what we really are, we set ourselves up for perpetual suffering.
 
@@ -127,6 +131,8 @@ Positive views of self can be just as sinister. Buddhists draw on a powerful ima
 So it is with a positive sense of identity, the Buddha argues. We might find real pleasure and happiness from it in the short term — ‘I am an athlete! I am a top-tier lawyer!’ — but due to the transience of life we will not sustain such identities forever. One day we’ll wake up to find we no longer quite fit with who we thought we were or craved to be. The honey has all gone; just the knife remains.
 
 Buddhism aims to fix our misconceptions about identity not by showing us the ‘correct’ identity, but by claiming that we do not have an identity at all.
+
+Our recurrent thoughts, feelings, hopes, fears, desires, moods, obsessions, attachments — none of them define us; for nothing does.
 
 When in a transient, composite world we see ourselves for what we really are — ever-changing bundles of the same — we recognize that all identity is fallacy, unbox ourselves from illusions of self, and flow with the swirl.
 
