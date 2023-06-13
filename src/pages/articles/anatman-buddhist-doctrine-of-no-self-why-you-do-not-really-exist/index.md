@@ -71,17 +71,17 @@ The crucial Buddhist insight is that the sum of these tiny slices of the cosmos 
 
 ## You do not ‘experience’ your perceptions and feelings; you _are_ your perceptions and feelings
 
-<span class="big-letter">T</span>he Buddha says all this not to belittle us, but to point out a trick we play on ourselves — a trick that entrenches a flawed view of reality, and so causes suffering.  
+<span class="big-letter">T</span>he Buddha says all this not to belittle us, but to point out a trick we play on ourselves — a trick that entrenches a flawed view of reality, and so causes suffering. 
 
-This trick was famously articulated in the Western tradition of philosophy, too, by the great 18th-century thinker David Hume. Reflecting on his own own stream of consciousness, Hume writes:
+For, even if we concede we are always _physically_ changing, we might still quietly cling to a ‘mental’ version of the continuous, persisting self. We might think of this self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think it’s some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
+
+But the Buddhist insight is that this ‘persisting’ mental self emerges _only_ when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so the self only exists when one is thinking or feeling.
+
+This point was famously articulated in the Western tradition of philosophy, too, by the great 18th-century thinker David Hume. Reflecting on his own own stream of consciousness, Hume writes:
 
 >For my part, when I enter most intimately into what I call _myself_, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe anything but the perception.
 
 In other words, all we find when dwelling on ourselves is a bundle of thoughts and perceptions: we can never use ‘I’ unless it’s attached to a corresponding am / want / think / feel. 
-
-Now, we might typically think of the self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think the self is some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
-
-But the Buddhist insight is that this kind of ‘self’ _only_ emerges when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so this idea of ‘self’ only emerges when one is thinking; it has no real, independent existence beyond this.
 
 The upshot is that, while thoughts and feelings exist, there is no separate ‘I’ — no separate self — _experiencing_ those thoughts and feelings. The person simply _is_ those ever-changing thoughts and feelings. You are sadness one minute; happiness the next.
 
