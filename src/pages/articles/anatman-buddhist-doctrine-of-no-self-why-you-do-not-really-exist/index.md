@@ -73,7 +73,9 @@ The crucial Buddhist insight is that the sum of these tiny slices of the cosmos 
 
 <span class="big-letter">T</span>he Buddha says all this not to belittle us, but to point out a trick we play on ourselves — a trick that entrenches a flawed view of reality, and so causes suffering. 
 
-For, even if we concede we are always _physically_ changing, we might still quietly cling to a ‘mental’ version of the continuous, persisting self. We might think of this self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think it’s some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
+For, even if we concede we are always _physically_ changing, we might still quietly cling to a ‘mental’ version of the continuous, persisting self. 
+
+We might think of this mental self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think it’s some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
 
 But the Buddhist insight is that this ‘persisting’ mental self emerges _only_ when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so the self only exists when one is thinking or feeling.
 
