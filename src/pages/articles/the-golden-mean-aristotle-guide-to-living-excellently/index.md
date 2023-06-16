@@ -51,10 +51,10 @@ Importantly, identifying the golden mean between excess and deficiency is someth
 Practical wisdom and the good action following it, then, are things you _attain with practice_. By stepping out into the world and habitually trying to do the right thing — by habitually trying to identify the mean between deficiency and excess in all you do — you can begin improving yourself today.  
 
 <div class="course-promo darkradial-background text-center">
-    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
     <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
 
 This is the rather nice thing about Aristotle: far from labeling particular traits or qualities of character as permanently _good_ or _bad_, he recognizes the nuance that the real world demands. 
@@ -109,13 +109,13 @@ The final tip is to not be too hard on yourself: in Aristotle’s project for ha
 
 <span class="big-letter">W</span>hat do you think of Aristotle’s golden mean? Do you find it an accurate characterization of virtue, and a useful guide for human behavior? Or do you find it too general to be of use? 
 
-Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course, Philosophies for Living, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. 
+Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. 
 
-Learn more and sign up here: [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
+Learn more and sign up here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <div class="course-promo darkradial-background text-center">
-    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
     <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>

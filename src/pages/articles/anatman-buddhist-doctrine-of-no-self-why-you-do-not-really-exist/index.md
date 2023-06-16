@@ -33,10 +33,10 @@ For, whether we call it soul or self, the Buddha thinks the referents of ‘I’
 Why does the Buddha hold this position? Because, when you think about it, no part of us ever stays the same: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
 
 <div class="course-promo darkradial-background text-center">
-    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
     <p class="small-grey-font">Enrich your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
-    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
 
 Consider a heap of sand. The word ‘heap’ is simply a convenient way to refer to the fact that there are thousands of individual grains of sand stacked on top of one another. Take the individual grains of sand away, and nothing remains. The ‘heap’ was just a shorthand way of saying ‘thousands of individual grains of sand stacked on top of each other.’
@@ -126,10 +126,10 @@ Consider ‘I am a failure’ — what does this mean? Which parts of you have f
 Or consider ‘I am a pessimist’ — don’t you experience a mix of hopeful thoughts, too? Is your laughter pessimistic? Why box in your boundless composite existence by selecting _only_ the pessimistic thoughts that bubble up, declaring _those_ to be a true reflection of some persistent ‘self’, and ignoring the great variety and flux of existence? 
 
 <div class="course-promo darkradial-background text-center">
-    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
     <p class="small-grey-font">Enrich your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
-    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>
 
 Positive views of self can be just as sinister. Buddhists draw on a powerful image here: imagine a knife smeared with honey. Initially, the knife tastes sweet — but it will soon cause you serious damage. 
@@ -180,11 +180,11 @@ In encouraging detachment from self, then, Buddhism does not look away from real
 
 ## Learn more about Buddhist philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then consider signing up to our new guide, [Philosophies for Living: The Ultimate Guide to Enriching Your Personal Philosophy](/philosophies-for-living/).
+<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then consider signing up to our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <div class="course-promo darkradial-background text-center">
-    <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+    <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
     <p class="small-grey-font">Enrich your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
-    <a class="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
 </div>

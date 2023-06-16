@@ -31,10 +31,10 @@ const ReadingList = ({ data, location }) => {
             <p>Before diving into existentialism’s best books, if you’re interested in quickly learning more about existentialism generally, check out our brief <Link to="/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/">introduction to existentialist philosophy</Link>, in which we outline its three core principles. </p>
 
             <div className="course-promo darkradial-background text-center">
-                <h4>Philosophies for Living: the Ultimate Guide to Enriching Your Personal Philosophy</h4>
+                <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
                 <p className="review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
                 <p className="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
-                <Link className="button primary" href="/philosophies-for-living/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</Link>
+                <Link className="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</Link>
             </div>
 
             <p>Otherwise, this reading list puts together the top eight books of and about the philosophical movement of existentialism. It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the deeply influential existentialist figureheads themselves. Let’s jump in!</p>

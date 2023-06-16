@@ -15,3 +15,6 @@ https://philosophybreak.netlify.app/* https://philosophybreak.com/:splat 301!
 
 # Redirect sitemap
 /sitemap/sitemap-0.xml /sitemap-0.xml 301!
+
+# Redirect PFL to how to live a good life
+/philosophies-for-living /how-to-live-a-good-life 301!

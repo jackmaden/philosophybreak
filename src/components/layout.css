@@ -83,6 +83,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 .flex-end {display: flex; align-items: flex-end;}
 .fade-out {position: absolute; bottom: 0; width: 100%; height: 250px; background-image: linear-gradient(to bottom, transparent, rgba(255,255,255,1));}
 .image-caption-tap {margin-top: -44px; font-size: 11px; color: rgb(115, 125, 136); margin-bottom: 44px;}
+.image-caption-tap.right {margin-top: -35px; text-align: right;}
 /*text gradient*/
 .gradient-text {
   background-color: #001d30; background-image: linear-gradient(to right, #001d30, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;
@@ -200,7 +201,7 @@ h5 {font-size: 20px;}
     h1 {font-size: 45px;}
     h1#home-page {font-size: 41px;}
     h1#lbq {font-size: 34px;}
-    h1#pfl {font-size: 44px;}
+    h1#pfl {font-size: 36px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
     #break-start .smaller-h2 h2 {font-size: 26px;}
@@ -542,6 +543,7 @@ div.separator.course {margin: -3px 0 10px; width: 94px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
 div.separator.course.wider {width: 110px;}
 div.separator.course.lbq {width: 208px;}
+div.separator.course.pfl {width: 134px;}
 div.separator.course.chapter {width: 136px; margin: -3px auto 10px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
@@ -558,6 +560,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.course {width: 112px; margin-top: -5px;}
   div.separator.course.wider {width: 128px;}
   div.separator.course.lbq {width: 250px;}
+  div.separator.course.pfl {width: 162px;}
   div.separator.chapter {width: 100px;}
   div.separator.course.chapter {width: 164px;}
   .title.list h1 {font-size: 45px;}
