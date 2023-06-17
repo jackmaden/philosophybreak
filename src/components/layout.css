@@ -81,7 +81,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 .two-col.small-top-mar div.gatsby-image-wrapper {margin: 1em 0 2em;} /*for course chapters on mobile*/ 
 p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 16px;} /*smaller font size on LP*/
 .flex-end {display: flex; align-items: flex-end;}
-.flex-normal {display: flex;}
+.flex-normal-mob-end-desk {display: flex;}
 .fade-out {position: absolute; bottom: 0; width: 100%; height: 250px; background-image: linear-gradient(to bottom, transparent, rgba(255,255,255,1));}
 .image-caption-tap {margin-top: -44px; font-size: 11px; color: rgb(115, 125, 136); margin-bottom: 44px;}
 .image-caption-tap.right {margin-top: -35px; text-align: right;}
@@ -96,6 +96,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .mid-width {width: 600px; margin-left: auto; margin-right: auto;}
   .small-width {width: 400px; margin-left: auto; margin-right: auto;}
   .fade-out {height: 200px;}
+  .flex-normal-mob-end-desk {align-items: flex-end;}
   .image-caption-tap {font-size: 12px; margin-top:-46px;}
 }
 @media (min-width: 1020px) {
