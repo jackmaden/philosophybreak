@@ -35,26 +35,25 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
                     <h1 id="pfl">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h1>
-                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Existentialism, Buddhism, and beyond.</p>
-                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
-                    <p className="small-grey-font smaller text-center no-mar-top-mob desktop-no-display" style={{marginTop: "-12px"}}><i>You'll unlock instant access to Philosophy Break Academy, our interactive online learning & community space (accessible via web or app).</i></p>
+                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Existentialism, Buddhism, and beyond. Launching June 21st. Register your interest now:</p>
                     <div className="mobile-center">
                         <AnchorLink className="no-hover" href="#form"><button className="button primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Register Interest & Get Discount</button></AnchorLink>
                         <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(50+ reviews for our courses)</span></p>
-                        
+                        <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
+                    <p className="small-grey-font smaller text-center no-mar-top-mob desktop-no-display" style={{marginTop: "-12px"}}><i>The course is hosted on our new online learning platform, Philosophy Break Academy (accessible forever from any device).</i></p>
                         
                      </div>
                 </div>
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" />
-                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>You'll unlock instant access to Philosophy Break Academy, our interactive online learning & community space (accessible via web or app).</i></p>
+                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>The course is hosted on our new online learning platform, Philosophy Break Academy (accessible forever from any device).</i></p>
                 </div>
             </div>
         </div>
 
         <div className="grey-background">
             {/*pain points and benefits*/}
-            <div className="page-center mid-pad">
+            <div className="page-center mid-pad-top small-pad-bottom">
                 <div className="text-center">
                     <h3 className="small-mar">Does this sound like you?</h3><svg style={{"width": "24px", "height": "24px"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#36b4ff" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
                     <div className="mid-width">
@@ -93,13 +92,31 @@ const Page = ({ data, location }) => {
             {/*Chapters*/}
             <div id="look-inside"  className="small-pad grey-background">
             <div className="page-center">
-                <h2 className="mid-pad-bottom text-center">Discover and compare how the great philosophers think you can live a happier, more fulfilling life:</h2>
+                <h2 className="text-center">Discover how the great philosophers think you can live a more fulfilling life, with instant access to:</h2>
+                <div className="four-col mobile-center small-pad no-pad-desktop">
+                    <div className="small-mar-top">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Philosophy Break Academy</h5>
+                        <p className="small-grey-font">Your own interactive learning & community space, accessible forever from any device.</p>
+                    </div>
+                    <div className="small-mar">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 concise chapters</h5>
+                        <p className="small-grey-font">One succinct chapter (60-min read) on each philosophy, distilling millennia of wisdom.</p>
+                    </div>
+                    <div className="small-mar-top">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 reading lists</h5>
+                        <p className="small-grey-font">Seven curated reading lists for effective further exploration of each philosophy covered.</p>
+                    </div>
+                    <div className="small-mar">
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 8 guided discussions</h5>
+                        <p className="small-grey-font">Community-driven reflections on each philosophy, plus a final summary discussion.</p>
+                    </div>
+                </div>
             </div>
             <div className="small-mar no-mar-top-desktop">
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Aristotle</span></h3>
-                        <p className="large-grey-font">If you want to achieve excellence and happiness in all that you do, Aristotle has some common-sense advice that will help. Chapter 1 distills his deeply influential philosophy.</p>
+                        <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Aristotle: achieving excellence <i>(8 lessons)</i></span></h3>
+                        <p className="large-grey-font">If you want to achieve excellence and happiness in all that you do, Aristotle has some common-sense advice that will help. Chapter 1 distills his deeply influential philosophy across 8 lessons.</p>
                     </div>
                     <div>
                         <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -112,8 +129,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">2</span><span>Epicureanism</span></h3>
-                        <p className="large-grey-font">If relaxing and cultivating a tranquil mind are more your thing, Epicurus will be your guide. Chapter 2 outlines Epicureanism's simple yet profound recipe for happiness.</p>
+                        <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">2</span><span>Epicureanism: living for pleasure <i>(7 lessons)</i></span></h3>
+                        <p className="large-grey-font">If relaxing and cultivating a tranquil mind are more your thing, Epicurus will be your guide. Chapter 2 outlines Epicureanism's simple yet profound recipe for happiness across 7 lessons.</p>
                     </div>
                     <div>
                     <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -128,8 +145,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">3</span><span>Stoicism</span></h3>
-                        <p className="large-grey-font">If you are anxious about the future, and often worry about things that are out of your control, the Stoics may help you reframe your concerns. Chapter 3 concisely packages their practical wisdom.</p>
+                        <h3 className="flex-end"><span className="spectral big-letter">3</span><span>Stoicism: beating anxiety <i>(8 lessons)</i></span></h3>
+                        <p className="large-grey-font">If you are anxious about the future, and often worry about things that are out of your control, the Stoics may help you reframe your concerns. Chapter 3 concisely packages their practical wisdom across 8 lessons.</p>
                     </div>
                     <div>
                     <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -144,8 +161,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Buddhism</span></h3>
-                        <p className="large-grey-font">If everyday life leaves you with a faint buzz of dissatisfaction and you're not sure why, the Buddha may provide some insight. Chapter 4 sheds light on the rich solutions of Buddhist philosophy.</p>
+                        <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Buddhism: ending suffering <i>(9 lessons)</i></span></h3>
+                        <p className="large-grey-font">If everyday life leaves you with a faint buzz of dissatisfaction and you're not sure why, the Buddha may provide some insight. Chapter 4 sheds light on the Buddhist path to enlightenment across 9 lessons.</p>
                     </div>
                     <div>
                     <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -160,8 +177,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">5</span><span>Confucianism</span></h3>
-                        <p className="large-grey-font">If you want to find ways to feel more connected to the important people in your life, and promote the moral growth of all, Confucius has some ideas. Chapter 5 shows why Confucianism was China's dominant way of life for millennia.</p>
+                        <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">5</span><span>Confucianism: growing morally <i>(8 lessons)</i></span></h3>
+                        <p className="large-grey-font">If you want to find ways to feel more connected to the important people in your life, and promote the moral growth of all, Confucius has some ideas. Chapter 5 shows why Confucianism was the dominant way of life in China for millennia across 8 lessons.</p>
                     </div>
                     <div>
                     <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -176,8 +193,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">6</span><span>Existentialism</span></h3>
-                        <p className="large-grey-font">If you feel like life is meaningless and all your projects ultimately lack purpose, you might find some relief in existentialism. Chapter 6 distills the philosophies of Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Nietzsche, Kierkegaard, and more.</p>
+                        <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">6</span><span>Existentialism: overcoming nihilism <i>(9 lessons)</i></span></h3>
+                        <p className="large-grey-font">If you feel like life is meaningless and all your projects ultimately lack purpose, you might find some relief in existentialism. Chapter 6 distills the philosophies of Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Nietzsche, Kierkegaard, and more across 9 lessons.</p>
                     </div>
                     <div>
                     <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -192,8 +209,8 @@ const Page = ({ data, location }) => {
             <div className="small-mar">
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
-                        <h3 className="flex-end"><span className="spectral big-letter">7</span><span>Effective Altruism</span></h3>
-                        <p className="large-grey-font">If you are sold on the idea of doing good in the world, but feel powerless about making any kind of difference on the global stage, effective altruism might be the framework you’re looking for. Chapter 7 investigates this powerful, yet increasingly controversial, approach to the good life.</p>
+                        <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">7</span><span>Effective Altruism: doing good better <i>(7 lessons)</i></span></h3>
+                        <p className="large-grey-font">If you are sold on the idea of doing good in the world, but feel powerless about making any kind of difference on the global stage, effective altruism might be the framework you’re looking for. Chapter 7 investigates this powerful, yet increasingly controversial, approach to the good life across 7 lessons.</p>
                     </div>
                     <div>
                     <a href={chap7} className="no-hover no-decoration" target="_blank" rel="noreferrer">
@@ -205,27 +222,7 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
-            <div className="mid-pad page-center">
-                <h2 className="text-center">What You'll Get Instant Access To:</h2>
-                <div className="four-col mobile-center small-pad no-pad-desktop">
-                    <div className="small-mar-top">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Philosophy Break Academy</h5>
-                        <p className="small-grey-font">Your own interactive learning space, offering crystal clear guidance and progress tracking.</p>
-                    </div>
-                    <div className="small-mar">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 concise chapters</h5>
-                        <p className="small-grey-font">One succinct chapter (60-min read) on each philosophy, distilling millennia of wisdom.</p>
-                    </div>
-                    <div className="small-mar-top">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 reading lists</h5>
-                        <p className="small-grey-font">Seven curated reading lists for effective further exploration of each philosophy covered.</p>
-                    </div>
-                    <div className="small-mar">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 8 guided discussions</h5>
-                        <p className="small-grey-font">Community-driven reflections on each philosophy, and a final summary discussion.</p>
-                    </div>
-                </div>
-            </div>
+            
 
         </div>
 
