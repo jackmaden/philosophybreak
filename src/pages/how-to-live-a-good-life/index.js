@@ -1,12 +1,13 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Script } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import { CoursePromoForm } from "../../components/coursePromoForm"
+import { CheckoutPFL } from "../../components/checkoutPFL"
+import Reviews from "../../components/reviewsLBQ"
 import ReviewsStarsLBQ from "../../components/reviewsStarsLBQ"
 
 const Page = ({ data, location }) => {
@@ -19,6 +20,7 @@ const Page = ({ data, location }) => {
     const chap5 = getSrc(data.chapter5)
     const chap6 = getSrc(data.chapter6)
     const chap7 = getSrc(data.chapter7)
+    const welcome = getSrc(data.welcome)
     
     return (
     <>
@@ -35,17 +37,16 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
                     <h1 id="pfl">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h1>
-                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Existentialism, Buddhism, and beyond. Launching June 21st. Register your interest now:</p>
+                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Existentialism, Buddhism, and beyond. 56 self-paced lessons, optimized for all devices:</p>
                     <div className="mobile-center">
-                        <AnchorLink className="no-hover" href="#form"><button className="button primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Register Interest & Get Discount</button></AnchorLink>
-                        <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(50+ reviews for our courses)</span></p>
+                        <CheckoutPFL />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
                     <p className="small-grey-font smaller text-center no-mar-top-mob desktop-no-display" style={{marginTop: "-12px"}}><i>Course materials are hosted on our new online learning platform, Philosophy Break Academy, and are accessible forever from any device.</i></p>
                         
                      </div>
                 </div>
                 <div className="mobile-no-display">
-                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" />
+                    <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" />
                     <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are hosted on our new online learning platform, Philosophy Break Academy, and are accessible forever from any device.</i></p>
                 </div>
             </div>
@@ -92,19 +93,19 @@ const Page = ({ data, location }) => {
             {/*Chapters*/}
             <div id="look-inside"  className="small-pad grey-background">
             <div className="page-center">
-                <h2 className="text-center">Discover how the great philosophers think you can live a more fulfilling life, with instant access to:</h2>
+                <h2 className="text-center">Discover how the great philosophers think you can live a happier, more fulfilling life, with instant access to:</h2>
                 <div className="four-col mobile-center small-pad no-pad-desktop">
                     <div className="small-mar-top">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> Philosophy Break Academy</h5>
-                        <p className="small-grey-font">Your own interactive learning & community space, accessible forever from any device.</p>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 56 concise lessons</h5>
+                        <p className="small-grey-font">56 self-paced lessons organized into 7 succinct chapters (each chapter is a 60-min read).</p>
                     </div>
                     <div className="small-mar">
-                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 concise chapters</h5>
-                        <p className="small-grey-font">One succinct chapter (60-min read) on each philosophy, distilling millennia of wisdom.</p>
+                        <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 philosophies</h5>
+                        <p className="small-grey-font">Crystal clear insight into 7 crucial global philosophies, distilling millennia of wisdom.</p>
                     </div>
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 7 reading lists</h5>
-                        <p className="small-grey-font">Seven curated reading lists for effective further exploration of each philosophy covered.</p>
+                        <p className="small-grey-font">7 curated reading lists for effective further exploration of each philosophy covered.</p>
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 8 guided discussions</h5>
@@ -222,90 +223,108 @@ const Page = ({ data, location }) => {
                     </div>
                 </div>
             </div>
+            <div className="large-mar">
+                <div className="two-col page-center">
+                    <div>
+                        <h3>Course materials are hosted on our online learning platform, Philosophy Break Academy, and are accessible from any device</h3>
+                        <p className="large-grey-font">Philosophy Break Academy is your interactive learning and community space for all things philosophy, where you can take self-paced courses, track your progress, and discuss materials with other members. By purchasing this course, you unlock <b><i>lifetime access</i></b> to Philosophy Break Academy.</p>
+                    </div>
+                    <div>
+                    <a href={welcome} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <GatsbyImage
+                        image={data.welcome.childImageSharp.gatsbyImageData}
+                        alt="Philosophy Break Academy" />
+                        <p className="image-caption-tap right">↗ Welcome to the Academy. Tap to enlarge.</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
             
 
         </div>
 
         <div className="darkradial-background">
-
-        <div id="form" className="mid-pad page-center text-center">
-                <div className="mid-width small-pad-bottom">
-                    <p className="verified no-mar-top">LAUNCHING 21 JUNE</p><br/><span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course chapter"></div>
-                    <h2>Register Now to Stay Notified and Secure a Launch Discount</h2>
-                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism. Register your interest now:</p> 
-                    
-                    <CoursePromoForm />
+            <div className="mid-pad page-center text-center">
+                <div className="mid-width">
+                    <h2>Go from Being Curious about Philosophy to Harnessing Its Most Powerful Ideas</h2>
+                    <div className="separator"></div>
+                    <p className="spectral">Start now, and by this time next week, you’ll understand philosophy’s top practical wisdom, enjoy a philosophically-enriched view on the world, and know the best next steps for continuing your journey.</p> 
+                    <div className="small-width"><CheckoutPFL /></div>
                 </div>
             </div>
+        </div>
 
+        {/*Reviews*/}
+        <div className="grey-background small-pad-mob-mid-pad-desk">
+            <Reviews bg="grey-background" title="Reviews for Other Philosophy Break Courses" toggle="secondary" />
+        </div>
+
+        <div className="darkradial-background">
+            <div className="mid-pad page-center text-center">
+                <div className="mid-width">
+                    <h2>Understand Exactly How the Great Philosophers Think You Can Live a Happier Life</h2>
+                    <div className="separator"></div>
+                    <p className="spectral">Start now, and by this time next week, you’ll understand philosophy’s top practical wisdom, enjoy a philosophically-enriched view on the world, and know the best next steps for continuing your journey.</p> 
+                    <div className="small-width"><CheckoutPFL /></div>
+                </div>
+            </div>
+        </div>
+
+        <div className="grey-background small-pad-mob-mid-pad-desk">
+        
+            <div id="faq" className="page-center mid-pad">
+                <h2>Frequently Asked Questions</h2>
+                <div className="two-col align-top small-mar">
+                    <div>
+                        <h4>Who is this course for?</h4>
+                        <p className="small-grey-font">This course is for anyone striving to live a happy, meaningful life and curious about what the best philosophical wisdom has to say about the subject. You may have read some philosophy, or you may have never engaged with the subject before: either way, we’ve distilled seven of the world’s wisest and most important philosophical approaches so you can reflect on and enrich your own personal philosophy in accessible, organized fashion, and efficiently learn and discuss some of the best wisdom from history.</p>
+                    </div>
+                    <div>
+                        <h4>How long does it take to do the course?</h4>
+                        <p className="small-grey-font">The course is broken into seven distinct chapters, each of which takes about 60 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each philosophy sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div>
+                        <h4>How is the course delivered?</h4>
+                        <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device — be it desktop, laptop, tablet, or mobile — and are even printable, so you can consume them however you like.</p>
+                    </div>
+                    <div>
+                        <h4>Can I take the course on mobile?</h4>
+                        <p className="small-grey-font">Yes, course materials are optimized for easy reading on any device, and you can also download an app-version of our online learning platform, Philosophy Break Academy, so that you can keep on learning even when you’re on the move.</p>
+                    </div>
+                </div>
+                <div className="two-col align-top">
+                    <div>
+                        <h4>Who created the course?</h4>
+                        <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who received an MA in Philosophy from the University of Southampton in 2014, and has been producing educational resources and writing about philosophy ever since. Having obtained great value researching philosophy at postgraduate level, Jack wanted to share the subject’s riches with a wider audience, and created Philosophy Break in 2018. This course is the result of years of research and refinement to make philosophy’s profound and important wisdom as relevant, interesting, and engaging to today’s digital world as possible.</p>
+                    </div>
+                    <div>
+                        <h4>Where do profits from the course go?</h4>
+                        <p className="small-grey-font">Philosophy Break is a self-funded social enterprise, so we put all proceeds straight back into funding our mission of engaging more people with philosophy. By purchasing a course, you help support us on that mission.</p>
+                        <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we’ll be happy to answer!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div className="darkradial-background mid-pad">
+            <div className="mid-width page-center text-center">
+                <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
+                <div className="separator"></div>
+                <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top practical wisdom, enjoy a philosophically-enriched view on the world, and know the best next steps for continuing your journey.</p>
+                <div className="small-width">
+                    <CheckoutPFL />
+                    <div className="large-mar-top">
+                        <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
+                    </div>
+                </div>
+            </div>
+            <div className="small-pad"></div>
         </div>
 
 
-        
-        
-        {/*Reviews
-        <Reviews bg="darkradial-background" title="37 Course Reviews" toggle="primary" />
+        <Script id="purchase-parity" src='https://cdn.paritydeals.com/banner.js' />
 
-        
-        <div className="darkradial-background small-pad">
-            <div className="page-center">
-                <div className="large-pad-bottom mid-width text-center">
-                    <h2 className="small-mar">You Deserve It: Indulge Your Interest in Philosophy Today</h2>
-                    <div className="separator"></div>
-                    <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                    <div className="small-width"><CheckoutLBQ /></div>
-                </div>
-            */}
-            {/*FAQ
-                <div id="faq">
-                    <h2 className="mid-mar-top">Frequently Asked Questions</h2>
-                    <div className="two-col align-top small-mar">
-                        <div>
-                            <h4>Who is this course for?</h4>
-                            <p className="small-grey-font">This is for anyone curious about why we are here, the nature of existence, and how we should spend our lives. You may have read some philosophy, or you may have never engaged with the subject before: either way, we’ve distilled philosophy’s best answers so you can quickly approach life’s nagging questions and anxieties in an accessible, organized fashion, and efficiently learn some of the best wisdom from history.</p>
-                        </div>
-                        <div>
-                            <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is delivered over five days, with a new question considered each day. Each day’s materials take about 30 minutes to read through, with an extra ten minutes or so recommended for reflection. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
-                        </div>
-                    </div>
-                    <div className="two-col align-top">
-                        <div>
-                            <h4>How is the course delivered?</h4>
-                            <p className="small-grey-font">Course materials are delivered directly to your email inbox each day over five days. They are optimized for easy reading on any device — be it desktop, laptop, tablet, or mobile — and are even printable, so you can consume them however you like.</p>
-                        </div>
-                        <div>
-                            <h4>What if I miss a day?</h4>
-                            <p className="small-grey-font">If over the five days of the course you miss a day, don’t worry — you’ll have access to course materials forever, and can come back to anything at any time and take everything at your own pace. </p>
-                        </div>
-                    </div>
-                    <div className="two-col align-top">
-                        <div>
-                            <h4>Who created the course?</h4>
-                            <p className="small-grey-font">This course is brought to you by Philosophy Break, a self-funded social enterprise dedicated to getting more people engaged with philosophy. Course content is put together by the founder of Philosophy Break, <a target="_blank" href="/about">Jack Maden</a>, who received an MA in Philosophy from the University of Southampton in 2014, and has been producing educational resources and writing about philosophy ever since. Having obtained great value researching philosophy at postgraduate level, Jack wanted to share the subject’s riches with a wider audience, and created Philosophy Break in 2018. This course is the result of years of research and refinement to make philosophy’s profound and important wisdom as relevant, interesting, and engaging to today’s digital world as possible.</p>
-                        </div>
-                        <div>
-                            <h4>Where do profits from the course go?</h4>
-                            <p className="small-grey-font">Philosophy Break is a self-funded social enterprise, so we put all proceeds straight back into funding our mission of engaging more people with philosophy. By purchasing a course, you help support us on that mission.</p>
-                            <p className="small-grey-font">Have a question not answered here? Simply <a href="mailto:hello@philosophybreak.com">drop us an email</a>, and we’ll be happy to answer!</p>
-                        </div>
-                    </div>
-                    <div className="large-pad mid-width text-center">
-                        <h2 className="small-mar">It’s Time to Begin Your Philosophical Journey</h2>
-                        <div className="separator"></div>
-                        <p className="small-grey-font">Start now, and by this time next week, you’ll understand philosophy’s top wisdom, have clarity on exactly which topics interest you, and know the best next steps for continuing your philosophical journey.</p>
-                        <div className="small-width">
-                            <CheckoutLBQ />
-                            <div className="large-mar-top">
-                                <AnchorLink className="no-hover" href="#top"><button className="button primary" style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Back to Top</button></AnchorLink>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="small-pad"></div>
-                </div>
-                
-            </div>
-        </div>*/}
     </Layout>
     </>
     )
@@ -353,6 +372,11 @@ export const query = graphql`{
     }
   }
   chapter7: file(relativePath: {eq: "7-effective-altruism.png"}) {
+    childImageSharp {
+      gatsbyImageData(quality: 90, layout: CONSTRAINED)
+    }
+  }
+  welcome: file(relativePath: {eq: "academy-welcome.png"}) {
     childImageSharp {
       gatsbyImageData(quality: 90, layout: CONSTRAINED)
     }

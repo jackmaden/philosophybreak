@@ -64,12 +64,9 @@ const Page = ( {data} ) => {
           </div>
         </div>
 
-        
-        <PanelLBQ flexdirection="row-reverse" />
-
-        <PanelNietzsche flexdirection="row" />
-
         <PanelPFL />
+        <PanelNietzsche flexdirection="row" />
+        <PanelLBQ flexdirection="row-reverse" />
 
         <HomeArticleList />
         <SubscriptionFormSmall />

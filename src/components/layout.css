@@ -49,6 +49,7 @@ figure.gatsby-resp-image-figure.big-image {margin: 2.2em 0 2em;}
 @media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0 !important;} .no-pad-top-mob {padding-top: 0;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
+.small-pad-mob-mid-pad-desk {padding: 24px 0;}
 .tiny-pad-bottom {padding-bottom: 12px;}
 .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 24px;}
 .small-mar {margin: 24px 0;}
@@ -101,6 +102,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 }
 @media (min-width: 1020px) {
   .small-pad-desktop {padding: 24px 0;}
+  .small-pad-mob-mid-pad-desk {padding: 48px 0;}
   .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 48px;}
   .no-pad-desktop {padding: 0;}
   .no-pad-top-desktop {padding-top: 0;}
@@ -417,9 +419,10 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .coursepanel a {text-decoration: none;}
 .coursepanel a:hover h3 {text-decoration: underline; text-decoration-color: #36b4ff; background-color: #36b4ff; background-image: linear-gradient(to right, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;}
 .coursepanel h3 {font-size: 34px;}
-.coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span {color: #001d30;}
+.coursepanel h3.pfl {font-size: 33px;}
+.coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span, .coursepanel.grey-background > a > div > div.mobile-center > p.no-mar-top > span {color: #001d30;}
 .coursepanel a.white-underline {text-decoration: underline;}
-@media (min-width: 620px) {.coursepanel h3 {font-size: 40px;}}
+@media (min-width: 620px) {.coursepanel h3 {font-size: 40px;} .coursepanel h3.pfl {font-size: 36px;}}
 
 
 /*course load more reviews*/

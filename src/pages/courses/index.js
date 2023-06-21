@@ -27,9 +27,10 @@ const Page = ({ location }) => {
         <TopTitle class="no-mar-bottom" title="Online Philosophy Courses" subtitle="Explore our introductory philosophy courses, where you can learn the subject’s greatest wisdom in days rather than years." />            
         </div>
         
-        <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
+        <PanelPFL class="grey-background course" fill="#001d30" />
+        <PanelLBQ />
         
-        <PanelPFL />
+        
 
         <PanelNietzsche flexdirection="row" />
 
