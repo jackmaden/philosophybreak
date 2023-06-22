@@ -60,6 +60,7 @@ export class Navigation extends React.Component {
                                 <Link to="/reading-lists/">Reading Lists</Link>
                                 <Link to="/articles/">Latest Breaks</Link>
                                 <Link to="/about/">About Us</Link>
+                                <a target="_blank" rel="noopener noreferrer" href="https://academy.philosophybreak.com/">Sign In</a>
                             </div>
                             <div id="menu-trigger" onClick={this.toggleMenu} className={this.state.class + " hideForNonSimpleMenu"}>
                                 <span>MENU</span>
@@ -110,6 +111,14 @@ export class Navigation extends React.Component {
                                     <h5>About Us</h5>
                                 </div>
                             </Link>
+                        </li>
+                        <li>{/*<!--sign in-->*/}
+                            <a target="_blank" rel="noopener noreferrer" href="https://academy.philosophybreak.com/">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 288c79.5 0 144-64.5 144-144S335.5 0 256 0 112 64.5 112 144s64.5 144 144 144zm128 32h-55.1c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16H128C57.3 320 0 377.3 0 448v16c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48v-16c0-70.7-57.3-128-128-128z"/></svg>
+                                    <h5>Sign In</h5>
+                                </div>
+                            </a>
                         </li>
                         <li>{/*<!--instagram-->*/}
                             <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">
