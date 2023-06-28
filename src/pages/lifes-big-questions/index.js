@@ -48,7 +48,7 @@ const Page = ({ data, location }) => {
             {/*latest reviews*/}
             <div className="small-pad">
                 <div className="page-center text-center">
-                    <h4 style={{fontWeight: "900"}} className="no-mar-bottom">Latest Course Reviews:</h4>
+                    <h4 style={{fontWeight: "800"}} className="no-mar-bottom">Latest Course Reviews:</h4>
                     <ReviewsLatestLBQ />
                     <p className="no-mar-bottom"><AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>See All Reviews</AnchorLink></p>
                 </div>

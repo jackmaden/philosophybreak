@@ -26,6 +26,20 @@ No wonder poor Lee Se-dol regards any possibility of reclaiming his 'best ever p
 
 <span class="big-letter">A</span>ccomplishments in AI like the AlphaGo project have led some commentators to worry that, eventually, all this deep learning could get a bit out of control, culminating in a catastrophe event that’s become known as the ‘singularity’. 
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 As philosopher David J. Chalmers puts it in his paper, [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf):
 
 >What happens when machines become more intelligent than humans? One view is that this event will be followed by an explosion to ever-greater levels of intelligence, as each generation of machines creates more intelligent machines in turn. This intelligence explosion is now often known as the ‘singularity’.
@@ -79,6 +93,20 @@ As Dennett forcefully puts it:
 >Systems that deliberately conceal their shortcuts and gaps of incompetence should be deemed fraudulent, and their creators should go to jail for committing the crime of creating or using an artificial intelligence that impersonates a human being.
 
 This might seem alarmist, but Dennett’s argument should be considered in the context of how societies currently operate. 
+
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
+</div>
 
 Comprehension is already spread thin amongst various power structures. Politicians know some things; scientists and professors know some things; business leaders know some things; emergency services know some things — but nobody knows everything. Specialization in society is rife. And if we start ceding that specialist knowledge to machines, then just as society becomes more complex humans will know less about how to deal with it.
 

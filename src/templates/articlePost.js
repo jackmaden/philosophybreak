@@ -10,9 +10,7 @@ import { ScrollProgressBar } from '../components/scrollProgressBar'
 import SubscriptionForm from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import WatermarkBreak from "../components/watermarkBreak"
-import PanelLBQ from '../components/panelLBQ'
-import PanelPFL from '../components/panelPFL' 
-import PanelNietzsche from "../components/panelNietzsche";
+import WelcomeEmailPanel from "../components/welcomeEmailPanel"
 
 
 const ArticlePost = ({ data, location }) => {
@@ -57,9 +55,7 @@ const ArticlePost = ({ data, location }) => {
 
     {/*post-article*/}
     <div id="post-article-height">
-      <PanelPFL />
-      <PanelNietzsche flexdirection="row" />
-      <PanelLBQ flexdirection="row-reverse" />
+      <WelcomeEmailPanel />
       <div className="grey-background large-pad">
         <div className="page-center">
           <span className="text-center">

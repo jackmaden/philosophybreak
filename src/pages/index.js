@@ -1,18 +1,16 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
 
 import Seo from '../components/SEO'
 import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
 import SubscriptionForm from '../components/subscriptionForm'
-import { SubscriptionFormSmall } from '../components/subscriptionFormSmall'
 import PanelReadingList from '../components/panelReadingList'
 import PanelLBQ from '../components/panelLBQ'
-import { HomeSubscriptionForm } from "../components/homeSubscriptionForm";
 import PanelNietzsche from "../components/panelNietzsche";
-import PanelPFL from "../components/panelPFL";
 import HomeArticleList from "../components/homeArticleList";
+import WelcomeEmailPanel from "../components/welcomeEmailPanel";
 
 const Page = ( {data} ) => {
 
@@ -40,23 +38,26 @@ const Page = ( {data} ) => {
     <>
     <Seo title="Philosophy Break – Your Home for Learning about Philosophy" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
-    <Navigation bg="light-bg" />
+    <Navigation />
 
         {/*DISABLE MEDIAVINE ADS*/}
         <div id="mediavine-settings" data-blocklist-all="1" ></div>
 
         {/*page title*/}
-        <div className="grey-background top-title home">
+        <div className="darkradial-background top-title home">
           <div className="two-col big-2-col page-center">
             <div className="mobile-center">
-              <span className="tag time home" style={{marginBottom: "12px", color: "#001d30"}}>
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
-              <h1 id="home-page">The wisdom of philosophy can be life-changing. We’re here to help you unlock it.</h1>
+
+              {/*morning/afternoon/evening greet*/}
+              <span className="tag time home" style={{marginBottom: "12px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
+
+              <h1 id="home-page">Explore how 7 of the world’s wisest philosophies think you can live a happier, more fulfilling life</h1>
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font home">Get started with our free, popular, 3-lesson email course on what philosophy is and how it can transform your life:</p>
-              <HomeSubscriptionForm />
+              <p className="large-grey-font home">Quickly compare the wisdom of Stoicism, Existentialism, Buddhism and beyond to enrich your own way of life — and perhaps achieve happiness. Explore our popular new course:</p>
+              <Link className="button primary full-width" to="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</Link>
+              <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(50+ reviews for our courses)</span></p>
             </div>
             <div>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" loading="eager" />
@@ -64,13 +65,13 @@ const Page = ( {data} ) => {
           </div>
         </div>
 
-        <PanelPFL />
-        <PanelNietzsche flexdirection="row" />
-        <PanelLBQ flexdirection="row-reverse" />
-
         <HomeArticleList />
-        <SubscriptionFormSmall />
+        <WelcomeEmailPanel />
         <PanelReadingList />
+        
+        <PanelLBQ flexdirection="row-reverse" />
+        <PanelNietzsche flexdirection="row" />
+        
         <SubscriptionForm />
     </Layout>
     </>
@@ -83,7 +84,7 @@ export const query = graphql`{
       gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
     }
   }
-  home: file(relativePath: {eq: "pb-basics.png"}) {
+  home: file(relativePath: {eq: "PFL-mob.png"}) {
     childImageSharp {
       gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
     }

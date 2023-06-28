@@ -37,6 +37,20 @@ While Nietzsche is no fan of Christianity, he recognizes that the removal of its
 
 Erode Christian values — erode the coping mechanism — and how will people bear existence? As [Kierkegaard also questions when discussing purpose in life](/articles/kierkegaard-on-finding-the-meaning-of-life/), how will humanity stand the yawning abyss of meaninglessness? How will they deal with the inevitable pain and suffering that all humans, living imperfect mortal lives, must face?
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 ## The Last Man
 
 <span class="big-letter">N</span>ietzsche worried that, if we’re not careful, the death of God would lead to a deep nihilism. Recognizing Western values (derived from Christianity) as foundationless, yet not proactively replacing them with anything, we’d inevitably end up burying our existential angst deep down. We’d pick our fates from one of the following: delude ourselves with false beliefs, become irretrievably depressed, or distract ourselves with vacuous pursuits and meaningless entertainment. 
@@ -73,6 +87,20 @@ With work, we can shape ourselves into something beautiful — where even the ug
 
 The target of self-discipline, then, should not be self-castigation or self-loathing or repression — as Nietzsche thinks it often is with ascetic religious traditions — but rather self-stylization and _mastery_. 
 
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
+</div>
+
 Not the rejection of our desires, not the denial of the urges and forces that make up our lives, but the sublimation, sculpting and channeling of them into a psychologically healthy and beautiful creation, an aesthetic whole. As Nietzsche finishes the passage:
 
 >In the end, when the work is complete, it becomes clear how it was the force of a _single taste_ that ruled and shaped everything great and small…
@@ -87,7 +115,11 @@ For, Nietzsche suggests, it is by living up to an independent _aesthetic_, rathe
 
 Rather than look externally, the Übermensch is his _own_ determiner of value. He transcends the petty needs of ‘man’ and moves beyond illusions to live and take joy in the _here_ and _now_ of life on Earth. He affirms his own character, and has the power and fortitude to say ‘yes’ to all of life’s joys and all of life’s pains.
 
-<div class="course-promo darkradial-background text-center"><h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+</div>
 
 So, though some popular interpretations of Nietzsche’s concept of the Übermensch say it hints at some sort of superior human _race_ — as the Nazis, for instance, tragically had it — it is more about _self_-overcoming, rather than necessarily overcoming other people. As the philosopher Jacob Golomb puts it in his 2013 essay, _Will to Power_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>): 
 
@@ -141,4 +173,8 @@ Regardless of its accessibility, here are some additional questions we might hav
 
 <span class="big-letter">T</span>o explore these questions and Nietzsche’s general philosophy further, check out our [introduction to Nietzsche course](/introduction-to-nietzsche/), which delivers materials direct to your inbox over 6 days. 
 
-<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+</div>

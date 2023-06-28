@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -46,6 +47,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Philosophy of Language, by Scott Soames</h2>
             <BookLink title="Philosophy of Language" author="Scott Soames" link="http://www.amazon.com/gp/product/0691155976/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0691155976&linkId=63f70f7ac5f5eac89926da9c71cb770f" img={data.two.childImageSharp.gatsbyImageData} />
             <p>American philosopher Scott Soames is himself a significant contributor to the field of contemporary philosophy of language. In his 2010 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0691155976/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0691155976&linkId=63f70f7ac5f5eac89926da9c71cb770f">Philosophy of Language</a>, Soames sets out to introduce the history and core themes of the subject, touching on its development over the 20th century, before sharing his vision for where the subject will go in future. A brilliant outline of the philosophy of language by one of its leading contemporary thinkers, this book is highly recommended for all serious students of the subject.</p>
+
+            <BigSubscribe />
             
 
             <h2>3. The Philosophy of Language (6th Edition), by A. P. Martinich & David Sosa</h2>

@@ -30,7 +30,11 @@ On reading the quotation we feel inclined to join the dancers and to condemn the
 
 So, the take-home message appears to read thus: just because you don’t understand or respond to something, that doesn’t make it insane.
 
-<div class="course-promo darkradial-background text-center"><h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+</div>
 
 Now, why is Nietzsche opining this kind of thought? The answer, in fact, might simply be: well, he's not — for it is unclear whether he actually directly wrote our quotation at all. Indeed, [a whole host of writers](https://quoteinvestigator.com/2012/06/05/dance-insane/) could lay claim to being its source — and we didn't find it in any of his works when collating our list of [Nietzsche's 97 cleverest and most provocative quotations](/articles/nietzsche-quotes-97-of-his-cleverest-statements/).
 
@@ -44,8 +48,6 @@ This pairing — that not understanding something doesn’t mean you can dismiss
 
 <span class="big-letter">P</span>erspectivism, as the name suggests, is a way of viewing the world through combining differing perspectives. There is not one objective and eternally _true_ way to view or understand the world, Nietzsche suggests, but rather a multitude of differing perspectives that are subject to cultural, societal and biological limitations. As he puts it in a famous aphorism, “There are no facts, only interpretations.” Indeed, philosophers down the ages who declare to have found objective truth have never taken their own biased perspectives into account. Accordingly, it is only through combining these different views that we can begin to appreciate a broader understanding of the universe we live in.
 
-<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
-
 This might seem an obvious point — hardly profound — but perspectivism, as well as [the extent to which Nietzsche truly advocated it](http://nautil.us/blog/nietzsche-is-not-the-proto_postmodern-relativist-some-have-mistaken-him-for) (as opposed to wielding it to undermine objective thinking), is rather controversial, for it points to a _relativist_ attitude towards truth. 
 
 Astrophysicists, for instance, would certainly dismiss the idea that there are a number of different ways to think about, say, the nature of the universe. That life is governed by the laws of physics, they would argue, rests on solid mathematical foundations and myriad experiential data: it is _the_ correct way to think about the universe.
@@ -55,6 +57,20 @@ Astrophysicists, for instance, would certainly dismiss the idea that there are a
 Science’s descriptions have contributed more to the human condition and cohere better with reality than any theological, spiritual, romantic or philosophical viewpoint ever has or indeed could. So, feel free to label all the non-evidence based subjects as mere perspectives, but leave science out of it.
 
 Is perspectivism thus a load of rubbish? Does the deeper reading of our quotation merely reveal a flawed idea? Well, let’s consider how proponents of perspectivism could respond.
+
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
+</div>
 
 Sure, they might say, science has been remarkably successful at explaining and harnessing nature for our benefit, but like everything else it remains a human construct.
 

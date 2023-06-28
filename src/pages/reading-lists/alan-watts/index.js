@@ -8,8 +8,9 @@ import { Navigation } from "../../../components/navigation"
 import { ScrollProgressBar } from '../../../components/scrollProgressBar'
 import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
-import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import CtaReadingList from "../../../components/ctaReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -42,6 +43,8 @@ const ReadingList = ({ data, location }) => {
             <h2>3. The Way Of Zen, by Alan Watts</h2>
             <BookLink title="The Way Of Zen" author="Alan Watts" link="http://www.amazon.com/Way-Zen-Alan-W-Watts/dp/0375705104?&linkCode=ll1&tag=philosophybre-20&linkId=0f19fd4624f6eeb8b271577c9a30146f&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />
             <p>In his highly influential 1957 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Way-Zen-Alan-W-Watts/dp/0375705104?&linkCode=ll1&tag=philosophybre-20&linkId=0f19fd4624f6eeb8b271577c9a30146f&language=en_US&ref_=as_li_ss_tl">The Way Of Zen</a>, Watts provides his definitive introduction to Zen Buddhism. This work played a significant role in introducing the principles and practices of this ancient religion and philosophy to a Western audience, and is still routinely celebrated today as a fantastic introductory text  (for more here, see our reading list of the <Link to="/reading-lists/buddhist-philosophy/">best books on Buddhism</Link>). Watts splits his work into two sections, ‘Background and History’, and ‘Principles and Practice’, offering readers everything they need to begin understanding the enduring wisdom of Zen Buddhism.</p>
+
+            <BigSubscribe />
 
             <h2>4. The Joyous Cosmology: Adventures in the Chemistry of Consciousness, by Alan Watts</h2>
             <BookLink title="The Joyous Cosmology: Adventures in the Chemistry of Consciousness" author="Alan Watts" link="http://www.amazon.com/Joyous-Cosmology-Adventures-Chemistry-Consciousness/dp/1608682048?&linkCode=ll1&tag=philosophybre-20&linkId=8da84f5763e74b5a5ff7127a68c04a03&language=en_US&ref_=as_li_ss_tl" img={data.four.childImageSharp.gatsbyImageData} />

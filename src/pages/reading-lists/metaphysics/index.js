@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -29,6 +30,8 @@ const ReadingList = ({ data, location }) => {
             <p>All these questions and more form the basis of the branch of philosophy known as <i>metaphysics</i>. While <Link to="/reading-lists/epistemology/">epistemology is the study of knowledge</Link> and asks how we can know anything, metaphysics investigates the fundamental nature of reality itself, as well as our experience of it. Who or what is the self? What is the world that the self finds itself in? What is the nature of existence at all?</p>    
 
             <p>Considering such disparate lines of inquiry, it’s not always easy to grasp exactly what metaphysics is all about (and many philosophers in fact disagree on what it is or indeed should be all about). So, before diving into the best books of metaphysics, if you’re interested in quickly learning more about metaphysics generally, check out our brief <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">introduction to what metaphysics is, how it relates to the sciences, and why it’s important today.</Link></p> 
+
+            <BigSubscribe />
 
             <p>Otherwise, this reading list puts together the top ten books of and about the philosophical branch of metaphysics. It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the grand metaphysics figureheads themselves. Let’s jump in!</p> 
 

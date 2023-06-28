@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -29,6 +30,8 @@ const ReadingList = ({ data, location }) => {
             <p>Locke’s work has had a profound influence on the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>. In <Link to="/reading-lists/epistemology/">epistemology</Link>, for example, Locke reacted against the rationalism of thinkers like <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/">Descartes (‘I think therefore I am’)</Link>, and set in motion the great chain of empirical philosophy that would follow with philosophers like <Link to="/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/">George Berkley</Link> and David Hume.</p>
 
             <p>In <Link to="/reading-lists/political-philosophy/">political philosophy</Link>, meanwhile, Locke’s emphasis on clearly separating Church and State had a pivotal impact on French thinkers like <Link to="/reading-lists/voltaire/">Voltaire</Link> and Rousseau, as well as the Founding Fathers of the United States. In fact, a passage from Locke’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0486424642/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0486424642&linkId=dfa7ae0d2efd4cc9a965866ed9a19c4e">Second Treatise of Government</a> is reproduced verbatim in the US Declaration of Independence.</p>
+
+            <BigSubscribe />
 
             <p>Given these contributions, the late philosopher Bryan Magee argues there’s a case to be made that Locke is the most influential philosopher since the great <Link to="/reading-lists/aristotle/">ancient Greek thinker Aristotle</Link>. Summarizing Locke’s legacy in his philosophical memoirs, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368">Confessions of a Philosopher</a>, Magee writes:</p>
 

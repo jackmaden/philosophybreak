@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -41,6 +42,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Machiavelli: A Biography, by Miles Unger</h2>
             <BookLink title="Machiavelli: A Biography" author="Miles Unger" link="http://www.amazon.com/Machiavelli-Biography-Miles-Unger/dp/1416556303?&linkCode=ll1&tag=philosophybre-20&linkId=35f62aaf1e07894d4bc2bd53688ceb5a&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>If you’re seeking to dive a little deeper with your Machiavelli scholarship, look no further than Miles Unger’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Machiavelli-Biography-Miles-Unger/dp/1416556303?&linkCode=ll1&tag=philosophybre-20&linkId=35f62aaf1e07894d4bc2bd53688ceb5a&language=en_US&ref_=as_li_ss_tl">Machiavelli: A Biography</a>, first published in 2011. Unger brings to life the tumultuous events that shaped Machiavelli as a thinker. He argues that, beyond the sinister caricature, the real Machiavelli was a highly compassionate and insightful writer who simply developed his controversial ideas in response to the corrupt and violent conditions he witnessed. With its 424 pages packed full of insight, this book is a brilliant accompaniment for those seeking a deeper understanding of Machiavelli’s thought.</p>
+
+            <BigSubscribe />
             
             
             <h2>3. The Prince, by Niccolò Machiavelli</h2>

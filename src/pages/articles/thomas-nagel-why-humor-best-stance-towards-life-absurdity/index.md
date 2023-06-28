@@ -30,6 +30,20 @@ In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files
 
 We are consumed by the act of living: we follow careers or chase happiness or cultivate a certain lifestyle. But even in the day-to-day heat of this pursuit, we possess a strange ‘meta’ capacity to step back and recognize the highly specific nature of the rituals we follow, the arbitrariness of the goals we have, knowing our purposes would be very different if our circumstances were different — but _continuing to follow and pursue them as if they're all-important anyway_. 
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 The inadequate expressions of absurdity mentioned earlier — our insignificance due to small size and short lifespan — are thus revealed to simply be metaphors for this 'meta' perspective: “by feigning a nebula's-eye view,” Nagel explains, “we illustrate the capacity to see ourselves without presuppositions, as arbitrary, idiosyncratic, highly specific occupants of the world, one of countless possible forms of life.”
 
 Compare our existential situation to that of mice, Nagel advises. Like us, mice have to work to stay alive. But unlike us their existences aren’t absurd. This is because mice lack the required capacity for self-consciousness and self-transcendence that would enable them to see that they’re only mice. 
@@ -53,6 +67,20 @@ If a mouse _were_ to suddenly gain such abilities, Nagel writes, “his life _wo
 >Camus rejects suicide and the other solutions he regards as escapist. What he recommends is defiance or scorn. We can salvage our dignity, he appears to believe, by shaking a fist at the world which is deaf to our pleas, and continuing to live in spite of it. This will not make our lives un-absurd, but it will lend them a certain nobility. This seems to me romantic and slightly self-pitying.
 
 For Nagel, “our absurdity warrants neither that much distress nor that much defiance.” Instead, we should recognize absurdity not as a demand for heroism but rather as a “manifestation of our most advanced and interesting characteristics”, arising from our incredible human ability for self-transcendence.
+
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
+</div>
 
 Indeed, if our sense of the absurd arises as a result of our advanced capability to perceive our true situation in the universe, then what possible reason can we have to resent or escape it? As Nagel concludes:
 

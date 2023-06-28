@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 
 const ReadingList = ({ data, location }) => {
@@ -36,6 +37,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. A New History of Western Philosophy, by Anthony Kenny</h2>
             <BookLink title="A New History of Western Philosophy" author="Anthony Kenny" link="http://www.amazon.com/gp/product/0199656495/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199656495&linkId=446f947fc36e3824faaf4492714deaf4" img={data.two.childImageSharp.gatsbyImageData} />
             <p>Anthony Kenny, a highly thought of philosopher in his own right, is the first person since Russell to attempt a complete, single-authored history of Western philosophy. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0631201327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0631201327&linkId=90456aeb8e19235364653210179e838b">A New History of Western Philosophy</a>, first published in 2007, is epic in scope and lauded as one of the strongest and best-researched introductions to the subject. Kenny combines rich biographical context with academic rigour to create a wonderfully lucid account of philosophy's development. It's an essential book to have on the shelf for anyone interested in philosophy.</p>
+
+            <BigSubscribe />
             
 
             <h2>3. A Brief History of Western Philosophy, by Anthony Kenny</h2>

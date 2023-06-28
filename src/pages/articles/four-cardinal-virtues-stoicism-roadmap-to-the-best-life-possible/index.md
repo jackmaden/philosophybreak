@@ -33,6 +33,20 @@ The Stoics might respond that, well, the life of excellence _is_ demanding. Bein
 
 No one is born with mastery of the four cardinal virtues. We must work at them, _all_ the time. This is what it takes to live a life we can ultimately be proud of, the Stoics think. 
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 The demanding nature of Stoicism is what leads the three major Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/)). 
 
 ![Seneca, Epictetus, and Marcus Aurelius](./the-roman-stoics.jpg "Though all lived in the Roman Empire in the first and second centuries, the lives of the Roman Stoics were very different. Seneca (4 BCE - 65 CE), left, was adviser to the Roman Emperor Nero, and was eventually exiled and forced to take his own life, as depicted in Peter Paul Rubens’ famous 1615 painting. Epictetus (50 CE - 135 CE), center, was a slave who gained his freedom and set up a philosophical school. Marcus Aurelius (121 CE - 180 CE), right, was Emperor of Rome during a time of constant crisis, be it war or plague, and outlived most of his children.")
@@ -86,9 +100,11 @@ While Epicureans have the fourfold cure (which summarizes the first four aphoris
 
 <span class="big-letter">Y</span>ou can learn exactly what the dichotomy of control entails — as well as additional Stoic advice for mastering our emotions, dealing with adversity, living up to the four cardinal virtues, and facing up to death (as [Seneca advises in his essay, On the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)) — in our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/). 
 
-<div class="course-promo darkradial-background text-center">
+<!--how to live a good life-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="http://localhost:8000/static/814f63412cb3a1498dd51734305fbf64/48a0d/how-to-live-a-good-life.webp" alt="how to live a good life">
     <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
-    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-    <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <p class="small-grey-font">Enhance your approach to life by exploring 7 great philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a>
+    <p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
 </div>

@@ -36,12 +36,20 @@ Of course, there is overlap with the sciences here — notably physics — and w
 
 But, when it comes to reality, some philosophers argue there are questions that go beyond the scope of physics (after all, physics investigates _what we are able_ to investigate, and philosophers have long suspected that what we are able to investigate may not be all there is). Beyond or right on the edge of physics’ scope is thus where metaphysicians generally reside, restless in their creaking upholstery.
 
-<div class="course-promo darkradial-background text-center">
-    <h4>Life’s Big Questions: Why Does Anything Exist?</h4>
-    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
-    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
-    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
 </div>
+
 
 A quick, dirty, and by no means foolproof way to distinguish metaphysics from the sciences is as follows: the sciences concern the specific ‘how’ of reality, metaphysics concerns the general ‘what’ and ‘why’.
 
@@ -63,11 +71,12 @@ Metaphysics is a rabbit hole about which many disagree. Beyond the general lines
 
 Well, defenders of metaphysics might state that it’s only by running up against the limitations of our language, by attempting to be clear-sighted at the hazy frontiers of our knowledge, that we can inch-by-inch, foot-by-foot, make progress. 
 
-<div class="course-promo darkradial-background text-center">
-    <h4>Life’s Big Questions: Your Concise Shortcut to Philosophy’s Most Important Wisdom</h4>
-    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+<!--life's big questions-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/191eedda0ed03573e27212c1652b5826/bef54/Chapter1-full2.webp" alt="life's big questions">
+    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
     <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
-    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
 </div>
 
 Metaphysics adds a level of conceptual rigor and clarity that can only improve the steadfastness of our knowledge: it is not here to compete with or replace any other fields, it is here as a necessary supplement to them in our quest for truth about reality. Indeed, some argue that there is no real need to create a hard distinction between metaphysics and the sciences at all, for their aims are continuous and complementary. 

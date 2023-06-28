@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -39,6 +40,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Justice: What’s the Right Thing to Do? By Michael J. Sandel</h2>
             <BookLink title="Justice: What’s the Right Thing to Do?" author="Michael J. Sandel" link="http://www.amazon.com/gp/product/0374532508/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0374532508&linkId=366c35d1ab6ddb6964933ff6d038f696" img={data.two.childImageSharp.gatsbyImageData} />
             <p>Based on his legendary Harvard course, Michael J. Sandel’s 2008 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0374532508/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0374532508&linkId=366c35d1ab6ddb6964933ff6d038f696">Justice: What’s the Right Thing to Do?</a> introduces readers to the philosophical concepts that lurk beneath contemporary conflicts in politics and beyond. While Sandel discusses core approaches to <Link to="/reading-lists/ethics-and-morality/">ethics and morality</Link>, he structures the conversation around contemporary political and societal concerns, touching on such issues as affirmative action, same-sex marriage, physician-assisted suicide, abortion, national service, the moral limits of markets, and more. For anyone interested in the ideologies and thinking that drive many of today’s most contentious issues, this is a hugely informative and entertaining read.</p>
+
+            <BigSubscribe />
             
 
             <h2>3. Arguing About Political Philosophy, by Matt Zwolinski</h2>

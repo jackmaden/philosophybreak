@@ -30,10 +30,18 @@ We caught up with Meghan and Paul about the value of philosophy and the story be
 
 <b>Paul:</b> Philosophy can help free us from misconceptions about ourselves, and from some of our most persistent worries. One example of this comes to us from [the Stoics](/reading-lists/stoicism/), who noticed that we tend to become very invested in “worldly goods” like money, power, and even health. But these are things that can be taken away from us in an instant, and we really don’t have as much control over them as we might like to think. Luckily, in their view, these aren’t what we should be building our lives around anyway. By refocusing on virtue, on the way we react to changes in our life, we can bring our mind back to what really matters. This process, which they see as a kind of philosophical meditation, can put our anxious minds at ease, and can help us “detach” from things we really can’t control anyway. 
 
-<div class="course-promo text-center">
-    <h4>Philosophy in Your Twitter Feed</h4>
-    <p class="small-grey-font">Follow Philosophy Break on Twitter to get philosophy's best questions, wisdom, and ideas directly in your Twitter feed.</p>
-    <a target="_blank" rel="noopener noreferrer" class="button secondary" href="https://twitter.com/philosophybreak"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>Follow Philosophy Break</a>
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
 </div>
 
 ## What would be your response to someone who dismisses philosophy as boring, outdated, or unimportant? 
@@ -54,10 +62,18 @@ We caught up with Meghan and Paul about the value of philosophy and the story be
 
 <b>Meghan:</b> Suffering, loss, and death are challenges to the good life, no doubt. We cannot predict which kinds of suffering and loss we will have to face, or even when death will come. Philosophy can help us in at least three ways. First, it can help us understand what we are and are not responsible for, and that responsibility will guide us in understanding how we feel about loss and how we will understand its meaning in the context of the rest of our lives. Second, philosophy can help us develop virtues like courage, love, and faith before we need such traits to carry us through a challenging time. Finally thinking philosophically about death — what it will mean, what you hope for after this life — will often clarify what really matters to you in this life.   
 
-<div class="course-promo text-center">
-    <h4>Learn the Basics of Philosophy</h4>
-    <p class="small-grey-font">Expand your mind with our free, popular, 3-part email course, which delivers our quickfire introductory materials direct to your inbox.</p>
-    <a class="button secondary" href="/philosophy-basics/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg>Start Learning Now</a>
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
 </div>
 
 <b>Paul:</b> I’ve been thinking about suffering from lots of different philosophical angles for years now. In college, I always thought that the problem of suffering, or the “problem of evil,” was one of the biggest problems for religious belief. How can an all good, all powerful God allow the kind of suffering we see in the world? But I always bristled at the way philosophers would try to deal with this problem — quantifying pain or nit-picking about what counts as “gratuitous” suffering. Still, I figured the arguments were more or less good. But then I encountered some real suffering when my son was born. He had a cyst in his mouth, and we initially weren’t sure if he was going to survive delivery. After he did, we were sent to a children’s hospital to await testing to see if it was a malignant tumor of some sort. In that experience, it was actually a different wisdom tradition — the book of Job, and Ecclesiastes — that spoke loudest to me. In these texts, suffering is seen as a part of an incomprehensibly vast universe. There are parallels with the Stoics, actually, in the way that the cosmos is described by God to Job as he shows him stars collapsing and unimaginably large creatures in the sea. That encounter helped me to appreciate the perspective we need to take when thinking philosophically about suffering and death, and it helped me see the philosophical continuity in several different philosophical traditions I’d never connected before.

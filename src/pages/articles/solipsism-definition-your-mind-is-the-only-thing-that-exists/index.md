@@ -37,6 +37,20 @@ In his 1893 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 So, though perhaps ridiculous at face value, solipsism actually provides a surprisingly difficult logical puzzle — one which many philosophers throughout history have wrestled with, perhaps most famously René Descartes with his [“I think, therefore I am”](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) statement, which places sustained focus on the problems solipsism raises, as we outline in our short [_cogito ergo sum_ explainer piece](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/).
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 ## What are some counterarguments to solipsism? 
 
 <span class="big-letter">B</span>eyond Descartes, a huge number of philosophers have attempted to refute solipsism over the years, but a universally-accepted logical refutation has proven rather elusive. Many philosophers revert to simply arguing against solipsism’s likelihood, rather than providing logical refutations. 
@@ -125,17 +139,10 @@ But perhaps another view to take would be that the very inescapable nature of ou
 
 <span class="big-letter">I</span>f you’re intrigued to learn more about philosophy, but not sure where to start, check out our [5-day introductory philosophy course](/lifes-big-questions), which distills the great philosophers’ best answers to life’s big questions, including how we should live, whether we have free will, if perception is reality, and why anything exists. 
 
-See if it’s for you by hitting the banner below to learn more now: 
-
-<div class="article white">
-    <a href="/lifes-big-questions/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 86.722%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/b150fc2491da6aca8c3e6ce36306c4ec/a7625/Chapter1-full.webp 723w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/b150fc2491da6aca8c3e6ce36306c4ec/b3386/Chapter1-full.png" srcset="/static/b150fc2491da6aca8c3e6ce36306c4ec/b3386/Chapter1-full.png 723w" alt="Introduction to Philosophy: Life’s Big Questions" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>5-Day Introduction to Philosophy: Life’s Big Questions</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
+<!--life's big questions-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/191eedda0ed03573e27212c1652b5826/bef54/Chapter1-full2.webp" alt="life's big questions">
+    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
+    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
+    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
 </div>

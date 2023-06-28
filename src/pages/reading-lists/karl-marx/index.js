@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -40,6 +41,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Why Marx Was Right, by Terry Eagleton</h2>
             <BookLink title="Why Marx Was Right" author="Terry Eagleton" link="http://www.amazon.com/Why-Marx-Right-Terry-Eagleton/dp/0300231067?&linkCode=ll1&tag=philosophybre-20&linkId=db0cfc6ee36e10ee118d0496e7de1bfb&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>In his accessible 2011 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Why-Marx-Right-Terry-Eagleton/dp/0300231067?&linkCode=ll1&tag=philosophybre-20&linkId=db0cfc6ee36e10ee118d0496e7de1bfb&language=en_US&ref_=as_li_ss_tl">Why Marx Was Right</a>, popular literary theorist Terry Eagleton takes common criticisms of Marxism and shows why they are often based on misconceptions of what Marxism actually is, and aims to demonstrate how Marxist critiques of capitalism are as alive and relevant today as ever before. This book thus doubles as an introductory clarification on exactly what Marxism entails, as well as a deeper discussion of its most common critiques. Eagleton writes engagingly with wit and intelligence, making this a great addition to the bookshelf of anyone interested in learning more about Marx and Marxism.</p>
+
+            <BigSubscribe />
             
             
             <h2>3. Karl Marx: Greatness and Illusion, by Gareth Stedman Jones</h2>

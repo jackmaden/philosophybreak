@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -39,6 +40,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Kant, by Paul Guyer</h2>
             <BookLink title="Kant" author="Paul Guyer" link="http://www.amazon.com/Kant-Routledge-Philosophers-Paul-Guyer/dp/0415843456?&linkCode=ll1&tag=philosophybre-20&linkId=9890b9e2bc77ff7150d58b18a68812b0&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>If you’re seeking to dive a little deeper with your Kant scholarship, look no further than Paul Guyer’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Kant-Routledge-Philosophers-Paul-Guyer/dp/0415843456?&linkCode=ll1&tag=philosophybre-20&linkId=9890b9e2bc77ff7150d58b18a68812b0&language=en_US&ref_=as_li_ss_tl">Kant</a>, first published in 2006. Guyer carefully explains Kant’s arguments about the nature of space, time, and experience, and also examines his moral philosophy. However, as well as introducing Kant’s ideas, Guyer also provides his own thoughtful analysis, critique, and commentary. With its 521 pages packed full of insight, this book is a brilliant accompaniment for those seeking a deeper understanding of Kant’s thought.</p>
+
+            <BigSubscribe />
             
 
             <h2>3. Critique of Pure Reason, by Immanuel Kant</h2>

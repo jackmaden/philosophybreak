@@ -32,7 +32,7 @@ const Page = ({ data, location }) => {
             <div>
               <GatsbyImage
                 image={data.home.childImageSharp.gatsbyImageData}
-                alt="Philosophy Break" loading="eager" />
+                alt="introduction to philosophy" loading="eager" />
             </div>
           </div>
         </div>

@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -41,6 +42,7 @@ const ReadingList = ({ data, location }) => {
             <BookLink title="The Fountainhead" author="Ayn Rand" link="http://www.amazon.com/Fountainhead-Ayn-Rand/dp/0141188626?&linkCode=ll1&tag=philosophybre-20&linkId=a4e92427cb50eae1a28a9d52ff9d7aa5&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>Turning to Rand’s fiction, and where better to start than with the book often lauded as her first critical success? Published in 1943, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Fountainhead-Ayn-Rand/dp/0141188626?&linkCode=ll1&tag=philosophybre-20&linkId=a4e92427cb50eae1a28a9d52ff9d7aa5&language=en_US&ref_=as_li_ss_tl">The Fountainhead</a> tells the tale of gifted young architect Howard Roark as he seeks to defy conformist public opinion with his works. This provocative novel makes the philosophy that underpins it clear: Rand believes individual ego is the fountainhead of progress, and that nothing should be allowed to stand in its way.</p>
             
+            <BigSubscribe />
             
             <h2>3. Atlas Shrugged, by Ayn Rand</h2>
             <BookLink title="Atlas Shrugged" author="Ayn Rand" link="http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0452011876?&linkCode=ll1&tag=philosophybre-20&linkId=ba5fbf7ac92584ef9b8565abbc42ee62&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />

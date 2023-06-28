@@ -183,42 +183,44 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
   .desktop-no-display {display: none !important;}
 }
 /***headings***/
-h1 {font-size: 36px; font-weight: 900;}
+h1 {font-size: 36px; font-weight: 800;}
 h1#home-page, h1#pfl {font-size: 34px;}
 h1#lbq {font-size: 32px;}
-h2 {font-size: 34px; font-weight: 900;}
+h1#smaller {font-size: 30px;}
+h2 {font-size: 34px; font-weight: 800;}
 #break-start h2 {font-size: 30px; margin: 2em 0 0.5em;}
 #break-start .smaller-h2 h2 {font-size: 24px;}
 h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
-h3 {font-size: 26px; font-weight: 900;}
+h3 {font-size: 26px; font-weight: 800;}
 h3.bigger {font-size: 34px;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
 
 /*contents h5*/
-#break-start h5 {font-weight: 900;}
+#break-start h5 {font-weight: 800;}
 
 @media (min-width: 360px) {
-  h1#home-page {font-size: 36px;}
+  h1#home-page {font-size: 32px;}
 }
 
 @media (min-width: 620px) {
     h1 {font-size: 45px;}
-    h1#home-page {font-size: 41px;}
+    h1#home-page {font-size: 33px;}
     h1#lbq {font-size: 34px;}
-    h1#pfl {font-size: 36px;}
+    h1#pfl, h1#smaller {font-size: 36px;}
     h2 {font-size: 40px;}
     #break-start h2 {font-size: 35px;}
     #break-start .smaller-h2 h2 {font-size: 26px;}
     h3 {font-size: 32px;}
     h3.bigger {font-size: 40px;}
+    h3.medium-big {font-size: 35px;}
     h4 {font-size: 26px;}
     h5 {font-size: 22px;}
 }
 
 @media (min-width: 1120px) {
-    h1#home-page {font-size: 45px;}
-    h1.smaller {font-size: 41px;}
+    h1#home-page {font-size: 37px;}
+    h1#smaller {font-size: 40px;}
 }
 
 /***p and links and verified***/
@@ -271,6 +273,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 .top-title {padding-top: 106px; margin-bottom: 32px; position: relative;}
 .top-title.home {padding-bottom: 36px; margin-bottom: 0;}
 .top-title .large-grey-font {margin-bottom: 0; font-size: 20px;}
+.top-title.home p.large-grey-font {margin-bottom: 18px;}
 .top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
 .top-title.home p.large-grey-font a:hover {color: #fff;}
 .top-title.course {margin-bottom: 0; padding-bottom: 24px;}
@@ -279,7 +282,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 @media (min-width: 620px) {
   .top-title.home p.mid-width {width: 610px;}
   .top-title .large-grey-font {font-size: 22px;}
-  .top-title.home p.large-grey-font {font-size: 24px;}
+  .top-title.home p.large-grey-font {font-size: 22px;}
 }
 
 @media (min-width: 1020px) {
@@ -296,7 +299,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 #nav.reduce-size .page-center {margin-top: 10px;}
 /**logo**/
 a.logo {position: relative; text-decoration: none; transition: 0.2s;}
-a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s;}
+a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s; font-weight: 900;}
 a.logo h3.reduce-size {color: #001d30; font-size: 22px; margin: 6.5px 0 0 8px;}
 #nav.light-bg a.logo h3, #nav.dark a.logo h3 {color: #001d30;}
 #nav.light-bg a.logo h3 span, #nav.dark a.logo h3 span {color: #001d30;}
@@ -312,17 +315,17 @@ a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: pres
   #nav {padding-top:4px;}
   #nav.reduce-size {padding-top: 0;}
   #nav #desktop-links {display: flex;}
-  #nav #desktop-links a {text-decoration: none; margin: 0 18px; color: #fff; font-size: 15px; transition: 0.2s;}
+  #nav #desktop-links a {text-decoration: none; margin: 0 12px; color: #fff; font-size: 15px; transition: 0.2s;}
   #nav.light-bg #desktop-links a {color: #001d30;}
   #nav.light-bg #desktop-links a:hover, #nav.reduce-size #menu-cta #desktop-links a:hover {color: #fff;}
-  #nav #menu-cta a.button.primary {display: block; font-size: 14px; margin: -2px 0 0 24px; padding: 0.85em; transition: 0.2s;}
+  #nav #menu-cta a.button.primary {display: block; font-size: 14px; margin: -2px 0 0 12px; padding: 0.85em; transition: 0.2s;}
   #nav #menu-cta a.button.primary svg {width: 14px; height: 14px; transition: 0.2s;}
   #nav.reduce-size #desktop-links a {color: #001d30; font-size: 14px;}
   #nav.reduce-size #menu-cta a.button.primary {font-size: 13px; padding: 0.8em;}
   #nav.reduce-size #menu-cta a.button.primary svg {width: 13px; height: 13px;}
 }
 @media (min-width: 1120px) {
-  #nav #desktop-links a {margin: 0 22px;}
+  #nav #desktop-links a {margin: 0 20px;}
   #nav.reduce-size #desktop-links a {color: #001d30; font-size: 14px; margin: 0 20px;}
 }
 /**menu trigger**/
@@ -345,7 +348,7 @@ ul#menu li a div {display: flex; align-items: center;}
 ul#menu li.primary.one a div h3, ul#menu li:hover a p.small-grey-font, ul#menu li a:hover p.small-grey-font {color: #36b4ff}
 ul#menu li.primary.two a div h3, ul#menu li.primary.two:hover a p.small-grey-font, ul#menu li.primary.two a:hover p.small-grey-font {color: #3683ff}
 ul#menu li.primary.three a div h3, ul#menu li.primary.three:hover a p.small-grey-font, ul#menu li.primary.three a:hover p.small-grey-font {color: #020887}
-ul#menu li a div h5 {font-weight: 900; margin: 0; color: #bdbfc7;}
+ul#menu li a div h5 {font-weight: 800; margin: 0; color: #bdbfc7;}
 ul#menu li.primary a div svg path {fill: #001d30;}
 ul#menu li a div svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
@@ -440,16 +443,22 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 
 /***course question cta***/
 .course-promo {border-top: solid 2px #e7f6ff; border-bottom: solid 2px #e7f6ff; padding: 36px 0; margin: 36px 0;}
-.course-promo h4 {margin: 0; font-weight: 600;}
+.course-promo h4 {margin: 0; font-weight: 600; font-size: 20px;}
 .course-promo p.small-grey-font {font-size: 16px;}
 .course-promo a.button.secondary {font-size: 15px; margin: 0;}
 
 .course-promo.darkradial-background {border-radius: 20px; padding: 36px 12px;}
+.course-promo.darkradial-background.subscribe img {width: 200px; margin-bottom: 1em;}
+
+@media (min-width: 365px) {.course-promo h4 {font-size: 22px;}}
 
 @media (min-width: 620px) {
   .course-promo, .course-promo.darkradial-background {padding: 54px 36px; margin: 36px 0;}
+  .course-promo.darkradial-background.subscribe {padding: 36px;}
   .course-promo p.small-grey-font {font-size: 18px;}
+  .course-promo h4 {font-size: 26px;}
   .course-promo a.button.secondary {font-size: 16.5px;}
+  .course-promo.darkradial-background.subscribe img {width: 300px;}
 
 }
 
@@ -464,7 +473,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .member {width: 100%; margin-bottom: 2em; text-align: center;}
 .member .gatsby-image-wrapper {width: 100%; margin-left: auto; margin-right: auto;}
 .member .gatsby-image-wrapper img {border-radius: 50%;}
-.member p {font-size: 16px; font-weight: 900; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
+.member p {font-size: 16px; font-weight: 800; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
 .member p span {display: block;  font-size: 14px; margin-top: 4px; font-weight: 400;}
 
 @media (min-width: 620px) {
@@ -505,7 +514,7 @@ div.title-center {position: absolute; left: 0; right: 0;}
 .carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
 .title div.title-center {bottom: 67px;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
-div.title-center h2 {font-size: 36px; margin: 0; font-weight: 900;}
+div.title-center h2 {font-size: 36px; margin: 0; font-weight: 800;}
 div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .title.no-author div.title-center .description {margin-bottom: 0;}
 .time {font-size: 12px; font-weight: 400;}
@@ -623,7 +632,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.home:first-of-type a {flex-direction: column;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}
 .article.home:first-of-type a .article-info {width: 100%; padding: 10px 20px;}
-.article.home:first-of-type a .article-info h4 {font-size: 22px; font-weight: 900;}
+.article.home:first-of-type a .article-info h4 {font-size: 22px; font-weight: 800;}
 .article.home:first-of-type a .article-info p.spectral {font-size: 16px; color: #001d30;}
 .article.home:first-of-type a .article-info .time {font-size: 12px; margin-bottom: 1em;}
 .article.home:first-of-type a .article-info .time svg {width: 18px; height: 18px;}

@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -32,12 +33,7 @@ const ReadingList = ({ data, location }) => {
             
             <p>Aristotle later returned to Athens and founded his own school in the Lyceum. The school and its students acquired the label of ‘Peripatetics’ (coming from the Greek for ‘to walk around’), owing to Aristotle’s habit of walking around the grove while delivering his lectures.</p> 
 
-            <div className="course-promo darkradial-background text-center">
-                <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
-                <p className="review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-                <p className="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Aristotelianism, Stoicism, and Buddhism.</p>
-                <Link className="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</Link>
-            </div>
+            <BigSubscribe />
 
             <p>It’s thought that Aristotle’s surviving works were never intended for general readership: they are lecture notes for his advanced philosophical students. As such, Aristotle has a reputation for being a rather dense and difficult writer. This is perhaps a little unfair, for in his lifetime Aristotle produced a number of popular dialogues — <Link to="/reading-lists/plato/">like Plato</Link> — that were famed for their beauty. Indeed, the Roman statesman Cicero speaks of the “golden river” of Aristotle’s prose. Unfortunately, none of these popular works survive, and we are left only with Aristotle’s technical notes.</p> 
 

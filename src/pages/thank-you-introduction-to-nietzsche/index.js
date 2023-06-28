@@ -21,9 +21,9 @@ const Page = () => {
             <div className="grey-background small-pad-bottom">
                 <div className="top-title text-center">
                     <div className="page-center">
-                        <h1 className="mid-width">Thank You</h1>
+                        <h3 className="mid-width">Thank you, philosopher!</h3>
                         <div className="separator"></div>
-                        <p className="large-grey-font mid-width">Thank you very much for your purchase, philosopher! Your course materials are on their way to the email address you provided. Please allow up to 30 minutes for delivery, and be advised that some email filters can send initial emails from unknown senders to your junk folder (if using gmail, they can sometimes end up in your ‘Promotions’ folder, too). If you encounter any issues, just drop me a line at hello@philosophybreak.com, and I’ll be happy to help. For now, fasten your seatbelt — a whirlwind philosophical journey awaits!</p>
+                        <p className="small-grey-font mid-width">Your course materials are on their way to the email address you provided. Please allow up to 30 minutes for delivery, and be advised that some email filters can send initial emails from unknown senders to your junk folder (if using gmail, they can sometimes end up in your ‘Promotions’ folder, too). If you encounter any issues, just drop me a line at hello@philosophybreak.com, and I’ll be happy to help. For now, fasten your seatbelt — a whirlwind philosophical journey awaits!</p>
                         <JackHeadshot />
                     </div>
                 </div>

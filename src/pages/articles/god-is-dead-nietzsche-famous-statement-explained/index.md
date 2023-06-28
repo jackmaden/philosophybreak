@@ -29,7 +29,21 @@ In other words: where do we go from here? If God’s authority is no longer unqu
 
 ## We must face up to the enormity of the death of God
 
-<span class="big-letter">T</span>he appropriate response to the age of Enlightenment leading to the death of God, Nietzsche argues, should not be a jeering celebration, nor a shrug of indifference, but a period of deep disorientation and mourning. God was not just an innocuous source of faith and worship, Nietzsche recognizes: God was the indubitable authority that lent power and legitimacy to Judeo-Christian moral values. 
+<span class="big-letter">T</span>he appropriate response to the age of Enlightenment leading to the death of God, Nietzsche argues, should not be a jeering celebration, nor a shrug of indifference, but a period of deep disorientation and mourning. God was not just an innocuous source of faith and worship, Nietzsche recognizes: God was the indubitable authority that lent power and legitimacy to Judeo-Christian moral values.
+
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one life-enhancing philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
 
 While Judeo-Christian moral values aren’t exactly Nietzsche’s preference (he argues in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0141195371/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0141195371&linkId=823bb4eb6e1b8494f4960f18490a2d54">On the Genealogy of Morality</a>, for instance, that Christianity is characterized by an _ascetic ideal_, the twisted, harmful condemnation of desires we cannot help but have, like those for food and sex) — he sees their sudden removal as dangerous. 
 
@@ -45,7 +59,11 @@ We thus face a long, daunting task of dismantling our now foundationless values 
 
 The death of God means there is no going back: we either find a new mechanism for value creation — a “revaluation of values”, as Nietzsche puts it — or we will eventually descend into a world where, recognizing our values are ultimately foundationless and meaningless, we will become apathetic and cynical — even despairing. 
 
-<div class="course-promo darkradial-background text-center"><h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+</div>
 
 As [Kierkegaard also suggests when discussing the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/), removing the comfort of God, Judeo-Christian morals, and an afterlife, and having nothing to really replace them with — moving from _certainty_ about what life is for, to _uncertainty_ about what life is for — could lead to an all-pervading numbness or anguish about our lives not mattering in a seemingly pointless universe.
 
@@ -65,4 +83,8 @@ Regardless, his questions stand: if there is no longer an absolute, incontestabl
 
 To help you learn more about not just the Übermensch but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to Nietzsche’s life, work, and 5 greatest ideas](/introduction-to-nietzsche/).
 
-<div class="course-promo darkradial-background text-center"><h4>Introduction to Nietzsche and His 5 Greatest Ideas: Bite-size Course</h4><p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p><p class="small-grey-font">Learn everything you need to know about Friedrich Nietzsche in just six days. This introductory course distills Nietzsche’s best and most misunderstood ideas, from God is dead to the Übermensch.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Sign Up Now</a></div>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+</div>

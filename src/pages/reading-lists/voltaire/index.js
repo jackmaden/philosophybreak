@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -38,6 +39,8 @@ const ReadingList = ({ data, location }) => {
             <h2>2. Voltaire Almighty, by Roger Pearson</h2>
             <BookLink title="Voltaire Almighty" author="Roger Pearson" link="http://www.amazon.com/Voltaire-Almighty-Life-Pursuit-Freedom/dp/0747579571?&linkCode=ll1&tag=philosophybre-20&linkId=ef3a735034446928f8b7b3605d2bb3fb&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>If you’re seeking to dive a little deeper with your Voltaire scholarship, look no further than Roger Pearson’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Voltaire-Almighty-Life-Pursuit-Freedom/dp/0747579571?&linkCode=ll1&tag=philosophybre-20&linkId=ef3a735034446928f8b7b3605d2bb3fb&language=en_US&ref_=as_li_ss_tl">Voltaire Almighty</a>, first published in 2005. This biography brings Voltaire vividly to life, taking us on an entertaining journey through the great thinker’s intellectual and personal adventures — complete with love affairs, banishments, jail sentences, and international fame. Pearson writes brilliantly to convey exactly why Voltaire personified the French Enlightenment throughout his lifetime, and became emblematic of it following his death. With its 480 pages packed full of insight, this book is highly recommended for those seeking a deeper understanding of Voltaire’s thought.</p>
+
+            <BigSubscribe />
             
 
             <h2>3. Candide, by Voltaire</h2>

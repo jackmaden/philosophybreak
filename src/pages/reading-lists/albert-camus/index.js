@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -43,6 +44,7 @@ const ReadingList = ({ data, location }) => {
             <BookLink title="The Stranger" author="Albert Camus" link="http://www.amazon.com/Stranger-Albert-Camus/dp/0679720200?&linkCode=ll1&tag=philosophybre-20&linkId=b8d84f9723ddd197f1acb77526bbf345&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
             <p>Perhaps Camus’ most famous work of fiction, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Stranger-Albert-Camus/dp/0679720200?&linkCode=ll1&tag=philosophybre-20&linkId=b8d84f9723ddd197f1acb77526bbf345&language=en_US&ref_=as_li_ss_tl">The Stranger</a> (1942) explores the absurdist themes developed in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Myth-Sisyphus-Vintage-International/dp/0525564454?&linkCode=ll1&tag=philosophybre-20&linkId=aa09a46074b4beeac970a20aac8dd1f2&language=en_US&ref_=as_li_ss_tl">The Myth of Sisyphus</a> through the story of Meursault, a French settler living in Algeria. Seemingly detached from the society in which he participates, Meursault becomes involved in a series of senseless events through which Camus explores (in his own words) “the nakedness of man faced with the absurd.” Considered a classic of 20th-century literature, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Stranger-Albert-Camus/dp/0679720200?&linkCode=ll1&tag=philosophybre-20&linkId=b8d84f9723ddd197f1acb77526bbf345&language=en_US&ref_=as_li_ss_tl">The Stranger</a> is a must-read for anyone interested in Camus or absurdism generally.</p>
             
+            <BigSubscribe />
 
             <h2>3. The Plague, by Albert Camus</h2>
             <BookLink title="The Plague" author="Albert Camus" link="http://www.amazon.com/Plague-Albert-Camus/dp/0679720219?&linkCode=ll1&tag=philosophybre-20&linkId=c48515945cfdb59f19936829491d0818&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />

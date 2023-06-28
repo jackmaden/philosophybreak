@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -35,6 +36,8 @@ const ReadingList = ({ data, location }) => {
             <p>Written almost entirely in the form of dialogues, Plato’s works typically present his teacher, Socrates, discussing various issues with interlocutors from ancient Athenian society. Socrates wields <Link to="/articles/socratic-method-what-is-it-how-can-you-use-it/">the Socratic method</Link> to unpick topics ranging from what ‘justice’ means to how we can know anything about the world around us (<Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates’s conclusion: all we can know with certainty is that we know nothing)</Link>.</p>
 
             <p>Given Socrates himself never wrote anything down, scholars have worked hard to distinguish how much of Plato’s work is the neutral recording of Socrates’s views, and how much of it is Plato simply using Socrates as a mouthpiece for his own ideas. Considering Plato continued featuring Socrates as the protagonist of his dialogues even after Socrates’s death, the difficulty scholars have in untangling the two is high — especially in some of Plato’s earlier works.</p>
+
+            <BigSubscribe />
 
             <p>Regardless of the true ‘owner’ of the ideas presented in the dialogues, they are unfailingly brilliant, thought-provoking, entertaining, and stimulating — and we are profoundly lucky to be able to access them almost 2,500 years on.</p>
 

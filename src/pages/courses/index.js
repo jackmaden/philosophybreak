@@ -32,7 +32,7 @@ const Page = ({ location }) => {
         
         
 
-        <PanelNietzsche flexdirection="row" />
+        <PanelNietzsche flexdirection="row-reverse" />
 
         <div className="grey-background large-pad-bottom">
             <div className="page-center mid-width text-center">

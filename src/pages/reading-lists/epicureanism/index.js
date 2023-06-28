@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -31,16 +32,11 @@ const ReadingList = ({ data, location }) => {
             
             <p>And, as well as a popular ethics, Epicureanism also offers a rich <Link to="/reading-lists/epistemology/">epistemology</Link> and <Link to="/reading-lists/metaphysics/">metaphysics</Link>. Epicurus rejected the existence of an immaterial soul, or of anything non-physical, and said that the gods have no influence on our lives. This led to a rather unsentimental attitude towards mortality — Epicurus believed fearing death was highly irrational — which we discuss further in our <Link to="/articles/epicurus-on-why-death-should-not-concern-us/">explainer on why Epicurus said death is ‘nothing to us’</Link>.</p> 
 
-            <div className="course-promo darkradial-background text-center">
-                <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
-                <p className="review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-                <p className="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Epicureanism, Stoicism, and Buddhism.</p>
-                <Link className="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</Link>
-            </div>
-
             <p>Only fragments of Epicurus’s own writings survive (they’re collectively presented in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Art-Happiness-Penguin-Classics/dp/0143107216?&linkCode=ll1&tag=philosophybre-20&linkId=d8a3b590522e1bcf3bc04d808e1695d1&language=en_US&ref_=as_li_ss_tl">The Art of Happiness</a>, listed below). Among these fragments are Epicurus’s 40 Principal Doctrines (we present and discuss these <Link to="/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/">40 short Epicurean aphorisms here</Link>), which we know of only because they are quoted in full in Diogenes Laertius’s celebrated third-century survey of ancient Greek thinkers, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0197523390/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0197523390&linkId=4f41f433d7cd2ad97c98fcc8f3c45b26">Lives of the Eminent Philosophers</a>.</p> 
 
             <p>While <Link to="/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/">Epicurus’s 40 Principal Doctrines</Link> and other fragments do offer concise summaries of Epicurean thinking, the bulk of what we know about Epicurean philosophy comes largely through the work of Epicurus’s contemporaries, followers, and critics from the ancient Greco-Roman period.</p>
+
+            <BigSubscribe />
             
             <p>A particularly noteworthy figure in this respect is the Roman poet Lucretius, whose epic poem <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90">On the Nature of Things</a> forms the cornerstone of what we know about how Epicurus saw the world (as discussed in our brief article on <Link to="/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/">Lucretius’s beautiful reflection on Epicureanism and mortality</Link>).</p>
 

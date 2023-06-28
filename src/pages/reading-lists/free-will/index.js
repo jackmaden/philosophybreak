@@ -10,6 +10,7 @@ import TitleReadingList from '../../../components/titleReadingList'
 import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
+import BigSubscribe from "../../../components/bigSubscribe"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -28,13 +29,8 @@ const ReadingList = ({ data, location }) => {
             <p>These types of questions form the basis of the philosophical quandary of free will. And the stakes are high: if it turns out we have no freedom in how we act, could we really blame people for bad behavior? Could we hold criminals to account, if they had no option but to act criminally? Would systems of <Link to="/reading-lists/ethics-and-morality/">ethics and morality</Link> have any justification at all?</p>
             <p>While there's increasing clamor from <Link to="/articles/free-will-illusion-sam-harris/">voices in neuroscience that free will is an illusion</Link>, rescuing our conception of free will from the onslaught of a deterministic universe has been a favored pastime of many a thinker throughout the history of philosophy.</p>
 
-            <div className="course-promo darkradial-background text-center">
-                <h4>Life’s Big Questions: Do We Have Free Will?</h4>
-                <p className="review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
-                <p className="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
-                <Link className="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</Link>
-            </div>
-
+            <BigSubscribe />
+            
             <p>This reading list is designed to give you a well-rounded view of all the contemporary problems, theories, and debates about free will. After consuming it, you’ll be much clearer about what free will refers to, as well as the extent to which we can be said to exercise it.</p>
 
             <h2>1. Free Will: A Very Short Introduction, by Thomas Pink</h2>

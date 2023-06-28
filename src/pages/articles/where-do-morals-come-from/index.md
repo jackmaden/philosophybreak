@@ -34,11 +34,13 @@ Who creates these rules? Well, religions cast God as the moral authority; while 
 
 It doesn’t really matter which authority is invoked here — God or Reason — what is important is that these kinds of theories formulate principles and then impose them on human conduct. The Ten Commandments; The Golden Rule (treat others as you wish to be treated); Utilitarianism — all these moral systems share this top-down orientation, and imply that without imposed rules our natural tendency would be to run riot.
 
-<div class="course-promo darkradial-background text-center">
+<!--how to live a good life-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="http://localhost:8000/static/814f63412cb3a1498dd51734305fbf64/48a0d/how-to-live-a-good-life.webp" alt="how to live a good life">
     <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
-    <p class="review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews)</p>
-    <p class="small-grey-font">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Buddhism, and Existentialism.</p>
-    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Sign Up Now</a>
+    <p class="small-grey-font">Enhance your approach to life by exploring 7 great philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
+    <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a>
+    <p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
 </div>
 
 Articulating the optimal top-down moral system has caused much excitement over the course of human civilization. Despite wars fought with both weapons and words, establishing a victor has proven difficult: finding a set of universal moral laws that suits everyone, it turns out, is not particularly easy. Religious people fight religious people; religious people fight nonreligious people; and nonreligious people fight nonreligious people.
@@ -62,6 +64,20 @@ De Waal talks fondly — with a hint of anthropomorphism, critics might say — 
 Think about it, demands De Waal: do we make everyday moral decisions by painstakingly reasoning over them, consulting internal rulebooks? Instead, he wonders, “what if morality is created in day-to-day social interaction, not at some abstract mental level? What if it is grounded in the emotions, which most of the time escape the neat categorizations that science is fond of?”
 
 Indeed, it is little wonder that we have struggled to find a blanket moral framework that works for everyone's rationale, De Waal thinks, for Hume had it right: morality has its roots in our emotions. 
+
+<!--small subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
+</div>
 
 Top-down moral frameworks were thought up thanks to, as De Waal puts it, “a huge push in the rear from our background as social animals.” In other words, our fundamental motivation to devise such moral theories comes not from special holy or rational insight, but from social and emotional intuitions that have evolved over millennia.
 

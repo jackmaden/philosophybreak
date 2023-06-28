@@ -41,13 +41,13 @@ const Page = ({ data, location }) => {
                     <div className="mobile-center">
                         <CheckoutPFL />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
-                    <p className="small-grey-font smaller text-center no-mar-top-mob desktop-no-display" style={{marginTop: "-12px"}}><i>Course materials are hosted on our new online learning platform, Philosophy Break Academy, and are accessible forever from any device.</i></p>
+                    <p className="small-grey-font smaller text-center no-mar-top-mob desktop-no-display" style={{marginTop: "-12px"}}><i>Course materials are hosted on our online learning platform, Philosophy Break Academy, and are accessible forever from any device.</i></p>
                         
                      </div>
                 </div>
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" />
-                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are hosted on our new online learning platform, Philosophy Break Academy, and are accessible forever from any device.</i></p>
+                    <p className="small-grey-font smaller text-center no-mar-top-mob" style={{marginTop: "-12px"}}><i>Course materials are hosted on our online learning platform,<br/>Philosophy Break Academy, and are accessible forever from any device.</i></p>
                 </div>
             </div>
         </div>
