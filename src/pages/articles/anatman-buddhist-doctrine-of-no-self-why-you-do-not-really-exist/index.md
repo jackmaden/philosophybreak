@@ -22,15 +22,21 @@ By deflating our conventional notion of ‘self’ and understanding what we _re
 
 ## Anātman: ‘you’ do not really exist
 
-<span class="big-letter">O</span>n the face of it, the Buddha’s concept of anātman — i.e. no-self: you do not really exist — seems a very strange view, for our sense of self is surely one of the most familiar things to us; but there’s a lot of misunderstanding about what the Buddha really means here. Indeed, there is much discussion within Buddhism itself about what anātman entails. For the purposes of this article, we’ll explore the topic through the lens of the Buddha’s original teachings as recorded by the suttas in the Pali Canon.
+<span class="big-letter">O</span>n the face of it, the Buddha’s concept of anātman — i.e. no-self: you do not really exist — seems a very strange view, for our sense of self is surely one of the most familiar things to us; but there’s a lot of misunderstanding about what the Buddha really means here. Indeed, there is much discussion within Buddhism itself about what anātman entails: a vast literature sits on top of the Buddha’s original insights, offering many different interpretations and expansions (some more hardline than others). 
 
-Firstly, it’s important to understand the historical context in which the Buddha was operating, for he was reacting to the Brahminic tradition (a precursor to modern Hinduism) dominant in 500 BCE India. Within this tradition, the concept of _ātman_ — i.e. self or soul — is crucial. 
+For the purposes of this article, we’ll contain ourselves to the Buddha’s original teachings as recorded by the suttas in the Pali Canon.
 
-The Buddha, therefore, is not saying the convention of _people_ doesn’t exist. He’s specifically targeting the Brahmin concept of ātman, which involves a persisting essence or _substance_ of self. This is perhaps closer to the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
+Firstly, it’s important to understand the historical context in which the Buddha was operating, for he was reacting to the Brahminic tradition (a precursor to modern Hinduism) dominant in 500 BCE India. Within this tradition, the concept of _ātman_ — i.e. a permanent self or soul — is crucial. 
 
-For, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ don’t really exist in the way we think they do. The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient way to refer to something immeasurably more complex.
+With his concept of _anātman_, then, the Buddha is not necessarily denying the convention of _people;_ he is specifically targeting the Brahmin concept of _ātman_, which involves a persisting essence or _substance_ of self. This may make us think more of the Christian notion of ‘soul’ than our everyday notion of ‘self’, but the Buddha’s view has important repercussions for both. 
 
-Why does the Buddha hold this position? Because, when you think about it, no part of us ever stays the same: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
+For, whether we call it soul or self, the Buddha thinks the referents of ‘I’, ‘you’, ‘he’, ‘she’ have no real permanence: they don’t exist in the way we might think they do. 
+
+The autobiographical, continuous self — the ‘you’ of last week, yesterday, and today — is just a convention, an invented simplification, a convenient and complacent way to refer to what is in reality a set of immeasurably complex and ever-changing processes.
+
+Think about it: we are changing every second of every day. Our thoughts, desires, moods, memories, the hair on our heads, the nails in our fingers and toes, the cells of our bodies — all is in flux. 
+
+So: what makes the ‘you’ of today the same as the ‘you’ of, say, ten years ago? The Buddha’s answer is, well, beyond the causal chain linking you in time, _nothing_, because the concept of ‘you’ is empty. ‘You’ refers not to some permanent substance; it’s simply a convenient way to refer to the myriad, ever-changing individual processes that, collectively, we call ‘you’.
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -48,7 +54,7 @@ Why does the Buddha hold this position? Because, when you think about it, no par
 
 Consider a heap of sand. The word ‘heap’ is simply a convenient way to refer to the fact that there are thousands of individual grains of sand stacked on top of one another. Take the individual grains of sand away, and nothing remains. The ‘heap’ was just a shorthand way of saying ‘thousands of individual grains of sand stacked on top of each other.’
 
-So it is with the self, the Buddha thinks. We use individual names and pronouns like ‘I’, ‘you’, ‘he’, ‘she’, ‘they’, and we may think that in using such words we are referring to individual, persisting entities. But people are not individual, persisting entities — we are _composite, ever-changing_ entities. Like heaps of sand, we are nothing more than the sum of our parts. 
+So it is with the self, the Buddha thinks. We use individual names and pronouns like ‘I’, ‘you’, ‘he’, ‘she’, ‘they’, and we may think that in using such words we are referring to individual, persisting entities. But people are not individual, persisting entities — we are _composite, ever-changing_ entities. Like heaps of sand, we are nothing more than the sum of our shifting parts. 
 
 A famous Buddhist text that illustrates this thinking is _The Questions of King Milinda_ (not actually included in the original Pali Canon, but considered to be as important as the texts that do), in which the King discusses with the sage Nāgasena the question of what makes a chariot a chariot:
 
@@ -74,7 +80,7 @@ In fact, much like the subatomic scientific picture of the world, Buddhists thin
 
 There is a vast Buddhist literature that categorizes these ‘slivers of happenings’ — dharmas — to describe exactly how they make up us and everything we interact with.
 
-The crucial Buddhist insight is that the sum of these tiny slices of the cosmos is not greater than its parts: ‘you’ are nothing more than a composite of the individual thoughts, desires, body parts, processes, and atoms that make you up. 
+The crucial Buddhist insight is that the sum of these tiny slices of the cosmos is not greater than its parts: ‘you’ are nothing more than a composite of the changing thoughts, desires, processes, and atoms that temporarily make you up. 
 
 ## You do not ‘experience’ your perceptions and feelings; you _are_ your perceptions and feelings
 
@@ -84,7 +90,7 @@ For, even if we concede we are always _physically_ changing, we might still quie
 
 We might think of this mental self as some kind of pilot of our actions, or the keeper of our internal monologue — and this internal monologue can be very convincing in making us think it’s some kind of persisting entity (consider, for instance, [Descartes’s ‘I think, therefore I am’](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/)).
 
-But the Buddhist insight is that this ‘persisting’ mental self emerges _only_ when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so the self only exists when one is thinking or feeling.
+But the Buddha’s insight is that this ‘persisting’ mental self emerges _only_ when we are thinking — it is a verb, not a noun. Just as dancing doesn’t exist when one isn’t dancing, so the self only exists when one is thinking or feeling.
 
 This point was famously articulated in the Western tradition of philosophy, too, by the great 18th-century thinker David Hume. Reflecting on his own own stream of consciousness, Hume writes:
 
