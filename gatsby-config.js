@@ -22,7 +22,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-sitemap`,
             options: {
-                excludes: [`/thank-you`, `/thank-you-lifes-big-questions`, `/thank-you-introduction-to-nietzsche`, `/thank-you-philosophies-for-living`, `/privacy-policy`, `/cookie-policy`]
+                excludes: [`/thank-you`, `/thank-you-lifes-big-questions`, `/thank-you-introduction-to-nietzsche`, `/thank-you-philosophies-for-living`, `/privacy-policy`, `/cookie-policy`, `/amazon-affiliate`]
             }
         },
         //robots.txt
