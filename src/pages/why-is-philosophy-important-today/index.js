@@ -45,9 +45,7 @@ const Page = ({ data, location }) => {
 
             <blockquote><p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… Life is long if you know how to use it.</p></blockquote>
 
-            <p>Streaming services hook us into one more episode; advertisements bombard us into submission; those of us with smartphones check them without thinking.</p>
-
-            <p>But the compulsion to watch, to shop, to hit refresh on our newsfeeds — all of it can be reined in by contemplating the world around us, and our place within it.</p>
+            <p>Streaming services hook us into one more episode, those of us with smartphones check them without thinking; but the compulsion to watch, to shop, to hit refresh on our newsfeeds — all of it can be reined in by contemplating the world around us, and our place within it.</p>  
 
             <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose?</p>
 
