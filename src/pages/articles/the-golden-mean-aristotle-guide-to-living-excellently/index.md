@@ -94,7 +94,7 @@ This is especially common in politics, where someone who regards themselves as �
 
 ## Tips for identifying the ‘golden mean’
 
-<span class="big-letter">T</span>hankfully, Aristotle does offer some guidance for how we might improve at discovering the ‘golden mean’ of right action, and for living well generally (including, for instance, [why we should prioritize leisure over work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/)). 
+<span class="big-letter">T</span>hankfully, Aristotle does offer some guidance for how we might improve at discovering the ‘golden mean’ of right action, and for living well generally (including, for instance, [why we should prioritize leisure over work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/), and [how we can cultivate the 3 different levels of friendship](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)). 
 
 For example, if we _know_ we are typically at one extreme when it comes to a certain behavior, then… 
 
@@ -130,13 +130,13 @@ The final tip is to not be too hard on yourself: in Aristotle’s project for ha
 
 <span class="big-letter">W</span>hat do you think of Aristotle’s golden mean? Do you find it an accurate characterization of virtue, and a useful guide for human behavior? Or do you find it too general to be of use? 
 
-Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. 
+Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course and community, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. 
 
 Learn more and sign up here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <img src="http://localhost:8000/static/814f63412cb3a1498dd51734305fbf64/48a0d/how-to-live-a-good-life.webp" alt="how to live a good life">
+    <img src="/static/814f63412cb3a1498dd51734305fbf64/48a0d/how-to-live-a-good-life.webp" alt="how to live a good life">
     <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
     <p class="small-grey-font">Enhance your approach to life by exploring 7 great philosophies for living — including Buddhism, Stoicism, and Existentialism.</p>
     <a class="button primary" href="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a>
