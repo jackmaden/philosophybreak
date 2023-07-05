@@ -11,6 +11,7 @@ import BookLink from '../../../components/bookLink'
 import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import BigSubscribe from "../../../components/bigSubscribe"
+import Sidebar from "../../../components/sidebar"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -23,47 +24,54 @@ const ReadingList = ({ data, location }) => {
         {/*reading list title*/}
         <TitleReadingList title="Confucius" number="5" img={data.title.childImageSharp.gatsbyImageData} alt="Confucius" />
         
-        {/*reading list content*/}
-        <div id="break-start" className="page-center" style={{marginBottom: 48}}>
+        {/*container for sidebar*/}
+        <div id="container">
 
-            <p><span className="big-letter">C</span>onfucianism is a philosophical tradition based on the teachings of ancient Chinese philosopher Confucius (551 BCE - 479 BCE), who is considered to be one of the most significant thinkers in East Asian history.</p> 
+          {/*reading list content*/}
+          <div id="break-start" className="page-center" style={{marginBottom: 48}}>
 
-            <p>In the 2,500 years since Confucius offered his teachings, many interpretations and schools have arisen from his thought — some of which have been key guiding principles for various Chinese dynasties over the centuries.</p> 
+              <p><span className="big-letter">C</span>onfucianism is a philosophical tradition based on the teachings of ancient Chinese philosopher Confucius (551 BCE - 479 BCE), who is considered to be one of the most significant thinkers in East Asian history.</p> 
 
-            <p>However, the core idea that draws the diverse tradition of Confucianism together is that living a good life depends on the quality of our social relations. The core Confucian texts of Confucius, Mengzi, and Xunzi encourage us to question and reflect on the roles we occupy, as well as the obligations we have in those roles — to friends, family, social communities, and even the global population.</p>
+              <p>In the 2,500 years since Confucius offered his teachings, many interpretations and schools have arisen from his thought — some of which have been key guiding principles for various Chinese dynasties over the centuries.</p> 
 
-            <BigSubscribe />
+              <p>However, the core idea that draws the diverse tradition of Confucianism together is that living a good life depends on the quality of our social relations. The core Confucian texts of Confucius, Mengzi, and Xunzi encourage us to question and reflect on the roles we occupy, as well as the obligations we have in those roles — to friends, family, social communities, and even the global population.</p>
 
-            <p>This reading list consists of the best books of and about Confucianism. From introductions to core Confucian texts, after reading the books on this list, you’ll understand exactly why this great philosophical tradition remains so influential today. Let’s jump in!</p> 
+              <BigSubscribe />
 
-            <h2>1. Confucianism: A Very Short Introduction, by Daniel K. Gardner</h2>
-            <BookLink title="Confucianism: A Very Short Introduction" author="Daniel K. Gardner" link="http://www.amazon.com/Confucianism-Very-Short-Introduction-Introductions/dp/0195398912?&linkCode=ll1&tag=philosophybre-20&linkId=dfbf702c2000346bf1face328cd7645d&language=en_US&ref_=as_li_ss_tl" img={data.one.childImageSharp.gatsbyImageData} />
-            <p>Published in 2014, Confucian specialist and professor Daniel K. Gardner’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Confucianism-Very-Short-Introduction-Introductions/dp/0195398912?&linkCode=ll1&tag=philosophybre-20&linkId=dfbf702c2000346bf1face328cd7645d&language=en_US&ref_=as_li_ss_tl">Confucianism: A Very Short Introduction</a> is a brilliant starting place for anyone with a budding interest in the subject. Gardner offers a compelling survey of the philosophy and history of Confucianism, illuminating its answers to the questions of what makes a good person, as well as what makes a good government. Gardner examines how the answers offered by Confucius shaped, and continue to shape, Chinese culture and society. Coming in at an accessible 152 pages, this is a very nice entry point to Confucian philosophy.</p>
-            
+              <p>This reading list consists of the best books of and about Confucianism. From introductions to core Confucian texts, after reading the books on this list, you’ll understand exactly why this great philosophical tradition remains so influential today. Let’s jump in!</p> 
 
-            <h2>2. Thinking Through Confucius, by David L. Hall and Roger Ames</h2>
-            <BookLink title="Thinking Through Confucius" author="David L. Hall & Roger Ames" link="http://www.amazon.com/Thinking-Through-Confucius-Systematic-Philosophy/dp/0887063772?&linkCode=ll1&tag=philosophybre-20&linkId=65c3fa5103551cdb7d9007c45a81023d&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
-            <p>For a more in-depth and academic examination of the philosophy behind Confucian thinking, look no further than David L. Hall and Roger Ames’s 1987 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Thinking-Through-Confucius-Systematic-Philosophy/dp/0887063772?&linkCode=ll1&tag=philosophybre-20&linkId=65c3fa5103551cdb7d9007c45a81023d&language=en_US&ref_=as_li_ss_tl">Thinking Through Confucius</a>. In their rich analysis, Hall and Ames attempt to build a bridge between Western philosophy and Confucianism, investigating what philosophy as practiced by both traditions even means. A more demanding and challenging read, enthusiastic students of Confucianism will derive much value from this work.</p>
-            
+              <h2>1. Confucianism: A Very Short Introduction, by Daniel K. Gardner</h2>
+              <BookLink title="Confucianism: A Very Short Introduction" author="Daniel K. Gardner" link="http://www.amazon.com/Confucianism-Very-Short-Introduction-Introductions/dp/0195398912?&linkCode=ll1&tag=philosophybre-20&linkId=dfbf702c2000346bf1face328cd7645d&language=en_US&ref_=as_li_ss_tl" img={data.one.childImageSharp.gatsbyImageData} />
+              <p>Published in 2014, Confucian specialist and professor Daniel K. Gardner’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Confucianism-Very-Short-Introduction-Introductions/dp/0195398912?&linkCode=ll1&tag=philosophybre-20&linkId=dfbf702c2000346bf1face328cd7645d&language=en_US&ref_=as_li_ss_tl">Confucianism: A Very Short Introduction</a> is a brilliant starting place for anyone with a budding interest in the subject. Gardner offers a compelling survey of the philosophy and history of Confucianism, illuminating its answers to the questions of what makes a good person, as well as what makes a good government. Gardner examines how the answers offered by Confucius shaped, and continue to shape, Chinese culture and society. Coming in at an accessible 152 pages, this is a very nice entry point to Confucian philosophy.</p>
+              
 
-            <h2>3. The Analects, by Confucius</h2>
-            <BookLink title="The Analects" author="Confucius" link="http://www.amazon.com/Analects-Penguin-Classics-Confucius/dp/0140443487?&linkCode=ll1&tag=philosophybre-20&linkId=7698cbadd927de40d78089c88201a025&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />
-            <p>Turning from introductions to primary Confucian texts, where better to start than with the most accessible collection of aphorisms and verses attributed to Confucius himself? <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Analects-Penguin-Classics-Confucius/dp/0140443487?&linkCode=ll1&tag=philosophybre-20&linkId=7698cbadd927de40d78089c88201a025&language=en_US&ref_=as_li_ss_tl">The Analects</a> — here translated, contextualized, and introduced by famed Chinese professor and author D. C. Lau — are a collection of Confucius’s sayings brought together by his pupils shortly after his death in 497 BCE. Together, they express the Confucian code for living according to virtue. If you’re interested in Confucian philosophy, this beautiful work belongs on your bookshelf.</p>
-            
+              <h2>2. Thinking Through Confucius, by David L. Hall and Roger Ames</h2>
+              <BookLink title="Thinking Through Confucius" author="David L. Hall & Roger Ames" link="http://www.amazon.com/Thinking-Through-Confucius-Systematic-Philosophy/dp/0887063772?&linkCode=ll1&tag=philosophybre-20&linkId=65c3fa5103551cdb7d9007c45a81023d&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
+              <p>For a more in-depth and academic examination of the philosophy behind Confucian thinking, look no further than David L. Hall and Roger Ames’s 1987 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Thinking-Through-Confucius-Systematic-Philosophy/dp/0887063772?&linkCode=ll1&tag=philosophybre-20&linkId=65c3fa5103551cdb7d9007c45a81023d&language=en_US&ref_=as_li_ss_tl">Thinking Through Confucius</a>. In their rich analysis, Hall and Ames attempt to build a bridge between Western philosophy and Confucianism, investigating what philosophy as practiced by both traditions even means. A more demanding and challenging read, enthusiastic students of Confucianism will derive much value from this work.</p>
+              
 
-            <h2>4. Mengzi: With Selections from Traditional Commentaries, by Mengzi</h2>
-            <BookLink title="Mengzi: With Selections from Traditional Commentaries" author="Mengzi" link="http://www.amazon.com/Mengzi-Selections-Traditional-Commentaries-Classics/dp/087220913X?&linkCode=ll1&tag=philosophybre-20&linkId=f60400e34a6bad6e3682d70a2c5943e3&language=en_US&ref_=as_li_ss_tl" img={data.four.childImageSharp.gatsbyImageData} />
-            <p>Mengzi was a Confucian philosopher who lived just one century after Confucius. His deeply influential interpretation and expansion of Confucian thought — based on the judgment that people are generally good — is translated and contextualized brilliantly by Bryan Van Norden in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Mengzi-Selections-Traditional-Commentaries-Classics/dp/087220913X?&linkCode=ll1&tag=philosophybre-20&linkId=f60400e34a6bad6e3682d70a2c5943e3&language=en_US&ref_=as_li_ss_tl">Mengzi: With Selections from Traditional Commentaries</a>. This edition is also accompanied by selected passages from the classic commentary of Zhu Xi, a Chinese philosopher who lived from 1130 to 1200. This essential primary work will augment the understanding of any Confucian student.</p>
-            
+              <h2>3. The Analects, by Confucius</h2>
+              <BookLink title="The Analects" author="Confucius" link="http://www.amazon.com/Analects-Penguin-Classics-Confucius/dp/0140443487?&linkCode=ll1&tag=philosophybre-20&linkId=7698cbadd927de40d78089c88201a025&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />
+              <p>Turning from introductions to primary Confucian texts, where better to start than with the most accessible collection of aphorisms and verses attributed to Confucius himself? <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Analects-Penguin-Classics-Confucius/dp/0140443487?&linkCode=ll1&tag=philosophybre-20&linkId=7698cbadd927de40d78089c88201a025&language=en_US&ref_=as_li_ss_tl">The Analects</a> — here translated, contextualized, and introduced by famed Chinese professor and author D. C. Lau — are a collection of Confucius’s sayings brought together by his pupils shortly after his death in 497 BCE. Together, they express the Confucian code for living according to virtue. If you’re interested in Confucian philosophy, this beautiful work belongs on your bookshelf.</p>
+              
 
-            <h2>5. Xunzi: The Complete Text, by Xunzi</h2>
-            <BookLink title="Xunzi: The Complete Text" author="Xunzi" link="http://www.amazon.com/Xunzi-Complete-Text/dp/0691169314?&linkCode=ll1&tag=philosophybre-20&linkId=54b5a04e8df65197c79692eaaabe5a06&language=en_US&ref_=as_li_ss_tl" img={data.five.childImageSharp.gatsbyImageData} />
-            <p>Xunzi was a Confucian philosopher who lived two centuries after Confucius. In contrast to Mengzi, Xunzi’s interpretation and expansion of Confucian thought was based on the judgment that people are inherently bad. In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Xunzi-Complete-Text/dp/0691169314?&linkCode=ll1&tag=philosophybre-20&linkId=54b5a04e8df65197c79692eaaabe5a06&language=en_US&ref_=as_li_ss_tl">Xunzi: The Complete Text</a>, beautifully translated by Eric L. Hutton, Xunzi presents a sophisticated vision for Confucian ethics, politics, warfare, language, ritual, human nature, and more. This edition includes helpful contextual and exploratory notes, making this an essential work for any serious student of Confucian philosophy.</p>
-            
+              <h2>4. Mengzi: With Selections from Traditional Commentaries, by Mengzi</h2>
+              <BookLink title="Mengzi: With Selections from Traditional Commentaries" author="Mengzi" link="http://www.amazon.com/Mengzi-Selections-Traditional-Commentaries-Classics/dp/087220913X?&linkCode=ll1&tag=philosophybre-20&linkId=f60400e34a6bad6e3682d70a2c5943e3&language=en_US&ref_=as_li_ss_tl" img={data.four.childImageSharp.gatsbyImageData} />
+              <p>Mengzi was a Confucian philosopher who lived just one century after Confucius. His deeply influential interpretation and expansion of Confucian thought — based on the judgment that people are generally good — is translated and contextualized brilliantly by Bryan Van Norden in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Mengzi-Selections-Traditional-Commentaries-Classics/dp/087220913X?&linkCode=ll1&tag=philosophybre-20&linkId=f60400e34a6bad6e3682d70a2c5943e3&language=en_US&ref_=as_li_ss_tl">Mengzi: With Selections from Traditional Commentaries</a>. This edition is also accompanied by selected passages from the classic commentary of Zhu Xi, a Chinese philosopher who lived from 1130 to 1200. This essential primary work will augment the understanding of any Confucian student.</p>
+              
 
-            <h2>Further reading</h2>
-            <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter</a> or <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram</a>.</p>
-            <CtaReadingList />
+              <h2>5. Xunzi: The Complete Text, by Xunzi</h2>
+              <BookLink title="Xunzi: The Complete Text" author="Xunzi" link="http://www.amazon.com/Xunzi-Complete-Text/dp/0691169314?&linkCode=ll1&tag=philosophybre-20&linkId=54b5a04e8df65197c79692eaaabe5a06&language=en_US&ref_=as_li_ss_tl" img={data.five.childImageSharp.gatsbyImageData} />
+              <p>Xunzi was a Confucian philosopher who lived two centuries after Confucius. In contrast to Mengzi, Xunzi’s interpretation and expansion of Confucian thought was based on the judgment that people are inherently bad. In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Xunzi-Complete-Text/dp/0691169314?&linkCode=ll1&tag=philosophybre-20&linkId=54b5a04e8df65197c79692eaaabe5a06&language=en_US&ref_=as_li_ss_tl">Xunzi: The Complete Text</a>, beautifully translated by Eric L. Hutton, Xunzi presents a sophisticated vision for Confucian ethics, politics, warfare, language, ritual, human nature, and more. This edition includes helpful contextual and exploratory notes, making this an essential work for any serious student of Confucian philosophy.</p>
+              
+
+              <h2>Further reading</h2>
+              <p>Are there any other books you think should be on this list? Let us know <a href="mailto:hello@philosophybreak.com">via email</a> or drop us a message on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter</a> or <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram</a>.</p>
+              <CtaReadingList />
+          </div>
+
+          <Sidebar />
+          
         </div>
         
         {/*post reading list*/}
