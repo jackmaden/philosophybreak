@@ -54,7 +54,7 @@ Phew. Mop that brow, eh René: at last, here is something we can be absolutely c
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
     <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
-    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one life-enhancing idea from philosophy. You get the distillation straight to your inbox.</p>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one mind-opening idea from philosophy. You get the distillation straight to your inbox.</p>
     <div id="mc_embed_signup" class="small-pad-top">
         <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
             <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>

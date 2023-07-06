@@ -97,6 +97,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
   .small-grey-font, .large-grey-font {font-size: 20px;}
   .mid-width {width: 600px; margin-left: auto; margin-right: auto;}
+  .top-title h2.mid-width {width: 690px;}
   .small-width {width: 400px; margin-left: auto; margin-right: auto;}
   .fade-out {height: 200px;}
   .flex-normal-mob-end-desk {align-items: flex-end;}
