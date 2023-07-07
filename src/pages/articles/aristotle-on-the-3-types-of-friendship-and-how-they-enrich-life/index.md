@@ -108,9 +108,9 @@ So a life of excellent activity, bolstered by excellent relationships, is very m
 
 <span class="big-letter">W</span>hat do you make of Aristotle’s analysis of friendship? Do you agree with the distinctions he makes? And what characteristics do the best relationships in your life exhibit?
 
-If you’re interested, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course and community, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism.
+If you’re looking to delve deeper into Aristotle’s teachings, you might enjoy our article on [the ‘golden mean’, Aristotle’s guide to living excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/), as well as our quick explainer on why [Aristotle thinks leisure defines us more than work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/).
 
-You can learn more and sign up here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
+You can also further explore Aristotle’s ethics and discuss your thoughts with others in our new course and community, <i>How to Live a Good Life</i>, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. If you’re interested, consider learning more here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

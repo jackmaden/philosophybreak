@@ -73,7 +73,7 @@ As the 20th-century philosopher Harry Overstreet put it:
 
 ## Further reading
 
-<span class="big-letter">W</span>hat do you make of Aristotle’s analysis? Do you prioritize leisure over work? If you’re looking to delve deeper into his teachings, you might enjoy our article on [the ‘golden mean’, Aristotle’s guide to living excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/). We’ve also created a reading list of the [best books on and by Aristotle](/reading-lists/aristotle/). Hit the banner below to access it now. 
+<span class="big-letter">W</span>hat do you make of Aristotle’s analysis? Do you prioritize leisure over work? If you’re looking to delve deeper into his teachings, you might enjoy our article on [the ‘golden mean’, Aristotle’s guide to living excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/), as well as our explainer on how [Aristotle distinguished between 3 levels of friendship](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/). We’ve also created a reading list of the [best books on and by Aristotle](/reading-lists/aristotle/). Hit the banner below to access it now. 
 
 <a class="reading-list cta" href="/reading-lists/aristotle/">
     <img class="title-img" src="./aristotle.jpg"/>
