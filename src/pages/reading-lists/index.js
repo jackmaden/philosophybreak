@@ -78,11 +78,11 @@ const Page = ({ data, location }) => {
                 
                 <BannerReadingList title="Epicureanism" number="5" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
                 
-                <BannerReadingList title="Stoicism" number="5" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
+                <BannerReadingList title="Stoicism" number="6" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
 
                 <BannerReadingList title="Marxism" number="6" link="/reading-lists/karl-marx/" img={data.marx.childImageSharp.gatsbyImageData} alt="Marxism reading list" />
 
-                <BannerReadingList title="Existentialism" number="8" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
+                <BannerReadingList title="Existentialism" number="9" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
 
                 
                 </div>
@@ -107,7 +107,7 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Confucius" number="5" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
 
-                <BannerReadingList title="The Buddha" number="6" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
+                <BannerReadingList title="The Buddha" number="7" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
 
                 <BannerReadingList title="Machiavelli" number="5" link="/reading-lists/machiavelli/" img={data.machiavelli.childImageSharp.gatsbyImageData} alt="Machiavelli reading list" />
                 
