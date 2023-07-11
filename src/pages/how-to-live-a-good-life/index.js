@@ -37,7 +37,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
                     <h1 id="pfl">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h1>
-                    <p className="spectral">Enhance your approach to life by exploring 7 of the world’s wisest and most influential philosophies for living — including Stoicism, Existentialism, Buddhism, and beyond. 56 self-paced lessons, optimized for all devices:</p>
+                    <p className="spectral">Unlock instant access to 56 mind-opening, self-paced lessons on Stoicism, Existentialism, Buddhism and beyond (accessible forever from any device):</p>
                     <div className="mobile-center">
                         <CheckoutPFL />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
