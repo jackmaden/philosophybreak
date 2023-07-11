@@ -106,6 +106,20 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 
 14\. “A few hours’ mountain climbing make of a rogue and a saint two fairly equal creatures.”
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one mind-opening philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 15\. “Admiration for a quality or an art can be so strong that it deters us from striving to possess it.”
 
 >16\. The first opinion that occurs to us when we are suddenly asked about a matter is usually not our own, but only the customary one, appropriate to our caste, position, or parentage; our own opinions seldom swim near the surface.
@@ -253,6 +267,20 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 
 54\. “Words are acoustical signs for concepts; concepts, however, are more or less definite image signs for often recurring and associated sensations, for groups of sensations. To understand one another, it is not enough that one use the same words; one also has to use the same words for the same species of inner experiences; in the end one has to have one's experiences in common.”
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one mind-opening philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 55\. “A human being who strives for something great considers everyone he meets on his way either as a means or as a delay and obstacle — or as a temporary resting place.”
 
 >56\. Men of profound sadness betray themselves when they are happy: they have a way of embracing happiness as if they wanted to crush and suffocate it, from jealousy: alas, they know only too well that it will flee.
@@ -371,6 +399,20 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 
 81\. “When stepped on, the worm curls up. That is a clever thing to do. Thus it reduces its chances of being stepped on again. In the language of morality: humility.”
 
+<!--big subscribe-->
+<div class="course-promo darkradial-background subscribe text-center">
+    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <h4>Get one mind-opening philosophical idea delivered to your inbox every Sunday (free):</h4>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+    </div>
+</div>
+
 82\. “Idleness is the beginning of all psychology. What? Could it be that psychology is — a vice?”
 
 >83\. Is man merely a mistake of God’s? Or God merely a mistake of man?
@@ -444,23 +486,10 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 
 ## Learn more about Nietzsche 
  
-<span class="big-letter">T</span>o help you learn more about the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to his life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. [Learn more and enroll today.](/introduction-to-nietzsche/)
+<span class="big-letter">T</span>o help you learn more about the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a bite-size introduction to his life, work, and 5 greatest ideas, with materials delivered direct to your inbox over 6 days. Learn more and enroll today: [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/).
 
-<div class="article white">
-    <a href="/introduction-to-nietzsche/">
-        <div data-gatsby-image-wrapper="" class="gatsby-image-wrapper" suppresshydrationwarning="true"><div aria-hidden="true" style="padding-top: 85.4108%;"></div><div aria-hidden="true" data-placeholder-image="" style="opacity: 0; transition: opacity 500ms linear 0s; background-color: rgb(248, 248, 248); position: absolute; inset: 0px; object-fit: cover;"></div><picture><source type="image/webp" srcset="/static/03723fefbc97c079ed7c997885355160/e2229/intro-to-nietzsche-chap1-full.webp 750w,
-/static/03723fefbc97c079ed7c997885355160/8ee9d/intro-to-nietzsche-chap1-full.webp 1080w,
-/static/03723fefbc97c079ed7c997885355160/23c38/intro-to-nietzsche-chap1-full.webp 1366w,
-/static/03723fefbc97c079ed7c997885355160/dded5/intro-to-nietzsche-chap1-full.webp 1412w" sizes="100vw"><img width="1" height="0" data-main-image="" sizes="100vw" decoding="async" src="/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png" srcset="/static/03723fefbc97c079ed7c997885355160/d65d9/intro-to-nietzsche-chap1-full.png 750w,
-/static/03723fefbc97c079ed7c997885355160/13bb6/intro-to-nietzsche-chap1-full.png 1080w,
-/static/03723fefbc97c079ed7c997885355160/63451/intro-to-nietzsche-chap1-full.png 1366w,
-/static/03723fefbc97c079ed7c997885355160/0f59c/intro-to-nietzsche-chap1-full.png 1412w" alt="Introduction to Nietzsche and His 5 Greatest Ideas" style="object-fit: cover; opacity: 1;"></picture><noscript></noscript>
-        </div>
-        <div class="article-info">
-            <h4>Introduction to Nietzsche and His 5 Greatest Ideas</h4>
-            <p class="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
-            <p style="margin: 0 0 3px"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-            <span class="primary button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Learn More</span>
-        </div>
-    </a>
+<!--nietzsche-->
+<div class="course-promo darkradial-background subscribe text-center">
+<img src="/static/03723fefbc97c079ed7c997885355160/bef54/intro-to-nietzsche-chap1-full.webp" alt="introduction to nietzsche">
+<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche in just six 30-minute chapters.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
 </div>
