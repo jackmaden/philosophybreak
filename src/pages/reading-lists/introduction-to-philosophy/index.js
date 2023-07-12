@@ -59,7 +59,7 @@ const ReadingList = ({ data, location }) => {
                         </div>
                     </Link>
                 </div>
-                <p><Link to="/lifes-big-questions/">Life’s Big Questions</Link> distills philosophy’s best answers to some of life’s most troubling questions: why does anything exist? Is the world around us ‘real’? What makes us conscious? Do we have free will? How should we approach life? Packed full of wisdom from the greatest philosophical minds of the last few millennia, this concise online guide is designed to quickly equip you with philosophy’s most important insights.</p>
+                <p><Link to="/lifes-big-questions/">Life’s Big Questions</Link> distills philosophy’s best answers to some of life’s most troubling questions. Why does anything exist? Is the world around us ‘real’? What makes us conscious? Do we have free will? How should we approach life? Packed full of wisdom from the greatest philosophical minds of the last few millennia, this concise online guide is designed to quickly equip you with philosophy’s most important insights.</p>
                 
                 <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand the fundamentals of philosophy, and obtain a solid grounding for exactly where you can go to learn more, <Link to="/lifes-big-questions/">Life’s Big Questions</Link> gets rave reviews, and might be just what you’re looking for!</p>
                 

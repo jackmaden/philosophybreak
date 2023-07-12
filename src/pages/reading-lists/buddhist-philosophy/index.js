@@ -36,7 +36,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>However, unlike some other religions, its original philosophical teachings are not (necessarily) grounded in any appeals to ‘supernatural’ elements like a creator God or gods, resulting in the emergence of secular Buddhist movements that engender keen philosophical engagement.</p> 
 
-              <p>The teachings of the Buddha — especially the ‘Four Noble Truths’ and the concept of <Link to="/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/">anātman (no-self)</Link> — have fascinated thinkers for thousands of years, and offer a rich framework for facing up to life and suffering.</p>
+              <p>The teachings of the Buddha — especially his focus on suffering (as discussed in our explainer on the <Link to="/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/">Buddha’s parable of the poisoned arrow</Link>), his ‘Four Noble Truths’, and the concept of <Link to="/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/">anātman (no-self)</Link> — have fascinated thinkers for thousands of years, and offer a rich framework for facing up to life and suffering.</p>
               
               <p>While perhaps best known for its advocation of practices like mindfulness and meditation, and while many different schools and doctrines have grown up around its original teachings, the core of Buddhist philosophy has much to offer on a broad range of topics, from <Link to="/reading-lists/metaphysics/">metaphysics</Link> to <Link to="/reading-lists/ethics-and-morality/">ethics</Link>.</p>
 

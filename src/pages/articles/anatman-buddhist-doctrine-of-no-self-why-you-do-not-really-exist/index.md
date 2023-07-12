@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">T</span>he teachings of the Buddha have one core purpose: to eradicate _duḥkha_, a Sanskrit word often translated as ‘suffering’, but perhaps stronger than this, intended to capture all of life’s dissatisfaction, disappointment, unfulfilled hopes, and unhappiness. 
+<span class="big-letter">T</span>he teachings of the Buddha have one core purpose: to eradicate _duḥkha_, a Sanskrit word often translated as ‘suffering’, but perhaps stronger than this, intended to capture all of life’s dissatisfaction, disappointment, unfulfilled hopes, and unhappiness.
 
 As we discuss in our explainer of the [Buddha’s parable of the poisoned arrow](/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/), Buddhists think alleviating _duḥkha_ is our most important task in life — and most of our suffering arises from a fundamental mismatch between how we view reality and reality itself. 
 
