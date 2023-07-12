@@ -12,11 +12,11 @@ authorLink: "https://twitter.com/jackmaden_"
 ---
 <span class="big-letter">T</span>he teachings of the Buddha have one core purpose: to eradicate _duḥkha_, a Sanskrit word often translated as ‘suffering’, but perhaps stronger than this, intended to capture all of life’s dissatisfaction, disappointment, unfulfilled hopes, and unhappiness. 
 
-For the Buddha, alleviating _duḥkha_ is the only thing that matters in life, and he thinks most of our suffering arises from a fundamental mismatch between how we view reality and reality itself. The path to ending _duḥkha_, therefore, lies in facing up to and correcting our false beliefs about the world.
+As we discuss in our explainer of the [Buddha’s parable of the poisoned arrow](/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/), Buddhists think alleviating _duḥkha_ is our most important task in life — and most of our suffering arises from a fundamental mismatch between how we view reality and reality itself. 
 
-One of our most prominent and damaging misconceptions about reality, the Buddha thinks, is our confused notion of ‘self’. 
+The path to ending _duḥkha_, therefore, lies in facing up to and correcting our false beliefs about the world.
 
-By deflating our conventional notion of ‘self’ and understanding what we _really_ are, the Buddha argues, we can undermine _duḥkha_, and live more tranquil lives.
+One of our most prominent and damaging misconceptions about reality, the Buddha thinks, is our confused notion of ‘self’. By deflating our conventional notion of ‘self’ and understanding what we _really_ are, the Buddha argues, we can undermine _duḥkha_, and live more tranquil lives.
 
 ![The Buddha](./buddha.jpg "The historical Buddha was a man named Siddhartha Gautama who lived in northern India around 500 BCE. Siddhartha became the ‘Buddha’ (literally meaning ‘the awakened one’) when he achieved enlightenment following years of searching for the truth about reality. He spent the rest of his life traveling to share his lessons, inspiring the various Buddhist schools that exists across the world today.")
 
