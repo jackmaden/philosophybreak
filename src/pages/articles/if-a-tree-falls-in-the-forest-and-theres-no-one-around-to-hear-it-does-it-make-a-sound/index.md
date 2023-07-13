@@ -69,7 +69,7 @@ But to conclude this brief reflection on the tension between perception and real
 
 
 ## What do you think? Can we get behind consciousness?
-<span class="big-letter">T</span>his is a short exploration of themes covered in our celebrated 5-day introduction to philosophy course, [Life’s Big Questions]((/lifes-big-questions/)), in which you can learn thousands of years of philosophy with just 30 minutes of thought-provoking reading per day. Learn more and see if it’s for you now:
+<span class="big-letter">T</span>his is a short exploration of themes covered in our celebrated 5-day introduction to philosophy course, [Life’s Big Questions](/lifes-big-questions/), in which you can learn thousands of years of philosophy with just 30 minutes of thought-provoking reading per day. Learn more and see if it’s for you now:
 
 <!--life's big questions-->
 <div class="course-promo darkradial-background subscribe text-center">
