@@ -34,7 +34,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>Marx is perhaps best known for his sustained critique of capitalism and the concept of private property.</p>
               
-              <p>Marx’s critique was based around the idea that, because the ruling classes (bourgeoisie) control the means of production, and the working classes (proletariat) must sell their time to service these means, class conflict is inevitable.</p>
+              <p>This critique was based around the idea that, because the ruling classes (bourgeoisie) control the means of production, and the working classes (proletariat) must sell their time to service these means, class conflict is inevitable.</p>
               
               <p>As an alternative, Marx advocated for the common ownership of the means of production to establish a classless, communist society.</p>
 
@@ -75,7 +75,8 @@ const ReadingList = ({ data, location }) => {
               <h2>5. The Communist Manifesto, by Karl Marx and Friedrich Engels</h2>
               <BookLink title="The Communist Manifesto" author="Karl Marx and Friedrich Engels" link="http://www.amazon.com/Communist-Manifesto-Penguin-Classics/dp/0140447571?&linkCode=ll1&tag=philosophybre-20&linkId=a65df6ba737406a67b2896291be51856&language=en_US&ref_=as_li_ss_tl" img={data.five.childImageSharp.gatsbyImageData} />
               <p>Turning from introductions to primary texts, where better to start than with the book that cemented Marx’s name into human history?</p>
-              <p>Published on the eve of the 1848 European revolutions, Marx and Engels’ short yet forceful <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Communist-Manifesto-Penguin-Classics/dp/0140447571?&linkCode=ll1&tag=philosophybre-20&linkId=a65df6ba737406a67b2896291be51856&language=en_US&ref_=as_li_ss_tl">The Communist Manifesto</a> closes with the following infamous lines: “Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win.”</p>
+              <p>Published on the eve of the 1848 European revolutions, Marx and Engels’ short yet forceful <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Communist-Manifesto-Penguin-Classics/dp/0140447571?&linkCode=ll1&tag=philosophybre-20&linkId=a65df6ba737406a67b2896291be51856&language=en_US&ref_=as_li_ss_tl">The Communist Manifesto</a> closes with the following infamous lines:</p>
+              <blockquote><p>Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win.</p></blockquote>
               <p>This powerful work distills Marx and Engels’ economic principles, and whether you agree or disagree with their arguments, their passionate writing makes for an engaging, accessible read — and is essential for students of Marx and Marxism. </p>
               
 
