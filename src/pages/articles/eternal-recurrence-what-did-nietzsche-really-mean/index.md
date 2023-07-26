@@ -103,7 +103,7 @@ For our purposes in this short article, it is enough to regard the eternal recur
 
 ## Learn more about the eternal recurrence and Nietzsche’s fascinating philosophy
 
-To help you learn more about not just the eternal recurrence but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to his life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. 
+To help you learn more about not just the eternal recurrence but the entire philosophy of Friedrich Nietzsche — as well as why this controversial, oft-misunderstood thinker holds such a special place in the history of philosophy — we’ve put together a [bite-size introduction to Nietzsche’s life, work, and 5 greatest ideas](/introduction-to-nietzsche/), with materials delivered direct to your inbox over 6 days. 
 
 <!--nietzsche-->
 <div class="course-promo darkradial-background subscribe text-center">

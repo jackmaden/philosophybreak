@@ -40,7 +40,7 @@ I think for me that moment crystallized the idea for a book about how philosophy
 
 <span class="big-letter">T</span>here’s a couple of immediate practical things to say about _not_ focusing on adversity. One is that thinking about the ideal or dream life is unrealistic and not really a guide to what to do here and now.
 
-In political philosophy, for example, there’s been a critique of so-called ‘ideal theory’, where you describe an essentially utopian society. One of the objections is that we can never achieve it. Another is that describing the utopian society actually doesn’t tell us very much about how to deal with injustice in the world around us. 
+In political philosophy, for example, there’s been a critique of so-called ‘ideal theory’, where you describe an essentially utopian society. One of the objections is that we can never achieve it _\[here’s [Isaiah Berlin’s argument on why pursuing utopia is dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)]_. Another is that describing the utopian society actually doesn’t tell us very much about how to deal with injustice in the world around us. 
 
 And I think something like that is true in the ethics of individual flourishing, too — that even if you’re right about what an ideal life would look like, it won’t include whatever circumstances you’re in right now, and so it won’t give you a guide to it.
 
