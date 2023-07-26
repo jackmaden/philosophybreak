@@ -50,35 +50,42 @@ module.exports = {
                             date: node.frontmatter.date,
                             url: site.siteMetadata.siteUrl + node.fields.slug,
                             guid: site.siteMetadata.siteUrl + node.fields.slug,
+                            author: node.frontmatter.author,
+                            enclosure: {
+                                'url': site.siteMetadata.siteUrl + node.frontmatter.imageSeo.publicURL,
+                            },
+                            categories: ['Philosophy'],
                           })
                         })
                       },
                       query: `
-                        {
-                          allMarkdownRemark(
-                            sort: { order: DESC, fields: [frontmatter___date] },
-                          ) {
-                            nodes {
-                              html
-                              fields { 
-                                slug 
-                              }
-                              frontmatter {
-                                title
-                                date
-                                description
+                      {
+                        allMarkdownRemark(
+                          sort: { order: DESC, fields: [frontmatter___date] },
+                        ) {
+                          nodes {
+                            html
+                            fields { 
+                              slug 
+                            }
+                            frontmatter {
+                              title
+                              date
+                              description
+                              author
+                              tags
+                              imageSeo {
+                                publicURL
                               }
                             }
                           }
                         }
-                      `,
+                      }
+                    `,
                       output: "/rss.xml",
                       title: "Latest Breaks RSS Feed | Philosophy Break",
                       description: "Short articles on philosophy's biggest ideas. Each break takes only a few minutes to read, and is crafted to expand your mind and spark your curiosity.",
-                      // optional configuration to insert feed reference in pages:
-                      // if `string` is used, it will be used to create RegExp and then test if pathname of
-                      // current page satisfied this regular expression;
-                      // if not provided or `undefined`, all pages will have feed reference inserted
+                      language: 'en',
                       match: "^/articles/",
                     },
                 ],
