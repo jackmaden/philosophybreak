@@ -25,6 +25,65 @@ module.exports = {
                 excludes: [`/thank-you`, `/thank-you-lifes-big-questions`, `/thank-you-introduction-to-nietzsche`, `/thank-you-philosophies-for-living`, `/privacy-policy`, `/cookie-policy`, `/amazon-affiliate`]
             }
         },
+        //rss feed
+        {
+            resolve: 'gatsby-plugin-feed',
+            options: {
+                query: `
+                    {
+                        site {
+                            siteMetadata {
+                                title
+                                description
+                                siteUrl
+                                site_url: siteUrl
+                            }
+                        }
+                    }
+                `,
+                feeds: [
+                    {
+                      serialize: ({ query: { site, allMarkdownRemark } }) => {
+                        return allMarkdownRemark.nodes.map(node => {
+                          return Object.assign({}, node.frontmatter, {
+                            description: node.frontmatter.description,
+                            date: node.frontmatter.date,
+                            url: site.siteMetadata.siteUrl + node.fields.slug,
+                            guid: site.siteMetadata.siteUrl + node.fields.slug,
+                          })
+                        })
+                      },
+                      query: `
+                        {
+                          allMarkdownRemark(
+                            sort: { order: DESC, fields: [frontmatter___date] },
+                          ) {
+                            nodes {
+                              html
+                              fields { 
+                                slug 
+                              }
+                              frontmatter {
+                                title
+                                date
+                                description
+                              }
+                            }
+                          }
+                        }
+                      `,
+                      output: "/rss.xml",
+                      title: "Latest Breaks RSS Feed | Philosophy Break",
+                      description: "Short articles on philosophy's biggest ideas. Each break takes only a few minutes to read, and is crafted to expand your mind and spark your curiosity.",
+                      // optional configuration to insert feed reference in pages:
+                      // if `string` is used, it will be used to create RegExp and then test if pathname of
+                      // current page satisfied this regular expression;
+                      // if not provided or `undefined`, all pages will have feed reference inserted
+                      match: "^/articles/",
+                    },
+                ],
+            },
+        },
         //robots.txt
         {
             resolve: 'gatsby-plugin-robots-txt',
