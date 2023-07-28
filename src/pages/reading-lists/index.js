@@ -119,7 +119,9 @@ const Page = ({ data, location }) => {
                 
                 <BannerReadingList title="Karl Marx" number="6" link="/reading-lists/karl-marx/" img={data.marx.childImageSharp.gatsbyImageData} alt="Karl Marx reading list" />
 
-                <BannerReadingList title="Fyodor Dostoevsky" number="6" link="/reading-lists/fyodor-dostoevsky/" img={data.dost.childImageSharp.gatsbyImageData} alt="Fyodor Dostoevsky reading list" />
+                <BannerReadingList title="Fyodor Dostoevsky" number="6" link="/reading-lists/fyodor-dostoevsky-best-books/" img={data.dost.childImageSharp.gatsbyImageData} alt="Fyodor Dostoevsky reading list" />
+
+                <BannerReadingList title="Leo Tolstoy" number="5" link="/reading-lists/leo-tolstoy-best-books/" img={data.tolstoy.childImageSharp.gatsbyImageData} alt="Leo Tolstoy reading list" />
                 
                 <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
 
@@ -334,6 +336,11 @@ export const query = graphql`{
     }
   }
   dost: file(relativePath: {eq: "dostoevsky.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  tolstoy: file(relativePath: {eq: "tolstoy.webp"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

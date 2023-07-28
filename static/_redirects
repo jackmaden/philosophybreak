@@ -15,3 +15,6 @@ https://philosophybreak.netlify.app/* https://philosophybreak.com/:splat 301!
 
 # Redirect PFL to how to live a good life
 /philosophies-for-living /how-to-live-a-good-life 301!
+
+# Redirect Dostoevsky RL 
+/reading-lists/fyodor-dostoevsky /reading-lists/fyodor-dostoevsky-best-books 301!

@@ -21,7 +21,7 @@ But beyond this fond caricature of the lifestyles and demeanours of existentiali
 
 So what _is_ existentialism, exactly? Well, in a nutshell, existentialism concerns itself with finding ways to explain the individual human experience, focusing like a laser on what it means to exist as an individual human being in a universe we don’t understand.
 
-Defining it further than this requires some clarification, for existentialism is a term not limited to philosophers, but also used to describe the work of novelists, playwrights, and artists — notably Fyodor Dostoevsky (see our [reading list on Dostoevsky’s best books here](/reading-lists/fyodor-dostoevsky/)), Franz Kafka, and Samuel Beckett — making existentialism as much a general cultural movement as it is a specific philosophy. 
+Defining it further than this requires some clarification, for existentialism is a term not limited to philosophers, but also used to describe the work of novelists, playwrights, and artists — notably Fyodor Dostoevsky (see our [reading list on Dostoevsky’s best books here](/reading-lists/fyodor-dostoevsky-best-books/)), Franz Kafka, and Samuel Beckett — making existentialism as much a general cultural movement as it is a specific philosophy. 
 
 Let's take a quick look at the cultural movement, before diving into the three key principles of formal existentialist philosophy.
 
