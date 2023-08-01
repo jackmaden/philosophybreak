@@ -145,7 +145,7 @@ Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://w
 
 Do you agree with Seneca’s arguments throughout? Do you think he’s successful in remedying some of our concerns about the shortness of life? Is it entirely clear that Seneca’s solution — attending to the present and studying philosophy — will help us overcome our preoccupations? Should we only invest our time in ourselves? Is it misguided to dedicate our lives to something other than ourselves? Or do you think Seneca’s point is more about removing inauthentic or fleeting pursuits from our lives, and placing value on things that truly endure and matter instead?
 
-If you’d like to explore these questions further or learn more about Stoicism generally, check out our explainer of [the four cardinal virtues of Stoicism](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/), as well as our [reading list on Stoic philosophy](/reading-lists/stoicism/), which features the best five books of and about Stoicism. Hit the banner below to access it now! 
+If you’d like to explore these questions further or learn more about Stoicism generally, check out our explainers of [the four cardinal virtues of Stoicism](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/) (a Stoic device for clearing your mind), as well as our [reading list on Stoic philosophy](/reading-lists/stoicism/), which features the best six books of and about Stoicism. Hit the banner below to access it now! 
 
 <a class="reading-list cta" href="/reading-lists/stoicism/">
     <img class="title-img" src="./stoicism.jpg"/>
@@ -154,7 +154,7 @@ If you’d like to explore these questions further or learn more about Stoicism 
         <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
         <div class="separator reading-list banner"></div>
         <h3>Stoicism</h3>
-        <p style="margin: 0;">The Top 5 Books to Read</p>
+        <p style="margin: 0;">The Top 6 Books to Read</p>
     </div>    
     <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
 </a>

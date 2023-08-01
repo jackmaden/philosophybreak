@@ -39,9 +39,9 @@ const ReadingList = ({ data, location }) => {
 
               <blockquote><p>You have power over your mind — not outside events. Realize this, and you will find strength.</p></blockquote>
 
-              <p>Or this, from Epictetus:</p>
+              <p>Or Epictetus on the <Link to="/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/">dichotomy of control</Link>:</p>
 
-              <blockquote><p>It's not what happens to you, but how you react to it that matters.</p></blockquote> 
+              <blockquote><p>If you wish to have peace and contentment, release your attachment to all things outside your control. This is the path of freedom and happiness.</p></blockquote> 
 
               <p>Or <Link to="/articles/seneca-on-coping-with-the-shortness-of-life/">Seneca on the shortness of life</Link>:</p>
 

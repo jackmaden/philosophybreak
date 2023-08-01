@@ -142,7 +142,9 @@ Do the best _you_ can, be the best person _you_ can be moment to moment, and acc
 
 ## Learn more about the Stoic philosophy of life
 
-<span class="big-letter">T</span>he dichotomy of control can be a powerful device for clearing our minds, but the Stoics knew that implementing it in the face of real emotion or profound adversity is a significant challenge. 
+<span class="big-letter">A</span>s with the [Epicurean therapeutic approach to philosophy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/), the Stoics think the purpose of philosophy is not just conceptual clarification; the purpose of philosophy is to help us live better, more tranquil lives.
+
+The dichotomy of control is a powerful tool in this regard, but the Stoics knew that implementing it in the face of real emotion or profound adversity is a significant challenge. 
 
 If you’re interested in learning more about how the Stoics approached not just emotion and adversity but the entirety of life (including living up to the [four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and facing up to death, as [Seneca discusses in his essay on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/)), you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
 
