@@ -94,11 +94,11 @@ In this way, Stoicism displays a key similarity with its rival philosophical sch
 
 We are all capable of happiness and living well, both philosophies agree: we just have false beliefs about what will make us happy. Philosophy can act as a healing balm to undermine our false beliefs about the world and thus rid us of pain and anxiety, and ultimately empower us to live happy lives with untroubled minds.
 
-While Epicureans have the fourfold cure (which summarizes the first four aphorisms of [Epicurus’s Principal Doctrines](/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/)), one of the most crucial therapeutic devices in Stoicism for helping us live happy lives is the so-called _dichotomy of control_. 
+While Epicureans have the fourfold cure (which summarizes the first four aphorisms of [Epicurus’s Principal Doctrines](/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/)), one of the most crucial therapeutic devices in Stoicism for helping us live happy lives is the so-called [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/). 
 
 ## Learn more about Stoicism
 
-<span class="big-letter">Y</span>ou can learn exactly what the dichotomy of control entails — as well as additional Stoic advice for mastering our emotions, dealing with adversity, living up to the four cardinal virtues, and facing up to death (as [Seneca advises in his essay, On the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)) — in our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/). 
+<span class="big-letter">I</span>f you’re interested in learning more about exactly what the dichotomy of control entails — as well as additional Stoic advice for mastering our emotions, dealing with adversity, living up to the four cardinal virtues, and facing up to death (as [Seneca advises in his essay, On the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)) — you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">
