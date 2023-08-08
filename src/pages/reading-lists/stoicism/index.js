@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>This is likely due to how fantastically practical much Stoic wisdom can be. Unlike other philosophy — which, tragically, as a general subject is often perceived to be outdated or pointless (<Link to="/why-is-philosophy-important-today/">here’s our counter-argument as to why philosophy in today’s world is actually as relevant and important as ever</Link>) — Stoicism cuts right to the heart of our day-to-day attitudes and behaviors, and its core principles are distilled in many famous natty aphorisms and quotations.</p> 
 
-              <p>For example, consider this from Marcus Aurelius:</p>
+              <p>For example, consider this from Marcus Aurelius (see our pick of <Link to="/reading-lists/marcus-aurelius-best-books/">Marcus Aurelius’s best books here</Link>):</p>
 
               <blockquote><p>You have power over your mind — not outside events. Realize this, and you will find strength.</p></blockquote>
 
@@ -90,18 +90,19 @@ const ReadingList = ({ data, location }) => {
 
               <h2>5. Letters from a Stoic, by Seneca</h2>
               <BookLink title="Letters from a Stoic" author="Seneca" link="http://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac" img={data.four.childImageSharp.gatsbyImageData} />
-              <p>While the Roman statesman and dramatist Seneca advocated calmness and moderation through his Stoic philosophy, his life (from 4 BC to 65 AD) was punctuated by major upheaval.</p>
-              <p>⁣In 41 AD, following a political dispute, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 AD to become a tutor to Nero. When Nero became emperor, Seneca became his advisor.⁣ Seneca’s influence over Nero declined with time, and in 65 AD Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent.</p> 
+              <p>While the Roman statesman and dramatist Seneca advocated calmness and moderation through his Stoic philosophy, his life (from 4 BCE to 65 CE) was punctuated by major upheaval.</p>
+              <p>⁣In 41 CE, following a political dispute, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 CE to become a tutor to Nero. When Nero became emperor, Seneca became his advisor.⁣ Seneca’s influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent.</p> 
               <p>These events may seem remote from the 21st century, but there is much to learn from the wit, intelligence, and courage with which Seneca faced them.</p>
               <p>Supremely accessible, reading <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac">Letters from a Stoic</a> — a collection of letters Seneca wrote throughout his lifetime — is like having exclusive access to a deep, beautiful well of profound, practical wisdom addressed directly to you. If you’re interested in Stoicism, your bookshelf will not be complete without Seneca.</p>
               
 
               <h2>6. Meditations, by Marcus Aurelius</h2>
-              <BookLink title="Meditations" author="Marcus Aurelius" link="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e" img={data.five.childImageSharp.gatsbyImageData} />
+              <BookLink title="Meditations" author="Marcus Aurelius" link="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl" img={data.five.childImageSharp.gatsbyImageData} />
               <p>The last of the big three Stoic names discussed in this list of the best books on Stoicism, and arguably the most well known, Marcus Aurelius is a titan of the Stoic tradition.</p>
-              <p>Roman emperor from 161 to 180 AD, Aurelius reigned during a time of many significant military conflicts, as well as the Antonine Plague, a pandemic that devastated the population of the Roman Empire, causing the deaths of five million people.</p>
-              <p>Despite these difficult events — or perhaps because of them — the philosophy Aurelius advocated is one of calmness and serenity. His <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a>, a collection of his personal reflections written without any intention of publication, are a significant source of the modern understanding of ancient Stoic philosophy, and have been praised by countless writers, philosophers, monarchs and politicians in the centuries since the great man’s death.</p>
-              <p>Containing profound lessons on how to deal with hardship and live a good life, Aurelius’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a> is simply an essential read for anyone interested in Stoicism.</p>
+              <p>As we outline in our <Link to="/reading-lists/marcus-aurelius-best-books/">Marcus Aurelius reading list</Link>, the Roman emperor reigned from 161 to 180 CE during a time of many significant military conflicts, as well as the Antonine Plague, a pandemic that devastated the population of the Roman Empire, causing the deaths of five million people.</p>
+              <p>Despite these difficult events — or perhaps because of them — the philosophy Marcus advocated is one of calmness and serenity. His <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl">Meditations</a>, a collection of his personal reflections written without any intention of publication, are a significant source of the modern understanding of ancient Stoic philosophy, and have been praised by countless writers, philosophers, monarchs and politicians in the centuries since the great man’s death.</p>
+              <p>Containing profound lessons on how to deal with hardship and live a good life, Marcus’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl">Meditations</a> is simply an essential read for anyone interested in Stoicism.</p>
+              <p>This particular edition is a recent translation by the ancient Greek scholar Robin Waterfield, and with its helpful annotations is recognized as perhaps the best version of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl">Meditations</a> available today.</p>
               
               
               <h2>Further reading</h2>
@@ -148,7 +149,7 @@ export const query = graphql`{
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
-  five: file(relativePath: {eq: "stoicism-marcus.jpg"}) {
+  five: file(relativePath: {eq: "marcus-med.jpeg"}) {
     childImageSharp {
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }

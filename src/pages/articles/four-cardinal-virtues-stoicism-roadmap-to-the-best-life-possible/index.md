@@ -47,7 +47,7 @@ No one is born with mastery of the four cardinal virtues. We must work at them, 
     </div>
 </div>
 
-The demanding nature of Stoicism is what leads the three major Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/)). 
+The demanding nature of Stoicism is what leads the three major Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/), and [Marcus Aurelius’s best books here](/reading-lists/marcus-aurelius-best-books/)). 
 
 ![Seneca, Epictetus, and Marcus Aurelius](./the-roman-stoics.jpg "Though all lived in the Roman Empire in the first and second centuries, the lives of the Roman Stoics were very different. Seneca (4 BCE - 65 CE), left, was adviser to the Roman Emperor Nero, and was eventually exiled and forced to take his own life, as depicted in Peter Paul Rubens’ famous 1615 painting. Epictetus (50 CE - 135 CE), center, was a slave who gained his freedom and set up a philosophical school. Marcus Aurelius (121 CE - 180 CE), right, was Emperor of Rome during a time of constant crisis, be it war or plague, and outlived most of his children.")
 
@@ -67,7 +67,7 @@ By knowing our own judgment awaits us at the end of the day, Seneca says, we can
 
 It’s not only Seneca that recommends the practice of daily self-reflection. Marcus Aurelius’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a> — the most famous and widely-read Stoic text — is simply a collection of his personal journal entries over the course of around a decade. It was never intended for public readership; it’s just him at the end of each day reflecting on how he can be better the next.
 
-And, even though he was a Roman emperor writing almost 2,000 years ago, the struggles Marcus writes about are often remarkably relatable to our lives today. When you’re next finding it difficult to get out of bed one cold morning, for instance, consider this passage:
+And, even though he was a Roman emperor who lived almost 2,000 years ago, the struggles Marcus writes about are often remarkably relatable to our lives today. When you’re next finding it difficult to get out of bed one cold morning, for instance, consider this passage:
 
 >At dawn, when you have trouble getting out of bed, tell yourself: ‘I have to go to work — as a human being. What do I have to complain of, if I’m going to do what I was born for — the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?’ So you were born to feel ‘nice’? Instead of doing things and experiencing them? Don’t you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you’re not willing to do your job as a human being? Why aren’t you running to do what your nature demands? You don’t love yourself enough. Or you’d love your nature too, and what it demands of you.
 

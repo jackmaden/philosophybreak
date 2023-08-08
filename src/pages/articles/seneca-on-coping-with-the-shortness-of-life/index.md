@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
 
-<span class="big-letter">I</span>n his brilliant 49 AD essay <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae">On the Shortness of Life</a>, Roman Stoic philosopher Seneca addresses his father-in-law, Paulinus, about the seemingly universal human complaint regarding the shortness of life: we are born, our existences rush swiftly by, and before we know it, we die. 
+<span class="big-letter">I</span>n his brilliant 49 CE essay <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae">On the Shortness of Life</a>, Roman Stoic philosopher Seneca addresses his father-in-law, Paulinus, about the seemingly universal human complaint regarding the shortness of life: we are born, our existences rush swiftly by, and before we know it, we die. 
 
 In the face of this certain fate, how can we shake off the pervasive suspicion that, however we end up living our brief lives, we’re not making the most of them? How can we keep existential frets and despairs at bay?
 
@@ -33,7 +33,7 @@ The money, possessions, and status we chase and trade on in our day-to-day lives
 
 “Feeble old men pray for a few more years,” Seneca continues: “they pretend they are younger than they are; they comfort themselves by this deception and fool themselves as eagerly as if they fooled Fate at the same time. But when at last some illness has reminded them of their mortality, how terrified do they die, as if they were not just passing out of life but being dragged out of it. They exclaim that they were fools because they have not really lived, and that if only they can recover from this illness they will live in leisure. Then they reflect how pointlessly they acquired things they never would enjoy, and how all their toil has been in vain.”
 
-![Seneca](./seneca-painting.jpg "Born in 4 BC, Seneca was a Roman Stoic philosopher who tutored emperor Nero. Seneca's influence over Nero declined with time, and in 65 AD Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent. His stoic and calm suicide has become the subject of numerous paintings, including the one above by Peter Paul Rubens, c.1614.")
+![Seneca](./seneca-painting.jpg "Born in 4 BC, Seneca was a Roman Stoic philosopher who tutored emperor Nero. Seneca's influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent. His stoic and calm suicide has become the subject of numerous paintings, including the one above by Peter Paul Rubens, c.1614.")
 
 Why do we leave it until death approaches to suddenly recognize that time is the most precious resource we have? Seneca writes, “if each of us could have the tally of his future years set before him, as we can of our past years, how alarmed would be those who saw only a few years ahead, and how carefully would they use them!” 
 
