@@ -256,7 +256,7 @@ h5.discount span:last-child {text-decoration: none; font-weight: 600; color: #ff
 a {color: #001d30; text-decoration: underline; -webkit-text-decoration-color: #36b4ff; -ms-text-decoration-color: #36b4ff; -moz-text-decoration-color: #36b4ff; text-decoration-color: #36b4ff;}
 a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
 a.no-hover:hover {background: none;}
-a.white-underline {-webkit-text-decoration-color: #fff; -ms-text-decoration-color: #fff; -moz-text-decoration-color: #fff; text-decoration-color: #fff;}
+.white-underline {-webkit-text-decoration-color: #fff; -ms-text-decoration-color: #fff; -moz-text-decoration-color: #fff; text-decoration-color: #fff;}
 a.no-decoration {text-decoration: none;}
 /*lists*/
 
@@ -450,7 +450,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .coursepanel h3 {font-size: 34px;}
 .coursepanel h3.pfl {font-size: 33px;}
 .coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span, .coursepanel.grey-background > a > div > div.mobile-center > p.no-mar-top > span {color: #001d30;}
-.coursepanel a.white-underline {text-decoration: underline;}
+.coursepanel .white-underline {text-decoration: underline;}
 @media (min-width: 620px) {.coursepanel h3 {font-size: 40px;} .coursepanel h3.pfl {font-size: 36px;}}
 
 
@@ -623,9 +623,9 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /*white bg LBQ panel*/
-.white-background .time.tag, .white-background a.white-underline, .grey-background.course .time.tag, .grey-background.course a.white-underline {color: #001d30;}
-.white-background a.white-underline, .grey-background.course a.white-underline {text-decoration-color: #001d30;}
-.white-background a.white-underline:hover, .grey-background.course a.white-underline:hover {color: #fff; text-decoration-color: #fff;}
+.white-background .time.tag, .white-background .white-underline, .grey-background.course .time.tag, .grey-background.course .white-underline {color: #001d30;}
+.white-background .white-underline, .grey-background.course .white-underline {text-decoration-color: #001d30;}
+.white-background .white-underline:hover, .grey-background.course .white-underline:hover {color: #001d30; text-decoration-color: #001d30;}
 
 
 /***article listing***/
