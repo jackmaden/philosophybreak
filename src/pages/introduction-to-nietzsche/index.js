@@ -226,8 +226,20 @@ const Page = ({ data, location }) => {
         {/*Reviews - create component when over 10 (copy LBQ one)*/}
         <div className="grey-background no-hover mid-pad" id="reviews">
             <div className="page-center">
-                <h2>12 Course Reviews</h2>
+                <h2>14 Course Reviews</h2>
                 <div className="two-col wrap align-top">
+                    
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Best explanation I've seen</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>An exceptionally good course. I have been studying philosophy independently for about 10 years, this came as a bi-product of studying Christian history. This is the best Nietzsche explanation I have seen. You have a great skill in being able to express a complex subject with clarity and ease. I found it a great 'pulling together' of all I thought I knew, and the course delivery was perfect. God is Dead was my favorite chapter, but I loved them all. Keep creating work like this and I will always subscribe. Thank you for all the work you put into this.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert N. on 10 August 2023</span></div>
+                    </div>
+
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Exceptional</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Exceptional. It was the perfect level and content for me. I signed up because during an interview Douglas Murray referenced Nietzsche and said something like, "One must be very careful with Nietzsche." I didn't know what he meant but I believe I understand now. The very first chapter hooked me with all the biographical details which made me even more interested in his work. I looked forward to receiving each new chapter which displayed perfectly on my laptop. I ordered several of the books you recommended from Amazon. Thank you very much.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Stacey L. on 15 June 2023</span></div>
+                    </div>
                     
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Amazing</i></span></p>
