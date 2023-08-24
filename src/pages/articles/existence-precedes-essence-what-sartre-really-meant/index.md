@@ -5,7 +5,7 @@ image: "./berlin-by-night.jpeg"
 imageAlt: "Berlin by Night, by Lesser Ury"
 imageSeo: "./berlin-by-night.jpeg"
 tags: ["Existentialism", "Ethics", "Jean-Paul Sartre", "Simone de Beauvoir"]
-date: "2023-08-22"
+date: "2023-08-24"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
@@ -104,9 +104,21 @@ Every choice we make in life affirms a particular value; anxiety is the dizzines
 
 ## If existence precedes essence, if we are responsible for ourselves, then authenticity should be our guide
 
-<span class="big-letter">T</span>he existentialists present diverse answers to the question of how we should live with radical freedom, but the unifying theme of their recommendations is _authenticity:_ to freely do what is valuable not according to external sources or pressures, but according _to you._ 
+<span class="big-letter">G</span>iven the anguish of responsibility, it is tempting to give in and fall back on identities and meanings already assigned to us — to surrender to the idea that there _is_ a human nature and that I _am_ determined by my given body / circumstances / culture. 
 
-To grant us more insight into what authenticity means in practice, existentialist thinkers present us with a number of what we might call ‘existential heroes’ throughout their works. 
+Rather than face up to our freedom, we might find it easier or more comfortable to live according to societal norms and the expectations of others.
+
+Existentialists all agree, however, that we are wrong to do this. Suppressing our own freedom is not how we live good lives; playing a part, not being true to ourselves — this will ultimately make us miserable.
+
+While the existentialists present diverse answers to the question of how we should live with radical freedom, the unifying theme of their recommendations is _authenticity:_ to freely do what is valuable not according to external sources or pressures, but according _to you._ 
+
+Inauthenticity — or ‘bad faith’, as Sartre calls it — is when we let our own existential freedom be inhibited through complacency or conformity, when we let other things or people dictate value or define us, when we fix ourselves to static roles or identities rather than recognize ourselves as ever-becoming _beings_. 
+
+If there were an existential imperative for self-governance, it would be this: never deny your own freedom. (Or, indeed, that of others). Life is endlessly unfolding, and so is your being.
+
+## Existential heroes: role models for authenticity
+
+<span class="big-letter">T</span>o grant us more insight into what authentic freedom means in practice, existentialist thinkers present us with a number of what we might call ‘existential heroes’ throughout their works.
 
 It might seem strange to pick out existential heroes: surely the point of authenticity is that we must forge our own paths, not copy other people’s.  
 
