@@ -202,21 +202,21 @@ div.slick-slider .slick-dots li.slick-active {border: solid 2px #fff;}
   .desktop-no-display {display: none !important;}
 }
 /***headings***/
-h1 {font-size: 36px; font-weight: 800;}
+h1 {font-size: 36px; font-weight: 700;}
 h1#home-page, h1#pfl {font-size: 34px;}
 h1#lbq {font-size: 32px;}
 h1#smaller {font-size: 30px;}
-h2 {font-size: 34px; font-weight: 800;}
+h2 {font-size: 34px; font-weight: 700;}
 #break-start h2 {font-size: 30px; margin: 2em 0 0.5em;}
 #break-start .smaller-h2 h2 {font-size: 24px;}
 h4, h5, h6 {margin: 1.2em 0 0.6em; font-weight: 400;}
-h3 {font-size: 26px; font-weight: 800;}
+h3 {font-size: 26px; font-weight: 700;}
 h3.bigger {font-size: 34px;}
 h4 {font-size: 22px;}
 h5 {font-size: 20px;}
 
 /*contents h5*/
-#break-start h5 {font-weight: 800;}
+#break-start h5 {font-weight: 700;}
 
 @media (min-width: 360px) {
   h1#home-page {font-size: 32px;}
@@ -232,7 +232,7 @@ h5 {font-size: 20px;}
     #break-start .smaller-h2 h2 {font-size: 26px;}
     h3 {font-size: 32px;}
     h3.bigger {font-size: 40px;}
-    h3.medium-big {font-size: 35px;}
+    h3.medium-big {font-size: 36px;}
     h4 {font-size: 26px;}
     h5 {font-size: 22px;}
 }
@@ -318,7 +318,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 #nav.reduce-size .page-center {margin-top: 10px;}
 /**logo**/
 a.logo {position: relative; text-decoration: none; transition: 0.2s;}
-a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s; font-weight: 900;}
+a.logo h3 {color: #fff; display: inline-block; margin: 6.5px 0 0 9px; font-size: 23px; vertical-align: top; line-height: 0.6; transition: 0.2s; font-weight: 800;}
 a.logo h3.reduce-size {color: #001d30; font-size: 22px; margin: 6.5px 0 0 8px;}
 #nav.light-bg a.logo h3, #nav.dark a.logo h3 {color: #001d30;}
 #nav.light-bg a.logo h3 span, #nav.dark a.logo h3 span {color: #001d30;}
@@ -367,7 +367,7 @@ ul#menu li a div {display: flex; align-items: center;}
 ul#menu li.primary.one a div h3, ul#menu li:hover a p.small-grey-font, ul#menu li a:hover p.small-grey-font {color: #36b4ff}
 ul#menu li.primary.two a div h3, ul#menu li.primary.two:hover a p.small-grey-font, ul#menu li.primary.two a:hover p.small-grey-font {color: #3683ff}
 ul#menu li.primary.three a div h3, ul#menu li.primary.three:hover a p.small-grey-font, ul#menu li.primary.three a:hover p.small-grey-font {color: #020887}
-ul#menu li a div h5 {font-weight: 800; margin: 0; color: #bdbfc7;}
+ul#menu li a div h5 {font-weight: 700; margin: 0; color: #bdbfc7;}
 ul#menu li.primary a div svg path {fill: #001d30;}
 ul#menu li a div svg {margin-right: 8px; width: 18px; height: 18px;}
 ul#menu li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
@@ -387,7 +387,7 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   ul#menu p.small-grey-font {font-size: 18px; margin-top: 9px;}
   /*show menu label*/
   #menu-trigger {display: flex; align-items: center;}
-  #menu-trigger span {display: block; transition: 0.2s; margin-right: 9px; color: #fff; font-size: 16px; font-weight: 900; margin-top:1px;}
+  #menu-trigger span {display: block; transition: 0.2s; margin-right: 9px; color: #fff; font-size: 16px; font-weight: 800; margin-top:1px;}
   #nav.reduce-size #menu-trigger span {color: #001d30; font-size: 14px; margin-top: 2px; margin-right: 8px;}
   #nav.light-bg #menu-trigger span, #nav.dark #menu-trigger span {color: #001d30;}
   #nav.reduce-size.dark {-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
@@ -421,7 +421,7 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 #footer .logo-footer a {text-decoration: none;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 100px;}
-#footer .logo-footer h3 {color: #001d30; margin-top: 10px; font-weight: 900;}
+#footer .logo-footer h3 {color: #001d30; margin-top: 10px; font-weight: 800;}
 #footer .logo-footer h3 small {font-size: 13px; display: block; font-family: 'Spectral', serif; letter-spacing: -0.5px; font-weight: 400; color: #001d30;}
 #footer .follow-footer {margin: 20px 0 30px;}
 #footer .disclaimer-footer p {color: #001d30; font-size: 10px;}
@@ -492,7 +492,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .member {width: 100%; margin-bottom: 2em; text-align: center;}
 .member .gatsby-image-wrapper {width: 100%; margin-left: auto; margin-right: auto;}
 .member .gatsby-image-wrapper img {border-radius: 50%;}
-.member p {font-size: 16px; font-weight: 800; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
+.member p {font-size: 16px; font-weight: 700; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important;}
 .member p span {display: block;  font-size: 14px; margin-top: 4px; font-weight: 400;}
 
 @media (min-width: 620px) {
@@ -533,7 +533,7 @@ div.title-center {position: absolute; left: 0; right: 0;}
 .carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
 .title div.title-center {bottom: 67px;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
-div.title-center h2 {font-size: 36px; margin: 0; font-weight: 800;}
+div.title-center h2 {font-size: 36px; margin: 0; font-weight: 700;}
 div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
 .title.no-author div.title-center .description {margin-bottom: 0;}
 .time {font-size: 12px; font-weight: 400;}
@@ -638,7 +638,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 #break-start .article.white a:hover h4 {background-image: linear-gradient(to right, #001d30, #001d30); background-color: #001d30;}
 .article a .gatsby-image-wrapper {width: 50%; height: 180px; object-fit: cover;}
 .article a .article-info {width: 50%; padding: 12px 12px 12px 20px; box-sizing: border-box;}
-.article a .article-info h4, #break-start .article a .article-info h4 {margin: 0; font-size: 17px; font-weight: 800;}
+.article a .article-info h4, #break-start .article a .article-info h4 {margin: 0; font-size: 17px; font-weight: 700;}
 .article a .article-info .time {font-size: 10px; color: #001d30; margin-bottom: 0;}
 .article a .article-info .time svg {width: 16px; height: 16px; margin-right: 4px; fill: #36b4ff;}
 .article a .article-info .button {margin-top: 1em;}
@@ -660,7 +660,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .article.home:first-of-type a {flex-direction: column;}
 .article.home:first-of-type a .gatsby-image-wrapper {width: 100%; height: 160px;}
 .article.home:first-of-type a .article-info {width: 100%; padding: 10px 20px;}
-.article.home:first-of-type a .article-info h4 {font-size: 22px; font-weight: 800;}
+.article.home:first-of-type a .article-info h4 {font-size: 22px; font-weight: 700;}
 .article.home:first-of-type a .article-info p.spectral {font-size: 16px; color: #001d30;}
 .article.home:first-of-type a .article-info .time {font-size: 12px; margin-bottom: 1em;}
 .article.home:first-of-type a .article-info .time svg {width: 18px; height: 18px;}

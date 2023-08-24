@@ -17,7 +17,7 @@ And, in many ways, this picture — based on the crude popular culture conceptio
 
 But beyond this fond caricature of the lifestyles and demeanours of existentialists, the philosophy of existentialism of course goes much deeper. For many, it's a fascinating way of thinking about the world, as well as our place in it. 
 
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./cafe.jpg "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946, being existential.")
+![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946, being existential.")
 
 So what _is_ existentialism, exactly? Well, in a nutshell, existentialism concerns itself with finding ways to explain the individual human experience, focusing like a laser on what it means to exist as an individual human being in a universe we don’t understand.
 
@@ -109,7 +109,7 @@ So, reclaiming the first-person perspective in all its immediacy and complexity 
 
 As many existentialist thinkers were atheists, they believed no pre-ordained paths or objectives are assigned to any of us, and that human beings do not possess any inherent ‘nature’ or ‘value’ more fundamental than the fact we exist. In other words, being conscious of our own existences is the most fundamental thing about what it means to be a human being. 
 
-Sartre sloganizes this thought with his famous saying, _existence precedes essence_, and concludes that it is thus up to us, moment to moment, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
+Sartre sloganizes this thought with his famous saying, [_existence precedes essence_](/articles/existence-precedes-essence-what-sartre-really-meant/), and concludes that it is thus up to us, moment to moment, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
 
 As Sartre puts it in his 1946 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Existentialism-Humanism-Jean-Paul-Sartre/dp/0300115466?crid=UPF8047QW078&linkCode=ll1&tag=philosophybre-20&linkId=6bb88418483d73a3062f594572e693ea&language=en_US&ref_=as_li_ss_tl">Existentialism Is a Humanism</a>: 
 

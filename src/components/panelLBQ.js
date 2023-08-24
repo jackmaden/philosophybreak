@@ -47,7 +47,7 @@ export default function PanelLBQ(props) {
       </Link>
         <div className="small-pad no-pad-top-desktop">
             <div className="page-center text-center">
-                <h4 style={{fontWeight: "800"}} className="no-mar-bottom">Latest Course Reviews:</h4>
+                <h4 style={{fontWeight: "700"}} className="no-mar-bottom">Latest Course Reviews:</h4>
                 <ReviewsLatestLBQ />
                 <p className="no-mar-bottom"><Link to="/lifes-big-questions/" className="white-underline" style={{fontSize: "16px"}}>See All Course Reviews</Link></p>
             </div>
