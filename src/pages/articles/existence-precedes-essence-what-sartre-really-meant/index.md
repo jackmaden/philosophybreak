@@ -122,7 +122,9 @@ If there were an existential imperative for self-governance, it would be this: n
 
 It might seem strange to pick out existential heroes: surely the point of authenticity is that we must forge our own paths, not copy other people’s.  
 
-But existential heroes are not there to be copied; their purpose is to serve as _models_ of how to maintain authenticity in the face of corrupting societies and an inherently meaningless, valueless cosmos. They serve to inspire us to break out of complacency, resist comforting conformity, and carve our own paths. 
+But existential heroes are not there to be copied; their purpose is to serve as _models_ of how to maintain authenticity in the face of corrupting societies and an inherently meaningless, valueless cosmos (for more on facing up to an apparently meaningless reality, see how Robert Nozick suggests we can [live meaningfully in a vast universe](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)). 
+
+Existential heroes serve to inspire us to break out of complacency, resist comforting conformity, and carve our own paths. 
 
 There is Kierkegaard’s _Knight of Faith_, someone “willing to be one’s own self”; there is Hedeigger’s _Resolute Dasein_, someone able to “pull themselves together” from being lost and scattered in “the They”; and perhaps most famously there is Nietzsche’s _Übermensch_, a being whose continual becoming depends not on external systems but on their _own_ created values (for more here, check out our [Übermensch explainer](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)). 
 

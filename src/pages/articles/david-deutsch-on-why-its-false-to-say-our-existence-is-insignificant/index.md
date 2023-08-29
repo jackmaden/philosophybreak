@@ -71,7 +71,7 @@ What would it be like there? “Imagine the whole of space divided into cubes th
 
 But we are not only untypical in the straightforward physical sense, Deutsch goes on to argue in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359?_encoding=UTF8&qid=1656843831&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=07514655ee7ba73a83de819f2e487203&language=en_US&ref_=as_li_ss_tl">The Beginning of Infinity</a>. Humans are radically untypical in that we are capable of _knowing_ how untypical we are. In other words, we possess _intelligence:_ we have the capacity to build and implement knowledge. 
 
-Each of us is a _self-aware_ part of the universe, and has the power to shape _other parts_ of the universe. 
+As Robert Nozick also observes in his meditation on [living meaningfully in a vast reality](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/), each of us is a _self-aware_ part of the universe, and has the power to shape _other parts_ of the universe. 
 
 The Principle of Mediocrity might make us think our lives lack significance, Deutsch notes, but the reality of our situation is very different. We’re far more significant, far more _interesting_, cosmically-speaking, than the cold empty deserts of ‘typical’ intergalactic space. 
 
