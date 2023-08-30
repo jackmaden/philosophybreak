@@ -60,7 +60,7 @@ const ReadingList = ({ data, location }) => {
 
               <h2>4. How to Live a Good Life (According to 7 of the World’s Wisest Philosophies), by Philosophy Break</h2>
               <div className="article white">
-                  <Link to="/introduction-to-nietzsche/">
+                  <Link to="/how-to-live-a-good-life/">
                         <StaticImage src="../../../images/PFL-mob.png" alt="How to Live a Good Life" placeholder="blurred" />
                         <div className="article-info">
                             <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
