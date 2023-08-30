@@ -40,9 +40,6 @@ const Page = ( {data} ) => {
     <Layout>
     <Navigation />
 
-        {/*DISABLE MEDIAVINE ADS*/}
-        <div id="mediavine-settings" data-blocklist-all="1" ></div>
-
         {/*page title*/}
         <div className="darkradial-background top-title home">
           <div className="two-col big-2-col page-center">
