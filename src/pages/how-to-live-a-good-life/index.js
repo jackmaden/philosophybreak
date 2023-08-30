@@ -28,8 +28,8 @@ const Page = ({ data, location }) => {
     <Layout>
     <NavigationSimple/>
 
-        {/*DISABLE MEDIAVINE ADS*/}
-        <div id="mediavine-settings" data-blocklist-all="1" ></div>
+         
+         
 
         {/*page title*/}
         <div className="top-title darkradial-background course" id="top">

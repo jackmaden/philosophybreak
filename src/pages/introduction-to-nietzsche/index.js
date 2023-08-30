@@ -26,8 +26,6 @@ const Page = ({ data, location }) => {
     <Layout>
     <NavigationSimple bg="light-bg" />
     
-        {/*DISABLE MEDIAVINE ADS*/}
-        <div id="mediavine-settings" data-blocklist-all="1" ></div>
 
         {/*page title*/}
         <div className="top-title grey-background course" id="top">

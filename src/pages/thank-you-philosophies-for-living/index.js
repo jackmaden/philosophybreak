@@ -14,8 +14,8 @@ const Page = () => {
         <Layout>
         <Navigation />
 
-        {/*DISABLE MEDIAVINE ADS*/}
-        <div id="mediavine-settings" data-blocklist-all="1" ></div>
+         
+         
 
             {/*page background color*/}
             <div className="darkradial-background small-pad-bottom">
