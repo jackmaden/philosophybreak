@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 import ReviewsLatestNietzsche from "./reviewsLatestNietzsche"
@@ -17,7 +17,7 @@ export default function PanelNietzsche(props) {
 
     return (
         <div className="grey-background course mid-pad coursepanel">
-            <Link to="/introduction-to-nietzsche/">
+            <a href="/introduction-to-nietzsche/">
                 <div className={props.flexdirection + " two-col big-1-col page-center"}>
                     {/*to account for centering the flare center NEW! we've done two separate html listings of it (one for mobile which adds a br/ and one for desktop which uses usual classes)*/}
                     <div className="mobile-center">
@@ -46,12 +46,12 @@ export default function PanelNietzsche(props) {
                             alt="Introduction to Nietzsche" />
                     </div>
                 </div>
-            </Link>
+            </a>
             <div className="small-pad no-pad-top-desktop">
                 <div className="page-center text-center">
                     <h4 style={{fontWeight: "700"}} className="no-mar-bottom">Latest Course Reviews:</h4>
                     <ReviewsLatestNietzsche />
-                    <p className="no-mar-bottom"><Link to="/introduction-to-nietzsche/" className="white-underline" style={{fontSize: "16px"}}>See All Course Reviews</Link></p>
+                    <p className="no-mar-bottom"><a href="/introduction-to-nietzsche/" className="white-underline" style={{fontSize: "16px"}}>See All Course Reviews</a></p>
                 </div>
             </div>   
             

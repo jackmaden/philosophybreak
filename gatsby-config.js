@@ -116,7 +116,12 @@ module.exports = {
         //preact REMOVING COS IT CAUSES BUILD ISSUES `gatsby-plugin-preact`,
         
         //catch all internal links & transform to Gatsby Link
-        `gatsby-plugin-catch-links`,
+        {
+          resolve: `gatsby-plugin-catch-links`,
+          options: {
+            excludePattern: [/lifes-big-questions/, /introduction-to-nietzsche/, /how-to-live-a-good-life/],
+          },
+        },
         //gatsby images
         `gatsby-plugin-image`,
         `gatsby-transformer-sharp`, 

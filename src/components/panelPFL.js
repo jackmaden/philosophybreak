@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 export default function PanelPFL(props) {
@@ -15,7 +15,7 @@ export default function PanelPFL(props) {
 
     return (
         <div className={props.class + " course large-pad coursepanel"}>
-            <Link to="/how-to-live-a-good-life/">
+            <a href="/how-to-live-a-good-life/">
                 <div className={props.flexdirection + " two-col page-center"}>
                     {/*to account for centering the flare center NEW! we've done two separate html listings of it (one for mobile which adds a br/ and one for desktop which uses usual classes)*/}
                     <div className="mobile-center">
@@ -44,7 +44,7 @@ export default function PanelPFL(props) {
                             alt="How to Live a Good Life" />
                     </div>
                 </div>
-            </Link>
+            </a>
             
         </div>     
     )
