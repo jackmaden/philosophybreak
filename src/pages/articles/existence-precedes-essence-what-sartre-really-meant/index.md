@@ -85,7 +85,7 @@ The upshot of _existence precedes essence_ — and the kind of freedom it implie
 
 <span class="big-letter">T</span>he question, then, boils down to this: how should we _use_ our freedom? What interpretations and choices _should_ we make? If we are free to transcend our constraints, to construct our own ‘essences’, to craft the perspectives we want, then what should we do? 
 
-Writing a century before Sartre, the Danish philosopher Soren Kierkegaard noted that when we look for answers _outside_ our own subjectivity, we suffer alienation, apathy, nihilism — for, as meaning-giving creatures, it is we _ourselves_ who must offer and affirm them (see our brief [explainer of Kierkegaard on the meaning of life here](/articles/kierkegaard-on-finding-the-meaning-of-life/)).
+Writing a century before Sartre, the Danish philosopher Soren Kierkegaard noted that when we look for answers _outside_ our own subjectivity, we suffer alienation, apathy, nihilism — for, as meaning-giving creatures, it is we _ourselves_ who must offer and affirm them (see our brief [explainer of Kierkegaard on the meaning of life here](/articles/kierkegaard-on-finding-the-meaning-of-life/), and our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)).
 
 Though we are born into cultures of shared symbols and meanings that impinge on our first-person perspectives, ultimately it is _we_ who are responsible for affirming, rejecting, or creating the values by which we govern our lives. 
 
@@ -95,7 +95,7 @@ Sartre goes as far to say that we are thus in fact ‘condemned’ to be free, w
 
 >Man is condemned to be free. Condemned, because he did not create himself; because, once hurled into the world, he is responsible for everything he does.
 
-Kierkegaard also discusses this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Concept-Anxiety-Psychologically-Deliberation-Kierkegaards/dp/0691020116?&linkCode=ll1&tag=philosophybre-20&linkId=b7737366d2f5bea75f677faf59638b37&language=en_US&ref_=as_li_ss_tl">The Concept of Anxiety</a>:
+Kierkegaard also discusses this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Concept-Anxiety-Psychologically-Deliberation-Hereditary/dp/1631490044?&linkCode=ll1&tag=philosophybre-20&linkId=84a4c593f9794322bb3f9e82d1abf277&language=en_US&ref_=as_li_ss_tl">The Concept of Anxiety</a>:
 
 >Anxiety may be compared with dizziness. He whose eye happens to look down the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eye as in the abyss, for suppose he had not looked down. Hence, anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself.
 

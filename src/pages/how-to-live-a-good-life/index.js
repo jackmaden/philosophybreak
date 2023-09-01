@@ -93,7 +93,7 @@ const Page = ({ data, location }) => {
             {/*Chapters*/}
             <div id="look-inside"  className="small-pad grey-background">
             <div className="page-center">
-                <h2 className="text-center">Discover how the great philosophers think you can live a happier, more fulfilling life, with instant access to:</h2>
+                <h2 className="text-center">Discover how the great philosophers think you can live a happy, meaningful life, with instant access to:</h2>
                 <div className="four-col mobile-center small-pad no-pad-desktop">
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 56 concise lessons</h5>
@@ -262,7 +262,7 @@ const Page = ({ data, location }) => {
         <div className="darkradial-background">
             <div className="mid-pad page-center text-center">
                 <div className="mid-width">
-                    <h2>Understand Exactly How the Great Philosophers Think You Can Live a Happier Life</h2>
+                    <h2>Understand Exactly How the Great Philosophers Think You Can Live a Good Life</h2>
                     <div className="separator"></div>
                     <p className="spectral">Start now, and by this time next week, you’ll understand philosophy’s top practical wisdom, enjoy a philosophically-enriched view on the world, and know the best next steps for continuing your journey.</p> 
                     <div className="small-width"><CheckoutPFL /></div>

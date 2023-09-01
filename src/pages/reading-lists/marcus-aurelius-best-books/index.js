@@ -68,6 +68,8 @@ const ReadingList = ({ data, location }) => {
               <h2>1. Meditations, by Marcus Aurelius</h2>
               <BookLink title="Meditations" author="Marcus Aurelius" link="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl" img={data.one.childImageSharp.gatsbyImageData} />
 
+              <p>Of course, where better to start?</p>
+              
               <p>One of Stoic philosophy’s most recommended practices for living a better life is committing to writing a daily journal. It is fitting, then, that the main writings we have from Marcus are from <i>his</i> daily journal.</p>
 
               <p>Composed between 161 to 180 CE (covering his time as emperor), Marcus’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl">Meditations</a> was never intended for public readership; it consists of his reflections on everything from the everyday activities we can all relate to, like having to get out of bed when we might not want to, to more thoughtful subjects like the nature and utility of Stoic philosophy itself.</p>

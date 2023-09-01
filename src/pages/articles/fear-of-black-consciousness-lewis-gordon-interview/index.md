@@ -171,7 +171,7 @@ I am also an educator, and one of the things methodologically at work with me do
 
 >For us to deal with the richness of existence, for us to acknowledge the many ways of living in the world we manifest simultaneously, the approach has to be multidimensional.
 
-I’m critical of the neat separation of performing and meaning. That’s how I relate to Kierkegaard: Kierkegaard uses indirection, and you may notice I use a Kierkegaardian trope. 
+I’m critical of the neat separation of performing and meaning. That’s how I relate to Kierkegaard [see our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)]: Kierkegaard uses indirection, and you may notice I use a Kierkegaardian trope. 
 
 I have a theory called _disciplinary decadence_. Disciplinary decadence is when a discipline treats itself as reality, instead of something trying to have a _relationship_ with reality. So it ignores other disciplines, what others have to say — in other words, it becomes, in existential terms, _serious_. 
 

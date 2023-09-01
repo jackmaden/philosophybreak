@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
 
-<span class="big-letter">O</span>ften labeled as the first existentialist philosopher, Danish thinker Søren Kierkegaard was a voracious writer. Wittgeinstein described him as the most profound thinker of the 19th century, and his many works are filled with rich nuance and insight on a wide diversity of subjects. 
+<span class="big-letter">O</span>ften labeled as the first existentialist philosopher, Danish thinker Søren Kierkegaard was a voracious writer (see our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)). Wittgeinstein described him as the most profound thinker of the 19th century, and his many works are filled with rich nuance and insight on a wide diversity of subjects. 
 
 One of the most prominent themes in Kierkegaard’s work is his critique of the ‘rational detachment’ practiced by the philosophical tradition that came before him — and how such practice fails to provide us with insight into topics like the meaning of life.
 
@@ -71,7 +71,9 @@ Given its far-reaching influence, what do you make of Kierkegaard’s initial an
 
 ## Learn more about Kierkegaard and existentialism
 
-<span class="big-letter">I</span>f you’re interested in learning more, you might like our quick article on [Kierkegaard’s critique of busyness](/articles/kierkegaard-on-why-busy-people-are-ridiculous/), our reading list on [existentialism’s best books](/reading-lists/existentialism/) — and to dive deeper into existentialist responses to nihilism, consider signing up for our new guide, [How to Live a Good Life](/how-to-live-a-good-life/) (according to 7 of the world’s wisest philosophies — including existentialism, Buddhism, and Stoicism).
+<span class="big-letter">I</span>f you’re interested in learning more, you might like our quick article on [Kierkegaard’s critique of busyness](/articles/kierkegaard-on-why-busy-people-are-ridiculous/), as well as our reading lists on [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/) and [existentialism’s best books](/reading-lists/existentialism/). 
+
+If you’d like to dive deeper into existentialist (and other philosophical) responses to nihilism, consider signing up for our new guide, [How to Live a Good Life](/how-to-live-a-good-life/), which compares the wisdom of 7 rival philosophies for life — including existentialism, Buddhism, and Stoicism.
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

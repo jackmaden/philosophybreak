@@ -14,7 +14,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 >Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
 
-Kierkegaard wrote these words from the perspective of one of the characters in his 1843 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a>. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm.⁣
+Kierkegaard wrote these words from the perspective of one of the characters in his 1843 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or</a>. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm.⁣
 
 The quotation above is taken from the first character, A, who lambasts busyness as a vice — and believes the appropriate response to it is laughter, for it’s the perfect way to undercut the busy person’s self-importance.
 
@@ -56,7 +56,9 @@ So: who are you and what is your life for?
 
 ## Further reading
 
-<span class="big-letter">I</span>f you’re looking to explore him further, check out our quick article on [Kierkegaard’s approach to finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/) — and for a deeper dive, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or: A Fragment of Life</a> is a brilliant place to start. Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from the two seemingly irreconcilable perspectives of A and Judge Vilhelm. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
+<span class="big-letter">I</span>f you’re looking to explore him further, check out our quick article on [Kierkegaard’s approach to finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/) — and for a deeper dive, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or</a> (which features on our reading list of [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/)) is a brilliant place to start. 
+
+Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from the two seemingly irreconcilable perspectives of A and Judge Vilhelm. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
 
 Finally, if you’re interested in learning more about the existentialist themes explored in this article more generally, check out our brief [introduction to existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), as well as [our existentialist reading list](/reading-lists/existentialism/).
 
@@ -67,7 +69,7 @@ Finally, if you’re interested in learning more about the existentialist themes
         <span class="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="#fff" d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/></svg>READING LIST</span>
         <div class="separator reading-list banner"></div>
         <h3>Existentialism</h3>
-        <p style="margin: 0;">The Top 8 Books to Read</p>
+        <p style="margin: 0;">The Top 9 Books to Read</p>
     </div>    
     <svg class="cta swing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
 </a>
