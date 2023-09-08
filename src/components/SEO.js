@@ -42,7 +42,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
           '@type': 'Person',
           name: author,
         },
-        copyrightYear: '2019',
+        copyrightYear: new Date().getFullYear().toString(),
         creator: {
           '@type': 'Person',
           name: author,
@@ -52,10 +52,9 @@ const SEO = ({ title, description, image, pathname, article }) => (
           name: 'Philosophy Break',
           logo: {
             '@type': 'ImageObject',
-            url: `${siteUrl}/src/images/philosophybreak.png`,
+            url: `${siteUrl}/philosophybreak.png`,
           },
         },
-        datePublished: '2019-01-18T10:30:00+01:00',
         dateModified: buildTime,
         image: {
           '@type': 'ImageObject',
@@ -77,7 +76,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
             '@type': 'Person',
             name: author,
           },
-          copyrightYear: '2019',
+          copyrightYear: new Date().getFullYear().toString(),
           creator: {
             '@type': 'Person',
             name: author,
@@ -87,7 +86,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
             name: 'Philosophy Break',
             logo: {
               '@type': 'ImageObject',
-              url: `${siteUrl}/src/images/philosophybreak.png`,
+              url: `${siteUrl}/philosophybreak.png`,
             },
           },
           description: seo.description,
