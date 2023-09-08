@@ -94,7 +94,7 @@ In this way, Stoicism displays a key similarity with its rival philosophical sch
 
 We are all capable of happiness and living well, both philosophies agree: we just have false beliefs about what will make us happy. Philosophy can act as a healing balm to undermine our false beliefs about the world and thus rid us of pain and anxiety, and ultimately empower us to live happy lives with untroubled minds.
 
-While Epicureans have the fourfold cure (which summarizes the first four aphorisms of [Epicurus’s Principal Doctrines](/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/)), one of the most crucial therapeutic devices in Stoicism for helping us live happy lives is the so-called [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/). 
+While Epicureans have the fourfold cure (which summarizes the first four aphorisms of [Epicurus’s Principal Doctrines](/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/)), two of the most crucial therapeutic devices in Stoicism for helping us live happy lives are the so-called [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), as well as [how the Stoics approach emotions](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/). 
 
 ## Learn more about Stoicism
 

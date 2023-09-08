@@ -67,7 +67,7 @@ So, what’s the solution? How can we avoid becoming the Last Man? Following the
 
 The idea of the Übermensch fills the void left by the death of God. Defying nihilism, it provides a new basis for value. 
 
-However, with his Übermensch, Nietzsche doesn’t just want to provide a _replacement_ for decaying, unhealthy Christian values; he wants to provide a template for radical _improvement_.
+For Nietzsche doesn’t only want to dismantle decaying, unhealthy Christian values; with his Übermensch, he wants to provide us with a template, a vision, for something _better_.
 
 One of the main problems Nietzsche has with Christian values is they aspire to what he calls an ‘ascetic ideal’: the denial of inner drives or desires we cannot help but have (like those for food or sex) in the name of ‘virtue’. This repression, this invention of ‘sin’, is psychologically unhealthy, and leads to perpetual guilt and self-loathing. 
 
