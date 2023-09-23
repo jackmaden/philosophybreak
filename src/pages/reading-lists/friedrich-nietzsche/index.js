@@ -63,7 +63,7 @@ const ReadingList = ({ data, location }) => {
                         </div>
                     </Link>
                 </div>
-                <p>If you're looking beyond biography for a deeper introduction to Nietzsche's actual philosophy, then the 2022 <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link> is designed to help you learn everything you need to know about the brilliant philosopher in just six days. Distilling Nietzsche's best and most misunderstood ideas, from God is dead to the Übermensch, this bite-size course delivers materials direct to your inbox, and is accessible forever from any device.</p>
+                <p>If you're looking beyond biography for a deeper introduction to Nietzsche's actual philosophy, then the 2023 <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link> is designed to help you learn everything you need to know about the brilliant philosopher in 42 self-paced, myth-busting lessons. This concise online guide is instantly accessible from any device and distills Nietzsche's best and most misunderstood ideas, from God is dead to the Übermensch.</p>
                 <p>Of course, we're a little biased, as we produced this one — but if you're seeking to understand the fundamentals of Nietzsche's best ideas, have clarity on exactly what he was trying to say, and discover why he is so influential, then <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link> gets rave reviews, and might be just what you're looking for!</p>
                 
 

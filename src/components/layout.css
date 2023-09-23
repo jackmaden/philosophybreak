@@ -111,6 +111,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .no-pad-top-desktop {padding-top: 0;}
   .no-pad-bottom-desktop {padding-bottom: 0;}
   .no-mar-top-desktop {margin-top: 0;}
+  .mid-mar-top-desktop {margin-top: 48px;}
   .no-mar-bottom-desktop {margin-bottom: 0;}
   .large-pad {padding: 72px 0;}
   .large-width {width: 800px; margin-left: auto; margin-right: auto;}
