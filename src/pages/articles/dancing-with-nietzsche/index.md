@@ -20,7 +20,7 @@ With a bit of context and some deeper reading, however, the quotation points to 
 
 ## Is there a 'right' way to live?
 
-<span class="big-letter">F</span>riedrich Nietzsche was a 19th-century German philosopher with a bonkers moustache and a brilliant mind. Though he wrote provocatively on many subjects, his core academic focus lay in unpacking why we label some things 'good' and others 'evil', how these judgements are formed, and ultimately how we can transcend such categories to each fulfil our true potential and become the best possible version of ourselves.
+<span class="big-letter">F</span>riedrich Nietzsche was a 19th-century German philosopher with a bonkers moustache and a brilliant mind. As we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), though he wrote provocatively on many subjects, his core academic focus lay in unpacking why we label some things 'good' and others 'evil', how these judgements are formed, and ultimately how we can transcend such categories to each fulfil our true potential and become the best possible version of ourselves.
 
 ![Friedrich Nietzsche](./nietzsche1.jpg "Apparently Nietzsche's moustache paved the way for the modern shoe brush.")
 

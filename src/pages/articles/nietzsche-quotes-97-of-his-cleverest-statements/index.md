@@ -13,7 +13,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">F</span>riedrich Nietzsche was a 19th-century German philosopher best known for his brilliant, provocative aphorisms and his infamous declaration that [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/). 
 
-Writing across a broad range of topics, Nietzsche was primarily concerned with facing up to the problem of _nihilism_. He dedicated much of his work to dissecting and answering the following question: in a post-God world, how can we move beyond the outdated moralities derived from religion to establish new, healthy foundations for value, beauty, and meaning? 
+Writing across a broad range of topics, Nietzsche was primarily concerned with facing up to the problem of _nihilism_. As we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), he dedicated much of his work to dissecting and answering the following question: in a post-God world, how can we move beyond the outdated moralities derived from religion to establish new, healthy foundations for value, beauty, and meaning? 
 
 ![Nietzsche quotes](./Nietzsche.png "Though hardly read during his own (sane) lifetime, Nietzsche has become a dominant intellectual force in today’s popular culture, with many of his brilliant and provocative statements floating around the internet in various meme forms.")
 

@@ -151,7 +151,7 @@ What is the aesthetic vision around which _you_ could organize yourself to fulfi
 
 Indeed, it seems it is values like _independence, self-realization, personal liberation, self-determination_, and psychological completeness and _health_ that are most prominent in Nietzsche’s Übermensch. 
 
-Nietzsche sought to cultivate such values in his own lifestyle, hiking alone in the Swiss Alps as he did, and recording the significant epiphanies he had while up there. 
+As we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), Nietzsche sought to cultivate such values in his own lifestyle, hiking alone in the Swiss Alps as he did, and recording the significant epiphanies he had while up there. 
 
 Presumably it was during such a mountainside epiphany that he was inspired to recognize that we do not need promises of the afterlife to find joy in existence on Earth, declaring through Zarathustra: 
 
