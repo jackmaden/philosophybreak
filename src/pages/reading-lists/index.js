@@ -127,7 +127,7 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Leo Tolstoy" number="5" link="/reading-lists/leo-tolstoy-best-books/" img={data.tolstoy.childImageSharp.gatsbyImageData} alt="Leo Tolstoy reading list" />
                 
-                <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
+                <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
 
                 <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.arendt.childImageSharp.gatsbyImageData} alt="Hannah Arendt reading list" />
 

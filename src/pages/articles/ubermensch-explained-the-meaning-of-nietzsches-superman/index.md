@@ -55,7 +55,7 @@ Erode Christian values — erode the coping mechanism — and how will people be
 
 <span class="big-letter">N</span>ietzsche worried that, if we’re not careful, the death of God would lead to a deep nihilism. Recognizing Western values (derived from Christianity) as foundationless, yet not proactively replacing them with anything, we’d inevitably end up burying our existential angst deep down. We’d pick our fates from one of the following: delude ourselves with false beliefs, become irretrievably depressed, or distract ourselves with vacuous pursuits and meaningless entertainment. 
 
-Nietzsche characterizes this predicament in his 1883-5 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, presenting us with a devastating sketch of an apathetic, shallow, distracted humanity:
+Nietzsche characterizes this predicament in his 1883-5 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a>, presenting us with a devastating sketch of an apathetic, shallow, distracted humanity:
 
 >Behold! I shall show you the Last Man....The earth has become small, and upon it hops the Last Man, who makes everything small... A little poison now and then: that produces pleasant dreams. And a lot of poison at last, for a pleasant death. They still work, for work is entertainment. But they take care the entertainment does not exhaust them... No herdsmen and one herd. Everyone wants the same thing, everyone is the same: whoever thinks otherwise goes voluntarily into the madhouse... ‘We have discovered happiness,’ say the Last Men, and blink.
 
@@ -71,7 +71,7 @@ For Nietzsche doesn’t only want to dismantle decaying, unhealthy Christian val
 
 One of the main problems Nietzsche has with Christian values is they aspire to what he calls an ‘ascetic ideal’: the denial of inner drives or desires we cannot help but have (like those for food or sex) in the name of ‘virtue’. This repression, this invention of ‘sin’, is psychologically unhealthy, and leads to perpetual guilt and self-loathing. 
 
-Nietzsche thinks we must thus discard notions of ‘sin’ and asceticism and rebuild our value systems in healthier, life-affirming ways. As he notes in his 1889 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Twilight-Idols-Anti-Christ-Philosophize-Classics/dp/0140445145?keywords=twilight+of+the+idols+nietzsche&qid=1650788348&s=books&sprefix=twilight+of+the+idols%2Cstripbooks%2C140&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=7adfbdd46587db24b1c9c0033f8d2cfc&language=en_US&ref_=as_li_ss_tl">Twilight of the Idols</a>:
+Nietzsche thinks we must thus discard notions of ‘sin’ and asceticism and rebuild our value systems in healthier, life-affirming ways. As he notes in his 1889 work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Twilight of the Idols</a>:
 
 >The church combats the passions by cutting them off in every sense: its technique, its ‘cure’ is _castration_. It never asks: ‘how can a desire be spiritualized, beautified, deified?’
 
@@ -105,7 +105,7 @@ Not the rejection of our desires, not the denial of the urges and forces that ma
 
 >In the end, when the work is complete, it becomes clear how it was the force of a _single taste_ that ruled and shaped everything great and small…
 
-For, Nietzsche suggests, it is by living up to an independent _aesthetic_, rather than to an external ‘ethical’ standard, that humans can truly fulfill their potential. As he famously declares in his 1872 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?crid=3P4QPQ8RR92BA&keywords=the+birth+of+tragedy&qid=1650786632&sprefix=the+birth+of+tragedy%2Caps%2C132&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=40882a22fcc22c3e2a1e43c5d2742a01&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> (in a typically compelling statement that features in our list of [Nietzsche’s best quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)): 
+For, Nietzsche suggests, it is by living up to an independent _aesthetic_, rather than to an external ‘ethical’ standard, that humans can truly fulfill their potential. As he famously declares in his 1872 work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> (in a typically compelling statement that features in our list of [Nietzsche’s best quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)): 
 
 >It is only as an aesthetic phenomenon that existence and the world are _eternally justified_.
 
@@ -127,13 +127,13 @@ So, though some popular interpretations of Nietzsche’s concept of the Übermen
 
 ## How can the Übermensch emerge?
 
-<span class="big-letter">N</span>ietzsche sees the Übermensch as a potential endpoint for humanity. However, becoming Übermensch is far from guaranteed. The much easier, and much more likely, possibility is that following the death of God we give into nihilism and become the Last Man. In the prologue of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a> (which features on our list of the [best books by and about Nietzsche](/reading-lists/friedrich-nietzsche/)), Nietzsche thus writes: 
+<span class="big-letter">N</span>ietzsche sees the Übermensch as a potential endpoint for humanity. However, becoming Übermensch is far from guaranteed. The much easier, and much more likely, possibility is that following the death of God we give into nihilism and become the Last Man. In the prologue of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> (which features on our list of the [best books by and about Nietzsche](/reading-lists/friedrich-nietzsche/)), Nietzsche thus writes: 
 
 >Man is a rope, fastened between animal and _Übermensch_ — a rope over an abyss.
 
 So, how can we become Übermensch, rather than succumb to Nietzsche’s Last Man? 
 
-In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, Nietzsche places the burden on us as individuals. He has Zarathustra preach a process of self-overcoming: we must throw off the chains of religion and morality. We must give style to our characters and act like the poets of our own lives, not mere members of a frightened, apathetic herd. We must each revalue our values to _become who we really are_. Zarathustra declares: 
+In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a>, Nietzsche places the burden on us as individuals. He has Zarathustra preach a process of self-overcoming: we must throw off the chains of religion and morality. We must give style to our characters and act like the poets of our own lives, not mere members of a frightened, apathetic herd. We must each revalue our values to _become who we really are_. Zarathustra declares: 
 
 >I teach you the _Übermensch_. Man is something that should be overcome. What have you done to overcome him? 
 
@@ -161,7 +161,7 @@ There is no life beyond this one on Earth — and according to Zarathustra’s p
 
 ## Is the Übermensch possible, or even desirable?
 
-<span class="big-letter">T</span>he cryptic nature of <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">Thus Spoke Zarathustra</a>, the work in which Nietzsche’s discussion of the Übermensch mostly took place, means it is open for much interpretation, and leaves us with a number of questions. 
+<span class="big-letter">T</span>he cryptic nature of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a>, the work in which Nietzsche’s discussion of the Übermensch mostly took place, means it is open for much interpretation, and leaves us with a number of questions. 
 
 For instance: do you think humanity is capable of what Nietzsche describes as ‘self-overcoming’, of becoming a being resembling the Übermensch? Moreover, what would a world of Übermensch look like? Is a happy society filled with independent, self-determining Übermensch realistic? 
 

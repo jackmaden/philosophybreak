@@ -364,7 +364,7 @@ const Page = ({ data, location }) => {
                     </div>
                     <div>
                         <h4>How long does it take to do the course?</h4>
-                        <p className="small-grey-font">The course is broken into six distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each philosophy sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                        <p className="small-grey-font">The course is broken into six distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each idea sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
                     </div>
                 </div>
                 <div className="two-col align-top">

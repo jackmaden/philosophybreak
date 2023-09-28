@@ -42,7 +42,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from The Birth of Tragedy (1872)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?crid=3P4QPQ8RR92BA&keywords=the+birth+of+tragedy&qid=1650786632&sprefix=the+birth+of+tragedy%2Caps%2C132&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=40882a22fcc22c3e2a1e43c5d2742a01&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">
         <img src="./birthoftragedy.jpeg"/>
         <div class="article-info">
             <h4>The Birth of Tragedy</h4>
@@ -86,7 +86,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from Human, All Too Human (1878)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Human-All-Too-Spirits-Revised/dp/0803283687?pd_rd_w=ugujT&pf_rd_p=4b6b5072-e9bd-4f30-a3af-a1f5d52978ec&pf_rd_r=AQ1C1T2VT663VEAMSJYW&pd_rd_r=0f435018-2b7a-4e06-9b0b-4fecdf932daf&pd_rd_wg=tf0xx&pd_rd_i=0803283687&psc=1&linkCode=ll1&tag=philosophybre-20&linkId=f60ebd54564f7e4a6c761558042903a0&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Human-All-Too-Spirits-Revised/dp/0803283687?&linkCode=ll1&tag=philosophybre-20&linkId=0b44aea23ad08af64e0b581d3141cdad&language=en_US&ref_=as_li_ss_tl">
         <img src="./humanalltoohuman.jpeg"/>
         <div class="article-info">
             <h4>Human, All Too Human</h4>
@@ -129,7 +129,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from Daybreak (1881)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Daybreak-Thoughts-Prejudices-Cambridge-Philosophy/dp/0521599636?keywords=daybreak+nietzsche&qid=1650787964&s=books&sprefix=daybreak%2Cstripbooks%2C163&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=d0fdab417180bdceea87ade8651eb3a6&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Daybreak-Thoughts-Prejudices-Cambridge-Philosophy/dp/0521599636?&linkCode=ll1&tag=philosophybre-20&linkId=8b7424375dc038acace05d69269b4713&language=en_US&ref_=as_li_ss_tl">
         <img src="./daybreak.jpg"/>
         <div class="article-info">
             <h4>Daybreak</h4>
@@ -154,7 +154,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from The Gay Science (1882)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Gay-Science-Prelude-Rhymes-Appendix/dp/0394719859?crid=2PK3YMDK9CQX8&keywords=the+gay+science+nietzsche&qid=1650788024&s=books&sprefix=the+gay+science+nietzsche%2Cstripbooks%2C113&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=0a1d366e106318ea06193dd7862e79c3&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Gay-Science-Prelude-Rhymes-Appendix/dp/0394719859?&linkCode=ll1&tag=philosophybre-20&linkId=3c4dafed47ee00e7a6b9e9cfe65378e9&language=en_US&ref_=as_li_ss_tl">
         <img src="./gayscience.jpg"/>
         <div class="article-info">
             <h4>The Gay Science</h4>
@@ -198,7 +198,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from Thus Spoke Zarathustra (1883-5)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140441182/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140441182&linkId=463ca60c2eea3d8021001814ba19d397">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">
         <img src="./nietzsche-zarathustra.jpg"/>
         <div class="article-info">
             <h4>Thus Spoke Zarathustra</h4>
@@ -243,7 +243,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from Beyond Good and Evil (1886)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0679724656/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0679724656&linkId=f0d74bfafd967a488c12126c2dccb975">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">
         <img src="./nietzsche-beyondgoodevil.jpg"/>
         <div class="article-info">
             <h4>Beyond Good and Evil</h4>
@@ -331,7 +331,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from The Genealogy of Morals (1887)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0141195371/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0141195371&linkId=823bb4eb6e1b8494f4960f18490a2d54">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0141195371?&linkCode=ll1&tag=philosophybre-20&linkId=5ec5912e78e9d6bbdff90712b3dca5ea&language=en_US&ref_=as_li_ss_tl">
         <img src="./nietzsche-genealogy.jpg"/>
         <div class="article-info">
             <h4>The Genealogy of Morals</h4>
@@ -381,7 +381,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from The Twilight of the Idols (1888)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Twilight-Idols-Anti-Christ-Philosophize-Classics/dp/0140445145?keywords=twilight+of+the+idols+nietzsche&qid=1650788348&s=books&sprefix=twilight+of+the+idols%2Cstripbooks%2C140&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=7adfbdd46587db24b1c9c0033f8d2cfc&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">
         <img src="./twilight-anti.jpeg"/>
         <div class="article-info">
             <h4>The Twilight of the Idols</h4>
@@ -426,7 +426,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from The Antichrist (1888)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Twilight-Idols-Anti-Christ-Philosophize-Classics/dp/0140445145?keywords=twilight+of+the+idols+nietzsche&qid=1650788348&s=books&sprefix=twilight+of+the+idols%2Cstripbooks%2C140&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=7adfbdd46587db24b1c9c0033f8d2cfc&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">
         <img src="./twilight-anti.jpeg"/>
         <div class="article-info">
             <h4>The Antichrist</h4>
@@ -468,7 +468,7 @@ Otherwise, below you’ll find 97 of Nietzsche’s cleverest and most provocativ
 ## Nietzsche quotations from Ecce Homo (1888)
 
 <div class="article white">
-    <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Ecce-Homo-Becomes-Revised-Classics/dp/0140445153?crid=1N90TRSLHGXA3&keywords=ecce+homo&qid=1650788533&s=books&sprefix=ecce+hom%2Cstripbooks%2C121&sr=1-1&linkCode=ll1&tag=philosophybre-20&linkId=fb8c9fbf7c14bcba81bc0eeed8322226&language=en_US&ref_=as_li_ss_tl">
+    <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">
         <img src="./eccehomo.jpeg"/>
         <div class="article-info">
             <h4>Ecce Homo</h4>
