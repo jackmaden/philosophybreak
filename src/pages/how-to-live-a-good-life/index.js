@@ -9,6 +9,7 @@ import { NavigationSimple } from "../../components/navigationSimple"
 import { CheckoutPFL } from "../../components/checkoutPFL"
 import Reviews from "../../components/reviewsLBQ"
 import ReviewsStarsLBQ from "../../components/reviewsStarsLBQ"
+import ReviewsLatestPFL from "../../components/reviewsLatestPFL"
 
 const Page = ({ data, location }) => {
 
@@ -37,7 +38,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
                     <h1 id="pfl">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h1>
-                    <p className="spectral">Unlock instant access to 56 mind-opening, self-paced lessons on Stoicism, Existentialism, Buddhism and beyond (accessible forever from any device):</p>
+                    <p className="spectral">Unlock instant access to 56 self-paced, mind-opening lessons on Stoicism, Existentialism, Buddhism and beyond (accessible forever from any device):</p>
                     <div className="mobile-center">
                         <CheckoutPFL />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
@@ -48,6 +49,14 @@ const Page = ({ data, location }) => {
                 <div className="mobile-no-display">
                     <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" />
                     <p className="small-grey-font smaller text-center" style={{marginTop: "-12px"}}><i>Course materials are hosted on our online learning platform,<br/>Philosophy Break Academy, and are accessible forever from any device.</i></p>
+                </div>
+            </div>
+            {/*latest reviews*/}
+            <div className="small-pad">
+                <div className="page-center text-center">
+                    <h4 style={{fontWeight: "700"}} className="no-mar-bottom">Latest Course Reviews:</h4>
+                    <ReviewsLatestPFL />
+                    <p className="no-mar-bottom"><AnchorLink href="#reviews" className="white-underline" style={{fontSize: "16px"}}>See All Reviews</AnchorLink></p>
                 </div>
             </div>
         </div>

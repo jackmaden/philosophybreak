@@ -15,6 +15,12 @@ export default function Reviews(props) {
                 <div className="two-col wrap align-top">
 
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Very good indeed. The course was well covered and varied, and I found all 5 chapters easy to follow, well presented and explaining various ideas and opinions. I’m unfamiliar with modern philosophers so was glad to make their acquaintance. The chapter on free will was my favourite as in the past there were endless heated debates about this at our local Zen group! I’m very glad I discovered your website by chance on the internet.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jennifer S. on 28 September 2023</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great intro</i></span></p>
                         <span style={{lineHeight: "1.3"}}>A great overview and motivating for further study. Course delivery worked great - one-a-day was just right and I was left excited for the next day's delivery. I liked the way the context was set and particularly liked the fact that guidance was given - major topics, easy explanation of each. Overall a great intro to get started and I particularly appreciate the recommended reading lists for each, too.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Antony H. on 4 June 2023</span></div>
@@ -68,11 +74,7 @@ export default function Reviews(props) {
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert J. on 21 April 2022</span></div>
                     </div>
 
-                    <div className="small-mar">
-                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic</i></span></p>
-                        <span style={{lineHeight: "1.3"}}>Fantastic! Loved the delivery of one chapter per day and the content was fascinating. I didn’t know much about philosophy going into this, and some things like consciousness I didn’t realize had such a philosophical component. Really interesting, and I’d highly recommend the course. Thanks!</span>
-                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Bernie L. on 11 March 2022</span></div>
-                    </div>
+                    
                     
 
 
@@ -85,6 +87,12 @@ export default function Reviews(props) {
                 <div id="load-more" className={isActive ? null : "show"}>
 
                     <div className="two-col wrap align-top">
+
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fantastic</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Fantastic! Loved the delivery of one chapter per day and the content was fascinating. I didn’t know much about philosophy going into this, and some things like consciousness I didn’t realize had such a philosophical component. Really interesting, and I’d highly recommend the course. Thanks!</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Bernie L. on 11 March 2022</span></div>
+                    </div>
                         
                     <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Really good</i></span></p>

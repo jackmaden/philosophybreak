@@ -24,7 +24,7 @@ const Page = ({ location }) => {
     <div className="grey-background">
 
         {/*page title*/}
-        <TopTitle class="no-mar-bottom" title="Online Philosophy Courses" subtitle="Explore our introductory philosophy courses, where you can learn the subject’s greatest wisdom in days rather than years." />            
+        <TopTitle class="no-mar-bottom" title="Online Philosophy Courses" subtitle="Explore our introductory philosophy courses, where you can learn the subject’s greatest wisdom quickly and confidently." />            
         </div>
         
         <PanelPFL class="grey-background course" fill="#001d30" />

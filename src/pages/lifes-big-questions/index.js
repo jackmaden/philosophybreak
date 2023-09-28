@@ -208,7 +208,7 @@ const Page = ({ data, location }) => {
         </div>
         
         {/*Reviews*/}
-        <Reviews bg="darkradial-background" title="39 Course Reviews" toggle="primary" />
+        <Reviews bg="darkradial-background" title="40 Course Reviews" toggle="primary" />
 
         
         <div className="darkradial-background small-pad">
