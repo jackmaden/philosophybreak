@@ -10,17 +10,21 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
-<span class="big-letter">W</span>hat is the fundamental nature of reality? What is time? What is space? Is there a God? [Is the world around us ‘real’?](/articles/is-the-world-around-us-real/) What is change?  Do numbers exist? What is causation, and can there be such a thing as a ‘first cause’? Why is reality like it is? What does it mean for something to exist?  [Why does _anything_ exist?](/articles/why-does-anything-exist/) 
+<span class="big-letter">W</span>hat is the fundamental nature of reality? What is time? What is space? Is there a God? [Is the world around us ‘real’?](/articles/is-the-world-around-us-real/) What is change? Do numbers exist? What is causation, and can there be such a thing as a ‘first cause’? Why is reality like it is? What does it mean for something to exist? [Why does _anything_ exist?](/articles/why-does-anything-exist/) 
 
-These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics. As [18th-century German philosopher Immanuel Kant](/reading-lists/immanuel-kant/) puts it: 
+These are just a few of the questions posed by the oft-derided, mind-melting realm of metaphysics, perhaps the most obscure of [philosophy’s four core branches](/what-is-philosophy-definition-4-core-branches/). 
+
+As 18th-century German philosopher [Immanuel Kant](/reading-lists/immanuel-kant/) puts it: 
 
 >Metaphysics is a dark ocean without shores or lighthouse, strewn with many a philosophic wreck.
 
-## What is metaphysics?
+## What is metaphysics in simple words?
 
-<span class="big-letter">S</span>o what _is_ metaphysics, exactly? Like most metaphysical questions, that’s not an easy one to answer. We might think based on the word itself that it refers to some ‘meta’ version of physics, but that's not quite accurate. 
+<span class="big-letter">S</span>o what _is_ metaphysics, exactly? Like most metaphysical questions, that’s not an easy one to answer. We might think based on the word itself that it refers to some ‘meta’ version of physics, but that’s not quite accurate. 
 
-‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of [Aristotle’s work](/reading-lists/aristotle/) in the first century BC. Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
+‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of [Aristotle’s books](/reading-lists/aristotle/) in the first century BCE. 
+
+Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
 
 Putting its rather arbitrary etymological origins to one side, we can say the word ‘metaphysics’ refers to the philosophical study of _reality:_ metaphysics essentially attempts to establish a coherent picture of what reality ultimately _is_ and how reality ultimately _works_. 
 
@@ -28,13 +32,17 @@ In doing so, it explores basic issues around substance, existence, causality, de
 
 ![Metaphysics](./enigma-of-autumn.jpg "Giorgio de Chirico - The Enigma of an Autumn Afternoon, 1910, the first and defining work of the Pittura Metafisica (metaphysical painting) artistic movement.")
 
-To borrow American philosopher Wilfrid Sellars famous definition of philosophy, the aim of metaphysics is essentially...
+To borrow American philosopher Wilfrid Sellars’s famous definition of philosophy, the aim of metaphysics is essentially...
 
 >to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.
 
-Of course, there is overlap with the sciences here — notably physics — and we might think that actually physicists, backed by scientific data and experiment, are much better placed to ponder questions on the fundamental nature of reality than metaphysicians, who depend on armchair reasoning and deductive logic to construct their theories.
+## What is the difference between metaphysics and physics?
 
-But, when it comes to reality, some philosophers argue there are questions that go beyond the scope of physics (after all, physics investigates _what we are able_ to investigate, and philosophers have long suspected that what we are able to investigate may not be all there is). Beyond or right on the edge of physics’ scope is thus where metaphysicians generally reside, restless in their creaking upholstery.
+<span class="big-letter">O</span>f course, there is overlap with the sciences here — notably physics — and we might think that actually physicists, backed by scientific data and experiment, are much better placed to ponder questions on the fundamental nature of reality than metaphysicians, who depend on armchair reasoning and deductive logic to construct their theories.
+
+But, when it comes to reality, some philosophers argue there are questions that go beyond the scope of physics (after all, physics investigates _what we are able_ to investigate, and philosophers have long suspected that what we are able to investigate may not be all there is). 
+
+Beyond or right on the edge of physics’ scope is thus where metaphysicians generally reside, restless in their creaking upholstery.
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -53,7 +61,15 @@ But, when it comes to reality, some philosophers argue there are questions that 
 
 A quick, dirty, and by no means foolproof way to distinguish metaphysics from the sciences is as follows: the sciences concern the specific ‘how’ of reality, metaphysics concerns the general ‘what’ and ‘why’.
 
-For example, physicists may investigate the charge of a particle. A metaphysician asks what _is_ charge, and what _is_ a particle? A physicist may investigate how particles causally interact. A metaphysician attempts to characterize causation itself. A physicist may investigate the origins of the universe and theorize about its fundamental laws; a metaphysician asks [_why_ the universe exists](/articles/why-does-anything-exist/) — and _why_ its laws obtain the way they do. A physicist uses mathematics to express theory; a metaphysician asks what numbers are (i.e. whether numbers actually exist, or if they’re just useful fictions). Indeed, ontology — the study of being or what it means for something to exist — has been a key battleground for metaphysicians throughout the ages.
+For example, physicists may investigate the charge of a particle; a metaphysician asks what _is_ charge, and what _is_ a particle? 
+
+A physicist may investigate how particles causally interact; a metaphysician attempts to characterize causation itself. 
+
+A physicist may investigate the origins of the universe and theorize about its fundamental laws; a metaphysician asks [_why_ the universe exists](/articles/why-does-anything-exist/) — and _why_ its laws obtain the way they do. 
+
+A physicist uses mathematics to express theory; a metaphysician asks what numbers are (i.e. whether numbers actually exist, or if they’re just useful fictions). 
+
+Indeed, ontology — the study of being or what it means for something to exist — has been a key battleground for metaphysicians throughout the ages.
 
 ![why does anything exist](./metaphysics-why.jpg "Why is there something rather than nothing?")
 
@@ -63,7 +79,30 @@ For instance, the principle of physicalism — that everything that exists in th
 
 The point here is not so much about whether physicalism is correct: it’s recognizing that there is a debate to be had in the first place, and in surfacing and examining any and all presuppositions upon which our theories about the world may rest. 
 
-Metaphysics is a rabbit hole about which many disagree. Beyond the general lines of inquiry referenced above, debates abound over what metaphysics even is or should be — especially in its relation to modern science. However, as a quick summary we can say that, at root, many problems in science and philosophy — including [whether we have free will](/reading-lists/free-will/), whether [consciousness is physical](/reading-lists/consciousness/), and what causation is — are metaphysical in nature.
+Metaphysics is a rabbit hole about which many disagree. Beyond the general lines of inquiry referenced above, debates abound over what metaphysics even is or should be — especially in its relation to modern science. 
+
+## What questions does metaphysics investigate?
+
+<span class="big-letter">W</span>hile the lines between metaphysics and the sciences may seem a little blurred, as a quick summary we can say that, at root, many problems in science and philosophy — including [whether we have free will](/reading-lists/free-will/), whether [consciousness is physical](/reading-lists/consciousness/), and what causation is — are metaphysical in nature.
+
+Here are some further questions metaphysicians might investigate:
+
+- What is the fundamental nature of reality?
+- What is time? What is space?
+- What is the relationship between mind and body?
+- What does it mean for something to exist?
+- What does it mean for something not to exist?
+- What is the cosmos and everything in it made out of, and why?
+- Why does the cosmos exist in the way that it does?
+- Why does the cosmos exist at all?
+- Is ours the only cosmos that could exist?
+- Is everything in the cosmos contingent? Or is anything necessary?
+- What is identity? What is change? How is change possible?
+- Who or what is the self?
+- What happens to the self after death?
+- What does it mean for someone to act freely?
+- Is true freedom possible?
+
 
 ## Why is metaphysics important today?
 
@@ -71,21 +110,31 @@ Metaphysics is a rabbit hole about which many disagree. Beyond the general lines
 
 Well, defenders of metaphysics might state that it’s only by running up against the limitations of our language, by attempting to be clear-sighted at the hazy frontiers of our knowledge, that we can inch-by-inch, foot-by-foot, make progress. 
 
-<!--life's big questions-->
+<!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <img src="/static/191eedda0ed03573e27212c1652b5826/bef54/Chapter1-full2.webp" alt="life's big questions">
-    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
-    <p class="small-grey-font">Unlock philosophy’s best answers to life’s big questions with just one concise, 30-minute read per day.</p>
-    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
+    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
+    <p class="small-grey-font no-mar-bottom">Every Sunday, I break down one mind-opening idea from philosophy. You get the distillation straight to your inbox.</p>
+    <div id="mc_embed_signup" class="small-pad-top">
+        <form style="margin-bottom: 1em" action="https://philosophybreak.us19.list-manage.com/subscribe/post?u=6f4dbbebde3dd2a464df28ec3&amp;id=48d478eebf&amp;f_id=0083aae4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+            <input type="email" placeholder="Your Email Address..." ref={this.input} name="EMAIL" required/>
+            <input type="hidden" name="tags" value="6266048" />
+            <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
+        </form>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+    </div>
 </div>
 
-Metaphysics adds a level of conceptual rigor and clarity that can only improve the steadfastness of our knowledge: it is not here to compete with or replace any other fields, it is here as a necessary supplement to them in our quest for truth about reality. Indeed, some argue that there is no real need to create a hard distinction between metaphysics and the sciences at all, for their aims are continuous and complementary. 
+Metaphysics adds a level of conceptual rigor and clarity that can only improve the steadfastness of our knowledge: it is not here to compete with or replace any other fields, it is here as a necessary supplement to them in our quest for truth about reality. 
 
-And besides: dwelling on the _actuality_ behind life is interesting, and good for the soul. [As Bertrand Russell puts it](/articles/bertrand-russell-why-philosophy-matters/) about philosophy generally, in a quotation that could readily be used to defend the study of metaphysics specifically:
+Indeed, some argue that there is no real need to create a hard distinction between metaphysics and the sciences at all, for their aims are continuous and complementary. 
+
+And besides: dwelling on the _actuality_ behind life is interesting, and good for the soul. 
+
+[As Bertrand Russell puts it](/articles/bertrand-russell-why-philosophy-matters/) about philosophy generally, in a quotation that could readily be used to defend the study of metaphysics specifically:
 
 >Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.
 
-## Further reading
+## Learn more about metaphysics
 
 <span class="big-letter">I</span>f you’re ready to explore the murky yet fascinating world of metaphysics further, we’ve assembled the best books about the subject, ranging from accessible and introductory surveys of the field, to stone-cold metaphysical classics from philosophers down the ages. Hit the banner below to access our [metaphysics reading list](/reading-lists/metaphysics/) now.
 

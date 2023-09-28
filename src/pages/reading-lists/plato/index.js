@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
                   <p>The safest general characterization of the European philosophical tradition is that it consists merely as a series of footnotes to Plato.</p>
               </blockquote>
               
-              <p>Indeed, in his works (written between 399 BC and 347 BC), Plato sets out most of the major themes Western philosophy has since focused on, including <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/reading-lists/metaphysics/">metaphysics</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, and <Link to="/reading-lists/political-philosophy/">politics</Link>.</p>
+              <p>Indeed, in his works (written between 399 BC and 347 BC), Plato sets out most of the major themes Western philosophy has since focused on, including <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">metaphysics</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, and <Link to="/reading-lists/political-philosophy/">politics</Link>.</p>
 
               <p>Written almost entirely in the form of dialogues, Plato’s works typically present his teacher, Socrates, discussing various issues with interlocutors from ancient Athenian society. Socrates wields <Link to="/articles/socratic-method-what-is-it-how-can-you-use-it/">the Socratic method</Link> to unpick topics ranging from what ‘justice’ means to how we can know anything about the world around us (<Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates’s conclusion: all we can know with certainty is that we know nothing)</Link>.</p>
 

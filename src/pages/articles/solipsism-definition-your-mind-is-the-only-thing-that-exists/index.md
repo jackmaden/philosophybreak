@@ -125,7 +125,7 @@ This acceptance doesn’t mean we must all commit to solipsism.
 
 ## Where does solipsism leave us?
 
-<span class="big-letter">S</span>olipsism raises fundamental issues in [epistemology](/reading-lists/epistemology/), [metaphysics](/reading-lists/metaphysics/), and the philosophy of [consciousness](/reading-lists/consciousness/), and forces us to face up to the limitations of our reasoning — for while solipsism seems utterly absurd, arguably it has never been (and perhaps never could be) unequivocally refuted.
+<span class="big-letter">S</span>olipsism raises fundamental issues in [epistemology](/reading-lists/epistemology/), [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), and the philosophy of [consciousness](/reading-lists/consciousness/), and forces us to face up to the limitations of our reasoning — for while solipsism seems utterly absurd, arguably it has never been (and perhaps never could be) unequivocally refuted.
 
 But perhaps the most poignant reaction we might have when considering solipsism — bizarre metaphysics aside — is to the unavoidable and rather lonely fact that, when you think about it, we can never escape our own minds. 
 

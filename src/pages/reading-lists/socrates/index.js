@@ -33,7 +33,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>The influence of Socrates on the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link> is difficult to overstate. By influencing Plato, who in turn set up the Academy to influence many philosophers including <Link to="/reading-lists/aristotle/">Aristotle</Link>, Socrates laid the foundations for the entirety of the west’s intellectual canon.</p> 
 
-              <p><Link to="/reading-lists/plato/">Plato’s Socratic dialogues</Link> — some of the most wonderful works in the history of philosophy — feature Socrates in lively conversation with influential Athenians on a wide range of subjects, from <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/reading-lists/metaphysics/">metaphysics</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link> to art, justice, and <Link to="/reading-lists/political-philosophy/">politics</Link>, in an attempt to find certain knowledge.</p> 
+              <p><Link to="/reading-lists/plato/">Plato’s Socratic dialogues</Link> — some of the most wonderful works in the history of philosophy — feature Socrates in lively conversation with influential Athenians on a wide range of subjects, from <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">metaphysics</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link> to art, justice, and <Link to="/reading-lists/political-philosophy/">politics</Link>, in an attempt to find certain knowledge.</p> 
 
               <BigSubscribe />
 

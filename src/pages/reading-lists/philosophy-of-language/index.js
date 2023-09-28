@@ -37,7 +37,7 @@ const ReadingList = ({ data, location }) => {
 
               <BigSubscribe />
 
-              <p>The guiding rationale for such ‘analytic’ philosophers is that many philosophical problems — such as the core issues within <Link to="/reading-lists/metaphysics/">metaphysics</Link> or <Link to="/reading-lists/epistemology/">epistemology</Link> — are best approached by reducing the problem down to logic, or by looking seriously at the language being used to describe the problem.</p>
+              <p>The guiding rationale for such ‘analytic’ philosophers is that many philosophical problems — such as the core issues within <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">metaphysics</Link> or <Link to="/reading-lists/epistemology/">epistemology</Link> — are best approached by reducing the problem down to logic, or by looking seriously at the language being used to describe the problem.</p>
               <p>The thinking is that as soon as the logic or language has been duly untangled (usually though painstaking step-by-step analysis), many ‘problems’ will dissolve away — or at least have their true natures revealed.</p>
               
               <p>As the great 20th-century philosopher Ludwig Wittgenstein puts it:</p>

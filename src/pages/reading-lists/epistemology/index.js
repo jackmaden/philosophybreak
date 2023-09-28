@@ -30,13 +30,19 @@ const ReadingList = ({ data, location }) => {
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
               <p><span className="big-letter">W</span>hat is knowledge? What does it mean to ‘know’ something? What makes knowledge possible? How do we come to understand things? Are we born with innate knowledge, or is knowledge only acquired through sensory experience? Are our experiences of the world trustworthy? Do the findings of modern science have secure, logically-sound foundations? Moreover, is the potential of human knowledge unlimited? Or is it curtailed by our sensory apparatus and brainpower?</p> 
-              <p>All these questions and more form the basis of the branch of philosophy known as epistemology, the study of knowledge. While <Link to="/reading-lists/metaphysics/">metaphysics investigates the fundamental nature of reality</Link> and ponders what exists, epistemology asks how we can even <i>know</i> what exists. Do our experiences truly grant us access to ‘reality’? Can our judgements of the world be justified?</p>
+              <p>All these questions and more form the basis of the branch of philosophy known as epistemology, the study of knowledge.</p>
+              
+              <p>While metaphysics investigates the fundamental nature of reality and ponders what exists (see our explainer of <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">what metaphysics is</Link>, and our reading list of the <Link to="/reading-lists/metaphysics/">best books of metaphysics</Link>), epistemology asks how we can even <i>know</i> what exists.</p>
+              
+              <p>Do our experiences truly grant us access to ‘reality’? Can our judgements of the world be justified?</p>
               <p>From <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates declaring</Link> all he knows is that he knows nothing, <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/">Descartes worrying</Link> if the world around us is real, <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke insisting</Link> there is no such things as innate knowledge, through to the more technical arguments of the modern day around whether evidence can rationally constrain or inform our beliefs: philosophers throughout the ages have endlessly debated questions around our capacity for and access to knowledge.</p>
               <p>The stakes? Only the status of everything we know!</p>
               
               <BigSubscribe />
 
-              <p>This reading list features a mix of primary and secondary texts to give you a wide ranging overview of epistemology. From introductions and contemporary anthologies to epistemological classics from the greats themselves: consuming this list will provide you with everything you could possibly want to know about knowing. </p>
+              <p>This reading list features a mix of primary and secondary texts to give you a wide ranging overview of epistemology.</p>
+              
+              <p>From introductions and contemporary anthologies to epistemological classics from the greats themselves: consuming this list will provide you with everything you could possibly want to know about knowing. </p>
 
               <h2>1. Knowledge: A Very Short Introduction, by Jennifer Nagel</h2>
               <BookLink title="Knowledge: A Very Short Introduction" author="Jennifer Nagel" link="http://www.amazon.com/gp/product/019966126X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=019966126X&linkId=9f525f6ab5812fbdc45abeb687713da6" img={data.one.childImageSharp.gatsbyImageData} />
