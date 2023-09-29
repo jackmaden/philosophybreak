@@ -71,9 +71,13 @@ Feeling scared, nervous, annoyed: this is part of what it means to be human.
 
 The idea is that we use our judgment to accept these natural feelings and impulses, and then gently point out to ourselves that we don’t have to let them warp our view of the world, rule our thoughts, or govern our actions. 
 
-It’s fine to be annoyed by things every now and then, that’s perfectly natural. It becomes an issue if we routinely let our annoyances gather momentum into uncontrollable anger. 
+Indeed, the only governors of our actions should be the [four cardinal Stoic virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/): wisdom, courage, justice, and temperance. 
+
+It’s fine to be annoyed by things every now and then, that’s perfectly natural. It becomes an issue if we routinely let our annoyances gather momentum into uncontrollable anger: if we let ourselves be ruled by feeling, we cannot live up to the four cardinal Stoic virtues.
 
 This is what mastering our emotions means for the Stoics: not repressing or ignoring our feelings, but using our judgment to wisely add perspective and prevent ourselves from losing control.
+
+And, importantly, the point of retaining control is not just to make ourselves feel better; it’s so that we can move forward constructively, and _do the right thing_. 
 
 As Seneca writes:
 
@@ -83,7 +87,7 @@ As Seneca writes:
 
 <span class="big-letter">O</span>f course, the Stoics were writing at a time before the physiological underpinnings of conditions like chronic anxiety had been better researched and understood, so their advice — _use your judgment to lend perspective to your situation!_ — may not be sufficient in all cases, and is not a replacement for professional therapeutic care.
 
-Nevertheless, recalling the lessons of Stoicism can still be of real benefit: by attempting to make clearer judgments about our situation, we can protect ourselves from spiraling, destructive emotions.
+Nevertheless, recalling the lessons of Stoicism can still be of real benefit: by attempting to make clearer judgments about our situation, we can protect ourselves from spiraling, destructive emotions, and create room to move forward with virtue.
 
 For instance, say someone insults you. In the moment, you might judge that it is outrageous for that person to injure you so, and so your ‘first movement’ of annoyance may quickly become anger.
 
@@ -99,7 +103,11 @@ The lesson here is that we shouldn’t let our impulsive reactions guide our beh
 
 If we do so, it is not just a case of poor judgment, it is total _lack_ of judgment: we are going straight from ‘first movement’ to emotion without applying any tempering use of reason whatsoever. 
 
-We must therefore ensure we take time to pause and reflect before making a judgment. Seneca puts it well when he says “The greatest remedy for anger is delay”, and:
+We must therefore ensure we take time to pause and reflect before leaping to action.
+
+We should accept our feelings as they arise; take stock, bring virtue to mind; and _then_ act.
+
+Seneca puts it well when he says “The greatest remedy for anger is delay”, and:
 
 >If you want to determine the nature of anything, entrust it to time: when the sea is stormy, you can see nothing clearly.
 
