@@ -1,14 +1,14 @@
 import React from "react"
 
-import WatermarkBreak from "./watermarkBreak"
 import SubscriptionForm from "./subscriptionForm"
 import PanelArticleList from "./panelArticleList"
 import WelcomeEmailPanel from "./welcomeEmailPanel"
+import AboutAuthor from "./aboutAuthor"
 
 const PostReadingList = () => (
     <>
-        <WatermarkBreak />
         <div id="post-article-height">
+            <AboutAuthor />
             <WelcomeEmailPanel />
             <PanelArticleList />
             <SubscriptionForm />

@@ -22,7 +22,7 @@ In his short but persuasive book, <a target="_blank" rel="noopener noreferrer sp
 
 >Free will _is_ an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have.
 
-And, as uncomfortable as this may be, it's very much consistent with neuroscientific research.
+And, as uncomfortable as this may be, it's very much consistent with some neuroscientific research.
 
 
 ## Decisions in the brain occur before you are conscious of them
@@ -98,7 +98,7 @@ In Harris's view, therefore, compatibilists like Dennett do not address the root
 
 Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his [book-length review of Harris's Free Will](https://samharris.org/reflections-on-free-will/). Harris then [responds to that response](https://samharris.org/the-marionettes-lament/), eventually leading the two of them to [record a podcast](https://samharris.org/podcasts/free-will-revisited/), in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 
-For our purposes in this article, however, we can say that though the argument rages on, Harris's neuroscience-backed case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatibilists like Dennett would disagree on this last point).
+For our purposes in this article, however, we can say that though the argument rages on, Harris's case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatibilists like Dennett would disagree on this last point).
 
 The rather scary question we turn to now, therefore, is what if Harris is right?
 
@@ -110,9 +110,7 @@ But it's important not to mix determinism — the view that all events are compl
 
 Our choices matter. What we decide to do shapes the paths we take in life. The point is that _we cannot decide what we will decide to do_. As Harris summarizes:
 
->You can change your life, and yourself, through effort and discipline — but you have whatever capacity for effort and discipline you have in this moment, and not a scintilla more (or less). You are either lucky in this department or you aren't — and you cannot make your own luck.
-<br><br>
-...choices, efforts, intentions, and reasoning influence our behavior — but they are themselves part of a chain of causes that precede conscious awareness and over which we exert no ultimate control. My choices matter — and there are paths toward making wiser ones — but I cannot choose what I choose.
+>You can change your life, and yourself, through effort and discipline — but you have whatever capacity for effort and discipline you have in this moment, and not a scintilla more (or less). You are either lucky in this department or you aren't — and you cannot make your own luck... choices, efforts, intentions, and reasoning influence our behavior — but they are themselves part of a chain of causes that precede conscious awareness and over which we exert no ultimate control. My choices matter — and there are paths toward making wiser ones — but I cannot choose what I choose.
 
 This conclusion — that our choices matter but that we cannot choose them — has profound consequences for our ideas of personal and moral responsibility — not to mention blame, justice, success, failure, and the entirety of our social, societal, and legal systems.
 
@@ -138,7 +136,9 @@ If we recognize that even the most ‘evil’ or dangerous people in existence a
     </div>
 </div>
 
-Our concept of justice, therefore, should reflect the fact that any of us could have been dealt a very different hand in life. Dwelling on the myriad background causes and processes that lead people to think and act the way they do should make us recognize, as Harris neatly puts it, “just how much luck is involved in morality itself.”
+Our concept of justice, therefore, should reflect the fact that any of us could have been dealt a very different hand in life. Dwelling on the myriad background causes and processes that lead people to think and act the way they do should make us recognize, as Harris neatly puts it, 
+
+>just how much luck is involved in morality itself.
 
 Of course, removing personal responsibility from the picture doesn't mean that people who consistently cause harm to others should be encouraged to roam free. The moral justification for criminalizing such behavior, says Harris, is straightforward: everyone else is better off this way. As he states:
 

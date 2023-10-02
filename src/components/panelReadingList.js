@@ -42,7 +42,7 @@ export default function PanelReadingList() {
           
           <BannerReadingList title="Existentialism" number="9" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="existentialism reading list" />
           
-          <BannerReadingList title="Friedrich Nietzsche" number="7" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
+          <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
           
           <BannerReadingList title="Stoicism" number="6" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
           

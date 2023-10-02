@@ -9,7 +9,7 @@ import { Navigation } from "../components/navigation"
 import { ScrollProgressBar } from '../components/scrollProgressBar'
 import SubscriptionForm from '../components/subscriptionForm'
 import { WindowHeightWrapper } from '../components/windowHeightWrapper'
-import WatermarkBreak from "../components/watermarkBreak"
+import AboutAuthor from "../components/aboutAuthor"
 import WelcomeEmailPanel from "../components/welcomeEmailPanel"
 import Sidebar from "../components/sidebar";
 
@@ -64,10 +64,12 @@ const ArticlePost = ({ data, location }) => {
 
     </div>
 
-    <WatermarkBreak />
-
     {/*post-article*/}
     <div id="post-article-height">
+
+      {/*about the author & watermark*/}
+      <AboutAuthor />
+    
       <WelcomeEmailPanel />
       <div className="grey-background large-pad">
         <div className="page-center">

@@ -9,8 +9,8 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from '../../components/topTitle'
 import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
-import SubscriptionForm from '../../components/subscriptionForm'
 import WatermarkBreak from "../../components/watermarkBreak"
+import WelcomeEmailPanel from "../../components/welcomeEmailPanel";
 
 
 const Page = ({ data, location }) => {
@@ -201,8 +201,7 @@ const Page = ({ data, location }) => {
         {/*post-reading list content*/}
 
 
-      
-        <SubscriptionForm />
+        <WelcomeEmailPanel />
     </Layout>
     </>
     )

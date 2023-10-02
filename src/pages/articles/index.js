@@ -6,8 +6,8 @@ import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
-import SubscriptionForm from '../../components/subscriptionForm'
 import WatermarkBreak from "../../components/watermarkBreak"
+import WelcomeEmailPanel from "../../components/welcomeEmailPanel";
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -68,7 +68,7 @@ const Articles = ({ data, location }) => {
         
         {/*end page background color*/}
         </div>
-        <SubscriptionForm />
+        <WelcomeEmailPanel />
         
     </Layout>
     </>

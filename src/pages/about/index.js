@@ -6,7 +6,7 @@ import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
-import SubscriptionForm from '../../components/subscriptionForm'
+import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 import JackHeadshot from "../../components/jackHeadshot"
 
 const Page = ({ data, location }) => {
@@ -64,8 +64,7 @@ const Page = ({ data, location }) => {
         
             
         {/*post-page content*/}
-
-        <SubscriptionForm />
+        <WelcomeEmailPanel />
     </Layout>
     </>
     )

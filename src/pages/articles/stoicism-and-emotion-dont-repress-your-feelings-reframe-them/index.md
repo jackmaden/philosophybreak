@@ -69,11 +69,9 @@ So, the Stoic advice is not that we should avoid ‘first movements’ — doing
 
 Feeling scared, nervous, annoyed: this is part of what it means to be human. 
 
-The idea is that we use our judgment to accept these natural feelings and impulses, and then gently point out to ourselves that we don’t have to let them warp our view of the world, rule our thoughts, or govern our actions. 
+The idea is that we use our judgment to accept these natural feelings and impulses, and then gently point out to ourselves that we don’t have to let them warp our view of the world, rule our thoughts, or govern our actions (indeed, the only governors of our actions should be the [four cardinal Stoic virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/): wisdom, courage, justice, and temperance). 
 
-Indeed, the only governors of our actions should be the [four cardinal Stoic virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/): wisdom, courage, justice, and temperance. 
-
-It’s fine to be annoyed by things every now and then, that’s perfectly natural. It becomes an issue if we routinely let our annoyances gather momentum into uncontrollable anger: if we let ourselves be ruled by feeling, we cannot live up to the four cardinal Stoic virtues.
+It’s fine to be annoyed by things every now and then, that’s perfectly natural. It becomes an issue if we routinely let our annoyances gather momentum into uncontrollable anger.
 
 This is what mastering our emotions means for the Stoics: not repressing or ignoring our feelings, but using our judgment to wisely add perspective and prevent ourselves from losing control.
 
