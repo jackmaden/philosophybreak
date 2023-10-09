@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
               <p>In the 2,500 years since Confucius offered his teachings, many interpretations and schools have arisen from his thought — some of which have been key guiding principles for various Chinese dynasties over the centuries.</p> 
 
               <p>However, the core idea that draws the diverse tradition of Confucianism together is that living a good life depends on the quality of our social relations.</p>
-              <p>The core Confucian texts of Confucius, Mengzi, and Xunzi encourage us to question and reflect on the roles we occupy, as well as the obligations we have in those roles — to friends, family, social communities, and even the global population.</p>
+              <p>The core Confucian texts of Confucius, Mengzi, and Xunzi (see our article detailing <Link to="/articles/mengzi-xunzi-on-human-nature-are-we-good-or-evil/">Mengzi and Xunzi’s famous disagreement on human nature here</Link>) encourage us to question and reflect on the roles we occupy, as well as the obligations we have in those roles — to friends, family, social communities, and even the global population.</p>
               <p>An especially distinctive aspect of Confucianism is its emphasis on ritual practice, which you can explore further in our quick explainer on the <Link to='/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/'>power of ritual in Confucian philosophy</Link>.</p>
 
               <BigSubscribe />

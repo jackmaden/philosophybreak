@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
 
             <blockquote><p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p></blockquote>
 
-            <p>Influenced by fellow philosopher, his friend and mentor Ralph Waldo Emerson (to whom the shack in the woods belonged), Thoreau set out to meditate on life, society, and the role of the individual. He wrote that:</p>
+            <p>Influenced by fellow philosopher, his friend and mentor Ralph Waldo Emerson (who owned the portion of woodland in which Thoreau built his shack), Thoreau set out to meditate on life, society, and the role of the individual. He wrote that:</p>
 
             <blockquote><p>The mass of men lead lives of quiet desperation.</p></blockquote>
 

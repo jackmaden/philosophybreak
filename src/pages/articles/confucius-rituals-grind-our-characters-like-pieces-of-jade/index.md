@@ -108,7 +108,7 @@ So, the next time you find yourself in a ritual situation — be it as a guest a
 
 ## Learn more about Confucianism
 
-<span class="big-letter">I</span>f you’re interested in learning more about Confucian philosophy, we’ve assembled a list of the [best introductory books on Confucianism here](/reading-lists/confucius/).
+<span class="big-letter">I</span>f you’re interested in learning more about Confucian philosophy, you might like our article detailing the two Confucian philosophers [Mengzi vs. Xunzi disagreeing on human nature](/articles/mengzi-xunzi-on-human-nature-are-we-good-or-evil/). We’ve also assembled a list of the [best introductory books on Confucianism here](/reading-lists/confucius/).
 
 You may also be interested in our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Confucianism to six rival philosophies for life.
 
