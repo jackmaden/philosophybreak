@@ -11,15 +11,31 @@ authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
 
+<span class="big-letter">P</span>erhaps Western philosophy’s most famous statement, “I think, therefore I am” is actually a rather poor translation of its Latin original, _cogito ergo sum_. A clearer translation might be, “I am thinking, therefore I exist.” 
+
+Even with a less ambiguous translation, however, we might still wonder why this statement is so celebrated. 
+
+Doesn’t it just express something really obvious?   
+
+Well, Descartes was not merely conveying a platitude when he coined these famous words. 
+
+For him, “I think, therefore I am” is a crucial example of a statement which, when expressed, _cannot be false_ — and thus a significant step in his search for certain, irrefutable knowledge. 
+
+Indeed, the brilliance of _cogito ergo sum_ — and why it changed Western philosophy forever — really becomes clear once we consider its philosophical background, and Descartes’ motivations…
+
+## Descartes’ search for certainty, via relentless methodic doubt
+
 <span class="big-letter">I</span>t’s a cool 1640 night in Leiden, Netherlands, and French philosopher René Descartes picks up his pen…⁣ “I am here quite alone,” he writes, “and at last I will devote myself sincerely and without reservation to the general demolition of my opinions.”⁣
 
 What better way to spend the night?
 
 But Descartes was not without reason: in his work as a mathematician, he worried that if the foundations of knowledge were not completely solid, anything built upon them would inevitably collapse. 
 
-He thus decided that if there was reason to doubt the truth of something — no matter how slim the doubt — then it should be discarded as false.⁣ In his own words:
+If we want to establish real, irrefutable certainty about reality, Descartes thinks, we must be strict in our approach.
 
->if I am able to find in each one some reason to doubt, this will suffice to justify my rejecting the whole.
+He thus decides that if there is reason to doubt the truth of something — no matter how slim the doubt — then it should be discarded as false.⁣ In his own words:
+
+>if I am able to find in each \[aspect of an opinion] some reason to doubt, this will suffice to justify my rejecting the whole.
 
 And with his demolition — or _methodic doubt_, as it’s come to be known — Descartes doesn’t intend to focus on each of his opinions one by one; rather he intends to target the _foundations_ which prop them up: 
 
@@ -29,9 +45,9 @@ And with his demolition — or _methodic doubt_, as it’s come to be known — 
 
 With this strict criteria for truth in mind, and his targets established, it’s not long before — as depicted with masterful drama in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — Descartes struggles to feel convinced by the existence or reliability of, well, anything.
 
-Descartes asserts that many of his opinions are based upon his _experiences_ of the world through his five senses. 
+Descartes asserts that most if not all of his opinions are based upon his _experiences_ of the world through his five senses. 
 
-However, his senses are not always trustworthy — when he dreams or hallucinates, for instance, his experiences do not align to reality. 
+His senses, however, are not always trustworthy — when he dreams or hallucinates, for instance, his experiences do not align to reality. 
 
 Reflecting on this point, Descartes wonders if he can be sure he’s even awake _right now_, writing:
 
@@ -75,7 +91,7 @@ Or maybe nothing physical exists at all and this is all just one big hallucinati
 
 <span class="big-letter">D</span>escartes himself reflects on this latter idea: that the world is created not by a _good_ God but by a God-like deceiver. He writes: 
 
->I shall then suppose, not that God who is supremely good and the fountain of truth, but some evil genius not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that the heavens, the earth, colours, figures, sound, and all other external things are nought but the illusions and dreams of which this genius has availed himself in order to lay traps for my credulity...
+>I shall then suppose, not that God who is supremely good and the fountain of truth, but some evil demon not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that the heavens, the earth, colors, figures, sound, and all other external things are nought but the illusions and dreams of which this demon has availed himself in order to lay traps for my credulity...
 
 ![are we living in a simulation?](./simulation.jpeg "Can we ever know for certain if the world we perceive is actually reality, rather than, say, a computer simulation?")
 
@@ -95,9 +111,9 @@ And, after a while, he finds it.
 
 ## I think, therefore I am
 
-<span class="big-letter">A</span> clearer translation of Descartes’ definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. 
+<span class="big-letter">A</span>s noted at the beginning, a clearer translation of Descartes’ definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. 
 
-Phew. Mop that brow, eh René: at last, here is something we can be absolutely certain of. 
+Phew. Mop that brow, eh René: at last, here is something of which we can be absolutely certain. 
 
 It is impossible to doubt the existence of your own thoughts, because in the act of doubting, you are thinking.
 
@@ -105,7 +121,7 @@ The famous formulation “I think, therefore I am” actually appears in Descart
 
 In his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a>, the same thought is stated slightly differently, coming at the end of a glorious passage in which Descartes lays out the impossibility of doubting his own existence (or, indeed, of being deceived about it):
 
->But I was persuaded that there was nothing in all the world, that there was no heaven, no earth, that there were no minds, nor any bodies: was I not then likewise persuaded that I did not exist? Not at all; of a surety I myself did exist merely because I thought of something. But there is some deceiver or other, very powerful and very cunning, who ever employs his ingenuity in deceiving me. Then without doubt I exist also if he deceives me, and let him deceive me as much as he will, he can never cause me to be nothing so long as I think that I am something. So that after having reflected well and carefully examined all things, we must come to the definite conclusion that this proposition: _I am, I exist_, is necessarily true each time that I pronounce it, or that I mentally conceive it.
+>But I was persuaded that there was nothing in all the world, that there was no heaven, no earth, that there were no minds, nor any bodies: was I not then likewise persuaded that I did not exist? Not at all; of a surety I myself did exist _merely because I thought of something_. But there is some deceiver or other, very powerful and very cunning, who ever employs his ingenuity in deceiving me. Then without doubt I exist also if he deceives me, and let him deceive me as much as he will, he can never cause me to be nothing so long as I think that I am something. So that after having reflected well and carefully examined all things, we must come to the definite conclusion that this proposition: _I am, I exist_, is necessarily true each time that I pronounce it, or that I mentally conceive it.
 
 ## The importance of cogito ergo sum
 
@@ -149,15 +165,19 @@ Believe it or not, philosophers have been trying to bridge this explanatory gap 
 
 Combine that with its highly accessible, dramatized style, and it’s no wonder that this short text is still pored over by undergraduate students to this day: <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> is essential reading for anyone interested in philosophy.
 
-Now, Descartes’ doubting leaves us with a number of rather alarming concerns: that perception might not be reality, that our reasoning abilities are not necessarily reliable, and that our experience is not infallible and has no bearing on the existence of an external world. 
+For Descartes’ doubting leaves us with a number of rather alarming concerns: do our senses deceive us? Is any of our knowledge actually valid? Are our reasoning abilities reliable? Is perception reality? How can we bridge the gap between the mental and the physical? What is the self? Is the existence of everything a mere figment of my imagination?
 
-The philosophical position of solipsism (see our [solipsism explainer here](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/)) takes Descartes’ skepticism in these areas to their apparent logical conclusion: we cannot assert the existence of anything beyond our own minds.
+The philosophical position of solipsism (see our [solipsism explainer here](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/)) takes Descartes’ skepticism in these areas to their apparent logical conclusion: we cannot have knowledge (or assert the existence) of anything beyond our own minds.
 
 Of course, the solipsist position has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about — including by the 17th-century philosophers John Locke ([see our explainer on Locke’s _tabula rasa_ here](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/)) and George Berkeley ([see our explainer on Berkeley’s subjective idealism here](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)) — which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
 
 Is Descartes’ approach to knowledge-building reasonable? Is certainty actually required for knowledge? How _else_ might knowledge be construed?
 
 We explore these themes further in our [solipsism explainer](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/), our article on [whether the world around us is real](/articles/is-the-world-around-us-real/), as well as our [epistemology reading list](/reading-lists/epistemology/).
+
+But to conclude _this_ article, we can say that while a favorite pastime of philosophers these days is to show where Descartes went wrong, for many his were the first words to inspire further exploration into Western philosophy; it is thus difficult to view his project in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> without affection.
+
+For, regardless of the fractures, uncertainty, and endless confusion he caused with his methodic doubt, one thing Descartes gave us remains certain for all who think it: _cogito ergo sum_.
 
 
 
