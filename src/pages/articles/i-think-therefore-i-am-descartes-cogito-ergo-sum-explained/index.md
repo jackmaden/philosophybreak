@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "https://twitter.com/jackmaden_"
 ---
 
-<span class="big-letter">P</span>erhaps Western philosophy’s most famous statement, “I think, therefore I am” is actually a rather poor translation of its Latin original, _cogito ergo sum_. A clearer translation might be, “I am thinking, therefore I exist.” 
+<span class="big-letter">P</span>erhaps Western philosophy’s most famous statement, “I think, therefore I am” is actually a rather confusing translation of its Latin original, _cogito ergo sum_. A clearer translation might be, “I am thinking, therefore I exist.” 
 
 Even with a less ambiguous translation, however, we might still wonder why this statement is so celebrated. 
 
@@ -21,7 +21,7 @@ Well, Descartes was not merely conveying a platitude when he coined these famous
 
 For him, “I am thinking, therefore I exist” is a crucial example of a statement which, when thought, _cannot be false_ — and thus a significant step in his search for certain, irrefutable knowledge. 
 
-Indeed, the brilliance of _cogito ergo sum_ — and why it changed Western philosophy forever — really becomes clear once we consider its philosophical background, and Descartes’ motivations…
+Indeed, the brilliance of _cogito ergo sum_ — and why it changed Western philosophy forever — really becomes clear once we consider its philosophical background, Descartes’ motivations, and the radical <i>un</i>certainty that brought it about…
 
 ## Descartes’ search for certainty, via relentless methodic doubt
 
