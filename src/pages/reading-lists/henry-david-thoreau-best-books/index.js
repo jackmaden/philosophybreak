@@ -49,7 +49,7 @@ const ReadingList = ({ data, location }) => {
 
             <p>Within this picture, Transcendentalists see society as a corrupting force, as a conspiracy against individuality.</p>
 
-            <p>They believe we are at our best when we are left to our own devices in nature, when we are <i>self-reliant</i> — that cooperation and morality come naturally, and need not be legislated by the state.</p>
+            <p>They believe — as set out with masterful prose in <Link to="/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/">Emerson’s famous essay on self-reliance</Link> — that we are at our best when we are left to our own devices in nature, when we are <i>self-reliant</i>; and that cooperation and morality come naturally, and need not be legislated by the state.</p>
 
             <p>If the practices of the state come into conflict with our own conscience, Transcendentalists thus advise us to prioritize the needs of our own conscience.</p>
 
