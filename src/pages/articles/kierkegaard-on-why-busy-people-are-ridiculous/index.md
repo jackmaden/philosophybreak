@@ -34,7 +34,7 @@ Everything is important but nothing is important. The busy person is thus ridicu
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers. Unsubscribe any time. </p>
     </div>
 </div>
 
@@ -56,7 +56,7 @@ So: who are you and what is your life for?
 
 ## Further reading
 
-<span class="big-letter">I</span>f you’re looking to explore him further, check out our quick article on [Kierkegaard’s approach to finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/) — and for a deeper dive, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or</a> (which features on our reading list of [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/)) is a brilliant place to start. 
+<span class="big-letter">I</span>f you’re looking to explore him further, check out our quick articles on [Kierkegaard’s approach to finding the meaning of life](/articles/kierkegaard-on-finding-the-meaning-of-life/) and his observation that [while we understand life backwards, we must live forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/). For a deeper dive, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or</a> (which features on our reading list of [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/)) is a brilliant place to start. 
 
 Kierkegaard invites us to explore subjects like boredom, romance, meaning, and culture from the two seemingly irreconcilable perspectives of A and Judge Vilhelm. In doing so, he writes some utterly heart-wrenching, deeply witty, and memorable prose. It’s a perfect accompaniment to break up a busy existence. 
 

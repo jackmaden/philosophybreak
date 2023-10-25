@@ -14,7 +14,7 @@ authorLink: "https://twitter.com/jackmaden_"
 
 <span class="big-letter">Y</span>ou exist. Let’s just take that in for a moment. You _exist_. And you exist not in some general, abstract way, but in a highly specific form, at a very particular time and place. You are _you_. A human being, here, now, existing on a planet that’s hurtling through space at 30 kilometers per second. 
 
-And it’s not just you. Other people, you assume, exist here too. As does the place you grew up, and the screen upon which you’re reading these very words. All of it’s _here_.
+And it’s not just you. Other people seemingly exist here too. As does the place you grew up, and the screen upon which you’re reading these very words. All of it’s _here_.
 
 The reason for the existence of most of the things we encounter in our day-to-day lives can be explained quite easily: something caused it. 
 

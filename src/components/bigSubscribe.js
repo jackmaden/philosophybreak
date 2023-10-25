@@ -8,7 +8,7 @@ const BigSubscribe = () => (
         <StaticImage src="../images/weekly-break.png" alt="weekly emails from Philosophy Break" placeholder="blurred" objectFit="contain" />
         <h4 style={{marginTop: "0.5em"}}>Get one mind-opening philosophical idea delivered to your inbox every Sunday (free):</h4>
         <WelcomeEmailForm />
-        <p className="tiny-mar-top no-mar-bottom review-font">Join 5,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+        <p className="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
     </div>
 )
 
