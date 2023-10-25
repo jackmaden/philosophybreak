@@ -63,7 +63,7 @@ Milan Kundera describes this feature of existence succinctly in his 1984 novel <
 
 <span class="big-letter">H</span>owever, that we can only understand things in retrospect should tell us something important about how we might better approach life. 
 
-If we insist on constantly trying to meticulously plan and execute the _best life possible_, all we can do is try to keep our worries, uncertainties, and expectations at bay as we fall forwards towards an open, unknowable future.
+If we insist on continuously trying to plan and execute the _best life possible_, all we can do is try to keep our worries, uncertainties, and expectations at bay as we fall forwards towards an open, unknowable future.
 
 But if we accept that we will _always have incomplete information_, then perhaps we might also see the futility of trying to plan and control everything that happens. 
 
