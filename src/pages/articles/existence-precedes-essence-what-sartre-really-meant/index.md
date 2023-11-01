@@ -8,7 +8,7 @@ tags: ["Existentialism", "Ethics", "Jean-Paul Sartre", "Simone de Beauvoir"]
 date: "2023-08-24"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://twitter.com/jackmaden_"
+authorLink: "/about/"
 ---
 
 <span class="big-letter">I</span>n his 1943 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0671867806/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671867806&linkId=b0099f68e2d25fcb5bd68aca0f893a53">Being and Nothingness</a>, the existentialist philosopher Jean-Paul Sartre offers the following pithy statement, which he saw as the first principle of existentialism: 
@@ -67,7 +67,7 @@ We are not fixed; we are ever-changing, ever-becoming, ever-redefining: we have 
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 6,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
     </div>
 </div>
 
@@ -156,7 +156,7 @@ If free will turned out to be an illusion, would that prove fatal to the existen
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 6,000+ subscribers. Unsubscribe any time. </p>
     </div>
 </div>
 

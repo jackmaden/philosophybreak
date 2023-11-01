@@ -8,7 +8,7 @@ tags: ["Descartes", "Skepticism"]
 date: "2023-10-11"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://twitter.com/jackmaden_"
+authorLink: "/about/"
 ---
 
 <span class="big-letter">P</span>erhaps Western philosophy’s most famous statement, “I think, therefore I am” is actually a rather confusing translation of its Latin original, _cogito ergo sum_. A clearer translation might be, “I am thinking, therefore I exist.” 
@@ -83,7 +83,7 @@ Or maybe nothing physical exists at all and this is all just one big hallucinati
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 6,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
     </div>
 </div>
 
@@ -155,7 +155,7 @@ Believe it or not, philosophers have been trying to bridge this explanatory gap 
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 6,000+ subscribers. Unsubscribe any time. </p>
     </div>
 </div>
 
@@ -185,7 +185,7 @@ For, regardless of the fractures, uncertainty, and endless confusion he caused w
 
 <span class="big-letter">I</span>f you enjoy reflecting on themes like those explored in this article, you might like my free Sunday email. I distill one philosophical idea per week, and invite you to share your view. 
 
-If you’re interested, you can join 5,500+ thinkers and sign up for free below (no spam, and you can unsubscribe any time):
+If you’re interested, you can join 6,000+ thinkers and sign up for free below (no spam, and you can unsubscribe any time):
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -197,6 +197,6 @@ If you’re interested, you can join 5,500+ thinkers and sign up for free below 
             <input type="hidden" name="tags" value="6266048" />
             <button class="button primary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Subscribe to Weekly Emails</button>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">Join 5,500+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
+        <p class="tiny-mar-top no-mar-bottom review-font">Join 6,000+ subscribers enjoying one nugget of profundity per week. Unsubscribe any time. </p>
     </div>
 </div>

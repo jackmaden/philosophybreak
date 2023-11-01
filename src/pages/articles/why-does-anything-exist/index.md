@@ -8,7 +8,7 @@ tags: ["Life's Big Questions", "Metaphysics", "Ontology"]
 date: "2021-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
-authorLink: "https://twitter.com/jackmaden_"
+authorLink: "/about/"
 ---
 <div style="position: relative; margin-bottom:50px;">
 
