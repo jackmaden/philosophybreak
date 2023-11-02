@@ -454,7 +454,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .coursepanel h3.pfl {font-size: 33px;}
 .coursepanel.grey-background a:hover .discount span:first-child, .coursepanel.grey-background a:hover div.three-col div.small-mar span, .coursepanel.grey-background > a > div > div.mobile-center > p.no-mar-top > span {color: #001d30;}
 .coursepanel .white-underline {text-decoration: underline;}
-@media (min-width: 620px) {.coursepanel h3 {font-size: 40px;} .coursepanel h3.pfl {font-size: 36px;} .coursepanel h3.pfl.smaller {font-size: 32px;}}
+@media (min-width: 620px) {.coursepanel h3 {font-size: 40px;} .coursepanel h3.pfl {font-size: 36px;} .coursepanel h3.pfl.smaller {font-size: 31px;}}
 
 
 /*course load more reviews*/

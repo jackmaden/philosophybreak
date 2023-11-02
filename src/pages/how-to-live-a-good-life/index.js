@@ -38,7 +38,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
                     <h1 id="pfl">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h1>
-                    <p className="spectral">Unlock instant access to 56 self-paced, mind-opening lessons on Stoicism, Existentialism, Buddhism and beyond (accessible forever from any device):</p>
+                    <p className="spectral">Unlock instant access to 56 concise, self-paced lessons on Stoicism, Existentialism, Buddhism and beyond (accessible forever from any device):</p>
                     <div className="mobile-center">
                         <CheckoutPFL />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="How to Live a Good Life" loading="eager" className="desktop-no-display tiny-mar-top-important" />
@@ -128,8 +128,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Aristotle: achieving excellence <i>(8 lessons)</i></span></h3>
                         <p className="large-grey-font">If you want to achieve excellence and happiness in all that you do, Aristotle has some common-sense advice that will help. Chapter 1 distills his deeply influential philosophy across 8 lessons.</p>
                     </div>
-                    <div>
-                        <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                        <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                             <GatsbyImage image={data.chapter1.childImageSharp.gatsbyImageData} alt="Why Does Anything Exist?" />
                             <p className="image-caption-tap right">↗ Chapter 1 (8 lessons). Tap to enlarge.</p>
                         </a>
@@ -142,8 +142,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">2</span><span>Epicureanism: living for pleasure <i>(7 lessons)</i></span></h3>
                         <p className="large-grey-font">If relaxing and cultivating a tranquil mind are more your thing, Epicurus will be your guide. Chapter 2 outlines Epicureanism's simple yet profound recipe for happiness across 7 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter2.childImageSharp.gatsbyImageData}
                         alt="Is the World Around Us ‘Real’?" />
@@ -158,8 +158,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-end"><span className="spectral big-letter">3</span><span>Stoicism: beating anxiety <i>(8 lessons)</i></span></h3>
                         <p className="large-grey-font">If you are anxious about the future, and often worry about things that are out of your control, the Stoics may help you reframe your concerns. Chapter 3 concisely packages their practical wisdom across 8 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter3.childImageSharp.gatsbyImageData}
                         alt="What Makes Us Conscious?" />
@@ -174,8 +174,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-end"><span className="spectral big-letter">4</span><span>Buddhism: ending suffering <i>(9 lessons)</i></span></h3>
                         <p className="large-grey-font">If everyday life leaves you with a faint buzz of dissatisfaction and you're not sure why, the Buddha may provide some insight. Chapter 4 sheds light on the Buddhist path to enlightenment across 9 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter4.childImageSharp.gatsbyImageData}
                         alt="Do We Have Free Will?" />
@@ -190,8 +190,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">5</span><span>Confucianism: growing morally <i>(8 lessons)</i></span></h3>
                         <p className="large-grey-font">If you want to find ways to feel more connected to the important people in your life, and promote the moral growth of all, Confucius has some ideas. Chapter 5 shows why Confucianism was the dominant way of life in China for millennia across 8 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter5.childImageSharp.gatsbyImageData}
                         alt="How Should We Approach Life?" />
@@ -206,8 +206,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">6</span><span>Existentialism: overcoming nihilism <i>(9 lessons)</i></span></h3>
                         <p className="large-grey-font">If you feel like life is meaningless and all your projects ultimately lack purpose, you might find some relief in existentialism. Chapter 6 distills the philosophies of Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Nietzsche, Kierkegaard, and more across 9 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter6.childImageSharp.gatsbyImageData}
                         alt="How Should We Approach Life?" />
@@ -222,8 +222,8 @@ const Page = ({ data, location }) => {
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">7</span><span>Effective Altruism: doing good better <i>(7 lessons)</i></span></h3>
                         <p className="large-grey-font">If you are sold on the idea of doing good in the world, but feel powerless about making any kind of difference on the global stage, effective altruism might be the framework you’re looking for. Chapter 7 investigates this powerful, yet increasingly controversial, approach to the good life across 7 lessons.</p>
                     </div>
-                    <div>
-                    <a href={chap7} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> 
+                    <a href={chap7} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter7.childImageSharp.gatsbyImageData}
                         alt="How Should We Approach Life?" />
@@ -239,7 +239,7 @@ const Page = ({ data, location }) => {
                         <p className="large-grey-font">Philosophy Break Academy is your interactive learning and community space for all things philosophy, where you can take self-paced courses, track your progress, and discuss materials with other members. By purchasing this course, you unlock <b><i>lifetime access</i></b> to Philosophy Break Academy.</p>
                     </div>
                     <div>
-                    <a href={welcome} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={welcome} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.welcome.childImageSharp.gatsbyImageData}
                         alt="Philosophy Break Academy" />

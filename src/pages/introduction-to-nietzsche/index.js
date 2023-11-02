@@ -33,8 +33,8 @@ const Page = ({ data, location }) => {
             <div className="two-col page-center">
                 <div>
                 <p className="verified no-mar-top">NEW!</p><span className="tag time new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course new pfl"></div>
-                    <h1 id="smaller">Radically Strengthen Your Grasp of Nietzsche and His 5 Greatest Ideas</h1>
-                    <p className="spectral">Unlock instant access to 42 self-paced, myth-busting lessons on Nietzsche’s fascinating yet much-misunderstood philosophy (accessible forever from any device):</p>
+                    <h1 id="pfl">Introduction to Nietzsche: Your Myth-Busting Guide to His 5 Greatest Ideas</h1>
+                    <p className="spectral">Unlock instant access to 42 concise, self-paced lessons on Nietzsche’s fascinating yet much-misunderstood philosophy (accessible forever from any device):</p>
                     <div className="mobile-center">
                         <CheckoutNietzsche />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Introduction to Nietzsche" loading="eager" className="desktop-no-display tiny-mar-top-important" />
@@ -100,7 +100,7 @@ const Page = ({ data, location }) => {
                 <div className="four-col mobile-center small-pad no-pad-desktop">
                     <div className="small-mar-top">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> 42 concise lessons</h5>
-                        <p className="small-grey-font">42 self-paced lessons organized into 6 succinct chapters (each chapter is a 40-min read)</p>
+                        <p className="small-grey-font">42 self-paced lessons organized into 6 succinct chapters (each chapter is a 40-min read).</p>
                     </div>
                     <div className="small-mar">
                         <h5><span style={{"color": "#36b4ff"}}>➤</span> Modern scholarship</h5>
@@ -121,10 +121,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">1</span><span>Life, Work, and Legacy <i>(7 lessons)</i></span></h3>
-                        <p className="spectral">Who was Friedrich Nietzsche? What life did he lead that led him to have the ideas that he did? On day one we’ll set the scene and contextualize what’s to come by looking at Nietzsche the man, his influences, and outline all of his major works and chronology.</p>
+                        <p className="spectral">Who was Friedrich Nietzsche? What life did he lead that led him to have the ideas that he did? In Chapter 1 we set the scene and contextualize what’s to come by looking at Nietzsche the man, his influences, and outline all of his major works and chronology.</p>
                     </div>
-                    <div className="mid-mar-top-desktop"> {/*introducing mid-mar on image due to slightly taller screen monitor design on the nietzsche course*/}
-                    <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <div className="mid-mar-top-desktop"> {/*introducing mid-mar on image due to slightly taller screen monitor design on the nietzsche course - now added to other courses too*/}
+                    <a href={chap1} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter1.childImageSharp.gatsbyImageData}
                         alt="Nietzsche’s Life, Work, and Legacy" />
@@ -137,10 +137,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">2</span><span>The Apollonian & Dionysian <i>(6 lessons)</i></span></h3>
-                        <p className="spectral">On day two we’ll start digging deeper into Nietzsche’s core ideas. We’ll begin with his early distinction between the Apollonian and Dionysian, which acts not only as a supremely illuminating way to consider life and art, but also as a precursor to his later ideas.</p>
+                        <p className="spectral">In Chapter 2 we start digging deeper into Nietzsche’s core ideas. We begin with his early distinction between the Apollonian and Dionysian, which acts not only as a supremely illuminating way to consider life and art, but also as a precursor to his later ideas.</p>
                     </div>
                     <div className="mid-mar-top-desktop">
-                    <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={chap2} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter2.childImageSharp.gatsbyImageData}
                         alt="The Apollonian & Dionysian" />
@@ -153,10 +153,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">3</span><span>Perspectivism <i>(6 lessons)</i></span></h3>
-                        <p className="spectral">Do human beings have access to objective truth? Day three will consider Nietzsche’s fascinating theory of perspectivism, a highly sophisticated account of what truth is and how we can access it — an account that continues to excite scholars today.</p>
+                        <p className="spectral">Do human beings have access to objective truth? Chapter 3 considers Nietzsche’s fascinating theory of perspectivism, a highly sophisticated account of what truth is and how we can access it — an account that continues to excite scholars today.</p>
                     </div>
                     <div className="mid-mar-top-desktop">
-                    <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter3.childImageSharp.gatsbyImageData}
                         alt="Nietzsche’s Perspectivism" />
@@ -169,10 +169,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">4</span><span>Master & Slave Morality <i>(8 lessons)</i></span></h3>
-                        <p className="spectral">Where do morals come from? Nietzsche’s profound contribution to answering this question will be discussed on day four, where we’ll assess his takedown of traditional values like altruism, as well as his concepts of the ascetic ideal, master morality, and slave morality.</p>
+                        <p className="spectral">Where do morals come from? Nietzsche’s profound contribution to answering this question is discussed in Chapter 4, where we assess his takedown of traditional values like altruism, as well as his concepts of the ascetic ideal, master morality, and slave morality.</p>
                     </div>
                     <div className="mid-mar-top-desktop">
-                    <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={chap4} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter4.childImageSharp.gatsbyImageData}
                         alt="Master & Slave Morality" />
@@ -185,10 +185,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">5</span><span>God is Dead, the Eternal Recurrence, & the Übermensch</span></h3>
-                        <p className="spectral">What should we value in a Godless world — and why? Nietzsche’s attempt to provide a ‘revaluation of values’ will be discussed on day five, where we’ll consider his famous ideas that God is Dead, the eternal recurrence, and the Übermensch (superman).</p>
+                        <p className="spectral">What should we value in a Godless world — and why? Nietzsche’s attempt to provide a ‘revaluation of values’ is discussed in Chapter 5, where we consider his famous ideas that God is Dead, the eternal recurrence, and the Übermensch (superman).</p>
                     </div>
                     <div className="mid-mar-top-desktop">
-                    <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter5.childImageSharp.gatsbyImageData}
                         alt="God is Dead & the Übermensch" />
@@ -201,10 +201,10 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">6</span><span>The Will to Power <i>(8 lessons)</i></span></h3>
-                        <p className="spectral">Is there a unified system that underpins Nietzsche’s thought? Well, the ‘will to power’ is a good candidate. Day six will discuss how the will to power plays a crucial role throughout Nietzsche’s writings, and summarize where scholars stand on it today.</p>
+                        <p className="spectral">Is there a unified system that underpins Nietzsche’s thought? Well, the ‘will to power’ is a good candidate. Chapter 6 discusses how the will to power plays a crucial role throughout Nietzsche’s writings, and summarizes where scholars stand on it today.</p>
                     </div>
                     <div className="mid-mar-top-desktop">
-                    <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer">
+                    <a href={chap6} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
                     <GatsbyImage
                         image={data.chapter6.childImageSharp.gatsbyImageData}
                         alt="The Will to Power" />
@@ -413,7 +413,7 @@ const Page = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  lbq: file(relativePath: {eq: "intro-to-nietzsche-social.jpg"}) {
+  lbq: file(relativePath: {eq: "nietzsche-seo.jpg"}) {
     childImageSharp {
         gatsbyImageData(width: 1200, quality: 90, layout: CONSTRAINED)
     }

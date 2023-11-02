@@ -128,7 +128,7 @@ export const query = graphql`{
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }
   }
-  lbq: file(relativePath: {eq: "Chapter1-full.png"}) {
+  lbq: file(relativePath: {eq: "LBQ-promo.png"}) {
     childImageSharp {
       gatsbyImageData(quality: 90, layout: FULL_WIDTH)
     }
