@@ -51,6 +51,10 @@ const ReadingList = ({ data, location }) => {
 
               <blockquote><p>If you want to determine the nature of anything, entrust it to time: when the sea is stormy, you can see nothing clearly.</p></blockquote>
 
+              <p>Or, again(!), <Link to="/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/">Seneca on how if we want to find peace we must stop chasing unfulfillable desires</Link>:</p>
+
+              <blockquote><p>If, no matter how far you travel, there always seems to be some further place you need to reach, that is a sure sign that the desire is contrary to nature…</p></blockquote>
+
               <p>Very nice quotations — all lifted from the books below. But beyond these practical nuggets of wisdom encouraging us to stay calm and focus on what’s within our own control (and regulate our attitudes to anything outside that control), Stoicism is a fully-fledged, holistic value system that can be adopted as a philosophy for all aspects of life.</p> 
 
               <BigSubscribe />
