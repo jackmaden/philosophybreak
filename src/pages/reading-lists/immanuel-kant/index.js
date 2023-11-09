@@ -29,11 +29,20 @@ const ReadingList = ({ data, location }) => {
 
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-              <p><span className="big-letter">I</span>mmanuel Kant is considered by some to be the greatest ever philosopher in the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link> — or at least certainly since the ancient Greeks <Link to="/reading-lists/socrates/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, and <Link to="/reading-lists/aristotle/">Aristotle</Link>. This is due to the hugely significant contributions the German philosopher — born in 1724 in Königsberg (then part of Prussia) — made to to virtually every area of philosophy, including <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">metaphysics</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, <Link to="/reading-lists/political-philosophy/">politics</Link>, and aesthetics.</p>
+              <p><span className="big-letter">I</span>mmanuel Kant is considered by some to be the greatest ever philosopher in the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link> — or at least certainly since the ancient Greeks <Link to="/reading-lists/socrates/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, and <Link to="/reading-lists/aristotle/">Aristotle</Link>.</p>
+              
+              <p>This is due to the hugely significant contributions the German philosopher — born in 1724 in Königsberg (then part of Prussia) — made to to virtually every area of philosophy, including <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">metaphysics</Link>, <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, <Link to="/reading-lists/political-philosophy/">politics</Link>, and aesthetics.</p>
 
-              <p>Kant is perhaps best known for his synthesis of early modern rationalism (think <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/"><i>Descartes’s cogito ergo sum</i></Link>) and empiricism (think <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke’s <i>tablua rasa</i></Link>), as well as for his categorical imperative (‘act only according to that maxim whereby you can at the same time, will that it should become a universal law’).</p>
+              <p>Kant is perhaps best known for his synthesis of early modern rationalism (think <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/"><i>Descartes’s cogito ergo sum</i></Link>) and empiricism (think <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke’s <i>tablua rasa</i></Link>) with his theory of <i>transcendental idealism</i>. If you’re interested in learning more about this, you might like our explainer of <Link to="/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/">Kant’s transcendental idealism here</Link>.</p>
+              
+              <p>Kant also made crucial contributions to moral philosophy, perhaps most famously his <i>categorical imperative</i>, which is commonly formulated as follows:</p>
+              
+              <blockquote><p>Act only according to that maxim whereby you can at the same time will that it should become a universal law.</p></blockquote>
 
-              <p>This reading list consists of the best books on and by Immanuel Kant. After reading it, you’ll understand exactly why Kant is celebrated as one of the most incredible minds to ever enter philosophy. (Note: Kant has a reputation for being a rather dense and challenging writer, so it’s recommended you pick up an introduction or two to supplement any reading of his primary works.) Let’s dive in!</p>
+              <p>This reading list consists of the best books on and by Immanuel Kant. After reading it, you’ll understand exactly why Kant is celebrated as one of the most incredible minds to ever enter philosophy.</p>
+              <p>(Note: Kant has a reputation for being a rather dense and challenging writer, so it’s recommended you pick up an introduction or two to supplement any reading of his primary works.)</p>
+              
+              <p>Let’s dive in!</p>
 
 
               <h2>1. Kant: A Very Short Introduction, by Roger Scruton</h2>

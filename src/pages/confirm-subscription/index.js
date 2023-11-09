@@ -8,7 +8,7 @@ import JackHeadshot from "../../components/jackHeadshot"
 const Page = () => {
     return (
         <>
-        <Helmet title="Thank You | Philosophy Break">
+        <Helmet title="Confirm Your Subscription | Philosophy Break">
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>
@@ -18,11 +18,10 @@ const Page = () => {
             <div className="grey-background small-pad-bottom">
                 <div className="top-title text-center">
                     <div className="page-center">
-                        <h3 className="mid-width">Thank you! Your subscription is confirmed, and philosophical goodies are on their way to your inbox</h3>
+                        <h3 className="mid-width">You’re almost there: please click ‘Confirm’ in your confirmation email to complete your subscription</h3>
                         <div className="separator"></div>
-                        <p className="small-grey-font mid-width">Your welcome email will land in your inbox shortly. If you don’t see it, please check the ‘Promotions’ tab or your spam folders.</p>
-                        <p className="small-grey-font mid-width">Any problems, simply drop me a line at hello@philosophybreak.com, and I’ll be on hand to help.</p>
-                        <p className="small-grey-font mid-width">Thanks again and keep an eye on your inbox!</p>
+                        <p className="small-grey-font mid-width">It should arrive within a few minutes. As soon as you complete this step, I’ll send over my best philosophical goodies to get you started.</p>
+                        <p className="small-grey-font mid-width">Thank you, and keep an eye on your inbox!</p>
                         <JackHeadshot />
                     </div>
                 </div>
