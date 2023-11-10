@@ -73,7 +73,7 @@ Our mistake, Kant thinks, is to assume that such structures are thus independent
 
 Really, all we can say is that, _in our experience_, such basic features are always present. We cannot extend such features to reality _away_ from our experience without making a logical leap. 
 
-If we take seriously Kant’s Copernican revolution, the placing of the experiencer at the center of empirical word, then we have to take seriously the idea that basic features of the world like time, space, and causation do not exist independently of our experience. 
+If we take seriously Kant’s Copernican Revolution, the placing of the experiencer at the center of empirical word, then we have to take seriously the idea that basic features of the world like time, space, and causation do not exist independently of our experience. 
 
 Rather, they represent _ways in which our cognition is structured:_ they are built-in features not of reality, but of experience.
 
@@ -157,7 +157,7 @@ He thinks his Copernican Revolution — placing us as _experiencing beings_ at t
 
 Among these advantages is the grounding of human knowledge on secure, _a priori_ foundations. As Kant writes: 
 
->If intuition has to conform to the constitution of the objects, then I do not see how we can know anything of them a priori; but if the object (as an object of the senses) conforms to the constitution of our faculty of intuition, then I can very well represent this possibility to myself.
+>If intuition has to conform to the constitution of the objects, then I do not see how we can know anything of them _a priori;_ but if the object (as an object of the senses) conforms to the constitution of our faculty of intuition, then I can very well represent this possibility to myself.
 
 To illuminate what Kant really means here, and why he believes his solution is so powerful, let’s consider one of the problems Hume identifies with our everyday conception of the world: that many of the ‘natural laws’ that we take for granted have no basis in logic. 
 
@@ -165,7 +165,7 @@ Take causation. How do we establish causation between, say, event A and event B?
 
 Well, Hume says, typically we observe that event B always follows event A, and then conclude that A thus _causes_ B. 
 
-But this is a leap. All we can say, Hume points out, is that, based on our observations so far, B has always followed A. This is no reason, logically, to believe that B will follow A in future, nor to assert that A _causes_ B.
+But this is a leap. All we can say, Hume points out, is that, _based on our observations so far_, B has always followed A. This is no reason, logically, to believe that B will follow A in future, nor to assert that A _causes_ B.
 
 According to Hume’s analysis, it turns out our entire concept of ‘causation’ is thus grounded not in logical necessity, but in habit and custom — and he applies this kind of skeptical analysis not just to causation but to many other sacred cows of metaphysics.
 
@@ -203,7 +203,7 @@ This is the advantage of Kant’s transcendental idealism: by establishing the _
 
 Of course, that we cannot then extend the existence of time, space, or causation to ‘ultimate reality’ is regrettable — but it’s an unavoidable consequence of grounding knowledge on the _a priori_ foundations of possible experience, Kant says:
 
->\[F]rom this deduction of our faculty of cognizing a priori \[…] there emerges a very strange result \[…], namely that with this faculty we can never get beyond the boundaries of possible experience, \[…and] that such cognition reaches appearances only, leaving the thing in itself as something actual for itself but uncognized by us.
+>\[F]rom this deduction of our faculty of cognizing _a priori_ \[…] there emerges a very strange result \[…], namely that with this faculty we can never get beyond the boundaries of possible experience, \[…and] that such cognition reaches appearances only, leaving the thing in itself as something actual for itself but uncognized by us.
 
 Kant’s system means that having knowledge of anything _beyond_ the boundaries of possible human experience is impossible.
 
@@ -221,17 +221,17 @@ Kant thought his transcendental idealism thus reconciled modern science and reli
 
 <span class="big-letter">A</span>las, while Kant thought he was advancing philosophy, many saw his transcendental idealism as a huge step backwards in our quest for securing the foundations of knowledge. Ultimate reality is _forever out of reach_ and _we can never know anything about it?_ Surely we cannot be happy with such an outcome…
 
-Finding holes in Kant’s arguments has thus been a favorite past-time of many a metaphysician and thinker since.
+Finding holes in Kant’s arguments has thus been a favorite past-time for many a metaphysician and thinker since.
 
 While offering a full survey of all the possible objections to Kant is beyond this article’s scope, let’s briefly explore a few common approaches. 
 
-One approach is to point out that Kant is rather contradictory about exactly what we can know about noumenal reality in-itself. On the one hand he rules it out as _totally unknowable;_ on the other he says we know it exists, that it is non-spatial, non-temporal, and that it affects our senses. 
+Firstly, we can point out that Kant seems to be rather contradictory about exactly what we can know about noumenal reality in-itself. On the one hand he rules it out as _totally unknowable;_ on the other he says we know it exists, that it is non-spatial, non-temporal, and that it affects our senses. 
 
 On that note, if noumenal reality has no time, no space, no causation, and so on, then exactly _how_ does it affect our senses? How can it ‘cause’ certain phenomena to appear to our senses, if causation has no existence outside of human experience?
 
 Another common objection to Kant is to say that it traps us inside our own minds, and leads to an inescapable, unacceptable form of skepticism about the external world. 
 
-Some argue that Kant’s transcendental idealism, on close inspection, actually just collapses down to the subjective idealism of George Berkeley, who claimed that minds (and their contents) are the only things that exist. 
+Some argue that Kant’s transcendental idealism, on close inspection, actually just collapses down to the [subjective idealism of George Berkeley](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/), who claimed that minds (and their contents) are the only things that exist. 
 
 Others question the coherence of Kant’s noumenal reality in-itself. If we can never know anything about it, if it’s forever out of reach, then what’s the point of it? Nietzsche took this position: _who cares?_
 
@@ -239,7 +239,7 @@ If we can never strip ‘subject’ from ‘object’, Nietzsche thinks, then th
 
 However, despite the fierce criticism Kant’s philosophy has faced since the publication of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447474/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447474&linkId=51fb5062b0477e5f7841f91e58584003">Critique of Pure Reason</a>, his impact on metaphysics, epistemology, and philosophy generally is absolutely undeniable. 
 
-Whether you agree with his arguments or not, Kant’s transcendental idealism is an ingenious attempt to make sense of some of philosophy’s most difficult questions. Can we have a priori knowledge about the world? What is the scope of scientific inquiry? Do our experiences reflect reality? 
+Whether you agree with his arguments or not, Kant’s transcendental idealism is an ingenious attempt to make sense of some of philosophy’s most difficult questions. Can we have _a priori_ knowledge about the world? What is the scope of scientific inquiry? Do our experiences reflect reality? 
 
 One will not go far in philosophy without bumping into Kant along the way.
 
