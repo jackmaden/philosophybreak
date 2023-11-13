@@ -1,7 +1,11 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
+import { Helmet } from "react-helmet"
 
 const TitleReadingList = props => (
+    <>
+        {/* convertkit pop up form*/}
+        <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
         <div className="title list">
                 <GatsbyImage
                     image={props.img}
@@ -14,6 +18,7 @@ const TitleReadingList = props => (
                     <h1>{props.title}&nbsp;<span>The Best {props.number} Books to Read</span></h1>
                 </div>
         </div>
+    </>
     )
 
 TitleReadingList.defaultProps = {

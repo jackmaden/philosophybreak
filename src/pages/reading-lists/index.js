@@ -1,7 +1,8 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
+import { Helmet } from "react-helmet"
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
@@ -10,13 +11,17 @@ import TopTitle from '../../components/topTitle'
 import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
 import WatermarkBreak from "../../components/watermarkBreak"
-import WelcomeEmailPanel from "../../components/welcomeEmailPanel";
+import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 
 
 const Page = ({ data, location }) => {
     return (
     <>
     <Seo title="Best Philosophy Books – Essential Philosophy Reading Lists by Subject" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
+
+    {/* convertkit pop up form*/}
+    <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
+
     <Layout>
     <Navigation bg="light-bg" />
 

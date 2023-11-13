@@ -1,19 +1,23 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage } from "gatsby-plugin-image"
+import { Helmet } from "react-helmet"
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import WatermarkBreak from "../../components/watermarkBreak"
-import WelcomeEmailPanel from "../../components/welcomeEmailPanel";
+import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
     return (
     <>
     <Seo title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
+
+    {/* convertkit pop up form*/}
+    <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
     
     <Layout>
     <Navigation bg="light-bg" />

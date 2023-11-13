@@ -266,23 +266,23 @@ a.no-decoration {text-decoration: none;}
 
 /*buttons*/
 .button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 400; padding: 1em 1.2em 1.1em; border-radius: 4px; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); cursor: pointer;}
-.button.primary {color: #fff; background:linear-gradient(to right top, #3682ff, #1aa9ff, #7cceff);}
+.button.primary {color: #fff; background-color: #1aa9ff;}
 .button.full-width {width: 100%; box-sizing: border-box; text-align: center;}
 .button.primary:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
-.button.primary:active {-webkit-filter: brightness(1.2); filter: brightness(1.2);}
-.button.primary:disabled {-webkit-filter: brightness(1.2); filter: brightness(1.2); cursor: not-allowed;}
+.button.primary:active {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
+.button.primary:disabled {-webkit-filter: brightness(1.1); filter: brightness(1.1); cursor: not-allowed;}
 .button.secondary {background: #fff;}
 a.button.secondary {color: #001d30; font-weight: 500;}
-.button.secondary:hover {background: linear-gradient(to right top, #3682ff, #1aa9ff, #7cceff); color: #fff;}
+.button.secondary:hover {background-color: #1aa9ff; color: #fff;}
 .button.secondary.nowhitehover:hover {color: #001d30;}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.top-icon-align svg {vertical-align: text-top;}
-.button.secondary svg {fill: #36b4ff;}
+.button.secondary svg {fill: #1aa9ff;}
 :hover.button.secondary svg {fill: #fff;}
-:hover.button.secondary.nowhitehover svg {fill: #36b4ff;}
+:hover.button.secondary.nowhitehover svg {fill: #1aa9ff;}
 
 .grey-background.no-hover .button.secondary:hover {color: #001d30;}
-.grey-background.no-hover :hover.button.secondary svg {fill: #36b4ff;}
+.grey-background.no-hover :hover.button.secondary svg {fill: #1aa9ff;}
 
 @media (min-width: 620px) {
   .button {font-size: 18px;}
@@ -792,6 +792,11 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   margin: 0.75em 0;
 }
 
+/*fix convertkit form on article pages*/
+#break-start form ul {
+  margin: 0;
+}
+
 @media (min-width: 620px) {
   #break-start ul li, #break-start ol li {font-size: 20px;}
 }
@@ -829,7 +834,7 @@ figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 }
 
 /***form***/
-form {width: 100%; margin-bottom: 1.6em;}
+form {width: 100%; margin-bottom: 1em;}
 input, button {padding: 1em 1.2em 1.1em; font-family: 'Public Sans', sans-serif; border-radius: 4px; border: none; font-size: 16px; width: 100%; font-weight: 400; outline: none; margin: 0; box-sizing: border-box; text-shadow: none; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -webkit-appearance: none; appearance: none;}
 input[type="email"] {color: #001d30;}
 input[type="email"]::placeholder {color: #001d30; font-weight: 200;}

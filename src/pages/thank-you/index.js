@@ -18,10 +18,9 @@ const Page = () => {
             <div className="grey-background small-pad-bottom">
                 <div className="top-title text-center">
                     <div className="page-center">
-                        <h3 className="mid-width">Thank you! Your subscription is confirmed, and philosophical goodies are on their way to your inbox</h3>
+                        <h3 className="mid-width">Thank you, philosopher! Your welcome email will land in your inbox shortly</h3>
                         <div className="separator"></div>
-                        <p className="small-grey-font mid-width">Your welcome email will land in your inbox shortly. If you don’t see it, please check the ‘Promotions’ tab or your spam folders.</p>
-                        <p className="small-grey-font mid-width">Any problems, simply drop me a line at hello@philosophybreak.com, and I’ll be on hand to help.</p>
+                        <p className="small-grey-font mid-width">If you don’t see it, please check the ‘Promotions’ tab or your spam folders. Any problems, simply drop me a line at hello@philosophybreak.com, and I’ll be on hand to help.</p>
                         <p className="small-grey-font mid-width">Thanks again and keep an eye on your inbox!</p>
                         <JackHeadshot />
                     </div>
