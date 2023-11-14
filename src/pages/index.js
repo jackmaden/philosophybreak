@@ -5,7 +5,6 @@ import { GatsbyImage } from "gatsby-plugin-image";
 import Seo from '../components/SEO'
 import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
-import SubscriptionForm from '../components/subscriptionForm'
 import PanelReadingList from '../components/panelReadingList'
 import PanelLBQ from '../components/panelLBQ'
 import PanelNietzsche from "../components/panelNietzsche";
@@ -69,7 +68,7 @@ const Page = ( {data} ) => {
         <PanelLBQ flexdirection="row-reverse" />
         <PanelNietzsche flexdirection="row" />
         
-        <SubscriptionForm />
+        <WelcomeEmailPanel />
     </Layout>
     </>
     )

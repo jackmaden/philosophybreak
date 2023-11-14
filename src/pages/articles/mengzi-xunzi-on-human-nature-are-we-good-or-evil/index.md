@@ -70,7 +70,7 @@ For Xunzi, we have a love of profit and susceptibility to sensory desire that, i
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 

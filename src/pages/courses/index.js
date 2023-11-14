@@ -4,7 +4,6 @@ import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import TopTitle from '../../components/topTitle'
-import SubscriptionForm from '../../components/subscriptionForm'
 import PanelLBQ from "../../components/panelLBQ"
 import PanelNietzsche from "../../components/panelNietzsche";
 import PanelPFL from "../../components/panelPFL";
@@ -43,7 +42,6 @@ const Page = ({ location }) => {
             </div>
         </div>
        
-        <SubscriptionForm />
 
         
     </Layout>

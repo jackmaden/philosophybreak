@@ -51,7 +51,7 @@ Erode Christian values — erode the coping mechanism — and how will people be
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -105,7 +105,7 @@ The target of self-discipline, then, should not be self-castigation or self-loat
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 

@@ -43,7 +43,7 @@ Let's take a quick look at the cultural movement, before diving into the three k
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -97,7 +97,7 @@ So, when looking at the bowl of fruit we see not mere passive objects but a _pot
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 

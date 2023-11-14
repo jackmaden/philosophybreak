@@ -59,7 +59,7 @@ Before Locke, it was not empiricist theories of knowledge but scholastic theorie
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -113,7 +113,7 @@ Secondary qualities, however, are subjective, and the cause of much dispute: the
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 

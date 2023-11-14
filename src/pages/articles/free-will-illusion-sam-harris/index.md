@@ -55,7 +55,7 @@ In other words, we are the mere conscious witnesses to decisions that, deep in o
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -140,7 +140,7 @@ If we recognize that even the most ‘evil’ or dangerous people in existence a
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 

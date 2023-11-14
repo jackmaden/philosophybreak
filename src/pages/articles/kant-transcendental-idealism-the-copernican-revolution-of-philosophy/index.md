@@ -97,7 +97,7 @@ Together, Kant says, we live permanently in the phenomenal world, the world of o
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -125,9 +125,7 @@ Whatever the apple is in-itself, therefore, as a nonspatial, nontemporal thing, 
 
 ## The limits of human knowledge
 
-<span class="big-letter">S</span>o, says Kant, we shouldn't ever mistake our _experience_ of reality for reality _itself_, because it’s not: it’s experience. 
-
-We can make all the scientific progress we like in dissecting the world of our possible experiences, the world of time and space and causality. But we should never mistake this world for independent reality: it is reality as experienced by humans, nothing more. 
+<span class="big-letter">S</span>o, says Kant, we shouldn't ever mistake our _experience_ of reality for reality _itself_, because it’s not: it’s experience. We can make all the scientific progress we like in dissecting the world of our possible experiences, the world of time and space and causality. But we should never mistake this world for independent reality: it is reality as experienced by humans, nothing more. 
 
 Magee brilliantly summarizes Kant’s vision for how we experience the world thus: 
 
@@ -189,7 +187,7 @@ For Hume, a lot of our ‘knowledge’ simply has zero basis in logic; we cannot
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -288,6 +286,6 @@ Finally, if you enjoyed this article, consider subscribing to my free Sunday bre
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email per week. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">One short email per week. Unsubscribe any time.</p>
     </div>
 </div>
