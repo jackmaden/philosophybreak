@@ -7,7 +7,6 @@ const TitleReadingList = props => (
         {/* convertkit pop up forms*/}
         <Helmet>
             {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
-            {/* mobile */}<script async data-uid="3dca5cd13d" src="https://philosophybreak.ck.page/3dca5cd13d/index.js" />
         </Helmet>
         <div className="title list">
                 <GatsbyImage
