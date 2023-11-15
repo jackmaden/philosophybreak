@@ -49,7 +49,7 @@ For instance, the English philosopher John Locke famously stated that at birth t
 
 But for Kant, this cannot be so: the mind cannot be blank. For experience to be possible at all, the mind must be equipped with certain potentialities for understanding. 
 
-Indeed, our experience of the world, Kant explains in his 1781 epic <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447474/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447474&linkId=51fb5062b0477e5f7841f91e58584003">Critique of Pure Reason</a>, is determined wholly by the nature of our sensory apparatus and nervous systems: if our eyes or brains were different — like those of a bat or a dolphin, for instance — the world we experience would be different, too. He writes:
+Our experience of the world, Kant explains in his 1781 epic <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447474/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447474&linkId=51fb5062b0477e5f7841f91e58584003">Critique of Pure Reason</a>, is determined wholly by the nature of our sensory apparatus and nervous systems: if our eyes or brains were different — like those of a bat or a dolphin, for instance — the world we experience would be different, too. He writes:
 
 >it remains completely unknown to us what objects may be by themselves and apart from the receptivity of our senses. We know nothing but our manner of perceiving them; that manner being peculiar to us, and not necessarily shared by every being.
 
@@ -107,13 +107,25 @@ Together, Kant says, we live permanently in the phenomenal world, the world of o
 
 Not so, says Kant. Reality in-itself is, necessarily, distinctly _different_ from the world we experience. 
 
-The world we experience is determined by the possible _forms_ our experiences and perceptions take: they all take place in time and space, are governed by causation, and have associated colors, tastes, smells, sounds, and so on. 
+This difference is illuminated brilliantly by the late philosopher Bryan Magee, who in his commentary on Kant in his 1999 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368">Confessions of a Philosopher</a> writes:
 
-Indeed, thanks to our apparatus — our senses, nervous systems, and brains — we cannot conceptualize things as appearing in any way _other_ than in such forms. Our cognitive systems impose structures that _must_ be conformed to for experience to be possible at all. 
+>What is inside my head is not the Empire State Building but a set of visual data which I interpret as being the Empire State Building. The same is true of tactile data. The process of feeling a physical object — or, even more so, bumping into it — has something especially _thingy_ about it, and can easily tempt us into believing that here is the brute reality of an independently existing world; but of course such feelings of bumpings are as inside the head as visual data are… All our experience of the external world is of this character. The direct and immediate awareness is in our brains, and must take a brain-dependent form to be awareness-material at all…
+
+Indeed, the world we experience is determined by the possible _forms_ our experiences and perceptions take: they all take place in time and space, are governed by causation, have associated colors, tastes, smells, sounds, and so on. 
+
+Thanks to our apparatus — our senses, nervous systems, and brains — we cannot conceptualize things as appearing in any way _other_ than in such forms. Our cognitive systems impose structures that _must_ be conformed to for experience to be possible at all. 
 
 Reality in-itself, by contrast, has no such restrictions; it exists _apart_ from all these things. It’s what remains when all of these ‘necessary structures for possible experience’ are _stripped away_. 
 
-To adapt an example from the late philosopher Bryan Magee’s excellent 1999 book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368">Confessions of a Philosopher</a>: just as a photograph of a waterfall is not a waterfall, it’s a photograph; and just as a written description of a waterfall is not a waterfall, it’s a written description; and just as a sound recording of a waterfall is not a waterfall, it’s a sound recording: so our experience of reality is not reality, it’s experience. 
+As Magee continues:
+
+>If there is a reality that exists independently of brains (and nearly all of us believe that there is) then it cannot exist in forms that are brain-dependent — despite the fact that these are the only ways in which we can apprehend it or form any notion of it… So as far as knowledge of objects goes there must be at least two realms, one of things as mediated to us by our brain apparatus and the other of whatever actually is, independent of all such brain and body operations…
+
+The point is this: the world that appears to us, the world of phenomena, _necessarily depends_ on the nature of our experiencing apparatus — it exists in terms of certain mind-dependent forms and categories. 
+
+Noumenal reality, by contrast, _does not_ (and _cannot_) depend on our experiencing apparatus for its existence. Rather, noumenal reality exists _independently_, _away_ from our minds — and we can never pierce through the veil of our mind-dependent experiences to determine the true intrinsic nature of mind-independent reality. 
+
+To adapt a further example from Magee: just as a photograph of a waterfall is not a waterfall, it’s a photograph; and just as a written description of a waterfall is not a waterfall, it’s a written description; and just as a sound recording of a waterfall is not a waterfall, it’s a sound recording: so our experience of reality is not reality, it’s experience. 
 
 And experiences cannot be intrinsically ‘like’ reality any more than a photograph is intrinsically the same as the thing photographed, or a sound recording the same as the thing recorded: it mediates it through a certain apparatus to capture something that is determined by the apparatus. 
 
