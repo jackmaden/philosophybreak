@@ -19,8 +19,11 @@ const Page = ({ data, location }) => {
     <>
     <Seo title="Best Philosophy Books – Essential Philosophy Reading Lists by Subject" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
 
-    {/* convertkit pop up form*/}
-    <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
+    {/* convertkit pop up forms*/}
+    <Helmet>
+        {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
+        {/* mobile */}<script async data-uid="3dca5cd13d" src="https://philosophybreak.ck.page/3dca5cd13d/index.js" />
+    </Helmet>
 
     <Layout>
     <Navigation bg="light-bg" />

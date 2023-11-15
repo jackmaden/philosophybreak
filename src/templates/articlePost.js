@@ -29,8 +29,11 @@ const ArticlePost = ({ data, location }) => {
   <>
   <Seo title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
   
-  {/* convertkit pop up form*/}
-  <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
+  {/* convertkit pop up forms*/}
+  <Helmet>
+      {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
+      {/* mobile */}<script async data-uid="3dca5cd13d" src="https://philosophybreak.ck.page/3dca5cd13d/index.js" />
+  </Helmet>
   
   <Layout>
   <Navigation />

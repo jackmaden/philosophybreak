@@ -16,8 +16,11 @@ const Articles = ({ data, location }) => {
     <>
     <Seo title="Latest Breaks – Philosophy Articles that Make You Think" description="Take a philosophy break now: each break takes only a few minutes to read, and is designed to spark curiosity about a particular talking point in philosophy." pathname={location.pathname} />
 
-    {/* convertkit pop up form*/}
-    <Helmet><script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" /></Helmet>
+    {/* convertkit pop up forms*/}
+    <Helmet>
+      {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
+      {/* mobile */}<script async data-uid="3dca5cd13d" src="https://philosophybreak.ck.page/3dca5cd13d/index.js" />
+    </Helmet>
     
     <Layout>
     <Navigation bg="light-bg" />
