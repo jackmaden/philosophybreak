@@ -478,7 +478,7 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
   .course-promo, .course-promo.darkradial-background {padding: 54px 36px; margin: 36px 0;}
   .course-promo.darkradial-background.subscribe {padding: 36px;}
   .course-promo p.small-grey-font {font-size: 18px;}
-  .course-promo h4 {font-size: 26px;}
+  .course-promo h4 {font-size: 25px;}
   .course-promo a.button.secondary {font-size: 16.5px;}
   .course-promo.darkradial-background.subscribe img {width: 300px;}
 
@@ -805,8 +805,8 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 }
 
 /*in-article-reviews*/
-p.review-font {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-size: 14px;}
-@media (min-width: 620px) {p.review-font {font-size: 16px;}}
+p.review-font {font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-size: 13px;}
+@media (min-width: 620px) {p.review-font {font-size: 14px;}}
 
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
