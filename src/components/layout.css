@@ -797,6 +797,9 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   margin: 0;
 }
 
+/*convertkit success message styles*/
+.formkit-alert{background:#f9fafb;border:1px solid #e3e3e3;border-radius:5px;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;list-style:none;margin:25px auto;padding:12px;text-align:center;} .formkit-alert:empty{display:none;} .formkit-alert-success{background:#d3fbeb;border-color:#10bf7a;color:#0c905c;} .formkit-alert-error{background:#fde8e2;border-color:#f2643b;color:#ea4110;}
+
 @media (min-width: 620px) {
   #break-start ul li, #break-start ol li {font-size: 20px;}
 }
