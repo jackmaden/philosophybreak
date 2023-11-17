@@ -19,6 +19,10 @@ const Layout = ({ children }) => (
 
             {/*SPARKLOOP*/}
             <script async src="https://js.sparkloop.app/team_6e16a193d55e.js" data-sparkloop />
+
+            {/*CONVERTKIT FORM - put this here in the head to hopefully make convertkit forms show the success message rather than redirecting*/}
+            <script async src="https://f.convertkit.com/ckjs/ck.6.js" />
+
         </Helmet>
         {children}
         <Footer />
