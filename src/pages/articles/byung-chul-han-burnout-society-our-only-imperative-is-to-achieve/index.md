@@ -65,7 +65,7 @@ The transition to a technological achievement-society, where there is an ever gr
 
 <span class="big-letter">B</span>eyond hyperattention, another characteristic of the achievement-subject is that we no longer need to be pressured into maximizing our productivity by an external power. 
 
-For, in a society where _the only imperative is to achieve_, no other constraints are needed. No coercion is required: having internalized the goals optimal performance and achievement, we exploit _ourselves_. 
+For, in a society where _the only imperative is to achieve_, no other constraints are needed. No coercion is required: having internalized the goals of optimal performance and achievement, we exploit _ourselves_. 
 
 As Han puts it:
 
