@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 Han begins his analysis by reflecting on how the norms that govern society have changed in recent decades.
 
-No longer do we live in a society characterized by hard institutional power, a society described by the 20th-century French philosopher as closed, brutish, oppressive — a “disciplinary world of hospitals, madhouses, prisons, barracks, and factories,” Han writes.
+No longer do we live in a society characterized by hard institutional power, a society described by the 20th-century French philosopher Michel Foucault as closed, brutish, oppressive — a “disciplinary world of hospitals, madhouses, prisons, barracks, and factories,” Han writes.
 
 For, in the 21st-century, such a world has been replaced by… 
 
