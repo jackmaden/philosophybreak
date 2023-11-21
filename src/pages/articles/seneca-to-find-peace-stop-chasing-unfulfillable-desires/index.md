@@ -82,6 +82,7 @@ Or will we climb off, and with eyes wide open, appreciate the richness, the beau
 You might also enjoy the following related reads:
 
 - [Seneca On Coping with the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)
+- [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [The 4 Cardinal Virtues: Stoicism’s Roadmap to the Best Life Possible](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/)
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
@@ -92,8 +93,8 @@ Finally, if you enjoyed this article, you might like my free Sunday breakdown. I
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
     <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
-    <h4>From the Buddha to Nietzsche: join 6,500+ subscribers enjoying my Sunday Breakdown</h4>
-    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from the great philosophers. You get the distillation straight to your inbox.</p>
+    <h4>From the Buddha to Nietzsche: join 6,500+ subscribers enjoying my free Sunday Breakdown</h4>
+    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
     <div class="small-pad-top">
         <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
         <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">

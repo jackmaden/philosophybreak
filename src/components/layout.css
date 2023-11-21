@@ -472,13 +472,13 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 .course-promo.darkradial-background {border-radius: 20px; padding: 36px 12px;}
 .course-promo.darkradial-background.subscribe img {width: 200px; margin-bottom: 1em;}
 
-@media (min-width: 365px) {.course-promo h4 {font-size: 22px;}}
+@media (min-width: 370px) {.course-promo h4 {font-size: 21px;}}
 
 @media (min-width: 620px) {
   .course-promo, .course-promo.darkradial-background {padding: 54px 36px; margin: 36px 0;}
   .course-promo.darkradial-background.subscribe {padding: 36px;}
   .course-promo p.small-grey-font {font-size: 18px;}
-  .course-promo h4 {font-size: 25px;}
+  .course-promo h4 {font-size: 23px;}
   .course-promo a.button.secondary {font-size: 16.5px;}
   .course-promo.darkradial-background.subscribe img {width: 300px;}
 
