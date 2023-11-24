@@ -39,7 +39,7 @@ The problem is not serving as a waiter; the problem is _reducing one’s entire 
 
 The waiter is not guilty because he has a job as a waiter; in Sartre’s example, the waiter is guilty because _that’s all he thinks he is_. 
 
-Though Sartre’s use of a waiter is often criticized (indeed, there Sartre was in Parisian cafes, busily writing his philosophy, and using the people serving him as models of inauthenticity!), what he really wants to convey is that we’re all occasionally guilty of what the waiter of his example is doing.
+Though Sartre’s use of a waiter is often criticized (indeed, there Sartre was in Parisian cafes, busily writing his philosophy, and using the people serving him as models of inauthenticity!), what he really wants to convey is that we’re all occasionally guilty of what the waiter in his example is doing.
 
 In fact, we spend far more time living according to (and viewing ourselves in terms of) these kinds of passive, predefined social roles than we might care to admit. 
 
