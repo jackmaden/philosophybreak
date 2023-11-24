@@ -1,6 +1,6 @@
 ---
 title: "Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity"
-description: 'With his famous discussion of a waiter, Sartre argues that to limit ourselves to predefined social roles is to live in ‘bad faith’. Living authentically means not reducing ourselves to static identities, but acknowledging that we are always growing and becoming.'
+description: 'With his famous discussion of a waiter, Sartre argues that to limit ourselves to predefined social roles is to live in ‘bad faith’. Living authentically means not reducing ourselves to static identities, but acknowledging that we are free, dynamic beings.'
 image: "./waiter.jpg"
 imageAlt: "Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity"
 imageSeo: "./waiter.jpg"
