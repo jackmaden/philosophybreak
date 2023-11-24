@@ -86,8 +86,7 @@ So, when looking at the bowl of fruit we see not mere passive objects but a _pot
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
-    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
+    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
     <div class="small-pad-top">
         <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
         <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
@@ -153,7 +152,14 @@ Firstly, it involves a recognition of the foundational importance of the _phenom
 
 This rather spiritual struggle takes place against the backdrop of an uncaring, Godless universe — one that we have been ‘thrown’ into and left to deal with ourselves — meaning that though many existentialists were atheists, their writing, as Khawaja puts it, “_feels_ religious to its readers.”
 
-If you’d like to learn more about existentialist philosophy, check out our [existentialism reading list](/reading-lists/existentialism/). It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the deeply influential existentialist figureheads themselves. Hit the banner below to access it now. 
+If you’re interested in learning more about existentialist philosophy, you might like the following related reads:
+
+- [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
+- [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
+- [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
+- [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+
+Finally, consider also checking out our [existentialism reading list](/reading-lists/existentialism/). It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the deeply influential existentialist figureheads themselves. Hit the banner below to access it now. 
 
 <a class="reading-list cta" href="/reading-lists/existentialism/">
     <img class="title-img" src="./existentialism.jpg"/>

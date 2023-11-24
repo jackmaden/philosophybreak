@@ -33,7 +33,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>These are, broadly, the questions that thinkers tagged with the term ‘existentialist’ — be they philosophers, authors, or artists — have set out to answer over the last 200 years or so of existentialist thought.</p>
 
-              <p>Before diving into existentialism’s best books, if you’re interested in quickly learning more about existentialism generally, check out our brief <Link to="/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/">introduction to existentialist philosophy</Link>, in which we outline its three core principles, as well as our explainer of the slogan Sartre dubbed the first principle of existentialism, <Link to="/articles/existence-precedes-essence-what-sartre-really-meant/"><i>existence precedes essence</i></Link>.</p>
+              <p>Before diving into existentialism’s best books, if you’re interested in quickly learning more about existentialism generally, check out our brief <Link to="/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/">introduction to existentialist philosophy</Link>, in which we outline its three core principles, as well as our explainer of the slogan Sartre dubbed the first principle of existentialism, <Link to="/articles/existence-precedes-essence-what-sartre-really-meant/"><i>existence precedes essence</i></Link>, and our overview of <Link to="/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/">Sartre’s famous discussion of the waiter and bad faith</Link>.</p>
 
               <BigSubscribe />
 

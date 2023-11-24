@@ -117,7 +117,7 @@ Existentialists all agree, however, that we are wrong to do this. Suppressing ou
 
 While the existentialists present diverse answers to the question of how we should live with radical freedom, the unifying theme of their recommendations is _authenticity:_ to freely do what is valuable not according to external sources or pressures, but according _to you._ 
 
-Inauthenticity — or ‘bad faith’, as Sartre calls it — is when we let our own existential freedom be inhibited through complacency or conformity, when we let other things or people dictate value or define us, when we fix ourselves to static roles or identities rather than recognize ourselves as ever-becoming _beings_. 
+Inauthenticity — or ‘bad faith’, as Sartre calls it — is when we let our own existential freedom be inhibited through complacency or conformity, when we let other things or people dictate value or define us, when we fix ourselves to static roles or identities rather than recognize ourselves as ever-becoming _beings_. (For more here, see my explainer on [Sartre’s famous discussion of the waiter and bad faith](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/).) 
 
 If there were an existential imperative for self-governance, it would be this: never deny your own freedom. (Or, indeed, that of others). Life is endlessly unfolding, and so is your being.
 
@@ -153,8 +153,7 @@ If free will turned out to be an illusion, would that prove fatal to the existen
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <h4>Enjoying this article? Get one like it delivered to your inbox every Sunday (free)</h4>
-    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
+    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
     <div class="small-pad-top">
         <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
         <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
@@ -185,9 +184,9 @@ While the free will debate rages on, Nietzsche’s approach perhaps provides one
 
 What do you make of Sartre’s slogan? Do you think the insights of existentialism are true, or that they’re more a coping mechanism for life? Do you agree that existence precedes essence? Or do you think we are born into identities, roles, obligations — even fates — from which we cannot so easily release ourselves?
 
-If you’re interested in learning more about existentialist philosophy, consider checking out our brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like our reading list of [existentialism’s best books](/reading-lists/existentialism/).
+If you’re interested in learning more about existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading list of [existentialism’s best books](/reading-lists/existentialism/).
 
-Finally, if you’re interested in comparing existentialism — including its insights on authenticity, freedom, meaning, and the good life — to 6 other philosophical approaches to life, then consider exploring our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which weighs up the wisdom of 7 rival philosophies for life.
+Finally, if you’re interested in comparing existentialism — including its insights on authenticity, freedom, meaning, and the good life — to 6 other philosophical approaches to life, then consider exploring my new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which weighs up the wisdom of 7 rival philosophies for life.
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">
