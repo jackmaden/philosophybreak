@@ -56,6 +56,8 @@ Human nature is actually innately _bad_, Xunzi elaborates:
 
 For Xunzi, we have a love of profit and susceptibility to sensory desire that, if left unchecked, will lead us into personal suffering — and society into disarray. 
 
+Thankfully, on Xunzi’s view we also have an aptitude for intelligent, intentional action, and so by following the wisdom of the sages (the wisest among us), we can transform our innately bad natures into something good.
+
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
     <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
@@ -87,7 +89,9 @@ Mengzi places emphasis on _ren_, whereby a sage can, as Mengzi puts it,
 
 Goodness is our innate nature, Mengzi thinks: through reflection and learning, we must work on bringing our inherent virtues to the surface.
 
-Xunzi, meanwhile, places emphasis on _li:_ humans hold evil desires that must be transformed through the _intelligent_ (rather than, say, compassionate) creation of ritual and collective social practice. As Liang expands: 
+Xunzi, meanwhile, places emphasis on _li:_ humans hold evil desires that must be transformed. Thanks to our intelligence, we are able to design rituals and collective social practices that improve us and create goodness. 
+
+So, unlike Mengzi, for Xunzi it is not a case of bringing our inherent virtues to the surface; rather it is a case of using our intelligence to _transform_ our inherent natures into something good. As Liang expands:  
 
 >By engaging in rituals and righteousness, the essential nature of man is transformed through artifice, and goodness is accumulated until it becomes virtue, and the country is governed through a system of rituals, Xunzi believed. This was the path to moral governance.
 
@@ -123,7 +127,7 @@ Our moral sprouts (be they positive or negative) simply signal our potential for
 
 So, while they disagree on our initial, innate human nature, Mengzi and Xunzi can be partially reconciled in their agreement that it is the cultivation of character, not its starting place, that matters most.
 
-To answer the question of _how_ we can then actually go about cultivating ourselves, Mengzi and Xunzi’s Confucianism takes over: while they place emphasis differently, they broadly agree that we develop ourselves morally by practicing filial piety, committing to study, [mastering ritual behaviors](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/), and engaging respectfully and compassionately with one another to form a virtuous, harmonious society.
+To answer the question of _how_ we can then actually go about cultivating ourselves, Mengzi and Xunzi’s Confucianism takes over: while they place emphasis differently, they broadly agree that we develop ourselves morally by practicing filial piety, committing to study, [mastering Confucian ritual behaviors](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/), and engaging respectfully and compassionately with one another to form a virtuous, harmonious society.
 
 ## Xunzi’s influence on Legalism
 

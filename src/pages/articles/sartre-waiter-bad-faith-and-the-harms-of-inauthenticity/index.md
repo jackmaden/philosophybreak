@@ -96,7 +96,7 @@ But Sartre’s point is that to be _consumed_ by such roles — to _limit our ow
 
 If we want to liberate ourselves from bad faith and live authentically, Sartre says, we must resist the temptation of approaching life via predefined, self-limiting roles — of reducing ourselves down to _things_.
 
-Instead, we should acknowledge and take responsibility for — rather than deny or ignore — our dynamic human freedom, and all the possible ways of becoming available to us.
+Instead, though it initially may feel uncomfortable or disruptive, we shouldn’t be afraid to acknowledge and take responsibility for — rather than deny or ignore — our dynamic human freedom, and all the possible ways of becoming available to us.
 
 (For more on this topic, see my explainer of [Sartre’s famous slogan, _existence precedes essence_](/articles/existence-precedes-essence-what-sartre-really-meant/).)
 

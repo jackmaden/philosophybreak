@@ -195,6 +195,7 @@ If you’d like to explore Emerson’s view further, you can read his _Self-Reli
 
 You might also be interested in these related reads which discuss the importance of self-reliance for living well:
 
+- [The Porcupine’s Dilemma: Schopenhauer’s Wistful Parable on Human Connection](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Albert Camus on Coping with Life's Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)

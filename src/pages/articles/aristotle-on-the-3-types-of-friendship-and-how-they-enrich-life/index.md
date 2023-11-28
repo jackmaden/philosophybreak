@@ -106,6 +106,8 @@ In forming relationships, he urges us to go beyond utility and pleasure and seek
 
 For mutually loving relationships — those in which two people strive to be the best they can be to each other and themselves — are not just key sources of happiness, Aristotle judges, but among the pinnacles of human achievement. 
 
+(Contrast this with Schopenhauer, who with his [porcupine dilemma](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/) suggests solitude is a better match for achievement than companionship.)
+
 So a life of excellent activity, bolstered by excellent relationships, is very much a recipe for happiness for Aristotle.
 
 
