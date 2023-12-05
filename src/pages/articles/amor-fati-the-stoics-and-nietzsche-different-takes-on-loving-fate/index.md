@@ -1,8 +1,8 @@
 ---
-title: "Amor Fati: the Stoics and Nietzsche’s Different Takes on Loving Fate"
+title: "Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate"
 description: "Amor fati is a Latin phrase meaning ‘love of fate’, an idea rooted in the ancient Greco-Roman philosophy of Stoicism. In critiquing Stoicism and developing his own take on amor fati, Nietzsche eloquently discusses how transformative the idea can be."
 image: "./command.jpeg"
-imageAlt: "Amor Fati: the Stoics and Nietzsche’s Different Takes on Loving Fate"
+imageAlt: "Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate"
 imageSeo: "./command.jpeg"
 tags: ["Nietzsche", "Stoicism", "Ethics"]
 date: "2023-12-05"
@@ -83,13 +83,13 @@ We are not reconciling ourselves to some grand Stoic purpose, ‘God’s plan’
 
 ## How the Stoics and Nietzsche respond to suffering
 
-<span class="big-letter">T</span>he difference between the Stoics’ and Neitzsche’s conceptions of _amor fati_ really comes out when we consider how they might reconcile ‘loving our fate’ with an event that causes significant pain, like the untimely death of a loved one.
+<span class="big-letter">T</span>he difference between the Stoics’ and Neitzsche’s conceptions of _amor fati_ really comes out when we consider how they might each reconcile ‘loving our fate’ with an event that causes significant pain, like the untimely death of a loved one.
 
-The Stoics would remind us that the mental anguish we are experiencing is a result of our judgment of the situation, not the situation itself: it is our false, irrational belief about the event, not the event itself, that hurts us. 
+The Stoics, for instance, would remind us that the mental anguish we are experiencing is a result of our judgment of the situation, not the situation itself: it is our false, irrational belief about the event, not the event itself, that hurts us. 
 
 Relieving ourselves of suffering thus means correcting our false beliefs, purging ourselves of irrational passions, and seeing our situation rationally and clearly. 
 
-In the context of death, this means recognizing we are all part of the Stoic’s rationally ordered Nature, and that mortality is inescapable. 
+In the context of death, this means recognizing we are all part of the Stoics’ rationally ordered Nature, and that mortality is inescapable. 
 
 Existence, Epictetus tells us, is a temporary gift. Addressing the cosmos directly, he declares: 
 
