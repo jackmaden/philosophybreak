@@ -37,7 +37,7 @@ The state of the wider economy might put our jobs at risk, a friend might decide
 
 The point, then, is that in virtually every area of our lives, there are variables at play totally out of our control. Anything could happen to us at any moment. We need to recognize this, Epictetus insists, and stop expecting reality to bend to our will.
 
-Instead, he writes, we should practice _amor fati_ — love of fate:
+Instead, he writes, we should practice [_amor fati_ — love of fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/):
 
 >Do not seek for things to happen the way you want them to; rather, wish that what happens happens the way it happens: then you will be happy.
 

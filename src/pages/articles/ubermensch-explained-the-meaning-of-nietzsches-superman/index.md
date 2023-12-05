@@ -165,7 +165,9 @@ Presumably it was during such a mountainside epiphany that he was inspired to re
 
 >The _Übermensch_ shall be the meaning of the earth! I entreat you my brethren, remain true to the earth, and do not believe those who speak to you of supra-terrestrial hopes! … Behold, I teach you the _Übermensch:_ he is this lightning, he is this madness! … Behold, I am a prophet of the lightning and a heavy drop from the cloud: but this lightning is called _Übermensch_.
 
-There is no life beyond this one on Earth — and according to Zarathustra’s preaching of the _eternal recurrence_ (see our quick [eternal recurrence explainer here](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)), it’s a life that will recur again and again for eternity. So what could possibly be advised other than to become the best version of exactly who you are, to embrace all that comes your way, to take joy in every single moment? 
+There is no life beyond this one on Earth — and according to Zarathustra’s preaching of the _eternal recurrence_ (see our quick [eternal recurrence explainer here](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)), it’s a life that will recur again and again for eternity. 
+
+So what could possibly be advised other than to become the best version of exactly who you are, to embrace all that comes your way, to practice [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/), to take joy in every single moment? 
 
 ## Is the Übermensch possible, or even desirable?
 

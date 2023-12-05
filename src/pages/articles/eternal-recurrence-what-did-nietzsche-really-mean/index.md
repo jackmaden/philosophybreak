@@ -49,6 +49,8 @@ Nietzsche, for instance, expresses what the eternal recurrence inspires in him, 
 
 >I want to learn more and more to see as beautiful what is necessary in things; then I shall be one of those who make things beautiful. _Amor fati_ [love of fate]: let that be my love henceforth! I do not want to wage war against what is ugly. I do not want to accuse; I do not even want to accuse those who accuse. Looking away shall be my only negation. And all in all and on the whole: someday I wish to be only a Yes-sayer.
 
+(For more here, see my explainer on [what Nietzsche and the Stoics mean by _amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/).)
+
 ## The eternal recurrence: how could we possibly ‘affirm’ awful events?
 
 <span class="big-letter">W</span>e might wonder how we could possibly affirm something like the untimely death of a loved one or friend, or a tragic accident that kills hundreds of people, but perhaps the key here is to zoom out and see such occurrences as essential to the journey we are on, as playing unavoidable roles in a beautiful whole. 
