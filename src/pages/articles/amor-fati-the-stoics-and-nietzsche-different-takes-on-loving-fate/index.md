@@ -65,7 +65,7 @@ But to really understand why the Stoics and Nietzsche recommend _amor fati_, we 
 
 And, once we do so, we’ll see how their conceptions of the provocative idea are actually rather different. 
 
-## What’s the difference between the Stoic and Nietzsche’s conception of amor fati? 
+## What’s the difference between the Stoics’ and Nietzsche’s conceptions of _amor fati?_
 
 <span class="big-letter">W</span>hile the Stoics and Nietzsche may seem aligned on _amor fati_, their agreement is superficial, for they actually interpret a key part of the equation — fate — in diametrically opposed ways.
 
@@ -132,9 +132,11 @@ In his 1886 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 >So you want to live ‘according to nature?’ Oh, you noble Stoics, what a fraud is in this phrase! Imagine something like nature, profligate without measure, indifferent without measure, without purpose and regard, without mercy and justice, fertile and barren and uncertain at the same time, think of indifference itself as power—how could you live according to this indifference? Living—isn’t that wanting specifically to be something other than this nature? Isn’t living assessing, preferring, being unfair, being limited, wanting to be different? And assuming your imperative ‘live according to nature’ basically amounts to ‘living according to life’—well how could you not? Why make a principle out of what you yourselves are and must be?—But, in fact, something quite different is going on: while pretending with delight to read the canon of your law in nature, you want the opposite […] Your pride wants to dictate and annex your morals and ideals onto nature […] you demand that it be nature ‘according to the Stoa’ and you want to make all existence exist in your image alone—as a huge eternal glorification and universalization of Stoicism! For all your love of truth, you have forced yourselves so long, so persistently, and with such hypnotic rigidity to have a false, namely Stoic, view of nature, that you can no longer see it any other way,—and some abysmal piece of arrogance finally gives you the madhouse hope that because you know how to tyrannize yourselves—Stoicism is self-tyranny –, nature lets itself be tyrannized as well. 
 
-In other words, if the Stoics _really_ lived ‘according to nature’, Nietzsche suggests, they would live without purpose or order; but what they do in practice is to _presume_ nature is rationally ordered, and then claim we should ‘align ourselves to nature’ by purging ourselves of all irrationality. 
+In other words, while the Stoics claim to live ‘according to nature’, really all they can claim is that they _desire the universe to be a certain way_, and they live _as if it actually is this way_. 
 
-Not only is this belief in the order of the cosmos unjustified, Nietzsche thinks, but the Stoic view also tells us to dismiss suffering too quickly. In his notebooks, he writes:
+The Stoics do not derive their philosophy from Nature; they imbue Nature with their philosophy. They _presume_ nature is rationally ordered, and then claim we should ‘align ourselves to nature’ by purging ourselves of all irrationality. 
+
+Not only is this belief in the order of the cosmos unjustified, Nietzsche thinks, but the Stoic view is also too quick in its dismissal of suffering. In his notebooks, he writes:
 
 >\[Stoicism] underestimates the worth of pain […], the worth of excitation and passion.
 
@@ -160,7 +162,7 @@ _Amor fati_ for Nietzsche thus means recognizing the interconnectedness of all. 
 
 Though not exactly enjoyable, suffering thus imbues us with a kind of _tragic wisdom_. 
 
-Perhaps the real measure of a person, Nietzsche goes on to suggest, is thus _the amount of truth they can withstand_. As we’ve seen him put it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>:
+Perhaps the real measure of a person, Nietzsche goes on to suggest, is _the amount of truth they can withstand_. As we’ve seen him put it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>:
 
 >My formula for greatness in a human being is _amor fati:_ that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.
 
