@@ -32,7 +32,7 @@ const Page = ({ data, location }) => {
             <div>
                 <h3>The wisdom of philosophy can be life-changing. We’re here to help you unlock it.</h3>
                 <div className="spectral">
-                  <p><span className="big-letter">W</span>hile there is no guidebook for life, philosophers have had incredibly insightful things to say about existence for thousands of years. We shine a light on those nuggets of wisdom to help you navigate an increasingly complex, information-saturated world. You can learn more about our views on the power of philosophy in our free, <Link to="/philosophy-basics/">3-lesson email course on what philosopy is and how it can improve your life</Link>.</p>
+                  <p><span className="big-letter">W</span>hile there is no guidebook for life, philosophers have had incredibly insightful things to say about existence for thousands of years. We shine a light on those nuggets of wisdom to help you navigate an increasingly complex, information-saturated world. You can learn more about our views on the power of philosophy in our quick article on <Link to="/why-is-philosophy-important-today/">why philosophy matters today</Link>.</p>
                   <p><strong>Like our cause or looking to contribute?</strong> We’d love to hear from you. Get in touch with us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/philosophybreak/">Instagram here</a>, on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">Twitter here</a>, or <a href="mailto:hello@philosophybreak.com">via email here</a>.</p>
                 </div>
             </div>

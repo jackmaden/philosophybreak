@@ -31,7 +31,7 @@ const ReadingList = ({ data, location }) => {
             <div id="break-start" className="page-center" style={{marginBottom: 48}}>
                 <p><span className="big-letter">P</span>hilosophy literally means ‘love of wisdom’, but defining it beyond this becomes a little tricky. In a nutshell, philosophy concerns itself with deep, fundamental questions: from how best we should live our lives, to the basic nature of the worlds we live in.</p>
                 
-                <p>But within this nutshell resides a whole universe of feeling, reason, and meaning (for a fuller exploration, see <Link to="/philosophy-basics/">our free, popular 3-part email course on exactly what philosophy is and why it's important today</Link>). Considering such mammoth subject matter, it's difficult to know where to start.</p>
+                <p>But within this nutshell resides a whole universe of feeling, reason, and meaning (for a fuller exploration, see our quick explainers on <Link to="/what-is-philosophy-definition-4-core-branches/">what philosophy is</Link> and <Link to="/why-is-philosophy-important-today/">why philosophy is important today</Link>). Considering such mammoth subject matter, it's difficult to know where to start.</p>
                 <p>But fear not! This reading list contains the best general introductions to philosophy. Each book discusses the enduring questions philosophers have tackled throughout history — questions you have probably wondered about yourself. You know the ones. <Link to="/articles/why-does-anything-exist/">Why does anything exist?</Link> What's the right thing to do? <Link to="/articles/is-the-world-around-us-real/">Is the world around us ‘real’?</Link></p>
 
                 <BigSubscribe />

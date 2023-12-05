@@ -50,7 +50,7 @@ const Page = ({ data, location }) => {
                 
             </div>
             <div>
-                <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, or our <Link to="/philosophy-basics/">quick introductory email course</Link>, which are ideal for those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
+                <p>If you’re not sure where to start, try our reading list on the <Link to="/reading-lists/introduction-to-philosophy/">best introductions to philosophy</Link>, which is ideal for those seeking a broad overview. Otherwise, take your pick from the lists below.</p>
                 <p>Will you chart the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>? Will you learn about the <Link to="/reading-lists/philosophy-of-language/">philosophy of language</Link>? Will you investigate the mystery of <Link to="/reading-lists/free-will/">free will</Link>? The choice is (not) yours!</p>
 
             </div>
