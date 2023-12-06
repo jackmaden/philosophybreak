@@ -46,7 +46,7 @@ In other words: where do we go from here? If God’s authority is no longer unqu
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 

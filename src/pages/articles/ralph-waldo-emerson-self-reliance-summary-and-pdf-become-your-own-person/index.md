@@ -64,7 +64,7 @@ Thus Emerson sets up his attack on convention and conformity, within which he th
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -159,7 +159,7 @@ We still strive to be the best we can be, and to respect and honor our loved one
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -218,6 +218,6 @@ Finally, if you enjoy reflecting on these kinds of themes, you might like my fre
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>

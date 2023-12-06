@@ -52,7 +52,7 @@ Our kneejerk reaction to this question might be, ‘of course it would’. But l
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 

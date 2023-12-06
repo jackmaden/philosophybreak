@@ -88,7 +88,7 @@ Or maybe nothing physical exists at all and this is all just one big hallucinati
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -163,7 +163,7 @@ Believe it or not, philosophers have been trying to bridge this explanatory gap 
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -210,6 +210,6 @@ If you’re interested, you can join 7,000+ thinkers and sign up for free below 
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>

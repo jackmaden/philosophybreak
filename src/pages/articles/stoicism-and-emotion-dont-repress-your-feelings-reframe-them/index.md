@@ -66,7 +66,7 @@ If however we judge that the fear is justified or even an underreaction — ‘o
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 
@@ -143,7 +143,7 @@ Strive to calmly, passionately do the right thing in the name of justice, rather
             </div>
             </div>
         </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">One short philosophical email each Sunday. Unsubscribe any time.</p>
+        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
     </div>
 </div>
 

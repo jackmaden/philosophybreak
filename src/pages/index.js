@@ -10,6 +10,8 @@ import PanelLBQ from '../components/panelLBQ'
 import PanelNietzsche from "../components/panelNietzsche";
 import HomeArticleList from "../components/homeArticleList";
 import WelcomeEmailPanel from "../components/welcomeEmailPanel";
+import PanelPFL from "../components/panelPFL";
+import { WelcomeEmailForm } from "../components/welcomeEmailForm";
 
 const Page = ( {data} ) => {
 
@@ -47,22 +49,32 @@ const Page = ( {data} ) => {
               {/*morning/afternoon/evening greet*/}
               <span className="tag time home" style={{marginBottom: "12px"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#FFC536" d={svg}/></svg>{greet}</span>
 
-              <h1 id="home-page">What do thousands of years of philosophy say about how we can live happier, more fulfilling lives?</h1>
+              <h1 id="home-page">Get one mind-opening philosophical idea distilled to your inbox every Sunday (free)</h1>
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="large-grey-font home">Compare the wisdom of Stoicism, Existentialism, Buddhism and beyond to forever enrich your personal philosophy.</p>
-              <Link className="button primary full-width" to="/how-to-live-a-good-life/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Explore Our Popular New Guide</Link>
-              <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(50+ reviews for our courses)</span></p>
+              <p className="small-grey-font" style={{marginBottom: 0}}>From the Buddha to Nietzsche: join 7,000+ subscribers enjoying a nugget of profundity from the great philosophers every Sunday:</p>
+              <WelcomeEmailForm />
+              <p className="tiny-mar-top no-mar-bottom review-font" style={{fontSize: "14px"}}>💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
+              {/*testimonial mobile*/}
+              <div className="desktop-no-display mid-mar-top text-center">
+                <p className="large-grey-font massive no-mar-bottom">“Your Sunday emails are the highlight of my week.”</p>
+                <p className="tiny-mar-top review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
+              </div>
             </div>
             <div>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" loading="eager" />
             </div>
           </div>
+          {/*testimonial desktop*/}
+          <div className="mobile-no-display page-center text-center">
+            <p className="large-grey-font tiny-mar-top massive no-mar-bottom">“Your Sunday emails are the highlight of my week.”</p>
+            <p className="tiny-mar-top mid-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
+          </div>
         </div>
 
         <HomeArticleList />
-        <WelcomeEmailPanel />
+        <PanelPFL />
         <PanelReadingList />
         
         <PanelLBQ flexdirection="row-reverse" />
@@ -80,7 +92,7 @@ export const query = graphql`{
       gatsbyImageData(width: 600, height: 600, layout: CONSTRAINED)
     }
   }
-  home: file(relativePath: {eq: "PFL-mob.png"}) {
+  home: file(relativePath: {eq: "weekly-break.png"}) {
     childImageSharp {
       gatsbyImageData(width: 600, layout: CONSTRAINED, placeholder: BLURRED)
     }

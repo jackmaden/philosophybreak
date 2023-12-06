@@ -242,7 +242,7 @@ h5 {font-size: 20px;}
 }
 
 @media (min-width: 1120px) {
-    h1#home-page {font-size: 37px;}
+    h1#home-page {font-size: 40px;}
     h1#smaller {font-size: 40px;}
 }
 
@@ -296,6 +296,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 .top-title {padding-top: 106px; margin-bottom: 32px; position: relative;}
 .top-title.home {padding-bottom: 36px; margin-bottom: 0;}
 .top-title .large-grey-font {margin-bottom: 0; font-size: 20px;}
+.top-title .large-grey-font.massive {font-size: 23px;}
 .top-title.home p.large-grey-font {margin-bottom: 18px;}
 .top-title.home p.large-grey-font a {color: #001d30; text-decoration-color: #d2d4d9;}
 .top-title.home p.large-grey-font a:hover {color: #fff;}
@@ -305,6 +306,7 @@ div.section-break {width: 20%; border-bottom: solid 4px #e9e9e9; margin-top: 5em
 @media (min-width: 620px) {
   .top-title.home p.mid-width {width: 610px;}
   .top-title .large-grey-font {font-size: 22px;}
+  .top-title .large-grey-font.massive {font-size: 28px;}
 }
 
 @media (min-width: 1020px) {
