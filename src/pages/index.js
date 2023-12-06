@@ -56,19 +56,14 @@ const Page = ( {data} ) => {
               <p className="small-grey-font" style={{marginBottom: 0}}>From the Buddha to Nietzsche: join 7,000+ subscribers enjoying a nugget of profundity from the great philosophers every Sunday:</p>
               <WelcomeEmailForm />
               <p className="tiny-mar-top no-mar-bottom review-font" style={{fontSize: "14px"}}>💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
-              {/*testimonial mobile*/}
-              <div className="desktop-no-display mid-mar-top text-center">
-                <p className="large-grey-font massive no-mar-bottom">“Your Sunday emails are the highlight of my week.”</p>
-                <p className="tiny-mar-top review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
-              </div>
             </div>
             <div>
               <GatsbyImage image={data.home.childImageSharp.gatsbyImageData} alt="Philosophy Break" loading="eager" />
             </div>
           </div>
-          {/*testimonial desktop*/}
-          <div className="mobile-no-display page-center text-center">
-            <p className="large-grey-font tiny-mar-top massive no-mar-bottom">“Your Sunday emails are the highlight of my week.”</p>
+          {/*testimonial*/}
+          <div className="page-center text-center">
+            <p className="large-grey-font tiny-mar-top massive no-mar-bottom">“Philosophy Break’s Sunday emails are the highlight of my week.”</p>
             <p className="tiny-mar-top mid-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
           </div>
         </div>
