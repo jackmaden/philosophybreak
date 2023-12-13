@@ -25,7 +25,7 @@ We are thus at our best not when we conform to voices outside ourselves, but whe
 
 Society on this view is seen as a corrupting force — it takes us _away_ from our natural wisdom. 
 
-Emerson offers the beginnings of a path for how we might _resist_ the pressures of society in his famous 1841 essay, _Self-Reliance_ (access the [full text of Self-Reliance as a free PDF here](https://math.dartmouth.edu/~doyle/docs/self/self.pdf)), which features in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Essential-Writings-Emerson-Library-Classics/dp/0679783229?&linkCode=ll1&tag=philosophybre-20&linkId=7d4a928e365db7287383e455c40ebe2c&language=en_US&ref_=as_li_ss_tl">The Essential Writings of Ralph Waldo Emerson</a>, and is a crucial contribution to Transcendentalist thought. 
+Emerson offers the beginnings of a path for how we might _resist_ the pressures of society in his famous 1841 essay, _Self-Reliance_ (access the [full text of Self-Reliance as a free PDF here](https://math.dartmouth.edu/~doyle/docs/self/self.pdf)), which features in my [reading list of Emerson’s best books](/reading-lists/ralph-waldo-emerson-best-books/), and is a crucial contribution to Transcendentalist thought. 
 
 With eloquent, persuasive prose, Emerson fiercely defends the idea that the good life involves defying conformity, taking charge of our own existences, and living in accordance with the wisdom of the natural world.
 
@@ -199,6 +199,7 @@ You might also be interested in these related reads which discuss the importance
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Albert Camus on Coping with Life's Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
+- [Ralph Waldo Emerson: The Best 5 Books to Read](/reading-lists/ralph-waldo-emerson-best-books/)
 - [Henry David Thoreau: The Best 5 Books to Read](/reading-lists/henry-david-thoreau-best-books/)
 
 Finally, if you enjoy reflecting on these kinds of themes, you might like my free Sunday email, in which I distill one philosophical idea per week, and invite you to share your view. If you’re interested, you can sign up for free below (no spam, unsubscribe any time):

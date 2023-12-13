@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 This might bring to mind the ancient Greco-Roman philosophy of Stoicism, for the idea has deep resonance with a number of core Stoic principles. 
 
-For example, with his [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), Epictetus suggests we should focus only on what we can personally influence, and learn to embrace all else. As he advises in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Art-Living-Classical-Happiness-Effectiveness/dp/0061286052?&linkCode=ll1&tag=philosophybre-20&linkId=6b226e0ab2573c4f5dcb1608c713a785&language=en_US&ref_=as_li_ss_tl">The Art of Living</a>:
+For example, with his [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), the Stoic philosopher Epictetus suggests we should focus only on what we can personally influence, and learn to embrace all else. As he advises in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Art-Living-Classical-Happiness-Effectiveness/dp/0061286052?&linkCode=ll1&tag=philosophybre-20&linkId=6b226e0ab2573c4f5dcb1608c713a785&language=en_US&ref_=as_li_ss_tl">The Art of Living</a>:
 
 >Happiness and freedom begin with a clear understanding of one principle: some things are within our control, and some things are not. It is only after you have faced up to this fundamental rule and learned to distinguish between what you can and can’t control that inner tranquility and outer effectiveness become possible.
 
