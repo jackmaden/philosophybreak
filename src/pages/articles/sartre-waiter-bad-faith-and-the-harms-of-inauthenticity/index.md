@@ -35,9 +35,7 @@ As the contemporary philosopher Skye Cleary puts it in a 2020 essay on existenti
 
 The waiter, we might think, is just doing his job. But Sartre’s point here is that we must be careful not to collapse our boundless existential potential into things _like_ our jobs. 
 
-The problem is not serving as a waiter; the problem is _reducing one’s entire being_ down to a fixed, predefined social role. 
-
-The waiter is not guilty because he has a job as a waiter; in Sartre’s example, the waiter is guilty because _that’s all he thinks he is_. 
+The problem is not serving as a waiter; the problem is _reducing one’s entire being_ down to a fixed, predefined social role. Indeed, the waiter is not guilty because he has a job as a waiter; in Sartre’s example, the waiter is guilty because _that’s all he thinks he is_. 
 
 Though Sartre’s use of a waiter is often criticized (indeed, there Sartre was in Parisian cafes, busily writing his philosophy, and using the people serving him as models of inauthenticity!), what he really wants to convey is that we’re all occasionally guilty of what the waiter in his example is doing.
 

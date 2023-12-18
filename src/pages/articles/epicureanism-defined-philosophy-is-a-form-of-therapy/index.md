@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">T</span>hroughout history, perhaps no philosophy has been slandered as much as Epicureanism. Famous for placing ‘pleasure’ as the highest (and only) good, the teachings of Epicurus drew fierce criticism across the ancient Greco-Roman world from those who saw pleasure as subordinate — as well as subsequently throughout Christian Europe, which connected most pleasure to shame. 
+<span class="big-letter">T</span>hroughout history, perhaps no philosophy has been slandered as much as Epicureanism. Famous for placing ‘pleasure’ as the highest (and only) good, the teachings of Epicurus drew fierce criticism across the ancient Greco-Roman world from those who saw pleasure as subordinate — as well as subsequently throughout Christian Europe, which connected much pleasure to shame. 
 
 The modern English word ‘epicurean’, meanwhile, has come to mean someone devoted to sensual enjoyment, especially from luxurious food and drink. And this is what the word ‘pleasure’ may bring to mind, too: sensory indulgence. 
 
