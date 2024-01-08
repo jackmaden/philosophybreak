@@ -175,9 +175,11 @@ The more you focus on things like that, the more you risk setting yourself up fo
 
 In the book, I draw a distinction between _telic_ activities and _atelic_ activities. The terminology is from linguistics but originates from the Greek word _telos_, meaning ultimate object or aim. 
 
-So, while there are _telic_ projects which aim at some sort of end state where they’re achieved, there are also _atelic_ activities that don’t aim at a goal in this way. While you’re walking home, for instance, you’re also just _walking_, and there’s pleasure to be found in just walking with no urgent destination in mind. 
+So, while there are _telic_ projects which aim at some sort of end state where they’re achieved, there are also _atelic_ activities that don’t aim at a goal in this way. While you’re walking home, for instance, you’re also just _walking_, and there’s pleasure to be found in just walking with no urgent destination in mind.
 
-Having kids is the same: it’s tempting to think you’ve had the baby, what’s the next milestone? Parenting could be viewed as this ongoing activity with lots of projects in it. But the more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail. So valuing the process is important.
+Having kids is the same: it’s tempting to think you’ve had the baby, what’s the next milestone? Parenting could be viewed as this ongoing activity with lots of projects in it. But the more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail. So valuing the process is important. 
+
+_[For more on this topic, see our related article on [How to Set Better New Year’s Resolutions: Focus On Processes, Not Outcomes](/articles/how-to-set-better-new-years-resolutions-focus-on-processes-not-outcomes/)]_
 
 And then there’s a third and final idea which is more complicated because I don’t think philosophy or philosophizing for oneself can really change it. 
 
