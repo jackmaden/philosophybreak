@@ -213,7 +213,7 @@ Living according to transient identity, status, and attachment will only bring d
 
 The existence of _every sentient being_ is characterized by suffering, for exactly the same reason ours is: we live transient lives of ignorance and pain. 
 
-In encouraging detachment from self, then, Buddhism does not look away from reality. It’s not here to free us _from_ the world; it’s here to free us _for_ the world. Honing _selflessness_ through Buddhist practice, we put grasping ego to one side, open ourselves to reality, and cultivate love and compassion for all living beings.
+In encouraging detachment from self, then, Buddhism does not look away from reality. It’s not here to free us _from_ the world; it’s here to free us _for_ the world. Honing _selflessness_ through Buddhist practice, we (as with [Iris Murdoch’s process of ‘unselfing’](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)) put grasping ego to one side, open ourselves to reality, and cultivate love and compassion for all living beings.
 
 ## Learn more about Buddhist philosophy
 
