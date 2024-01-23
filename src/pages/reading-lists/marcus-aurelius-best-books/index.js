@@ -34,7 +34,7 @@ const ReadingList = ({ data, location }) => {
 
           <p>Marcus reigned during a time of many significant military conflicts, as well as the Antonine Plague, a pandemic that devastated the population of the Roman Empire, causing the deaths of five million people.</p>
 
-          <p>Despite these difficult events — or perhaps because of them — the philosophy Marcus advocated is one of calmness and serenity. As he advises in one of many natty aphorisms:</p>
+          <p>Despite these difficult events — or perhaps because of them — the philosophy Marcus advocated is one of calmness and serenity (see, for instance, <Link to="/articles/marcus-aurelius-to-live-a-good-life-practice-kindness/">Marcus on why practicing kindness is central to living a good life</Link>). As he advises in one of many natty aphorisms:</p>
 
           <blockquote><p>You have power over your mind — not outside events. Realize this, and you will find strength.</p></blockquote>
 

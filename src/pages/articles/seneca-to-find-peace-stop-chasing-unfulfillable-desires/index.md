@@ -85,6 +85,7 @@ You might also enjoy the following related reads:
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [The 4 Cardinal Virtues: Stoicism’s Roadmap to the Best Life Possible](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/)
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
+- [Marcus Aurelius: To Live a Good Life, Practice Kindness](/articles/marcus-aurelius-to-live-a-good-life-practice-kindness/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 
 
