@@ -19,7 +19,7 @@ We must not let the poor judgment of others impact “the purity, lucidity, mode
 
 If someone treats you unjustly, do not let that injustice muddy the waters of your mind, Marcus implores; rather, wash it out with kindness.
 
-This doesn’t mean allowing people to treat you as they wish, or rewarding those who wrong you; it means not seeking revenge, not being blinded by what they have done, and remaining just and true in your thoughts and actions. 
+This doesn’t mean allowing people to treat you as they wish, nor rewarding those who wrong you; it means not seeking revenge, not being blinded by what they have done, and remaining just and true in your thoughts and actions. 
 
 For kindness means strength of character, and aspiring to living according to such character lies wholly within your power, Marcus claims, and there’s no better time to start doing so than now:
 
