@@ -67,7 +67,7 @@ The doctrine of physicalism, which states that only physical things exist in the
 
 ![brain](./consciousness-brain.jpg "If we had all the physical information about a particular individual's brain, could we accurately recreate their conscious experiences?")
 
-Optimists about physicalist theories of consciousness say that, though we might not currently have all the answers about how, why, or in what form conscious experiences are physical, with continued research into the brain the solution to the hard problem of consciousness _will_ be answered within the physical causal system.
+Optimists about physicalist theories of consciousness say that, though we might not currently have all the answers about how, why, or in what form conscious experiences are physical, with continued research into the brain the solution to the hard problem of consciousness _will_ be answered within the physical causal system. (Consider, for instance, [Douglas Hofstadter on how mental properties emerge from complex patterns in the brain](/articles/do-neurons-push-thoughts-around-or-do-thoughts-push-neurons-around/))
 
 Detractors of physicalism disagree. It's difficult to imagine, they argue, how subjective, unique and complex feelings involving conscious instances of sight, smell, hearing, touch and taste could ever reduce down to certain organizations and firings of neurons in the brain. How can physical 'stuff' explain the subjective, felt-experience of biting into cool cucumber on a hot summer's day? The explanatory gap between brain processes and our rich inner lives of conscious experience is simply too wide to bridge using only physical materials: there has to be something more to complete the story. 
 

@@ -71,9 +71,9 @@ For Chalmers, the way we currently approach brain science will never lead to a s
 
 Instead, he calls for a radical rethink that places consciousness alongside quantum fields as a fundamental building block of the universe. In his view, there is no other way to adequately explain it.
 
-Of course, there are many who find zombies absurd. [Daniel Dennett argues that zombies are ultimately inconceivable](/articles/what-is-consciousness/): they're based on the assumption that brain activity and consciousness can come apart, which is an illusion we'll one day prove to be impossible. An explanatory gap doesn't entail an actual gap, we just need to continue our neuroscientific research.
+Of course, there are many who find zombies absurd. [Daniel Dennett argues that zombies are ultimately inconceivable](/articles/what-is-consciousness/): they're based on the assumption that brain activity and consciousness can come apart, which is an illusion we'll one day prove to be impossible. An explanatory gap doesn't entail an actual gap, we just need to continue our neuroscientific research. (Consider, for instance, [Douglas Hofstadter on how mental properties emerge from complex patterns in the brain](/articles/do-neurons-push-thoughts-around-or-do-thoughts-push-neurons-around/))
 
-Zombies are just a small part of Chalmers’s argument as to why he thinks the gap between consciousness and brain activity is currently unbridgeable. For a more in-depth discussion of his thoughts, as well as responses to them, [check out this philosophy break](/articles/what-is-consciousness).
+Zombies are just a small part of Chalmers’s argument as to why he thinks the gap between consciousness and brain activity is currently unbridgeable. For a more in-depth discussion of his thoughts, as well as responses to them, check out [our consciousness explainer](/articles/what-is-consciousness).
 
 Alternatively, to dive even deeper on the nature of consciousness, our [curated reading list](/reading-lists/consciousness/) outlines the most compelling and comprehensive works in the field. Hit the banner below to access it now.
 
