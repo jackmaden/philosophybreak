@@ -109,6 +109,7 @@ By unselfing, we connect to the Good. Through our patient efforts to see reality
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
+- [Nozick’s Experience Machine vs. Hedonism: Should You Plug In?](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 9,000+ subscribers and signing up below:
 

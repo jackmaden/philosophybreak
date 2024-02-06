@@ -27,7 +27,7 @@ Writing four years later in his <a href="https://www.amazon.com/Introduction-Pri
 
 In other words, all of human behavior is driven by pain and pleasure — that’s just natural, Bentham says (echoing the [philosophy of ancient Greek philosopher Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)). 
 
-People might dress it up with words like ‘duty’ or ‘virtue’, but when you get right down to the fundamental _drivers_ of why we act the way we do, ultimately we all want more pleasure, and we all want less pain. Happiness for each of us is simply constituted by the aggregate balance of the former over the latter.
+People might dress it up with words like ‘duty’ or ‘virtue’, but when you get right down to the fundamental _drivers_ of why we act the way we do, ultimately we all want more pleasure, and we all want less pain. Happiness for each of us is simply constituted by the aggregate balance of the former over the latter (for a counterargument to this position, see [Nozick’s Experience Machine](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)).
 
 The strength of his utilitarianism, Bentham thinks, is that it _accepts_ this fact of human nature, and incorporates it into a secular ethical system: doing the right thing means performing so-called ‘hedonic calculus’ to ensure we act in ways that bring about more pleasure than pain.
 
@@ -146,6 +146,7 @@ You might also enjoy the following related reads:
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [The 4 Cardinal Virtues: Stoicism’s Roadmap to the Best Life Possible](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/)
+- [Nozick’s Experience Machine vs. Hedonism: Should You Plug In?](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 9,000+ subscribers and signing up below:
 

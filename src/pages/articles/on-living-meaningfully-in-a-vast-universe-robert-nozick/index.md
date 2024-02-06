@@ -69,6 +69,7 @@ Nozick is not the first to attempt to make sense of our place in the vastness of
 - [Albert Camus on Coping with Life’s Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
+- [Nozick’s Experience Machine vs. Hedonism: Should You Plug In?](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)
 
 If you enjoy reflecting on these kinds of themes, you might like my free Sunday email, in which I distill one philosophical idea per week, and invite you to share your view. If you’re interested, you can sign up for free below (no spam, unsubscribe any time):
 
