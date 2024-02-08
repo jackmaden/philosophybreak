@@ -131,7 +131,7 @@ For example, if we can only measure the size of an object (one of its primary qu
 
 It seems we are led back to the skeptic’s chief concern: if all we have are mental events happening in our brain, and we can never directly access a ‘physical’ world, why assert the existence of such a world at all?  
 
-Locke, of course, has responses to these concerns, and dedicates significant space to addressing them in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51">An Essay Concerning Human Understanding</a>. The success of his arguments has since been intensively discussed by Leibniz, Berkeley, Hume, [Immanuel Kant](/reading-lists/immanuel-kant/), and many more great thinkers influenced and stimulated by his work. 
+Locke, of course, has responses to these concerns, and dedicates significant space to addressing them in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51">An Essay Concerning Human Understanding</a>. The success of his arguments has since been intensively discussed by Leibniz, Berkeley, Hume, [Immanuel Kant (with his transcendental idealism)](/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/), and many more great thinkers influenced and stimulated by his work. 
 
 ## Where does Locke’s empiricism leave us?
 

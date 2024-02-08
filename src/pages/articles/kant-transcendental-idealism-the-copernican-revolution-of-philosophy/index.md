@@ -45,7 +45,7 @@ In other words, Kant is urging us to take a step back here. Let’s not just tak
 
 By conducting an investigation into the _metaphysics of experience_ in this way, Kant thinks, perhaps we’ll get closer to securing the foundations of knowledge.
 
-For instance, the English philosopher John Locke famously stated that at birth the mind is a _tabula rasa_ — a blank slate — and that as we grow our experience of the world furnishes the mind with knowledge. 
+For instance, the English philosopher [John Locke famously stated that at birth the mind is a _tabula rasa_](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) — a blank slate — and that as we grow our experience of the world furnishes the mind with knowledge. 
 
 But for Kant, this cannot be so: the mind cannot be blank. For experience to be possible at all, the mind must be equipped with certain potentialities for understanding. 
 
