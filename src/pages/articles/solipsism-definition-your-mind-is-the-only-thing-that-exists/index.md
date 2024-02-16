@@ -27,7 +27,7 @@ But the solipsist does not appeal to common sense; the solipsist appeals to logi
 
 >1\. The only things I have direct access to are the contents of my own mind — sensory experiences, thoughts, memories, and so on.<br><br>2\. The contents of my own mind are entirely private, and inaccessible to anyone but me.<br><br>3\. I am unable to access the mind of any other being, and so can only infer the existence of other minds indirectly. 
 
-Many people would agree with these propositions. The solipsist simply takes the implications of them to their extreme logical conclusion: 
+Many people would agree with these propositions (for instance, see [Aldous Huxley on the unknowability of other minds](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)). The solipsist simply takes the implications of them to their extreme logical conclusion: 
 
 >The only thing I can be sure of with certainty is that my mind exists. Therefore, there are no logical grounds for asserting the existence of anything else.
 

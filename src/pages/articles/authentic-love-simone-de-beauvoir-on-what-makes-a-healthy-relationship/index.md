@@ -124,6 +124,7 @@ Not seeking to control one another, not seeking to sacrifice ourselves for one a
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+- [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 9,500+ subscribers and signing up below:
 
