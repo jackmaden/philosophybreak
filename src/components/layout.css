@@ -922,7 +922,7 @@ input.required:invalid {border-color: red;}
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
-/*swing*/
+/*swing COMMENTING OUT TO SEE IF IT CHANGES FPS
 @-webkit-keyframes swing {
   from {              }
   to   { right: 8px; }
@@ -944,4 +944,4 @@ input.required:invalid {border-color: red;}
   animation-direction: alternate;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-}
+}*/

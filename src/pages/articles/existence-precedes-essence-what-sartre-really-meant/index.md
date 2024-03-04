@@ -182,7 +182,7 @@ While the free will debate rages on, Nietzsche’s approach perhaps provides one
 
 ## Learn more about existentialism
 
-<span class="big-letter">S</span>artre believed the insight captured by his slogan — _existence precedes essence_ — to be of fundamental importance. That we are free to transcend the identities given to us; that there is no human nature, only a human condition; that it is our own subjectivity that must ultimately define meaning and value — these are powerful, if rather audacious, thoughts.
+<span class="big-letter">S</span>artre believed the insight captured by his slogan — _existence precedes essence_ — to be of fundamental importance. That we are free to transcend the identities given to us; that there is no human nature, only a human condition; that it is our own subjectivity that must ultimately define meaning and value — these are powerful, if rather audacious, thoughts (indeed, find a defense of human nature in the philosopher [Mary Midgley’s reflections on the nature vs. nurture debate](/articles/why-nature-vs-nurture-is-a-false-dichotomy-mary-midgley/)).
 
 What do you make of Sartre’s slogan? Do you think the insights of existentialism are true, or that they’re more a coping mechanism for life? Do you agree that existence precedes essence? Or do you think we are born into identities, roles, obligations — even fates — from which we cannot so easily release ourselves?
 
