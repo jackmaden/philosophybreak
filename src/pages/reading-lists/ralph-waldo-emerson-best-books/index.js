@@ -75,11 +75,11 @@ const ReadingList = ({ data, location }) => {
               <h2>2. The Annotated Emerson, by Ralph Waldo Emerson and David Mikics</h2>
               <BookLink title="The Annotated Emerson" author="Ralph Waldo Emerson" link="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
 
-            <p>While Emerson is regarded as one of America’s greatest writers, his luxurious 19th-century prose can appear a little dense to the modern eye. Hence <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl ">The Annotated Emerson</a>: a brilliant book — published in 2012 — that contextualizes, illustrates, and discusses Emerson’s most important works.</p>
+            <p>While Emerson is regarded as one of America’s greatest writers, his luxurious 19th-century prose can appear a little dense to the modern eye. Hence <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl">The Annotated Emerson</a>: a brilliant book — published in 2012 — that contextualizes, illustrates, and discusses Emerson’s most important works.</p>
             
             <p>Presenting some of Emerson’s most significant essays (including Nature, Self-Reliance, and more), the scholar David Mikics provides brilliant commentary throughout, drawing on Emerson’s journal entries and providing biographical details to supplement the work and bring Emerson’s writing to life.</p>
             
-            <p>For those seeking a deeper understanding of Emerson’s work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl ">The Annotated Emerson</a> is highly recommended.</p>
+            <p>For those seeking a deeper understanding of Emerson’s work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl">The Annotated Emerson</a> is highly recommended.</p>
 
 
               <h2>3. Ralph Waldo Emerson: Essays and Lectures, by Ralph Waldo Emerson</h2>

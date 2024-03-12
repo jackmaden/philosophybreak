@@ -23,7 +23,7 @@ Before we can dive deeper into Beauvoir’s views here, however, we need to brie
 
 ## The importance of freedom in Beauvoir’s philosophy
 
-<span class="big-letter">T</span>hroughout her rich body of work, perhaps the key ethical principle upheld by Beauvoir is that it is wrong to interfere with or tyrannize the freedom of others — specifically, the _free choices_ of others.
+<span class="big-letter">T</span>hroughout her rich body of work (see my list of [Beauvoir’s best books here](/reading-lists/simone-de-beauvoir-best-books/)), perhaps the key ethical principle upheld by Beauvoir is that it is wrong to interfere with or tyrannize the freedom of others — specifically, the _free choices_ of others.
 
 Why? Well, as an existentialist, Beauvoir broadly subscribes to the view that [existence precedes essence](/articles/existence-precedes-essence-what-sartre-really-meant/): that we are not born with a fixed ‘essence’, but that we create and recreate ourselves as we move through time.
 
@@ -118,7 +118,7 @@ Not seeking to control one another, not seeking to sacrifice ourselves for one a
 
 ## Learn more about Beauvoir and existentialism
 
-<span class="big-letter">I</span>f you’re interested in learning more about Beauvoir and existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading list of [existentialism’s best books](/reading-lists/existentialism/), as well as the following related reads:
+<span class="big-letter">I</span>f you’re interested in learning more about Beauvoir and existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading lists of [Beauvoir’s best books](/reading-lists/simone-de-beauvoir-best-books/) and [existentialism’s best books](/reading-lists/existentialism/), as well as the following related reads:
 
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)

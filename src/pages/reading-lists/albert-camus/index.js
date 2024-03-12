@@ -29,7 +29,7 @@ const ReadingList = ({ data, location }) => {
             
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-              <p><span className="big-letter">A</span>lbert Camus was a French thinker who, while associated with the 20th-century <Link to="/reading-lists/existentialism/">existentialist movement</Link> in philosophy, never accepted ‘existentialist’ as an appropriate description of nor label for his works.</p> 
+              <p><span className="big-letter">A</span>lbert Camus was a French thinker who, while associated with the 20th-century <Link to="/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/">existentialist movement</Link> in philosophy, never accepted ‘existentialist’ as an appropriate description of nor label for his works.</p> 
               
               <p>Camus has instead come to be thought of as an ‘absurdist’, focusing as he does on exposing the absurd nature of the human condition (for more on absurdism, see our short explainer piece on <Link to="/articles/absurdity-with-camus/">how Camus defines absurdity</Link>, as well as <Link to="/articles/thomas-nagel-why-humor-best-stance-towards-life-absurdity/">Thomas Nagel’s critique of Camus’ position</Link>). </p>
 

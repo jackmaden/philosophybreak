@@ -43,7 +43,7 @@ Pre-existing identities and meanings will thus be thrust upon us. French philoso
 
 >One is not born, but rather becomes, a woman.
 
-(For more here, see [Beauvoir on why authentic love](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/) involves shedding such predefined, self-limiting roles).
+(For more here, see [Beauvoir on why authentic love](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/) involves shedding such predefined, self-limiting roles, as well my reading list of [Beauvoir’s best books](/reading-lists/simone-de-beauvoir-best-books/)).
 
 Sartre, too, in his later work, allowed a larger role for social conditioning, writing that man is best understood as
 
