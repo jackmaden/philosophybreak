@@ -10,6 +10,7 @@ import { CheckoutLBQ } from "../../components/checkoutLBQ"
 import Reviews from "../../components/reviewsLBQ"
 import ReviewsLatestLBQ from "../../components/reviewsLatestLBQ"
 import ReviewsStarsLBQ from "../../components/reviewsStarsLBQ"
+import FooterSimple from "../../components/footerSimple"
 
 const Page = ({ data, location }) => {
     
@@ -301,6 +302,8 @@ const Page = ({ data, location }) => {
                 </div>
                 <div className="small-pad"></div>
             </div>
+
+        <FooterSimple />
 
     </Layout>
     </>

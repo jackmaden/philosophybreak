@@ -7,6 +7,7 @@ import TopTitle from '../../components/topTitle'
 import PanelLBQ from "../../components/panelLBQ"
 import PanelNietzsche from "../../components/panelNietzsche";
 import PanelPFL from "../../components/panelPFL";
+import Footer from "../../components/footer"
 
 
 const Page = ({ location }) => {
@@ -42,7 +43,7 @@ const Page = ({ location }) => {
             </div>
         </div>
        
-
+        <Footer />
         
     </Layout>
     </>

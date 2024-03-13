@@ -9,6 +9,7 @@ import { Navigation } from "../../components/navigation"
 import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import PanelLBQ from "../../components/panelLBQ"
+import Footer from "../../components/footer";
 
 const Page = ({ data, location }) => {
     const imagePath = getSrc(data.default)
@@ -170,6 +171,8 @@ const Page = ({ data, location }) => {
             <PanelLBQ class="grey-background course" fill="#001d30" flexdirection="row-reverse" />
             <div style={{marginBottom: 30}}>&nbsp;</div>
         </div>
+
+        <Footer />
     </Layout>
     </>
     )

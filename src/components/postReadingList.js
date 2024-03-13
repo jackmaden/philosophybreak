@@ -3,6 +3,7 @@ import React from "react"
 import PanelArticleList from "./panelArticleList"
 import WelcomeEmailPanel from "./welcomeEmailPanel"
 import AboutAuthor from "./aboutAuthor"
+import Footer from "./footer"
 
 const PostReadingList = () => (
     <>
@@ -10,6 +11,7 @@ const PostReadingList = () => (
             <AboutAuthor />
             <WelcomeEmailPanel />
             <PanelArticleList />
+            <Footer />
         </div>
     </>
 )

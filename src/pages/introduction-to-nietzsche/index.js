@@ -9,6 +9,7 @@ import { NavigationSimple } from "../../components/navigationSimple"
 import { CheckoutNietzsche } from "../../components/checkoutNietzsche"
 import ReviewsLatestNietzsche from "../../components/reviewsLatestNietzsche"
 import ReviewsStarsNietzsche from "../../components/reviewsStarsNietzsche"
+import FooterSimple from "../../components/footerSimple"
 
 const Page = ({ data, location }) => {
     
@@ -407,6 +408,8 @@ const Page = ({ data, location }) => {
             <div className="small-pad"></div>
         </div>
             
+    <FooterSimple />
+
     </Layout>
     </>
     )

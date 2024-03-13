@@ -10,6 +10,7 @@ import { CheckoutPFL } from "../../components/checkoutPFL"
 import Reviews from "../../components/reviewsLBQ"
 import ReviewsStarsLBQ from "../../components/reviewsStarsLBQ"
 import ReviewsLatestPFL from "../../components/reviewsLatestPFL"
+import FooterSimple from "../../components/footerSimple"
 
 const Page = ({ data, location }) => {
 
@@ -333,6 +334,8 @@ const Page = ({ data, location }) => {
 
 
         <Script id="purchase-parity" src='https://cdn.paritydeals.com/banner.js' />
+
+    <FooterSimple />
 
     </Layout>
     </>

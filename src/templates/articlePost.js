@@ -12,6 +12,7 @@ import { WindowHeightWrapper } from '../components/windowHeightWrapper'
 import AboutAuthor from "../components/aboutAuthor"
 import WelcomeEmailPanel from "../components/welcomeEmailPanel"
 import Sidebar from "../components/sidebar";
+import Footer from "../components/footer";
 
 
 const ArticlePost = ({ data, location }) => {
@@ -105,6 +106,8 @@ const ArticlePost = ({ data, location }) => {
       </div>
 
     </div>
+
+    <Footer />
   </Layout>
   </>
   )

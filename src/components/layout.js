@@ -2,7 +2,6 @@ import React from "react"
 import { Helmet } from "react-helmet"
 
 import "./layout.css"
-import Footer from "./footer"
 
 require('typeface-spectral')
 require('typeface-public-sans')
@@ -25,7 +24,6 @@ const Layout = ({ children }) => (
 
         </Helmet>
         {children}
-        <Footer />
     </>
 )
 

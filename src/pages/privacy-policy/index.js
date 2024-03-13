@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet"
 import Layout from '../../components/layout'
 import { Navigation } from '../../components/navigation'
 import TopTitle from "../../components/topTitle"
+import Footer from '../../components/footer'
 
 const Page = () => {
 
@@ -244,6 +245,8 @@ const Page = () => {
 
                           </div>
              </div>
+
+             <Footer />
         </Layout>
         </>
     )

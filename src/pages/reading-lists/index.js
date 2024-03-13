@@ -12,6 +12,7 @@ import BannerReadingList from '../../components/bannerReadingList'
 import BookLink from '../../components/bookLink'
 import WatermarkBreak from "../../components/watermarkBreak"
 import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
+import Footer from "../../components/footer"
 
 
 const Page = ({ data, location }) => {
@@ -215,6 +216,8 @@ const Page = ({ data, location }) => {
 
 
         <WelcomeEmailPanel />
+
+        <Footer />
     </Layout>
     </>
     )

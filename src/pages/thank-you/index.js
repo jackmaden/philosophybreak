@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet"
 import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import JackHeadshot from "../../components/jackHeadshot"
+import Footer from "../../components/footer"
 
 const Page = () => {
     return (
@@ -26,6 +27,7 @@ const Page = () => {
                     </div>
                 </div>
             </div>
+            <Footer />
         </Layout>
         </>
     )

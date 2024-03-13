@@ -9,6 +9,7 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import WatermarkBreak from "../../components/watermarkBreak"
 import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
+import Footer from "../../components/footer"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -75,7 +76,7 @@ const Articles = ({ data, location }) => {
         {/*end page background color*/}
         </div>
         <WelcomeEmailPanel />
-        
+        <Footer />
     </Layout>
     </>
     )

@@ -6,6 +6,7 @@ import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
 import { HomeSubscriptionForm } from "../../components/homeSubscriptionForm";
+import FooterSimple from "../../components/footerSimple";
 
 const Page = ({ data, location }) => {
 
@@ -36,6 +37,8 @@ const Page = ({ data, location }) => {
             </div>
           </div>
         </div>
+      
+      <FooterSimple />
         
     </Layout>
     </>

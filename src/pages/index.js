@@ -12,6 +12,7 @@ import HomeArticleList from "../components/homeArticleList";
 import WelcomeEmailPanel from "../components/welcomeEmailPanel";
 import PanelPFL from "../components/panelPFL";
 import { WelcomeEmailForm } from "../components/welcomeEmailForm";
+import Footer from "../components/footer";
 
 const Page = ( {data} ) => {
 
@@ -76,6 +77,9 @@ const Page = ( {data} ) => {
         <PanelNietzsche flexdirection="row" />
         
         <WelcomeEmailPanel />
+
+      <Footer />
+
     </Layout>
     </>
     )

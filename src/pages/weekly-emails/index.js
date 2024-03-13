@@ -6,6 +6,7 @@ import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
 import { WelcomeEmailForm } from "../../components/welcomeEmailForm";
+import FooterSimple from "../../components/footerSimple";
 
 const Page = ({ data, location }) => {
 
@@ -42,6 +43,8 @@ const Page = ({ data, location }) => {
             <p className="tiny-mar-top mid-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
           </div>
         </div>
+
+      <FooterSimple />
         
     </Layout>
     </>

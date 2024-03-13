@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 import { Navigation } from "../components/navigation"
 import TopTitle from '../components/topTitle'
 import WatermarkBreak from "../components/watermarkBreak"
+import Footer from "../components/footer"
 
 const Page = () => {
     return (
@@ -34,6 +35,8 @@ const Page = () => {
             </div>
 
             {/*post-reading list content*/}
+        
+        <Footer />
 
         </Layout>
         </>

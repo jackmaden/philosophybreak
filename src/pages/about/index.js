@@ -8,6 +8,7 @@ import { Navigation } from "../../components/navigation"
 import TopTitle from "../../components/topTitle"
 import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 import JackHeadshot from "../../components/jackHeadshot"
+import Footer from "../../components/footer";
 
 const Page = ({ data, location }) => {
     return (
@@ -65,6 +66,8 @@ const Page = ({ data, location }) => {
             
         {/*post-page content*/}
         <WelcomeEmailPanel />
+
+        <Footer />
     </Layout>
     </>
     )
