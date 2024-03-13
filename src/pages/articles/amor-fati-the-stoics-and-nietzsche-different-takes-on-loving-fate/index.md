@@ -3,7 +3,7 @@ title: "Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fat
 description: "Amor fati is a Latin phrase meaning ‘love of fate’, an idea rooted in the ancient Greco-Roman philosophy of Stoicism. In critiquing Stoicism and developing his own take on amor fati, Nietzsche eloquently discusses how transformative the idea can be."
 image: "./command.jpeg"
 imageAlt: "Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate"
-imageSeo: "./command.jpeg"
+imageSeo: "./amor-fati-seo.jpg"
 tags: ["Nietzsche", "Stoicism", "Ethics"]
 date: "2023-12-05"
 author: "Jack Maden"
@@ -25,7 +25,7 @@ Rather than fight against things we are powerless to change, Epictetus suggests 
 
 In his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a>, the great Stoic philosopher Marcus Aurelius describes a happy, virtuous individual in similar terms:
 
->[H]e loves and welcomes whatever happens to him and whatever his fate may bring.
+>\[H]e loves and welcomes whatever happens to him and whatever his fate may bring.
 
 ## Nietzsche’s eloquent discussions of amor fati
 
