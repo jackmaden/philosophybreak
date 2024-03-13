@@ -46,7 +46,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 .tiny-pad {padding: 12px 0;}
 .small-pad {padding: 24px 0;}
 figure.gatsby-resp-image-figure.big-image, figure.gatsby-resp-image-figure.rl-image {margin: 2.2em 0 2em;}
-@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0 !important;} .no-pad-top-mob {padding-top: 0;} .mid-pad-top-mob {padding-top: 24px;} .small-mar-bottom-mob {margin-bottom: 24px;}}
+@media (max-width: 619px) {.tiny-pad-bottom-mob {padding-bottom: 12px;} .no-mar-top-mob {margin-top: 0 !important;} .no-pad-top-mob {padding-top: 0;} .mid-pad-top-mob {padding-top: 24px;} .small-mar-bottom-mob {margin-bottom: 24px;} .no-mar-mob {margin: 0 !important;}}
 .small-pad-top {padding-top: 24px;}
 .small-pad-bottom {padding-bottom: 24px;}
 .small-pad-mob-mid-pad-desk {padding: 24px 0;}
@@ -123,7 +123,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.small-top-mar div.gatsby-image-wrapper {margin: 2em 0;} /* course chapters - normalizing it back for desktop*/
   .two-col div div.gatsby-image-wrapper {width: 100%;}
   .two-col.row-reverse {flex-direction: row-reverse;}
-  .two-col.align-top, .three-col.align-top {align-items: flex-start;}
+  .two-col.align-top, .three-col.align-top, .four-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
   .two-col.big-1-col.about-author > div:first-child {width: 20%}
@@ -424,12 +424,12 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 
 /***footer***/
 #footer {background-color: #fff; padding: 3em 0 2em;}
-#footer .three-col div {margin: 3em 0;}
+#footer .four-col div {margin: 3em 0;}
 #footer ul {list-style-type: none;}
 #footer ul li {margin: 0.75em 0; }
 #footer ul li a {text-decoration: none; color:rgb(115, 125, 136);}
 #footer ul li a:hover {text-decoration: underline; text-decoration-color: #36b4ff; background: none; color:rgb(115, 125, 136);}
-#footer .logo-footer {text-align: center;}
+
 #footer .logo-footer a {text-decoration: none;}
 #footer .logo-footer a:hover {background: none;}
 #footer .logo-footer svg {width: 100px;}
