@@ -113,7 +113,7 @@ module.exports = {
               id: "GTM-NVRNWFT",
             }
         },
-        //preact REMOVING COS IT CAUSES BUILD ISSUES `gatsby-plugin-preact`,
+        //preact REMOVING COS IT CAUSES BUILD ISSUES (NOT DEV ISSUES - BUILD ISSUES) `gatsby-plugin-preact`,
         
         //catch all internal links & transform to Gatsby Link
         `gatsby-plugin-catch-links`,
@@ -185,7 +185,6 @@ module.exports = {
             resolve: `gatsby-plugin-compile-es6-packages`,
             options: {
               modules: [
-                `react-spring`, 
                 `react-anchor-link-smooth-scroll`
               ]
             }

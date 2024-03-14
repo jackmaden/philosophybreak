@@ -1,8 +1,7 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql, Link, Script } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import { Helmet } from "react-helmet"
 
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
@@ -20,10 +19,8 @@ const Page = ({ data, location }) => {
     <>
     <Seo title="Best Philosophy Books – Essential Philosophy Reading Lists by Subject" description="We've compiled reading lists of the most essential, compelling, and accessible works and books of particular philosophers and philosophical subjects." pathname={location.pathname} />
 
-    {/* convertkit pop up forms*/}
-    <Helmet>
-        {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
-    </Helmet>
+    {/* convertkit desktop pop up form*/}
+    <Script data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
 
     <Layout>
     <Navigation bg="light-bg" />

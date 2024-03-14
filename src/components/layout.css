@@ -103,6 +103,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .fade-out {height: 200px;}
   .flex-normal-mob-end-desk {align-items: flex-end;}
   .image-caption-tap {font-size: 12px; margin-top:-46px;}
+  
 }
 @media (min-width: 1020px) {
   .small-pad-desktop {padding: 24px 0;}
@@ -259,7 +260,7 @@ h5.discount {margin-top: 6px;}
 h5.discount span:first-child {text-decoration: line-through;}
 h5.discount span:last-child {text-decoration: none; font-weight: 600; color: #ff3650;}
 a {color: #001d30; text-decoration: underline; -webkit-text-decoration-color: #36b4ff; -ms-text-decoration-color: #36b4ff; -moz-text-decoration-color: #36b4ff; text-decoration-color: #36b4ff;}
-a:hover {background: linear-gradient(to right top, #1aa9ff, #7cceff); color: #fff; text-decoration: none;}
+a:hover {background: linear-gradient(to right top, #0096e8, #7cceff); color: #fff; text-decoration: none;}
 a.no-hover:hover {background: none;}
 .white-underline {-webkit-text-decoration-color: #fff; -ms-text-decoration-color: #fff; -moz-text-decoration-color: #fff; text-decoration-color: #fff;}
 a.no-decoration {text-decoration: none;}
@@ -267,23 +268,23 @@ a.no-decoration {text-decoration: none;}
 
 /*buttons*/
 .button {display: inline-block; margin: 0.5em 0; text-decoration: none; font-size: 16px; font-weight: 400; padding: 1em 1.2em 1.1em; border-radius: 4px; -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); cursor: pointer;}
-.button.primary {color: #fff; background-color: #1aa9ff;}
+.button.primary {color: #fff; background-color: #0096e8;}
 .button.full-width {width: 100%; box-sizing: border-box; text-align: center;}
 .button.primary:hover {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .button.primary:active {-webkit-filter: brightness(1.1); filter: brightness(1.1);}
 .button.primary:disabled {-webkit-filter: brightness(1.1); filter: brightness(1.1); cursor: not-allowed;}
 .button.secondary {background: #fff;}
 a.button.secondary {color: #001d30; font-weight: 500;}
-.button.secondary:hover {background-color: #1aa9ff; color: #fff;}
+.button.secondary:hover {background-color: #0096e8; color: #fff;}
 .button.secondary.nowhitehover:hover {color: #001d30;}
 .button svg {width: 16px; height: 16px; fill: #fff; margin-right: 6px; vertical-align: bottom;}
 .button.top-icon-align svg {vertical-align: text-top;}
-.button.secondary svg {fill: #1aa9ff;}
+.button.secondary svg {fill: #0096e8;}
 :hover.button.secondary svg {fill: #fff;}
-:hover.button.secondary.nowhitehover svg {fill: #1aa9ff;}
+:hover.button.secondary.nowhitehover svg {fill: #0096e8;}
 
 .grey-background.no-hover .button.secondary:hover {color: #001d30;}
-.grey-background.no-hover :hover.button.secondary svg {fill: #1aa9ff;}
+.grey-background.no-hover :hover.button.secondary svg {fill: #0096e8;}
 
 @media (min-width: 620px) {
   .button {font-size: 18px;}
@@ -354,7 +355,7 @@ a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: pres
   #nav.reduce-size #desktop-links a {color: #001d30; font-size: 14px; margin: 0 20px;}
 }
 /**menu trigger**/
-#menu-trigger {cursor: pointer; transition: all 0.2s;}
+#menu-trigger {cursor: pointer; transition: all 0.1s;}
 #menu-trigger span {display: none;}
 #menu-trigger .bar1, #menu-trigger .bar2, #menu-trigger .bar3 {width: 30px; height: 2px; background-color: #fff; margin: 3px 0; transition: 0.2s;}
 #nav.light-bg #menu-trigger .bar1, #nav.light-bg #menu-trigger .bar2, #nav.light-bg #menu-trigger .bar3, #menu-trigger.reduce-size .bar1, #menu-trigger.reduce-size .bar2, #menu-trigger.reduce-size .bar3 {background-color: #001d30;}
@@ -363,34 +364,34 @@ a.logo svg.reduce-size {width: 36px; height: 36px; -webkit-transform-style: pres
 #menu-trigger .change .bar2 {opacity: 0; background-color: #001d30;}
 #menu-trigger .change .bar3 {-webkit-transform: rotate(45deg) translate(-9px, -5px); transform: rotate(45deg) translate(-9px, -5px); background-color: #001d30;}
 /**menu**/
-ul#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; min-height: 100%; opacity: 0; transition: all 0.2s linear; width: 100%; padding-top: 80px; left: -20px;}
-ul#menu.show {opacity: 1 !important; left: 0 !important; z-index: 2 !important} /*show menu*/
-ul#menu li a {text-decoration: none; color: #001d30;}
-ul#menu li a:hover {background: transparent; color: #36b4ff;}
-ul#menu li {padding: 0.6em 0; border-top: solid 1px #e7f6ff;}
-ul#menu li.primary {padding: 0.5em 0 0;}
-ul#menu li a div {display: flex; align-items: center;}
-ul#menu li.primary.one a div h3, ul#menu li:hover a p.small-grey-font, ul#menu li a:hover p.small-grey-font {color: #36b4ff}
-ul#menu li.primary.two a div h3, ul#menu li.primary.two:hover a p.small-grey-font, ul#menu li.primary.two a:hover p.small-grey-font {color: #3683ff}
-ul#menu li.primary.three a div h3, ul#menu li.primary.three:hover a p.small-grey-font, ul#menu li.primary.three a:hover p.small-grey-font {color: #020887}
-ul#menu li a div h5 {font-weight: 700; margin: 0; color: #bdbfc7;}
-ul#menu li.primary a div svg path {fill: #001d30;}
-ul#menu li a div svg {margin-right: 8px; width: 18px; height: 18px;}
-ul#menu li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
-ul#menu li:nth-of-type(4), ul#menu .four-width {margin-top: 2em;}
-ul#menu .four-width li:nth-of-type(4) {margin-top: 0;}
-ul#menu li a div svg path, ul#menu li:hover a div svg path, ul#menu li a:active div svg path {fill: #bdbfc7;}
-ul#menu li.primary.one a div svg path, ul#menu li.primary.one a:active div svg path {fill: #36b4ff;}
-ul#menu li.primary.two a div svg path, ul#menu li.primary.two a:active div svg path {fill: #3683ff;}
-ul#menu li.primary.three a div svg path, ul#menu li.primary.three a:active div svg path {fill: #020887;}
-ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
+div#menu {background: #fff; list-style-type: none; position: fixed; z-index: -1; min-height: 100%; opacity: 0; transition: all 0.2s linear; width: 100%; padding-top: 80px; left: -20px;}
+div#menu.show {opacity: 1 !important; left: 0 !important; z-index: 2 !important} /*show menu*/
+div#menu div.li a {text-decoration: none; color: #001d30;}
+div#menu div.li a:hover {background: transparent; color: #36b4ff;}
+div#menu div.li {padding: 0.6em 0; border-top: solid 1px #e7f6ff;}
+div#menu div.li.primary {padding: 0.5em 0 0;}
+div#menu div.li a div {display: flex; align-items: center;}
+div#menu div.li.primary.one a div h3, div#menu div.li:hover a p.small-grey-font, div#menu div.li a:hover p.small-grey-font {color: #36b4ff}
+div#menu div.li.primary.two a div h3, div#menu div.li.primary.two:hover a p.small-grey-font, div#menu div.li.primary.two a:hover p.small-grey-font {color: #3683ff}
+div#menu div.li.primary.three a div h3, div#menu div.li.primary.three:hover a p.small-grey-font, div#menu div.li.primary.three a:hover p.small-grey-font {color: #020887}
+div#menu div.li a div h5 {font-weight: 700; margin: 0; color: #bdbfc7;}
+div#menu div.li.primary a div svg path {fill: #001d30;}
+div#menu div.li a div svg {margin-right: 8px; width: 18px; height: 18px;}
+div#menu div.li.primary a div svg {margin-right: 10px; width: 24px; height: 24px;}
+div#menu div.li:nth-of-type(4), div#menu .four-width {margin-top: 2em;}
+div#menu .four-width div.li:nth-of-type(4) {margin-top: 0;}
+div#menu div.li a div svg path, div#menu div.li:hover a div svg path, div#menu div.li a:active div svg path {fill: #bdbfc7;}
+div#menu div.li.primary.one a div svg path, div#menu div.li.primary.one a:active div svg path {fill: #36b4ff;}
+div#menu div.li.primary.two a div svg path, div#menu div.li.primary.two a:active div svg path {fill: #3683ff;}
+div#menu div.li.primary.three a div svg path, div#menu div.li.primary.three a:active div svg path {fill: #020887;}
+div#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 
 @media (min-width: 620px) {
-  ul#menu {padding-top: 90px;}
-  ul#menu .page-center {width: 600px;}
-  ul#menu li a div svg {margin-right: 10px; width: 22px; height: 22px;}
-  ul#menu li.primary a div svg {margin-right: 12px; width: 28px; height: 28px;}
-  ul#menu p.small-grey-font {font-size: 18px; margin-top: 9px;}
+  div#menu {padding-top: 90px;}
+  div#menu .page-center {width: 600px;}
+  div#menu div.li a div svg {margin-right: 10px; width: 22px; height: 22px;}
+  div#menu div.li.primary a div svg {margin-right: 12px; width: 28px; height: 28px;}
+  div#menu p.small-grey-font {font-size: 18px; margin-top: 9px;}
   /*show menu label*/
   #menu-trigger {display: flex; align-items: center;}
   #menu-trigger span {display: block; transition: 0.2s; margin-right: 9px; color: #fff; font-size: 16px; font-weight: 800; margin-top:1px;}
@@ -401,24 +402,24 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 
 @media (min-width: 1020px) {
   #menu-trigger.hideForNonSimpleMenu {display: none;}
-  ul#menu {padding-top: 100px;}
-  ul#menu .page-center {width: 1000px;}
-  ul#menu li:nth-of-type(4), ul#menu .four-width {margin-top: 0;}
-  ul#menu li {padding: 1em 0 1em 0; display: inline-block; width: 30%;}
-  ul#menu .four-width li {border: none; width: 25%;}
-  ul#menu li.primary {padding: 1em 0 2.5em; width: 30%; box-sizing: border-box; display: inline-block;}
-  ul#menu li.primary.two, ul#menu li:nth-of-type(5) {margin: 0 5%;}
-  ul#menu li.primary.one:hover {border-top: solid 1px #36b4ff;}
-  ul#menu li.primary.two:hover {border-top: solid 1px #3683ff;}
-  ul#menu li.primary.three:hover {border-top: solid 1px #020887;}
+  div#menu {padding-top: 100px;}
+  div#menu .page-center {width: 1000px;}
+  div#menu div.li:nth-of-type(4), div#menu .four-width {margin-top: 0;}
+  div#menu div.li {padding: 1em 0 1em 0; display: inline-block; width: 30%;}
+  div#menu .four-width div.li {border: none; width: 25%;}
+  div#menu div.li.primary {padding: 1em 0 2.5em; width: 30%; box-sizing: border-box; display: inline-block;}
+  div#menu div.li.primary.two, div#menu div.li:nth-of-type(5) {margin: 0 5%;}
+  div#menu div.li.primary.one:hover {border-top: solid 1px #36b4ff;}
+  div#menu div.li.primary.two:hover {border-top: solid 1px #3683ff;}
+  div#menu div.li.primary.three:hover {border-top: solid 1px #020887;}
 }
 @media (min-width: 1120px) {
-  ul#menu .page-center {width: 1100px;}
+  div#menu .page-center {width: 1100px;}
 }
 /*hide p descriptions on tiny screens*/
 @media (max-height: 560px) {
-  ul#menu p.small-grey-font {display: none;}
-  ul#menu li.primary {padding: 0.8em 0;}
+  div#menu p.small-grey-font {display: none;}
+  div#menu div.li.primary {padding: 0.8em 0;}
 }
 
 
@@ -446,9 +447,12 @@ ul#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 @media (min-width: 620px) {
   #footer {padding: 3em 0;}
   #footer .logo-footer h3 small {font-size: 15.5px;}
+  #footer .four-col {display: flex; justify-content: space-between; align-items: flex-start; flex-flow: wrap;}
+  #footer .four-col > div {width: 48%;}
 }
 @media (min-width: 1020px) {
-  #footer .three-col div {margin: 1em 0;}
+  #footer .four-col {flex-flow: nowrap;}
+  #footer .four-col > div {width: 22.5%;}
 }
 
 
@@ -541,7 +545,7 @@ div.darkener {content: ''; position: absolute; bottom: 0; left: 0; width: 100%; 
 /*different darkeners for carousel title & article title*/
 .carousel-cell div.darkener {background: rgba(0,0,0,0.4);}
 .title div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));}
-div.separator {width: 80px; height: 4px; background:linear-gradient(to right top, #1aa9ff, #7cceff); margin: 1.5em 0;}
+div.separator {width: 80px; height: 4px; background:linear-gradient(to right top, #0096e8, #7cceff); margin: 1.5em 0;}
 /*title center vertically on /articles & fade in (look in js), and moved from bottom 20% to 10% on individual articles (look in js)*/
 div.title-center {position: absolute; left: 0; right: 0;}
 .carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
@@ -734,7 +738,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 /***reading list book listing***/
 .article.white > a {background: #e7f6ff;}
 .article.white > a:hover {background: linear-gradient(to right, #e7f6ff, #e7f6ff, #fff, #e7f6ff);}
-.article.white a:hover .article-info a.button {background: linear-gradient(to right top, #1aa9ff, #7cceff);
+.article.white a:hover .article-info a.button {background: linear-gradient(to right top, #0096e8, #7cceff);
   background-image: linear-gradient(to right top, rgb(26, 169, 255), rgb(124, 206, 255))}
 #break-start .article.white a:hover h4 {color: #001d30; text-decoration: none;} 
 .article.white a:hover p.time {color: #001d30;}
@@ -790,7 +794,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 #progress-bar {
   height: 4px;
   width: 0%;
-  background: linear-gradient(to right top, #1aa9ff, #7cceff);
+  background: linear-gradient(to right top, #0096e8, #7cceff);
 }
 /*lists */
 #break-start ul, #break-start ol {
@@ -824,7 +828,7 @@ p.review-font {font-family: 'Public Sans', sans-serif !important; letter-spacing
 
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
-blockquote p {padding: 0 16px; color: #1aa9ff; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
+blockquote p {padding: 0 16px; color: #0096e8; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
 .midblue-background blockquote:before {color: #3682ff; z-index: 0;}
 .darkradial-background blockquote:before {color: #001d30; z-index: 0;}
 .darkradial-background blockquote p {position: relative; z-index: 1;}
@@ -837,7 +841,7 @@ blockquote p {padding: 0 16px; color: #1aa9ff; margin: 2.2em 0 1.8em !important;
 figcaption {font-size: 12px; color: #001d30; font-weight: 200; margin-top: 10px; line-height: 1.5;}
 figcaption:before {content: '▲'; color: #36b4ff; margin-right: 2px;}
 /*big letter*/
-.big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #1aa9ff, #7cceff); color: transparent; -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
+.big-letter {float: left; font-size: 100px; font-weight: 900; background: linear-gradient(to right top, #0096e8, #7cceff); color: transparent; -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; line-height: 0.9; margin-bottom: -0.2em; margin-top: -3px; margin-right: 5px;}
   .big-letter.smaller {font-size: 68px;}
   .big-letter.section-head {width: 100%; margin-bottom: 0.2em;}
   /*.midblue-background .big-letter {background: linear-gradient(to right top, #020887, #38369A); color: transparent; -webkit-background-clip: text; background-clip: text;}*/

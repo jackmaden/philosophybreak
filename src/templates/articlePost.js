@@ -1,8 +1,7 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql, Link, Script } from "gatsby"
 import { GatsbyImage, getSrc } from "gatsby-plugin-image";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import { Helmet } from "react-helmet"
 
 import Seo from '../components/SEO'
 import Layout from '../components/layout'
@@ -30,10 +29,8 @@ const ArticlePost = ({ data, location }) => {
   <>
   <Seo title={post.frontmatter.title} description={post.frontmatter.description} image={imagePath} pathname={post.fields.slug} article/>
   
-  {/* convertkit pop up forms*/}
-  <Helmet>
-      {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
-  </Helmet>
+  {/* convertkit desktop pop up form*/}
+  <Script data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
   
   <Layout>
   <Navigation />

@@ -1,13 +1,12 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
-import { Helmet } from "react-helmet"
+import { Script } from "gatsby"
 
 const TitleReadingList = props => (
     <>
-        {/* convertkit pop up forms*/}
-        <Helmet>
-            {/* desktop */}<script async data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
-        </Helmet>
+        {/* convertkit desktop pop up form*/}
+        <Script data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
+        
         <div className="title list">
                 <GatsbyImage
                     image={props.img}
