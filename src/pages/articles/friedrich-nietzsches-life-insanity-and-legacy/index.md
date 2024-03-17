@@ -11,6 +11,10 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
+_This article is a modified extract from my [Introduction to Nietzsche guide](/introduction-to-nietzsche/), in which I distill Nietzsche’s most profound ideas._
+
+---
+
 <span class="big-letter">T</span>he Piazza Carlo Alberto in Turin, Italy, 1889: a troubled Friedrich Nietzsche sees a horse being flogged by its frustrated owner, whinnying in pain and distress. Unable to bear the sight for a moment longer, Nietzsche rushes over and attempts to protectively throw his arms around the horse’s neck. A brief commotion, and Nietzsche collapses to the ground. 
 
 Shortly afterwards, alerted to a public disturbance, two policemen escort Nietzsche away.
@@ -81,11 +85,9 @@ Nietzsche’s philosophical task simply extends this personal objective to human
 
 How can the human race emerge stronger from the recognition of its highly limited and pointless existence? How can it do away with the crutches of superstitious beliefs without succumbing to despair? How can we evolve our philosophy, culture, and values to face up to the problem of nihilism? 
 
-<!--big subscribe-->
+<!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
-    <h4>From the Buddha to Nietzsche: join 10,500+ subscribers enjoying my free Sunday Breakdown</h4>
-    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
+    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
     <div class="small-pad-top">
         <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
         <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
@@ -212,17 +214,11 @@ Firstly, <a target="_blank" rel="noopener noreferrer sponsored" href="https://ww
 
 Aping the New Testament in style, it follows the journey of a prophet named Zarathustra who comes down from the mountains to share his “philosophy of the future” (the parallels with Nietzsche’s own life are not, one might suspect, accidental). 
 
-<a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> is a challenging read and widely open to interpretation, with the key theme being that we must overcome all past value systems and cultivate self-affirmation — a theme embodied by [Nietzsche’s character of the Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), as well as his idea of [the eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/).
+<a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> is a challenging read and widely open to interpretation, with the key theme being that we must overcome all past value systems and cultivate self-affirmation — a theme embodied by [Nietzsche’s character of the Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), as well as his idea of the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/).
 
 The second exception to the aphoristic style rule is Nietzsche’s 1887 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0141195371?&linkCode=ll1&tag=philosophybre-20&linkId=5ec5912e78e9d6bbdff90712b3dca5ea&language=en_US&ref_=as_li_ss_tl">On the Genealogy of Morality</a>, which consists of three longer-form essays and is widely considered (alongside <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">Beyond Good and Evil</a>, of which it was planned as an accompaniment) to be one of Nietzsche’s most important works — if not _the_ most important. 
 
 The Genealogy offers a sustained critique and history of morality, and is among the most studied of Nietzsche’s books today, containing Nietzsche’s discussion of “master” and “slave” morality, and the ascetic ideal.
-
-<!--nietzsche-->
-<div class="course-promo darkradial-background subscribe text-center">
-<img src="/static/649b2208e805144add49c1877ff9edc9/e6e12/Nietzsche-promo.webp" alt="introduction to nietzsche">
-<h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche with our concise online guide.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
-</div>
 
 ## Romantic rejection, and increasing mania
 
@@ -357,7 +353,7 @@ The task we have in Nietzsche scholarship thus lies in gratefully deciphering ex
 
 ## Learn more about Nietzsche’s philosophy, including his 5 most important ideas
 
-<span class="big-letter">T</span>his article is an extract from our online guide, [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/), which consists of 42 self-paced, myth-busting lessons on Nietzsche’s fascinating yet much-misunderstood philosophy.
+<span class="big-letter">T</span>his article is an extract from my online guide, [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/), which consists of 42 self-paced, myth-busting lessons on Nietzsche’s fascinating yet much-misunderstood philosophy.
 
 If you found this brief biological sketch interesting, and are curious to learn more about Nietzsche’s actual philosophy — including his perspectivism, critique of morality, and ideas like his Übermensch, eternal recurrence, and will to power — then consider exploring the full guide now. [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/) gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!
 

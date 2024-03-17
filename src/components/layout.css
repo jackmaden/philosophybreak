@@ -36,6 +36,7 @@ body {font-family: 'Public Sans', sans-serif; font-size: 16px; color: #001d30; t
 /* END OF CSS */
 
 /***general classes***/
+hr {margin-bottom: 3em;}
 .lightblue-background {background-color: #e7f6ff;}
 .midblue-background {background:linear-gradient(to top right, #3682ff, #3650ff);}
 .darkblue-background {background: #1B264F; /*linear-gradient(to top right,#020887,#38369A);*/}
