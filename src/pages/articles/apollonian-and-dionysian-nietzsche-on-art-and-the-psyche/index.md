@@ -1,9 +1,9 @@
 ---
 title: "The Apollonian and Dionysian: Nietzsche On Art and the Psyche"
 description: "Since the time of Socrates, Nietzsche claims that Western culture has generally been too biased towards the ‘Apollonian’ (representing order and rationality) over the ‘Dionysian’ (chaos and vitality) — to the great detriment of art, truth, and the human psyche."
-image: "./bacchus.webp"
-imageAlt: "Ciro Ferri: Triumph of Bacchus"
-imageSeo: "./bacchus.webp"
+image: "./dionysus.jpeg"
+imageAlt: "Delos Museum Mosaik Dionysos 06"
+imageSeo: "./dionysus.jpeg"
 tags: ["Nietzsche", "Aesthetics"]
 date: "2024-03-17"
 author: "Jack Maden"
