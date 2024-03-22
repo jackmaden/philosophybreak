@@ -80,7 +80,7 @@ AI is different because it _does_ replace human comprehension: we cede not just 
 
 This, for Dennett, is what’s dangerous. What happens when the machines break? Will there be enough clued-up human experts to step in? If a coronal mass ejection from the sun were to wipe out global electronics, for example, are we confident civilization could survive?
 
-As [NASA states in an article on solar flares](https://www.nasa.gov/topics/earth/features/2012-superFlares.html):
+As NASA states in an article on solar flares:
 
 >In an increasingly technological world, where almost everyone relies on cell phones and GPS controls not just your in-car map system, but also airplane navigation and the extremely accurate clocks that govern financial transactions, space weather is a serious matter.
 
