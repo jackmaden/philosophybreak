@@ -92,7 +92,7 @@ Of course, while we can aspire to “pierce the veil of selfish consciousness”
 
 The good life for Murdoch is thus a life that attempts to transcend its egoistic concerns. In this way, genuine attentiveness, careful observation, and even the production of art are themselves moral achievements. 
 
-By unselfing, we connect to the Good. Through our patient efforts to see reality and other persons clearly, we express virtue — and, ultimately, our capacity for love.
+By unselfing, we connect to the Good. Through our patient efforts to see reality and other persons clearly, by paying what [Murdoch calls _attention_](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/), we express virtue — and, ultimately, our capacity for love.
 
 ## What do you make of Murdoch’s analysis?
 
@@ -104,7 +104,8 @@ By unselfing, we connect to the Good. Through our patient efforts to see reality
 
 <span class="big-letter">I</span>f you’re interested in learning more philosophical approaches to the self and living a good life, you might enjoy the following related reads:
 
-- [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](https://philosophybreak.com/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
+- [Iris Murdoch on the Morality of Attention, and the Hostile Mother-in-Law](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/)
+- [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)

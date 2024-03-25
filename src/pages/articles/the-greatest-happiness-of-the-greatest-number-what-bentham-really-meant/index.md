@@ -147,6 +147,7 @@ You might also enjoy the following related reads:
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [The 4 Cardinal Virtues: Stoicism’s Roadmap to the Best Life Possible](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/)
 - [Nozick’s Experience Machine vs. Hedonism: Should You Plug In?](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)
+- [Iris Murdoch on the Morality of Attention, and the Hostile Mother-in-Law](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/)
 - [Peter Singer On the Life You Can Save](/articles/peter-singer-on-the-life-you-can-save/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 10,500+ subscribers and signing up below:
