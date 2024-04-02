@@ -37,7 +37,7 @@ As Sartre puts it in his 1946 lecture, <a target="_blank" rel="noopener noreferr
 
 <span class="big-letter">W</span>hile they think existence does indeed precede essence, existentialist philosophers do acknowledge that our self-conscious, first-person existences face a number of constraints. 
 
-Namely: we are embodied, replete with appetites and desires, and placed in particular histories and cultural contexts — we are, as the German philosopher Heidegger put it, _being-in-the-world_, enmeshed in networks of meaning. 
+Namely: we are embodied, replete with appetites and desires, and placed in particular histories and cultural contexts — we are, as the German philosopher Heidegger put it, _being-in-the-world_, enmeshed in networks of meaning. (See [Heidegger’s discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)).
 
 Pre-existing identities and meanings will thus be thrust upon us. French philosopher Simone de Beauvoir notably analyzed this in relation to gender roles with her 1949 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/030727778X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=030727778X&linkId=9ce86319e788dda05f381207ceabe726">The Second Sex</a>, the second section of which begins with the famous line:
 

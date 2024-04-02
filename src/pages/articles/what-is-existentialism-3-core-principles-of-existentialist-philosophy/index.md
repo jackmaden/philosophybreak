@@ -172,7 +172,9 @@ Yale professor Noreen Khawaja, meanwhile, in her work <a target="_blank" rel="no
 
 >the idea of personal authenticity [is] at the center of existential thought.
 
-[Sartre’s famous discussion of the waiter and bad faith](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/) typifies the existentialist approach to authenticity, as does [Beauvoir’s theory of authentic love](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/).
+[Heidegger’s discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/), for instance, suggests a fully-realized human life means taking _ownership_ of our freedom. It is not so much getting in touch with our pre-given feelings or desires, nor some static inner self; it means taking responsibility for the person we are ever-becoming.
+
+[Sartre’s famous discussion of the waiter and bad faith](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/), meanwhile, further exemplifies the existentialist approach to authenticity, as does [Beauvoir’s theory of authentic love](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/).
 
 ## Where does existentialism leave us?
 
@@ -191,6 +193,7 @@ If you’re interested in learning more about existentialist philosophy, you mig
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
+- [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Eternal Recurrence: What Did Nietzsche Really Mean?](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)

@@ -197,6 +197,7 @@ Whose take on _amor fati_ do you prefer? Here are some further questions to cons
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)
+- [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
 - [Stoicism: the Best 6 Books to Read](/reading-lists/stoicism/)
 

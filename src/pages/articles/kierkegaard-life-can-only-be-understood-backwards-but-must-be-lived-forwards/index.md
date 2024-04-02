@@ -104,6 +104,7 @@ If you’d like to reflect more on these themes or Kierkegaard’s philosophy ge
 - [Søren Kierkegaard: The Best 6 Books to Read](/reading-lists/soren-kierkegaard-best-books/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
+- [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [What is Existentialism? 3 Core Principles of Existentialist Philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/)
 
 Finally, if you enjoyed this article, you might like my free Sunday email. I break down one piece of wisdom from philosophy each week, and invite you to share your view. Consider joining 11,000+ thinkers and signing up below (free forever, no spam, unsubscribe any time):

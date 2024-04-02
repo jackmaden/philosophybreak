@@ -57,7 +57,7 @@ By clinging to identity, we shrink and limit ourselves: by denying our existenti
 
 To live in bad faith is to deceive ourselves about the limits of our own freedom: it is to convince ourselves that we have to be a certain way, _or else_ — when really there are far more possibilities available to us.
 
-Indeed, though our lives take place in the wider context of society (and everything we must do to forge a life for ourselves and our loved ones), bad faith arises from _self-imposed_ constraints on how we view ourselves or spend our lives: bad faith is the denial of our _own_ freedom.
+Indeed, as [Heidegger notes in his discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/), though our lives take place in the wider context of society (and everything we must do to forge a life for ourselves and our loved ones), bad faith arises from _self-imposed_ constraints on how we view ourselves or spend our lives: bad faith is the denial of our _own_ freedom.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -108,6 +108,7 @@ Instead, though it initially may feel uncomfortable or disruptive, we shouldn’
 
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
+- [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/) (a counterpoint to Sartre: why living according to predefined social roles is not inauthentic, but an important part of what it means to be human)
