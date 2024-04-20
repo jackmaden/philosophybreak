@@ -147,6 +147,8 @@ const Page = ({ data, location }) => {
                 <BannerReadingList title="Albert Camus" number="5" link="/reading-lists/albert-camus/" img={data.camus.childImageSharp.gatsbyImageData} alt="Albert Camus reading list" />
 
                 <BannerReadingList title="Alan Watts" number="5" link="/reading-lists/alan-watts/" img={data.watts.childImageSharp.gatsbyImageData} alt="Alan Watts reading list" />
+
+                <BannerReadingList title="Daniel Dennett" number="5" link="/reading-lists/daniel-dennett-best-books/" img={data.dennett.childImageSharp.gatsbyImageData} alt="Daniel Dennett reading list" />
                 
 
                 <div class="large-pad-top text-center">
@@ -362,6 +364,11 @@ export const query = graphql`{
     }
   }
   marx: file(relativePath: {eq: "marx.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  dennett: file(relativePath: {eq: "Dennett.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

@@ -42,7 +42,7 @@ const ReadingList = ({ data, location }) => {
               <h2>2. Consciousness Explained, by Daniel Dennett</h2>
               <BookLink title="Consciousness Explained" author="Daniel Dennett" link="http://www.amazon.com/gp/product/0316180661/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316180661&linkId=f6d2896ad24294b31955a1470b9fb918" img={data.two.childImageSharp.gatsbyImageData} />
               <p>Daniel Dennett's landmark <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0316180661/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316180661&linkId=f6d2896ad24294b31955a1470b9fb918">Consciousness Explained</a>, published in 1991, is packed full of mind-bending thought experiments about how we experience the world.</p>
-              <p>Dennett believes many of our difficulties with consciousness - including the 'hard problem' - are mere illusions (sorry Chalmers!). An entertaining and stimulating read, this book will seriously challenge your intuitions.</p>
+              <p>Dennett believes many of our difficulties with consciousness - including the 'hard problem' - are mere illusions (sorry Chalmers!). An entertaining and stimulating read, this book will seriously challenge your intuitions. (See my full list of <Link to="/reading-lists/daniel-dennett-best-books/">Dennett's best books here</Link>).</p>
 
               <BigSubscribe />
               

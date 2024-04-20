@@ -33,7 +33,7 @@ Perhaps the AI would channel all our electricity to power its own intellectual p
 
 While influential figures across AI research and various governments express real concern about the singularity, however, American philosopher Daniel Dennett doesn’t buy it.
 
-In the final chapter of his book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds-ebook/dp/B01HDSU2KY?&linkCode=ll1&tag=philosophybre-20&linkId=ed980bd711d48ce0e2e40cdd4c651278&language=en_US&ref_=as_li_ss_tl">From Bacteria to Bach and Back</a>, Dennett reflects on the role technology is playing and will come to play in our lives. As he puts it:
+In the final chapter of his book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds-ebook/dp/B01HDSU2KY?&linkCode=ll1&tag=philosophybre-20&linkId=ed980bd711d48ce0e2e40cdd4c651278&language=en_US&ref_=as_li_ss_tl">From Bacteria to Bach and Back</a>, which features on my list of [Dennett’s best books](/reading-lists/daniel-dennett-best-books/), Dennett reflects on the role technology is playing and will come to play in our lives. As he puts it:
 
 >I am not worried about humanity creating a race of super-intelligent agents destined to enslave us, but that does not mean I am not worried. I see other, less dramatic, but much more likely, scenarios in the immediate future that are cause for concern and call for immediate action.
 

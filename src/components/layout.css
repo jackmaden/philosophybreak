@@ -616,6 +616,8 @@ div.separator.course.chapter {width: 136px; margin: -3px auto 10px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
+div.attribution span {font-style: italic; font-size: 13px; margin-top: 10px; display: block; color: rgba(255, 255, 255, 0.75)}
+div.attribution span a {color: rgba(255, 255, 255, 0.75); text-decoration-color: rgba(255, 255, 255, 0.75);}
 @media (min-width: 620px) {
   .time.tag {font-size: 12px; margin-bottom: 6px;}
   .time.tag.home {font-size: 14px;}
@@ -633,6 +635,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.course.chapter {width: 164px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}
+  div.attribution span {font-size: 15px;}
 }
 @media (min-width: 1020px) {
   div.separator.reading-list, div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {display: block;}
