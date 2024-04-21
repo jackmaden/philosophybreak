@@ -37,6 +37,10 @@ const ReadingList = ({ data, location }) => {
 
             <p>Dennett wrote provocatively and persuasively not just on consciousness, however, but across a whole range of philosophical problems — from philosophy of mind and the ethics of AI (see <Link to="/articles/what-happens-when-machines-become-smarter-than-people/">Dennett on the dangers of AI here</Link>), to free will, religion, and the philosophy of science.</p>
 
+            <p>One of my favorite lines from Dennett comes from his 2006 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338?&linkCode=ll1&tag=philosophybre-20&linkId=7c3422a26cc9e4abfcbe4b91affcee1c&language=en_US&ref_=as_li_ss_tl">Breaking the Spell: Religion as a Natural Phenomenon</a>:</p>
+
+            <blockquote><p>If you can approach the world’s complexities, both its glories and its horrors, with an attitude of humble curiosity, acknowledging that however deeply you have seen, you have only scratched the surface, you will find worlds within worlds, beauties you could not heretofore imagine, and your own mundane preoccupations will shrink to proper size, not all that important in the greater scheme of things.</p></blockquote>
+
             <p>This reading list consists of my picks of the best 5 books for getting started with Dennett.</p>
             
             <p>While there are many articles, essays, and works to choose from (including Dennett’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Ive-Been-Thinking-Daniel-Dennett/dp/0393868052?&linkCode=ll1&tag=philosophybre-20&linkId=1660966e7e1b0208eefb874638d35d06&language=en_US&ref_=as_li_ss_tl">recently released memoirs</a>), I’ve aimed to select a representative sample covering his core areas of concern.</p>
@@ -59,11 +63,11 @@ const ReadingList = ({ data, location }) => {
               <h2>2. Darwin’s Dangerous Idea: Evolution and the Meanings of Life, by Daniel Dennett</h2>
               <BookLink title="Darwin’s Dangerous Idea: Evolution and the Meanings of Life" author="Daniel Dennett" link="https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X?&linkCode=ll1&tag=philosophybre-20&linkId=6d9f7c58e74c53c9a60dbe0676fae0fa&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
 
-              <p>In his 1995 book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X?&linkCode=ll1&tag=philosophybre-20&linkId=6d9f7c58e74c53c9a60dbe0676fae0fa&language=en_US&ref_=as_li_ss_tl">Darwin’s Dangerous Idea: Evolution and the Meanings of Life</a>, Dennett suggests that we still haven’t fully digested the power and implications of the Darwinian Revolution. He seeks to rectify that by illuminating and discussing the state of play in evolutionary biology, and the consequences it has for our understanding of ourselves and the cosmos generally.</p>
+              <p>In his 1995 book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X?&linkCode=ll1&tag=philosophybre-20&linkId=6d9f7c58e74c53c9a60dbe0676fae0fa&language=en_US&ref_=as_li_ss_tl">Darwin’s Dangerous Idea: Evolution and the Meanings of Life</a>, Dennett suggests that we still haven’t fully digested the power and implications of the Darwinian Revolution.</p>
+              
+              <p>Dennett seeks to rectify that by illuminating and discussing the state of play in evolutionary biology, and the consequences it has for our understanding of ourselves and the cosmos generally.</p>
             
-                <p>An accessible whirlwind of a read, some claim this is Dennett’s best book. Given the explanatory power of the prose, it’s difficult to disagree. In one section, Dennett writes:</p>
-
-                <blockquote><p>If you can approach the world’s complexities, both its glories and its horrors, with an attitude of humble curiosity, acknowledging that however deeply you have seen, you have only scratched the surface, you will find worlds within worlds, beauties you could not heretofore imagine, and your own mundane preoccupations will shrink to proper size, not all that important in the greater scheme of things.</p></blockquote>
+                <p>An accessible whirlwind of a read, some claim this is Dennett’s best book — and given the explanatory power of the prose, it’s difficult to disagree.</p>
                 
                 <p>If you’re interested in reading a brilliantly insightful philosophical exploration of evolution and natural selection, look no further than <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X?&linkCode=ll1&tag=philosophybre-20&linkId=6d9f7c58e74c53c9a60dbe0676fae0fa&language=en_US&ref_=as_li_ss_tl">Darwin’s Dangerous Idea</a>.</p>
 
@@ -99,7 +103,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>Amid all the hype around free will being an illusion, Dennett sets out to rescue a nuanced conception of what freedom even means in his 1984 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Elbow-Room-Varieties-Wanting-Bradford/dp/0262527790?&linkCode=ll1&tag=philosophybre-20&linkId=2525e3dbde6055327ee533297333a67c&language=en_US&ref_=as_li_ss_tl">Elbow Room: The Varieties of Free Will Worth Wanting</a>.</p>
 
-              <p>A witty and engaging read, in this landmark book Dennett makes a powerful case for compatibilism, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience — but rather contextualized by them.</p>
+              <p>An often witty and always engaging read, in this landmark book Dennett makes a powerful case for compatibilism, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience — but rather contextualized by them.</p>
 
               <p>Disentangling what he thinks are common errors in thinking around free will — particularly the problematic view that freedom requires “an ability to have done otherwise” — Dennett arms his readers with powerful ways to conceptualize the nuances of the debate.</p>
                 
