@@ -280,7 +280,7 @@ It’s here I look beyond [Epicureanism](/articles/epicureanism-defined-philosop
 - The [Stoics on focusing what we can control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Simone de Beauvoir on cultivating authentic relationships](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/) 
 - [Kierkegaard on living forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
-- [Nietzsche on redefining suffering and embracing fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
+- [Nietzsche on redefining suffering](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Iris Murdoch on unselfing](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)
 - [Thomas Nagel on absurdity](/articles/thomas-nagel-why-humor-best-stance-towards-life-absurdity/)
 - [Peter Singer on altruism](/articles/peter-singer-on-the-life-you-can-save/)

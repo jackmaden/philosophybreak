@@ -108,12 +108,13 @@ For our purposes in this short article, it is enough to regard the eternal recur
 
 ## Learn more about Nietzsche’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my fuller [Introduction to Nietzsche guide](/introduction-to-nietzsche/), of which this article was an extract.
+<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 350+ active members inside).
 
 You might also like the following related reads:
 
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
+- [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)

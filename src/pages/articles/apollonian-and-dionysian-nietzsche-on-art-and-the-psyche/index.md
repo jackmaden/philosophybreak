@@ -284,7 +284,7 @@ Next time you lose yourself in the crowd, become part of something larger than y
 
 ## Learn more about Nietzsche’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my fuller [Introduction to Nietzsche guide](/introduction-to-nietzsche/), of which this article was an extract.
+<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 350+ active members inside).
 
 You might also like the following related reads:
 
@@ -292,6 +292,7 @@ You might also like the following related reads:
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
 - [Eternal Recurrence: What Did Nietzsche Really Mean?](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
+- [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
 

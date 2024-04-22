@@ -181,13 +181,14 @@ Regardless of its accessibility, here are some additional questions we might hav
 
 ## Learn more about Nietzsche’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my fuller [Introduction to Nietzsche guide](/introduction-to-nietzsche/), of which this article was an extract.
+<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 350+ active members inside).
 
 You might also like the following related reads:
 
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
 - [Eternal Recurrence: What Did Nietzsche Really Mean?](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)
+- [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)

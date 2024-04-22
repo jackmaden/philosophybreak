@@ -86,11 +86,14 @@ Regardless, his questions stand: if there is no longer an absolute, incontestabl
  
 <span class="big-letter">A</span>s we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), Nietzsche has his own fascinating answers to the question of how we can overcome nihilism. These answers are most explicitly embodied in his character of the [‘Übermensch’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), commonly translated as the ‘superman’ or ‘overman’ — a picture of what we _could_ be, were we to move _beyond_ good and evil, establish our _own_ naturalized foundations for value, say ‘yes’ to the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/), and each fulfill our potential to _become who we truly are_. 
 
-If you’re interested in learning more about Nietzsche, then consider exploring my fuller [Introduction to Nietzsche guide](/introduction-to-nietzsche/). You might also like the following related reads:
+If you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 350+ active members inside).
+
+You might also like the following related reads:
 
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [Eternal Recurrence: What Did Nietzsche Really Mean?](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
+- [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
