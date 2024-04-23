@@ -1,6 +1,6 @@
 ---
 title: "Nietzsche On Why Suffering is Necessary for Greatness"
-description: "While philosophies like Buddhism and Stoicism operate under the assumption that suffering is bad and should be lessened or transcended, Nietzsche thinks suffering can have real value. In fact, greatness is not possible without suffering."
+description: "While philosophies like Buddhism and Stoicism operate under the assumption that suffering should be lessened or transcended, Nietzsche thinks suffering can have real value. In fact, greatness is not possible without suffering."
 image: "./storm.jpeg"
 imageAlt: "Stormy Sea at Night, by Ivan Aivazovsky"
 imageSeo: "./storm.jpeg"
@@ -54,7 +54,7 @@ Happiness does not exist in isolation; greatness cannot occur without suffering.
 
 Though not exactly enjoyable, suffering thus imbues us with a kind of _tragic wisdom_. 
 
-Perhaps the real measure of a person, Nietzsche goes on to suggest, is _the amount of truth they can withstand_. As we’ve seen him put it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>:
+Perhaps the real measure of a person, Nietzsche goes on to suggest, is _the amount of truth they can withstand_. As he puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>:
 
 >My formula for greatness in a human being is _amor fati:_ that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.
 
