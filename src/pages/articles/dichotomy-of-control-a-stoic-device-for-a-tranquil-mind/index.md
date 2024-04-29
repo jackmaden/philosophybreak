@@ -142,7 +142,7 @@ To illustrate just how focused we must be, Epictetus draws an analogy with saili
 
 >It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing safely; all he has to do is head a little more upwind and disaster is instantaneous. In fact, he does not have to do anything: a momentary loss of attention will produce the same result.
 
-As soon as our focus slips away from what we control in the present, and we fall back into pinning our hopes or fears onto the unknowable future, anxiety returns, and we risk wrecking our chances of a tranquil life. 
+As soon as our focus slips away from what we control [in the present](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/), and we fall back into pinning our hopes or fears onto the unknowable future, anxiety returns, and we risk wrecking our chances of a tranquil life. 
 
 So, all day, every day, we must focus our attention on what we can control: our actions, attitudes, and judgments. This is what will determine the quality of our lives. 
 

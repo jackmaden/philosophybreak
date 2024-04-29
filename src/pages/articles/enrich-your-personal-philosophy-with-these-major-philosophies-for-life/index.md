@@ -72,7 +72,7 @@ A key concept for Aristotle’s philosophy of the good life is _eudaimonia_, a G
 
 Importantly, Aristotle characterizes eudaimonia not as a feeling, but as an _activity_. Living a good, eudaimonic life means using our rationality to flourish and fulfill our potential for excellence in all that we do.
 
-Aristotle tells us that, while luck does have a significant part to play in determining how our lives will turn out, we are all responsible for improving our existences, and many of us are capable of excellence if we put our minds to it.
+Aristotle tells us that while luck does have a significant part to play in determining how our lives will turn out, we are all responsible for improving our existences, and many of us are capable of excellence if we put our minds to it.
 
 The reward for excellence is happiness, for far from a fleeting psychological state, happiness (eudaimonia) consists in _good rational activity_ ― in knowing that we are living well and fulfilling our potential as human beings.
 
@@ -113,7 +113,9 @@ Another distinguishing factor is that, unlike those rival schools, Epicurus’s 
 
 This relatively liberal admissions policy alarmed Epicurus’s opponents, who spread a number of rather slanderous stories about him and his followers. (In their more extreme accusations, for instance, the Stoics said the Epicureans lived in conditions of depraved sexual perversion).
 
-Far from a debaucherous party, however, it is thought life in The Garden was actually remarkably simple. The prevailing diet consisted mainly of bread, water, beans, and a little wine, and the Epicureans spent their days learning, resting, cultivating friendships, avoiding public life, and discussing philosophy.
+Far from a debaucherous party, however, it is thought life in The Garden was actually remarkably simple.
+
+The prevailing diet consisted mainly of bread, water, beans, and a little wine, and the Epicureans spent their days learning, resting, cultivating friendships, avoiding public life, and discussing philosophy.
 
 So, though often caricatured as a rather indulgent, pleasure-obsessed philosophy, Epicureanism is actually more about living life free from anxiety and bodily pain, and places a strong emphasis on friendship and community in the search for a meaningful, happy human life.
 
