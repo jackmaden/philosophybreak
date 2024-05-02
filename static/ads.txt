@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20230822
+# Mediavine Ads.txt v20240429
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -22,9 +22,6 @@ triplelift.com, 4203-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 4203, DIRECT, 6c33edb13117fd86
 triplelift.com, 4116-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 4116, DIRECT, 6c33edb13117fd86
-sovrn.com, 217201, DIRECT, fafdf38b16bf6b2b
-lijit.com, 217201, DIRECT, fafdf38b16bf6b2b
-lijit.com, 217201-eb, DIRECT, fafdf38b16bf6b2b
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
 chicoryapp.com, 1641021363254de6830750e1ca78e06d, DIRECT
 33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
@@ -59,3 +56,4 @@ sharethrough.com, 47b99924, DIRECT, d53b998a7bd4ecd2
 nativo.com, 5705, DIRECT, 59521ca7cc5e9fee
 criteo.com, B-058831, DIRECT, 9fac4a4a87c2a44f
 kargo.com, 8797, DIRECT
+
