@@ -170,6 +170,7 @@ Ultimately, then, Hofstadter thinks research areas like neuroscience won’t hel
 
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [What is Consciousness?](/articles/what-is-consciousness/)
+- [Compatibilism: Philosophy’s Answer to the Free Will Debate](/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/)
 - [Why You Probably Don’t Have Free Will](/articles/free-will-illusion-sam-harris/)
 - [Mind Chat’s Philip Goff and Keith Frankish On Why We Are Conscious](/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious/)
 - [Why ‘Zombies’ Cause Problems for Brain Science and Consciousness](/articles/why-zombies-cause-problems-brain-science-consciousness/)

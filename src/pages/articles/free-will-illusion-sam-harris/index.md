@@ -73,19 +73,15 @@ You might think, ‘I am _consciously deciding_ to read this article, and if you
 
 ## Can we rescue free will from neuroscience?
 
-<span class="big-letter">O</span>f course, this deterministic picture of our paths in life has prompted a vast literature attempting to save our notion of free will. ‘Compatibilism’ is a movement that accepts the neuroscientific picture of the brain but argues there's room within it for the idea that we remain free in how we think and act in all the ways that matter.
+<span class="big-letter">O</span>f course, this deterministic picture of our paths in life has prompted a vast literature attempting to save our notion of free will.
 
-<!--life's big questions-->
-<div class="course-promo darkradial-background subscribe text-center">
-    <img src="/static/ebe39b78c8e94af2caa23791d6608e0e/c5d49/LBQ-promo.webp" alt="life's big questions">
-    <h4>Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h4>
-    <p class="small-grey-font">From why anything exists to how we should live, unlock philosophy’s best answers to life’s big questions.</p>
-    <a class="button primary" href="/lifes-big-questions/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"/></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (50+ reviews for our courses)</p>
-</div>
+‘Compatibilism’ is a movement that accepts the neuroscientific picture of the brain but argues there's room within it for the idea that we remain free in how we think and act in all the ways that matter.
 
-Discussing a full summary of compatibilist positions on free will is beyond the scope of this article (for more here, check out our comprehensive [reading list on free will](/reading-lists/free-will/)) — but one that Harris himself engages, albeit rather lightly, is a view well-articulated by American philosopher Daniel Dennett (see my reading list of [Dennett’s best books here](/reading-lists/daniel-dennett-best-books/)).
+Discussing a full summary of compatibilist positions on free will is beyond the scope of this article (for more here, check out my [compatibilism explainer](/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/)) — but one that Harris himself engages, albeit rather lightly, is a view well-articulated by American philosopher Daniel Dennett (see my reading list of [Dennett’s best books here](/reading-lists/daniel-dennett-best-books/)).
 
-Dennett argues that even if some of our thoughts and actions are the product of unconscious causes, they are still _ours_. Anything that our brains do or decide is something _we_ have done or decided. All Harris has done in his analysis is drive a wedge between our conscious and unconscious selves: we are still free to consciously shape our worlds — and so influence our unconscious — however we desire.
+Dennett argues that even if some of our thoughts and actions are the product of unconscious causes, they are still _ours_. Anything that our brains do or decide is something _we_ have done or decided.
+
+All Harris has done in his analysis is drive a wedge between our conscious and unconscious selves: we are still free to consciously shape our worlds — and so influence our unconscious — however we desire.
 
 ![Daniel Dennett](./daniel-dennett.jpg "Daniel Dennett, posing of his own free will.")
 
@@ -103,7 +99,7 @@ In Harris's view, therefore, compatibilists like Dennett do not address the root
 
 Dennett, of course, is aggrieved by Harris's summation of his position and responds to it in his [book-length review of Harris's Free Will](https://samharris.org/reflections-on-free-will/). Harris then [responds to that response](https://samharris.org/the-marionettes-lament/), eventually leading the two of them to [record a podcast](https://samharris.org/podcasts/free-will-revisited/), in which each responds to the other for over an hour. The two of them may well continue to respond to each other for the rest of their lives.
 
-For our purposes in this article, however, we can say that though the argument rages on, Harris's case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatibilists like Dennett would disagree on this last point).
+For our purposes in this article, however, we can say that though the argument rages on, Harris's case that free will is an illusion — though uncomfortable — is certainly a compelling one, and not fatally defeated by competing theories on the subject (though compatibilists like Dennett would disagree on this last point. For a fuller discussion, see my [compatibilism explainer](/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/)).
 
 The rather scary question we turn to now, therefore, is what if Harris is right?
 

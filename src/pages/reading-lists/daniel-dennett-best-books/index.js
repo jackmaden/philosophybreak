@@ -103,7 +103,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>Amid all the hype around free will being an illusion, Dennett sets out to rescue a nuanced conception of what freedom even means in his 1984 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Elbow-Room-Varieties-Wanting-Bradford/dp/0262527790?&linkCode=ll1&tag=philosophybre-20&linkId=2525e3dbde6055327ee533297333a67c&language=en_US&ref_=as_li_ss_tl">Elbow Room: The Varieties of Free Will Worth Wanting</a>.</p>
 
-              <p>An often witty and always engaging read, in this landmark book Dennett makes a powerful case for compatibilism, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience — but rather contextualized by them.</p>
+              <p>An often witty and always engaging read, in this landmark book Dennett makes a powerful case for <Link to="/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/">compatibilism</Link>, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience — but rather contextualized by them.</p>
 
               <p>Disentangling what he thinks are common errors in thinking around free will — particularly the problematic view that freedom requires “an ability to have done otherwise” — Dennett arms his readers with powerful ways to conceptualize the nuances of the debate.</p>
                 
