@@ -1,5 +1,5 @@
 ---
-title: "Compatibilism: Philosophy’s Answer to the Free Will Debate"
+title: "Compatibilism: Philosophy’s Favorite Answer to the Free Will Debate"
 description: 'Popular claims that free will is an illusion tend to miss that, within philosophy, the debate hinges not on whether determinism is true, but on whether determinism and free will are compatible — and most philosophers working today think they are.'
 image: "./puppet.jpg"
 imageAlt: "Compatibilism: Philosophy’s Favorite Answer to the Free Will Debate"
