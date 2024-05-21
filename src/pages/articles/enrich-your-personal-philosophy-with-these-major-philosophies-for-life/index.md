@@ -211,7 +211,7 @@ Rather than persuade us to believe in anything in particular, the Buddha focuses
 
 Indeed, while the ancient Greeks broadly saw the goal of life as eudaimonia, excellence, and happiness, Buddhists think the purpose of life is _enlightenment:_ seeing the world as it really is, and thus freeing ourselves from suffering. 
 
-The Buddha packages his core teachings in his ‘Four Noble Truths’, which can be summarized as follows: 
+The Buddha packages his core teachings in his [Four Noble Truths](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/), which can be summarized as follows: 
 
 1. There is _dukkha_ (suffering)
 2. Suffering has a cause

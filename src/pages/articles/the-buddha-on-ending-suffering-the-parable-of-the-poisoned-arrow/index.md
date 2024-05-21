@@ -86,7 +86,7 @@ As the late Buddhist monk Thich Nhat Hanh put it while commenting on the parable
 
 One of our most prominent and damaging misconceptions about reality is our confused notion of ‘self’, which you can explore in our brief explainer on [_anātman_, the Buddhist doctrine of no-self](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/).
 
-The Buddha further packages his path to ending suffering with his Four Noble Truths and Eightfold Path, which we’ll discuss in upcoming articles.
+The Buddha further packages his path to ending suffering with his [Four Noble Truths](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/) and Eightfold Path, which we’ll discuss in upcoming articles.
 
 In the meantime — what do you make of the Buddha’s laser focus on suffering? Should eradicating pain and suffering be philosophy’s primary target? Or can metaphysical speculation be useful?
 

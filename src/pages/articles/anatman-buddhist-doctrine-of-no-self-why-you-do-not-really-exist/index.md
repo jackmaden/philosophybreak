@@ -217,7 +217,7 @@ In encouraging detachment from self, then, Buddhism does not look away from real
 
 ## Learn more about Buddhist philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s Four Noble Truths and Eightfold Path — then consider signing up to our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
+<span class="big-letter">I</span>f you’re interested in learning more about no-self, compassion, and other Buddhist teachings on how we can alleviate anxiety, unhappiness, and suffering — including the Buddha’s [Four Noble Truths](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/) and Eightfold Path — then consider signing up to our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">
