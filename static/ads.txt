@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20240429
+# Mediavine Ads.txt v20240529
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -56,4 +56,7 @@ sharethrough.com, 47b99924, DIRECT, d53b998a7bd4ecd2
 nativo.com, 5705, DIRECT, 59521ca7cc5e9fee
 criteo.com, B-058831, DIRECT, 9fac4a4a87c2a44f
 kargo.com, 8797, DIRECT
-
+undertone.com, 4238, DIRECT
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
