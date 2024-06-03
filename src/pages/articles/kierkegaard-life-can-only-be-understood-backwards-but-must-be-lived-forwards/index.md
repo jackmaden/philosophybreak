@@ -41,7 +41,7 @@ No matter what we _want_ to happen, we cannot ever know what _will_ happen, nor 
 
 Our future lives may split into various possibilities in our imaginations, but we can only ever live one of them — and even the one we ‘choose’ is unlikely to go as planned.
 
-Milan Kundera describes this feature of existence succinctly in his 1984 novel <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Unbearable-Lightness-of-Being-audiobook/dp/B0083EFWA8?&linkCode=ll1&tag=philosophybre-20&linkId=3dd6e74e1c24e80f8e7c7064bceb2452&language=en_US&ref_=as_li_ss_tl">The Unbearable Lightness of Being</a>, writing:
+As I discuss in [5 Existential Problems All Humans Share](/articles/5-existential-problems-all-humans-share/), Milan Kundera describes this feature of existence succinctly in his 1984 novel <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Unbearable-Lightness-of-Being-audiobook/dp/B0083EFWA8?&linkCode=ll1&tag=philosophybre-20&linkId=3dd6e74e1c24e80f8e7c7064bceb2452&language=en_US&ref_=as_li_ss_tl">The Unbearable Lightness of Being</a>, writing:
 
 >Human life occurs only once, and the reason we cannot determine which of our decisions are good and which bad is that in a given situation we can only make one decision; we are not granted a second, third or fourth life in which to compare various decisions.
 

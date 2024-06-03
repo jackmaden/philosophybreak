@@ -191,6 +191,7 @@ This rather spiritual struggle takes place against the backdrop of an uncaring, 
 If you’re interested in learning more about existentialist philosophy, you might like the following related reads:
 
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
+- [5 Existential Problems All Humans Share](/articles/5-existential-problems-all-humans-share/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
