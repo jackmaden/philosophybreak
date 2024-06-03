@@ -1,9 +1,9 @@
 ---
 title: "5 Existential Problems All Humans Share"
 description: "Though we may all be unique individuals — from different backgrounds, living in different circumstances — we find common ground in the feelings of pain, isolation, and existential angst that structure our shared human condition."
-image: "./picasso-b.jpeg"
-imageAlt: "The Blue Room, by Picasso"
-imageSeo: "./picasso-b.jpeg"
+image: "./picasso-blues.jpeg"
+imageAlt: "The Soup, by Pablo Picasso"
+imageSeo: "./picasso-blues.jpeg"
 tags: ["Existentialism"]
 date: "2024-06-03"
 author: "Jack Maden"
