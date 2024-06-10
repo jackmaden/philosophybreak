@@ -368,7 +368,7 @@ If you’re interested in learning more about existentialism, you might like the
 
 <span class="big-letter">I</span> asked this question to Philosophy Break’s 13,000+ subscribers, as well as what they think makes life worth living, and their answers represent a goldmine of wisdom and life experience. I feature them in this article: [How to Live a Fulfilling Life, According to Philosophy Break Subscribers](/articles/how-to-live-a-fulfilling-life-according-to-philosophy-break-subscribers/).
 
-Finally, the introductions above offer only a tiny insight into the depth and wisdom of the major philosophies covered. If you’re interested in cultivating a fuller understanding of how they can enrich your personal philosophy, you might like my self-paced guide, [How to Live a Good Life](/how-to-live-a-good-life/), which explores and compares each philosophy across 56 concise lessons. Join 350+ members inside:
+Finally, the introductions above offer only a tiny insight into the depth and wisdom of the major philosophies covered. If you’re interested in cultivating a fuller understanding of how they can enrich your personal philosophy, you might like my self-paced guide, [How to Live a Good Life](/how-to-live-a-good-life/), which explores and compares each philosophy across 56 concise lessons. Join 400+ members inside:
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

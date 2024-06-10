@@ -99,7 +99,7 @@ And as the Buddha fittingly advises, in what are reported to be his last ever wo
 
 ## Learn more practical wisdom from philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more of these kinds of thinking tools from Stoicism and Buddhism, then a wealth of practical philosophy awaits you in my [How to Live a Good Life](/how-to-live-a-good-life/) course, which distills the best wisdom from these and 5 additional philosophies for living (including Aristotle, Existentialism, Confucianism, and more)... join me and 350+ members discussing philosophy inside.
+<span class="big-letter">I</span>f you’re interested in learning more of these kinds of thinking tools from Stoicism and Buddhism, then a wealth of practical philosophy awaits you in my [How to Live a Good Life](/how-to-live-a-good-life/) course, which distills the best wisdom from these and 5 additional philosophies for living (including Aristotle, Existentialism, Confucianism, and more)... join me and 400+ members discussing philosophy inside.
 
 You might also like the following related reads:
 
