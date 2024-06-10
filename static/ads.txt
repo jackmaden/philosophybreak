@@ -1,15 +1,15 @@
-# Mediavine Ads.txt v20240529
+# Mediavine Ads.txt v20240606
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
 mediavine.com, b9ecca0a58225ae64aa9d505e12f1da2, DIRECT, 1363c924529b3998
 aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
 appnexus.com, 3626, DIRECT, f5ab79cb980f11d1
-indexexchange.com, 184188, DIRECT
-indexexchange.com, 184807, DIRECT
-indexexchange.com, 190601, DIRECT
-indexexchange.com, 193478, DIRECT
-indexexchange.com, 189263, DIRECT
+indexexchange.com, 184188, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 184807, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 190601, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 193478, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 189263, DIRECT, 50b1c356f2c5c8fc
 google.com, pub-1601477034266482, DIRECT, f08c47fec0942fa0
 google.com, pub-1601477034266482, RESELLER, f08c47fec0942fa0
 openx.com, 537154278, DIRECT, 6a698e2ec38604c6
