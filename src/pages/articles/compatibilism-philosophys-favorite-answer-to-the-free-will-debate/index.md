@@ -23,7 +23,7 @@ The view that free will is an illusion is increasingly infiltrating the mainstre
 
 (In case you’re not familiar with them, I cover Harris’s arguments for [free will being an illusion here](/articles/free-will-illusion-sam-harris/)).
 
-Persuasive as they may be, however, advances in neuroscience and brain research simply bring into sharp focus what has long been a problem for free will: that we are embodied beings living a physical world seemingly determined by cause and effect. 
+Persuasive as they may be, however, advances in neuroscience and brain research simply bring into sharp focus what has long been a problem for free will: that we are embodied beings living in a physical world seemingly determined by cause and effect. 
 
 As the Roman philosopher Lucretius asked 2,000 years ago in his epic poem <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90">On The Nature of Things</a>, for instance:
 

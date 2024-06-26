@@ -164,6 +164,7 @@ module.exports = {
                         options: {
                           maxWidth: 600,
                           showCaptions: true,
+                          quality: 80,
                           withWebp: true,
                           linkImagesToOriginal: false,
                           wrapperStyle: `margin: 2.2em 0 2em;`
