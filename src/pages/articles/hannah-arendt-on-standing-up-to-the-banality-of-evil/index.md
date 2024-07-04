@@ -5,7 +5,7 @@ image: "./arendtevil.jpg"
 imageAlt: "Hannah Arendt Banality of Evil"
 imageSeo: "./hannaharendt.jpg"
 tags: ["Hannah Arendt", "Morality"]
-date: "2020-05"
+date: "2024-07-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
@@ -20,15 +20,29 @@ Born into a secular-Jewish family, Arendt fled Nazi Germany in the 1930s, eventu
 
 In her report for The New Yorker, and later published in her 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a>, Arendt expressed how disturbed she was by Eichmann — but for reasons that might not be expected.
 
-Far from the monster she thought he’d be, Eichmann was instead a rather bland, “terrifyingly normal” bureaucrat. He carried out his murderous role with calm efficiency not due to an abhorrent, warped mindset, but because he’d absorbed the principles of the Nazi regime so unquestioningly — never considering their consequences from anyone’s perspective but his own — that his focus was simply to further his career within the regime and climb its ladders of power. 
+Far from the monster she thought he’d be, Eichmann was instead a rather bland, “terrifyingly normal” bureaucrat. He carried out his murderous role with calm efficiency not due to an abhorrent, warped mindset, but because of “a curious, quite authentic inability to think.”
 
-Eichmann embodied “the dilemma between the unspeakable horror of the deeds and the undeniable ludicrousness of the man who perpetrated them.” His actions were defined not so much by thought, but by the _absence_ of thought — convincing Arendt of the “banality of evil.”
+His evil actions, Arendt noted,
+
+>could not be traced to any particularity of wickedness, pathology or ideological conviction in the doer, whose only personal distinction was a perhaps extraordinary shallowness.
+
+Eichmann absorbed the principles of the Nazi regime so unquestioningly — never considering their consequences from anyone’s perspective but his own — that his focus was simply to further his career within the regime and climb its ladders of power.
+
+For Arendt, he embodied 
+
+>the dilemma between the unspeakable horror of the deeds and the undeniable ludicrousness of the man who perpetrated them.
+
+His actions were defined not so much by thought, but by the _absence_ of thought — convincing Arendt of the “banality of evil.”
 
 ## The banality of evil: evil is not monstrous, it takes place under the guise of ‘normality’
 
-<span class="big-letter">T</span>he “banality of evil” is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with. Rather, evil is perpetuated when immoral principles become normalized over time by people who do not think about things from the standpoint of others. Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.
+<span class="big-letter">T</span>he “banality of evil” is the idea that evil does not have the Satan-like, villainous appearance we might typically associate it with.
 
-This idea is best understood within the context of how Arendt viewed our relationship to the world. We live and think not in isolation, Arendt argues, but in an interconnected web of social and cultural relations — a framework of shared languages, behaviors, and conventions that we are conditioned by every single day. 
+Rather, evil is perpetuated when immoral principles become normalized over time by people who do not think about things from the standpoint of others.
+
+Evil becomes commonplace; it becomes the everyday. Ordinary people — going about their everyday lives — become complicit actors in systems that perpetuate evil.
+
+This idea is best understood within the context of how Arendt viewed our relationship to the world. We live and think not in isolation, but in an interconnected web of social and cultural relations — a framework of shared languages, behaviors, and conventions that we participate in every single day. 
 
 This web of social and cultural relations is so all-encompassing in shaping our thought and behavior we are barely conscious of it. It only becomes noticeable when something or someone doesn’t conform to it. 
 
@@ -36,15 +50,21 @@ For example, if you were invited to a formal dinner, and proceeded to forego cut
 
 ![Hannah Arendt](./hannaharendt.jpg "“The ideal subject of totalitarian rule is not the convinced Nazi or the dedicated Communist, but people for whom the distinction between fact and fiction, true and false, no longer exist” — Hannah Arendt in her 1951 work, The Origins of Totalitarianism.")
 
-But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors? For Arendt, the answer to these questions is largely no — and it is precisely our tendency to adopt judgements without thinking that allows evil's banality to flourish. 
+But do we ever take the time to truly challenge the principles we’ve inherited, to ensure they stand up to our own individual scrutiny? Are we even aware of our biases and learned behaviors?
 
-For, if we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re ‘normal’.
+Arendt provides a warning here — for it is precisely our tendency to adopt judgments without thinking that allows evil’s banality to flourish. 
 
-<!--big subscribe-->
+If we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re ‘normal’.
+
+In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not just the responsibility of a handful of twisted men. Those men kickstarted it, but society enabled it: a lack of empathetic critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.
+
+Arendt had Nazi Germany as her template, but argued systemic oppression and the gradual normalization of evil can occur anywhere, any time, and at any scale.
+
+Can you think of anything you’re desensitized to today?
+
+<!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
-    <h4>From the Buddha to Nietzsche: join 13,000+ subscribers enjoying my free Sunday Breakdown</h4>
-    <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
+    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
     <div class="small-pad-top">
         <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
         <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
@@ -59,19 +79,37 @@ For, if we’re not careful, evil principles can gradually emerge to become the 
     </div>
 </div>
 
-In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not the responsibility of a handful of twisted men. Those men kickstarted it, but society enabled it: a lack of empathetic critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.
-
-Arendt had Nazi Germany as her template, but argued systemic oppression and the gradual normalization of evil can occur anywhere, any time, and at any scale.
-
-Can you think of anything you’re desensitized to today?
-
 ## Standing up to evil’s banality
 
-<span class="big-letter">A</span>rendt’s 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a> remains a fascinatingly relevant read, delving deeply into the systems that drive our moral standards and consequent behavior. Her view on evil’s banality suggests its antidote begins in active, empathetic thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda. 
+<span class="big-letter">A</span>rendt’s 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a> remains a fascinatingly relevant and disturbing read.
 
-In other words, it is only through _thinking for ourselves_ that we avoid drowning in the tidal wave of information, custom, and circumstance the world throws at us. It’s not easy, but by practicing philosophy — by actively, carefully considering matters from multiple perspectives — we can weigh things and take responsibility for our judgements and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.  
+While at the time many criticized Arendt for seemingly letting Eichmann off the hook and placing the blame on society at large, Arendt argued this was a misreading of her position.
 
-To ensure your thoughts are always stimulated, and to learn more about the work of brilliant philosopher Hannah Arendt, we’ve put together a reading list of [the best six books by and about Arendt](/reading-lists/hannah-arendt/). Check it out by hitting the banner below now.
+Eichmann as an individual was fully responsible for his monstrous actions, Arendt thought: she repeatedly declared him a war criminal and supported his death sentence. What she was startled by and alerting us to was the _nature_ of his monstrosity. He was not a Demon from Hell; he was a shallow, unthinking person in human society.
+
+Arendt went on to explore this connection between thought and morality in subsequent works, asking in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">The Life of the Mind</a> whether 
+
+>the activity of thinking as such, the habit of examining whatever happens to come to pass or to attract attention, regardless of results and specific content, [could] be among the conditions that make men abstain from evil-doing or even actually ‘condition’ them against it?
+
+While she died before completing <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">The Life of the Mind</a>, Arendt provided compelling insight into her position in a 1964 letter to Gershom Scholem:
+
+>It is indeed my opinion now that evil is never ‘radical’, that it is only extreme, and that it possesses neither depth nor any demonic dimension. It can overgrow and lay waste the whole world precisely because it spreads like a fungus on the surface... Only the good has depth that can be radical.
+
+In other words: evil spreads through shallow passivity, a lack of interest in engaging beyond the surface; a deep and compassionate fighting spirit is needed to keep goodness alive. _Thinking carefully for ourselves_ provides a raft by which to navigate the daily waves of information, custom, and circumstance.
+
+Indeed, evil’s banality suggests its antidote begins in active, empathetic thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda.
+
+It’s not always easy, but by approaching life _philosophically_ — by actively, carefully considering matters from multiple perspectives — we can weigh things and take responsibility for our judgments and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.
+
+## What do you make of Arendt’s banality of evil?
+
+- Do you agree with Arendt’s assessment that there is nothing radical about evil — that it arises through a failure of empathetic imagination?
+- Is critical thinking a way to protect against evil?
+- Or do evil’s roots go deeper than Arendt supposes?
+
+## Learn more about Arendt’s philosophy
+
+<span class="big-letter">I</span>f you’re interested in learning more about the brilliant, challenging, and insightful work of Hannah Arendt, I’ve put together a reading list of [the best six books by and about Arendt](/reading-lists/hannah-arendt/):
 
 <a class="reading-list cta" href="/reading-lists/hannah-arendt/">
     <img class="title-img" src="./hannah-arendt.jpeg"/>
