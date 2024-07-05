@@ -4,13 +4,13 @@ description: "For 20th-century German philosopher Hannah Arendt, most evil is co
 image: "./arendtevil.jpg"
 imageAlt: "Hannah Arendt Banality of Evil"
 imageSeo: "./hannaharendt.jpg"
-tags: ["Hannah Arendt", "Morality"]
-date: "2024-07-02"
+tags: ["Hannah Arendt", "Ethics"]
+date: "2024-07-06"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century German philosopher [Hannah Arendt](/reading-lists/hannah-arendt/) throughout her life and work, and in her final (and unfinished) 1977 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3">The Life of the Mind</a>, she seems to offer a conclusion, writing: 
+<span class="big-letter">W</span>here does evil come from? Are evil acts always committed by evil people? Whose responsibility is it to identify and stamp out evil? These questions concerned 20th-century philosopher [Hannah Arendt](/reading-lists/hannah-arendt/) throughout her life and work, and in her final (and unfinished) 1977 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0156519925/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156519925&linkId=39c39f1a44d33157a2cdf520111582c3">The Life of the Mind</a>, she seems to offer a conclusion, writing: 
 
 >The sad truth is that most evil is done by people who never make up their minds to be good or evil.
 
