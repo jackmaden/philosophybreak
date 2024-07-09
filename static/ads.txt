@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20240624
+# Mediavine Ads.txt v20240702
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -60,6 +60,7 @@ undertone.com, 4238, DIRECT
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
-
 video.unrulymedia.com, 3408527385, DIRECT
+trustx.org, 4113, DIRECT, 1d2c8a747a749d25
+
 
