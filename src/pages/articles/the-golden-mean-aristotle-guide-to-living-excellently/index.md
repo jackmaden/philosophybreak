@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">A</span>ristotle’s ethics was centered around the pursuit of _eudaimonia_, meaning happiness or flourishing. Aristotle believed we could achieve _eudaimonia_ by using reason excellently in everything we do. 
+<span class="big-letter">A</span>ristotle’s ethics was centered around the pursuit of _eudaimonia_, meaning happiness or flourishing — and he believed we could achieve _eudaimonia_ by using reason excellently in everything we do. 
 
 However, we might think: it’s all well and good to define happiness as ‘excellent rational activity’. But what does excellence really mean? How _can_ we act excellently? How can we make good choices and deploy our rationality to live happy lives? 
 
