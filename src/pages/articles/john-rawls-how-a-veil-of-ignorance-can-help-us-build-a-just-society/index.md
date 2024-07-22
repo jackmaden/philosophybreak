@@ -80,6 +80,7 @@ You might also enjoy the following related reads:
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
+- [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 14,000+ subscribers and signing up below:
 
