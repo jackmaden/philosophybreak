@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">A</span>re you the free citizen of a liberal democracy? Or are you the relatively powerless subject of a ruthless, private dictatorship?
 
-These are the questions posed by contemporary philosopher Elizabeth Anderson in her famous 2014 Tanner Lectures, later compiled into a short but compelling book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Y7rZ5F">Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)</a> — featuring Anderson’s original lectures, critiques from other thinks, and Anderson’s response to those critiques. 
+These are the questions posed by contemporary philosopher Elizabeth Anderson in her famous 2014 Tanner Lectures, later compiled into a short but compelling book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Y7rZ5F">Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)</a> — featuring Anderson’s original lectures, critiques from other thinkers, and Anderson’s response to those critiques. 
 
 In her original lectures, Anderson argues that while authoritarianism has seemingly been conquered in the public constitutions of western liberal democracies, it’s alive and well in the private sphere.
 
@@ -131,7 +131,7 @@ As Anderson concludes <a target="_blank" rel="noopener noreferrer sponsored" hre
 
 <span class="big-letter">I</span>f you’re interested in learning more about Anderson’s arguments, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Y7rZ5F">Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)</a> is a compelling read, featuring Anderson’s original lectures, critiques from other thinkers, and Anderson’s replies to those critiques.
 
-You might also like the following related articles:
+You might also enjoy the following related articles:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
