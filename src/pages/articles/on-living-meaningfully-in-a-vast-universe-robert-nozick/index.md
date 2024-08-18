@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">W</span>hen you look up at a clear night’s sky, what thoughts run through your head? Do the stars, burning trillions of miles away, their light — traveling at 186,000 miles per second — taking many years to reach us, make you feel awed? Curious? Inspired?
+<span class="big-letter">W</span>hen you look up at a clear night’s sky, what thoughts run through your head? Do the stars, burning trillions of miles away — their light traveling at 186,000 miles per second yet taking many years to reach us — make you feel awed? Curious? Inspired?
 
 Or does the vast size and mystery of the universe make you feel rather queasily insignificant? 
 
@@ -29,9 +29,9 @@ Our daily fluctuations in mood are a mere drop; the oceans of existence have bee
 
 <span class="big-letter">P</span>erhaps as well as defusing our everyday worries, adding this kind of perspective to our lives also risks making us feel insignificant. 
 
-After all, with or without us, the oceans will go on lapping; the planets will continue orbiting; stars will form and burn out.
+After all, with or without us, the oceans will go on lapping, the planets will continue orbiting, stars will form and burn out.
 
-How might we identify with or take comfort from the vast, mysterious processes that govern existence, if the parts we play in that existence are merely superfluous? 
+How might we identify with or take comfort from the vast, secret processes that govern existence, if the parts we play are merely superfluous? 
 
 But Nozick wants to push back on this concern. “If you take away from the vastness of existence everything that is unnecessary or replaceable,” he writes, “the truncated existence that remains is not nearly as wonderful.” He continues: 
 
