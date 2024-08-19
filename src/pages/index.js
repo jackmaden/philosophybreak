@@ -54,7 +54,7 @@ const Page = ( {data} ) => {
               <div className="text-center desktop-no-display">
                 <div className="separator"></div>
               </div>
-              <p className="small-grey-font" style={{marginBottom: 0}}>From the Buddha to Nietzsche: join 14,000+ subscribers enjoying a nugget of profundity from the great philosophers every Sunday:</p>
+              <p className="small-grey-font" style={{marginBottom: 0}}>From the Buddha to Nietzsche: join 15,000+ subscribers enjoying a nugget of profundity from the great philosophers every Sunday:</p>
               <WelcomeEmailForm />
               <p className="tiny-mar-top no-mar-bottom review-font" style={{fontSize: "14px"}}>💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
             </div>
