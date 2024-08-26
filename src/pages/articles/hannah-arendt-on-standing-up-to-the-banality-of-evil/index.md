@@ -109,7 +109,7 @@ It’s not always easy, but by approaching life _philosophically_ — by activel
 
 ## Learn more about Arendt’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about the brilliant, challenging, and insightful work of Hannah Arendt, I’ve put together a reading list of [the best six books by and about Arendt](/reading-lists/hannah-arendt/):
+<span class="big-letter">I</span>f you’re interested in learning more about her brilliant, challenging, and insightful work, you might like my article on [Arendt’s critique of the human condition: that productivity is replacing meaning](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/). I’ve also put together a reading list of [the best six books by and about Arendt](/reading-lists/hannah-arendt/):
 
 <a class="reading-list cta" href="/reading-lists/hannah-arendt/">
     <img class="title-img" src="./hannah-arendt.jpeg"/>

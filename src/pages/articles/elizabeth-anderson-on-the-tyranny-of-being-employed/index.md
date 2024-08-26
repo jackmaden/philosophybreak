@@ -87,7 +87,7 @@ Yes, employees freely enter contracts; but those contracts are drawn up and deci
 
 And yes, employees are free to quit; but the freedom to exit does not equate to _actual freedom_.
 
-Because: what happens next? In many cases, stringent non-compete causes limit the possible options — and, even if a worker is free to join a competitor without the threat of a lawsuit, it’s like telling someone in one dictatorship they are free to migrate to another.
+Because: what happens next? In many cases, stringent non-compete clauses limit the possible options — and, even if a worker is free to join a competitor without the threat of a lawsuit, it’s like telling someone in one dictatorship they are free to migrate to another.
 
 Anderson draws a powerful analogy with the law of coverture here. Under coverture, as soon as a woman marries a man, she loses all rights to own property and make contracts in her own name. Even if we made it easy for women under coverture to divorce their husbands (which, historically, it wasn’t at all), we can see how the institution of marriage would remain fundamentally imbalanced and unjust between men and women. 
 
@@ -134,6 +134,7 @@ As Anderson concludes <a target="_blank" rel="noopener noreferrer sponsored" hre
 You might also enjoy the following related articles:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
+- [Hannah Arendt on the Human Condition: Productivity Will Replace Meaning](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)
 
