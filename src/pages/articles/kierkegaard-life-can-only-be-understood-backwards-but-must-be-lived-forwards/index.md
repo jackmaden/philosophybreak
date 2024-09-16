@@ -103,6 +103,7 @@ If you’d like to reflect more on these themes or Kierkegaard’s philosophy ge
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Søren Kierkegaard: The Best 6 Books to Read](/reading-lists/soren-kierkegaard-best-books/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
+- [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [What is Existentialism? 3 Core Principles of Existentialist Philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/)
