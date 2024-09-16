@@ -66,7 +66,7 @@ Many disagree with Nietzsche’s championing of the ‘aesthetic’ over the ‘
 
 ## Learn more about Nietzsche’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about his philosophy, you might like my reading list outlining [Nietzsche’s best books](/reading-lists/friedrich-nietzsche/). You might also like the following related reads:
+<span class="big-letter">I</span>f you’re interested in learning more about his philosophy, consider exploring my reading list outlining [Nietzsche’s best books](/reading-lists/friedrich-nietzsche/). You might also like the following related reads:
 
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
