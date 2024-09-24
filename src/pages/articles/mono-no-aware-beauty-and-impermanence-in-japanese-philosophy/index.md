@@ -96,6 +96,7 @@ As those picnicking under the _sakura_ trees know: the brief glory of life is no
 
 <span class="big-letter">I</span>f you’re interested in learning more about impermanence and Buddhist philosophy, you might enjoy the following related reads:
 
+- [Anicca: Our Collective Way of Life Won’t Exist Soon](/articles/anicca-our-collective-way-of-life-wont-exist-soon/)
 - [The Last Time Meditation: a Stoic Tool for Living in the Present](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/)
 - [Seneca On Coping with the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)

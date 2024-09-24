@@ -183,7 +183,7 @@ By releasing ourselves from the distorting gravity of self, we see that we are j
 
 ## How can we apply anātman to everyday life?
 
-<span class="big-letter">T</span>he Buddhist picture of reality is very far from our everyday view of the world: everything is impermanent, everything is composite, and the self does not really exist.
+<span class="big-letter">T</span>he Buddhist picture of reality is very far from our everyday view of the world: everything is impermanent (captured by the Pali word, [_anicca_](/articles/anicca-our-collective-way-of-life-wont-exist-soon/)), everything is composite, and the self does not really exist.
 
 When going about our days, we probably don’t have these truths at the forefront of our minds. We might agree with them in quiet moments of reflection, but if we’re eating cereal, or thanking a colleague, we’re probably not thinking ‘life is transient and the self is an illusion.’
 

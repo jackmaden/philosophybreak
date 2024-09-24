@@ -162,6 +162,7 @@ Interested in joining 15,000+ thinkers discussing a famous philosophical idea ea
 You might also enjoy the following related reads:
 
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
+- [Anicca: Our Collective Way of Life Won’t Exist Soon](/articles/anicca-our-collective-way-of-life-wont-exist-soon/)
 - [The Buddha On Ending Suffering: the Parable of the Poisoned Arrow](/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/)
 - [Mono No Aware: Beauty and Impermanence in Japanese Philosophy](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
