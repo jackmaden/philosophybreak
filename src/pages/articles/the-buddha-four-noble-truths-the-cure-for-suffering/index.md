@@ -36,7 +36,7 @@ Let’s consider each in a bit more detail.
 
 ## 1. There is dukkha (suffering)
 
-<span class="big-letter">T</span>he Pali word _dukkha_ is quite difficult to define: traditionally translated as suffering, some translations render it as ‘dissatisfaction’ or ‘unease’. 
+<span class="big-letter">T</span>he Pali word _dukkha_ is quite difficult to define: traditionally translated as suffering, some render it as ‘dissatisfaction’ or ‘unease’. 
 
 Essentially, _dukkha_ captures all of life’s disappointment, stress, discomfort, pain, unfulfilled hopes, and unhappiness — from small everyday anxieties to significant loss.
 
@@ -50,7 +50,7 @@ Even if you are happy, this happiness will end. Even if you are full of love for
 
 While Buddhists work towards ending suffering, the first step is to acknowledge it is there.
 
-Living in denial about the nature of reality — or seeking to avoid it through temporary solutions — will only create more suffering, which brings us to the second truth.
+Living in denial about the impermanent nature of reality — or seeking to avoid it through temporary solutions — will only create more suffering, which brings us to the second truth.
 
 ## 2. Suffering has a cause
 
@@ -89,7 +89,7 @@ The Buddha elaborates:
 
 >It is the complete stopping of this craving, the elimination of passions so that craving can be laid aside, given up, harbored no longer, and gotten free from.
 
-When there is no craving, there is no suffering: it’s as simple as that. Eliminating craving is thus the whole task of Buddhism.
+When there is no craving, there is no suffering: it’s as simple as that. Eliminating craving is thus the core task of Buddhist practice.
 
 Of course, simple doesn’t mean easy. Purging ourselves of all attachment is a mammoth undertaking. It means facing up to and dismantling absolutely fundamental attitudes and ways we have of experiencing the world. 
 
@@ -105,7 +105,7 @@ The constituents of the Eightfold Path encapsulate the ‘Middle Way’ Buddhist
 
 While Buddhism may thus appear to be based on a rather pessimistic premise — i.e. life involves suffering — it offers a hopeful solution: this suffering can be eliminated.
 
-By tackling our unhealthy desires head on, purging ourselves of ego-based craving, cultivating the central Buddhist virtue of compassion, and following the Eightfold Path, we can achieve tranquility. 
+By tackling our unhealthy desires head on, purging ourselves of ego-based craving, cultivating the central Buddhist virtue of compassion, living with impermanence in mind, and following the Eightfold Path, we can achieve tranquility. 
 
 This isn’t easy, however, and shouldn’t be taken lightly; it is the task of a lifetime.
 
