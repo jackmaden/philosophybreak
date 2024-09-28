@@ -1,6 +1,6 @@
 ---
 title: "Aristotle On Why Leisure Defines Us More than Work"
-description: "Ancient Greek philosopher Aristotle believed we should define ourselves less by our work, and more by our leisure activities."
+description: "Ancient Greek philosopher Aristotle believed we could fulfill our human potential less through our work, and more through our leisure activities."
 image: "./aristotle-leisure.jpg"
 imageAlt: "Aristotle On Why Leisure Defines Us More than Work"
 imageSeo: "./aristotle-leisure.jpg"
@@ -20,7 +20,7 @@ If we transpose Aristotle’s thought — that we often do not know how to spend
 
 At the other extreme, we find those who want to forget work so thoroughly they spend all their leisure time distracting themselves with physical pleasures or meaningless entertainment. 
 
-And, unfortunately, in the middle of these extremes lies perpetual anxiety: guilt for not being more ‘productive’; guilt for not being more ‘social’.
+And, unfortunately, in the middle of these extremes lies perpetual anxiety: guilt for not being more ‘productive’; guilt for not being more ‘fun’ or ‘social’.
 
 While there are a lucky few who are able to derive genuine fulfillment and personal growth from work, many unhappily find themselves somewhere on the spectrum between pointless workaholism and unconstructive recovery.
 
@@ -64,7 +64,9 @@ We should look at our spare time, then, not as ‘spare’, but as _the most imp
     </div>
 </div>
 
-Perhaps in time, when someone asks us what we ‘do’, we can begin to define ourselves not by a career, but by our leisure activities. Our work need not ― and should not ― be the whole story. 
+Perhaps in time, when someone asks us what we ‘do’, we can begin to define ourselves not by a career, but by our leisure activities. Our work need not ― and should not ― be the whole story.
+
+Indeed, as 20th-century philosopher ​[Hannah Arendt also argues​ in her discussion of meaning and productivity](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/), the more we conceive ourselves primarily as ‘workers’, the more we will treat our own lives (and the lives of others) from a merely instrumental point of view. If we want to live more meaningfully, we need to create room for other conceptions of what it means to be human.
 
 Ultimately, however, this is easier said than done, for the responsibility lies not just with us as individuals, but with the societies in which we live. If the goal is to live well the Aristotelian way, constructive leisure must be a realistic proposition for all citizens. 
 
