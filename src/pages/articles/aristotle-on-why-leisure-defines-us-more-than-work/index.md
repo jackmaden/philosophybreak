@@ -66,7 +66,7 @@ We should look at our spare time, then, not as ‘spare’, but as _the most imp
 
 Perhaps in time, when someone asks us what we ‘do’, we can begin to define ourselves not by a career, but by our leisure activities. Our work need not ― and should not ― be the whole story.
 
-Indeed, as 20th-century philosopher ​[Hannah Arendt also argues​ in her discussion of meaning and productivity](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/), the more we conceive ourselves primarily as ‘workers’, the more we will treat our own lives (and the lives of others) from a merely instrumental point of view. If we want to live more meaningfully, we need to create room for other conceptions of what it means to be human.
+Indeed, as 20th-century philosopher ​[Hannah Arendt also argues​ in her discussion of how meaning is being replaced by productivity](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/), the more we conceive ourselves primarily as ‘workers’, the more we will treat our own lives (and those of others) from a merely instrumental point of view. If we want to find more fulfillment in life, we need to create room for other conceptions of what it means to be human.
 
 Ultimately, however, this is easier said than done, for the responsibility lies not just with us as individuals, but with the societies in which we live. If the goal is to live well the Aristotelian way, constructive leisure must be a realistic proposition for all citizens. 
 
