@@ -1,6 +1,6 @@
 ---
 title: "Aristotle On Why Leisure Defines Us More than Work"
-description: "Ancient Greek philosopher Aristotle believed we could fulfill our human potential less through our work, and more through our leisure activities."
+description: "Ancient Greek philosopher Aristotle believed we could fulfill our potential less through our work, and more through our leisure activities."
 image: "./aristotle-leisure.jpg"
 imageAlt: "Aristotle On Why Leisure Defines Us More than Work"
 imageSeo: "./aristotle-leisure.jpg"
