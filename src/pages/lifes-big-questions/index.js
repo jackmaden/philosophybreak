@@ -37,7 +37,7 @@ const Page = ({ data, location }) => {
                 <div>
                     <span className="tag time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="#fff" d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"/></svg>COURSE & COMMUNITY</span><div className="separator course pfl"></div>
                     <h1 id="lbq">Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom</h1>
-                    <p className="spectral">Unlock instant access to 42 concise, self-paced lessons on the great philosophers’ best answers to life’s big questions. Join 400+ members inside:</p>
+                    <p className="spectral">Unlock instant access to 42 concise, self-paced lessons on the great philosophers’ best answers to life’s big questions. Join 500+ members inside:</p>
                     <div className="mobile-center">
                         <CheckoutLBQ />
                         <GatsbyImage image={data.about.childImageSharp.gatsbyImageData} alt="Life’s Big Questions" loading="eager" className="desktop-no-display tiny-mar-top-important" />

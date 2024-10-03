@@ -86,7 +86,7 @@ Regardless, his questions stand: if there is no longer an absolute, incontestabl
  
 <span class="big-letter">A</span>s we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), Nietzsche has his own fascinating answers to the question of how we can overcome nihilism. These answers are most explicitly embodied in his character of the [‘Übermensch’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), commonly translated as the ‘superman’ or ‘overman’ — a picture of what we _could_ be, were we to move _beyond_ good and evil, establish our _own_ naturalized foundations for value, say ‘yes’ to the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/), and each fulfill our potential to _become who we truly are_. 
 
-If you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 400+ active members inside).
+If you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 500+ active members inside).
 
 You might also like the following related reads:
 

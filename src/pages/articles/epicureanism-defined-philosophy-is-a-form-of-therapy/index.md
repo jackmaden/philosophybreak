@@ -145,7 +145,7 @@ In his therapeutic analysis of desire, Epicurus thus hopes to have revealed to u
 
 <span class="big-letter">E</span>asing our anxiety around our accessibility to happiness is just one aspect of Epicurus’s fourfold cure, which itself is just one part of his therapeutic approach to philosophy. 
 
-Indeed, though Epicureanism is typically associated with a debaucherous form of hedonism, the life Epicurus recommends could not be further from this. His main focus is to provide everyone with the tools they need to identify mistakes they make about reality, dispel the anxiety such mistakes cause, and live lives free of suffering in the pursuit of ataraxia (to see why some philosophers find even this mitigated form of hedonism troublesome, see [Nozick’s Experience Machine](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)).
+Indeed, though Epicureanism is typically associated with a debaucherous form of hedonism, the life Epicurus recommends could not be further from this. His main focus is to provide everyone with the tools they need to identify mistakes they make about reality, dispel the anxiety such mistakes cause, [untrouble the mind](/articles/epicurus-on-the-arduous-task-of-untroubling-the-mind/), and live lives free of suffering in the pursuit of ataraxia (to see why some philosophers find even this mitigated form of hedonism troublesome, see [Nozick’s Experience Machine](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)).
 
 To further explore Epicureanism and six more hugely influential philosophies for life — including Stoicism, Buddhism, and Existentialism — check out our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 

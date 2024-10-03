@@ -124,7 +124,7 @@ const ReadingList = ({ data, location }) => {
                     </Link>
                 </div>
                 <p>If you’re looking for a modern, accessible, engaging introduction to Nietzsche’s philosophy with none of the nuance sacrificed, then the 2024 <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link> is designed to help you learn everything you need to know about the brilliant philosopher in 42 self-paced, myth-busting lessons.</p>
-                <p>This concise online guide is instantly accessible from any device, distills Nietzsche’s best and most misunderstood ideas (from God is dead to the Übermensch), and allows you to discuss Nietzsche and philosophy with other members (join 400+ active members inside).</p>
+                <p>This concise online guide is instantly accessible from any device, distills Nietzsche’s best and most misunderstood ideas (from God is dead to the Übermensch), and allows you to discuss Nietzsche and philosophy with other members (join 500+ active members inside).</p>
                 <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand the fundamentals of Nietzsche’s best ideas, have clarity on exactly what he was trying to say across his many works, and discover why he is so influential, then <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link> gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!</p>
 
               <h2>5. Twilight of the Idols, by Friedrich Nietzsche</h2>

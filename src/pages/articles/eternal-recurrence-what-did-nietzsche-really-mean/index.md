@@ -108,7 +108,7 @@ For our purposes in this short article, it is enough to regard the eternal recur
 
 ## Learn more about Nietzsche’s philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 400+ active members inside).
+<span class="big-letter">I</span>f you’re interested in learning more about Nietzsche, then consider exploring my popular self-paced [Introduction to Nietzsche course](/introduction-to-nietzsche/) (join 500+ active members inside).
 
 You might also like the following related reads:
 

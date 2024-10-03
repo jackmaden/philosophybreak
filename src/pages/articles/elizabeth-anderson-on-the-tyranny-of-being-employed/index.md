@@ -5,7 +5,7 @@ image: "./ware.jpg"
 imageAlt: "Elizabeth Anderson on the Tyranny of Being Employed"
 imageSeo: "./ware.jpg"
 tags: ["Political Philosophy", "Ethics"]
-date: "2024-03-22"
+date: "2024-08-12"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"

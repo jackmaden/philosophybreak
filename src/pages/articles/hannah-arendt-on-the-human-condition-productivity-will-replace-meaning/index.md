@@ -5,7 +5,7 @@ image: "./busy.jpg"
 imageAlt: "Hannah Arendt on the Human Condition: Productivity Will Replace Meaning"
 imageSeo: "./busy.jpg"
 tags: ["Political Philosophy", "Ethics"]
-date: "2024-05-26"
+date: "2024-09-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
