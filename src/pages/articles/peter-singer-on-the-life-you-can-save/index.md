@@ -128,7 +128,7 @@ What do you think?
 
 ## Learn more about Effective Altruism and other philosophical approaches to the good life
 
-<span class="big-letter">T</span>his article is an adapted extract from the ‘Effective Altruism’ chapter of my introductory philosophy course, [How to Live a Good Life](/how-to-live-a-good-life/). If you found it interesting, consider signing up to the full course to join me and 300+ others in Philosophy Break Academy exploring and discussing Stoicism, Existentialism, Buddhism, Effective Altruism, and three additional philosophies for life.
+<span class="big-letter">T</span>his article is an adapted extract from the ‘Effective Altruism’ chapter of my introductory philosophy course, [How to Live a Good Life](/how-to-live-a-good-life/). If you found it interesting, consider signing up to the full course to join me and 500+ others in Philosophy Break Academy exploring and discussing Stoicism, Existentialism, Buddhism, Effective Altruism, and three additional philosophies for life.
 
 You might also enjoy the following related reads:
 
