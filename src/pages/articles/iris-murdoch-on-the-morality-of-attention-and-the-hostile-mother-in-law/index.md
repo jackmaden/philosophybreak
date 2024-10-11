@@ -94,7 +94,7 @@ Through making an effort to remove the barrier that sits between us and others, 
 
 M lets down her mental guard against D, and sees her in a new light. It is not new or more accurate information that has changed her view; it is the detachment of her own ego, the lowering of her defenses — a love that disarms.
 
-Murdoch famously articulates this idea in a passage from her one of her early novels, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Bell-Penguin-Twentieth-Century-Classics/dp/0141186690?&linkCode=ll1&tag=philosophybre-20&linkId=a5c88a5795de1621212bce4adca3d6c6&language=en_US&ref_=as_li_ss_tl">The Bell</a> (published in 1958):
+Murdoch famously articulates this idea in a passage from her one of her early essays, _The Sublime and the Good_ (later published in the collection, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4h2ZD3p">Existentialists And Mystics: Writings on Philosophy and Literature</a>):
 
 >Love is the extremely difficult realization that something other than oneself is real. Love, and so art and morals, is the discovery of reality.
 

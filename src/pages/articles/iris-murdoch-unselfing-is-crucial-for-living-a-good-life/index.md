@@ -31,7 +31,7 @@ Murdoch warns that we must be careful not to force it, for unselfing is not abou
 
 >A self-directed enjoyment of nature seems to me to be something forced. More naturally, as well as more properly, we take a self-forgetful pleasure in the sheer alien pointless independent existence of animals, birds, stones and trees.
 
-By detaching from our egoistic concerns, we observe reality more clearly and create space for true connection. Murdoch famously articulates this idea in a passage from her one of her early novels, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Bell-Penguin-Twentieth-Century-Classics/dp/0141186690?&linkCode=ll1&tag=philosophybre-20&linkId=a5c88a5795de1621212bce4adca3d6c6&language=en_US&ref_=as_li_ss_tl">The Bell</a> (published in 1958):
+By detaching from our egoistic concerns, we observe reality more clearly and create space for true connection. Murdoch famously articulates this idea in a passage from her one of her early essays, _The Sublime and the Good_ (later published in the collection, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4h2ZD3p">Existentialists And Mystics: Writings on Philosophy and Literature</a>):
 
 >Love is the extremely difficult realization that something other than oneself is real. Love, and so art and morals, is the discovery of reality.
 
