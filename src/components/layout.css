@@ -833,6 +833,7 @@ p.review-font {font-family: 'Public Sans', sans-serif !important; letter-spacing
 /*blockquote*/
 blockquote:before {content: "“"; position: absolute; font-size: 400px; margin-top: -100px; margin-left: -34px; color: #e7f6ff; z-index: -1;}
 blockquote p {padding: 0 16px; color: #0096e8; margin: 2.2em 0 1.8em !important; font-size: 22px; font-family: 'Public Sans', sans-serif !important; letter-spacing: 0 !important; font-weight: 300;}
+blockquote p a {color: #0096e8;}
 .midblue-background blockquote:before {color: #3682ff; z-index: 0;}
 .darkradial-background blockquote:before {color: #001d30; z-index: 0;}
 .darkradial-background blockquote p {position: relative; z-index: 1;}
