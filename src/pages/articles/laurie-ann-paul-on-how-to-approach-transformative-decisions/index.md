@@ -149,7 +149,7 @@ Life is a game less about prediction and more about revelation, Paul suggests. M
 
 To inform your answers to such questions, consider exploring Paul’s book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4fu6rWr">Transformative Experience</a>. You might also enjoy the following related articles:
 
-- [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+- [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
