@@ -69,7 +69,7 @@ We are all interconnected, say the Stoics, all part of one world community, and 
 
 >Be like a vine that produces grapes without looking for anything in return.
 
-Stoic cosmopolitanism operates on the belief — the hope — that a grand collective of such vines will build a better world, a world more aligned to the rational order of the cosmos.
+Stoic cosmopolitanism operates on the belief — the hope — that a grand collective of such vines will build a better world, a world more aligned to the rational order of the cosmos (_logos_).
 
 Describing it as a _hope_ might, in a Stoic context, be controversial; but I don’t mean the kind of passive hope that yearns for better times and is devastated if they don’t arrive. Such careless attachment is, of course, anathema to the Stoic.
 
