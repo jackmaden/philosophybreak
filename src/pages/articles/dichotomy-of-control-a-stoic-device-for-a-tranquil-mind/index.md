@@ -62,7 +62,7 @@ Instead, he writes, we should practice [_amor fati_ — love of fate](/articles/
 
 Ultimately, following any action we might take, we have not one ounce of power over how things will turn out — so why pin our hopes on an unknowable future? Doesn’t that just end in disappointment — expecting the world to play out exactly as it does in our imaginations? 
 
-We cannot control the future. All we can control, Epictetus tells us, is our efforts, attitudes, and judgments in the present.
+We cannot control the future, [we cannot control the world in which we find ourselves](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/). All we can control, Epictetus tells us, is our efforts, attitudes, and judgments in the present.
 
 And, when we focus on just these (and accept all else), we’ll actually find the mindset shift very liberating. As he summarizes, in a substantial but illuminating passage:
 
@@ -154,7 +154,7 @@ Do the best _you_ can, be the best person _you_ can be moment to moment, and acc
 
 The dichotomy of control is a powerful tool in this regard, but the Stoics knew that implementing it in the face of real emotion or profound adversity is a significant challenge. 
 
-We explore this further in our explainer on [how Stoicism approaches emotion](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/) — but if you’re interested in learning more about how the Stoics approached not just emotion and adversity but the entirety of life (including living up to the [four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and facing up to death, as [Seneca discusses in his essay on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/)), you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
+We explore this further in our explainer on [how Stoicism approaches emotion](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), and [the Stoics on what to do when the world feels broken](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/) — but if you’re interested in learning more about how the Stoics approached not just emotion and adversity but the entirety of life (including living up to the [four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and facing up to death, as [Seneca discusses in his essay on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/)), you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
 
 In the meantime: what do you make of the dichotomy of control? Do you agree with Epictetus’s advice? Or are there some outcomes we should rail against regardless of our capacity to influence them?
 
