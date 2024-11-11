@@ -69,11 +69,11 @@ We are all interconnected, say the Stoics, all part of one world community, and 
 
 >Be like a vine that produces grapes without looking for anything in return.
 
-Stoic cosmopolitanism operates on the belief — the hope — that a grand collective of such vines will build a better world.
+Stoic cosmopolitanism operates on the belief — the hope — that a grand collective of such vines will build a better world, a world more aligned to the rational order of the cosmos.
 
 Describing it as a _hope_ might, in a Stoic context, be controversial; but I don’t mean the kind of passive hope that yearns for better times and is devastated if they don’t arrive. Such careless attachment is, of course, anathema to the Stoic.
 
-Rather, I mean a kind of background, context-independent _faith_ that motivates and justifies good action. A faith that says: a better life for ourselves and others can emerge only if we each decide to build one, so we should release our attachment to wider circumstances, and focus on finding joy (_chara_) in our own efforts. A faith that says: good action is its own reward. A Stoic, cosmopolitan faith that says: the ultimate ‘prize’, in our quest for the good life, is knowing we’ve done our best.
+Rather, I mean a kind of background, context-independent _faith_ that motivates and justifies good action. A faith that says: a better life for ourselves and others can emerge only if we each decide to build one, so we should release our attachment to wider circumstances, and focus on finding joy (_chara_) in our own efforts. A faith that says: good action is its own reward. A Stoic, cosmopolitan faith that says: the ultimate ‘prize’, in our quest for the good life, is knowing we’ve done our personal best.
 
 The great primatologist Jane Goodall offers a similar interpretation of hope in her wonderful work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3YTpLXy">The Book of Hope: A Survival Guide for Trying Times</a>:
 
