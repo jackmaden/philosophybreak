@@ -120,6 +120,7 @@ As she puts it: cultivating the right kind of attention…
 - [Iris Murdoch: ‘Unselfing’ is Crucial for Living a Good Life](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [The ‘Golden Mean’: Aristotle’s Guide to Living Excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)
+- [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [Nozick’s Experience Machine vs. Hedonism: Should You Plug In?](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)

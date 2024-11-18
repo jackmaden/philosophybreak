@@ -107,6 +107,7 @@ By unselfing, we connect to the Good. Through our patient efforts to see reality
 - [Iris Murdoch on the Morality of Attention, and the Hostile Mother-in-Law](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/)
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+- [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
