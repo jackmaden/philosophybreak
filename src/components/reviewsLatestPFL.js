@@ -4,22 +4,22 @@ const ReviewsLatestPFL = () => (
     <div className="three-col align-top">
 
         <div className="small-mar">
-            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Best introduction</i></span></p>
-            <span style={{lineHeight: "1.3"}}>Excellent course experience. I enjoyed all the chapters, but existentialism was my favorite - the best introduction to the topic I have read. The course covers things in good depth, and was easy to navigate on my laptop. The writing is excellent too - not always the case online (or in philosophy, for that matter).</span>
-            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Linda S. on 22 August 2023</span></div>
-        </div>
-        
-        <div className="small-mar">
-            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent value</i></span></p>
-            <span style={{lineHeight: "1.3"}}>First class course experience, from content to delivery, and excellent value for money. Chapters all clear, accessible and very useful. I'm teaching an introductory philosophy group on this subject, and this course has given me a brilliant resource to dip into. </span>
-            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jim M. on 28 July 2023</span></div>
+            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Enriching</i></span></p>
+            <span style={{lineHeight: "1.3"}}>The course was very interesting and enriching. I loved the easy understanding of complex theories. My favorite chapters were on Aristotle and the Existentialists. Because they come closest to my personal moral beliefs. And the other chapters gave me new knowledge. Thank you. Keep going. Can't wait for the next course. </span>
+            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Tony D. on 21 August 2024</span></div>
         </div>
 
         <div className="small-mar">
-            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Highly recommend</i></span></p>
-            <span style={{lineHeight: "1.3"}}>Very good. I really appreciate how this course allowed me to have a glimpse into certain topics which are otherwise quite intimidating for me to get into. My overall experience of the course is very positive, and I highly encourage anyone with interest in philosophy to take it up.</span>
-            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lee J. on 18 July 2023</span></div>
-        </div>        
+            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Concise and beautiful</i></span></p>
+            <span style={{lineHeight: "1.3"}}>I’m really enjoying my How to lead a Good Life course - frankly, been trying to read philosophy for a decade and gave up - but what I read here is concisely and beautifully described for a lay person like me to appreciate. Thank you!</span>
+            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Rajeev S. on 22 July 2024</span></div>
+        </div>
+
+        <div className="small-mar">
+            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
+            <span style={{lineHeight: "1.3"}}>Very good and stimulating, I will have to do again as so much to think through. Easy to follow, arguments and ideas explained well, this bear of little brain was able to work through things without having too much of a panic. I thought the chapter on Confucius interesting, especially as it was new to me. Thank you.</span>
+            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Ian H. on 31 January 2024</span></div>
+        </div>
 
     </div>
 )

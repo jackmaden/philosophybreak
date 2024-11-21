@@ -12,7 +12,7 @@ const WelcomeEmailPanel = () => (
                         <StaticImage className="desktop-no-display" src="../images/weekly-break.png" alt="Philosophy Basics" placeholder="blurred" layout="fullWidth" />
                         <p className="large-grey-font" style={{marginBottom: 0}}>From the Buddha to Nietzsche: join 16,000+ subscribers enjoying a nugget of profundity from the great philosophers every Sunday:</p>
                         <WelcomeEmailForm />
-                        <p className="tiny-mar-top no-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(50+ reviews for Philosophy Break). Unsubscribe any time.</span></p>
+                        <p className="tiny-mar-top no-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(100+ reviews for Philosophy Break). Unsubscribe any time.</span></p>
                     </div>
                     <div className="mobile-no-display">
                         <StaticImage src="../images/weekly-break.png" alt="Philosophy Basics" placeholder="blurred" layout="fullWidth" />

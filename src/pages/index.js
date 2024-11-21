@@ -65,7 +65,7 @@ const Page = ( {data} ) => {
           {/*testimonial*/}
           <div className="page-center text-center">
             <p className="large-grey-font tiny-mar-top massive no-mar-bottom">“Philosophy Break’s Sunday emails are the highlight of my week.”</p>
-            <p className="tiny-mar-top mid-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(50+ reviews for Philosophy Break)</p>
+            <p className="tiny-mar-top mid-mar-bottom review-font"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;(100+ reviews for Philosophy Break)</p>
           </div>
         </div>
 

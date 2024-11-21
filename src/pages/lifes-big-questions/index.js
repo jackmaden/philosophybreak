@@ -92,7 +92,7 @@ const Page = ({ data, location }) => {
 
         
             <div className="page-center mobile-center mid-pad">
-            <h3 className="text-center">50+ reviews for our courses:</h3>
+            <h3 className="text-center">100+ reviews for our courses:</h3>
                 <ReviewsStarsLBQ />
             </div>
             
@@ -235,7 +235,7 @@ const Page = ({ data, location }) => {
         
         {/*Reviews*/}
         <div className="grey-background small-pad-mob-mid-pad-desk">
-            <Reviews bg="grey-background" title="40 Course Reviews" toggle="secondary" />
+            <Reviews bg="grey-background" title="Course Reviews" toggle="secondary" />
         </div>
 
         

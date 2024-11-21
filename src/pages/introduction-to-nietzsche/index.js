@@ -89,7 +89,7 @@ const Page = ({ data, location }) => {
             </div>
 
             <div className="page-center mobile-center mid-pad">
-            <h3 className="text-center">50+ reviews for our courses:</h3>
+            <h3 className="text-center">100+ reviews for our courses:</h3>
                 <ReviewsStarsNietzsche />
             </div>
 
@@ -249,9 +249,21 @@ const Page = ({ data, location }) => {
             {/*Reviews - create component when over 10 (copy LBQ one)*/}
             <div className="grey-background no-hover mid-pad" id="reviews">
                 <div className="page-center">
-                    <h2>14 Course Reviews</h2>
+                    <h2>Course Reviews</h2>
                     <div className="two-col wrap align-top">
                         
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Amazing</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Amazing - so much help in understanding Nietzsche so I can attempt to finish my college paper. I struggled to understand him and his reasoning but with this it helped bring it full circle for me. Thank you! Delivery of the course was perfect and easy to manage. Keep up the good work! It's most appreciated and I shared your site with my fellow college students as well as my daughter's college friends!</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Deborah W. on 17 November 2024</span></div>
+                        </div>
+
+                        <div className="small-mar">
+                            <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very interesting</i></span></p>
+                            <span style={{lineHeight: "1.3"}}>Content was very interesting, easy to digest and still encouraging to reflect and find out more. It was also a way to refresh the basics I already had and an opportunity to reflect again about it.</span>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sabine V. on 18 December 2023</span></div>
+                        </div>
+
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Best explanation I've seen</i></span></p>
                             <span style={{lineHeight: "1.3"}}>An exceptionally good course. I have been studying philosophy independently for about 10 years, this came as a bi-product of studying Christian history. This is the best Nietzsche explanation I have seen. You have a great skill in being able to express a complex subject with clarity and ease. I found it a great 'pulling together' of all I thought I knew, and the course delivery was perfect. God is Dead was my favorite chapter, but I loved them all. Keep creating work like this and I will always subscribe. Thank you for all the work you put into this.</span>

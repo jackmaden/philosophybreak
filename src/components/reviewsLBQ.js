@@ -15,6 +15,30 @@ export default function Reviews(props) {
                 <div className="two-col wrap align-top">
 
                     <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Wonderful</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Wonderful! So clear and inviting to use. Just the right level of challenge. Felt like I was really learning. My favorite chapter was the one on Consciousness - what is it? I wonder about this all the time and its connection to why do we do the (stupid, destructive, cruel) things we do. Thank you for doing this, Jack. In the fall I’ll start an MA program on social and public policy at SUNY Empire State U, and now I’m wondering, does SUNY ESU have a philosophy program?  Your work, Jack, is such a gift. Again, thank you.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Mary T. on 8 July 2024</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Clear and concise</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Fun and enjoyable. Clear and concise. Easy to navigate. Easy to get involved in discussion. Free will was my favorite chapter. Very relevant subject for which philosophy has a great deal to contribute.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Roger M. on 7 July 2024</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Really enjoyed</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>Just completed Life's Big Questions, which I really enjoyed reading. Thank you so much for putting it together. It really improved my understanding of so many points, particularly the chapters on Is Life real and free will.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Asad B. on 22 March 2024</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
+                        <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Fascinating</i></span></p>
+                        <span style={{lineHeight: "1.3"}}>I really enjoyed the challenge of debate. Hearing different viewpoints and the reasons for forming them and, although quite intense at times, I thought the way the course was presented was excellent. The views and ideas of each philosopher was laid out in a very absorbable format and I feel I have a better understanding of each of their approaches to life's big questions - even if I had different ones! The content was fascinating, not always easy to understand but that has to be more about my own abilities and newness to some of the ideas. The way that the material was presented ensured a good beginning to my eventual understanding. Yes, it did cover everything I was expecting - and more.</span>
+                        <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lilith R. on 18 December 2023</span></div>
+                    </div>
+                    
+                    <div className="small-mar">
                         <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
                         <span style={{lineHeight: "1.3"}}>Very good indeed. The course was well covered and varied, and I found all 5 chapters easy to follow, well presented and explaining various ideas and opinions. I’m unfamiliar with modern philosophers so was glad to make their acquaintance. The chapter on free will was my favourite as in the past there were endless heated debates about this at our local Zen group! I’m very glad I discovered your website by chance on the internet.</span>
                         <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Jennifer S. on 28 September 2023</span></div>
@@ -275,7 +299,7 @@ export default function Reviews(props) {
                 {/*toggle reviews*/}
                 <div id="review-button" className={isActive ? null : "show" }>
                     <div className="mid-mar-top small-width text-center">
-                        <button onClick={handleToggle} className={"button " + props.toggle} style={{background: "transparent", border: "none", boxShadow: "none"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"/></svg>Load More Reviews</button>
+                        <button onClick={handleToggle} className={"button " + props.toggle} style={{background: "transparent", color: "#001d30", border: "none", boxShadow: "none"}}><svg style={{fill: "#0096e8"}} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"/></svg>Load More Reviews</button>
                     </div>
                 </div>
 
