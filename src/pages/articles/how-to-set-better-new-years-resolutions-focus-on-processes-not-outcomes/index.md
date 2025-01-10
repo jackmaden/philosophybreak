@@ -1,17 +1,17 @@
 ---
 title: "How To Set Better New Year’s Resolutions: Focus On Processes, Not Outcomes"
-description: "As many of us set New Year’s resolutions for 2024, MIT philosophy professor Kieran Setiya argues that we might better serve ourselves by focusing on the quality of processes, not just the result of projects."
+description: "As many of us set New Year’s resolutions for 2025, MIT philosophy professor Kieran Setiya argues that we might better serve ourselves by focusing on the quality of processes, not just the result of projects."
 image: "./almond-blossoms.jpeg"
 imageAlt: "New Year’s Resolutions"
 imageSeo: "./almond-blossoms.jpeg"
 tags: ["Ethics", "Kieran Setiya"]
-date: "2024-01-08"
+date: "2025-01-08"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">A</span>nd so 2024 begins. Happy New Year, philosophers — I wish you all the best for the year ahead. Regardless of whether you’re into making specific resolutions, the beginning of January is a time of reflection, planning, and dreaming for many.
+<span class="big-letter">A</span>nd so 2025 begins. Happy New Year, philosophers — I wish you all the best for the year ahead. Regardless of whether you’re into making specific resolutions, the beginning of January is a time of reflection, planning, and dreaming for many.
 
 Remaining totally unmoved by the seductive New Year promises of rebirth, growth, and possibility is surely a challenge for even the most hardened of cynics... another spring awaits!
 
@@ -21,7 +21,7 @@ For example, be it committing to learning a new skill, embarking on an exercise 
 
 And, typically, these projects are centered around shiny rewards. A stronger, fitter, healthier body; a bigger bank balance; an impressed peer group. With these kinds of resolutions, our eyes are on the prize: in the future, _our lives will be better._
 
-As I reflected on my own objectives and goals for 2024, I was reminded of a comment made by MIT philosophy professor Kieran Setiya about our emphasis on project-like structures.
+As I reflected on my own objectives and goals for 2025, I was reminded of a comment made by MIT philosophy professor Kieran Setiya about our emphasis on project-like structures.
 
 In an [interview I conducted with Setiya a year or so ago](/articles/life-is-hard-interview-with-mit-philosophy-professor-kieran-setiya/), he warns that focusing only on the outcome of projects, while tempting, risks draining meaning and happiness from our everyday activities.
 
@@ -82,7 +82,7 @@ Maybe the best resolutions are made not when we obsess over some arbitrary futur
 
 ## What do you make of this analysis?
 
-- Have you made any New Year’s resolutions for 2024? 
+- Have you made any New Year’s resolutions for 2025? 
 - Do you think the success or failure of projects determines the success and failure of our lives?
 - Or do you agree that we overemphasize outcomes, and should focus more on the value of the process? 
 
