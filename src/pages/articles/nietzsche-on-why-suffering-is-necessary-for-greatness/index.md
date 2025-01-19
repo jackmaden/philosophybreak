@@ -82,6 +82,7 @@ You might also like the following related reads:
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
+- [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/)
 - [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
 

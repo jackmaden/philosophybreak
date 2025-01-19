@@ -1,6 +1,6 @@
 ---
-title: "Dancing with Nietzsche's Perspectivism"
-description: "19th-century philosopher Friedrich Nietzsche's perspectivism provides a compelling approach to thinking about the world — as well as our place in it."
+title: "Dancing with Nietzsche"
+description: "19th-century philosopher Friedrich Nietzsche provides a compelling approach to thinking about the world — as well as our place in it."
 image: "./dancing-with-nietzsche.jpg"
 imageAlt: "Nietzsche perspectivism"
 imageSeo: "./nietzsche.jpg"
@@ -42,13 +42,13 @@ That it is widely thought to belong to Nietzsche, however, is justified in that 
 
 >You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.
 
-This pairing — that not understanding something doesn’t mean you can dismiss or belittle it, and that there is no single or correct ‘way’ to life — reveals the core principles of what has come to be known as Nietzsche’s perspectivism.
+This pairing — that not understanding something doesn’t mean you can dismiss or belittle it, and that there is no single or correct ‘way’ to life — reveals the core principles of what has come to be known as [Nietzsche’s perspectivism](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/).
 
 ## A new way of seeing the world: perspectivism
 
 <span class="big-letter">P</span>erspectivism, as the name suggests, is a way of viewing the world through combining differing perspectives. There is not one objective and eternally _true_ way to view or understand the world, Nietzsche suggests, but rather a multitude of differing perspectives that are subject to cultural, societal and biological limitations. As he puts it in a famous aphorism, “There are no facts, only interpretations.” Indeed, philosophers down the ages who declare to have found objective truth have never taken their own biased perspectives into account. Accordingly, it is only through combining these different views that we can begin to appreciate a broader understanding of the universe we live in.
 
-This might seem an obvious point — hardly profound — but perspectivism, as well as [the extent to which Nietzsche truly advocated it](http://nautil.us/blog/nietzsche-is-not-the-proto_postmodern-relativist-some-have-mistaken-him-for) (as opposed to wielding it to undermine objective thinking), is rather controversial, for it points to a _relativist_ attitude towards truth. 
+This might seem an obvious point — hardly profound — but perspectivism, as well as [the extent to which Nietzsche truly advocated it](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/) (as opposed to wielding it to undermine objective thinking), is rather controversial, for it points to a _relativist_ attitude towards truth. 
 
 Astrophysicists, for instance, would certainly dismiss the idea that there are a number of different ways to think about, say, the nature of the universe. That life is governed by the laws of physics, they would argue, rests on solid mathematical foundations and myriad experiential data: it is _the_ correct way to think about the universe.
 
