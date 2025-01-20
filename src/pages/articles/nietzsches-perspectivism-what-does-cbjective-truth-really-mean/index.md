@@ -142,7 +142,7 @@ Standards exist within different fields — good science vs. bad science, good a
 
 In her book <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3E0ZCy1">Nietzsche On Truth and Philosophy</a>, for instance, Maudemarie Clark suggests Nietzsche’s perspectivism is primarily a comment on [epistemology](/reading-lists/epistemology/), the nature of knowledge. 
 
-For Clark, it amounts to the claim that the universe has no purely ‘Objective’ character — i.e. there is no _general_ view of the universe that can be taken, for creatures from hawks to human beings all have different cognitive abilities and interests — so the subjective, perspectival character of knowledge cannot deprive us of anything we could reasonably want. 
+For Clark, it amounts to the claim that the universe has no purely ‘Objective’ character. There is no _general_ view of the universe that can be taken, for creatures from hawks to human beings all have different cognitive abilities and interests. The subjective, perspectival character of knowledge, then, cannot deprive us of anything we could reasonably want. 
 
 There are truths among humans, perhaps even truths shared by all beings in the universe, but such truths are never _disinterested_ or purely _Objective_, for they are contextually dependent on (and only relevant to) various compatible cognitions. 
 
@@ -158,7 +158,7 @@ Indeed, Gemes connects perspectivism to Nietzsche’s will to power doctrine, wh
 
 Perspectivism, Gemes thus argues, is a natural consequence of Nietzsche’s will to power doctrine.
 
-On this latter view, it means — in stark contrast to Clark’s reading — Nietzsche does not dismiss the possibility of metaphysics with his perspectivism, but _actually offers one himself._
+On this latter view, it means — in stark contrast to Clark’s reading — Nietzsche does not dismiss the possibility of metaphysics with his perspectivism, but _actually offers one himself:_ the world is a multiplicity of perspectives, vying for domination.
 
 ## Where does Nietzsche’s perspectivism leave us?
 
