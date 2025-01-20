@@ -74,7 +74,7 @@ Many disagree with Nietzsche’s championing of the ‘aesthetic’ over the ‘
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
-- [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/)
+- [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/)
 - [Introduction to Nietzsche: Your Myth-Busting Guide to His 5 Greatest Ideas](/introduction-to-nietzsche/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 17,000+ subscribers and signing up below:

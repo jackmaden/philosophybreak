@@ -355,7 +355,7 @@ The task we have in Nietzsche scholarship thus lies in gratefully deciphering ex
 
 <span class="big-letter">T</span>his article is an extract from my online guide, [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/), which consists of 42 self-paced, myth-busting lessons on Nietzsche’s fascinating yet much-misunderstood philosophy.
 
-If you found this brief biological sketch interesting, and are curious to learn more about Nietzsche’s actual philosophy — including his [perspectivism](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/), critique of morality, and ideas like his Übermensch, eternal recurrence, and will to power — then consider exploring the full guide now. [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/) gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!
+If you found this brief biological sketch interesting, and are curious to learn more about Nietzsche’s actual philosophy — including his [perspectivism](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/), critique of morality, and ideas like his Übermensch, eternal recurrence, and will to power — then consider exploring the full guide now. [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/) gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!
 
 <!--nietzsche-->
 <div class="course-promo darkradial-background subscribe text-center">

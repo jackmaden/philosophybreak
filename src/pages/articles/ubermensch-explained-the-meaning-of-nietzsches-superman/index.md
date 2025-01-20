@@ -192,7 +192,7 @@ You might also like the following related reads:
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
-- [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-cbjective-truth-really-mean/)
+- [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 17,000+ subscribers and signing up below:
