@@ -49,7 +49,7 @@ How can Nietzsche answer such questions? Well, while there is perhaps good reaso
 
 Indeed, Nietzsche’s apparent outright denial of truth seems too blunt a view for so sharp a thinker. 
 
-Over the years, scholars have interpreted Nietzsche as providing a much more subtle, nuanced account of truth than the aphorisms with which we started this chapter might suggest. 
+Over the years, scholars have interpreted Nietzsche as providing a much more subtle, nuanced account of truth than some of his aphorisms might suggest.
 
 This account has come to be known as Nietzsche’s _perspectivism_, and while there is still much disagreement as to what it actually entails, there is some common ground with which we can set the scene…
 
