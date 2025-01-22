@@ -146,7 +146,13 @@ For Clark, it amounts to the claim that the universe has no purely ‘Objective�
 
 There are truths among humans, perhaps even truths shared by all beings in the universe, but such truths are never _disinterested_ or purely _Objective_, for they are contextually dependent on (and only relevant to) various compatible cognitions. 
 
-For instance, 2+2=4 is true for beings who have notions of number and addition; it is irrelevant for anything that doesn’t. As Clark writes: 
+For instance, it is a fact from the point of view of our best and most objective science that the Earth goes round the Sun. But science investigates the world it’s possible for human beings to comprehend. The world it’s possible for human beings to comprehend is not necessarily all there is.
+
+Suppose there are beings who do not experience the universe in three dimensions — maybe they see it in two dimensions, or nine. Suppose there are beings who do not experience time in a linear fashion like we do. Such beings would likely have a totally different science to us. Maybe to them it would make no sense to say the Earth goes round the Sun.
+
+The point of perspectivism, interpreted thus, is that all of our ‘objective truths’ must be qualified with ‘from the human perspective’, even if it that seems unnecessarily pedantic. We experience the cosmos in a particular way, so our truths are true only for that way of experiencing the cosmos.
+
+2+2=4 is true for beings who have notions of number and addition; it is irrelevant for anything that doesn’t. As Clark writes: 
 
 >Perspectivism amounts to the claim that we cannot and need not justify our beliefs by paring them down to a set of unquestionable beliefs all rational beings must share. This means that all justification is contextual, dependent on other beliefs held unchallengeable for the moment, but themselves capable of only a similarly contextual justification.
 
