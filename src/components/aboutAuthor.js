@@ -21,7 +21,7 @@ const AboutAuthor = () => (
             <div>
             <p className="small-grey-font">Having received great value from studying philosophy for 15+ years (picking up a master’s degree along the way), I founded Philosophy Break in 2018 as an online social enterprise dedicated to making the subject’s wisdom accessible to all. <Link to="/about/">Learn more about me and the project here.</Link></p>
             <p className="small-grey-font">If you enjoy learning about humanity’s greatest thinkers, you might like my free Sunday email. I break down one mind-opening idea from philosophy, and invite you to share your view.</p>
-            <p className="small-grey-font"><Link to="/weekly-emails/">Subscribe for free here</Link>, and join 17,000+ philosophers enjoying a nugget of profundity each week (free forever, no spam, unsubscribe any time).</p>
+            <p className="small-grey-font"><Link to="/weekly-emails/">Subscribe for free here</Link>, and join 18,000+ philosophers enjoying a nugget of profundity each week (free forever, no spam, unsubscribe any time).</p>
             </div>
         </div>
         </div>
