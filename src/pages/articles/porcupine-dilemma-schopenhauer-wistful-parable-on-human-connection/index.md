@@ -31,7 +31,7 @@ Schopenhauer then rather unceremoniously applies this parable to human society:
 
 >Thus the need for society which springs from the emptiness and monotony of people’s lives, drives them together; but their many unpleasant and repulsive qualities and insufferable drawbacks once more drive them apart. 
 
-Just quickly, can we appreciate Schopenhauer’s use of “many unpleasant and repulsive qualities” and  “insufferable drawbacks(!)” here… one gets the sense that he was a very prickly porcupine indeed.
+Insufferable drawbacks! One gets the sense that Schopenhauer was a very prickly porcupine indeed...
 
 But back to the point he is making: while we might seek human connection, trying to be intimate or vulnerable with others often leads to frustration and disappointment. 
 
