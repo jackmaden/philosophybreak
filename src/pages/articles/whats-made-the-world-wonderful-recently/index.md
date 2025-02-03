@@ -22,7 +22,7 @@ I haven’t been able to feature all responses, nor the entirety of the response
 
 I hope you enjoy reading each other’s brilliant words. If you’re not yet part of the Philosophy Break newsletter community, [you can sign up free here](/weekly-emails/). Thank you for being so thoughtful week after week.
 
-Now, over to you on what’s made you full of wonder for life!
+Now, over to you on what’s made life wonderful!
 
 ## Gudrun (Canada): The frog comes back...
 
