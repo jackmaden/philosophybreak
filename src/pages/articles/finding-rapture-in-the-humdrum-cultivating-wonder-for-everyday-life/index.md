@@ -71,6 +71,7 @@ To inform your answers, you might enjoy the following related articles:
 - [Iris Murdoch: ‘Unselfing’ is Crucial for Living a Good Life](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)
 - [Mono No Aware: Beauty and Impermanence in Japanese Philosophy](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/)
 - [Anicca: Our Collective Way of Life Won’t Exist Soon](/articles/anicca-our-collective-way-of-life-wont-exist-soon/)
+- [What’s Made the World Wonderful Recently?](/articles/whats-made-the-world-wonderful-recently/)
 
 ## Get one famous philosophical idea in your inbox each Sunday
 

@@ -82,7 +82,7 @@ const ReadingList = ({ data, location }) => {
                             </div>
                         </Link>
                     </div>
-                    <p>If your interest in philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2023 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks — including Buddhism, Stoicism, Existentialism, and more — examine the pros and cons of each, and discover how they might apply to your own life.</p>
+                    <p>If your interest in philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2025 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks — including Buddhism, Stoicism, Existentialism, and more — examine the pros and cons of each, and discover how they might apply to your own life.</p>
                     <p>Of course, we’re a little biased, as we produced this one, too — but <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and could be just what you’re after!</p>
                 
 
