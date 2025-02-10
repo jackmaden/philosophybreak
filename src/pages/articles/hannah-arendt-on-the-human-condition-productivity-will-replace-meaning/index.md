@@ -122,6 +122,7 @@ Most importantly, we must reimagine politics and society in such a way that they
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
+- [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 18,000+ subscribers and signing up below:

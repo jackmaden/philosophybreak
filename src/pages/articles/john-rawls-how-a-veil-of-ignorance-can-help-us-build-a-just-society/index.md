@@ -79,6 +79,7 @@ You might also enjoy the following related reads:
 
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
+- [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
 - [Catherine of Siena on How Wealth Corrupts Justice](/articles/catherine-of-siena-on-how-wealth-corrupts-justice/)

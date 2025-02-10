@@ -42,7 +42,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>As the war began to spread across Europe, in 1941 Arendt moved again to the USA, where she lived the rest of her life engaged in various academic and journalistic posts, dedicating much of her work to the rigorous analysis of totalitarian systems.</p>
 
-              <p>Arendt’s analysis of totalitarianism was in part motivated by seeking to understand how someone as intelligent as Heidegger (among other German philosophers of the period) could succumb to Nazi propaganda. Her rich body of work in this area is lauded as some of the most perceptive in the field, and is regularly drawn on today by those looking to analyze the techniques and mechanisms of totalitarianism.</p> 
+              <p><Link to="/articles/hannah-arendt-5-insights-into-totalitarianism/">Arendt’s analysis of totalitarianism</Link> was in part motivated by seeking to understand how someone as intelligent as Heidegger (among other German philosophers of the period) could succumb to Nazi propaganda. Her rich body of work in this area is lauded as some of the most perceptive in the field, and is regularly drawn on today by those looking to analyze the techniques and mechanisms of totalitarianism.</p> 
 
               <p>This reading list contains the best books written by and about Hannah Arendt. After reading the books on this list, you’ll understand exactly why this brilliant, fascinating philosopher is considered to be one of the most important political thinkers of the 20th century. 
               </p>
