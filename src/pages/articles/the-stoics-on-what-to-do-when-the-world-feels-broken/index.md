@@ -105,6 +105,7 @@ To inform your answers, you might enjoy the following related articles:
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
+- [Fyodor Dostoevsky and Olaf Stapledon on True Security](/articles/fyodor-dostoevsky-and-olaf-stapledon-on-true-security/)
 
 ## Get one famous philosophical idea in your inbox each Sunday
 
