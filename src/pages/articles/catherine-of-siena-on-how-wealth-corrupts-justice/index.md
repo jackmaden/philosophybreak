@@ -53,6 +53,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
+- [Thucydides’s Melian Dialogue: Can International Politics Be Fair?](/articles/thucydides-melian-dialogue-can-international-politics-be-fair/)
 - [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)

@@ -70,7 +70,8 @@ To inform your answers, you might enjoy the following related articles:
 - [​Hannah Arendt: the Best 6 Books to Read​](/reading-lists/hannah-arendt/)
 - [Catherine of Siena on How Wealth Corrupts Justice](/articles/catherine-of-siena-on-how-wealth-corrupts-justice/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
-- [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
+- [Thucydides’s Melian Dialogue: Can International Politics Be Fair?](/articles/thucydides-melian-dialogue-can-international-politics-be-fair/)
+- [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)
 
 ## Get one famous philosophical idea in your inbox each Sunday
