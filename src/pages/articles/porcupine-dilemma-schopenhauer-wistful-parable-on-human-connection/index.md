@@ -100,6 +100,7 @@ You might also enjoy the following related reads:
 
 - [Ralph Waldo Emerson’s Self-Reliance Summary: Become Your Own Person](/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/)
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
+- [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)
 - [Iris Murdoch: ‘Unselfing’ is Crucial for Living a Good Life](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)
 - [Ethics and Morality: the Best 10 Books to Read](/reading-lists/ethics-and-morality/)
 

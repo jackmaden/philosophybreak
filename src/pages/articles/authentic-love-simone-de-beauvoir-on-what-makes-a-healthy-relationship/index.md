@@ -125,6 +125,7 @@ Not seeking to control one another, not seeking to sacrifice ourselves for one a
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Nietzsche on Friends Growing Apart](/articles/nietzsche-on-friends-growing-apart/)
+- [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)
 

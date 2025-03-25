@@ -69,6 +69,7 @@ const ReadingList = ({ data, location }) => {
               <p>Plato’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449280&linkId=043e78a2b8873d9b6291b1567c6e52ec">The Last Days of Socrates</a> includes four superb dialogues — Euthyphro, Apology, Crito, and Phaedo — that cover the trial and death of Socrates in 399 BCE.</p>
               <p>Serving as an ideal introduction to the Socratic dialogues, the works in this collection are among Plato’s earliest and record Socrates debating the nature of piety, justice, death, and the immortality of the soul in brilliant, highly-charged prose.</p>
               <p>Hugely entertaining and wise — a collection to defy anyone who thinks philosophy is boring or stuffy — <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449280&linkId=043e78a2b8873d9b6291b1567c6e52ec">The Last Days of Socrates</a> belongs on the bookshelf of anyone interested in Socrates, Plato or the happenings of ancient Athens.</p>
+
               
 
               <h2>4. The Clouds, by Aristophanes</h2>
@@ -76,9 +77,15 @@ const ReadingList = ({ data, location }) => {
               <p>A famous comic play in its own right, the ancient dramatist Aristophanes’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Clouds-Aristophanes/dp/0872205169?&linkCode=ll1&tag=philosophybre-20&linkId=f2402d3779a785d38d3c3f3fc2515c05&language=en_US&ref_=as_li_ss_tl">The Clouds</a> provides a sharp contrast to the rather heroic and wise Socrates we find in Plato’s dialogues.</p>
               <p><a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Clouds-Aristophanes/dp/0872205169?&linkCode=ll1&tag=philosophybre-20&linkId=f2402d3779a785d38d3c3f3fc2515c05&language=en_US&ref_=as_li_ss_tl">The Clouds</a> lampoons Socrates as a comic figure. In fact, some of the accusations that Socrates faces in Plato’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449280&linkId=043e78a2b8873d9b6291b1567c6e52ec">The Last Days of Socrates</a> find their origin here, with the play possibly impacting Socrates’s chances of receiving a fair trial.</p>
               <p>As well as it being incredible that we have this 2,500-year-old counterpoint to Plato, Aristophanes’s play is an important read philosophically, revealing common rebutalls Socrates faced from his contemporaries. For those looking to broaden their perspective on Socrates, this is an essential read.</p>
+
+              <h2>5. Conversations of Socrates, by Xenophon</h2>
+              <BookLink title="Conversations of Socrates" author="Xenophon" link="https://amzn.to/4hKqfpa" img={data.six.childImageSharp.gatsbyImageData} />
+              <p>For another counterpoint to Plato, consider the only other contemporary Socratic portrait to survive: Xenophon’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4hKqfpa">Conversations of Socrates</a>.</p>
+              <p>Like Plato, Xenophon hugely admired Socrates, and with these dialogues he seeks to rehabilitate the image of the man condemned to death by the Athenian authorities. Unlike Plato, however, Xenophon paints a picture not of an abstract, rather eccentric philosopher concerned with theoretical topics, but of a practical man focused primarily on improving civic life.</p>
+              <p>Though perhaps less philosophically compelling than Plato’s Socrates, Xenophon’s portrayal of the great philosopher makes for a fascinating contrast. If you’re intent on getting a well-rounded overview of Socrates the man, Xenophon’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4hKqfpa">Conversations of Socrates</a> is indispensable.</p>
               
 
-              <h2>5. Plato: Complete Works, by Plato</h2>
+              <h2>6. Plato: Complete Works, by Plato</h2>
               <BookLink title="Plato: Complete Works" author="Plato" link="http://www.amazon.com/gp/product/0872203492/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872203492&linkId=841c670735c6a96e2da8afed8a778a9d" img={data.five.childImageSharp.gatsbyImageData} />
               <p>If you’re looking for a one-stop shop for all of Plato’s Socratic dialogues, it doesn’t get much better than <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0872203492/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872203492&linkId=841c670735c6a96e2da8afed8a778a9d">Plato: Complete Works</a>, edited and introduced by Cooper and Hutchinson.</p>
               <p>The entire surviving corpus of works attributed to Plato is presented here in modern translations with useful contextual information on composition and chronology, as well as essential discussion on the extent to which the Socrates that features in each text is the historical Socrates himself, or Socrates the Platonic character, whom Plato preserved even after Socrates’s death (as discussed in our <Link to="/reading-lists/plato/">Plato reading list</Link>).</p>
@@ -129,6 +136,11 @@ export const query = graphql`{
     }
   }
   five: file(relativePath: {eq: "plato-complete.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
+    }
+  }
+  six: file(relativePath: {eq: "socrates-x.jpg"}) {
     childImageSharp {
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }

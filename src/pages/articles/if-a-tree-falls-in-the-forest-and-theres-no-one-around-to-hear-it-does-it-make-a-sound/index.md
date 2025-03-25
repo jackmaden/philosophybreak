@@ -1,9 +1,9 @@
 ---
 title: "If a Tree Falls in the Forest, and There’s No One Around to Hear It, Does It Make a Sound?"
 description: "The age-old question of whether a falling tree makes a sound when there’s no one around to hear it exploits the tension between perception and reality. This article explores possible answers and their consequences."
-image: "./forest.jpg"
-imageAlt: "If a tree falls in the forest, and there's no one around to hear it, does it make a sound?"
-imageSeo: "./forest.jpg"
+image: "./tree.jpg"
+imageAlt: "Pioneers of the Woods, by Albert Bierstadt (1858)"
+imageSeo: "./tree.jpg"
 tags: ["Epistemology", "Metaphysics", "George Berkeley", "Immanuel Kant", "Idealism"]
 date: "2025-03-16"
 author: "Jack Maden"

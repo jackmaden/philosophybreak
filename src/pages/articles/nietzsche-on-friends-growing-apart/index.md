@@ -49,6 +49,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
+- [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)
 - [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
