@@ -102,7 +102,7 @@ const Page = ({ data, location }) => {
                   <div class="separator"></div>
                 </div>
 
-                <BannerReadingList title="Socrates" number="5" link="/reading-lists/socrates/" img={data.socrates.childImageSharp.gatsbyImageData} alt="socrates reading list" />
+                <BannerReadingList title="Socrates" number="6" link="/reading-lists/socrates/" img={data.socrates.childImageSharp.gatsbyImageData} alt="socrates reading list" />
                 
                 <BannerReadingList title="Plato" number="6" link="/reading-lists/plato/" img={data.plato.childImageSharp.gatsbyImageData} alt="plato reading list" />
 

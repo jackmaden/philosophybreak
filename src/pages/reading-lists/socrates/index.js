@@ -17,7 +17,7 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Socrates Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books on the ancient Greek philosopher, Socrates." image={imagePath} pathname={location.pathname} />
+    <Seo title="Socrates Reading List – The Best 6 Books to Read" description="A curated reading list of the most essential books on the ancient Greek philosopher, Socrates." image={imagePath} pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />
