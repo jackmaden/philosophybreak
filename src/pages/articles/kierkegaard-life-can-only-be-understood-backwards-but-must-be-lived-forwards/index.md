@@ -1,6 +1,6 @@
 ---
 title: "Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards"
-description: "The 19th-century Danish philosopher Søren Kierkegaard observes that while life can only be understood backwards, it must be lived forwards."
+description: "That we can only understand things in retrospect perhaps tells us something important about how to better approach life."
 image: "./thought.jpg"
 imageAlt: "Kierkegaard: Life Can Only Be Understood Backwards, But Must Be Lived Forwards"
 imageSeo: "./thought.jpg"
@@ -47,7 +47,7 @@ As I discuss in [5 Existential Problems All Humans Share](/articles/5-existentia
 
 ## Do we just have to put up with this lack of knowledge, and the anxiety it causes?
 
-<span class="big-letter">T</span>hat we can only understand things in retrospect should tell us something important about how we might better approach life. 
+<span class="big-letter">T</span>hat we can only understand things in retrospect perhaps tells us something important about how to better approach life. 
 
 If we insist on continuously trying to plan and execute the _best life possible_, all we can do is try to keep our worries, uncertainties, and expectations at bay as we fall forwards towards an open, unknowable future.
 
