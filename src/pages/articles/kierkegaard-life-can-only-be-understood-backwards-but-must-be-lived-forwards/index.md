@@ -1,11 +1,11 @@
 ---
 title: "Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards"
 description: "The 19th-century Danish philosopher Søren Kierkegaard observes that while life can only be understood backwards, it must be lived forwards."
-image: "./live-forwards.jpg"
+image: "./thought.jpg"
 imageAlt: "Kierkegaard: Life Can Only Be Understood Backwards, But Must Be Lived Forwards"
-imageSeo: "./live-forwards.jpg"
+imageSeo: "./thought.jpg"
 tags: ["Kierkegaard", "Existentialism"]
-date: "2023-10-25"
+date: "2025-03-28"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">S</span>øren Kierkegaard (1813 - 1855) was a Danish philosopher whose rich and varied writings have had a profound influence on philosophy, theology, and literature.
 
-Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose — and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century.
+Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose — and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century. (See my reading list of [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/) here.)
 
 ![Oil painting of Kierkegaard, by Luplau Janssen (1902)](./Kierkegaard.jpg "Oil painting of Kierkegaard, by Luplau Janssen (1902).")
 
@@ -45,26 +45,9 @@ As I discuss in [5 Existential Problems All Humans Share](/articles/5-existentia
 
 >Human life occurs only once, and the reason we cannot determine which of our decisions are good and which bad is that in a given situation we can only make one decision; we are not granted a second, third or fourth life in which to compare various decisions.
 
-<!--small subscribe-->
-<div class="course-promo darkradial-background subscribe text-center">
-    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
-    <div class="small-pad-top">
-        <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
-        <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
-            <div>
-                <input name="email_address" aria-label="Your Email Address..." placeholder="Your Email Address..." required type="email" />
-            </div>
-            <button class="button primary" type="submit" data-element="submit"><div><div></div><div></div><div></div></div><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Join 18,000+ Subscribers</span></button>
-            </div>
-            </div>
-        </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
-    </div>
-</div>
-
 ## Do we just have to put up with this lack of knowledge, and the anxiety it causes?
 
-<span class="big-letter">H</span>owever, that we can only understand things in retrospect should tell us something important about how we might better approach life. 
+<span class="big-letter">T</span>hat we can only understand things in retrospect should tell us something important about how we might better approach life. 
 
 If we insist on continuously trying to plan and execute the _best life possible_, all we can do is try to keep our worries, uncertainties, and expectations at bay as we fall forwards towards an open, unknowable future.
 
@@ -78,21 +61,17 @@ A statement often described as a ‘Kierkegaardian slogan’ (though it doesn’
 
 We do not (and will never) have the information required to forever ‘fix’ our lives — so why approach them as problems that need to be solved at all?
 
-Other animals know this better than us: there is nothing that needs answering.
-
-No matter what we do, reality will continually unfold before us.
-
-We can fight against this with plans, schemes, narrative arcs; but reality won’t care — for, in-itself, it doesn’t have any problems to solve. 
-
-Reality just unconcernedly, invincibly, effortlessly goes on. 
+No matter what we do, reality will continually unfold before us. We can fight against this with plans, schemes, narrative arcs; but reality won’t care — for, in-itself, it doesn’t have any problems to solve. Reality invincibly goes on. 
 
 Perhaps, then, we might adjust our perspectives accordingly: put our energy not into endless reflection whereby we ‘fix’ the past or ‘solve’ the future, but in aligning better with what the very structure of existence demands: _experience the unfolding of reality now._
 
-The point is not to never think about the past or future; the point is that we shouldn’t reflect on them as problems that need solving. 
+As contemporary philosopher [Laurie Ann Paul advises when discussing ‘transformative experiences’](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/), if we cannot know the ‘best’ path forward with a major life decision, it’s often because there _isn’t_ a best path; there are simply different paths, which we’ll adapt to we live them.
 
-Life is here to be experienced. What kind of experiences appeal to you? Spending time with loved ones? Expressing your creativity? Feeling the sun on your face?
+All else being equal, rather than exhaust ourselves on yet more research, cost-benefit analyses, and guesses at our future happiness, the most rational approach is to opt for the path we’re more interested in discovering. Instead of ‘fixing’ the future, we focus on the value of _revelation_.
 
-Perhaps working out how to structure our lives more around such nourishing experiences is the only real ‘plan’ — the only real _solution_ — we need. 
+After all, life is here to be experienced. What kind of experiences appeal to you? Spending time with loved ones? Expressing your creativity? Feeling the sun on your face?
+
+Perhaps working out how to structure our lives more around such nourishing experiences, making a commitment to really show up for and _live in_ them, is the only real ‘plan’, the only real _solution_ we need. 
 
 ## Learn more about Kierkegaard’s philosophy (and the existentialism it inspired)
 
