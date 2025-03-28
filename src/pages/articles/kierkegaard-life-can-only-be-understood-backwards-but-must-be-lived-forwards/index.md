@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">S</span>øren Kierkegaard (1813 - 1855) was a Danish philosopher whose rich and varied writings have had a profound influence on philosophy, theology, and literature.
 
-Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose — and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century. (See my reading list of [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/) here.)
+Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose — and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century. (See my reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/).)
 
 ![Oil painting of Kierkegaard, by Luplau Janssen (1902)](./Kierkegaard.jpg "Oil painting of Kierkegaard, by Luplau Janssen (1902).")
 
@@ -71,7 +71,7 @@ All else being equal, rather than exhaust ourselves on yet more research, cost-b
 
 After all, life is here to be experienced. What kind of experiences appeal to you? Spending time with loved ones? Expressing your creativity? Feeling the sun on your face?
 
-Perhaps working out how to structure our lives more around such nourishing experiences, making a commitment to really show up for and _live in_ them, is the only real ‘plan’, the only real _solution_ we need. 
+Perhaps working out how to structure our lives more around such nourishing experiences — making a commitment to really show up for and _live in_ them — is the only real ‘plan’, the only real solution we need. 
 
 ## Learn more about Kierkegaard’s philosophy (and the existentialism it inspired)
 
