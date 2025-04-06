@@ -113,6 +113,7 @@ You might also enjoy the following related reads:
 
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [Epicurus’s Principal Doctrines: 40 Aphorisms for Living Well](/articles/epicurus-principal-doctrines-40-aphorisms-for-living-well/)
+- [True Wealth Lies in Friendship: Epicurus and Ho Kepos](/articles/true-wealth-lies-in-friendship-epicurus-and-ho-kepos/)
 - [Epicurus On Why Death Should Not Concern Us](/articles/epicurus-on-why-death-should-not-concern-us/)
 - [Why Death is Nothing to Fear: Lucretius and Epicureanism](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/)
 - [Epicureanism: the Best 6 Books to Read](/reading-lists/epicureanism/)
