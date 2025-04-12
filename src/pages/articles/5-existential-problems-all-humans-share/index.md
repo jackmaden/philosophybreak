@@ -50,7 +50,7 @@ As a paraphrase of Kierkegaard has it, [“Life can only be understood backwards
 
 Here are some other inescapable features of the human condition that existentialists think cause angst and suffering:
 
-1. From the perspective of the cosmos, we appear to be miniscule beings with miniscule lifespans. (To get a sense of the vastness of the universe, consider this: if our solar system was the size of a regular circular dining room table, the sun would be a grain of sand at the center, and the Earth would be invisible to the eye. On this scale, our nearest neighboring star, Alpha Centauri, would be _seven miles away_. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies). 
+1. From the perspective of the cosmos, we appear to be minuscule beings with minuscule lifespans. (To get a sense of the vastness of the universe, consider this: if our solar system was the size of a regular circular dining room table, the sun would be a grain of sand at the center, and the Earth would be invisible to the eye. On this scale, our nearest neighboring star, Alpha Centauri, would be _seven miles away_. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies). 
 2. We do not know why we are here, nor do we have any real hope of finding out.
 3. We did not choose the bodies, families, cultures, civilizations, or cosmos we were born into.
 4. There is no set guidebook for how we should live our lives.
