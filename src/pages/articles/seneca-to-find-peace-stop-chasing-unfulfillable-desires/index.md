@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">I</span>n a letter to his friend Lucilius, the ancient Roman philosopher Seneca (4 BCE - 65 CE) reflects on the following statement from the ancient Greek philosopher, Epicurus: 
+<span class="big-letter">I</span>n a letter to his friend Lucilius (letter 16 from Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iddK5y">Letters on Ethics</a>), ancient Roman philosopher Seneca (4 BCE - 65 CE) reflects on the following statement from the ancient Greek philosopher, [Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/): 
 
 >If you live according to nature, you will never be poor; if you live to please the opinions of others, you will never be rich.
 
@@ -59,7 +59,7 @@ If we have enough resources so that our natural desires (and those of our depend
 
 If we dedicate our (only) lives to the accumulation of status and resources, we climb aboard a golden treadmill, frantically moving but not actually going anywhere. 
 
-“The life of such people is always unfinished,” Seneca says, and:
+“The life of such people is always unfinished,” Seneca writes in a later letter (letter 23 from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iddK5y">Letters on Ethics</a>), and:
 
 >We cannot stand prepared for death if we are just beginning to live. We must instead make sure that we have already lived enough. And no one could think this about himself if he is forever involved in starting to live. You should not suppose that such people are few in number: almost everyone is like this. Indeed, they begin to live only when it is time to stop. If you think this strange, I will add something which will surprise you even more: some people leave off living before they have even begun…
 
@@ -77,7 +77,7 @@ Or will we climb off, and with eyes wide open, appreciate the richness, the beau
 
 ## Learn more about Seneca’s Stoic philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about how Seneca thought we could live good lives, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac">Letters from a Stoic</a> collects his most important and illuminating writings, and features on our list of [Stoicism’s best books](/reading-lists/stoicism/). 
+<span class="big-letter">I</span>f you’re interested in learning more about how Seneca thought we could live good lives, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iddK5y">Letters on Ethics</a> collects his most important and illuminating writings, and features on our list of [Stoicism’s best books](/reading-lists/stoicism/). 
 
 You might also enjoy the following related reads:
 
