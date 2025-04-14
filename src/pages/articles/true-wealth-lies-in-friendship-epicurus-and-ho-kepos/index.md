@@ -70,6 +70,7 @@ To inform your answers, you might enjoy the following related articles:
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
 - [Nietzsche on Friends Growing Apart](/articles/nietzsche-on-friends-growing-apart/)
+- [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [Epicureanism: the Best 6 Books to Read](/reading-lists/epicureanism/)
 

@@ -96,6 +96,7 @@ Consider, by contrast, the perspective offered in [Aristotle’s discussions on 
 To inform your answers, you might enjoy the following related articles:
 
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
+- [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)
 - [Nietzsche on Friends Growing Apart](/articles/nietzsche-on-friends-growing-apart/)
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [Plato: the Best 6 Books to Read](/reading-lists/plato/)
