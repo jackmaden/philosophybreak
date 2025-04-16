@@ -51,7 +51,7 @@ Might we be there already?
 
 ![Seneca](./seneca-painting.jpg "Born in 4 BCE, Seneca was a Roman Stoic philosopher who tutored emperor Nero. Seneca's influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent. His stoic and calm suicide has become the subject of numerous paintings, including the one above by Peter Paul Rubens, c.1614.")
 
-## Rather than be pulled along by unfulfillable desires, live now
+## Rather than be pulled along by unfulfillable desires, we should set achievable goals, and try to show up for life now
 
 <span class="big-letter">O</span>f course, we need money and resources to survive; Seneca is not denying this. His point is simply not to confuse ‘survive’ with ‘thrive’. 
 
