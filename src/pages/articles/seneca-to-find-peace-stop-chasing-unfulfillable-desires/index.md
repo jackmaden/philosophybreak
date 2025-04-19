@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">I</span>n a letter to his friend Lucilius (letter 16 from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iddK5y">Letters on Ethics</a>), the ancient Roman philosopher Seneca (4 BCE - 65 CE) reflects on the following statement from [Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/): 
+<span class="big-letter">I</span>n a letter to his friend Lucilius (letter 16 from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iddK5y">Letters on Ethics</a>), the ancient Roman philosopher Seneca reflects on the following statement from [Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/): 
 
 >If you live according to nature, you will never be poor; if you live to please the opinions of others, you will never be rich.
 
