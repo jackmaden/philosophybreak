@@ -117,7 +117,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>We get an insight into Thoreau’s day-to-day existence (which involves a wonderful amount of walking in nature), his sensitivity to the beauty of the natural world, his passion for ecology and plantlife, and of course his nuanced insights into the ways in which society corrupts the purity of natural human life.</p>
 
-              <p>This edition of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Journal-Thoreau-1837-1861-Review-Classics/dp/159017321X?&linkCode=ll1&tag=philosophybre-20&linkId=032b02218fd811eedd4c9430f893179e&language=en_US&ref_=as_li_ss_tl">The Journal of Henry David Thoreau</a>, edited by Damion Searls, condenses Thoreau’s original 18,000+ pages of journal entries into a single, 700-page volume.</p>
+              <p>This edition of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Journal-Thoreau-1837-1861-Review-Classics/dp/159017321X?&linkCode=ll1&tag=philosophybre-20&linkId=032b02218fd811eedd4c9430f893179e&language=en_US&ref_=as_li_ss_tl">The Journal of Henry David Thoreau</a>, edited by Damion Searls, condenses Thoreau’s original 19,000+ pages of journal entries into a single, 700-page volume.</p>
 
               <p>With his selections, Searls does a fantastic job in giving an overall impression of Thoreau’s life and thought, and provides brilliant contextual analysis along the way.</p>
 
