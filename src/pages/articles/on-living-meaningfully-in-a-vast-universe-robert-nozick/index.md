@@ -66,6 +66,7 @@ Perhaps, then, when we next look up at the clear night’s sky, by reflecting on
 Nozick is not the first to attempt to make sense of our place in the vastness of reality. Here are some further related reads on this topic: 
 
 - [David Deutsch On Why It’s False to Say Our Lives Don’t Matter](/articles/david-deutsch-on-why-its-false-to-say-our-existence-is-insignificant/)
+- [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Albert Camus on Coping with Life’s Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
