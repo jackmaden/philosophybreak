@@ -43,7 +43,7 @@ Chef Ding’s abilities might bring to mind a psychological ‘flow state’, wh
 
 But wu wei is less about asserting control to achieve a temporary mindset, and more about cultivating a way of life through consistently yielding to dao: not interfering with egoistic concern, but letting the universe unfold naturally through our actions. It took him three years to get there, but Chef Ding now _resides_ in the zone.
 
-This is one of the paradoxical tensions within Daoism: it requires effort to attain effortlessness. At first we are quite clumsy and haphazard, but as we become more attuned to dao, as our minds quieten and strainings cease, the gap between us and the action becomes smaller and smaller until no separation remains at all: it becomes natural, spontaneous, unforced. Like learning to ride a bike: at first we wobble; later we do not even think.
+This is one of the paradoxical tensions within Daoism: it requires effort to let go of effort. At first we are quite clumsy and haphazard, but as we become more attuned to dao, as our minds quieten and strainings cease, the gap between us and the action becomes smaller and smaller until no separation remains at all: it becomes natural, spontaneous, unforced. Like learning to ride a bike: at first we wobble; later we do not even think.
 
 If our lives are full of intrusive thinking and conceptualizing, if we feel resistance or friction or obstruction in our daily activities, if we are having to push things that do not want to be pushed, then chances are we are not living in accordance with dao. We’ve strayed from the path, caught in brambles and dead ends.
 
