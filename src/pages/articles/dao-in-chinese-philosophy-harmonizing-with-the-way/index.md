@@ -49,9 +49,9 @@ If our lives are full of intrusive thinking and conceptualizing, if we feel resi
 
 How might we find the way? Well, we might start by asking ourselves: what is the source of friction? How might I soften or smooth my encounters with this thought, person, or situation? Of what can I let go?
 
-A gigantic boulder lies before us. Do we try to remove it? Do we strain against it? The wisdom of wu wei suggests we, like water, flow through the boulder’s cracks: we course underneath it and round its sides to gradually erode it away.
+A gigantic boulder lies before us. Do we try to remove it? Do we strain against it? The wisdom of wu wei suggests, like water, we flow through the boulder’s cracks: we course underneath it and round its sides to gradually erode it away.
 
-Chef Ding follows the natural markings. We might try to identify the ‘natural markings’ in our own lives: immersing ourselves in the processes we value, that we wish to contribute to and perpetuate in our one chance at life. They don’t all have to be grand projects, like saving the world or amassing a private fortune; it could just be the humble transcendence found in walking, breathing, listening, caring, creating, playing, laughing, writing, coding, dancing... ([Hunter S. Thompson offers similar life advice](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/) to a friend.) 
+Chef Ding follows the natural markings. We might try to identify the ‘natural markings’ in our own lives: immersing ourselves in the processes we value, that we wish to contribute to and perpetuate. They don’t all have to be grand projects, like saving the world or amassing a private fortune; it could just be the humble transcendence found in walking, breathing, listening, caring, creating, playing, laughing, writing, coding, dancing... ([Hunter S. Thompson offers similar life advice](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/) to a friend.) 
 
 ## Dao: towards a harmonious whole
 
@@ -67,7 +67,7 @@ Within Daoism, as its legendary founder Laozi observes in the <a target="_blank"
 
 The ancient Chinese emphasis on harmony perhaps provides a nice counterbalance to Western values, such as the individualized [authenticity of existentialism](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/), or the _eudaimonia_ (happiness or flourishing) of [ancient Greek thinkers like Aristotle](/articles/the-golden-mean-aristotle-guide-to-living-excellently/).
 
-Rather than boiling ‘success’ down to individual achievement, rather than structuring everything around the self, living according to dao emphasizes the flourishing of the larger processes of which the individual plays merely a part.
+Rather than boiling ‘success’ down to individual achievement, rather than structuring everything around the self, living according to dao emphasizes the flourishing of the larger processes in which the individual plays merely a part.
 
 We do not all have to be the main character. We do not all have to be melody-makers, all the time. By immersing ourselves in the particular processes we find valuable, by attuning our uniqueness with the dao, we are contributing our part, our unique note that harmonizes with the whole.
 
