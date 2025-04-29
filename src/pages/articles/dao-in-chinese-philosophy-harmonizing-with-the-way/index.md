@@ -41,7 +41,7 @@ Ancient Daoist thinker Zhuangzi brings wu wei to life with a famous story about 
 
 Chef Ding’s abilities might bring to mind a psychological ‘flow state’, when we are so totally immersed in an ongoing process that we remain uninterrupted by intrusive thought or clumsy desire.
 
-But wu wei is less about asserting control to achieve a temporary mindset, and more about cultivating a way of life through consistently yielding to dao: not interfering with egoistic concern, but letting the universe unfold naturally through our actions. It took him three years to get there, but Chef Ding now _resides_ in the zone.
+But wu wei is less about asserting control to achieve a temporary mindset, and more about cultivating a way of life through consistently yielding to dao: not interfering with egoistic concern, but letting the universe naturally unfold through our actions. It took him three years to get there, but Chef Ding now _resides_ in the zone.
 
 This is one of the paradoxical tensions within Daoism: it requires effort to let go of effort. At first we are quite clumsy and haphazard, but as we become more attuned to dao, as our minds quieten and strainings cease, the gap between us and the action becomes smaller and smaller until no separation remains at all: it becomes natural, spontaneous, unforced. Like learning to ride a bike: at first we wobble; later we do not even think.
 
