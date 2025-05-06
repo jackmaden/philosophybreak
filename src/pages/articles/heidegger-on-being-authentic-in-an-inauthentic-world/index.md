@@ -92,6 +92,7 @@ Of course, the great irony that perhaps overshadows Heidegger's work on authenti
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
+- [The Paradox of Choice: Barry Schwartz on Why More is Less](/articles/the-paradox-of-choice-barry-schwartz-on-why-more-is-less/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 

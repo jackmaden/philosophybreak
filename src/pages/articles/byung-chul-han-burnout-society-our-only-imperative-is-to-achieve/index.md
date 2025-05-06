@@ -174,6 +174,7 @@ You might also like the following related reads:
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
+- [The Paradox of Choice: Barry Schwartz on Why More is Less](/articles/the-paradox-of-choice-barry-schwartz-on-why-more-is-less/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)
