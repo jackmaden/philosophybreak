@@ -23,7 +23,7 @@ Every consumer category is like this, from entertainment and hospitality, to dom
 
 Schwartz distinguishes two responses to this situation: we can be ‘Maximizers’ or ‘Satisficers’. 
 
-If we’re maximizers, we settle for nothing less than _the best possible option_. We’ll hunt and disseminate information ruthlessly; we’ll temporarily become world-leading experts in whatever category we happen to be making a decision in. Dishwashers. Smartphones. Ground paprika. You name it. We’ll secure the best deal, even if it takes hours, days, weeks of research. 
+If we’re maximizers, we settle for nothing less than _the best possible option_. We’ll hunt and scrutinize information ruthlessly; we’ll temporarily become world-leading experts in whatever category we happen to be making a decision in. Dishwashers. Smartphones. Ground paprika. You name it. We’ll secure the best deal, even if it takes hours, days, weeks of research. 
 
 If we’re satisficers, meanwhile, we embrace ‘good enough’, and then move on, freeing our minds for other activities.
 
