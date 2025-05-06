@@ -1,9 +1,9 @@
 ---
 title: "The Paradox of Choice: Barry Schwartz on Why More is Less"
 description: "Though we assume freedom of choice to be a good thing, psychologist Barry Schwartz suggests too much choice fills us with anxiety and regret, and could lead people to seek more direction and control from their political leaders."
-image: "./anglers.jpg"
-imageAlt: "Anglers by Raoul Dufy (1908)"
-imageSeo: "./anglers.jpg"
+image: "./onion.webp"
+imageAlt: "The Onion Market by Raoul Dufy (1907)"
+imageSeo: "./onion.webp"
 tags: ["Freedom", "Existentialism"]
 date: "2025-05-06"
 author: "Jack Maden"
