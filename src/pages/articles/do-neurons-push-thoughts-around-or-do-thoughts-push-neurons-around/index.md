@@ -1,15 +1,17 @@
 ---
 title: "Do Neurons Push Thoughts Around? Or Do Thoughts Push Neurons Around?"
-description: 'The secrets of free will, consciousness, and the self will not be unlocked just through analyzing the brain’s most primordial physical components, argues Douglas Hofstadter. We need to better integrate high-level mental properties into our explanations of reality.'
-image: "./brain.jpg"
+description: "Thoughts, concepts, and ideas may occur at a level of abstraction ‘above’ the brain’s physical components, but that doesn’t render them mere epiphenomenon, argues cognitive scientist Douglas Hofstadter; rather, they have real causal power in the brain’s physical system."
+image: "./brain-.jpg"
 imageAlt: "Do Neurons Push Thoughts Around? Or Do Thoughts Push Neurons Around?"
-imageSeo: "./brain.jpg"
+imageSeo: "./brain-.jpg"
 tags: ["Free Will", "Consciousness", "Self"]
-date: "2024-01-24"
+date: "2025-05-12"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
+
+<p class="hero-image-attribution">Image: Cocktail Hour by Yumikrum, <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/94725359@N06/23654633206/">via Flickr</a> under CC license</p>
 
 <span class="big-letter">I</span>n his 2007 book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a>, the cognitive scientist Douglas Hofstadter tackles the thorny subject of self: what is the ‘I’? In a cosmos bound by physical law, how does the ‘I’ come to exist? From the seething micro world of quanta, how does a sense of self, a sense of perspective and thought and feeling, possibly emerge?
 
@@ -158,6 +160,16 @@ The pertinent question is not, “are our neurons ‘free’?” (this is like a
 
 Ultimately, then, Hofstadter thinks research areas like neuroscience won’t help us unlock the philosophical mysteries of the mind until we have a working theory for how to incorporate emergent, high-level abstractions — ideas, beliefs, and concepts — into our models of the brain. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a> is his challenging, impressive, provocative attempt at doing just that.
 
+## So, what does Hofstadter think?
+
+<span class="big-letter">I</span> cannot hope to do justice to his full thesis here, but to give you a glimpse into his model, Hofstadter thinks that ultimately mental properties emerge from vast abstract patterns involving the brain’s physical components (the classic analogy being ‘high level’ software vs ‘low level’ hardware).
+
+However, he _also_ thinks that our mental properties exhibit downward causality in a non-trivial sense (i.e., it appears from our everyday perspectives that our thoughts affect our actions, and while neuroscience might suggest this downward causality is illusory, Hofstadter thinks in some sense it isn’t).
+
+The main analogy Hofstadter uses is Gödel’s incompleteness theorem: the ‘strange loops’ in Gödel’s metamathematics (a self-referential loop going through several levels of a hierarchial system) are similar in structure to the complex layers of causality in the brain. The ‘I’ simply _is_ this self-referential loop.
+
+If you find this approach interesting, I recommend reading <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a> in full. Hofstadter makes a dense and difficult problem accessible and fascinating. 
+
 ## What do you make of Hofstadter’s analysis?
 
 - After reading Hofstadter’s analogies, who do you think is pushing whom around inside the cranium? Do flashes of neuronal activity push our thoughts and ideas around? Or do you agree with Hofstadter that it makes more sense to say that our thoughts and ideas, though operating at a higher level of abstraction, themselves have causal powers?
@@ -168,12 +180,9 @@ Ultimately, then, Hofstadter thinks research areas like neuroscience won’t hel
 
 <span class="big-letter">I</span>f you’re interested in learning more about philosophical problems like free will, consciousness, and the self, you might enjoy the following related reads:
 
-- [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
-- [What is Consciousness?](/articles/what-is-consciousness/)
 - [Compatibilism: Philosophy’s Answer to the Free Will Debate](/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/)
+- [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Why You Probably Don’t Have Free Will](/articles/free-will-illusion-sam-harris/)
-- [Mind Chat’s Philip Goff and Keith Frankish On Why We Are Conscious](/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious/)
-- [Why ‘Zombies’ Cause Problems for Brain Science and Consciousness](/articles/why-zombies-cause-problems-brain-science-consciousness/)
 - [Free Will: the Best 7 Books to Read](/reading-lists/free-will/)
 - [Consciousness: the Best 5 Books to Read](/reading-lists/consciousness/)
 

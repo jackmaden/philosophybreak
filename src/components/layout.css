@@ -565,6 +565,9 @@ svg.bounce {margin-right: 0;}
 .scroll-prompt {position: absolute; bottom: 16px; left:76px;}
 .scroll-prompt svg {width: 20px; height: 20px; fill: #fff;}
 .bottom-blue-border {padding-bottom: 1px; border-bottom: solid 2px #36b4ff; font-size: 11px;}
+/*image attribution*/
+#break-start p.hero-image-attribution {font-family: 'Public Sans'; color: #737d88; font-size: 13px; font-style: italic; margin-bottom: 2em;}
+#break-start p.hero-image-attribution a {color: #737d88; text-decoration-color: #737d88;}
 /*hide description on small screens*/
 @media (max-height: 475px) {
   .carousel-cell .description, .title .description {display: none;}
@@ -578,6 +581,7 @@ svg.bounce {margin-right: 0;}
   .scroll-prompt {left:0; right: 0;}
   .scroll-prompt svg {margin-left: 76px;}
   .bottom-blue-border {font-size: 12px;}
+  #break-start p.hero-image-attribution {font-size: 15px; margin-top: -0.75em !important;}
 }
 @media (min-width: 1020px) {
   .title div.title-center {bottom: 26px;}
