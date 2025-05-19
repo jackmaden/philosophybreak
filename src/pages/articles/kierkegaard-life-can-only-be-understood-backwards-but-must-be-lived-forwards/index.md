@@ -82,6 +82,7 @@ If you’d like to reflect more on these themes or Kierkegaard’s philosophy ge
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [Søren Kierkegaard: The Best 6 Books to Read](/reading-lists/soren-kierkegaard-best-books/)
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
+- [Ruth Chang on Making Difficult Life Decisions](/articles/ruth-chang-on-making-difficult-life-decisions/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)

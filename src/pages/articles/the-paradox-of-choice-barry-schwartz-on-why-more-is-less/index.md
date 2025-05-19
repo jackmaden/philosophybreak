@@ -69,6 +69,7 @@ Ultimately, we mustn’t confuse endless consumer choice with genuine freedom. I
 To inform your answers, you might enjoy the following related articles:
 
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
+- [Ruth Chang on Making Difficult Life Decisions](/articles/ruth-chang-on-making-difficult-life-decisions/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
