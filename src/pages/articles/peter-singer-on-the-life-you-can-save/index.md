@@ -133,6 +133,7 @@ What do you think?
 You might also enjoy the following related reads:
 
 - [The Greatest Happiness of the Greatest Number: What Bentham Really Meant](/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/)
+- [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [The ‘Golden Mean’: Aristotle’s Guide to Living Excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
