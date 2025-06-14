@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20250520
+# Mediavine Ads.txt v20250611
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -74,6 +74,9 @@ appnexus.com, 6979, RESELLER
 # End Blockthrough Seats
 dxkulture.com, 12002, DIRECT
 zetaglobal.net, 790, DIRECT
+smilewanted.com, 5374, DIRECT
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
 
 
 
