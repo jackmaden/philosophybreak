@@ -4,7 +4,7 @@ description: "When faced with ‘transformative’ decisions like becoming a par
 image: "./mother-cassatt.jpg"
 imageAlt: "Mother Playing with Her Child, by Mary Cassatt (1899)"
 imageSeo: "./mother-cassatt.jpg"
-tags: ["Ethics", "Laurie Ann Paul", "Existentialism"]
+tags: ["Ethics", "Laurie Ann Paul", "Parent", "Existentialism"]
 date: "2024-10-21"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
@@ -150,6 +150,7 @@ Life is a game less about prediction and more about revelation, Paul suggests. M
 To inform your answers to such questions, consider exploring Paul’s book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4fu6rWr">Transformative Experience</a>. You might also enjoy the following related articles:
 
 - [Ruth Chang on Making Difficult Life Decisions](/articles/ruth-chang-on-making-difficult-life-decisions/)
+- [Should Parenting Require a License?](/articles/should-parenting-require-a-license/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [The Paradox of Choice: Barry Schwartz on Why More is Less](/articles/the-paradox-of-choice-barry-schwartz-on-why-more-is-less/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
