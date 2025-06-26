@@ -49,7 +49,7 @@ Licensing would aim to prevent harm taking place in the first place, for it woul
 
 As with a driving test, prospective parents could retake the test as many times as necessary in order to pass, LaFollette suggests, perhaps receiving further support or coaching to remediate any problems in the meantime.
 
-The idea, then, isn’t to standardize ‘good’ parenting according to a set of narrow prescriptions, penalizing anyone who doesn’t live up to them; the idea is to weed out people who’d make _very bad, abusive_ parents — people who simply cannot grasp or demonstrate the basic principles of parenting. The vast majority would, one hopes, be licensed without issue, and be free to raise their children in their own way. 
+The idea, then, isn’t to standardize ‘good’ parenting according to a set of narrow prescriptions, penalizing anyone who doesn’t live up to them; the idea is to screen out people who’d make _very bad, abusive_ parents — people who simply cannot grasp or demonstrate the basic principles of parenting. The vast majority would, one hopes, be licensed without issue, and be free to raise their children in their own way. 
 
 In an ideal world, parental licensing wouldn’t be required at all. Nor would airport security. But we don’t live in an ideal world, and so we must think pragmatically about the best ways we can reduce harm.
 

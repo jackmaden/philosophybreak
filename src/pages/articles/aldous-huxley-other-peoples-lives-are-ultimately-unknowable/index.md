@@ -5,7 +5,7 @@ image: "./others.jpg"
 imageAlt: "Aldous Huxley: Other People’s Lives are Ultimately Unknowable"
 imageSeo: "./others.jpg"
 tags: ["Aldous Huxley", "Self", "Friendship"]
-date: "2024-02-16"
+date: "2025-06-26"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
@@ -74,7 +74,7 @@ Indeed, that we cannot escape our aloneness need not make us lonely, frustrated,
 
 Rather, it involves recognition, acceptance, _protection._
 
-As the great poet Rainer Maria Rilke put it: 
+As Rainer Maria Rilke memorably puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3I18uWe">Letters to a Young Poet</a>: 
 
 >Love consists in this: that two solitudes protect and border and greet each other.
 
