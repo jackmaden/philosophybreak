@@ -66,8 +66,9 @@ _— <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.t
 To inform your answers, you might enjoy the following related articles:
 
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
-- [​Hannah Arendt on the Human Condition: Productivity Will Replace Meaning​](/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
+- [​Hannah Arendt on the Human Condition: Productivity Will Replace Meaning​](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
 - [​Hannah Arendt: the Best 6 Books to Read​](/reading-lists/hannah-arendt/)
+- [Simone Weil’s Ethic of Resistance: Resisting Not Just Power, but the Race for Power](/articles/simone-weil-ethic-of-resistance/)
 - [Catherine of Siena on How Wealth Corrupts Justice](/articles/catherine-of-siena-on-how-wealth-corrupts-justice/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Thucydides’s Melian Dialogue: Can International Politics Be Fair?](/articles/thucydides-melian-dialogue-can-international-politics-be-fair/)

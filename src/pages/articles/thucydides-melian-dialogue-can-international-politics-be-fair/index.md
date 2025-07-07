@@ -63,6 +63,7 @@ Though Thucydides wrote the <a target="_blank" rel="noopener noreferrer sponsore
 To inform your answers, you might enjoy the following related articles:
 
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
+- [Simone Weil’s Ethic of Resistance: Resisting Not Just Power, but the Race for Power](/articles/simone-weil-ethic-of-resistance/)
 - [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Catherine of Siena on How Wealth Corrupts Justice](/articles/catherine-of-siena-on-how-wealth-corrupts-justice/)
