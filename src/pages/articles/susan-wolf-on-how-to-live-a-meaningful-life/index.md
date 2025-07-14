@@ -80,7 +80,7 @@ Our lives are meaningful when we love what we do and when what we do matters.
 
 <span class="big-letter">B</span>ut who’s to say what matters? Perhaps the most controversial aspect of Wolf’s view is that it requires an objective standard of ‘worth’. If we enjoy deep engagement with a particular job, project, or activity, we don’t want some jury of philosophers coming along to tell us that, actually, our pursuits are all meaningless, and we should try doing something worthwhile instead.
 
-And, really, is it even appropriate to talk of ‘objective worth’ if we do not also have a theory for the meaning of the cosmos as a whole? Weren’t the existentialists right in declaring that ​meaning is simply what we each make it​?
+And, really, is it even appropriate to talk of ‘objective worth’ if we do not also have a theory for the meaning of the cosmos as a whole? Weren’t the existentialists right in declaring that [​meaning is simply what we each make it​](/articles/kierkegaard-on-finding-the-meaning-of-life/)?
 
 Wolf discusses both these concerns at length. Of course we don’t want some elitist brigade declaring that everyone’s life but their own is meaningless. Wolf is just suggesting that, _in principle_, some pursuits are a lot more worthwhile than others; she is not declaring precisely which.
 
