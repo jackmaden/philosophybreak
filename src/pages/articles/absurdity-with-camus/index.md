@@ -123,10 +123,10 @@ For, as Camus concludes <a target="_blank" rel="noopener noreferrer sponsored" h
 You might also enjoy the following related articles:
 
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+- [Susan Wolf on How to Live a Meaningful Life](/articles/susan-wolf-on-how-to-live-a-meaningful-life/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
-- [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
 - [5 Existential Problems All Humans Share](/articles/5-existential-problems-all-humans-share/)
 - [What is Existentialism? 3 Core Principles of Existentialist Philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/)
 - [Existentialism: the Best 9 Books to Read](/reading-lists/existentialism/)
