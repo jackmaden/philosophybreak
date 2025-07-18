@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20250611
+# Mediavine Ads.txt v20250716
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -77,6 +77,11 @@ zetaglobal.net, 790, DIRECT
 smilewanted.com, 5374, DIRECT
 pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+The-ozone-project.com, OZONEMDV0001, DIRECT
+appnexus.com, 9979, RESELLER
+openx.com, 540731760, RESELLER, 6a698e2ec38604c6
+adform.com, 2657, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
 
 
 
