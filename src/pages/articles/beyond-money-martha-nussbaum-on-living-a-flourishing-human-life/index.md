@@ -100,6 +100,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [​Peter Singer On the Life You Can (and Should) Save​](/articles/peter-singer-on-the-life-you-can-save/)
 - [​John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society​](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
+- [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
 - [​Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve​](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Ubuntu Philosophy: Wealth Resides in the Health of the Community](/articles/ubuntu-philosophy-wealth-resides-in-the-health-of-the-community/)
 - [​Elizabeth Anderson on the Tyranny of Being Employed​](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)

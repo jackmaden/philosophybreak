@@ -81,6 +81,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Hunter S. Thompson: Don’t Look for Goals, Look for a Way of Life](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/)
+- [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [Kieran Setiya: Focus on Processes, Not Outcomes](/articles/how-to-set-better-new-years-resolutions-focus-on-processes-not-outcomes/)
 - [Confucius: the Best 6 Books to Read](/reading-lists/confucius/)
