@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20250716
+# Mediavine Ads.txt v20250728
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -82,6 +82,7 @@ appnexus.com, 9979, RESELLER
 openx.com, 540731760, RESELLER, 6a698e2ec38604c6
 adform.com, 2657, RESELLER, 9f5210a2f0999e32
 pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
+e-planning.net,e4ff9f6416211a05,DIRECT,c1ba615865ed87b2  
 
 
 

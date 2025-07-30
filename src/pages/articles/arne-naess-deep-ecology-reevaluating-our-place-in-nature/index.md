@@ -41,7 +41,7 @@ It’s within this context that Næss makes his famous distinction between ‘sh
 
 <span class="big-letter">S</span>hallow ecology is focused on easing environmental destruction within the current paradigm of human dominance. It seeks to do things like reduce air pollution, purify water supplies, and clear plastic from the oceans — all without challenging the fundamental systems governing our use of nature, and usually with the goal of protecting human production and standards of living.
 
-Deep ecology, meanwhile, wants to go deeper in its questioning of our relationship to the environment. It’s not so much a case of solving the technical problems of reducing pollution while maintaining production; it’s a total reconceptualization of humanity’s place in nature — a case of wondering whether all this production is really conducive to the good life in the first place.
+Deep ecology, meanwhile, wants to go deeper in its questioning of our relationship to the environment. It’s not so much a case of solving the technical problems of reducing pollution while maintaining production; it’s a total reconceptualization of humanity’s place in nature — a case of wondering whether boundless production really leads to lives worth wanting.
 
 The idea is that, if you can interrogate the _root_ of the ecological crisis, then a lot of the higher-order problems disappear.
 
