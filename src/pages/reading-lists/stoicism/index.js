@@ -17,12 +17,12 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Stoicism Reading List – The Best 6 Books to Read" description="A curated reading list of the most essential books of and about Stoic philosophy, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
+    <Seo title="Stoicism Reading List – The Best 7 Books to Read" description="A curated reading list of the most essential books of and about Stoic philosophy, including the writings of Epictetus, Seneca, and Marcus Aurelius." image={imagePath} pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Stoicism" number="6" img={data.title.childImageSharp.gatsbyImageData} alt="Stoicism books" />
+        <TitleReadingList title="Stoicism" number="7" img={data.title.childImageSharp.gatsbyImageData} alt="Stoicism books" />
         
         {/*container for sidebar*/}
         <div id="container">
@@ -61,18 +61,23 @@ const ReadingList = ({ data, location }) => {
 
               <p>If you’re looking to explore Stoicism further, this reading list contains the best and most accessible introductory books on the subject, as well as the most important primary texts from the great Stoic thinkers themselves. Let’s dive in!</p>
 
-              <h2>1. How to Be a Stoic, by Massimo Pigliucci</h2>
+              <h2>1. Lessons in Stoicism, by John Sellars</h2>
+              <BookLink title="Lessons in Stoicism" author="John Sellars" link="https://amzn.to/41lLzvy" img={data.seven.childImageSharp.gatsbyImageData} />
+              <p>If you’re looking for a concise, lucid, no-nonsense primer on the key doctrines of Stoic philosophy, then John Sellars’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/41lLzvy">Lessons in Stoicism</a> is a brilliant option. Sellars outlines the ancient philosophy in beautiful, crystal-clear prose, and wastes no time in conveying its most important insights and practical remedies.</p> 
+              <p>At under 100 pages, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/41lLzvy">Lessons in Stoicism</a> is a very quick read, but Sellars’s knowledge is deep, and he’s a wonderfully efficient teacher. I highly recommend this book as an introduction to Stoicism.</p>
+              
+              <h2>2. How to Be a Stoic, by Massimo Pigliucci</h2>
               <BookLink title="How to Be a Stoic" author="Massimo Pigliucci" link="http://www.amazon.com/gp/product/1541644530/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541644530&linkId=6c8e27c041ce2dfd795d00afba1fad86" img={data.one.childImageSharp.gatsbyImageData} />
-              <p>Published in 2017, Massimo Pigliucci’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1541644530/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541644530&linkId=6c8e27c041ce2dfd795d00afba1fad86">How to Be a Stoic</a> is a fantastic place to start for anyone with a budding interest in Stoicism. Pigliucci introduces Stoicism with clear, concise language and guides the reader through its core tenets with compelling imaginary conversations with Epictetus, one of the most influential Stoics of all time.</p> 
+              <p>Massimo Pigliucci’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1541644530/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541644530&linkId=6c8e27c041ce2dfd795d00afba1fad86">How to Be a Stoic</a> is also a fantastic place to start for anyone with a budding interest in Stoicism. Pigliucci guides the reader through its core tenets with compelling imaginary conversations with Epictetus, one of the most influential Stoics of all time.</p> 
               <p>With this accessible format, Pigliucci transposes ancient Stoic wisdom into the 21st century, unlocking practical wisdom for problems we face today, making <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1541644530/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541644530&linkId=6c8e27c041ce2dfd795d00afba1fad86">How to Be a Stoic</a> a very nice entry point to Stoicism.</p>
               
 
-              <h2>2. Cambridge Companion to the Stoics, by Brad Inwood</h2>
+              <h2>3. Cambridge Companion to the Stoics, by Brad Inwood</h2>
               <BookLink title="Cambridge Companion to the Stoics" author="Brad Inwood" link="http://www.amazon.com/gp/product/0521779855/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0521779855&linkId=7757c486b08f31177696189922568a47" img={data.two.childImageSharp.gatsbyImageData} />
               <p>If you’re seeking a more hardcore critical analysis of all things Stoicism, look no further than <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0521779855/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0521779855&linkId=7757c486b08f31177696189922568a47">The Cambridge Companion to the Stoics</a>, published in 1999. This collection of essays from contemporary academics, edited by Brad Inwood, explores the history and influence of Stoicism, and offers a rigorous dissection of its central ideas.</p> 
               <p>Ideal for those looking to take the next step in their engagement with Stoicism, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0521779855/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0521779855&linkId=7757c486b08f31177696189922568a47">The Cambridge Companion to the Stoics</a> is a challenging tome of deep value, and belongs on the bookshelf of any aspiring Stoic scholar.</p>
 
-              <h2>3. How to Live a Good Life (According to 7 of the World’s Wisest Philosophies), by Philosophy Break</h2>
+              <h2>4. How to Live a Good Life (According to 7 of the World’s Wisest Philosophies), by Philosophy Break</h2>
               <div className="article white">
                   <Link to="/how-to-live-a-good-life/">
                         <StaticImage src="../../../images/PFL-mob.png" alt="How to Live a Good Life" placeholder="blurred" />
@@ -88,7 +93,7 @@ const ReadingList = ({ data, location }) => {
                 <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand some of life’s most influential ethical frameworks, examine the pros and cons of each, and discover how they might apply to your own life, then this is the guide for you. <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and might be just what you’re looking for!</p>
               
 
-              <h2>4. Discourses and Selected Writings, by Epictetus</h2>
+              <h2>5. Discourses and Selected Writings, by Epictetus</h2>
               <BookLink title="Discourses and Selected Writings" author="Epictetus" link="http://www.amazon.com/gp/product/0140449469/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449469&linkId=73e3249fb0aa7e242c68e9de1623d07c" img={data.three.childImageSharp.gatsbyImageData} />
               <p>Turning from introductions to primary Stoic texts, where better to start than with the work of the philosopher whose no-nonsense practical wisdom set the foundations for much of the Stoic philosophy that followed?</p>
               <p>Former slave turned philosophical teacher, the Greek Stoic Epictetus ran a school in Nicopolis in the early second century AD, the lessons of which were eagerly recorded by Arrian, Epictetus’s most famous pupil.</p>
@@ -96,7 +101,7 @@ const ReadingList = ({ data, location }) => {
               <p>The potentially life-changing wisdom contained in Epictetus’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449469/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449469&linkId=73e3249fb0aa7e242c68e9de1623d07c">Discourses and Selected Writings</a> is as relevant, accessible, and enlightening today as it was 2,000 years ago, making this wonderful book absolutely essential for any student of Stoicism.</p>
               
 
-              <h2>5. Letters from a Stoic, by Seneca</h2>
+              <h2>6. Letters from a Stoic, by Seneca</h2>
               <BookLink title="Letters from a Stoic" author="Seneca" link="http://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac" img={data.four.childImageSharp.gatsbyImageData} />
               <p>While the Roman statesman and dramatist Seneca advocated calmness and moderation through his Stoic philosophy, his life (from 4 BCE to 65 CE) was punctuated by major upheaval.</p>
               <p>⁣In 41 CE, following a political dispute, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 CE to become a tutor to Nero. When Nero became emperor, Seneca became his advisor.⁣ Seneca’s influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent.</p> 
@@ -104,7 +109,7 @@ const ReadingList = ({ data, location }) => {
               <p>Supremely accessible, reading <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140442103/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140442103&linkId=53524be7bd4e91403113c3e5494786ac">Letters from a Stoic</a> — a collection of letters Seneca wrote throughout his lifetime — is like having exclusive access to a deep, beautiful well of profound, practical wisdom addressed directly to you. If you’re interested in Stoicism, your bookshelf will not be complete without Seneca.</p>
               
 
-              <h2>6. Meditations, by Marcus Aurelius</h2>
+              <h2>7. Meditations, by Marcus Aurelius</h2>
               <BookLink title="Meditations" author="Marcus Aurelius" link="http://www.amazon.com/Meditations-Annotated-Marcus-Aurelius/dp/1541673859?&linkCode=ll1&tag=philosophybre-20&linkId=d83ef5b58e209f9e046ef87bc2dbee2e&language=en_US&ref_=as_li_ss_tl" img={data.five.childImageSharp.gatsbyImageData} />
               <p>The last of the big three Stoic names discussed in this list of the best books on Stoicism, and arguably the most well known, Marcus Aurelius is a titan of the Stoic tradition.</p>
               <p>As we outline in our <Link to="/reading-lists/marcus-aurelius-best-books/">Marcus Aurelius reading list</Link>, the Roman emperor reigned from 161 to 180 CE during a time of many significant military conflicts, as well as the Antonine Plague, a pandemic that devastated the population of the Roman Empire, causing the deaths of five million people.</p>
@@ -158,6 +163,11 @@ export const query = graphql`{
     }
   }
   five: file(relativePath: {eq: "marcus-med.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(height: 230, layout: CONSTRAINED)
+    }
+  }
+  seven: file(relativePath: {eq: "stoic-sellars.jpg"}) {
     childImageSharp {
       gatsbyImageData(height: 230, layout: CONSTRAINED)
     }

@@ -83,7 +83,7 @@ const Page = ({ data, location }) => {
                 
                 <BannerReadingList title="Epicureanism" number="6" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
                 
-                <BannerReadingList title="Stoicism" number="6" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
+                <BannerReadingList title="Stoicism" number="7" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
 
                 <BannerReadingList title="Marxism" number="6" link="/reading-lists/karl-marx/" img={data.marx.childImageSharp.gatsbyImageData} alt="Marxism reading list" />
 
