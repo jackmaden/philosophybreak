@@ -5,7 +5,7 @@ image: "./command.jpeg"
 imageAlt: "Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate"
 imageSeo: "./amor-fati-seo.jpg"
 tags: ["Nietzsche", "Stoicism", "Ethics"]
-date: "2023-12-05"
+date: "2025-08-09"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
