@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">I</span>s it always permissible to have children? Or are there some cases where bringing new life into the world is irredeemably harmful?
+<span class="big-letter">I</span>s it always morally permissible to have children? Or are there some cases where bringing new life into the world is irredeemably harmful?
 
 If we could be certain, for example, that a child would be born into a brief life of tortuous agony, then it seems reasonable to conclude that it would be wrong to actively try to bring forth such a life. In fact, we might even say we have a _duty_ to try to prevent such an unbearably miserable life from coming into being. 
 
@@ -32,6 +32,7 @@ We spend our days longing (painfully) for things we lack, Schopenhauer observes:
 >If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence?
 
 Antinatalists answer Schopenhauer’s first question with a firm no. Given the wretchedness of existence — given the world is a bad place and on course to get worse — the best outcome for humanity would be to cease procreating, and over the next several decades guide ourselves (and ideally all other sentient life) to a painless extinction.
+
 So far, so cheerful: it’s easy to baulk at this rather extreme conclusion.
 
 But our propensity for bewilderment, exasperation, or even outrage on the topic of antinatalism should give us pause, argues one of its major contemporary proponents, the South African philosopher David Benatar.
@@ -54,6 +55,7 @@ Beyond simply emphasizing how awful life is, antinatalists offer a number of arg
 The crucial point here is that, while the absence of pain is good, the absence of pleasure is not bad unless someone is there to _feel_ its absence.
 
 Benatar thinks support for this asymmetry comes from the fact that it provides the best explanation for some of our common intuitions about happiness and suffering.
+
 Suppose, for instance, we discovered that there were millions of beings on Mars profoundly suffering. We would be rightly concerned by this: it would be awful if such suffering existed, and it’s good that, in reality, it doesn’t.
 
 We are not horrified, however, by the corresponding lack of _pleasure_ on Mars. It would probably be a little strange for someone to routinely mourn all the absent happiness of nonexistent beings, Benatar writes:
