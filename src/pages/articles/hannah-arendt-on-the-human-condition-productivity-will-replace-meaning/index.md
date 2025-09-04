@@ -84,7 +84,7 @@ As Arendt puts it in <a target="_blank" rel="noopener noreferrer sponsored" href
 
 >The endlessness of the laboring process is guaranteed by the ever-recurrent needs of consumption; the endlessness of production can be assured only if its products lose their use character and become more and more objects of consumption, or if, to put it another way, the rate of use is so tremendously accelerated that the objective difference between use and consumption, between the relative durability of use objects and the swift coming and going of consumer goods, dwindles to insignificance.
 
-Work has regressed to circular time. Advertising prays on our natural vulnerabilities. Rather than produce artifacts that matter, we create products to be consumed like food. We work to stay alive.
+Work has regressed to circular time. Advertising preys on our natural vulnerabilities. Rather than produce artifacts that matter, we create products to be consumed like food. We work to stay alive.
 
 While work is being reduced to labor, Arendt also warns that action is being reduced to work-like practice. Rather than spontaneously disclose our true selves, our activities are increasingly calculated, goal-directed, and guided by efficiency: individual human beings have fragmented into data points.
 
