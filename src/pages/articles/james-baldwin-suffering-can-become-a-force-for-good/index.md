@@ -61,6 +61,7 @@ As Nietzsche puts it in <a target="_blank" rel="noopener noreferrer sponsored" h
 To inform your answers, you might enjoy the following related articles:
 
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
+- [Michael Cholbi on Grief, Identity Crisis, and What We Learn from Loss](/articles/michael-cholbi-on-grief-identity-crisis-and-what-we-learn-from-loss/)
 - [Iris Murdoch on the Morality of Attention, and the Hostile Mother-in-Law](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/)
 - [Fyodor Dostoevsky and Olaf Stapledon on True Security](/articles/fyodor-dostoevsky-and-olaf-stapledon-on-true-security/)
 - [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)

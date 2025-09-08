@@ -78,6 +78,7 @@ You might also like the following related reads:
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
+- [Michael Cholbi on Grief, Identity Crisis, and What We Learn from Loss](/articles/michael-cholbi-on-grief-identity-crisis-and-what-we-learn-from-loss/)
 - [Eternal Recurrence: What Did Nietzsche Really Mean?](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
