@@ -106,6 +106,7 @@ As Russell concludes his essay:
 To inform your answers, you might enjoy the following related articles:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
+- [Simone de Beauvoir on the Crisis of Retirement and Facing Old Age](/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/)
 - [Aristotle On Why Leisure Defines Us More than Work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/)
 - [Hannah Arendt on the Human Condition: Productivity Will Replace Meaning](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)

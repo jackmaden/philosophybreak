@@ -121,6 +121,7 @@ Most importantly, we must reimagine politics and society in such a way that they
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
 - [Simone Weil’s Ethic of Resistance: Resisting Not Just Power, but the Race for Power](/articles/simone-weil-ethic-of-resistance/)
+- [Simone de Beauvoir on the Crisis of Retirement and Facing Old Age](/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
 - [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)

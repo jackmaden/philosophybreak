@@ -74,8 +74,6 @@ As the 20th-century philosopher Harry Overstreet put it:
 
 >Recreation is not a secondary concern for a democracy. It is a primary concern, for the kind of recreation a people make for themselves determines the kind of people they become and the kind of society they build. 
 
-
-
 ## Further reading
 
 <span class="big-letter">W</span>hat do you make of Aristotle’s analysis? Do you prioritize leisure over work? If you’re looking to delve deeper into his teachings, you might enjoy our article on [the ‘golden mean’, Aristotle’s guide to living excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/), as well as our explainer on how [Aristotle distinguished between 3 levels of friendship](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/). We’ve also created a reading list of the [best books on and by Aristotle](/reading-lists/aristotle/). Hit the banner below to access it now. 

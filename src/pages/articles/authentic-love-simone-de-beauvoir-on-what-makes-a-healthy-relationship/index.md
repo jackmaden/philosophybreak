@@ -120,6 +120,7 @@ Not seeking to control one another, not seeking to sacrifice ourselves for one a
 
 <span class="big-letter">I</span>f you’re interested in learning more about Beauvoir and existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading lists of [Beauvoir’s best books](/reading-lists/simone-de-beauvoir-best-books/) and [existentialism’s best books](/reading-lists/existentialism/), as well as the following related reads:
 
+- [Simone de Beauvoir on the Crisis of Retirement and Facing Old Age](/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)

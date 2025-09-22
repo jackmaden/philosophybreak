@@ -38,7 +38,7 @@ const ReadingList = ({ data, location }) => {
 
             <p><Link to="/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/">Beauvoir’s theory of ‘authentic love’</Link>, for example, typifies her application of existentialist philosophy to concerns around gender, identity, and power relations.</p>
 
-            <p>However, while her contributions to feminist theory are immense, Beauvoir should not be pigeonholed, for she wrote insightfully and compellingly across a whole range of topics and mediums — a celebrated author of novels and memoirs as well as philosophical treatises.</p>
+            <p>However, while her contributions to feminist theory are immense, Beauvoir should not be pigeonholed, for she wrote insightfully and compellingly across a whole range of topics and mediums — a celebrated author of novels and memoirs as well as philosophical treatises. For instance, <Link to="/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/">Beauvoir also applies her critical eye to aging, work, and retirement</Link>.</p>
 
             <BigSubscribe />
 
@@ -135,7 +135,7 @@ const ReadingList = ({ data, location }) => {
 
               <blockquote><p>Die early or grow old: there is no alternative… old age is the general fate, and when it seizes upon our own personal life we are dumbfounded… can I have become a different being while I still remain myself?</p></blockquote>
 
-              <p>Pertinent for anyone who plans on becoming old, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Coming-Age-Simone-Beauvoir/dp/039331443X?&linkCode=ll1&tag=philosophybre-20&linkId=4acb2386ef4b04c3bd1577fb0b9eba84&language=en_US&ref_=as_li_ss_tl">The Coming of Age</a> finds an aging Beauvoir at the top of her game.</p>
+              <p>Pertinent for anyone who plans on becoming old, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Coming-Age-Simone-Beauvoir/dp/039331443X?&linkCode=ll1&tag=philosophybre-20&linkId=4acb2386ef4b04c3bd1577fb0b9eba84&language=en_US&ref_=as_li_ss_tl">The Coming of Age</a> finds an aging Beauvoir at the top of her game. You can read my overview of <Link to="/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/">Beauvoir's arguments on aging, work, and retirement here</Link>.</p>
             
               
               <h2>Further reading</h2>
