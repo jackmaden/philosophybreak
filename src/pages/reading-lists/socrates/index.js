@@ -22,7 +22,7 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Socrates" number="5" img={data.title.childImageSharp.gatsbyImageData} imgposition="image-top" alt="Socrates" />
+        <TitleReadingList title="Socrates" number="6" img={data.title.childImageSharp.gatsbyImageData} imgposition="image-top" alt="Socrates" />
         
         {/*container for sidebar*/}
         <div id="container">
