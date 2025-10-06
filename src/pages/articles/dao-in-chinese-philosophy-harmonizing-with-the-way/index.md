@@ -79,6 +79,7 @@ We do not all have to be the main character. We do not all have to be melody-mak
 
 To inform your answers, you might enjoy the following related articles:
 
+- [Thich Nhat Hanh on Healing the Wounds of the Past](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Hunter S. Thompson: Don’t Look for Goals, Look for a Way of Life](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/)
 - [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
