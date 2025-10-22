@@ -67,6 +67,7 @@ To inform your answers, you might enjoy the following related articles:
 - [Fyodor Dostoevsky and Olaf Stapledon on True Security](/articles/fyodor-dostoevsky-and-olaf-stapledon-on-true-security/)
 - [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)
 - [The Stoics on What to Do When the World Feels Broken](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/)
+- [Havi Carel on the Philosophy of Illness: Is Good Health Necessary for a Good Life?](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 
 ## Get one famous philosophical idea in your inbox each Sunday

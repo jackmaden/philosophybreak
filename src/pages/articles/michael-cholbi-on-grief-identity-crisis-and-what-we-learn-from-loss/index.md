@@ -126,6 +126,7 @@ To inform your answers, you might enjoy the following related articles:
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Why Death is Nothing to Fear: Lucretius and Epicureanism](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/)
+- [Havi Carel on the Philosophy of Illness: Is Good Health Necessary for a Good Life?](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/)
 
 ## Get one famous philosophical idea in your inbox each Sunday
 
