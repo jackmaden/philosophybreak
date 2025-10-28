@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20250924
+# Mediavine Ads.txt v20251024
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -80,6 +80,7 @@ connatix.com, 2122661585266952, RESELLER, 2af98acdee0e81ed
 video.unrulymedia.com, 687806135, RESELLER
 pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+amxrtb.com, 105199953, DIRECT
 
 
 
