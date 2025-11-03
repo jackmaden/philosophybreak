@@ -87,6 +87,7 @@ Of course, the great irony that perhaps overshadows Heidegger's work on authenti
 
 <span class="big-letter">I</span>f you’re interested in learning more about existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading list of [existentialism’s best books](/reading-lists/existentialism/), as well as the following related reads:
 
+- [Heidegger: We Are Time Unfolding (and our Time is Finite)](/articles/heidegger-we-are-time-unfolding-and-our-time-is-finite/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)

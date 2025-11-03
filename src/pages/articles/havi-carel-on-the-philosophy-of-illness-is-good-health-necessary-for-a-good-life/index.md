@@ -154,6 +154,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [Michael Cholbi on Grief, Identity Crisis, and What We Learn from Loss](/articles/michael-cholbi-on-grief-identity-crisis-and-what-we-learn-from-loss/)
+- [Heidegger: We Are Time Unfolding (and our Time is Finite)](/articles/heidegger-we-are-time-unfolding-and-our-time-is-finite/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)
