@@ -37,15 +37,17 @@ Our being is time, and this time is _finite_. This is what we need to understand
 
 It’s easy to be quite flippant here. Yeah yeah, we’re all mortal. I know I’ll die one day. You only live once and all that.
 
-Heidegger thinks we need to better grasp the reality of our finitude. He recasts human existence as ‘being-towards-death’, because no matter what we do, the void waits to wipe it clean: we are not progressing towards a grand finale, we are free falling towards erasure. Death is the lurking obliterator, the perpetual possibility of _impossibility_.
+Heidegger thinks we need to better grasp the reality of our finitude. He recasts human existence as ‘being-towards-death’, because everything we do occurs in the shadow of the void: we are not progressing towards a grand finale, we are free falling towards erasure. This erasure is not a future misfortune but an everpresent threat: death is the lurking obliterator, the perpetual possibility of _impossibility_.
 
 None of this is supposed to be morbid, by the way; it’s a mere statement of fact, something Heidegger thinks it’s worth trying to make sense of. When we face up to our condition, he notes, 
 
 >death reveals itself as that _possibility which is one’s ownmost, which is non-relational, and which is not to be outstripped…_
 
-Thus for Heidegger death is personal (no one else can face it for us), it negates all our relationships (no one else can face it with us), and it cannot be outdone by any of our mortal projects (it is the great annihilation of all meaning and possibility). Furthermore, death is certain and always impending. 
+Philosophers interpret Heidegger’s densely original account of death in various ways, but for our purposes here we can decipher it thus: death is personal (no one else can face it for us), it negates all our relationships (no one else can face it with us), and it cannot be outdone by any of our mortal projects (it is the great annihilation of all meaning and possibility).
 
-It’s tempting to flee from this rather bleak finality. We often act as if we are _not_ constantly projecting forward to death’s horizon. We convince ourselves we’ll still have time _later._
+Furthermore, death is certain and always impending: it is not some far off isolated event (Heidegger distinguishes the literal end of our life as our ‘demise’); it structures our very way of being. Death is something we must always live with: we continually face the possibility of impossibility.
+
+Yet we often evade or flee from this finality, Heidegger suggests: we act as if we are _not_ constantly projecting forward in lockstep with death. Rather than as a possibility inherent to us all, convention treats death as an actuality that befalls others, elsewhere: we, the living, remain untouched by it. Thus we convince ourselves we’ll still have time _later_.
 
 Yes, later: that’s when I’ll really start living. You should see how amazing my life is going to be _later_. When I’ve earned this amount of money, when I’ve moved into this kind of house, when I’ve become famous and adored by all. That’s when I’ll be in the right space to start living.
 
@@ -53,17 +55,21 @@ But if [like Havi Carel](/articles/havi-carel-on-the-philosophy-of-illness-is-go
 
 Heidegger wants us to realize that this death sentence is not hypothetical: it looms over all of us, every single day. Rather than deny or passively await death — responses which only perpetuate patterns of inauthenticity — Heidegger thinks we should actively _anticipate_ it.
 
+Anticipation does not mean constantly brooding over death but recognizing ourselves — now — as radically finite beings with limited possibilities (here I follow [Mark Wrathall’s interpretation](https://plato.stanford.edu/entries/heidegger/#Deat)).
+
 When we genuinely grasp ourselves as finite temporal beings, we can release ourselves from the illusions of the anonymous ‘They’ (i.e. the traps of convention), and discover what really matters to us. As Heidegger puts it:
 
 >\[a]ntipation reveals to Dasein [the human being] its lostness in the they-self, and brings it face to face with the possibility of being itself… in an impassioned _freedom towards death_—a freedom which has been released from the Illusions of the ‘they’...
 
-In other words, the anxiety we experience on facing up to the true weight of death illuminates all the utter _rubbish_ that fills our lives, and also provides us with the energy with which we can cut through it. Nothingness will soon descend. We should put up with bullshit — society’s, other people’s, our own — not one moment longer.
+In other words, the anxiety accompanying the possibility of death should not be ignored or rationalized away but harnessed to illuminate all the utter _rubbish_ that fills our lives: it can grant us the energy we need to take hold of our mortality and deploy it with greater awareness and responsibility. 
 
-Every second is irretrievable: understanding this should whip us into finding what we value and immersing ourselves in it, while we still can.
+Nothingness is always possible. The prospect of nothingness reveals the contingency of how we live: it frees us to put up with bullshit — society’s, other people’s, our own — not one moment longer.
+
+Every second is irretrievable: comprehending this should whip us into finding what we value and immersing ourselves in it, while we still can. 
 
 Of course, accepting our finitude may grant urgency, but it doesn’t guarantee wisdom. The great irony that perhaps overshadows Heidegger’s work on authenticity is his affiliation with the Nazi party in 1930s Germany — he was drawn into the dominant ‘They’ of the time. While he later described his affiliation as the greatest stupidity of his life, he never apologized, leaving a permanent stain on his philosophical life and career.
 
-I don’t think this invalidates the value of keeping our mortality in mind, however. Beyond urgently revealing to us what matters, awareness of our finitude can also bring a kind of relief.
+I don’t think this invalidates the value of living alongside our mortality, however. Beyond urgently revealing to us what matters for us, awareness of our finitude can also bring a kind of relief.
 
 This is the premise behind Oliver Burkeman’s brilliant meditation on mortality, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/43cta5r">Four Thousand Weeks​</a>: we will never get everything done, because we physically _can’t_. There isn’t time. The magical destination we strive towards, the place where we’ve finally achieved everything, where we’ll at last be able to lie back and enjoy life: this place doesn’t exist. Outside of nothingness, there is only — and there only ever will be — the limited now.
 
