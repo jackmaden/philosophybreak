@@ -95,7 +95,7 @@ While she died before completing <a target="_blank" rel="noopener noreferrer spo
 
 >It is indeed my opinion now that evil is never ‘radical’, that it is only extreme, and that it possesses neither depth nor any demonic dimension. It can overgrow and lay waste the whole world precisely because it spreads like a fungus on the surface... Only the good has depth that can be radical.
 
-In other words: evil spreads through shallow passivity, a lack of interest in engaging beyond the surface; an expansive fighting spirit is needed to keep goodness alive. _Thinking carefully for ourselves_ provides a raft by which to navigate the daily waves of information, custom, and circumstance.
+In other words: evil spreads through shallow passivity, a lack of interest in engaging beyond the surface; expansive rational judgment is needed to keep goodness alive. _Thinking carefully for ourselves_ provides a raft by which to navigate the daily waves of information, custom, and circumstance.
 
 Indeed, evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda.
 
