@@ -56,7 +56,7 @@ Arendt provides a warning here — for it is precisely our tendency to adopt jud
 
 If we’re not careful, evil principles can gradually emerge to become the new normal, and like the militant cutlery-using guests at the formal dinner party, we’ll defend those principles not necessarily because we’ve independently concluded they’re worth defending, but because they’re ‘normal’.
 
-In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not just the responsibility of a handful of twisted men. Those men kickstarted it, but society enabled it: a lack of empathetic critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.
+In relation to something as heinous as the crimes of Nazi Germany, this uncomfortable conclusion caused quite a stir in Arendt’s day. It implied the crimes of Nazi Germany were not just the responsibility of a handful of twisted men. Those men kickstarted it, but society enabled it: a lack of critical thinking, a desensitization, a human susceptibility to totalitarianism — this is what led to the murder of millions.
 
 Arendt had Nazi Germany as her template, but argued systemic oppression and the gradual normalization of evil can occur anywhere, any time, and at any scale.
 
@@ -95,15 +95,15 @@ While she died before completing <a target="_blank" rel="noopener noreferrer spo
 
 >It is indeed my opinion now that evil is never ‘radical’, that it is only extreme, and that it possesses neither depth nor any demonic dimension. It can overgrow and lay waste the whole world precisely because it spreads like a fungus on the surface... Only the good has depth that can be radical.
 
-In other words: evil spreads through shallow passivity, a lack of interest in engaging beyond the surface; a deep and compassionate fighting spirit is needed to keep goodness alive. _Thinking carefully for ourselves_ provides a raft by which to navigate the daily waves of information, custom, and circumstance.
+In other words: evil spreads through shallow passivity, a lack of interest in engaging beyond the surface; an expansive fighting spirit is needed to keep goodness alive. _Thinking carefully for ourselves_ provides a raft by which to navigate the daily waves of information, custom, and circumstance.
 
-Indeed, evil’s banality suggests its antidote begins in active, empathetic thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda.
+Indeed, evil’s banality suggests its antidote begins in active thinking. By being sensitive to different viewpoints and scrutinizing everything we might otherwise adopt or conform to unconsciously, we can be guided by reason, rather than misled by rhetoric or propaganda.
 
 It’s not always easy, but by approaching life _philosophically_ — by actively, carefully considering matters from multiple perspectives — we can weigh things and take responsibility for our judgments and behaviors _independently_, rather than risk becoming an unthinking enabler of principles we wouldn’t necessarily subscribe to, if only we took the time to think about them.
 
 ## What do you make of Arendt’s banality of evil?
 
-- Do you agree with Arendt’s assessment that there is nothing radical about evil — that it arises through a failure of empathetic imagination?
+- Do you agree with Arendt’s assessment that there is nothing radical about evil — that it arises through a failure of imagination?
 - Is critical thinking a way to protect against evil?
 - Or do evil’s roots go deeper than Arendt supposes?
 
