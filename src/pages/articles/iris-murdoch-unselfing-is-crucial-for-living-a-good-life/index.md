@@ -13,11 +13,11 @@ authorLink: "/about/"
 
 <span class="big-letter">I</span>ris Murdoch (1919 - 1999) was an Irish-British philosopher and writer best known for her moral philosophy and philosophical novels. 
 
-A formidable and original thinker, in her philosophical work Murdoch developed and defended a unique ethical system; her contributions to literature, meanwhile, include 26 award-winning novels, some of which are celebrated as among the English language’s most interesting literary works of the 20th century.
+A formidable and original thinker, in her philosophical work Murdoch developed and defended a unique ethical system; her contributions to literature, meanwhile, include 26 award-winning novels, some of which are celebrated as among the English language’s most interesting literary works of the 20th century. (So far I've particularly enjoyed <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4pzik28">The Bell</a>, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4iqYd3M">The Black Prince</a>, and <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/49Ou4JI">The Sea, The Sea</a>, all of which are deep and mad). 
 
 One of Murdoch’s major ideas in moral philosophy is her concept of “unselfing”. 
 
-Murdoch thought our inner lives are too often clogged by what she calls the “fat, relentless ego” — but that by contemplating beauty in nature and art, we can deflate the brooding, grasping self and open our eyes to reality. 
+Murdoch thought our inner lives are too often clogged by what she calls the “fat, relentless ego”, but that by contemplating beauty in nature and art, we can deflate the brooding, grasping self and open our eyes to reality. 
 
 In her 1970 philosophical work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Sovereignty-Good-Iris-Murdoch/dp/0415253993?&linkCode=ll1&tag=philosophybre-20&linkId=077df831a98b15b403857666220d2a40&language=en_US&ref_=as_li_ss_tl">The Sovereignty of Good</a>, Murdoch eloquently describes the process of “unselfing” in action:
 
@@ -47,7 +47,7 @@ In moments of awe, Hesse writes in a substantial yet beautiful passage, we exper
 
 ## Through unselfing, we connect to the Good
 
-<span class="big-letter">B</span>eauty in art and nature thus provides the impetus for unselfing — it inspires a change in consciousness, Murdoch observes, that deflates the ego and minimizes our selfish concerns. Commenting on the power of great art to move us in this way, Murdoch writes in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Sovereignty-Good-Iris-Murdoch/dp/0415253993?&linkCode=ll1&tag=philosophybre-20&linkId=077df831a98b15b403857666220d2a40&language=en_US&ref_=as_li_ss_tl">The Sovereignty of Good</a>:
+<span class="big-letter">B</span>eauty in art and nature thus provides the impetus for unselfing: it inspires a change in consciousness, Murdoch observes, that deflates the ego and minimizes our selfish concerns. Commenting on the power of great art to move us in this way, Murdoch writes in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Sovereignty-Good-Iris-Murdoch/dp/0415253993?&linkCode=ll1&tag=philosophybre-20&linkId=077df831a98b15b403857666220d2a40&language=en_US&ref_=as_li_ss_tl">The Sovereignty of Good</a>:
 
 >Both in its genesis and its enjoyment [great art] is a thing totally opposed to selfish obsession. It invigorates our best faculties and, to use Platonic language, inspires love in the highest part of the soul. It is able to do this partly by virtue of something which it shares with nature: a perfection of form which invites unpossessive contemplation and resists absorption into the selfish dream life of the consciousness.
 
@@ -55,11 +55,9 @@ Unselfing through such “unpossessive contemplation” reconnects us to reality
 
 For, while the existentialist philosophers of the 20th century respond to [Nietzsche’s declaration of the death of God](/articles/god-is-dead-nietzsche-famous-statement-explained/) by claiming we are each responsible for creating our own meaning and values, Murdoch maps a different route.
 
-By rejecting God, we need not reject all structures of objective value, Murdoch tells us. 
+By rejecting God, we need not reject all structures of objective value, Murdoch tells us. In fact, our concept of God can be replaced by a Platonic-like concept of “the Good”. Despite what the existentialists say, there _is_ an objective moral reality that exists beyond the self, that can be known by human persons, and that motivates us to act morally. 
 
-In fact, our concept of God can be replaced by a Platonic-like concept of “the Good” — for, despite what the existentialists say, there _is_ an objective moral reality that exists beyond the self, that can be known by human persons, and that motivates us to act morally. 
-
-This moral reality is evidenced, Murdoch suggests, in cases of clear moral virtue — like acts of courage, honesty, and kindness. From such simple acts, we can then “ascend” in our analysis to reflect on the Good they express. 
+This moral reality is evidenced, Murdoch suggests, in cases of clear moral virtue, like acts of courage, honesty, and kindness. From such simple acts, we can then “ascend” in our analysis to reflect on the Good they express. 
 
 Importantly, the Good is nothing transcendent on Murdoch’s picture. It is not some mysterious otherworldly force beyond the realm of our everyday experience. 
 
