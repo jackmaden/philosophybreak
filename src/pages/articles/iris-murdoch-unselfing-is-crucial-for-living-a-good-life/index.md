@@ -5,7 +5,7 @@ image: "./Bierstadt_Farallon_Islands.jpeg"
 imageAlt: "Albert Bierstadt, Farallon Islands (1872)"
 imageSeo: "./Bierstadt_Farallon_Islands.jpeg"
 tags: ["Self", "Iris Murdoch", "Ethics"]
-date: "2024-01-15"
+date: "2025-11-30"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
@@ -44,23 +44,6 @@ Reflecting on Goethe’s exclamation, “I am here, that I may wonder!”, Hesse
 In moments of awe, Hesse writes in a substantial yet beautiful passage, we experience the unity of all that exists:
 
 >Wonder is where it starts, and though wonder is also where it ends, this is no futile path. Whether admiring a patch of moss, a crystal, flower, or golden beetle, a sky full of clouds, a sea with the serene, vast sigh of its swells, or a butterfly wing with its arrangement of crystalline ribs, contours, and the vibrant bezel of its edges, the diverse scripts and ornamentations of its markings, and the infinite, sweet, delightfully inspired transitions and shadings of its colors — whenever I experience part of nature, whether with my eyes or another of the five senses, whenever I feel drawn in, enchanted, opening myself momentarily to its existence and epiphanies, that very moment allows me to forget the avaricious, blind world of human need, and rather than thinking or issuing orders, rather than acquiring or exploiting, fighting or organizing, all I do in that moment is ‘wonder,’ like Goethe, and not only does this wonderment establish my brotherhood with him, other poets, and sages, it also makes me a brother to those wondrous things I behold and experience as the living world: butterflies and moths, beetles, clouds, rivers and mountains, because while wandering down the path of wonder, I briefly escape the world of separation and enter the world of unity.
-
-<!--small subscribe-->
-<div class="course-promo darkradial-background subscribe text-center">
-    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
-    <div class="small-pad-top">
-        <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
-        <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
-            <div>
-                <input name="email_address" aria-label="Your Email Address..." placeholder="Your Email Address..." required type="email" />
-            </div>
-            <button class="button primary" type="submit" data-element="submit"><div><div></div><div></div><div></div></div><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Join 24,000+ Subscribers</span></button>
-            </div>
-            </div>
-        </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
-    </div>
-</div>
 
 ## Through unselfing, we connect to the Good
 
