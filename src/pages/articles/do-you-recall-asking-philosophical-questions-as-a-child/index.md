@@ -42,14 +42,19 @@ Magee was unimpressed. “If they were unable as I was to answer the question,�
 
 Hershovitz offers some fantastic examples of questions children ask that cut right to the heart of philosophical issues. 
 
-
 A boy named Ian, for instance, unable to watch his favorite TV channel because three people wanted to watch something else, asks:
 
 >Why is it better for three people to be selfish than one?
 
 “That is maybe my favorite question in the book, actually,” Hershovitz comments:
 
->The child who asked that question, Ian, hasn’t yet been acculturated in the way we make decisions, so this is the first time he’s encountered the idea that if more people want something, that makes it the right or fair thing to do. His question is a challenge to certain economic ways of thinking about the world, i.e. that we should just be trying to maximize the satisfaction of people’s preferences. It’s also a challenge to democracy in a really interesting way: if people are voting for their selfish interests, why is that a good way of making decisions?<br><br>Ian’s is a fantastic question and is typical of the kind that children ask seemingly effortlessly in ways that undermine our social practices.<br><br>Once you have an eye out for these kinds of inquiries, you’ll start noticing kids saying all sorts of philosophically interesting things just with their casual comments and queries.
+>The child who asked that question, Ian, hasn’t yet been acculturated in the way we make decisions, so this is the first time he’s encountered the idea that if more people want something, that makes it the right or fair thing to do. His question is a challenge to certain economic ways of thinking about the world, i.e. that we should just be trying to maximize the satisfaction of people’s preferences. It’s also a challenge to democracy in a really interesting way: if people are voting for their selfish interests, why is that a good way of making decisions?
+
+Of course, it’s unlikely Ian intended to so rigorously interrogate democracy with his initial protestation; he just wanted to watch his TV show. But his query is a good example of the kinds of questions that children ask seemingly effortlessly in ways that undermine our social practices.
+
+“Once you have an eye out for these kinds of inquiries,” Hershovitz says,
+
+>you’ll start noticing kids saying all sorts of philosophically interesting things just with their casual comments and queries.
 
 The point is not that we should over-romanticise the genius of children or put them in charge; it’s just that what we might otherwise call ‘naive’ can often be philosophically compelling.
 
