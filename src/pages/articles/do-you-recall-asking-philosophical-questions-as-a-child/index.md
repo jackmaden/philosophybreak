@@ -49,7 +49,13 @@ A boy named Ian, for instance, unable to watch his favorite TV channel because t
 
 “That is maybe my favorite question in the book, actually,” Hershovitz comments:
 
->The point is that the child who asked that question, Ian, hasn’t yet been acculturated in the way we make decisions, so this is the first time he’s encountered the idea that if more people want something, that makes it the right or fair thing to do. His question is a challenge to certain economic ways of thinking about the world, i.e. that we should just be trying to maximize the satisfaction of people’s preferences. It’s also a challenge to democracy in a really interesting way: if people are voting for their selfish interests, why is that a good way of making decisions?<br><br>Ian’s is a fantastic question and is typical of the kind that children ask seemingly effortlessly in ways that undermine our social practices.<br><br>Once you have an eye out for these kinds of inquiries, you’ll start noticing kids saying all sorts of philosophically interesting things just with their casual comments and queries.
+>The child who asked that question, Ian, hasn’t yet been acculturated in the way we make decisions, so this is the first time he’s encountered the idea that if more people want something, that makes it the right or fair thing to do. His question is a challenge to certain economic ways of thinking about the world, i.e. that we should just be trying to maximize the satisfaction of people’s preferences. It’s also a challenge to democracy in a really interesting way: if people are voting for their selfish interests, why is that a good way of making decisions?<br><br>Ian’s is a fantastic question and is typical of the kind that children ask seemingly effortlessly in ways that undermine our social practices.<br><br>Once you have an eye out for these kinds of inquiries, you’ll start noticing kids saying all sorts of philosophically interesting things just with their casual comments and queries.
+
+The point is not that we should over-romanticise the genius of children or put them in charge; it’s just that what we might otherwise call ‘naive’ can often be philosophically compelling.
+
+As the 17th-century philosopher John Locke puts it,
+
+>there is frequently more to be learn’d from the unexpected questions of a child than the discourses of men, who talk in a road, according to the notions they have borrowed, and the prejudices of their education.
 
 ## ​Are there any questions you remember asking as a child that went unanswered?
 
