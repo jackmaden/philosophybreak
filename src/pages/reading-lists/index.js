@@ -138,6 +138,8 @@ const Page = ({ data, location }) => {
                 
                 <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
 
+                <BannerReadingList title="Franz Kafka" number="5" link="/reading-lists/franz-kafka-best-books/" img={data.kafka.childImageSharp.gatsbyImageData} alt="Franz Kafka reading list" />
+
                 <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.arendt.childImageSharp.gatsbyImageData} alt="Hannah Arendt reading list" />
 
                 <BannerReadingList title="Ayn Rand" number="5" link="/reading-lists/ayn-rand/" img={data.rand.childImageSharp.gatsbyImageData} alt="Ayn Rand reading list" />
@@ -389,6 +391,11 @@ export const query = graphql`{
     }
   }
   beauvoir: file(relativePath: {eq: "beauvoir.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  kafka: file(relativePath: {eq: "kafka.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
