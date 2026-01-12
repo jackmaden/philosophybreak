@@ -89,6 +89,7 @@ To inform your answers, you might enjoy the following related articles:
 
 - [Why Death is Nothing to Fear: Lucretius and Epicureanism](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/)
 - [Epicurus On Why Death Should Not Concern Us](/articles/epicurus-on-why-death-should-not-concern-us/)
+- [Jorge Luis Borges: When We Die, What Dies With Us?](/articles/jorge-luis-borges-when-we-die-what-dies-with-us/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [Havi Carel on the Philosophy of Illness: Is Good Health Necessary for a Good Life?](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)

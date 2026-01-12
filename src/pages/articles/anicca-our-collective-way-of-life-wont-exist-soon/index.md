@@ -69,6 +69,7 @@ As the Buddha fittingly advises, in what are reported to be his last ever words:
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Mono No Aware: Beauty and Impermanence in Japanese Philosophy](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/)
 - [The Buddha’s Four Noble Truths: the Cure for Suffering](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/)
+- [Jorge Luis Borges: When We Die, What Dies With Us?](/articles/jorge-luis-borges-when-we-die-what-dies-with-us/)
 - [The Last Time Meditation: a Stoic Tool for Living in the Present](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/)
 - [Finding Rapture in the Humdrum: Cultivating Wonder for Everyday Life](/articles/finding-rapture-in-the-humdrum-cultivating-wonder-for-everyday-life/)
 - [Seneca On Coping with the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)
