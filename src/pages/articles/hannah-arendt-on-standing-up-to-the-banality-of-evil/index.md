@@ -14,9 +14,7 @@ authorLink: "/about/"
 
 >The sad truth is that most evil is done by people who never make up their minds to be good or evil.
 
-Indeed, Arendt was a German philosopher and political theorist who saw the techniques and evil consequences of totalitarian regimes firsthand.
-
-Born into a secular-Jewish family, Arendt fled Nazi Germany in the 1930s, eventually settling in New York, where after the war she covered the trial of Nazi war criminal Adolf Eichmann.
+Arendt was a German philosopher and political theorist who saw the techniques and evil consequences of totalitarian regimes firsthand. Born into a secular-Jewish family, Arendt fled Nazi Germany in the 1930s, eventually settling in New York, where after the war she covered the trial of Nazi war criminal Adolf Eichmann.
 
 In her report for The New Yorker, and later published in her 1963 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143039881/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143039881&linkId=cd83ff0ef041e75e7777bc9883b92fa6">Eichmann in Jerusalem: A Report on the Banality of Evil</a>, Arendt expressed how disturbed she was by Eichmann — but for reasons that might not be expected.
 
