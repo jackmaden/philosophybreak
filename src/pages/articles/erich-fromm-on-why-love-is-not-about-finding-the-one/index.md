@@ -89,7 +89,7 @@ By cultivating our faculty for love, by attempting to tackle our own misconcepti
 - Do you think love revolves around finding the perfect person?
 - Or, if a suitable match is found, should the emphasis be placed on growing and sustaining love through effort and work?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
 - [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)

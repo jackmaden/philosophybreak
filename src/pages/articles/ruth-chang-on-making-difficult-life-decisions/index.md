@@ -97,7 +97,7 @@ If we can begin to answer such questions, then we might catalyze the production 
 - Do you think ‘commitment’ is a useful and empowering idea? Or does it not help in the face of hard choice?
 - Which crossroads have you faced in life, and how did you decide which path to take?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)

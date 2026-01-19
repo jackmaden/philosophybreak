@@ -77,7 +77,7 @@ We do not all have to be the main character. We do not all have to be melody-mak
 - When do you feel most at ease, most ‘in flow’?
 - Do you think attuning to dao would make life better? Or does the approach carry no appeal?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Thich Nhat Hanh on Healing the Wounds of the Past](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)

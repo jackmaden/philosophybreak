@@ -134,7 +134,7 @@ We cannot love or help ourselves or others if we are perpetually elsewhere. We c
 - Is anchoring ourselves in the present the key to a good life?
 - How have meditation or mindfulness enhanced your life, if at all?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)

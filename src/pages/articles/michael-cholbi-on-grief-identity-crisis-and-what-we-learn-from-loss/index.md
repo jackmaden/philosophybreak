@@ -118,7 +118,7 @@ Though it is unbearably painful, we owe it to ourselves to grieve the losses we 
 - Is our propensity for grief to be welcomed rather than regretted, even if grief can feel unbearable?
 - How has grief played a role in your life?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)

@@ -97,7 +97,7 @@ Then, when you’re ready, turn outward again with hope, and come back to the wo
 - Do you agree with Morrison that catastrophe is precisely the moment we must get to work?
 - Or is it entirely permissible to feel gloomy about the future?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [The Last Time Meditation: a Stoic Tool for Living in the Present](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/)

@@ -65,7 +65,7 @@ The writer William Martin channels such wisdom into a wonderful poem from his 19
 - How do you cultivate awe and attention in the heat of the day-to-day?
 - What did you last truly wonder at?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [The Last Time Meditation: a Stoic Tool for Living in the Present](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/)
 - [Iris Murdoch: ‘Unselfing’ is Crucial for Living a Good Life](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)

@@ -63,7 +63,7 @@ _— <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.t
 - How do you think people can combat propaganda?
 - How do you decide what to believe online?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
 - [​Hannah Arendt on the Human Condition: Productivity Will Replace Meaning​](/articles/hannah-arendt-on-the-human-condition-productivity-will-replace-meaning/)

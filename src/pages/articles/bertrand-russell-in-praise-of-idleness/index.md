@@ -103,7 +103,7 @@ As Russell concludes his essay:
 - Do you think society will ever promote more leisure for all? Or will the powerful always try to retain their privileges? 
 - Do you feel the need to always be productive? Or do you recognize the importance of active leisure? 
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Simone de Beauvoir on the Crisis of Retirement and Facing Old Age](/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/)

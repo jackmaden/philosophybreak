@@ -150,7 +150,7 @@ In the foreword to the third edition of <a target="_blank" rel="noopener norefer
 - Is the concept of health captured by ‘biological functioning’? Or is someone’s experience of their biological functioning also important?
 - If you were informed you only had a few years to live, would that change how you approached your life?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
 - [Michael Cholbi on Grief, Identity Crisis, and What We Learn from Loss](/articles/michael-cholbi-on-grief-identity-crisis-and-what-we-learn-from-loss/)

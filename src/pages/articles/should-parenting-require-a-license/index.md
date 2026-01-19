@@ -95,7 +95,7 @@ This view is dangerous for children, LaFollette implores. We need to move on fro
 - If a parenting test _could_ be accurately designed and fairly administered, do you think it should be implemented?
 - If we deem parental licensing unreasonable, why do we accept competency checks on adoptive parents?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Antinatalism: David Benatar’s Asymmetry Argument for Why it’s Wrong to Have Children](/articles/antinatalism-david-benatar-asymmetry-argument-for-why-its-wrong-to-have-children/)
 - [Laurie Ann Paul on How to Approach Transformative Decisions (Like Having a Child)](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)

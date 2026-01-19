@@ -117,7 +117,7 @@ But if we _do_ long for more meaning in our lives, if we feel a little alienated
 - What do you think makes an activity objectively ‘worthwhile’?
 - What gives you meaning in life?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)

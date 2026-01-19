@@ -66,7 +66,7 @@ Ultimately, we mustn’t confuse endless consumer choice with genuine freedom. I
 - Could choice have a ‘happy medium’? What would that look like?
 - Which freedoms do you value?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
 - [Ruth Chang on Making Difficult Life Decisions](/articles/ruth-chang-on-making-difficult-life-decisions/)

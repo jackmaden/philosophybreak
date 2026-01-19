@@ -47,7 +47,7 @@ If we can recognize this and move beyond the spiritual quagmire of extreme indiv
 - Can true security only be achieved if we part with individualism and embrace community?
 - Or will collective human action forever be disunified?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Ubuntu Philosophy: Wealth Resides in the Health of the Community](/articles/ubuntu-philosophy-wealth-resides-in-the-health-of-the-community/)
 - [​James Baldwin: Suffering Can Become a Force for Good​](/articles/james-baldwin-suffering-can-become-a-force-for-good/)

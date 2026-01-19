@@ -93,7 +93,7 @@ Consider, by contrast, the perspective offered in [Aristotle’s discussions on 
 - Does your conception of love chime more with the image given by Aristophanes, that we yearn for reunion with our other half?
 - Or do you prefer Aristotle’s view, that the value of love comes from the value of the relationship itself?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
 - [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)

@@ -60,7 +60,7 @@ Though Thucydides wrote the <a target="_blank" rel="noopener noreferrer sponsore
 - Do you think embracing idealistic principles ultimately benefits everyone?
 - Is there a middle path?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
 - [Simone Weil’s Ethic of Resistance: Resisting Not Just Power, but the Race for Power](/articles/simone-weil-ethic-of-resistance/)

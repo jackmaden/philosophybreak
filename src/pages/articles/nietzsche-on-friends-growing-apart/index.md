@@ -45,7 +45,7 @@ If Nietzsche’s concept of star friendship resonates with you, the passage in i
 - Does the concept of ‘star friendship’ resonate with you?
 - How might friendships persist even as each party changes and develops through life?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [True Wealth Lies in Friendship: Epicurus and Ho Kepos](/articles/true-wealth-lies-in-friendship-epicurus-and-ho-kepos/)

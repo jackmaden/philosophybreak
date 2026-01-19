@@ -65,7 +65,7 @@ Hence the assertion, in one of [Epicurus’s Principal Doctrines](/articles/epic
 - Would life in Ho Kepos appeal to you?
 - Or is material ambition nothing to apologize for?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)

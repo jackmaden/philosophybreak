@@ -58,7 +58,7 @@ As Nietzsche puts it in <a target="_blank" rel="noopener noreferrer sponsored" h
 - Do you think pain can lead to greater connection, which can then liberate us from pain?
 - Has suffering ever deepened your own connections to others?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Thich Nhat Hanh on Healing the Wounds of the Past](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)

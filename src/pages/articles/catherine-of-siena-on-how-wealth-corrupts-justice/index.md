@@ -49,7 +49,7 @@ Or do you think we just have to live with the old proverb that “Power tends to
 
 ## What do you make of Catherine’s analysis?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)

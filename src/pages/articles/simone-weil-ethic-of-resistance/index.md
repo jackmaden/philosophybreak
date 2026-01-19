@@ -113,7 +113,7 @@ Based on my brief commentary of her ethic of resistance above, however, we may r
 - What do you make of her ethic of resistance? Is resistance worthwhile even if it seems hopeless? Are oppressors also worthy of our compassion?
 - How could the race for power be held in check?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
 - [Catherine of Siena on How Wealth Corrupts Justice​](/articles/catherine-of-siena-on-how-wealth-corrupts-justice/)

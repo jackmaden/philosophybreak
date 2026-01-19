@@ -138,7 +138,7 @@ In contemporary Western society, however, so long as we judge the value of an in
 - What fears do you have about getting older, if any?
 - What is your advice for those approaching retirement or old age?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Aristotle On Why Leisure Defines Us More than Work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)

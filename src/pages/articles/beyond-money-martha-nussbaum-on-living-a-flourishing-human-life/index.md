@@ -96,7 +96,7 @@ We might ask ourselves: in the different capabilities I could cultivate, where w
 - Does thinking in terms of capabilities offer a good alternative to resource- and satisfaction-based approaches to the good life?
 - Are there any other capabilities you think might be needed for a flourishing life?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [​Peter Singer On the Life You Can (and Should) Save​](/articles/peter-singer-on-the-life-you-can-save/)
 - [​John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society​](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)

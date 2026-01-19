@@ -76,7 +76,7 @@ Ultimately, each person on this planet is a [vulnerable human being in search of
 - Is it naive to think humans can bridge big ideological gaps?
 - How do you approach people with opposing views? Have you found success in constructive dialogue?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Isaiah Berlin On Why the Pursuit of the Ideal is Dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)

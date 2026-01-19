@@ -85,7 +85,7 @@ Thinking in line with ubuntu helps us see that we ease the problems of self not 
 - Would you prefer to live in an individualistic or collectivist culture? Could there be a happy medium between the two?​
 - What does wealth mean to you?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [​Beyond Money: Martha Nussbaum on Living a Flourishing Human Life​](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [​Ralph Waldo Emerson’s Self-Reliance Summary: Become Your Own Person​](/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/)

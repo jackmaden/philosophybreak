@@ -150,7 +150,7 @@ Reflecting on antinatalism can thus, ironically, end up being life-affirming: by
 - If you decided to have or not have children, what drove your decision?
 - What do you think makes life worth living?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Laurie Ann Paul on Deciding Whether or Not to Have Children](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
 - [Should Parenting Require a License?](/articles/should-parenting-require-a-license/)

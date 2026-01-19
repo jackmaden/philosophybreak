@@ -141,7 +141,7 @@ Alternatively, we could reconceptualize our relationship with nature. We could r
 - Or do you think the universe, including other life, is a resource for humanity to use as it sees fit?
 - If you do like aspects of Næss’s approach, how might we induce the mass reconceptualization and self-realization he thinks we need?
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)

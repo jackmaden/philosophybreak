@@ -85,7 +85,7 @@ This being, this time will end, and there is no special watch that can pause or 
 - Do you live with death in mind?
 - Or is facing death not quite as liberating as Heidegger or Burkeman suggest? 
 
-To inform your answers, you might enjoy the following related articles:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Why Death is Nothing to Fear: Lucretius and Epicureanism](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/)
 - [Epicurus On Why Death Should Not Concern Us](/articles/epicurus-on-why-death-should-not-concern-us/)
