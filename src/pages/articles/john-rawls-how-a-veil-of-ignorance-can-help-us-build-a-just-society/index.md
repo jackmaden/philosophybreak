@@ -61,7 +61,7 @@ Rather, he proposes the veil of ignorance as a hypothetical thought experiment â
 
 In his 1971 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Theory-Justice-John-Rawls/dp/0674000781?&linkCode=ll1&tag=philosophybre-20&linkId=32f800053d60a9b8127a0026165f8645&language=en_US&ref_=as_li_ss_tl">A Theory of Justice</a>, Rawls uses it as the starting point, the original position, from which he builds his case that societal justice essentially means _fairness_.
 
-As he comments: 
+As a popular paraphrase of Rawls has it: 
 
 >A just society is a society that if you knew everything about it, youâ€™d be willing to enter it in a random place.
 

@@ -39,7 +39,7 @@ The Ghanaian theologian John S. Pobee, for example, reconstrues Descartes’ fam
 
 There is also the Zulu phrase _umuntu ngumuntu ngabantu_, ‘a person is a person through other persons’, and Kenyan philosopher John Mbiti’s dictum, ‘I am because we are’. 
 
-Ubuntu doesn’t extinguish the ideas of self or personal growth, it just understands them through our relationships to the wider community. As the philosopher Augustine Shutte puts it in a [2001 essay on ubuntu](https://philpapers.org/rec/SHUUAE):
+Ubuntu doesn’t extinguish the ideas of self or personal growth, it just understands them through our relationships to the wider community. As the philosopher Augustine Shutte puts it in his [2001 book on ubuntu](https://philpapers.org/rec/SHUUAE):
 
 >Our deepest moral obligation is to become more fully human. And this means entering more and more deeply into community with others. So although the goal is personal fulfilment, selfishness is excluded.
 
