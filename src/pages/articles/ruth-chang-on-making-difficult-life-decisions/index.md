@@ -101,6 +101,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Laurie Ann Paul on How to Approach Transformative Decisions](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
+- [Erich Fromm: Our Task is Not to Feel Certain, but to Better Tolerate Uncertainty](/articles/erich-fromm-our-task-is-not-to-feel-certain-but-to-better-tolerate-uncertainty/)
 - [The Paradox of Choice: Barry Schwartz on Why More is Less](/articles/the-paradox-of-choice-barry-schwartz-on-why-more-is-less/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)

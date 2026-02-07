@@ -131,7 +131,7 @@ const ReadingList = ({ data, location }) => {
                         </div>
                     </Link>
                 </div>
-                <p>Finally, if you’re interested in learning not just about Marcus Aurelius’s Stoicism, but comparing its insights to six rival philosophies for life, look no further than the 2025 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link>. This concise online guide is instantly accessible from any device and distills the best and most important wisdom from Stoicism, Buddhism, Existentialism, and more.</p>
+                <p>Finally, if you’re interested in learning not just about Marcus Aurelius’s Stoicism, but comparing its insights to six rival philosophies for life, look no further than the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link>. This concise online guide is instantly accessible from any device and distills the best and most important wisdom from Stoicism, Buddhism, Existentialism, and more.</p>
                 <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand some of life’s most influential ethical frameworks, examine the pros and cons of each, and discover how they might apply to your own life, then this is the guide for you. <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and might be just what you’re looking for!</p>
               
 

@@ -53,9 +53,9 @@ Solving the problem of consciousness, Chalmers thinks, lies not in simply descri
 
 So what _is_ this felt-experience, exactly? Perhaps we could say that when we are conscious we sense the subjective qualitative _feel_ of that which is experienced: the vivid _redness_ of ripe tomatoes, the cool _smoothness_ of silk, the sub-bass _boom_ of a thunderclap. But in the literature on consciousness there's a whole host of terminology used to describe it, including subjective conscious experience, qualitative experience, phenomenal experience, ‘raw feels’ and qualia. 
 
-Consciousness is characterized most evocatively, I think, by Thomas Nagel in his [What is it Like to be a Bat?](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf) essay, written in 1974: 
+Consciousness is characterized most evocatively, I think, by [Thomas Nagel in his _What is it Like to be a Bat?_](/articles/thomas-nagel-what-is-it-like-to-be-a-bat/) essay, written in 1974: 
 
->[A]n organism has conscious mental states if there is something that it is like to _be_ that organism – something it is like _for_ the organism. 
+>\[A]n organism has conscious mental states if there is something that it is like to _be_ that organism – something it is like _for_ the organism. 
 
 Indeed, the point about conscious experience is that there is _something it is like_ for the experiencer to see x, hear y, or feel z, and it is through our subjective conscious experiences that we each know the world.
 

@@ -255,96 +255,96 @@ const Page = ({ data, location }) => {
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Amazing</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Amazing - so much help in understanding Nietzsche so I can attempt to finish my college paper. I struggled to understand him and his reasoning but with this it helped bring it full circle for me. Thank you! Delivery of the course was perfect and easy to manage. Keep up the good work! It's most appreciated and I shared your site with my fellow college students as well as my daughter's college friends!</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Deborah W. on 17 November 2024</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Deborah W. on 17 November 2025</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very interesting</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Content was very interesting, easy to digest and still encouraging to reflect and find out more. It was also a way to refresh the basics I already had and an opportunity to reflect again about it.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sabine V. on 18 December 2023</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sabine V. on 18 December 2024</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Best explanation I've seen</i></span></p>
                             <span style={{lineHeight: "1.3"}}>An exceptionally good course. I have been studying philosophy independently for about 10 years, this came as a bi-product of studying Christian history. This is the best Nietzsche explanation I have seen. You have a great skill in being able to express a complex subject with clarity and ease. I found it a great 'pulling together' of all I thought I knew, and the course delivery was perfect. God is Dead was my favorite chapter, but I loved them all. Keep creating work like this and I will always subscribe. Thank you for all the work you put into this.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert N. on 10 August 2023</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert N. on 10 August 2024</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Exceptional</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Exceptional. It was the perfect level and content for me. I signed up because during an interview Douglas Murray referenced Nietzsche and said something like, "One must be very careful with Nietzsche." I didn't know what he meant but I believe I understand now. The very first chapter hooked me with all the biographical details which made me even more interested in his work. I looked forward to receiving each new chapter which displayed perfectly on my laptop. I ordered several of the books you recommended from Amazon. Thank you very much.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Stacey L. on 15 June 2023</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Stacey L. on 15 June 2024</span></div>
                         </div>
                         
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Amazing</i></span></p>
                             <span style={{lineHeight: "1.3"}}>This course is amazing! You can agree or not with Nietzsche’s views, but the professionalism, the methodology, the clarity, and deepness of the investigation is really comprehensive. I totally advise philosophy fans to do this course.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Elsa V. on 6 December 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Elsa V. on 6 December 2023</span></div>
                         </div>
                         
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very informative</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Very good and informative. Written with easy and comprehensible language. Enjoyed throughout - every line of the course was a delight. Keep doing what you're doing!</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Milad A. on 24 November 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Milad A. on 24 November 2023</span></div>
                         </div>
                         
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
                             <span style={{lineHeight: "1.3"}}>The course was interesting and challenging and exceeded my expectations. The content was excellent, stimulating, and well written. A lot of depth was shared on each topic. I read each chapter on the day it arrived. One reading is just the beginning. I'll be taking notes on each chapter that will require spending time with the text. Ch. 5 was my favorite. The 3 topics are key to understanding Nietzsche. There is much to learn from this great thinker. Thank you for the opportunities.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert J. on 19 July 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Robert J. on 19 July 2023</span></div>
                         </div>
                         
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Great course experience, content was clear and simple to read. Loved the way the course was delivered and the writing was informative, interesting, and easy to understand. My favorite chapter was the final one on the will to power, I thought it brought everything together very nicely. Thanks for creating such an accessible course on Nietzsche!</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julien S. on 22 March 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Julien S. on 22 March 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Please make more</i></span></p>
                             <span style={{lineHeight: "1.3"}}>It was really good. Honestly, there are things I thought I knew but turns out I had completely misunderstood from the books and the course helped me to figure out what I was missing. The content was very easy to understand and didactic, covering everything I was hoping for, and the difficulty of material was very well balanced. Please make more!</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Joaquim N. on 16 March 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Joaquim N. on 16 March 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Excellent</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Excellent. Well written and an enjoyable read on my iPhone. I found the content very interesting. It’s been over 30 years since I took a course on Nietzsche - great to revisit the material at a later life stage and new perspective. My favorite chapter was the one on perspectivism.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David U. on 11 March 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David U. on 11 March 2023</span></div>
                         </div>
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Very good</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Very good course experience. The daily chapters worked very well - one a day allowed me to pace my reading, and the course content was very good, with concepts clearly explained and easy to follow.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Brian P. on 27 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Brian P. on 27 February 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Exactly what I hoped for</i></span></p>
                             <span style={{lineHeight: "1.3"}}>The length and depth of the course was exactly what I hoped for. (My only exposure to Nietzsche was in reading Will Durant’s Story of Philosophy in high school - in the 1970s!) The content was well organized and let the reader see how Nietzsche developed his ideas over time. Placing his work in the context of his health issues was tremendously important. The writing was easy to understand and covered everything I expected it to (based on what little I already knew about Nietzsche) and more. All chapters were good, interesting, and engaging, but my favorite was #4, Master and Slave morality, which really resonated with me.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chuck M. on 25 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Chuck M. on 25 February 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Brilliant course, very well researched and written. Cleared up a lot of uncertainty I had about Nietzsche, having tried and failed to get into his books! Really enjoyed the daily chapters and would recommend for anyone interested in but not sure where to start with Nietzsche.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 19 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 19 February 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Great survey of Nietzsche</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Great survey of Nietzsche’s thought. Covered everything I wanted to know. Made Nietzsche’s works really easy to understand, and I appreciated the references to all the ongoing scholarship on Nietzsche too. Thanks!</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Andy G. on 18 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Andy G. on 18 February 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Clears it all up</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Very good. There are many, many misunderstandings of Nietzsche out there, and this course helped clear it all up for me! All the chapters are great but I actually found the fifth on Nietzsche’s more positive philosophy to be the most inspiring.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lesh W. on 13 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Lesh W. on 13 February 2023</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Brilliant introduction</i></span></p>
                             <span style={{lineHeight: "1.3"}}>Brilliant introduction to Nietzsche. I tried reading Beyond Good and Evil years ago and found it interesting but knew most of it was going over my head. This course breaks it all down brilliantly and makes very difficult / unclear material very easy to understand, introducing lots of different scholarly perspectives and interpretations of what Nietzsche is saying. Highly recommend.</span>
-                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie D. on 11 February 2022</span></div>
+                            <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Sophie D. on 11 February 2023</span></div>
                         </div>
                     </div>
                 </div>
