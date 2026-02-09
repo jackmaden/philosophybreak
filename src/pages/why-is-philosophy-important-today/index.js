@@ -50,11 +50,6 @@ const Page = ({ data, location }) => {
 
             <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose?</p>
 
-            <figure className="gatsby-resp-image-figure big-image">
-              <StaticImage src="../../images/socialscroll.jpg" alt="Social media scrolling" placeholder="blurred" layout="fullWidth" />
-              <figcaption className="gatsby-resp-image-figcaption">Is the point of existence to scroll through social media?</figcaption>
-            </figure>
-
             <p>A lot of the anxieties and uncertainties we feel in our lives, from wondering if our occupations give us the meaning we need, to not being able to come to terms with death, are at root philosophical problems. And philosophers have confronted and had hugely insightful things to say about these problems for thousands of years.</p>
 
             <p>Critically engaging with the enduring wisdom of philosophy is a fantastic way to both inform ourselves about the problems inherent within the human condition, and also face up to those problems and calm our existential fears and anxieties.</p>

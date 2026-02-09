@@ -50,11 +50,6 @@ const Page = ({ data, location }) => {
             <p>Beyond the study of such fundamental questions, philosophy can be defined more broadly as an <i>act</i>.</p> 
             <p><i>To philosophize</i> means adopting a critical stance and using reason to draw logical conclusions. Be it deciding who to vote for or what to have for dinner, whenever we engage in critical thinking — whenever we rationally weigh up arguments — we engage in philosophy.</p> 
 
-            <figure className="gatsby-resp-image-figure big-image">
-              <StaticImage src="../../images/the-thinker.jpg" alt="The Thinker" placeholder="blurred" layout="fullWidth" />
-              <figcaption className="gatsby-resp-image-figcaption">“The Thinker”, by Auguste Rodin, wondering what he should have for dinner...</figcaption>
-            </figure>
-
             <p>If we philosophize about our everyday concerns long enough, stripping them down to their core, we get closer to the questions that have occupied the great philosophers throughout history.</p> 
             <p>‘Who should I vote for?’ becomes <Link to="/reading-lists/political-philosophy/">‘what does a just society look like?’</Link>; ‘what should I have for dinner?’ becomes <Link to="/reading-lists/ethics-and-morality/">‘what’s the right thing to do?’</Link>; boredom or feeling unfulfilled can lead to ‘how can I establish meaning?’ and, if you’re not careful, simply staring at patterns of light on a wall can lead to <Link to="/reading-lists/metaphysics/">‘what is the fundamental nature of reality?’</Link>, or <Link to="/articles/is-the-world-around-us-real/">‘is the world around me even real?’</Link> — or, more starkly, <Link to="/articles/why-does-anything-exist/">‘why does <i>anything</i> exist?’</Link></p>
             <p>Philosophy, then, is the proactive examination of the shifting tectonic plates upon which our thoughts and beliefs are constructed. It’s burrowing beyond the surface world of the everyday to question <i>what</i>, <i>how</i>, and <i>why</i> — to confront ourselves and reality at their most basic, general levels.</p>
@@ -91,11 +86,6 @@ const Page = ({ data, location }) => {
 
             <p>Moreover, the argument is ‘sound’ in that, not only is its form valid, but its premises are both true. If a valid argument has true premises, then its conclusion must be true. The argument above, concluding that Simone de Beauvoir is mortal, is thus an effective one.</p> 
 
-            <figure className="gatsby-resp-image-figure big-image">
-              <StaticImage src="../../images/SimonedeBeauvoir.jpeg" alt="Simone de Beauvoir" placeholder="blurred" layout="fullWidth" />
-              <figcaption className="gatsby-resp-image-figcaption">The French existentialist philosopher, Simone de Beauvoir (1908 - 1986): a confirmed mortal.</figcaption>
-            </figure>
-
             <p>Philosophers spend a lot of time analyzing arguments, inspecting them for so-called ‘fallacies’ i.e. faulty or unsound reasoning.</p>
             
             <p>A logical fallacy that politicians are often guilty of, for instance, is a form of <i>ad hominem</i> (Latin for ‘to the person’), whereby the speaker attacks the character or motive of the person making an argument, rather than the premises or structure of the argument itself, in order to undermine the person’s conclusion.</p> 
@@ -125,11 +115,6 @@ const Page = ({ data, location }) => {
             <p>However, the four core branches of epistemology, metaphysics, value theory, and logic offer a fairly good representation of what philosophers are mostly concerned with. Here are some typical questions that sit within each branch:</p>
 
             <p><b>1. Epistemology, the study of knowledge:</b> ​​What is knowledge? What makes knowledge possible? <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">Are we born with innate knowledge</Link>, or is knowledge only acquired through sensory experience? <Link to="/articles/is-the-world-around-us-real/">Is the world around us ‘real’</Link>, i.e. is perception reality? <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/">Are our experiences of the world trustworthy?</Link> Is the potential of human knowledge unlimited? Or is it curtailed by our sensory apparatus and brainpower? (To learn more about these questions, view our <Link to="/reading-lists/epistemology/">epistemology reading list</Link>).</p>
-
-            <figure className="gatsby-resp-image-figure big-image">
-              <StaticImage src="../../images/simulation.jpeg" alt="Are we living in a simulation?" placeholder="blurred" layout="fullWidth" />
-              <figcaption className="gatsby-resp-image-figcaption">Can we ever know for certain if the world we perceive is actually reality, rather than, say, a computer simulation? This question has both an epistemological element (i.e. what we can know), and a metaphysical element (i.e. what the fundamental nature of reality is).</figcaption>
-            </figure>
 
             <p><b>2. Metaphysics, the study of reality:</b> What is the fundamental nature of reality? What is time? What is space? Is there a God? Do numbers exist? What makes a person a person? What is causation, and can there be such a thing as a ‘first cause’? <Link to="/articles/free-will-illusion-sam-harris/">Do we have free will?</Link> Why is reality like it is? <Link to="/reading-lists/consciousness/">What is consciousness?</Link> What does it mean for something to exist? <Link to="/articles/why-does-anything-exist/">Why does anything exist?</Link> (To learn more about these questions, view our <Link to="/reading-lists/metaphysics/">metaphysics reading list</Link>, as well as our explainer on <Link to="/articles/metaphysics-what-is-it-why-is-it-important-today/">what metaphysics is</Link>).</p>
 
