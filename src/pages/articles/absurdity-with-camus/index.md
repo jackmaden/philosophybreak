@@ -1,9 +1,9 @@
 ---
 title: "Albert Camus on Rebelling against Life’s Absurdity"
 description: "Occasionally, we might be struck by a disturbing feeling: that life is absurd, and nothing we do matters. Albert Camus thinks rather than deny life’s absurdity with comforting delusions, we can establish a more authentic happiness by perpetually scorning our absurd fate."
-image: "./camus-books.webp"
+image: "./absurd.jpg"
 imageAlt: "Camus Sisyphus absurdity"
-imageSeo: "./camus-books.webp"
+imageSeo: "./absurd.jpg"
 tags: ["Existentialism", "Absurdity", "Camus"]
 date: "2024-09-11"
 author: "Jack Maden"

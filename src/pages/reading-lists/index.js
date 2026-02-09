@@ -59,35 +59,35 @@ const Page = ({ data, location }) => {
               <div class="separator"></div>
               </div>
             
-                <BannerReadingList title="An Introduction to Philosophy" number="6" link="/reading-lists/introduction-to-philosophy/" img={data.introduction.childImageSharp.gatsbyImageData} alt="introduction to philosophy reading list" />
+                <BannerReadingList title="An Introduction to Philosophy" number="6" link="/reading-lists/introduction-to-philosophy/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
                 
-                <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.whistorylist.childImageSharp.gatsbyImageData} alt="history of western philosophy reading list" />
+                <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.metaphysics.childImageSharp.gatsbyImageData} alt="metaphysics reading list" />
+                <BannerReadingList title="Metaphysics" number="10" link="/reading-lists/metaphysics/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Epistemology" number="9" link="/reading-lists/epistemology/" img={data.epistemology.childImageSharp.gatsbyImageData} alt="epistemology reading list" />
+                <BannerReadingList title="Epistemology" number="9" link="/reading-lists/epistemology/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Ethics and Morality" number="10" link="/reading-lists/ethics-and-morality/" img={data.ethics.childImageSharp.gatsbyImageData} alt="ethics and morality reading list" />
+                <BannerReadingList title="Ethics and Morality" number="10" link="/reading-lists/ethics-and-morality/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.consciousnesslist.childImageSharp.gatsbyImageData} alt="consciousness reading list" />
+                <BannerReadingList title="Consciousness" number="5" link="/reading-lists/consciousness/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
 
-                <BannerReadingList title="Free Will" number="7" link="/reading-lists/free-will/" img={data.freewill.childImageSharp.gatsbyImageData} alt="free will reading list" />
+                <BannerReadingList title="Free Will" number="7" link="/reading-lists/free-will/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.politics.childImageSharp.gatsbyImageData} alt="political philosophy reading list" />
+                <BannerReadingList title="Political Philosophy" number="14" link="/reading-lists/political-philosophy/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.language.childImageSharp.gatsbyImageData} alt="philosophy of language reading list" />
+                <BannerReadingList title="Philosophy of Language" number="7" link="/reading-lists/philosophy-of-language/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Buddhist Philosophy" number="7" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
+                <BannerReadingList title="Buddhist Philosophy" number="7" link="/reading-lists/buddhist-philosophy/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Confucianism" number="6" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
+                <BannerReadingList title="Confucianism" number="6" link="/reading-lists/confucius/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
                 
-                <BannerReadingList title="Epicureanism" number="6" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
+                <BannerReadingList title="Epicureanism" number="6" link="/reading-lists/epicureanism/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
                 
-                <BannerReadingList title="Stoicism" number="7" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="stoicism reading list" />
+                <BannerReadingList title="Stoicism" number="7" link="/reading-lists/stoicism/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Marxism" number="6" link="/reading-lists/karl-marx/" img={data.marx.childImageSharp.gatsbyImageData} alt="Marxism reading list" />
+                <BannerReadingList title="Marxism" number="6" link="/reading-lists/karl-marx/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Existentialism" number="9" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Existentialism reading list" />
+                <BannerReadingList title="Existentialism" number="9" link="/reading-lists/existentialism/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
                 
                 </div>
@@ -102,55 +102,55 @@ const Page = ({ data, location }) => {
                   <div class="separator"></div>
                 </div>
 
-                <BannerReadingList title="Socrates" number="6" link="/reading-lists/socrates/" img={data.socrates.childImageSharp.gatsbyImageData} alt="socrates reading list" />
+                <BannerReadingList title="Socrates" number="6" link="/reading-lists/socrates/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
                 
-                <BannerReadingList title="Plato" number="6" link="/reading-lists/plato/" img={data.plato.childImageSharp.gatsbyImageData} alt="plato reading list" />
+                <BannerReadingList title="Plato" number="6" link="/reading-lists/plato/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Aristotle" number="9" link="/reading-lists/aristotle/" img={data.aristotle.childImageSharp.gatsbyImageData} alt="aristotle reading list" />
+                <BannerReadingList title="Aristotle" number="9" link="/reading-lists/aristotle/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Epicurus" number="6" link="/reading-lists/epicureanism/" img={data.epicureanism.childImageSharp.gatsbyImageData} alt="epicureanism reading list" />
+                <BannerReadingList title="Epicurus" number="6" link="/reading-lists/epicureanism/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Confucius" number="6" link="/reading-lists/confucius/" img={data.confucius.childImageSharp.gatsbyImageData} alt="Confucius reading list" />
+                <BannerReadingList title="Confucius" number="6" link="/reading-lists/confucius/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
-                <BannerReadingList title="The Buddha" number="7" link="/reading-lists/buddhist-philosophy/" img={data.buddhism.childImageSharp.gatsbyImageData} alt="buddhist philosophy reading list" />
+                <BannerReadingList title="The Buddha" number="7" link="/reading-lists/buddhist-philosophy/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
 
-                <BannerReadingList title="Marcus Aurelius" number="5" link="/reading-lists/marcus-aurelius-best-books/" img={data.marcus.childImageSharp.gatsbyImageData} alt="marcus aurelius reading list" />
+                <BannerReadingList title="Marcus Aurelius" number="5" link="/reading-lists/marcus-aurelius-best-books/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Machiavelli" number="5" link="/reading-lists/machiavelli/" img={data.machiavelli.childImageSharp.gatsbyImageData} alt="Machiavelli reading list" />
+                <BannerReadingList title="Machiavelli" number="5" link="/reading-lists/machiavelli/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
                 
-                <BannerReadingList title="John Locke" number="5" link="/reading-lists/john-locke/" img={data.locke.childImageSharp.gatsbyImageData} alt="John Locke reading list" />
+                <BannerReadingList title="John Locke" number="5" link="/reading-lists/john-locke/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
                 
-                <BannerReadingList title="Voltaire" number="5" link="/reading-lists/voltaire/" img={data.voltaire.childImageSharp.gatsbyImageData} alt="Voltaire reading list" />
+                <BannerReadingList title="Voltaire" number="5" link="/reading-lists/voltaire/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
                 
-                <BannerReadingList title="Immanuel Kant" number="6" link="/reading-lists/immanuel-kant/" img={data.kant.childImageSharp.gatsbyImageData} alt="Immanuel Kant reading list" />
+                <BannerReadingList title="Immanuel Kant" number="6" link="/reading-lists/immanuel-kant/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
                 
-                <BannerReadingList title="Ralph Waldo Emerson" number="5" link="/reading-lists/ralph-waldo-emerson-best-books/" img={data.emerson.childImageSharp.gatsbyImageData} alt="Søren Kierkegaard reading list" />
+                <BannerReadingList title="Ralph Waldo Emerson" number="5" link="/reading-lists/ralph-waldo-emerson-best-books/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
                 
-                <BannerReadingList title="Søren Kierkegaard" number="6" link="/reading-lists/soren-kierkegaard-best-books/" img={data.kierk.childImageSharp.gatsbyImageData} alt="Søren Kierkegaard reading list" />
+                <BannerReadingList title="Søren Kierkegaard" number="6" link="/reading-lists/soren-kierkegaard-best-books/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Henry David Thoreau" number="5" link="/reading-lists/henry-david-thoreau-best-books/" img={data.thoreau.childImageSharp.gatsbyImageData} alt="Henry David Thoreau reading list" />
+                <BannerReadingList title="Henry David Thoreau" number="5" link="/reading-lists/henry-david-thoreau-best-books/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
                 
-                <BannerReadingList title="Karl Marx" number="6" link="/reading-lists/karl-marx/" img={data.marx.childImageSharp.gatsbyImageData} alt="Karl Marx reading list" />
+                <BannerReadingList title="Karl Marx" number="6" link="/reading-lists/karl-marx/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Fyodor Dostoevsky" number="6" link="/reading-lists/fyodor-dostoevsky-best-books/" img={data.dost.childImageSharp.gatsbyImageData} alt="Fyodor Dostoevsky reading list" />
+                <BannerReadingList title="Fyodor Dostoevsky" number="6" link="/reading-lists/fyodor-dostoevsky-best-books/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
 
-                <BannerReadingList title="Leo Tolstoy" number="5" link="/reading-lists/leo-tolstoy-best-books/" img={data.tolstoy.childImageSharp.gatsbyImageData} alt="Leo Tolstoy reading list" />
+                <BannerReadingList title="Leo Tolstoy" number="5" link="/reading-lists/leo-tolstoy-best-books/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
                 
-                <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Friedrich Nietzsche reading list" />
+                <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Franz Kafka" number="5" link="/reading-lists/franz-kafka-best-books/" img={data.kafka.childImageSharp.gatsbyImageData} alt="Franz Kafka reading list" />
+                <BannerReadingList title="Franz Kafka" number="5" link="/reading-lists/franz-kafka-best-books/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.arendt.childImageSharp.gatsbyImageData} alt="Hannah Arendt reading list" />
+                <BannerReadingList title="Hannah Arendt" number="6" link="/reading-lists/hannah-arendt/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
 
-                <BannerReadingList title="Ayn Rand" number="5" link="/reading-lists/ayn-rand/" img={data.rand.childImageSharp.gatsbyImageData} alt="Ayn Rand reading list" />
+                <BannerReadingList title="Ayn Rand" number="5" link="/reading-lists/ayn-rand/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
 
-                <BannerReadingList title="Simone de Beauvoir" number="7" link="/reading-lists/simone-de-beauvoir-best-books/" img={data.beauvoir.childImageSharp.gatsbyImageData} alt="Simone de Beauvoir reading list" />
-                
-                <BannerReadingList title="Albert Camus" number="5" link="/reading-lists/albert-camus/" img={data.camus.childImageSharp.gatsbyImageData} alt="Albert Camus reading list" />
+                <BannerReadingList title="Simone de Beauvoir" number="7" link="/reading-lists/simone-de-beauvoir-best-books/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Alan Watts" number="5" link="/reading-lists/alan-watts/" img={data.watts.childImageSharp.gatsbyImageData} alt="Alan Watts reading list" />
+                <BannerReadingList title="Albert Camus" number="5" link="/reading-lists/albert-camus/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
 
-                <BannerReadingList title="Daniel Dennett" number="5" link="/reading-lists/daniel-dennett-best-books/" img={data.dennett.childImageSharp.gatsbyImageData} alt="Daniel Dennett reading list" />
+                <BannerReadingList title="Alan Watts" number="5" link="/reading-lists/alan-watts/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
+
+                <BannerReadingList title="Daniel Dennett" number="5" link="/reading-lists/daniel-dennett-best-books/" img={data.rl5.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
                 
 
                 <div class="large-pad-top text-center">
@@ -230,182 +230,27 @@ export const query = graphql`{
       gatsbyImageData(width: 600, quality: 90, layout: CONSTRAINED)
     }
   }
-  introduction: file(relativePath: {eq: "introduction.jpg"}) {
+  rl1: file(relativePath: {eq: "rl1.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
-  consciousnesslist: file(relativePath: {eq: "consciousness-list.jpg"}) {
+  rl2: file(relativePath: {eq: "rl2.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
-  whistorylist: file(relativePath: {eq: "whistorylist.jpg"}) {
+  rl3: file(relativePath: {eq: "rl3.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
-  nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
+  rl4: file(relativePath: {eq: "rl4.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
-  metaphysics: file(relativePath: {eq: "metaphysics.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  epistemology: file(relativePath: {eq: "epistemology.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  freewill: file(relativePath: {eq: "freewill.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  ethics: file(relativePath: {eq: "ethics.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  politics: file(relativePath: {eq: "politics.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  language: file(relativePath: {eq: "language.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  existentialism: file(relativePath: {eq: "existentialism.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  epicureanism: file(relativePath: {eq: "epicureanism.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  stoicism: file(relativePath: {eq: "stoicism.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  marcus: file(relativePath: {eq: "marcus-aurelius.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  plato: file(relativePath: {eq: "plato.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  aristotle: file(relativePath: {eq: "aristotle.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  camus: file(relativePath: {eq: "camus.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  arendt: file(relativePath: {eq: "hannah-arendt.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  socrates: file(relativePath: {eq: "socrates.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  kant: file(relativePath: {eq: "kant.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  locke: file(relativePath: {eq: "locke.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  buddhism: file(relativePath: {eq: "buddhism.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  confucius: file(relativePath: {eq: "confucius.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  rand: file(relativePath: {eq: "rand.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  watts: file(relativePath: {eq: "watts.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  kierk: file(relativePath: {eq: "Kierkegaard.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  thoreau: file(relativePath: {eq: "thoreau.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  marx: file(relativePath: {eq: "marx.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  dennett: file(relativePath: {eq: "Dennett.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  dost: file(relativePath: {eq: "dostoevsky.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  tolstoy: file(relativePath: {eq: "tolstoy.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  voltaire: file(relativePath: {eq: "voltaire.webp"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  beauvoir: file(relativePath: {eq: "beauvoir.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  kafka: file(relativePath: {eq: "kafka.jpg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  machiavelli: file(relativePath: {eq: "machiavelli.jpeg"}) {
-    childImageSharp {
-      gatsbyImageData(width: 480, layout: CONSTRAINED)
-    }
-  }
-  emerson: file(relativePath: {eq: "ralph-waldo.jpg"}) {
+  rl5: file(relativePath: {eq: "rl5.jpg"}) {
     childImageSharp {
       gatsbyImageData(width: 480, layout: CONSTRAINED)
     }

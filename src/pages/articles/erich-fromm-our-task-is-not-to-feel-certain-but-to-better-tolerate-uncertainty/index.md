@@ -1,9 +1,9 @@
 ---
 title: "Erich Fromm: Our Task is Not to Feel Certain, but to Better Tolerate Uncertainty"
 description: "In this passage from his 1955 work The Sane Society, the philosopher Erich Fromm suggests our task is not to feel certain and secure, but to better tolerate uncertainty and insecurity."
-image: "./fromm.jpg"
-imageAlt: "Erich Fromm, Photo by Rene Burri / Magnum"
-imageSeo: "./fromm.jpg"
+image: "./storm.jpg"
+imageAlt: "Edvard Munch, The Storm"
+imageSeo: "./storm.jpg"
 tags: ["Erich Fromm", "Certainty"]
 date: "2026-02-07"
 author: "Jack Maden"

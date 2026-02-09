@@ -22,7 +22,7 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Ayn Rand" number="5" img={data.title.childImageSharp.gatsbyImageData} imgposition="image-top" alt="Ayn Rand" />
+        <TitleReadingList title="Ayn Rand" number="5" img={data.title.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
         
         {/*container for sidebar*/}
         <div id="container">
@@ -90,7 +90,7 @@ const ReadingList = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  title: file(relativePath: {eq: "rand.jpeg"}) {
+  title: file(relativePath: {eq: "rl1.jpg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }

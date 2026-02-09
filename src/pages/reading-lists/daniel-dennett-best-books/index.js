@@ -17,12 +17,12 @@ const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
     return (
     <>
-    <Seo title="Daniel Dennett Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books for getting started with Daniel Dennett." image={imagePath} pathname={location.pathname} />
+    <Seo title="Daniel Dennett Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books for getting started with Daniel Dennett." pathname={location.pathname} />
     <Layout>
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Daniel Dennett" number="5" img={data.title.childImageSharp.gatsbyImageData} attribution={<span>Image: AegirPhotography, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.flickr.com/photos/crouchy69/7089589365">via Flickr</a> under CC license</span>} alt="Daniel Dennett books" />
+        <TitleReadingList title="Daniel Dennett" number="5" img={data.title.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
         
         {/*container for sidebar*/}
         <div id="container">
@@ -144,7 +144,7 @@ const ReadingList = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  title: file(relativePath: {eq: "Dennett.jpg"}) {
+  title: file(relativePath: {eq: "rl1.jpg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }
