@@ -2,7 +2,7 @@
 title: "Catherine of Siena on How Wealth Corrupts Justice"
 description: 'Around 700 years ago, Catherine of Siena wrote a letter outlining why justice works differently for the wealthy and the poor... do you think her analysis still holds today?'
 image: "./wealth.jpg"
-imageAlt: "Marinus van Reymerswaele, The Tax Collector"
+imageAlt: "Marinus van Reymerswaele, The Banker and His Wife"
 imageSeo: "./wealth.jpg"
 tags: ["Catherine of Siena", "Political Philosophy"]
 date: "2025-01-14"

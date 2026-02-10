@@ -55,8 +55,6 @@ The three great Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — did 
 - Epictetus (50 CE - 135 CE) was a slave who gained his freedom. 
 - Marcus Aurelius (121 CE - 180 CE) was Emperor of Rome during a time of constant crisis, be it war or plague, and most of his children died before he did.
 
-![Seneca, Epictetus, and Marcus Aurelius](./the-roman-stoics.jpg "Seneca (4 BCE - 65 CE), left; Epictetus (50 CE - 135 CE), center; and Marcus Aurelius (121 CE - 180 CE).")
-
 Nietzsche, meanwhile (as I discuss in my article on [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)), suffered enormously throughout his lifetime — chronic pain, rejection, loneliness, and isolation were the hallmarks of his day-to-day existence.
 
 That these philosophers lived through war, enslavement, immense pain, the death of loved ones, yet _still_ advocated _amor fati_ is testament to their belief in the idea’s power. 
