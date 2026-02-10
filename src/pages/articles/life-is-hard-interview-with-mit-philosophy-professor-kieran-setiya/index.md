@@ -95,8 +95,6 @@ I think there’s a way in which just accepting things can be a failure to ackno
 
 My view is that we should protest against things even when we can’t control or change them, or we don’t know how we can control or change them.
 
-![The Great Day of His Wrath, by John Martin](./day-of-wrath.jpg "The Great Day of His Wrath, by John Martin (1851 - 1853). How should we balance personal wellbeing with concern for large-scale problems?")
-
 
 ## That said, you discuss ‘doom scrolling’ and how it’s easier than ever to become enraged by events in the world. How do you think we can balance personal wellbeing with, say, engagement with injustice?
 
@@ -186,8 +184,6 @@ And then there’s a third and final idea which is more complicated because I do
 But philosophy, together with history and sociology, can illuminate the ways in which the idea of ourselves as failures or successes is structured by the societies in which we live, the way in which that kind of ideology is not something we’re just inventing for ourselves, but that we’re encouraged to think of ourselves as measured by social standards, often standards of financial success or wealth. 
 
 Material ‘success’ is a particular narrative that gets foisted on you, without your choosing, as the test of whether you’re doing well or badly.
-
-![Yacht](./yacht.jpg "Does owning a yacht make you more ‘successful’ at life than people who don’t own yachts?")
 
 I think philosophy can help diagnose this problem, and shed light on how there’s lots of other measures of value in life. But actually changing society so that people aren’t being made to judge their own lives in terms of financial success and failure is a matter of real political and social action, not simply philosophical contemplation.
 

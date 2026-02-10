@@ -57,8 +57,6 @@ As Descartes so eloquently describes, when our perception of the world fails us,
 
 We take it for granted that our experience is authentic, so when it proves to be false it’s like a bucket of ice water to the face: “oh right,” you think, “my perception is not infallible — maybe I don’t always experience the real, true world.”
 
-![optical illusion](./descartes-optical.jpg "Are the dots above black or white? Optical illusions reveal just how easily our brains can be tricked or misled by everyday patterns.")
-
 But, according to Descartes’s strict criteria for truth outlined above, where does that leave us? 
 
 If the authenticity of our experience can occasionally be doubted, then that is enough for Descartes to dismiss it as absolutely unreliable: that our senses can sometimes mislead us without our knowing suggests that they could mislead us all the time. He writes:

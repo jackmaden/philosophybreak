@@ -25,8 +25,6 @@ For kindness is not weakness; in fact, it reveals strength of character. Choosin
 
 >Try living the life of a good person and see how it too suits you — a person who’s gratified by the lot he’s been assigned by the universe and satisfied with the justice of his acts and the kindness of his character.
 
-![Marcus Aurelius](./marcus.jpg "Marcus Aurelius was Roman emperor from 161 to 180 CE and a significant contributor to Stoic philosophy. Marcus reigned during a time of many significant military conflicts, as well as the Antonine Plague, a pandemic that devastated the population of the Roman Empire, causing the deaths of five million people. Despite these difficult events — or perhaps because of them — the philosophy Marcus advocated is one of calmness and serenity. As he advises in one of many natty aphorisms: ‘You have power over your mind — not outside events. Realize this, and you will find strength.’")
-
 Living a good life may not be easy, but it _is_ simple, Marcus thus suggests: keep a steady stream of kindness at the forefront of your thoughts and actions, and the good life will be yours. He concludes:
 
 >If you carry out every present task by following right reason assiduously, resolutely, and with kindness; if, rather than getting distracted by irrelevancies, you keep your guardian spirit unspoiled and steady…; if you engage with the task not with expectations or evasions, but satisfied if your current performance is in accord with nature and if what you say and express is spoken with true Roman honesty, you’ll be living the good life. And there’s no one who can stop you doing so!

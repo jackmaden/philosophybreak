@@ -3,7 +3,7 @@ title: "Epicureanism Defined: Philosophy is a Form of Therapy"
 description: "Often mischaracterized as a rather debaucherous form of hedonism, Epicureanism actually focuses on the removal of pain and anxiety from our lives, and champions a calm ‘philosophy as therapy’ approach in pursuit of life’s highest pleasure: mental tranquility."
 image: "./epicurus-garden.jpg"
 imageAlt: "The Garden of Epicurus"
-imageSeo: "./the-garden-epicurus.webp"
+imageSeo: "./epicurus-garden.jpg"
 tags: ["Epicurus", "Ethics"]
 date: "2023-02-20"
 author: "Jack Maden"
@@ -17,8 +17,6 @@ The modern English word ‘epicurean’, meanwhile, has come to mean someone dev
 But this characterization of Epicureanism — that it’s a debaucherous, even debased philosophy — is a grave injustice to Epicurus’s actual teachings. 
 
 While Epicurus’s philosophy does champion pleasure, it also places different types of pleasure in a strict hierarchy. And, for Epicureans, by far and away the most important type of pleasure is _ataraxia_, literally meaning ‘not being troubled’, but usually translated as ‘tranquility’.
-
-![Epicurus’s Garden](./the-garden-epicurus.webp "The Garden of Epicurus in ancient Athens — the home for Epicureanism, in which Epicurus (341 - 270 BCE) and his followers discussed philosophy, and lived lives of tranquility.")
 
 So, while we can and should enjoy sensory pleasures guilt-free, we should never do so in a way that threatens our peace of mind. For Epicurus, every decision we make should be guided by what leads us closest to _ataraxia_. 
 

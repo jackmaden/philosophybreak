@@ -21,8 +21,6 @@ Well, Sartre is trying to sloganize a fundamental idea of existentialist philoso
 
 There is no human ‘nature’, Sartre argues, there is only a human _condition:_ we exist as self-conscious first-person perspectives constantly imagining and reimagining who we are as we move through time.
 
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946.")
-
 In other words, being conscious of our own existences is the most fundamental thing about what it means to be a human being. 
 
 There is no predefined ‘subject’; there is no fixed identity; there is no pre-ordained path or objective. _Existence precedes essence_, Sartre implores: the very fact of our existence comes first. 

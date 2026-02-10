@@ -22,8 +22,6 @@ I doubt there’s a human being on Earth who’d find my behavior tolerable here
 
 Our sensitivity to fairness indicates our status as moral beings. We all have ideas about what constitutes ‘right’ and ‘wrong’, ‘just’ and ‘unjust’, ‘good’ and ‘evil’. Philosophers, especially, have spilled oceans of ink throughout the ages attempting to articulate their ideas on such matters.
 
-![bonobos morality](./dw-bonobo.jpg "Do other primates, like bonobos pictured here, have a sense of fairness?")
-
 But _why_ do we act morally? And where do our moral ideas come from? Are they given to us? Are they reached through reason? Or are they hardwired into our DNA?
 
 ## Rules come from above: top-down morality
@@ -50,8 +48,6 @@ This lack of progress has enabled a new player to enter the game. With compellin
 ## Rules come from within: bottom-up morality
 
 <span class="big-letter">I</span>n his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0393347796/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347796&linkCode=as2&tag=philosophybre-20&linkId=b8d22117bc2c7ae9baab95ffa07722dc">The Bonobo and the Atheist</a>, Dutch primatologist Frans de Waal sets out his stall early. “Perhaps it’s just me,” he says, “but I am wary of any persons whose belief system is the only thing standing between them and repulsive behavior. Why not assume that our humanity, including the self-control needed for a livable society, is built into us?”
-
-![frans de waal](./frans-de-waal.jpg "Primatologist Frans de Waal, meaning business.")
 
 De Waal acknowledges his alignment to the moral project of David Hume, the brilliant 18th-century philosopher who famously stated that “reason is the slave of the passions” and argued our moral status is rooted not in our rationality but in our emotions. 
 

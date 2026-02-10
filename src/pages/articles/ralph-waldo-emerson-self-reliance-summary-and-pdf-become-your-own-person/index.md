@@ -3,7 +3,7 @@ title: "Ralph Waldo Emerson’s Self-Reliance Summary (and PDF): Become Your Own
 description: "In his famous 1841 essay Self-Reliance, Ralph Waldo Emerson argues that society is in conspiracy against our individuality. To really live good lives, we must have the courage to resist conformity and trust the ‘immense intelligence’ of our own intuition and gut instinct."
 image: "./self-reliance.jpg"
 imageAlt: "Self Reliance, Ralph Waldo Emerson"
-imageSeo: "./ralph-waldo-emerson.jpeg"
+imageSeo: "./self-reliance.jpg"
 tags: ["Ralph Waldo Emerson", "Transcendentalism"]
 date: "2023-10-17"
 author: "Jack Maden"
@@ -16,8 +16,6 @@ authorLink: "/about/"
 Throughout his work, the philosopher Ralph Waldo Emerson (1803 - 1882) made his answers to such questions clear, spearheading the _Transcendentalist_ movement of mid-19th century America.
 
 One of the key hallmarks of the Transcendentalist movement, which notably included Emerson, Margaret Fuller, and Henry David Thoreau (see our [reading list of Thoreau’s best books here](/reading-lists/henry-david-thoreau-best-books/)), is its celebration of the supremacy — even divinity — of nature.
-
-![Ralph Waldo Emerson](./ralph-waldo-emerson.jpeg "Ralph Waldo Emerson (1803 - 1882)")
 
 Divinity is not locked in a distant heaven, say transcendentalists; it is accessible right here in the company of the natural world.
 

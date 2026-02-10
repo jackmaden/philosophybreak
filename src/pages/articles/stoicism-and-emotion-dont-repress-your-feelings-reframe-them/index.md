@@ -19,8 +19,6 @@ The Stoic philosophers of ancient Greece and Rome knew this well. In his brillia
 
 Given how destructive they find emotions like anger to be, it is no wonder the Stoics have a reputation for  seeking to repress them.
 
-![Seneca](./seneca-painting.jpg "Born in 4 BCE, Seneca was a Roman Stoic philosopher who tutored emperor Nero. Seneca's influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent. His stoic and calm suicide has become the subject of numerous paintings, including the one above by Peter Paul Rubens, c.1614.")
-
 However, though commonly thought of as a philosophy that tells us to repress our feelings or emotions in this way — _grit your teeth! have a stiff upper lip!_ — the Stoic view is subtly but importantly different. 
 
 The Stoic recommendation is not to repress our emotions, but simply not to have them in the first place. 

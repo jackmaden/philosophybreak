@@ -17,8 +17,6 @@ We caught up with Scott about his new book, <a target="_blank" rel="noopener nor
 
 Together, Scott, Rex, and Hank explore classic and contemporary philosophy, discussing questions like, how does Hank know he’s not dreaming all the time? Does Scott have authority over Rex and Hank? Is the red Rex sees the same as the red everyone else sees? When is it okay to swear? And, does the number six exist? Scott seeks to demonstrate that, ultimately, we shouldn’t just encourage children in their boundless questioning about existence: we should join them, so that we can rekindle our own curiosity about the world.</i>
 
-![Scott Hershovitz family](./scott-hershovitz-family.jpeg "Scott and his family unboxing Nasty, Brutish, and Short: Adventures in Philosophy with My Kids. Source: Twitter.")
-
 <div class="smaller-h2">
 
 ## How did the idea for your book — investigating philosophy with children — come about?

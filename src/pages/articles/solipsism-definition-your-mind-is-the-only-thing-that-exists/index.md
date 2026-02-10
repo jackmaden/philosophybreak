@@ -64,8 +64,6 @@ For instance, a common response to the solipsist is to demand exactly _how_ a si
 
 Is the solipsist really committed to the idea that every ant, every leaf, every grain of sand, every electrical storm, every word in every book and on every page of the internet (including this one!) is conjured up by some inaccessible part of their mind of which they have no conscious awareness? 
 
-![starry night](./starry-language.jpg "Starry Night, painted by your mind, right at this moment — or by Vincent Van Gogh in 1889?")
-
 Surely the mechanistic explanations for such phenomena simply collapse to standard explanations: the ‘mind-generated’ beam of light reflects off the ‘mind-generated’ tomato to hit the ‘mind-generated’ retina. What value, what usefulness or explanatory power does the phrase ‘mind-generated’ actually add here? Is it not just a euphemism for what we’d otherwise describe as the external world?
 
 The solipsist might retort that this is no refutation: solipsism remains a possibility.

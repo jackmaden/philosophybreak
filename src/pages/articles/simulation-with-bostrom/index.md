@@ -16,8 +16,6 @@ Bostrom's conclusion suggests that, rather than the fun-loving carbon-based life
 
 That might seem crazy. But consider this. [It’s widely agreed](http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/) that our computational power will continue to grow exponentially. And, in principle, there’s no reason why - given the same computational structures and processes - consciousness cannot exist on silicon chip neural networks rather than the neural networks of carbon-based biological lifeforms (more on this later).
 
-![nick bostrom](./bostrom.jpg "Nick Bostrom, looking like a right simulation.")
-
 At some point, then, any issues surrounding technical capability will be overcome: we will one day be computationally advanced enough to, firstly, run human consciousness on silicon, and secondly, create simulations as rich as the one we (might) currently inhabit. Bostrom calls this level of technological advancement the ‘post-human’ stage.
 
 <!--big subscribe-->
@@ -62,8 +60,6 @@ Before we go crazy and riot in the streets in the name of nothing-means-anything
 <span class="big-letter">B</span>ostrom’s Simulation Argument is based on a key assumption of _substrate-independence_. Within the literature of philosophy of mind, substrate-independence refers to the idea that mental states can supervene on any physical system, provided that system implements the right sort of computational structures and processes.
 
 In other words, conscious states don’t have to exist in carbon-based biological form. They could exist on, say, computer processors. This means - in theory - you could download human minds onto silicon microchips.
-
-![broken microchips](./bostrom2.jpg "Is this what true Armageddon looks like?")
 
 If this idea seems controversial, that’s because it is. Bostrom takes it for granted that, as our computational power grows, our knowledge regarding the human brain and consciousness will too - and it’ll simply be a case of replicating a brain through programming its secrets into a bit of software.
 

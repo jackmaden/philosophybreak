@@ -21,8 +21,6 @@ It is normative questions such as these that the brilliant 19th-century philosop
 
 For Nietzsche, the Übermensch is a being who is able to completely _affirm_ life: someone who says ‘yes’ to everything that comes their way; a being who is able to be their _own_ determiner of value; sculpt their characteristics and circumstances into a beautiful, empowered, ecstatic whole; and fulfill their ultimate potential to _become who they truly are_. 
 
-![Friedrich Nietzsche](./friedrich-nietzsche.jpeg "Photo of Nietzsche by Gustav-Adolf Schultze, 1882.")
-
 To fully appreciate the significance of the Übermensch in Nietzsche’s philosophy, we must first understand the context of his thinking — for, writing at the end of the 19th century, Nietzsche repeatedly warns us that modernity is in crisis. 
 
 ## God is dead

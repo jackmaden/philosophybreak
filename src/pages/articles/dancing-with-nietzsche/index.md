@@ -3,7 +3,7 @@ title: "Dancing with Nietzsche"
 description: "19th-century philosopher Friedrich Nietzsche provides a compelling approach to thinking about the world — as well as our place in it."
 image: "./dancing-with-nietzsche.jpg"
 imageAlt: "Nietzsche perspectivism"
-imageSeo: "./nietzsche.jpg"
+imageSeo: "./dancing-with-nietzsche.jpg"
 tags: ["Perspectivism", "Nietzsche"]
 date: "2018-10"
 author: "Jack Maden"
@@ -21,8 +21,6 @@ With a bit of context and some deeper reading, however, the quotation points to 
 ## Is there a 'right' way to live?
 
 <span class="big-letter">F</span>riedrich Nietzsche was a 19th-century German philosopher with a bonkers moustache and a brilliant mind. As we discuss in our overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), though he wrote provocatively on many subjects, his core academic focus lay in unpacking why we label some things 'good' and others 'evil', how these judgements are formed, and ultimately how we can transcend such categories to each fulfil our true potential and become the best possible version of ourselves.
-
-![Friedrich Nietzsche](./nietzsche1.jpg "Apparently Nietzsche's moustache paved the way for the modern shoe brush.")
 
 Returning to our initial quotation, we can now see why this is a pertinent route into Nietzsche's thinking. Those observing the dancers, Nietzsche says, _cannot hear the music_. The music here can seemingly represent anything — a particular idea, faith, desire — and the ‘dancers’ respond to it, feel it, appreciate it. The observers, meanwhile, untouched by what they cannot hear, dismiss those who respond to it as insane.
 
@@ -52,8 +50,6 @@ This might seem an obvious point — hardly profound — but perspectivism, as w
 
 Astrophysicists, for instance, would certainly dismiss the idea that there are a number of different ways to think about, say, the nature of the universe. That life is governed by the laws of physics, they would argue, rests on solid mathematical foundations and myriad experiential data: it is _the_ correct way to think about the universe.
 
-![telescopes](./nietzsche-science.jpeg "Telescopes. The only perspective?")
-
 Science’s descriptions have contributed more to the human condition and cohere better with reality than any theological, spiritual, romantic or philosophical viewpoint ever has or indeed could. So, feel free to label all the non-evidence based subjects as mere perspectives, but leave science out of it.
 
 Is perspectivism thus a load of rubbish? Does the deeper reading of our quotation merely reveal a flawed idea? Well, let’s consider how proponents of perspectivism could respond.
@@ -82,8 +78,6 @@ The imperfect theories of science are not eternal; they simply express the way _
 Brilliantly clever? Yes. Wonderfully useful? Yes. _Objectively_ true? Not so sure, for science cannot escape the subjective lens of humankind. Besides, its focus on the physical structure of the universe has led to the sacrifice of something rather significant: meaning.
 
 Take the heart. Is it only a lump of muscle that pumps blood around the body? Or is it, too, a hackneyed metaphor for love? Take stars. Are they only burning masses of exploding gasses, billions of miles away? Or are they, too, the inspiration for a million teenage poets, who weave their hopeless troubles into the night’s sky?
-
-![starry night sky](./nietzsche-stars.jpg "Twinkle, twinkle, ickle stars.")
 
 The point, to put an end to this overblown language, is that surely there is a place for all these things: surely our worldview is enriched by collating different perspectives, by thinking of the universe not only in terms of how it works but also in terms of what it means.
 

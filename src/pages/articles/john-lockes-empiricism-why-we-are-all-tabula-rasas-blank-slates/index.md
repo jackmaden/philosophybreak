@@ -27,15 +27,11 @@ Our minds cannot _create_ ideas, Locke argues: they can only _combine_ them. Ide
 
 For example, you may be able to imagine, say, a new animal. But that new imagined animal could only be made up of parts you've previously encountered through your sensory experience. It might have the horns of a bull, the wings of a dragon, the trunk of an elephant… it might have a heart with 97 chambers. But it couldn't contain any ‘ideas’ you hadn't previously acquired through sensory experience. 
 
-![Imagine a new color](./locke-new-color.jpg "Try it now: can you imagine a brand new color? A new texture? A new sound? A new taste? Locke argues no: you’re equipped only with materials acquired from previous sensory experiences, and your imagination is limited to combining these materials in different ways.")
-
 Locke thus champions an approach to understanding the world known as _empiricism:_ knowledge comes from experience, and so by analyzing our experiences we will come to know the truth about reality, and nothing should be asserted unless it can be ratified by experience. 
 
 Today, with the success of empiricist-based science harnessing nature for our benefit, Locke’s views might seem to align nicely with common sense, but it’s important to note that when he was writing, Locke’s arguments most definitely did _not_ align with the common sense of the time. 
 
 Before Locke, it was not empiricist theories of knowledge but scholastic theories founded in _rationalism_ that held sway. Rationalists argue that reason is the chief source and test of knowledge, not experience. A key rationalist thinker was the 17th-century French philosopher, René Descartes. 
-
-![Descartes](./descartes.jpg "Like Locke, Descartes also sought to undermine the dominant scholastic theories of the time, but did not target the rationalism at the root of the structure.")
 
 [Rationalists like Descartes thought experience could not be trusted](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/), and thus sought to understand the world through the certainty of deductive truths, as in mathematics. 
 
@@ -81,8 +77,6 @@ When you look at a ripe tomato, for instance, the redness you see is not a prope
 To someone from a slightly different vantage point, the color would be slightly different. To someone who was color blind, the tomato would appear different again. Moreover, if you wore blue-lensed glasses, or the source of light changed to dark purple, the color you’d experience when looking at the ripe tomato would change once more. 
 
 Which of these is the ‘true’ color of the tomato? Why should we favor any of them? 
-
-![Tomato](./locke-tomato.jpg "What color sensation does the light reflecting off this tomato cause for you?")
 
 It seems we are forced to conclude that while the tomato _appears_ red under normal perceptual and light conditions, it is not _itself_ red: it just looks that way to _us_ under normal circumstances, because the light reflecting off it leads to a sensation of redness in our minds. We cannot say the object _itself_ has a color at all.
 

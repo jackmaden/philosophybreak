@@ -64,8 +64,6 @@ That might sound like a relatively uncontroversial approach. But many major phil
 
 By contrast, Aristotle thinks the good life simply emerges from our behavior.
 
-![aristotle](./aristotle.jpg "Born in 384 BC in Northern Greece, Aristotle joined Plato’s Academy in Athens when he was approximately 17 years old, quickly becoming Plato’s most brilliant student. He studied under Plato until the latter’s death 20 years later, whereupon Aristotle left Athens and became tutor to a young Alexander the Great. Transforming most of the subjects he investigated ― from metaphysics and ethics to politics and biology ― Aristotle is considered to be one of the most signficant figures in the history of Western philosophy.")
-
 We are not born perfect beings; we are not born evil. Almost all of us are capable of good lives, and the more we try to act according to excellence or ‘virtue’ over the course of our lifetimes, the happier we’ll be.
 
 A key concept for Aristotle’s philosophy of the good life is _eudaimonia_, a Greek word broadly meaning happiness or flourishing.
@@ -108,8 +106,6 @@ As the ancient Epicurean philosopher Lucretius tells us, Epicureans think the ul
 This emphasis on simple pleasures distinguishes Epicurus from other ancient Greek thinkers of the time — including Plato, Aristotle, and Zeno’s Stoics — whose characterization of the good life, as we’ve seen with Aristotle, focuses less on pleasure and more on the pursuit of excellence and virtue. 
 
 Another distinguishing factor is that, unlike those rival schools, Epicurus’s Garden admitted women, and even one of Epicurus’s slaves.
-
-![Epicurus’s Garden](./the-garden-epicurus.webp "The Garden of Epicurus in ancient Athens — the home for Epicureanism, in which Epicurus (341 - 270 BCE) and his followers discussed philosophy, and lived lives of tranquility.")
 
 This relatively liberal admissions policy alarmed Epicurus’s opponents, who spread a number of rather slanderous stories about him and his followers. (In their more extreme accusations, for instance, the Stoics said the Epicureans lived in conditions of depraved sexual perversion).
 
@@ -164,8 +160,6 @@ Unfortunately, none of Zeno’s works survive — nor do those of his successors
 
 Our knowledge of Stoicism thus mostly comes from its three major Roman practitioners and popularizers: Seneca, Epictetus, and Marcus Aurelius — each of whom knew the now lost ancient Greek works, and built upon them with their own hugely influential contributions.
 
-![Seneca, Epictetus, and Marcus Aurelius](./the-roman-stoics.jpg "Seneca (4 BCE - 65 CE), left; Epictetus (50 CE - 135 CE), center; and Marcus Aurelius (121 CE - 180 CE).")
-
 The three major Roman Stoics do not present many arguments for why Stoicism as a broader philosophy is true: they mostly presume it _is_ true, and then go on to discuss its profound ethical and psychological lessons.
 
 What are those lessons? Well, perhaps the three most important are the following:
@@ -198,8 +192,6 @@ To see why Seneca, Epictetus, and Marcus Aurelius continue to inspire millions o
 <span class="big-letter">C</span>enturies before the therapeutic philosophical approaches of Epicureanism and Stoicism, the Buddha was sharing his recommendations for how we can see the world clearly, banish suffering, and live good lives…
 
 Buddhism is a philosophical tradition based on the teachings of Siddhartha Gautama, a prince who lived in ancient India around 500 BCE (exact dates vary).
-
-![The Buddha](./buddha.jpg "The historical Buddha was a man named Siddhartha Gautama who lived in northern India around 500 BCE. Siddhartha became the ‘Buddha’ (literally meaning ‘the awakened one’) when he achieved enlightenment following years of searching for the truth about reality. He spent the rest of his life traveling to share his lessons, inspiring the various Buddhist schools that exists across the world today.")
 
 It’s thought the Buddha’s teachings were originally transmitted orally, and only written down in the 1st century BCE in Sri Lanka, with further Buddhist branches spreading throughout India, China, Tibet, Japan, and South-East Asia.
 
@@ -247,8 +239,6 @@ If you’re interested in learning more about Buddhist philosophy, you might lik
 Confucianism stands in stark contrast with Buddhism. While the Buddha advocates detachment from desire and transcendence from the illusions of convention, Confucius encourages full-hearted attachment in our relationships — and deep commitment to our everyday social customs and rituals.
 
 By paying careful attention to our social obligations and respectfully participating in the civilizations we are part of, Confucius says, we can cultivate our moral characters and live good, harmonious lives to the benefit of all.
-
-![Confucius](./Confucius.jpeg "Confucius (551 - 479 BCE) grew up within the fading force of the Zhou dynasty, and sought to understand what had made the dynasty lose its way.")
 
 A pertinent insight into Confucius’s philosophical project comes from his statement in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Analects-Penguin-Classics-Confucius/dp/0140443487?&linkCode=ll1&tag=philosophybre-20&linkId=03eaffccae54effa8153d1cb096094eb&language=en_US&ref_=as_li_ss_tl">The Analects</a> that
 
@@ -326,8 +316,6 @@ Whereas Confucianism is all about respecting the familial and societal contexts 
 The frank insights of existentialism have hugely influenced popular culture, film, literature, art, and attitudes the world over — and continue to do so today.
 
 Now, existentialism is not a set of fixed prescriptive principles; it does not strictly outline how we should live, and the thinkers labeled as ‘existentialist’ — from Kierkegaard, Nietzsche and Heidegger to Sartre, Beauvoir, and Camus — differ greatly in their views. 
-
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946.")
 
 We might then wonder how existentialism can function as a guide to life. 
 

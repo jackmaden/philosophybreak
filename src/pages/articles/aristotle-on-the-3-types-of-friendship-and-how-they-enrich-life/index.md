@@ -21,8 +21,6 @@ The way we can achieve _eudaimonia_, Aristotle argues, is by habitually striving
 
 In other words, happiness means _excellent activity_ (and typically involves, Aristotle suggests, establishing a happy medium between excess and deficiency in our behavior and character, a recommendation we cover in more detail in our [explainer on Aristotle’s ‘golden mean’](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)).
 
-![aristotle](./aristotle.jpg "Born in 384 BC in Northern Greece, Aristotle joined Plato’s Academy in Athens when he was approximately 17 years old, quickly becoming Plato’s most brilliant student. He studied under Plato until the latter’s death 20 years later, whereupon Aristotle left Athens and became tutor to a young Alexander the Great. Transforming most of the subjects he investigated ― from metaphysics and ethics to politics and biology ― Aristotle is considered to be one of the most signficant figures in the history of Western philosophy.")
-
 While regulating our individual behavior to achieve excellence is perhaps the main ingredient in Aristotle’s recipe for happiness, he acknowledges that the good life wouldn’t mean as much without friendship. He writes in the <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199213615/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199213615&linkId=f18186fee7d024481a9574760906cea9">Nicomachean Ethics</a>:
 
 >We consider a friend to be one of the greatest of all good things, and friendlessness and solitude a very terrible thing, because the whole of life and voluntary interactions are with loved ones.

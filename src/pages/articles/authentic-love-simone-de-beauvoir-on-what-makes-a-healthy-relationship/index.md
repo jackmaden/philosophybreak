@@ -19,8 +19,6 @@ It is through respecting and promoting one another’s freedom, Beauvoir suggest
 
 Before we can dive deeper into Beauvoir’s views here, however, we need to briefly establish why freedom plays such a crucial role in her wider philosophy.
 
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946.")
-
 ## The importance of freedom in Beauvoir’s philosophy
 
 <span class="big-letter">T</span>hroughout her rich body of work (see my list of [Beauvoir’s best books here](/reading-lists/simone-de-beauvoir-best-books/)), perhaps the key ethical principle upheld by Beauvoir is that it is wrong to interfere with or tyrannize the freedom of others — specifically, the _free choices_ of others.

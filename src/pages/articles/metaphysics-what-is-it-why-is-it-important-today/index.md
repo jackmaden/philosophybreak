@@ -30,8 +30,6 @@ Putting its rather arbitrary etymological origins to one side, we can say the wo
 
 In doing so, it explores basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness — most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
 
-![Metaphysics](./enigma-of-autumn.jpg "Giorgio de Chirico - The Enigma of an Autumn Afternoon, 1910, the first and defining work of the Pittura Metafisica (metaphysical painting) artistic movement.")
-
 To borrow American philosopher Wilfrid Sellars’s famous definition of philosophy, the aim of metaphysics is essentially...
 
 >to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.
@@ -75,8 +73,6 @@ A physicist may investigate the origins of the universe and theorize about its f
 A physicist uses mathematics to express theory; a metaphysician asks what numbers are (i.e. whether numbers actually exist, or if they’re just useful fictions). 
 
 Indeed, ontology — the study of being or what it means for something to exist — has been a key battleground for metaphysicians throughout the ages.
-
-![why does anything exist](./metaphysics-why.jpg "Why is there something rather than nothing?")
 
 Scientists or mathematicians may very well ask these questions too; but when they do so, it should be recognized that they are making metaphysical inquiries, and metaphysical positions should not be taken for granted. 
 

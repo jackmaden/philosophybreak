@@ -42,8 +42,6 @@ In other words, why does _anything_ exist? Surely, it would have been simpler fo
 
 Leibniz argues that nothingness — no Earth, no stars, no galaxies, no universe, no atoms, no physical laws — would have been “simpler and easier” than the existence of the universe we see around us. That our universe _does_ exist, therefore, demands an explanation. 
 
-![Gottfried Wilhelm Leibniz](./leibniz.jpg "Gottfried Wilhelm Leibniz, existing.")
-
 Leibniz was the first thinker in recorded history to succinctly express this demand as the question: “why is there something rather than nothing?” 
 
 Framed this way, the question of why anything exists hits especially hard. We are creatures driven by narrative, and that every event has a cause is our fundamental way of understanding the world. 

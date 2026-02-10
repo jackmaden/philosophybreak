@@ -14,8 +14,6 @@ authorLink: "/about/"
 
 Aristotle writes that Sparta, for instance, never flourishes in times of peace because its constitution only trains the Spartans well for combat: it “has not educated them to be able to live in idleness.” 
 
-![aristotle](./aristotle.jpg "Born in 384 BC in Northern Greece, Aristotle joined Plato’s Academy in Athens when he was approximately 17 years old, quickly becoming Plato’s most brilliant student. He studied under Plato until the latter’s death 20 years later, whereupon Aristotle left Athens and became tutor to a young Alexander the Great. Transforming most of the subjects he investigated ― from metaphysics and ethics to politics and biology ― Aristotle is considered to be one of the most signficant figures in the history of Western philosophy.")
-
 If we transpose Aristotle’s thought — that we often do not know how to spend our leisure time constructively — to the modern day, at one extreme we can find workaholism, where people let their work absolutely define meaning in their lives. Their leisure time is simply eaten away by more work, or by thinking about work. 
 
 At the other extreme, we find those who want to forget work so thoroughly they spend all their leisure time distracting themselves with physical pleasures or meaningless entertainment. 

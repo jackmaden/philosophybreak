@@ -3,7 +3,7 @@ title: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
 description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world — and the ephemeral nature of everything in it."
 image: "./cherryb.jpg"
 imageAlt: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
-imageSeo: "./cherryblo.jpg"
+imageSeo: "./cherryb.jpg"
 tags: ["Aesthetics", "Buddhism"]
 date: "2024-06-26"
 author: "Jack Maden"
@@ -20,8 +20,6 @@ Petals are carried away by the wind. Proud branches are stripped of color. The b
 For over one thousand years, the people of Japan have held feasts and parties during the brief annual bloom of the cherry blossoms. 
 
 This traditional custom of _hanami_ (literally: flower-viewing) celebrates not just the visual beauty of the blossoms, but glorifies their transience.
-
-![Cherry Blossom in Full Bloom at Senso-ji Temple, by Utagawa Toyokuni Ⅲ (1786 - 1865)](./cherryblo.jpg "Cherry Blossom in Full Bloom at Senso-ji Temple, by Utagawa Toyokuni Ⅲ (1786 - 1865)")
 
 Cherry blossoms tend to fall within a week of appearing. Accordingly, they perfectly encapsulate the Japanese idiom _mono no aware_, which typically translates as ‘the pathos of things’, expressing the power objects have in evoking feelings of impermanence and the passing of time.
 

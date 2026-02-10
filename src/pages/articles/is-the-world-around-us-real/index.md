@@ -26,8 +26,6 @@ Or perhaps you’ve never been a proper, flesh-and-blood human being at all. You
 
 This is the premise behind the movie The Matrix, in which an artificial intelligence (created by hubristic humans, of course) envats human brains to harvest them as an energy source, while simultaneously feeding them a virtual reality — the matrix — that simulates what life on Earth was like before the artificial intelligence took over, leaving the envatted humans to play out their trivial, deluded existences.
 
-![The Matrix](./matrix-code.jpg "We can see, hear, smell, taste, and touch the world. But how does it exist independently of us seeing, hearing, smelling, tasting, or touching it? What is it like in-itself, away from our senses? What is its fundamental nature?")
-
 Or, away from all this talk about brains in vats, even if you do qualify as a ‘real’ person, perhaps the world as you know it sprang into existence a mere five minutes ago, and you’ve simply been equipped with certain memories and attachments that make you feel as if your existence has been going on for much longer. 
 
 Now, we might think these rather disconcerting scenarios, while quite ghoulishly stimulating to think about, are incredibly farfetched. 
@@ -60,8 +58,6 @@ Or is there _always_ room for skepticism?
 ## In search of certainty about reality
 
 <span class="big-letter">1</span>7th-century French philosopher [René Descartes was obsessed with finding clarity about reality](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/). Coming from his work in mathematics, Descartes recognized the power of deductive logic: starting with solid first principles, and then deducing truth from them. He thought if we could apply this kind of knowledge beyond the realm of mathematics and into our observations about reality, then we could soon develop a mastery of the world around us. 
-
-![Descartes](./descartes.jpg "René Descartes, as he appears to your brain.")
 
 Descartes sets out on his search for certainty in his celebrated 1641 philosophical classic, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — but unfortunately it’s not long before, well, he struggles to find it _anywhere._ 
 

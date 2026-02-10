@@ -19,8 +19,6 @@ What does it mean to be an authentic human being?
 
 In his 1943 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0671867806/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671867806&linkId=b0099f68e2d25fcb5bd68aca0f893a53">Being and Nothingness</a>, the French existentialist philosopher Jean-Paul Sartre offers his view of inauthenticity with his famous discussion of a waiter who takes his role too seriously. 
 
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946.")
-
 The waiter’s movement, Sartre writes, is “a little too precise, a little too rapid,” and he interacts with customers “a little too eagerly…a little too solicitous.” 
 
 Watching him, we feel a certain uncanniness — that something’s not quite right, Sartre says:

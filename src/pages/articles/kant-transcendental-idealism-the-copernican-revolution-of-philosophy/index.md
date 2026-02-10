@@ -31,8 +31,6 @@ Was Hume right? Were all human theories ultimately doomed to groundlessness and 
 
 Kant, thoroughly roused from a self-described “dogmatic slumber”, thus decided that answering the questions Hume posed about the human limits of knowledge was the most important intellectual task of all. 
 
-![Immanuel Kant](./kant.jpg "Immanuel Kant (1724 - 1804), awakened from his slumbers.")
-
 But where to start? Kant was persuaded by Hume’s critique of both rationalism and empiricism as models for knowledge — so what else was there? 
 
 Here, after much deliberation, Kant introduces a new model: what he called _transcendental idealism_. 

@@ -19,8 +19,6 @@ With this statement, Bentham — a self-proclaimed atheist, intent on providing 
 
 No: moral acts are simply those that have the highest positive impact on the world.
 
-![Jeremy Bentham](./bentham.jpeg "Portrait of Jeremy Bentham (1748-1832).")
-
 Writing four years later in his <a href="https://www.amazon.com/Introduction-Principles-Morals-Legislation/dp/197810622X?&linkCode=ll1&tag=philosophybre-20&linkId=bd185aa9dedf1c404bc98f1e50ec5237&language=en_US&ref_=as_li_ss_tl">An Introduction to the Principles of Morals and Legislation</a>, Bentham expands his picture in a substantial yet important passage:
 
 >Nature has placed mankind under the governance of two sovereign masters, _pain_ and _pleasure_. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne. They govern us in all we do, in all we say, in all we think: every effort we can make to throw off our subjection, will serve but to demonstrate and confirm it. In words a man may pretend to abjure their empire: but in reality he will remain subject to it all the while. The _principle of utility_ recognises this subjection, and assumes it for the foundation of that system, the object of which is to rear the fabric of felicity by the hands of reason and of law.

@@ -17,8 +17,6 @@ Across both ethics and politics, Berlin observes, many people seek to establish 
 
 Berlin argues this approach is misguided: ideals don’t exist. There is not one single way to lead a fully human, fully rational life. 
 
-![Isaiah Berlin](./IsaiahBerlin.jpeg "Isaiah Berlin (1909 – 1997) was a Russian-British philosopher and historian of ideas known for his defense of liberalism and pluralism, and his fierce opposition to political extremism.")
-
 It is a mistake, for instance, to think of the ‘enlightened’ times across European history — ancient Greece, the Renaissance, the Enlightenment — as representing a common set of values, as resembling a singular thread of reason in the fight against ignorance. 
 
 For the reality, Berlin argues, is that these ‘enlightened’ times — these bright patches of ‘progress’ — are all fundamentally incompatible with each other. 

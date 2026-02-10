@@ -21,8 +21,6 @@ Shortly afterwards, alerted to a public disturbance, two policemen escort Nietzs
 
 Thus marks the beginning of 11 years of incoherent seclusion, during which the great philosopher-poet Friedrich Nietzsche — descended from dizzying intellectual heights to the depths of insanity — never writes another publishable word...
 
-![Friedrich Nietzsche](./nietzsche-ill.jpeg "Drawing of Nietzsche by Hans Olde, one of the last portrayals of Nietzsche while he was still alive, based on the Ill Nietzsche series, which photographed Nietzsche during the final years of his illness (1899 and 1900).")
-
 ## Not being, but becoming: values shaped by suffering
 
 <span class="big-letter">W</span>hile what really happened on that day in 1889 Turin remains unverified, this tale of Nietzsche’s sudden mental breakdown at the age of 44 has been oft-repeated following his death 11 years later in 1900.
@@ -122,8 +120,6 @@ There, Nietzsche quickly developed an academic reputation for himself with essay
 
 An important event for the development of Nietzsche’s thought at Leipzig was the accidental discovery of the great pessimist Arthur Schopenhauer’s 1818 philosophical masterwork, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/World-Will-Representation-Vol/dp/0486217612?&linkCode=ll1&tag=philosophybre-20&linkId=71603ff000e7e035eb65926519bb5b3d&language=en_US&ref_=as_li_ss_tl">The World as Will and Representation</a>, in a local bookshop.
 
-![Arthur Schopenhauer (1788 - 1860)](./schopenhauer-old.jpg "Arthur Schopenhauer (1788 - 1860)")
-
 “I do not know what demon suggested I take the book home with me,” Nietzsche later wrote in his journal, but he acted on the suggestion, hungrily consumed the work, and acknowledged how he “gave [himself] over to that gloomy genius”. 
 
 In Schopenhauer, the 21-year-old Nietzsche found a kindred spirit whose pessimistic worldview that _life is suffering_ (yet partially redeemable through art, especially music) captured Nietzsche’s imagination: 
@@ -139,8 +135,6 @@ Obtaining sick leave from military services, he returned to Leipzig to resume hi
 Aged just 24 at the time, Nietzsche remains one of the youngest ever Classics professors to be awarded tenure on record. 
 
 Nietzsche’s move to Basel led to a momentous development in his relationship with the composer Richard Wagner, a true celebrity of his day and 30 years Nietzsche’s senior.
-
-![Richard Wagner (1813 - 1883)](./richard-wagner.jpeg "Richard Wagner (1813 - 1883)")
 
 The two had briefly met at a gathering in 1868, where Nietzsche’s thralldom with Wagner and enthusiasm regarding Schopenhauer had led to the older man extending an invitation to his house in Tribschen in Lucerne. Nietzsche began visiting the household regularly, forging a strong bond with both Wagner and the composer’s soon-to-be wife, Cosima. 
 
@@ -168,8 +162,6 @@ On the other hand, Cosima’s intended praise potentially alerted Nietzsche to t
 
 <span class="big-letter">B</span>etween 1873 and 1876 Nietzsche published four long essays which collectively became known as his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Nietzsche-Untimely-Meditations-Cambridge-Philosophy/dp/0521585848?keywords=untimely+meditations+nietzsche&qid=1650787731&sprefix=untime%2Caps%2C164&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=9555cc9495e8057117e7a260abdd6cea&language=en_US&ref_=as_li_ss_tl">Untimely Meditations</a>. Intended for a broad audience, they included reflections on Schopenhauer and Wagner (‘Schopenhauer as Educator’ and ‘Richard Wagner in Bayreuth’) which, though mainly positive, foreshadowed a growing detachment from his idols and independence in Nietzsche’s thought. 
 
-![Friedrich Nietzsche](./Nietzsche1875.jpeg "Friedrich Nietzsche, circa 1875")
-
 Wagner’s 1876 Bayreuth music festival only accelerated this detachment. While Nietzsche had enthusiastically assisted the Wagners in their planning of the Bayreuth opera house project, he was left disappointed by its opening in 1876, feeling the cultural atmosphere did not meet the artistic aspirations he thought were shared between himself and the Wagners — appealing too much, in Nietzsche’s view, to an unhealthy nationalistic German (and ‘plebeian’) spirit. 
 
 The Wagners’ perceived use for Nietzsche dwindled, and he was distanced from the inner circle.
@@ -195,8 +187,6 @@ Thus began Nietzsche’s wandering years, living a sparse existence off his meag
 <span class="big-letter">N</span>ow free to think and write independently, Nietzsche frequently traveled in an attempt to find climates that eased his health problems (and perhaps also to escape the rather vicious rumor that the increasingly antisemitic Wagner had bitterly begun to spread about him: that Nietzsche’s eye problems came from too much masturbation, that his excessive masturbation came from a fear of having sex with women, that this fear came from a hidden homosexuality, and that this hidden homosexuality explained his long-term friendship with ‘that Jew’ philosopher Paul Rée. An absurd and spiteful rumor, but one that did circulate for a while and affect Nietzsche’s social life). 
 
 The isolated, suffering Nietzsche eventually settled into a pattern where he spent his summers in Sils Maria, a small village in the Swiss Alps where nobody knew who he was, and wintered near the Mediterranean, typically in Italy.
-
-![Lake Sils by Sils Maria, Switzerland](./Sils_Sommer.jpg "Lake Sils by Sils Maria, Switzerland")
 
 During the summers, and health permitting, Nietzsche hiked in the Swiss Alps almost daily, and the majesty of the mountains inspired the bulk of Nietzsche’s most enduring and profound ideas, including [the death of God](/articles/god-is-dead-nietzsche-famous-statement-explained/), the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/), [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/) the [Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), the slave revolt in morals, perspectivism, and the will to power. 
 

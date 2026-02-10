@@ -54,8 +54,6 @@ No one is born with mastery of the four cardinal virtues. We must work at them, 
 
 The demanding nature of Stoicism is what leads the three major Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/), and [Marcus Aurelius’s best books here](/reading-lists/marcus-aurelius-best-books/)). 
 
-![Seneca, Epictetus, and Marcus Aurelius](./the-roman-stoics.jpg "Though all lived in the Roman Empire in the first and second centuries, the lives of the Roman Stoics were very different. Seneca (4 BCE - 65 CE), left, was adviser to the Roman Emperor Nero, and was eventually exiled and forced to take his own life, as depicted in Peter Paul Rubens’ famous 1615 painting. Epictetus (50 CE - 135 CE), center, was a slave who gained his freedom and set up a philosophical school. Marcus Aurelius (121 CE - 180 CE), right, was Emperor of Rome during a time of constant crisis, be it war or plague, and outlived most of his children.")
-
 Drawing on their wide-ranging experiences, the Stoics are intent on equipping us (and, as we’ll see, themselves) with the tools and techniques we need to live good lives in the face of both everyday fluctuations (being hungry, tired) and genuine adversity (persecution, grief).
 
 ## Develop the four cardinal virtues with an evening journal

@@ -19,8 +19,6 @@ The Parisian cafe scene of the 1930s-50s _was_ the hub for such famous existenti
 
 But beyond this fond caricature of the lifestyles and demeanours of existentialists, the philosophy of existentialism of course goes much deeper. For many, it's a fascinating way of thinking about the world, as well as our place in it. 
 
-![Existentialists Jean-Paul Sartre and Simone de Beauvoir](./sartre-simone.webp "French philosophers Jean-Paul Sartre and Simone de Beauvoir in a Parisian cafe in 1946, being existential.")
-
 So what _is_ existentialism, exactly? Well, in a nutshell, existentialism concerns itself with finding ways to explain the individual human experience, focusing like a laser on what it means to exist as an individual human being in a universe we don’t understand.
 
 Defining it further than this requires some clarification, for existentialism is a term not limited to philosophers, but also used to describe the work of novelists, playwrights, and artists — notably Fyodor Dostoevsky (see my [reading list on Dostoevsky’s best books here](/reading-lists/fyodor-dostoevsky-best-books/)), Franz Kafka (see [Kafka’s best books here](/reading-lists/franz-kafka-best-books/)), Clarice Lispector, and Samuel Beckett — making existentialism as much a general cultural movement as it is a specific philosophy. 
@@ -56,8 +54,6 @@ Accordingly, existentialist works commonly feature themes like dread, boredom, a
 
 In this regard, Dostoevsky’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/067973452X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=067973452X&linkId=2a50a57b64e10025951baef7a6061f5a">Notes from the Underground</a> Kafka’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0805209999/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0805209999&linkId=de194533fffd29a01939dff34c16581c">The Trial</a>, and Lispector’s <a target="_blank" rel="noopener noreferrer sponsored"  href="https://amzn.to/4bXUms0">The Passion According to G.H.</a> are classic examples of existentialist novels, and <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0571229158/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0571229158&linkId=6be05873e4d375f03777771d71d116a5">the plays of Samuel Beckett</a> and sculptures of Alberto Giacometti explore existentialist themes in fascinating, disturbing ways. 
 
-![Giacometti sculpture](./Giacometti.jpg "“Women of Venice (Femmes de Venise)”, 1956. Swiss artist Alberto Giacometti explored the human condition through his figurative sculpture.")
-
 ## Existentialism as a philosophy
 
 <span class="big-letter">T</span>he more formal philosophical side of existentialism, meanwhile, grapples with its core themes and concepts more directly, and it’s worth taking a brief look at its history, which can be confusing.
@@ -83,8 +79,6 @@ Let’s take a quick look at each in turn.
 <span class="big-letter">P</span>henomenology is a philosophical movement developed by Edmund Husserl in the early 20th century and later adapted by Heidegger, Karl Jaspers, and others.
 
 Phenomenologists are interested in examining the underlying structures of consciousness and experience, typically emphasizing the crucial importance (and inseparability) of the _first-person perspective_ in understanding ourselves and the world around us.
-
-![Edmund Husserl](./husserl.jpg "Edmund Husserl, from your first-person perspective.")
 
 For example, if we were to describe our experience of, say, looking at a bowl of fruit, typically we would rather passively describe the distinct objects we see: a banana, an apple, some oranges, the bowl itself. 
 

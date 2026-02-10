@@ -3,7 +3,7 @@ title: "Seneca On Coping with the Shortness of Life"
 description: "Roman Stoic philosopher Seneca offers timeless advice for how we can face up to the fleeting nature of existence and live our lives without fear."
 image: "./seneca-life.jpg"
 imageAlt: "Seneca Stoicism"
-imageSeo: "./seneca-painting.jpg"
+imageSeo: "./seneca-life.jpg"
 tags: ["Seneca", "Stoicism", "Death"]
 date: "2021-06-18"
 author: "Jack Maden"
@@ -32,8 +32,6 @@ The money, possessions, and status we chase and trade on in our day-to-day lives
 >People are delighted to accept pensions and gratuities, for which they hire out their labor or their support or their services. But nobody works out the value of time: men use it lavishly as if it cost nothing. But if death threatens these same people, you will see them praying to their doctors; if they are in fear of capital punishment, you will see them prepared to spend their all to stay alive. So inconsistent are they in their feelings.
 
 “Feeble old men pray for a few more years,” Seneca continues: “they pretend they are younger than they are; they comfort themselves by this deception and fool themselves as eagerly as if they fooled Fate at the same time. But when at last some illness has reminded them of their mortality, how terrified do they die, as if they were not just passing out of life but being dragged out of it. They exclaim that they were fools because they have not really lived, and that if only they can recover from this illness they will live in leisure. Then they reflect how pointlessly they acquired things they never would enjoy, and how all their toil has been in vain.”
-
-![Seneca](./seneca-painting.jpg "Born in 4 BC, Seneca was a Roman Stoic philosopher who tutored emperor Nero. Seneca's influence over Nero declined with time, and in 65 CE Seneca was forced to take his own life for alleged complicity to assassinate Nero — an accusation of which he was likely to have been innocent. His stoic and calm suicide has become the subject of numerous paintings, including the one above by Peter Paul Rubens, c.1614.")
 
 Why do we leave it until death approaches to suddenly recognize that time is the most precious resource we have? Seneca writes, “if each of us could have the tally of his future years set before him, as we can of our past years, how alarmed would be those who saw only a few years ahead, and how carefully would they use them!” 
 
