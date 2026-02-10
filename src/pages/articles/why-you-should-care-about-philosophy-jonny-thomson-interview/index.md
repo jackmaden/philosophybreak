@@ -28,7 +28,7 @@ That curiosity. That sense of wanting to know, just for the sake of it. That’s
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
-    <img src="/static/6313d50bc32799a6c869239128784c7b/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
+    <img src="/static/5efb30456b63f5ed3658f68eec6d6c16/e7f7a/weekly-break.webp" alt="weekly emails from Philosophy Break">
     <h4>From the Buddha to Nietzsche: join 25,000+ subscribers enjoying my free Sunday Breakdown</h4>
     <p class="small-grey-font no-mar-bottom">In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox.</p>
     <div class="small-pad-top">
