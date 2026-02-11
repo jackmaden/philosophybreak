@@ -45,13 +45,23 @@ In her famous 1958 article [Modern Moral Philosophy](https://www.jstor.org/stabl
 
 <span class="big-letter">W</span>hile the words ‘moral’ and ‘immoral’ might carry psychological force, Anscombe observes, they don’t actually give us much guidance. In fact, detached from their original theoretical and religious contexts, invoking such terms simply causes confusion. 
 
-Philosophers can and do debate the definitions of ‘morality’ endlessly; meanwhile, we have a whole host of virtue and vice terms at our disposal, the definitions of which are already clear.
+In the West, our moral notion of ‘ought’ has its roots in Christianity, Anscombe notes: we ought to follow certain rules because God commands it.
 
-What offers more information, for example: ‘your actions were immoral’, or: ‘your actions were dishonest’?
+Anscombe’s complaint is that modern moral philosophy has more or less abandoned this notion of the divine law, yet clings to its law-like language of ‘ought’, ‘duty’, and ‘obligation’. It wants to dine out on the forceful ‘atmosphere’ and rules-based order of divine morality, while rejecting the divine foundation that lent it force. 
 
-Perhaps moral philosophy would be in less disastrous shape if, for now, we dropped the concept of ‘morality’ altogether.
+Like Bentham and Kant, perhaps in lieu of God we might think we could ground morality in pleasure, or reason, or in some kind of social contract. Anscombe thinks a better route for those who no longer believe in God would be to give up the conception of a law-like framework of ‘morality’ altogether.
 
-That doesn’t mean giving up on ethical judgment, or thinking that anything goes; it means questioning whether the abstract language of ‘morality’ actually hinders more than it clarifies our thinking.
+Instead of abstract, universal moral principles, philosophers could take inspiration from the pre-Christian notion of ‘ought’, wielded by ancient thinkers like Aristotle.
+
+Just as a plant ‘ought’ to get sunshine and water in order to flourish, perhaps there are things we ‘ought’ to do in order to live a flourishing human life.
+
+Rather than try to force a foundationless ‘top-down’ view (that we must all live in accordance with some universal higher law), we could think more in terms of a ‘bottom-up’ view (that we behave in ways that are conducive to human flourishing).
+
+Anscombe herself thought we needed to build out a philosophy of psychology before proceeding further: until we have a more coherent picture of intention, obligation, and action, we should set moral theory aside.
+
+That doesn’t mean giving up on ethical judgment, or thinking that anything goes. It means questioning whether the abstract language of ‘morality’ - derived from an abandoned conception of the ‘divine law’ - actually hinders more than it clarifies our thinking.
+
+For instance, philosophers can and do debate the definitions of ‘morality’ endlessly. Meanwhile, we have a whole host of virtue and vice terms at our disposal, the definitions of which are already clear.
 
 To see what Anscombe is getting at, suppose someone is sentenced for a crime it’s widely known they haven’t committed.
 
@@ -63,35 +73,35 @@ No matter how we switch up the details, however, someone being sentenced for a c
 
 >For in the context of English moral philosophy… it appears legitimate to discuss whether it might be ‘morally right’ in some circumstances to adopt that procedure; but it cannot be argued that the procedure would in any circumstances be just.
 
-When thinking about the good life, then, rather than relatively empty or ‘thin’ concepts like ‘morality’, Anscombe recommends we use ‘thick’, action-guiding concepts like ‘truthful’ and ‘untruthful’, ‘just’ and ‘unjust’, ‘loyal’ and ‘disloyal’, ‘courageous’ and ‘cowardly’.
+Anscombe’s point is that our current discussions of ‘morality’ tend to derive from a law conception of ethics. Philosophers who no longer believe in a universal lawgiver, however, should think twice before adopting the language of ‘morality’. After all, can notions like ‘obligation’ and ‘duty’ really be reconstructed without a legislator?
 
-To see why, consider which of these two approaches offers a clearer prescription for living well:
+Without God, Anscombe thinks a law-like conception of moral rules lacks the metaphysical grounding it originally depended upon. Moral philosophy would be in better shape if we dropped this law-centered conception of ‘morality’, stopped trying to preserve the structure of divine law while simultaneously rejecting its source, and instead relied on more precise ethical language.
+
+## The revival of virtue ethics
+
+<span class="big-letter">F</span>ollowing her paper, many thinkers saw the wisdom in Anscombe’s view. While Anscombe herself thought our moral concepts require far more development to be of use, her arguments proved pivotal in influencing the revival of _virtue ethics_.
+
+Virtue ethics has established itself in moral theory as a major rival to consequentialism and deontology, seeking to ground ethics not in abstract law but in human flourishing and character.
+
+Rather than argue endlessly about what constitutes a singular ‘morality’, rather than invoke a top-down, law-like version of ‘ought’ (a hangover from religious conceptions of ethics), philosophers could come back down to earth.
+
+We could better describe and account for the challenging complexity of our lived experience by using the rich, specific moral vocabulary already at our disposal.
+
+Instead of confused or ‘thin’ concepts like ‘morality’, for instance, we could use ‘thick’, action-guiding concepts like ‘truthful’ and ‘untruthful’, ‘just’ and ‘unjust’, ‘loyal’ and ‘disloyal’, ‘courageous’ and ‘cowardly’. 
+
+Consider which of these two approaches offers a clearer prescription for living well:
 
 1. To live a good life, try not to act in ways that are morally wrong
 2. To live a good life, try not to act in ways that are selfish, dishonest, disloyal, ungrateful, unsympathetic, thoughtless, rude, arrogant, materialistic, cowardly, jealous, inconsiderate, intolerant, ignorant, irresponsible, etc…
 
-Anscombe’s point is that our current discussions of ‘morality’ tend to derive from a law conception of ethics. Without a universal lawgiver, however, we’re not going to get very far: we can’t ask whether something is morally ‘wrong’ without invoking lots of other philosophical baggage. It is far simpler - and more precise - to ask if something is unjust, or thoughtless, or disrespectful…
-
-## The revival of virtue ethics
-
-<span class="big-letter">F</span>ollowing her paper, many thinkers saw the wisdom in Anscombe’s view. Rather than argue endlessly about what constitutes a singular ‘morality’, rather than invoking a moral version of ‘ought’ (a hangover from law conceptions of ethics and religion), ethicists could come back down to earth. They could better describe and account for the challenging complexity of our lived experience by using the rich, specific moral vocabulary already at their disposal.
-
-After all, ancient philosophers like Aristotle wrote wonderful works on ethics by harnessing such terms, without tripping up on or perpetually returning to the definition or ‘grounding’ of morality.
-
-Anscombe herself thought we needed to build out a philosophy of psychology before proceeding further: until we have a more coherent picture of intention, obligation, and action, we should set moral theory aside.
-
-But Anscombe’s arguments proved pivotal in influencing the revival of _virtue ethics_, which has established itself in moral theory as a major rival to consequentialism and deontology.
-
-Some virtue ethicists suggest we can reclaim the word ‘ought’ from the grand esotericism of morality, and simply use it in the same way we might say a plant ‘ought’ to get water and sunshine. To flourish, a human ‘ought’ to be wise, temperate, honest, and so on…
-
-[Aristotelianism](/reading-lists/aristotle/), [Confucianism](/reading-lists/confucius/), [Stoicism](/reading-lists/stoicism/): none of these moral philosophies needed complicated conceptions of ‘morality’ in order to inform us about living well.
+[Aristotelianism](/reading-lists/aristotle/), [Confucianism](/reading-lists/confucius/), [Stoicism](/reading-lists/stoicism/): none of these moral philosophies needed complicated, law-based conceptions of ‘morality’ in order to inform us about living well.
 
 Rather than ‘morally right’ and ‘morally wrong’, it is action-guiding concepts like courage, wisdom, temperance, kindness, compassion, justice, and integrity - long championed by ancient philosophers from East and West - that show us what it means to develop good character and, accordingly, live a good life.
 
 ## What do you make of Anscombe’s arguments?  
 
 - When you judge your own actions or those of others, do you find terms like ‘moral’ and ‘immoral’ useful? Or do more specific terms like ‘unjust’, ‘dishonest’, or ‘selfish’ better clarify your thinking?
-- Given its dependence on background religious and theoretical contexts, do you think ethical reflection would be improved if we dropped ‘morality’ altogether, as Anscombe suggests?
+- Do you think those who don’t believe in a universal lawgiver would be better off dropping the concept of a law-centered conception of ‘morality’ altogether, as Anscombe suggests?
 - Or, if we did drop ‘morality’ from our descriptions, would something important be lost?
 
 To inform your answers, you might enjoy the following related Philosophy Breaks:
