@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<p class="hero-image-attribution">Image: Cocktail Hour by Yumikrum, <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/94725359@N06/23654633206/">via Flickr</a> under CC license</p>
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Cocktail Hour by Yumikrum, <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/94725359@N06/23654633206/">via Flickr</a> under CC license</p>
 
 <span class="big-letter">I</span>n his 2007 book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a>, the cognitive scientist Douglas Hofstadter tackles the thorny subject of self: what is the ‘I’? In a cosmos bound by physical law, how does the ‘I’ come to exist? From the seething micro world of quanta, how does a sense of self, a sense of perspective and thought and feeling, possibly emerge?
 

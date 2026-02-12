@@ -106,7 +106,7 @@ const Page = ({ data, location }) => {
                 
                 <BannerReadingList title="Plato" number="6" link="/reading-lists/plato/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
-                <BannerReadingList title="Aristotle" number="9" link="/reading-lists/aristotle/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
+                <BannerReadingList title="Aristotle" number="9" link="/reading-lists/aristotle/" img={data.aristotle.childImageSharp.gatsbyImageData} alt="Aristotle with a Bust of Homer, by Rembrandt (1653)" />
 
                 <BannerReadingList title="Epicurus" number="6" link="/reading-lists/epicureanism/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
@@ -136,7 +136,7 @@ const Page = ({ data, location }) => {
 
                 <BannerReadingList title="Leo Tolstoy" number="5" link="/reading-lists/leo-tolstoy-best-books/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
                 
-                <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.rl3.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
+                <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Portrait of Friedrich Nietzsche, by Rudolf Köselitz (1883)" />
 
                 <BannerReadingList title="Franz Kafka" number="5" link="/reading-lists/franz-kafka-best-books/" img={data.rl4.childImageSharp.gatsbyImageData} alt="The Open Book, by Juan Gris" />
 
@@ -273,6 +273,16 @@ export const query = graphql`{
   philosophybreak: file(relativePath: {eq: "philosophybreak.png"}) {
     childImageSharp {
       gatsbyImageData(width: 22, layout: CONSTRAINED)
+    }
+  }
+  nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
+    }
+  }
+  aristotle: file(relativePath: {eq: "aristotle.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(width: 480, layout: CONSTRAINED)
     }
   }
 }

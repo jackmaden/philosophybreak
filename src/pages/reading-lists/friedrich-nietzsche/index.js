@@ -22,13 +22,17 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Friedrich Nietzsche" number="9" img={data.title.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
+        <TitleReadingList title="Friedrich Nietzsche" number="9" img={data.title.childImageSharp.gatsbyImageData} alt="Portrait of Friedrich Nietzsche, by Rudolf Köselitz (1883)" />
         
         {/*container for sidebar*/}
         <div id="container">
 
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
+
+              {/*image attribution*/}
+              <p className="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Portrait of Friedrich Nietzsche, by Rudolf Köselitz (1883), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:K%C3%B6selitz-Nietzsche.jpg">via Wikimedia Commons</a></p>
+            
               <p><span className="big-letter">F</span>riedrich Nietzsche (1844-1900) was a 19th-century German philosopher who, though hardly read during his own (sane) lifetime, has become a dominant intellectual force in today’s popular culture.</p>
               <p>Perhaps best known for his proclamation that <Link to="/articles/god-is-dead-nietzsche-famous-statement-explained/">God is dead</Link>, along with his critique of conventional morality and religion, Nietzsche is remembered for his attempt to establish what he called a ‘revaluation of all values’, and is celebrated for his brilliant, provocative aphorisms and idea-packed prose (which includes, for instance, his vision of the <Link to="/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/">Übermensch</Link>, his distinction between the <Link to="/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/">Apollonian and Dionysian</Link>, his presentation of <Link to="/articles/eternal-recurrence-what-did-nietzsche-really-mean/">the eternal recurrence</Link>, <Link to="/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/"><i>amor fati</i></Link>, what it means to <Link to="/articles/nietzsche-on-what-finding-yourself-actually-means/">find yourself</Link>, his famous passage on <Link to="/articles/nietzsche-on-friends-growing-apart/">friends growing apart</Link>, and all of the <Link to="/articles/nietzsche-quotes-97-of-his-cleverest-statements/">97 clever Nietzsche passages and quotations we’ve collated here</Link>).</p>
               <p>Accordingly, Nietzsche’s reputation in the English-speaking world is now arguably the highest it’s ever been, and his place in philosophy’s canon looks assured.</p> 
@@ -203,7 +207,7 @@ const ReadingList = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  title: file(relativePath: {eq: "rl2.jpg"}) {
+  title: file(relativePath: {eq: "nietzsche.jpg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }

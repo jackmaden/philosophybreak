@@ -550,24 +550,25 @@ div.separator {width: 80px; height: 4px; background:linear-gradient(to right top
 /*title center vertically on /articles & fade in (look in js), and moved from bottom 20% to 10% on individual articles (look in js)*/
 div.title-center {position: absolute; left: 0; right: 0;}
 .carousel-cell div.title-center {top: 50%; -ms-transform: translateY(-44%); transform: translateY(-44%);}
-.title div.title-center {bottom: 67px;}
+.title div.title-center {bottom: 54px;}
 div.title-center h1, div.title-center h2, div.title-center p, .title p, .title div, .title div a, .title p a {color: #fff;}
 div.title-center h2 {font-size: 36px; margin: 0; font-weight: 700;}
 div.title-center .description {font-size: 16px; font-family: 'Spectral', serif; letter-spacing: -0.5px;}
-.title.no-author div.title-center .description {margin-bottom: 0;}
 .time {font-size: 12px; font-weight: 400;}
 .time svg, .time div {width: 18px; height: 18px; margin-right: 6px;}
 .time svg {vertical-align: bottom;}
 .time div {vertical-align: sub;}
 svg.bounce {margin-right: 0;}
-.title p.break, .carousel-cell p.break, .featured-image-full p.break {position: absolute; bottom: 26px; left: 0; right: 0;}
+.title p.break, .carousel-cell p.break, .featured-image-full p.break {position: absolute; bottom: 15px; left: 0; right: 0;}
 /*scroll prompt*/
 .scroll-prompt {position: absolute; bottom: 16px; left:76px;}
 .scroll-prompt svg {width: 20px; height: 20px; fill: #fff;}
 .bottom-blue-border {padding-bottom: 1px; border-bottom: solid 2px #36b4ff; font-size: 11px;}
 /*image attribution*/
-#break-start p.hero-image-attribution {font-family: 'Public Sans'; color: #737d88; font-size: 13px; font-style: italic; margin-bottom: 2em;}
+#break-start p.hero-image-attribution svg {fill: #737d88; width: 16px; height: 16px; vertical-align:text-bottom;}
+#break-start p.hero-image-attribution {font-family: 'Public Sans'; color: #737d88; font-size: 14px; font-style: italic; margin-top: 0.5em;margin-bottom: 2em;}
 #break-start p.hero-image-attribution a {color: #737d88; text-decoration-color: #737d88;}
+#break-start p.hero-image-attribution a:hover {color: #fff;}
 /*hide description on small screens*/
 @media (max-height: 475px) {
   .carousel-cell .description, .title .description {display: none;}
@@ -581,11 +582,11 @@ svg.bounce {margin-right: 0;}
   .scroll-prompt {left:0; right: 0;}
   .scroll-prompt svg {margin-left: 76px;}
   .bottom-blue-border {font-size: 12px;}
-  #break-start p.hero-image-attribution {font-size: 15px; margin-top: -0.75em !important;}
+  #break-start p.hero-image-attribution svg {width: 17px; height: 17px; vertical-align: text-top;} 
+  #break-start p.hero-image-attribution {font-size: 15px; margin-top: -0.9em !important;}
 }
 @media (min-width: 1020px) {
-  .title div.title-center {bottom: 26px;}
-  .title.title.no-author div.title-center {bottom: 22px;}
+  .title div.title-center {bottom: 15px;}
   div.page-center.title-center.rl {width: 600px;} /*reading lists*/
 }
 /*change title layout for articles on larger screens to match sidebar*/
@@ -600,7 +601,7 @@ svg.bounce {margin-right: 0;}
 /*reading list title*/
 .title.list {height: 420px;}
 .title.list div.darkener {background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));}
-.title.list div.title-center {bottom: 18px;}
+.title.list div.title-center {bottom: 10px;}
 .time.tag {font-size: 10px; margin-bottom: 4px; display: inline-block; color: #fff;}
 .time.tag.home {font-size: 12px;}
 .time.tag.new {margin-left: 6px;}
@@ -620,8 +621,6 @@ div.separator.course.chapter {width: 136px; margin: -3px auto 10px;}
 div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 .title.list h1 {font-size: 36px;}
 .title.list h1 span {font-family: 'Spectral', serif; letter-spacing: -0.5px; margin: 5px 0 0; font-size: 24px; display:block; font-weight: 400;}
-div.attribution span {font-style: italic; font-size: 13px; margin-top: 10px; display: block; color: rgba(255, 255, 255, 0.75)}
-div.attribution span a {color: rgba(255, 255, 255, 0.75); text-decoration-color: rgba(255, 255, 255, 0.75);}
 @media (min-width: 620px) {
   .time.tag {font-size: 12px; margin-bottom: 6px;}
   .time.tag.home {font-size: 14px;}
@@ -639,7 +638,6 @@ div.attribution span a {color: rgba(255, 255, 255, 0.75); text-decoration-color:
   div.separator.course.chapter {width: 164px;}
   .title.list h1 {font-size: 45px;}
   .title.list h1 span {font-size: 28px;}
-  div.attribution span {font-size: 15px;}
 }
 @media (min-width: 1020px) {
   div.separator.reading-list, div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {display: block;}

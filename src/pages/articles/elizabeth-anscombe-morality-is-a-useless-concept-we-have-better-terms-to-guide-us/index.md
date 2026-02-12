@@ -11,6 +11,8 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;The Spirit of War, by Jasper Francis Cropsey (1851), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:The-spirit-of-war.jpg">via Wikimedia Commons</a></p>
+
 <span class="big-letter">W</span>hat does it mean to be ‘moral’? What does it mean to be ‘immoral’? Many philosophies and religions have offered answers throughout history. Since the 18th century, however, we could characterize the bulk of Western moral theory by placing Jeremy Bentham in one corner, and Immanuel Kant in the other.
 
 A mob surrounds each philosopher, slinging mud at the other side.

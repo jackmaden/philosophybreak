@@ -16,7 +16,7 @@ export default function PanelReadingList() {
           gatsbyImageData(width: 480, layout: CONSTRAINED)
         }
       }
-      nietzsche: file(relativePath: {eq: "rl3.jpg"}) {
+      nietzsche: file(relativePath: {eq: "nietzsche.jpg"}) {
         childImageSharp {
           gatsbyImageData(width: 480, layout: CONSTRAINED)
         }
@@ -42,7 +42,7 @@ export default function PanelReadingList() {
           
           <BannerReadingList title="Existentialism" number="9" link="/reading-lists/existentialism/" img={data.existentialism.childImageSharp.gatsbyImageData} alt="Compotier, Carafe and Open Book, by Juan Gris" />
           
-          <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
+          <BannerReadingList title="Friedrich Nietzsche" number="9" link="/reading-lists/friedrich-nietzsche/" img={data.nietzsche.childImageSharp.gatsbyImageData} alt="Portrait of Friedrich Nietzsche, by Rudolf Köselitz (1883)" />
           
           <BannerReadingList title="Stoicism" number="7" link="/reading-lists/stoicism/" img={data.stoicism.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
           

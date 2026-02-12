@@ -22,13 +22,18 @@ const ReadingList = ({ data, location }) => {
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}
-        <TitleReadingList title="Aristotle" number="9" img={data.title.childImageSharp.gatsbyImageData} alt="The Book, by Juan Gris" />
+        <TitleReadingList title="Aristotle" number="9" img={data.title.childImageSharp.gatsbyImageData} alt="Aristotle with a Bust of Homer, by Rembrandt (1653)"/>
         
         {/*container for sidebar*/}
         <div id="container">
 
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
+
+              {/*image attribution*/}
+              <p className="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Aristotle with a Bust of Homer, by Rembrandt (1653), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg">via Wikimedia Commons</a></p>
+              
+              
               <p><span className="big-letter">A</span>ristotle was an ancient Greek philosopher who, like his <Link to="/reading-lists/plato/">legendary teacher Plato</Link> (and <i>his</i> legendary teacher, <Link to="/reading-lists/socrates/">Socrates</Link>), is considered to be one of the most significant figures in the <Link to="/reading-lists/history-of-western-philosophy/">history of Western philosophy</Link>. Over his lifetime, he transformed most of the subjects he investigated, writing as many as 200 treatises (of which only 31 survive) on topics ranging from logic, <Link to="/reading-lists/political-philosophy/">politics</Link>, and <Link to="/reading-lists/ethics-and-morality/">ethics</Link>, to biology, mathematics, and <Link to="/reading-lists/metaphysics/">metaphysics</Link>. </p> 
 
               <p>It was largely from Aristotle’s works that the West inherited its entire intellectual approach, including the problems it investigates and its methods of inquiry. Consequently, like Plato, Aristotle holds a unique influence on almost every form of knowledge in the West, and his writings continue to be a subject of contemporary debate today.</p>    
@@ -71,7 +76,7 @@ const ReadingList = ({ data, location }) => {
               <h2>4. How to Live a Good Life (According to 7 of the World’s Wisest Philosophies), by Philosophy Break</h2>
               <div className="article white">
                   <Link to="/how-to-live-a-good-life/">
-                        <StaticImage src="../../../images/PFL-mob.png" alt="How to Live a Good Life" placeholder="blurred" />
+                        <StaticImage src="../../../images/how-to-live-a-good-life.png" alt="How to Live a Good Life" placeholder="blurred" />
                         <div className="article-info">
                             <h4>How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</h4>
                             <p className="time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BY PHILOSOPHY BREAK</p>
@@ -139,7 +144,7 @@ const ReadingList = ({ data, location }) => {
 }
 
 export const query = graphql`{
-  title: file(relativePath: {eq: "rl3.jpg"}) {
+  title: file(relativePath: {eq: "aristotle.jpeg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }
