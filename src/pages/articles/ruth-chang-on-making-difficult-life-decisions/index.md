@@ -104,6 +104,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [Erich Fromm: Our Task is Not to Feel Certain, but to Better Tolerate Uncertainty](/articles/erich-fromm-our-task-is-not-to-feel-certain-but-to-better-tolerate-uncertainty/)
 - [The Paradox of Choice: Barry Schwartz on Why More is Less](/articles/the-paradox-of-choice-barry-schwartz-on-why-more-is-less/)
 - [Existence Precedes Essence: What Sartre Really Meant](/articles/existence-precedes-essence-what-sartre-really-meant/)
+- [Galen Strawson: Our Lives Are Not Stories](/articles/galen-strawson-our-lives-are-not-stories/)
 - [Heidegger On Being Authentic in an Inauthentic World](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)
 - [​Nietzsche On What ‘Finding Yourself’ Actually Means](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Hunter S. Thompson: Don’t Look for Goals, Look for a Way of Life](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/)

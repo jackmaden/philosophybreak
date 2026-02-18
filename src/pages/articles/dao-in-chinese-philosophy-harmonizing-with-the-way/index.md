@@ -84,6 +84,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [Hunter S. Thompson: Don’t Look for Goals, Look for a Way of Life](/articles/hunter-s-thompson-dont-look-for-goals-look-for-a-way-of-life/)
 - [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
+- [Galen Strawson: Our Lives Are Not Stories](/articles/galen-strawson-our-lives-are-not-stories/)
 - [Kieran Setiya: Focus on Processes, Not Outcomes](/articles/how-to-set-better-new-years-resolutions-focus-on-processes-not-outcomes/)
 - [Michael Cholbi on Grief, Identity Crisis, and What We Learn from Loss](/articles/michael-cholbi-on-grief-identity-crisis-and-what-we-learn-from-loss/)
 - [Confucius: the Best 6 Books to Read](/reading-lists/confucius/)

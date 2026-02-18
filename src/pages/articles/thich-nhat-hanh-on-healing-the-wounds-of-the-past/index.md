@@ -141,6 +141,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [The Buddha’s Four Noble Truths: the Cure for Suffering](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/)
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
+- [Galen Strawson: Our Lives Are Not Stories](/articles/galen-strawson-our-lives-are-not-stories/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [Havi Carel on the Philosophy of Illness: Is Good Health Necessary for a Good Life?](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/)
 - [Buddhist Philosophy: the Best 7 Books to Read](/reading-lists/buddhist-philosophy/)

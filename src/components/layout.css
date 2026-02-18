@@ -565,8 +565,8 @@ svg.bounce {margin-right: 0;}
 .scroll-prompt svg {width: 20px; height: 20px; fill: #fff;}
 .bottom-blue-border {padding-bottom: 1px; border-bottom: solid 2px #36b4ff; font-size: 11px;}
 /*image attribution*/
-#break-start p.hero-image-attribution svg {fill: #737d88; width: 16px; height: 16px; vertical-align:text-bottom;}
-#break-start p.hero-image-attribution {font-family: 'Public Sans'; color: #737d88; font-size: 14px; font-style: italic; margin-top: 0.5em;margin-bottom: 2em;}
+#break-start p.hero-image-attribution svg {fill: #737d88; width: 15px; height: 15px; vertical-align:text-bottom;}
+#break-start p.hero-image-attribution {font-family: 'Public Sans'; color: #737d88; font-size: 13px; font-style: italic; margin-top: 0.5em;margin-bottom: 2em;}
 #break-start p.hero-image-attribution a {color: #737d88; text-decoration-color: #737d88;}
 #break-start p.hero-image-attribution a:hover {color: #fff;}
 /*hide description on small screens*/
@@ -582,8 +582,8 @@ svg.bounce {margin-right: 0;}
   .scroll-prompt {left:0; right: 0;}
   .scroll-prompt svg {margin-left: 76px;}
   .bottom-blue-border {font-size: 12px;}
-  #break-start p.hero-image-attribution svg {width: 17px; height: 17px; vertical-align: text-top;} 
-  #break-start p.hero-image-attribution {font-size: 15px; margin-top: -0.9em !important;}
+  #break-start p.hero-image-attribution svg {width: 16px; height: 16px; vertical-align: text-top;} 
+  #break-start p.hero-image-attribution {font-size: 14px; margin-top: -1.1em !important;}
 }
 @media (min-width: 1020px) {
   .title div.title-center {bottom: 15px;}

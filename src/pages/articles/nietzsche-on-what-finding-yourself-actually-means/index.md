@@ -74,6 +74,7 @@ Many disagree with Nietzsche’s championing of the ‘aesthetic’ over the ‘
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [Ruth Chang on Making Difficult Life Decisions](/articles/ruth-chang-on-making-difficult-life-decisions/)
+- [Galen Strawson: Our Lives Are Not Stories](/articles/galen-strawson-our-lives-are-not-stories/)
 - [The Apollonian and Dionysian: Nietzsche On Art and the Psyche](/articles/apollonian-and-dionysian-nietzsche-on-art-and-the-psyche/)
 - [Nietzsche’s Perspectivism: What Does ‘Objective Truth’ Really Mean?](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/)
 - [Introduction to Nietzsche: Your Myth-Busting Guide to His 5 Greatest Ideas](/introduction-to-nietzsche/)
