@@ -32,9 +32,7 @@ The reason we struggle to imagine what this state is like is because there is _n
 
 We learn objectively that the universe existed before we were born, and that it will continue after our deaths; but from our subjective perspectives all that’s ever existed is our consciousness. The non-existence of consciousness thus feels like an outrageous impossibility. 
 
-As the philosopher Tom Clark observes with his intriguing notion of [generic subjective continuity](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity), we struggle to comprehend our lives as a finite block of time because we live only _inside the block_.
-
-We characterize anything _outside the block_ as eternal blackness or oblivion, because that’s a tempting conception of ‘nothingness’. 
+We struggle to comprehend our lives as a finite block of time because we live only _inside the block_. We characterize anything _outside the block_ as eternal blackness or oblivion, because that’s a tempting conception of ‘nothingness’. 
 
 But, by contemplating unconsciousness and dreamless sleep, we can recognize that nothingness isn’t like that.
 
@@ -42,14 +40,14 @@ As the [Roman philosopher Lucretius also advises in his beautiful reflection on 
 
 >we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation – not even if the the earth should collapse in to the sea, or the sea explode in the sky…
 
-If after death our consciousness was to be magically resurrected millions of years in the future, we’d have no sense of the time that had passed. Our last conscious experience would have seemed but a moment ago.
+As the philosopher Tom Clark observes with his intriguing notion of [generic subjective continuity](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity), if after death our consciousness was to be magically resurrected millions of years in the future, we’d have no sense of the time that had passed. Our last conscious experience would have seemed but a moment ago.
 
-So, Epicurus advises, don’t worry about being dead: it won’t even last a millisecond. 
+So, Epicurus concludes, don’t worry about being dead: it won’t even last a millisecond. 
 
 ## What do you make of Epicurus’s analysis?
 
 - Do you think Epicurus is right in declaring death is nothing to fear?
-- Or is the prospect of non-consciousness, of being deprived of experience and time, rightly feared? (In his [beautiful poem, Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07), for example, Philip Larkin calls out “specious stuff that says _No rational being_ / _Can fear a thing it will not feel_, not seeing / That this is what we fear…)
+- Or is the prospect of non-consciousness, of being deprived of experience and time, rightly feared? (In his [beautifully haunting poem, Aubade](https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07), for example, Philip Larkin calls out “specious stuff that says _No rational being_ / _Can fear a thing it will not feel_, not seeing / That this is what we fear…”)
 
 To inform your answers, you might enjoy the following related Philosophy Breaks:
 
