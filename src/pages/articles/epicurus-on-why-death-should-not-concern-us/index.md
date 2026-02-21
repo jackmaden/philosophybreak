@@ -1,5 +1,5 @@
 ---
-title: "Epicurus On Why Death Should Not Concern Us"
+title: "Epicurus: Death Won’t Last a Second, So Why Should it Concern Us?"
 description: "Ancient Greek philosopher Epicurus argues death is absolutely nothing to fear, “because as long as we exist, death is not here. And once it does come, we no longer exist.”"
 image: "./stilllife.jpg"
 imageAlt: "Still Life with a Skull, by Philippe de Champaigne (1671)"
@@ -38,7 +38,7 @@ We characterize anything _outside the block_ as eternal blackness or oblivion, b
 
 But, by contemplating unconsciousness and dreamless sleep, we can recognize that nothingness isn’t like that.
 
-[As the Roman philosopher Lucretius also advises in his beautiful reflection on mortality](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/), just like before we were born, in death we won’t experience anything that happens – no pleasure, no pain, no anxiety, no fear – for the conscious self simply isn’t there:
+As the [Roman philosopher Lucretius also advises in his beautiful reflection on mortality](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/), just like before we were born, in death we won’t experience anything that happens – no pleasure, no pain, no anxiety, no fear – for the conscious self simply isn’t there:
 
 >we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation – not even if the the earth should collapse in to the sea, or the sea explode in the sky…
 
