@@ -1,0 +1,54 @@
+{
+  "version": "5",
+  "remote": {
+    "https://edge.netlify.com/": "fd941d61d88673d5f28aab283fb86fcc50f08a3bc80ee5470498fcfa88c65cfb",
+    "https://edge.netlify.com/bootstrap/config.ts": "6a2ce0e544e15e8f8883a5c18da5948e37fd0f2619f68cb31f3af53c51817025",
+    "https://edge.netlify.com/bootstrap/context.ts": "e97240232121e2f369f6546ce961490f34d961ea1ea54be3ff09633e3f08373f",
+    "https://edge.netlify.com/bootstrap/cookie.ts": "8b0baae708989ca183c6f3b4ab3d029e6abcbc2e43f93edeb0ff447b3bbc3a05",
+    "https://edge.netlify.com/bootstrap/edge_function.ts": "b8253e86aa83c67341f5cfedeba5049d77fbf84dcab7eceff7566b7728ae9b39",
+    "https://edge.netlify.com/bootstrap/globals/types.ts": "eaa6148ded3121d8dee62dd91c86e7fe76601df0f3ca8d7962243a30f4c8935f"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@babel/core@^7.20.12",
+        "npm:axios@^1.3.4",
+        "npm:gatsby-background-image@^1.6.0",
+        "npm:gatsby-cli@^5.7.0",
+        "npm:gatsby-image@^3.1.0",
+        "npm:gatsby-plugin-catch-links@^5.5.0",
+        "npm:gatsby-plugin-compile-es6-packages@^2.1.1",
+        "npm:gatsby-plugin-feed@^5.11.0",
+        "npm:gatsby-plugin-force-trailing-slashes@^1.0.6",
+        "npm:gatsby-plugin-google-tagmanager@^5.5.0",
+        "npm:gatsby-plugin-html-attributes@^1.0.5",
+        "npm:gatsby-plugin-image@^3.5.0",
+        "npm:gatsby-plugin-manifest@^5.5.0",
+        "npm:gatsby-plugin-offline@^6.5.0",
+        "npm:gatsby-plugin-polyfill-io@^1.1.0",
+        "npm:gatsby-plugin-react-helmet-canonical-urls@^1.4.0",
+        "npm:gatsby-plugin-react-helmet@^6.5.0",
+        "npm:gatsby-plugin-robots-txt@^1.8.0",
+        "npm:gatsby-plugin-sharp@^5.5.0",
+        "npm:gatsby-plugin-sitemap@^6.5.0",
+        "npm:gatsby-remark-external-links@0.0.4",
+        "npm:gatsby-remark-images@^7.5.0",
+        "npm:gatsby-source-filesystem@^5.5.0",
+        "npm:gatsby-transformer-remark@^6.5.0",
+        "npm:gatsby-transformer-sharp@^5.5.0",
+        "npm:gatsby@^5.16.1",
+        "npm:intersection-observer@~0.12.2",
+        "npm:prettier@^2.8.3",
+        "npm:react-anchor-link-smooth-scroll@^1.0.12",
+        "npm:react-dom@^18.2.0",
+        "npm:react-helmet@^6.1.0",
+        "npm:react-scroll-progress-bar@^1.1.13",
+        "npm:react@^18.2.0",
+        "npm:sharp@~0.32.6",
+        "npm:smooth-scroll@^16.1.3",
+        "npm:typeface-public-sans@^1.1.13",
+        "npm:typeface-spectral@^1.1.13"
+      ]
+    }
+  }
+}

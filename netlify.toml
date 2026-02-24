@@ -1,0 +1,10 @@
+[dev]
+  command = "npm run develop"
+  port = 8888 # You will visit http://localhost:8888
+  targetPort = 8000 # Netlify will talk to Gatsby here
+  publish = "public"
+  autoLaunch = true
+
+[[edge_functions]]
+  path = "/*"
+  function = "set-country"
