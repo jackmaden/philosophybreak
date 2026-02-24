@@ -1,5 +1,5 @@
 ---
-title: "Epicurus: Death Won’t Last a Second, So Why Should it Concern Us?"
+title: "Epicurus: Don’t Worry about Death, It Won’t Even Last a Millisecond"
 description: "Ancient Greek philosopher Epicurus argues death is absolutely nothing to fear, “because as long as we exist, death is not here. And once it does come, we no longer exist.”"
 image: "./stilllife.jpg"
 imageAlt: "Still Life with a Skull, by Philippe de Champaigne (1671)"
