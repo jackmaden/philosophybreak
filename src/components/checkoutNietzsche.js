@@ -16,7 +16,7 @@ export class CheckoutNietzsche extends React.Component {
       const countryCode = countryCookie ? countryCookie.split('=')[1] : 'US';
 
       if (countryCode === 'GB') {
-        this.setState({price: '£14'})
+        this.setState({price: '£19'})
       } else {
         this.setState({price: '$19'})
       }
