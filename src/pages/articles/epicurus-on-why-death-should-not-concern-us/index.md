@@ -18,7 +18,7 @@ As he puts it in a famous aphorism (from Diogenes Laertius’s celebrated survey
 
 >Death does not concern us, because as long as we exist, death is not here. And once it does come, we no longer exist.
 
-From this doctrine arose the epitaph: _Non fui, fui, non sum, non curo_ (I was not; I was; I am not; I do not care), which is inscribed on the gravestones of Epicurus’s followers and seen on many ancient gravestones of the Roman Empire.
+From this doctrine arose the popular epitaph, engraved on tombs throughout the Roman Empire: _Non fui, fui, non sum, non curo_ (I was not; I was; I am not; I do not care).
 
 ## No consciousness means no time
 
