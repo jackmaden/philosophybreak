@@ -1,6 +1,6 @@
 ---
 title: "On Reconciling Ourselves to the Vastness of Space: Robert Nozick"
-description: "To establish meaning and calmness in the face of an immense, mysterious reality, the philosopher Robert Nozick argues that we should view our lives as part of a vast and continuing natural process."
+description: "The gargantuan scope of the universe need not diminish us, argues the philosopher Robert Nozick. We can identify our lives as part of this vast and continuing natural process."
 image: "./star.jpg"
 imageAlt: "Starry Sky, Attempt, by Wenzel Hablik (1909)"
 imageSeo: "./star.jpg"
