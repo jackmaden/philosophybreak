@@ -16,6 +16,8 @@ authorLink: "/about/"
 
 Or does the vast size and mystery of the universe make you feel rather queasily insignificant? 
 
+(To get a sense of the vastness of the universe, consider this: if our solar system was the size of a regular circular dining room table, the sun would be a grain of sand at the center, and the Earth would be invisible to the eye. On this scale, our nearest neighboring star, Alpha Centauri, would be seven miles away. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies).
+
 While we may sometimes feel like the vastness of the universe renders our lives meaningless, the philosopher Robert Nozick argues that it is the very majesty of nature that should make us feel meaningfully connected. 
 
 In his 1989 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017?&linkCode=ll1&tag=philosophybre-20&linkId=1ae32dc0b5fe3054fc25480ff7649b03&language=en_US&ref_=as_li_ss_tl">The Examined Life</a>, Nozick writes:
