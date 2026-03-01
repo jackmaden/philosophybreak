@@ -33,7 +33,7 @@ While Spinoza is closely associated with pantheism, it should be noted that some
 
 The implications of pantheism can be radical. It’s important to remember, for instance, that Nature is not separate from us; we ourselves _are_ Nature.
 
-As contemporary philosopher [Helen De Cruz puts it](https://aeon.co/essays/how-to-face-the-climate-crisis-with-spinoza-and-self-knowledge):
+As late philosopher [Helen De Cruz puts it](https://aeon.co/essays/how-to-face-the-climate-crisis-with-spinoza-and-self-knowledge):
 
 >Once you realize that _you_ are an expression of the whole of nature, you come to realize that, although you will die, you are also eternal in a non-trivial sense...
 

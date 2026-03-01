@@ -1,21 +1,22 @@
 ---
-title: "On Living Meaningfully in a Vast Universe: Robert Nozick"
+title: "On Reconciling Ourselves to the Vastness of Space: Robert Nozick"
 description: "To establish meaning and calmness in the face of an immense, mysterious reality, the philosopher Robert Nozick argues that we should view our lives as part of a vast and continuing natural process."
-image: "./stars-water.jpg"
-imageAlt: "On Living Meaningfully in a Vast Universe: Robert Nozick"
-imageSeo: "./stars-water.jpg"
+image: "./star.jpg"
+imageAlt: "Starry Sky, Attempt, by Wenzel Hablik (1909)"
+imageSeo: "./star.jpg"
 tags: ["Meaning", "Robert Nozick"]
-date: "2023-08-29"
+date: "2026-03-01"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Starry Sky, Attempt, by Wenzel Hablik (1909), <a target="_blank" rel="noopener noreferrer" href="https://www.arthistoryproject.com/artists/wenzel-hablik/starry-sky/">via Obelisk Art History</a></p>
 
-<span class="big-letter">W</span>hen you look up at a clear night’s sky, what thoughts run through your head? Do the stars, burning trillions of miles away — their light traveling at 186,000 miles per second yet taking many years to reach us — make you feel awed? Curious? Inspired?
+<span class="big-letter">W</span>hen you look up at a clear night’s sky, what thoughts run through your head? Do the stars, burning trillions of miles away – their light traveling at 186,000 miles per second yet taking many years to reach us – make you feel awed? Curious? Inspired?
 
 Or does the vast size and mystery of the universe make you feel rather queasily insignificant? 
 
-While we may sometimes feel like the vastness of the universe renders our lives meaningless, the philosopher Robert Nozick (1938 - 2002) argues that it is the very majesty of nature that should make us feel meaningfully connected. 
+While we may sometimes feel like the vastness of the universe renders our lives meaningless, the philosopher Robert Nozick argues that it is the very majesty of nature that should make us feel meaningfully connected. 
 
 In his 1989 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Examined-Life-Philosophical-Meditations/dp/0671725017?&linkCode=ll1&tag=philosophybre-20&linkId=1ae32dc0b5fe3054fc25480ff7649b03&language=en_US&ref_=as_li_ss_tl">The Examined Life</a>, Nozick writes:
 
@@ -23,11 +24,15 @@ In his 1989 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 If we zoom out from our own perspectives and reflect on our lives _sub specie aeternitatis_ (from the perspective of eternity), our everyday worries and concerns lose much of their force, but the significance of existence seems to _deepen._ 
 
-Our daily fluctuations in mood are a mere drop; the oceans of existence have been lapping for billions of years. We are part of something so much larger — something that will continue long after we are gone. 
+The philosopher Daniel Dennett makes a similar observation in his 2006 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338?&linkCode=ll1&tag=philosophybre-20&linkId=7c3422a26cc9e4abfcbe4b91affcee1c&language=en_US&ref_=as_li_ss_tl">Breaking the Spell</a>:
+
+>If you can approach the world’s complexities, both its glories and its horrors, with an attitude of humble curiosity, acknowledging that however deeply you have seen, you have only scratched the surface, you will find worlds within worlds, beauties you could not heretofore imagine, and your own mundane preoccupations will shrink to proper size, not all that important in the greater scheme of things.
+
+Our daily fluctuations in mood are a mere drop; the oceans of existence have been lapping for billions of years. We are part of something so much larger, something that will continue long after we are gone. 
 
 ## But do the parts we play matter?
 
-<span class="big-letter">P</span>erhaps as well as defusing our everyday worries, adding this kind of perspective to our lives also risks making us feel insignificant. 
+<span class="big-letter">P</span>erhaps as well as defusing our everyday worries, adding this kind of perspective to our lives also risks making us feel like our days are of no consequence. 
 
 After all, with or without us, the oceans will go on lapping, the planets will continue orbiting, stars will form and burn out.
 
@@ -37,15 +42,15 @@ But Nozick wants to push back on this concern. “If you take away from the vast
 
 >The totality of existence and its processes over time is wonderful in part because of its great superfluity, and so our existence, the existence of kinds of things like us, is a characteristic and valuable part. This existence of ours, moreover, is permeated by the very same scientific laws and ultimate physical material that constitute all the rest of nature; a representative piece of nature, we encapsulate its sweep.
 
-By really seeing ourselves as part of nature, Nozick says, by really identifying ourselves _as_ the universe, and not seeing the universe as some separate entity (after all, we are made of exactly the same fundamental building blocks as stars), we simultaneously quieten the temporary anxieties of ego while deepening the significance of our existences.  
+By really seeing ourselves as part of nature, Nozick says, by really identifying ourselves _as_ the universe, and not seeing the universe as some separate entity, we simultaneously quieten the temporary anxieties of ego while deepening the significance of our existences.  
 
-We are not separate from but _expressions of_ nature. We _are_ the totality.
+(With his theory of [deep ecology, the philosopher Arne Næss](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/) makes a parallel point. We are not separate from but _expressions of_ nature. We _are_ the totality.)
 
-## The universe is not separate from us; the universe _is_ us
+## We share in reality’s eternal procesess
 
-<span class="big-letter">N</span>ozick’s position is perhaps reminiscent of the great 17th-century philosopher Baruch Spinoza. In his 1677 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a>, Spinoza argues not for an anthropomorphic God, but suggests that nature _itself_ is divine. And, as expressions of nature, we share in this divinity. 
+<span class="big-letter">N</span>ozick’s position is perhaps reminiscent of the great 17th-century philosopher Baruch Spinoza. In his 1677 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a>, Spinoza argues not for an anthropomorphic God, but suggests that [nature _itself_ is divine](/articles/pantheism-spinoza-and-the-god-that-einstein-believed-in/). And, as expressions of nature, we share in this divinity. 
 
-This perspective has profound implications, as contemporary philosopher Helen De Cruz notes in a <a target="_blank" rel="noopener noreferrer" href="https://aeon.co/essays/how-to-face-the-climate-crisis-with-spinoza-and-self-knowledge">recent essay on Spinoza’s philosophy</a>:
+This perspective has profound implications, as late philosopher [Helen De Cruz notes](https://aeon.co/essays/how-to-face-the-climate-crisis-with-spinoza-and-self-knowledge):
 
 >Once you realize that _you_ are an expression of the whole of nature, you come to realize that, although you will die, you are also eternal in a non-trivial sense...
 
@@ -57,18 +62,20 @@ Our short existences may appear random or isolated or insignificant, but their u
 
 >adding our own characteristic bit to reality’s eternal processes.
 
-Perhaps, then, when we next look up at the clear night’s sky, by reflecting on our place in the totality — by truly recognizing that we are continuous with and connected to all that exists — we might find any prior feelings of disconnection or meaninglessness float away, dissipating in the vast ocean of air above.
+Perhaps, then, when we next look up at the clear night’s sky, by reflecting on our place in the totality – by truly recognizing that we are continuous with and connected to all that exists – we might find any prior feelings of disconnection or meaninglessness float away, dissipating in the vast ocean of air above.
 
 ## What do you make of Nozick’s position?
 
-<span class="big-letter">W</span>hat do you make of Nozick’s position? Do you think identifying with the totality of nature can ease our individual concerns and deepen our connection to the world around us? Or does routinely adding such perspective to our lives simply make them appear more insignificant than before?
+- Do you think identifying with the totality of nature can ease our individual concerns and deepen our connection to the world around us?
+- Or does routinely adding such perspective to our lives simply make them appear more insignificant than before?
 
-Nozick is not the first to attempt to make sense of our place in the vastness of reality. Here are some further related reads on this topic: 
+To inform your answers, you might enjoy the following related Philosophy Breaks: 
 
 - [David Deutsch On Why It’s False to Say Our Lives Don’t Matter](/articles/david-deutsch-on-why-its-false-to-say-our-existence-is-insignificant/)
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Susan Wolf on How to Live a Meaningful Life](/articles/susan-wolf-on-how-to-live-a-meaningful-life/)
 - [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
+- [Pantheism: Spinoza and the God that Einstein Believed In](/articles/pantheism-spinoza-and-the-god-that-einstein-believed-in/)
 - [Albert Camus on Coping with Life’s Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
