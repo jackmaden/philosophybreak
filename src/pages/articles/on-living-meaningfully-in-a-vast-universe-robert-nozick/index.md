@@ -18,7 +18,7 @@ Or does the vast size and mystery of the universe make you feel rather queasily 
 
 To get a sense of the colossal scope of the universe, consider this: if our solar system was the size of a regular circular dining room table, the Sun would be a grain of sand at the center, and the Earth would be invisible to the eye.
 
-On this scale, our nearest neighboring star, Alpha Centauri, would be seven miles away. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies.
+On this scale, our nearest neighboring star, Alpha Centauri, would be _seven miles away_. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies.
 
 While we may sometimes feel like the vastness of the universe renders our lives meaningless, the philosopher Robert Nozick argues that it is the very majesty of nature that should make us feel meaningfully connected. 
 
