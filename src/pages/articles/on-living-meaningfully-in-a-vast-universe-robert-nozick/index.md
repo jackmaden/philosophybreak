@@ -16,7 +16,7 @@ authorLink: "/about/"
 
 Or does the vast size and mystery of the universe make you feel rather queasily insignificant? 
 
-To get a sense of the colossal scope of the universe, consider this: if our solar system was the size of a regular circular dining room table, the Sun would be a grain of sand at the center, and the Earth would be invisible to the eye.
+To get a sense of the colossal scope of the universe, consider this: if our solar system was the size of a large circular dining room table, the Sun would be a grain of sand at the center, and the Earth would be invisible to the eye.
 
 On this scale, our nearest neighboring star, Alpha Centauri, would be _seven miles away_. This is in a galaxy of around 400 billion of such stars, in a universe of over a trillion galaxies.
 
