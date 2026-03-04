@@ -6,13 +6,13 @@
   autoLaunch = true
 
 [[edge_functions]]
-  path = "/how-to-live-a-good-life*"
+  path = "/how-to-live-a-good-life/*"
   function = "set-country"
 
 [[edge_functions]]
-  path = "/lifes-big-questions*"
+  path = "/lifes-big-questions/*"
   function = "set-country"
 
 [[edge_functions]]
-  path = "/introduction-to-nietzsche*"
+  path = "/introduction-to-nietzsche/*"
   function = "set-country"
