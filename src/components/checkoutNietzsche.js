@@ -10,7 +10,8 @@ export class CheckoutNietzsche extends React.Component {
   }
 
   getGeoInfo = () => { 
-      // Check for the cookie set by the Netlify Edge Function
+    // Add a tiny delay to ensure the browser has processed the Edge Function's cookie
+    setTimeout(() => {
       const cookies = typeof document !== 'undefined' ? document.cookie.split('; ') : [];
       const countryCookie = cookies.find(row => row.startsWith('nf_country='));
       const countryCode = countryCookie ? countryCookie.split('=')[1] : 'US';
@@ -20,7 +21,8 @@ export class CheckoutNietzsche extends React.Component {
       } else {
         this.setState({price: '$19'})
       }
-    };
+    }, 50); // 50ms is invisible to users but helps React "see" the cookie
+  };
   
   componentDidMount(){
     this.getGeoInfo();
