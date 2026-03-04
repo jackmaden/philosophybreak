@@ -8,15 +8,14 @@
 [[edge_functions]]
   path = "/*"
   function = "set-country"
-  # This list prevents the function from firing on high-volume, non-HTML requests
   excluded_patterns = [
-    "/.netlify/*", 
-    "/static/*", 
-    "/*.js", 
-    "/*.json", 
-    "/*.css", 
-    "/*.png", 
-    "/*.jpg", 
+    "/.netlify/*",
+    "/static/*",
+    "/*.js",
+    "/*.json",
+    "/*.css",
+    "/*.png",
+    "/*.jpg",
     "/*.svg",
     "/*.webp",
     "/*.map"
