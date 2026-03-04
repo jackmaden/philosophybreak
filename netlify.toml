@@ -6,13 +6,18 @@
   autoLaunch = true
 
 [[edge_functions]]
-  path = "/how-to-live-a-good-life/*"
+  path = "/*"
   function = "set-country"
-
-[[edge_functions]]
-  path = "/lifes-big-questions/*"
-  function = "set-country"
-
-[[edge_functions]]
-  path = "/introduction-to-nietzsche/*"
-  function = "set-country"
+  # This list prevents the function from firing on high-volume, non-HTML requests
+  excluded_patterns = [
+    "/.netlify/*", 
+    "/static/*", 
+    "/*.js", 
+    "/*.json", 
+    "/*.css", 
+    "/*.png", 
+    "/*.jpg", 
+    "/*.svg",
+    "/*.webp",
+    "/*.map"
+  ]
