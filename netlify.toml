@@ -8,7 +8,7 @@
 [[edge_functions]]
   path = "/*"
   function = "set-country"
-  excluded_patterns = [
+  excludedPattern = [
     "/.netlify/*",
     "/static/*",
     "/*.js",
