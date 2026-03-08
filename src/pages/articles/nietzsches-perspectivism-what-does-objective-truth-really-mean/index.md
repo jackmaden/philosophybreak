@@ -15,7 +15,7 @@ _This article is a modified extract from my [Introduction to Nietzsche guide](/i
 
 ---
 
-<span class="big-letter">D</span>oes objective truth exist? And, as mere biologically-limited humans, are we able to know anything about it? Philosophers have debated such questions for thousands of years, but the dominant view has generally been that a realm of objective truth — i.e. a single, universal reality — _does_ exist. 
+<span class="big-letter">D</span>oes objective truth exist? And, as mere biologically-limited humans, are we able to know anything about it? Philosophers have debated such questions for thousands of years, but the dominant view has generally been that a realm of objective truth – i.e. a single, universal reality – _does_ exist. 
 
 Whether we can actually _access_ this realm is another matter, but on this rather commonsensical view, objective truth exists independently of anything humans think or even could think about it. On the one hand, there’s _the Truth_, i.e. whatever is the case in reality; on the other, there’s us, trying to understand and form knowledge about it.
 
@@ -31,7 +31,7 @@ Elsewhere, Nietzsche notes that “truths are illusions we have forgotten are il
 
 >truth is the kind of error without which a certain kind of being could not live.
 
-​​So, what is Nietzsche saying here? Is he denying that objective truth — a true reality — exists? Is he implying that truth is _relative?_ Would he endorse ancient Greek philosopher Protagoras’s famous provocation, that “man is the measure of all things”?
+​​So, what is Nietzsche saying here? Is he denying that objective truth – a true reality – exists? Is he implying that truth is _relative?_ Would he endorse ancient Greek philosopher Protagoras’s famous provocation, that “man is the measure of all things”?
 
 This is indeed what many postmodernist interpretations of Nietzsche claim. 
 
@@ -59,7 +59,7 @@ This account has come to be known as Nietzsche’s _perspectivism_, and while th
 
 Such thinkers claim ‘objective’ knowledge, or disinterested speculation, but really they’re bringing their own baggage to their proposed theories. 
 
-Nietzsche declares that “every great philosophy so far” — for instance, that of Plato and Kant — has been 
+Nietzsche declares that “every great philosophy so far” – for instance, that of Plato and Kant – has been 
 
 >the personal confession of its author and a kind of involuntary and unconscious memoir. 
 
@@ -79,7 +79,7 @@ In a key passage in his 1887 work <a target="_blank" rel="noopener noreferrer sp
 
 >Particularly as knowers, let us not be ungrateful toward such resolute reversals of the familiar perspectives and valuations with which the spirit has raged against itself all too long… to see differently in this way for once, to _want_ to see differently, is no small discipline and preparation of the intellect for its future ‘objectivity’—the latter understood not as ‘disinterested contemplation’ (which is a non-concept and absurdity), but rather as the capacity to have one’s Pro and Contra _in one’s power_, and to shift them in and out, so that one knows how to make precisely the _difference_ in perspectives and affective interpretations useful for knowledge.
 
-This famous passage highlights Nietzsche’s blunt rejection of objective knowledge as conceived as a ‘view from nowhere’ — i.e. as a form of objectivity that transcends all subjective appearances to reveal how things really are. 
+This famous passage highlights Nietzsche’s blunt rejection of objective knowledge as conceived as a ‘view from nowhere’ – i.e. as a form of objectivity that transcends all subjective appearances to reveal how things really are. 
 
 As R. Lanier Anderson puts it, Nietzsche suggests that 
 
@@ -95,7 +95,7 @@ Past thinkers who claim to have established ‘objective’ truth are thus simpl
 
 This doesn’t necessarily render such vantage points erroneous, however, and indeed Nietzsche suggests that by combining or having mastery of different perspectives we can make progress with knowledge (the more angles from which we view the Eiffel Tower, for instance, the more complete will our knowledge of its appearance be). 
 
-In other words, perspectival knowledge is inevitable — we all have different interests and points of view, and our experience of the world is in fact _made possible_ by these cognitive abilities and interests — but by acknowledging this and _playing perspectives against each other_, we can make progress. 
+In other words, perspectival knowledge is inevitable – we all have different interests and points of view, and our experience of the world is in fact _made possible_ by these cognitive abilities and interests – but by acknowledging this and _playing perspectives against each other_, we can make progress. 
 
 As Nietzsche continues his passage: 
 
@@ -103,7 +103,7 @@ As Nietzsche continues his passage:
 
 Now, while this passage could be interpreted as simply suggesting that the more interpretations there are the better, it’s important to note that this doesn’t mean different interpretations necessarily carry the same weight. Some interpretations might be wrong. 
 
-For instance, if you have multiple maps of a certain territory — some containing geographical information, others demographic, others ecological — then combining these maps would provide more “complete” information about the territory. But that doesn’t necessarily mean every map is accurate. 
+For instance, if you have multiple maps of a certain territory – some containing geographical information, others demographic, others ecological – then combining these maps would provide more “complete” information about the territory. But that doesn’t necessarily mean every map is accurate. 
 
 As the philosopher Brian Leiter comments in his book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/40IpW7V">Nietzsche on Morality</a>:
 
@@ -117,7 +117,7 @@ In other words, someone aware of their perspectival limitations, someone who is 
 
 Another way to defuse the tension in Nietzsche’s thought is to simply deny that it is much of a problem. 
 
-Standards exist within different fields — good science vs. bad science, good art vs. bad art — so it is relatively uncontroversial to think that, even without Nietzsche’s explicit, sustained guidance, we are capable of separating informed perspectives from ignorant ones.
+Standards exist within different fields – good science vs. bad science, good art vs. bad art – so it is relatively uncontroversial to think that, even without Nietzsche’s explicit, sustained guidance, we are capable of separating informed perspectives from ignorant ones.
 
 ## Is knowledge determined by psychobiology?
 
@@ -148,7 +148,7 @@ There are truths among humans, perhaps even truths shared by all beings in the u
 
 For instance, it is a fact from the point of view of our best and most objective science that the Earth goes round the Sun. But science investigates the world it’s possible for human beings to comprehend. The world it’s possible for human beings to comprehend is not necessarily all there is.
 
-Suppose there are beings who do not experience the universe in three dimensions — maybe they see it in two dimensions, or nine. Suppose there are beings who do not experience time in a linear fashion like we do. Such beings would likely have a totally different science to us. Maybe to them it would make no sense to say the Earth goes round the Sun.
+Suppose there are beings who do not experience the universe in three dimensions – maybe they see it in two dimensions, or nine. Suppose there are beings who do not experience time in a linear fashion like we do. Such beings would likely have a totally different science to us. Maybe to them it would make no sense to say the Earth goes round the Sun.
 
 The point of perspectivism, interpreted thus, is that all of our ‘objective truths’ must be qualified with ‘from the human perspective’, even if it that seems unnecessarily pedantic. We experience the cosmos in a particular way, so our truths are true only for that way of experiencing the cosmos.
 
@@ -156,7 +156,7 @@ The point of perspectivism, interpreted thus, is that all of our ‘objective tr
 
 >Perspectivism amounts to the claim that we cannot and need not justify our beliefs by paring them down to a set of unquestionable beliefs all rational beings must share. This means that all justification is contextual, dependent on other beliefs held unchallengeable for the moment, but themselves capable of only a similarly contextual justification.
 
-On this view, Nietzsche thus broadly rejects the possibility of [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/) i.e. a disinterested — _independent of the human perspective_ — fundamental theory of all there is.
+On this view, Nietzsche thus broadly rejects the possibility of [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/) i.e. a disinterested – _independent of the human perspective_ – fundamental theory of all there is.
 
 Ken Gemes, however, in his 2013 essay _Life’s Perspectives_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>), argues Nietzsche is not interested in making a comment on truth or epistemology at all. His perspectivism might have _consequences_ for truth or epistemology, but it should be viewed primarily as a _psychobiological_ claim. 
 
@@ -164,7 +164,7 @@ Indeed, Gemes connects perspectivism to Nietzsche’s will to power doctrine, wh
 
 Perspectivism, Gemes thus argues, is a natural consequence of Nietzsche’s will to power doctrine.
 
-On this latter view, it means — in stark contrast to Clark’s reading — Nietzsche does not dismiss the possibility of metaphysics with his perspectivism, but _actually offers one himself:_ the world is a multiplicity of perspectives, vying for domination.
+On this latter view, it means – in stark contrast to Clark’s reading – Nietzsche does not dismiss the possibility of metaphysics with his perspectivism, but _actually offers one himself:_ the world is a multiplicity of perspectives, vying for domination.
 
 ## Where does Nietzsche’s perspectivism leave us?
 
@@ -174,7 +174,7 @@ In his early essay _On Truth and Lies in a Nonmoral Sense_, Nietzsche’s denial
 
 However, in his later works, particularly from <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0141195371?&linkCode=ll1&tag=philosophybre-20&linkId=5ec5912e78e9d6bbdff90712b3dca5ea&language=en_US&ref_=as_li_ss_tl">On the Genealogy of Morality</a> onwards, Nietzsche is a lot more enthusiastic on the possibility of truth, and indeed of science being our most effective method for obtaining it. 
 
-Of course, in these works he continues to critique science in terms of its ability to provide us with instructive _value_ about how we should approach life — and that the pursuit of science at the expense of all else is psychologically damaging — but he no longer has as much of a problem with it as a vehicle for providing reliable and valuable knowledge about the _what_ of existence (even though knowing more about the ‘what’ of existence doesn’t exactly help us cope with it). 
+Of course, in these works he continues to critique science in terms of its ability to provide us with instructive _value_ about how we should approach life – and that the pursuit of science at the expense of all else is psychologically damaging – but he no longer has as much of a problem with it as a vehicle for providing reliable and valuable knowledge about the _what_ of existence (even though knowing more about the ‘what’ of existence doesn’t exactly help us cope with it). 
 
 There is another reason for doubting the popular postmodernist interpretation of Nietzsche, i.e., that he dismisses objective truth. 
 
@@ -188,11 +188,11 @@ Why does he bother formulating and telling us about his ideas like the [eternal 
 
 ## Different levels of truth
 
-<span class="big-letter">P</span>erhaps one way of resolving this apparent tension in Nietzsche’s thought is to establish different tiers of the word ‘true’ — Truth with a capital ‘T’, signifying a deep, disinterested, metaphysical Truth, and truth with a small ‘t’, signifying a general truth shared among compatible perspectives (but claiming no ‘objective’ reach beyond this). 
+<span class="big-letter">P</span>erhaps one way of resolving this apparent tension in Nietzsche’s thought is to establish different tiers of the word ‘true’ – Truth with a capital ‘T’, signifying a deep, disinterested, metaphysical Truth, and truth with a small ‘t’, signifying a general truth shared among compatible perspectives (but claiming no ‘objective’ reach beyond this). 
 
-There is no disinterested free-floating realm of objective _Truth_, Nietzsche thinks; there is only the world we subjectively experience — and we can experience and increase our knowledge about it _only_ because of our perspectives, our cognitive abilities and interests. 
+There is no disinterested free-floating realm of objective _Truth_, Nietzsche thinks; there is only the world we subjectively experience – and we can experience and increase our knowledge about it _only_ because of our perspectives, our cognitive abilities and interests. 
 
-A world without perspective — just like an object without a subject — is nonsensical. Disinterested contemplation of metaphysical _Truth_, Nietzsche thinks, is thus an absurd impossibility; affected discussion of what is true _for us_, held to established standards among various compatible perspectives, is all we can seek or realistically hope for. 
+A world without perspective – just like an object without a subject – is nonsensical. Disinterested contemplation of metaphysical _Truth_, Nietzsche thinks, is thus an absurd impossibility; affected discussion of what is true _for us_, held to established standards among various compatible perspectives, is all we can seek or realistically hope for. 
 
 So, we might say, Nietzsche does not consider his philosophy (or scientific knowledge) True in the metaphysical sense (for such Truth is impossible), but true in the “this is the best theory we currently have available from our limited human perspectives” sense. 
 

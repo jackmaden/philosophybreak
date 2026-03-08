@@ -29,7 +29,7 @@ const ReadingList = ({ data, location }) => {
 
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-              <p><span className="big-letter">I</span>s it ever permissible to tell a lie, to steal something, to intentionally hurt or even kill someone? If not, why not? What’s the right thing to do, and <i>what makes it</i> right? What do we mean by ‘good’? What do we mean by ‘evil’? What do we owe to each other as humans? What do we owe to non-human life? What’s the justification for any moral belief, and <Link to="/articles/where-do-morals-come-from">where do morals come from</Link>? Are ethical systems culture-dependent, or are there some rules that transcend culture — or even transcend species?</p> 
+              <p><span className="big-letter">I</span>s it ever permissible to tell a lie, to steal something, to intentionally hurt or even kill someone? If not, why not? What’s the right thing to do, and <i>what makes it</i> right? What do we mean by ‘good’? What do we mean by ‘evil’? What do we owe to each other as humans? What do we owe to non-human life? What’s the justification for any moral belief, and <Link to="/articles/where-do-morals-come-from">where do morals come from</Link>? Are ethical systems culture-dependent, or are there some rules that transcend culture – or even transcend species?</p> 
 
               <p>All these questions and more form the basis of ethics and morality, a core branch of philosophical study throughout the history of recorded human thought.</p> 
 
@@ -39,7 +39,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>This reading list is designed to give you a complete view of how different thinkers in philosophy have thought about good, evil, and everything in between.</p>
               
-              <p>From introductory texts and anthologies, through to important primary works from the philosophical greats themselves — after consuming this list, you’ll have much more clarity about core moral arguments and ethical systems, and be able to make measured, informed contributions to even the most heated of contemporary debates. Let’s dive in!</p>
+              <p>From introductory texts and anthologies, through to important primary works from the philosophical greats themselves – after consuming this list, you’ll have much more clarity about core moral arguments and ethical systems, and be able to make measured, informed contributions to even the most heated of contemporary debates. Let’s dive in!</p>
 
               <h2>1. Ethics: The Fundamentals, by Julia Driver</h2>
               <BookLink title="Ethics: The Fundamentals" author="Julia Driver" link="http://www.amazon.com/gp/product/1405111542/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1405111542&linkId=281149ff3cad37ca449cd37dc25bf2f8" img={data.one.childImageSharp.gatsbyImageData} />
@@ -73,8 +73,8 @@ const ReadingList = ({ data, location }) => {
                             </div>
                         </Link>
                     </div>
-                    <p>If your interest in moral philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks — including Buddhism, Stoicism, Existentialism, and more — examine the pros and cons of each, and discover how they might apply to your own life.</p>
-                    <p>Of course, we’re a little biased, as we produced this one — but <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and could be just what you’re after!</p>
+                    <p>If your interest in moral philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks – including Buddhism, Stoicism, Existentialism, and more – examine the pros and cons of each, and discover how they might apply to your own life.</p>
+                    <p>Of course, we’re a little biased, as we produced this one – but <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and could be just what you’re after!</p>
               
 
               <h2>5. The Nicomachean Ethics, by Aristotle</h2>
@@ -97,7 +97,7 @@ const ReadingList = ({ data, location }) => {
 
               <h2>7. Utilitarianism, by John Stuart Mill</h2>
               <BookLink title="Utilitarianism" author="John Stuart Mill" link="http://www.amazon.com/gp/product/087220605X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220605X&linkId=8d2a5df647af6763f200f1cf7b20d765" img={data.six.childImageSharp.gatsbyImageData} />
-              <p>Aristotle’s virtue ethics, Kant’s duty-based ethics — it would be unforgivable if we didn’t mention <Link to="/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/">Jeremy Bentham’s utilitarianism (‘the greatest happiness for the greatest number’)</Link> as another foundational moral system in Western thinking.</p>
+              <p>Aristotle’s virtue ethics, Kant’s duty-based ethics – it would be unforgivable if we didn’t mention <Link to="/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/">Jeremy Bentham’s utilitarianism (‘the greatest happiness for the greatest number’)</Link> as another foundational moral system in Western thinking.</p>
               
               <p>While Bentham is the well-known figurehead of the movement, the basis of utilitarian thinking is perhaps laid out most powerfully in John Stuart Mill’s 1861 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220605X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220605X&linkId=8d2a5df647af6763f200f1cf7b20d765">Utilitarianism</a>, an absolutely classic exposition and defence of the widely-held moral position. This particular edition also contains Mill’s 1868 speech on capital punishment, which is a fantastically stimulating read.</p>
               
@@ -119,7 +119,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>These questions and more are lucidly addressed in moral philosopher Peter Singer’s hugely popular introduction to applied ethics, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0521707684/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0521707684&linkId=e32ae115c392a16ce2b3660553185bd5">Practical Ethics</a>. Singer provokes readers by carrying out seemingly commonsensical moral arguments to their sometimes disturbing conclusions, and shows the errors in much of our thinking about right and wrong (see <Link to="/articles/peter-singer-on-the-life-you-can-save/">Singer’s famous thought experiment on the life you can save here</Link>).</p>
               
-              <p>First published in 1979, the text is now in its third edition — its enduring popularity and slick style make it an ideal text for anyone interested in dwelling on contemporary moral issues.</p>
+              <p>First published in 1979, the text is now in its third edition – its enduring popularity and slick style make it an ideal text for anyone interested in dwelling on contemporary moral issues.</p>
               
 
               <h2>10. What We Owe to Each Other, by T. M. Scanlon</h2>

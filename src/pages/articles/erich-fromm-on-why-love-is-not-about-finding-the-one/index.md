@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 One of our most insidious misconceptions, Fromm declares, is that success or failure in love hinges entirely on the qualities of a prospective partner. We think that love is
 
->the problem of an _object_, not the problem of a _faculty_. People think that to _love_ is simple, but that to find the right object to love — or to be loved by — is difficult.
+>the problem of an _object_, not the problem of a _faculty_. People think that to _love_ is simple, but that to find the right object to love – or to be loved by – is difficult.
 
 Culture would have us believe the problem of love simply comes down to finding ‘the one’.
 
@@ -29,7 +29,7 @@ We browse people like products on a personality market. Only when we’re certai
 
 Meanwhile, to increase our own relative value in the market, we focus on cultivating whatever fashion prizes at the time. We hit the gym to achieve a particular body shape. We parade the shops to buy a certain wardrobe. We read the latest opinion pieces to accumulate a nuanced view on current affairs.
 
-By doing these things, we become more attractive, a better ‘catch’, an unbelievably high value deal — and we might bag ourselves a higher value prospect in the process. In fact, we might even secure _the one_…
+By doing these things, we become more attractive, a better ‘catch’, an unbelievably high value deal – and we might bag ourselves a higher value prospect in the process. In fact, we might even secure _the one_…
 
 Our mistake, Fromm argues, is to think that the qualities of initial attraction make good foundations for lasting love.
 
@@ -43,7 +43,7 @@ But of course, though it’s the climax of fairy tales, this is rarely the end o
 
 The transition from love’s initial bloom to a calmer, more routine affection may lead some to think they have fallen _out_ of love. Or we may just discover that our initial attraction was informed by ideals we imposed upon our beloved, who inevitably couldn’t live up to them.
 
-Back we go to the personality market, looking for that spark — a spark that, this time, despite all evidence to the contrary, will spontaneously grow into an eternal flame; this time it will be different, _this_ will be the love of our lives…
+Back we go to the personality market, looking for that spark – a spark that, this time, despite all evidence to the contrary, will spontaneously grow into an eternal flame; this time it will be different, _this_ will be the love of our lives…
 
 Fromm thinks we’d do better if we approached love not like a once-in-a-lifetime transaction but like an _art_, the mastery of which takes work.
 

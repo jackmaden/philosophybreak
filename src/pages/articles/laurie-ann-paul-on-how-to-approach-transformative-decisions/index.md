@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 >Human life occurs only once, and the reason we cannot determine which of our decisions are good and which bad is that in a given situation we can only make one decision; we are not granted a second, third or fourth life in which to compare various decisions.
 
-This captures why big decisions — what to do, where to live, who to love — cause us such agitation: they fix our lives down a particular path from which we can never return.
+This captures why big decisions – what to do, where to live, who to love – cause us such agitation: they fix our lives down a particular path from which we can never return.
 
 Which path should we take? How can we best approach the major crossroads of our lives? 
 
@@ -23,7 +23,7 @@ Part of the difficulty arising from big life decisions is they typically involve
 
 Paul defines transformative experiences as having two key characteristics: firstly, you cannot know what they are like until you undergo them, and secondly, they alter you in profound ways.
 
-They are thus both ‘epistemically’ and ‘personally’ transformative: you gain formerly inaccessible knowledge into _what it’s actually like_ to undergo a certain experience, and — crucially — you are also radically changed by it: it reconfigures the way you think, the way you look at the world.
+They are thus both ‘epistemically’ and ‘personally’ transformative: you gain formerly inaccessible knowledge into _what it’s actually like_ to undergo a certain experience, and – crucially – you are also radically changed by it: it reconfigures the way you think, the way you look at the world.
 
 Examples might include becoming a parent for the first time, losing a loved one, undergoing major surgery, becoming famous overnight, winning an Olympic gold, losing a limb, going through a divorce, having a religious conversion, or gaining vision as a blind person.
 
@@ -43,7 +43,7 @@ So, as Paul neatly summarizes, a transformative experience
 
 <span class="big-letter">P</span>aul thinks part of the reason life-altering choices are so challenging is because, in the face of transformative experiences, our standard approach to making decisions breaks down.
 
-Say I’m at a cafe choosing what to eat for breakfast. Looking at the menu, full of familiar dishes, I can quite easily imagine my future self enjoying — or not — each option. Based on my existing preferences, I can thus assign each option a subjective value. The rational choice is clear: if I’m seeking to maximize value for my future self, I’ll go for the breakfast I imagine myself most enjoying.
+Say I’m at a cafe choosing what to eat for breakfast. Looking at the menu, full of familiar dishes, I can quite easily imagine my future self enjoying – or not – each option. Based on my existing preferences, I can thus assign each option a subjective value. The rational choice is clear: if I’m seeking to maximize value for my future self, I’ll go for the breakfast I imagine myself most enjoying.
 
 If we try to apply this approach to decisions involving transformative experiences, however, we run into two problems:
 
@@ -56,7 +56,7 @@ You might have looked after other people’s children, you might have looked aft
 
 >\[T]he particular properties of your future child, her dispositions and inclinations, her health and physical abilities, and her cognitive and emotional makeup will have a _huge_ effect on your life as a parent. The character of many hours of your waking life will be composed of experiences that are the direct effects of the features of the actual child that you produce.
 
-But having a child isn’t just epistemically transformative — it doesn’t just grant you a new kind of knowledge — it’s also _personally_ transformative: it changes who you are. Fathers experience hormonal shifts after contact with their new baby, but mothers in particular undergo profound biological, neurophysical, and hormonal changes during and after childbirth.
+But having a child isn’t just epistemically transformative – it doesn’t just grant you a new kind of knowledge – it’s also _personally_ transformative: it changes who you are. Fathers experience hormonal shifts after contact with their new baby, but mothers in particular undergo profound biological, neurophysical, and hormonal changes during and after childbirth.
 
 Prospective parents simply cannot anticipate the impact these changes will have, especially on their priorities and preferences, Paul writes:
 
@@ -68,7 +68,7 @@ And, even if we _were_ able to assign ‘having a child’ a subjective value, w
 
 So, no matter the rigor of our cost-benefit analyses, the depth and diversity of gathered testimony, the obsessiveness of our research and future modeling, the ‘right’ or ‘correct’ or ‘rational’ decision will remain elusive.
 
-When it comes to a transformative decision, we simply cannot know what the future will hold — and how it might change us.
+When it comes to a transformative decision, we simply cannot know what the future will hold – and how it might change us.
 
 ## How, then, should we proceed? What can inform our transformative decisions?
 
@@ -101,7 +101,7 @@ So, rather than ask ourselves questions like, ‘which path will make me happier
 
 Approaching transformative decisions isn’t easy, but ruling out the possibility of a ‘better’ or ‘correct’ answer can be liberating. You cannot model how you’ll feel or even who you’ll be, so don’t base the decision on that.
 
-Instead, base it on whether discovering the experience itself is worth more to you than not discovering it — regardless of how it might change you. As Paul puts it:
+Instead, base it on whether discovering the experience itself is worth more to you than not discovering it – regardless of how it might change you. As Paul puts it:
 
 >If you choose to undergo a transformative experience and its outcomes, you choose the experience for the sake of discovery itself, even if this entails a future that involves stress, suffering, or pain.
 
@@ -123,7 +123,7 @@ And calculation is futile: we don’t know the values of what we’re calculatin
 
 While this might be frustrating, it should also partly free us from the impulse to obsessively plan our futures. _We cannot know what’s best._
 
-So, moving to a new country, changing career — I approach such transformative decisions not with set expectations, not because ‘I’ll be glad I did it’, but to _discover who I’ll become._
+So, moving to a new country, changing career – I approach such transformative decisions not with set expectations, not because ‘I’ll be glad I did it’, but to _discover who I’ll become._
 
 I weigh the value of discovery vs. non-discovery, whether I deem the revelation worth it, whether the discovery and unpredictable change stemming from it intrigues, or not. I choose the path not that I know is ‘better’ for me (because such knowledge is impossible), but the path I’m most interested in experiencing, in my one and only existence.
 
@@ -133,7 +133,7 @@ As Paul puts it:
 
 While we may occasionally dress them up as well-researched and considered decisions, then, the major crossroads of our lives are in some sense leaps of faith. We are responsible for such decisions, but perhaps we’d do well to recognize just how little control we have over how they turn out.
 
-We should not blame ourselves — or other people, for that matter — if paths taken don’t meet our hopes or expectations. Chalk it up as valuable experience, for when it comes to transformative decisions, “You knew what you were getting yourself into” is simply never true.
+We should not blame ourselves – or other people, for that matter – if paths taken don’t meet our hopes or expectations. Chalk it up as valuable experience, for when it comes to transformative decisions, “You knew what you were getting yourself into” is simply never true.
 
 Life is a game less about prediction and more about revelation, Paul suggests. Maybe we should adjust how we play accordingly: 
 

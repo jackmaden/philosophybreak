@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">W</span>hen I was growing up, there was a children’s TV show called Bernard’s Watch in which a child named Bernard had a pocket watch that could stop time. Whenever Bernard clicked the watch’s dial, the world would freeze, as would everyone in it — everyone, that is, except for Bernard, who could still move about freely.
+<span class="big-letter">W</span>hen I was growing up, there was a children’s TV show called Bernard’s Watch in which a child named Bernard had a pocket watch that could stop time. Whenever Bernard clicked the watch’s dial, the world would freeze, as would everyone in it – everyone, that is, except for Bernard, who could still move about freely.
 
 Bernard would use his watch to get out of relatively low-stakes scrapes, like avoiding being late for school, or quickly running back home to fetch (or, more scandalously, complete) his forgotten homework.
 
@@ -53,9 +53,9 @@ Yes, later: that’s when I’ll really start living. You should see how amazing
 
 But if [like Havi Carel](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/) I was told I only had a few years left to live, the prospect of death would bulldoze such complacency. I’d suddenly have to face up to the reality of my limited time.
 
-Heidegger wants us to realize that this death sentence is not hypothetical: it looms over all of us, every single day. Rather than deny or passively await death — responses which only perpetuate patterns of inauthenticity — Heidegger thinks we should actively _anticipate_ it.
+Heidegger wants us to realize that this death sentence is not hypothetical: it looms over all of us, every single day. Rather than deny or passively await death – responses which only perpetuate patterns of inauthenticity – Heidegger thinks we should actively _anticipate_ it.
 
-Anticipation does not mean constantly brooding over death but recognizing ourselves — now — as radically finite beings with limited possibilities (here I follow [Mark Wrathall’s interpretation](https://plato.stanford.edu/entries/heidegger/#Deat)).
+Anticipation does not mean constantly brooding over death but recognizing ourselves – now – as radically finite beings with limited possibilities (here I follow [Mark Wrathall’s interpretation](https://plato.stanford.edu/entries/heidegger/#Deat)).
 
 When we genuinely grasp ourselves as finite temporal beings, we can release ourselves from the illusions of the anonymous ‘They’ (i.e. the traps of convention), and discover what really matters to us. As Heidegger puts it:
 
@@ -63,15 +63,15 @@ When we genuinely grasp ourselves as finite temporal beings, we can release ours
 
 In other words, the anxiety accompanying the possibility of death should not be ignored or rationalized away but harnessed to illuminate all the utter _rubbish_ that fills our lives: it can grant us the energy we need to take hold of our mortality and deploy it with greater awareness and responsibility. 
 
-Nothingness is always possible. The prospect of nothingness reveals the contingency of how we live: it frees us to put up with bullshit — society’s, other people’s, our own — not one moment longer.
+Nothingness is always possible. The prospect of nothingness reveals the contingency of how we live: it frees us to put up with bullshit – society’s, other people’s, our own – not one moment longer.
 
 Every second is irretrievable: comprehending this should whip us into finding what we value and immersing ourselves in it, while we still can. 
 
-Of course, accepting our finitude may grant urgency, but it doesn’t guarantee wisdom. The great irony that perhaps overshadows Heidegger’s work on authenticity is his affiliation with the Nazi party in 1930s Germany — he was drawn into the dominant ‘They’ of the time. While he later described his affiliation as the greatest stupidity of his life, he never apologized, leaving a permanent stain on his philosophical life and career.
+Of course, accepting our finitude may grant urgency, but it doesn’t guarantee wisdom. The great irony that perhaps overshadows Heidegger’s work on authenticity is his affiliation with the Nazi party in 1930s Germany – he was drawn into the dominant ‘They’ of the time. While he later described his affiliation as the greatest stupidity of his life, he never apologized, leaving a permanent stain on his philosophical life and career.
 
 I don’t think this invalidates the value of living alongside our mortality, however. Beyond urgently revealing to us what matters for us, awareness of our finitude can also bring a kind of relief.
 
-This is the premise behind Oliver Burkeman’s brilliant meditation on mortality, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/43cta5r">Four Thousand Weeks​</a>: we will never get everything done, because we physically _can’t_. There isn’t time. The magical destination we strive towards, the place where we’ve finally achieved everything, where we’ll at last be able to lie back and enjoy life: this place doesn’t exist. Outside of nothingness, there is only — and there only ever will be — the limited now.
+This is the premise behind Oliver Burkeman’s brilliant meditation on mortality, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/43cta5r">Four Thousand Weeks​</a>: we will never get everything done, because we physically _can’t_. There isn’t time. The magical destination we strive towards, the place where we’ve finally achieved everything, where we’ll at last be able to lie back and enjoy life: this place doesn’t exist. Outside of nothingness, there is only – and there only ever will be – the limited now.
 
 Rather than lament or resist this limit, Burkeman points out, another option is to relax into it: to accept it for what it is. _We cannot do it all_. So take the pressure off: release yourself from needing to achieve what it is physically impossible to achieve. Instead, with impermanence in mind, try to show up more fully for what you care about most; nothing else is required.
 

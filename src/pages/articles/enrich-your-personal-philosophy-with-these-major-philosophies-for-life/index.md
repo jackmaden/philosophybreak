@@ -19,9 +19,9 @@ _This article is a modified extract from my [How to Live a Good Life guide](/how
 
 Crucially, whether we’re conscious of it or not, we each _already have_ a philosophy for life.
 
-Our personal philosophies may have been shaped by our families, cultures, religions — or perhaps we’ve formed and affirmed them ourselves.
+Our personal philosophies may have been shaped by our families, cultures, religions – or perhaps we’ve formed and affirmed them ourselves.
 
-The point is this: wherever they came from, and regardless of the extent to which we actively reflect on them, we all have a set of values and principles that underpin everything we do — from the careers we choose, to the people we like and dislike; from the politicians we vote for, to the activities that fill our free time.
+The point is this: wherever they came from, and regardless of the extent to which we actively reflect on them, we all have a set of values and principles that underpin everything we do – from the careers we choose, to the people we like and dislike; from the politicians we vote for, to the activities that fill our free time.
 
 ## What questions should a personal philosophy help us answer?
 
@@ -48,7 +48,7 @@ Are they justified? Do we need to better define them? Do we need to radically ov
 
 In the remainder of this article, we’ll consider six of the world’s wisest and most influential philosophies for living.  
 
-By exploring and discussing the wisdom of Aristotle, Epicureanism, Stoicism, Buddhism, Confucianism, and Existentialism, we’ll understand why millions of people have been guided by these philosophies throughout history — and see if they offer anything we want to incorporate into our _own_ way of life.
+By exploring and discussing the wisdom of Aristotle, Epicureanism, Stoicism, Buddhism, Confucianism, and Existentialism, we’ll understand why millions of people have been guided by these philosophies throughout history – and see if they offer anything we want to incorporate into our _own_ way of life.
 
 Hopefully, then, by the end of this article, we’ll come away with clearer ideas not just about some of the most important intellectual frameworks in history, but also about our own personal philosophies.
 
@@ -58,9 +58,9 @@ First up, we travel back to ancient Greece...
 
 <span class="big-letter">A</span>ristotle (384 - 322 BCE) was an ancient Greek philosopher who, like his legendary teacher Plato (and _his_ legendary teacher, Socrates), is considered to be one of the most significant figures in the history of Western philosophy.
 
-One of the key innovations of Aristotle’s philosophy for life — and why it remains so enduring today — is that it’s a philosophy grounded entirely in the human world: it doesn’t look _beyond_ everyday human experience in order to declare what’s good.
+One of the key innovations of Aristotle’s philosophy for life – and why it remains so enduring today – is that it’s a philosophy grounded entirely in the human world: it doesn’t look _beyond_ everyday human experience in order to declare what’s good.
 
-That might sound like a relatively uncontroversial approach. But many major philosophies and religions typically _do_ look beyond the everyday to advise on what goodness is — say at a transcendent idea, realm, or God.
+That might sound like a relatively uncontroversial approach. But many major philosophies and religions typically _do_ look beyond the everyday to advise on what goodness is – say at a transcendent idea, realm, or God.
 
 By contrast, Aristotle thinks the good life simply emerges from our behavior.
 
@@ -103,7 +103,7 @@ As the ancient Epicurean philosopher Lucretius tells us, Epicureans think the ul
 
 >To avoid bodily pain, to have a mind free from anxiety and fear, and to enjoy the pleasures of the senses.
 
-This emphasis on simple pleasures distinguishes Epicurus from other ancient Greek thinkers of the time — including Plato, Aristotle, and Zeno’s Stoics — whose characterization of the good life, as we’ve seen with Aristotle, focuses less on pleasure and more on the pursuit of excellence and virtue. 
+This emphasis on simple pleasures distinguishes Epicurus from other ancient Greek thinkers of the time – including Plato, Aristotle, and Zeno’s Stoics – whose characterization of the good life, as we’ve seen with Aristotle, focuses less on pleasure and more on the pursuit of excellence and virtue. 
 
 Another distinguishing factor is that, unlike those rival schools, Epicurus’s Garden admitted women, and even one of Epicurus’s slaves.
 
@@ -115,7 +115,7 @@ The prevailing diet consisted mainly of bread, water, beans, and a little wine, 
 
 So, though often caricatured as a rather indulgent, pleasure-obsessed philosophy, Epicureanism is actually more about living life free from anxiety and bodily pain, and places a strong emphasis on friendship and community in the search for a meaningful, happy human life.
 
-Epicurus offers a simple yet powerful recipe for happiness that allowed Epicurean communities all around the world to flourish centuries after his death, and which we might find to be a pleasing balm for the complexities of life today — one that certainty pleased figures like Thomas Jefferson, who in a letter to William Short wrote:
+Epicurus offers a simple yet powerful recipe for happiness that allowed Epicurean communities all around the world to flourish centuries after his death, and which we might find to be a pleasing balm for the complexities of life today – one that certainty pleased figures like Thomas Jefferson, who in a letter to William Short wrote:
 
 >As you say of yourself, I too am an Epicurean. I consider the genuine (not the imputed) doctrines of Epicurus as containing everything rational in moral philosophy which Greece and Rome have left us.
 
@@ -129,7 +129,7 @@ If you’re interested in learning more about Epicureanism, you might like these
 
 ## 3. Stoicism: beating anxiety
 
-<span class="big-letter">L</span>ike Epicureanism, Stoicism — the third and final philosophy for life we’ll consider from ancient Greece — suffers from being misunderstood.
+<span class="big-letter">L</span>ike Epicureanism, Stoicism – the third and final philosophy for life we’ll consider from ancient Greece – suffers from being misunderstood.
 
 Just as Epicureanism is often mischaracterized as involving reckless self-indulgence, so Stoicism is wrongly thought to be about repressing our emotions and living with a stiff upper lip.
 
@@ -156,9 +156,9 @@ Stoicism was founded by the ancient Greek thinker Zeno, who arrived in Athens sh
 
 Zeno began lecturing at the Painted Stoa (a covered walkway) in the center of Athens, and attracted a number of followers who, accordingly, came to be known as the Stoics. 
 
-Unfortunately, none of Zeno’s works survive — nor do those of his successors, Cleanthes and Chrysippus. We know of their work only through the quotations and summaries of subsequent authors.
+Unfortunately, none of Zeno’s works survive – nor do those of his successors, Cleanthes and Chrysippus. We know of their work only through the quotations and summaries of subsequent authors.
 
-Our knowledge of Stoicism thus mostly comes from its three major Roman practitioners and popularizers: Seneca, Epictetus, and Marcus Aurelius — each of whom knew the now lost ancient Greek works, and built upon them with their own hugely influential contributions.
+Our knowledge of Stoicism thus mostly comes from its three major Roman practitioners and popularizers: Seneca, Epictetus, and Marcus Aurelius – each of whom knew the now lost ancient Greek works, and built upon them with their own hugely influential contributions.
 
 The three major Roman Stoics do not present many arguments for why Stoicism as a broader philosophy is true: they mostly presume it _is_ true, and then go on to discuss its profound ethical and psychological lessons.
 
@@ -170,7 +170,7 @@ What are those lessons? Well, perhaps the three most important are the following
 
 I discuss the [dichotomy of control in detail here](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), but it’s summarized nicely by Marcus Aurelius when he writes in his Meditations:
 
->You have power over your mind — not outside events. Realize this, and you will find strength.
+>You have power over your mind – not outside events. Realize this, and you will find strength.
 
 The German philosopher Arthur Schopenhauer described Stoicism in glowing terms, writing in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/World-Will-Representation-Vol/dp/0486217612?&linkCode=ll1&tag=philosophybre-20&linkId=db02ca66d0db19bc4e6d505943ff1e3e&language=en_US&ref_=as_li_ss_tl">The World as Will and Representation</a>:
 
@@ -236,7 +236,7 @@ If you’re interested in learning more about Buddhist philosophy, you might lik
 
 <span class="big-letter">A</span>round the same time the Buddha began spreading his teachings across ancient India, a key sage rose to prominence in ancient China: Confucius. 
 
-Confucianism stands in stark contrast with Buddhism. While the Buddha advocates detachment from desire and transcendence from the illusions of convention, Confucius encourages full-hearted attachment in our relationships — and deep commitment to our everyday social customs and rituals.
+Confucianism stands in stark contrast with Buddhism. While the Buddha advocates detachment from desire and transcendence from the illusions of convention, Confucius encourages full-hearted attachment in our relationships – and deep commitment to our everyday social customs and rituals.
 
 By paying careful attention to our social obligations and respectfully participating in the civilizations we are part of, Confucius says, we can cultivate our moral characters and live good, harmonious lives to the benefit of all.
 
@@ -250,7 +250,7 @@ So what exactly is Confucius promoting? What does the good life look like for Co
 
 At its core, Confucianism is a system designed to help us maximize our moral development and live together in harmony. The good life is characterized by our loving relationships with our fellow human beings, and so being a good person largely comes down to how we interact with others and society at large.
 
-Happiness is not such a prominent concept in most Chinese philosophies. Joy and pleasure are oft-mentioned, but _eudaimonia_ or happiness — so important for the ancient Greek philosophies we’ve looked at — is not typically recognized as life’s end goal. 
+Happiness is not such a prominent concept in most Chinese philosophies. Joy and pleasure are oft-mentioned, but _eudaimonia_ or happiness – so important for the ancient Greek philosophies we’ve looked at – is not typically recognized as life’s end goal. 
 
 Perhaps the closest analogous role to _eudaimonia_ in Chinese philosophy is the concept of _dao._
 
@@ -262,13 +262,13 @@ Indeed, it is outcomes like _harmony_ and _balance_ that are emphasized more tha
 
 For Confucians, _dao_ is specifically a _moral_ way, encapsulating how we should behave in society. It distills the exemplary behaviors of selfless heroes Confucius identifies from ancient China’s past.
 
-Living in accordance with _dao_ is not just valuable in this instrumental sense, however — i.e. it’s not just recommended because it promotes a lifestyle that benefits others.
+Living in accordance with _dao_ is not just valuable in this instrumental sense, however – i.e. it’s not just recommended because it promotes a lifestyle that benefits others.
 
 Rather, living in accordance with _dao_ is valuable for its _own_ sake, for it means living a fully-realized human life. 
 
-_Dao_ thus provides the path to the good life and Confucian _sagehood,_ which represents supreme moral development — attaining a state of flawless, empathetic, spontaneous responsiveness to every possible situation.
+_Dao_ thus provides the path to the good life and Confucian _sagehood,_ which represents supreme moral development – attaining a state of flawless, empathetic, spontaneous responsiveness to every possible situation.
 
-Of course, we cannot all become sages overnight. Sometimes we’ll live in accordance with _dao;_ sometimes we’ll fall off the path — and there are different stages of moral development along the way.
+Of course, we cannot all become sages overnight. Sometimes we’ll live in accordance with _dao;_ sometimes we’ll fall off the path – and there are different stages of moral development along the way.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -313,17 +313,17 @@ If you’re interested in learning more about Confucian philosophy, you might li
 
 Whereas Confucianism is all about respecting the familial and societal contexts in which you find yourself, existentialism is about defining yourself from a starting point of absolute freedom. 
 
-The frank insights of existentialism have hugely influenced popular culture, film, literature, art, and attitudes the world over — and continue to do so today.
+The frank insights of existentialism have hugely influenced popular culture, film, literature, art, and attitudes the world over – and continue to do so today.
 
-Now, existentialism is not a set of fixed prescriptive principles; it does not strictly outline how we should live, and the thinkers labeled as ‘existentialist’ — from Kierkegaard, Nietzsche and Heidegger to Sartre, Beauvoir, and Camus — differ greatly in their views. 
+Now, existentialism is not a set of fixed prescriptive principles; it does not strictly outline how we should live, and the thinkers labeled as ‘existentialist’ – from Kierkegaard, Nietzsche and Heidegger to Sartre, Beauvoir, and Camus – differ greatly in their views. 
 
 We might then wonder how existentialism can function as a guide to life. 
 
-Well, despite the disagreement among existentialist thinkers, there is much overlap in their thought — and their forensic analysis of the human condition sheds much light on our existential situation and how we might better think about it.
+Well, despite the disagreement among existentialist thinkers, there is much overlap in their thought – and their forensic analysis of the human condition sheds much light on our existential situation and how we might better think about it.
 
 Indeed, existentialists tend to agree that traditional approaches to philosophy have not really focused enough on our _individual lived experience._ If they had done so, they would have realized that our realities do not fit into neat little conceptual boxes, and neither do our values.
 
-Simply describing the cosmos, existentialists argue, gets us no closer to surviving it — and objectively defining ‘goodness’ with stale theory gets us no closer to embodying it.
+Simply describing the cosmos, existentialists argue, gets us no closer to surviving it – and objectively defining ‘goodness’ with stale theory gets us no closer to embodying it.
 
 The task of life is to _each find a reason to live_. A reason not that we simply subscribe to unthinkingly, nor that we adopt to live up to the expectations of others, but one that we _ourselves_ affirm. 
 

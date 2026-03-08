@@ -1,6 +1,6 @@
 ---
 title: "The 4 Cardinal Virtues: Stoicism’s Roadmap to the Best Life Possible"
-description: "The Stoics think the only thing needed for a good, happy life is excellent character, something we can all develop — regardless of our circumstances — by cultivating four core virtues. This article discusses what the four virtues are, and how we can live up to them."
+description: "The Stoics think the only thing needed for a good, happy life is excellent character, something we can all develop – regardless of our circumstances – by cultivating four core virtues. This article discusses what the four virtues are, and how we can live up to them."
 image: "./ancientgreece.jpg"
 imageAlt: "Landscape of Ancient Greece, by Pierre Henri de Valenciennes"
 imageSeo: "./ancientgreece.jpg"
@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">W</span>hile [Aristotle’s golden mean](/articles/the-golden-mean-aristotle-guide-to-living-excellently/) suggests virtuous or excellent character is simply the result of _using reason well_ in all that we do, the Stoics — following Plato — home in on four virtues in particular:  
+<span class="big-letter">W</span>hile [Aristotle’s golden mean](/articles/the-golden-mean-aristotle-guide-to-living-excellently/) suggests virtuous or excellent character is simply the result of _using reason well_ in all that we do, the Stoics – following Plato – home in on four virtues in particular:  
 
 - __Wisdom.__ Understanding the world and successfully navigating its complexity. 
 - __Courage.__ Standing up for what’s right. 
@@ -23,11 +23,11 @@ Putting their lasting influence to one side, the four cardinal virtues should be
 
 Why? Because the four cardinal virtues represent the peak of rational human behavior: living up to them means living in perfect accordance with our rational natures. 
 
-In fact, Zeno, the ancient Greek founder of Stoicism, describes happiness (i.e. embodying the four cardinal virtues) as simply ‘living in agreement’ — agreement with ourselves, agreement with circumstances outside of our control, and agreement with the nature of the cosmos.
+In fact, Zeno, the ancient Greek founder of Stoicism, describes happiness (i.e. embodying the four cardinal virtues) as simply ‘living in agreement’ – agreement with ourselves, agreement with circumstances outside of our control, and agreement with the nature of the cosmos.
 
 ## The demands of living up to the four cardinal virtues
 
-<span class="big-letter">I</span>t is one thing to describe the characteristics necessary for being a good or virtuous person. It is another to actually live up to them. Practicing wisdom, courage, justice, and temperance is all well and good — but what about when we’re hungry? What about when we’re tired? Can’t we sometimes just relax and give ourselves a break? 
+<span class="big-letter">I</span>t is one thing to describe the characteristics necessary for being a good or virtuous person. It is another to actually live up to them. Practicing wisdom, courage, justice, and temperance is all well and good – but what about when we’re hungry? What about when we’re tired? Can’t we sometimes just relax and give ourselves a break? 
 
 The Stoics might respond that, well, the life of excellence _is_ demanding. Being a good person in the face of all that life throws at you _is_ demanding. 
 
@@ -52,13 +52,13 @@ No one is born with mastery of the four cardinal virtues. We must work at them, 
     </div>
 </div>
 
-The demanding nature of Stoicism is what leads the three major Roman Stoics — Seneca, Epictetus, and Marcus Aurelius — to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/), and [Marcus Aurelius’s best books here](/reading-lists/marcus-aurelius-best-books/)). 
+The demanding nature of Stoicism is what leads the three major Roman Stoics – Seneca, Epictetus, and Marcus Aurelius – to dedicate so much of their writing to practical advice (see our pick of their and [Stoicism’s best books here](/reading-lists/stoicism/), and [Marcus Aurelius’s best books here](/reading-lists/marcus-aurelius-best-books/)). 
 
 Drawing on their wide-ranging experiences, the Stoics are intent on equipping us (and, as we’ll see, themselves) with the tools and techniques we need to live good lives in the face of both everyday fluctuations (being hungry, tired) and genuine adversity (persecution, grief).
 
 ## Develop the four cardinal virtues with an evening journal
 
-<span class="big-letter">F</span>or example, one important device for the Stoics is the evening journal — a tool for self-reflection to help us learn from our experiences and better ourselves. 
+<span class="big-letter">F</span>or example, one important device for the Stoics is the evening journal – a tool for self-reflection to help us learn from our experiences and better ourselves. 
 
 In his essay _On Anger_, Seneca helpfully explains what this involves in detail: 
 
@@ -68,11 +68,11 @@ By knowing our own judgment awaits us at the end of the day, Seneca says, we can
 
 >I make use of this privilege, and daily plead my case before myself: when the lamp is taken out of my sight… I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing: for why should I be afraid of any of my shortcomings, when it is in my power to say, ‘I pardon you this time: see that you never do that anymore’?... A good man delights in receiving advice: all the worst men are the most impatient of guidance.
 
-It’s not only Seneca that recommends the practice of daily self-reflection. Marcus Aurelius’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a> — the most famous and widely-read Stoic text — is simply a collection of his personal journal entries over the course of around a decade. It was never intended for public readership; it’s just him at the end of each day reflecting on how he can be better the next.
+It’s not only Seneca that recommends the practice of daily self-reflection. Marcus Aurelius’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449337/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140449337&linkId=c10bdf039a0f73844cab3ab9510ec53e">Meditations</a> – the most famous and widely-read Stoic text – is simply a collection of his personal journal entries over the course of around a decade. It was never intended for public readership; it’s just him at the end of each day reflecting on how he can be better the next.
 
 And, even though he was a Roman emperor who lived almost 2,000 years ago, the struggles Marcus writes about are often remarkably relatable to our lives today. When you’re next finding it difficult to get out of bed one cold morning, for instance, consider this passage:
 
->At dawn, when you have trouble getting out of bed, tell yourself: ‘I have to go to work — as a human being. What do I have to complain of, if I’m going to do what I was born for — the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?’ So you were born to feel ‘nice’? Instead of doing things and experiencing them? Don’t you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you’re not willing to do your job as a human being? Why aren’t you running to do what your nature demands? You don’t love yourself enough. Or you’d love your nature too, and what it demands of you.
+>At dawn, when you have trouble getting out of bed, tell yourself: ‘I have to go to work – as a human being. What do I have to complain of, if I’m going to do what I was born for – the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?’ So you were born to feel ‘nice’? Instead of doing things and experiencing them? Don’t you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you’re not willing to do your job as a human being? Why aren’t you running to do what your nature demands? You don’t love yourself enough. Or you’d love your nature too, and what it demands of you.
 
 And, when you’re just annoyed by people in general, consider this passage:
 
@@ -101,7 +101,7 @@ While Epicureans have the fourfold cure (which summarizes the first four aphoris
 
 ## Learn more about Stoicism
 
-<span class="big-letter">I</span>f you’re interested in learning more about exactly what the dichotomy of control entails — as well as additional Stoic advice for mastering our emotions, dealing with adversity, living up to the four cardinal virtues, and facing up to death (as [Seneca advises in his essay, On the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)) — you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
+<span class="big-letter">I</span>f you’re interested in learning more about exactly what the dichotomy of control entails – as well as additional Stoic advice for mastering our emotions, dealing with adversity, living up to the four cardinal virtues, and facing up to death (as [Seneca advises in his essay, On the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)) – you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

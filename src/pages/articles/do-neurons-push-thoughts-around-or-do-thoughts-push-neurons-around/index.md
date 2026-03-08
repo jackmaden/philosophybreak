@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 <span class="big-letter">I</span>n his 2007 book <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a>, the cognitive scientist Douglas Hofstadter tackles the thorny subject of self: what is the ‘I’? In a cosmos bound by physical law, how does the ‘I’ come to exist? From the seething micro world of quanta, how does a sense of self, a sense of perspective and thought and feeling, possibly emerge?
 
-Of course, it’s impossible to approach such questions without dwelling on the nature of the brain — this “teetering bulb of dread and dream”, as Hofstadter describes it (quoting the poet Russell Edson). 
+Of course, it’s impossible to approach such questions without dwelling on the nature of the brain – this “teetering bulb of dread and dream”, as Hofstadter describes it (quoting the poet Russell Edson). 
 
 The brain is the philosophical hotspot for a number of difficult problems: free will, consciousness, and the self among them. And, over the last few decades, advances in neuroscience have granted us unprecedented access into the brain’s internal workings.
 
@@ -39,7 +39,7 @@ And, by large-scale architecture, Hofstadter does not just mean our _physical_ a
 
 ## Who is shoving whom around inside the cranium? The beginnings of a multilevel model 
 
-<span class="big-letter">M</span>apping the physical constituents of the brain is hard enough, but modeling the workings of the brain in a way that _includes_ mental properties like thoughts, concepts, and ideas — as well as how such properties could possibly emerge from or interact with the brain’s physical constituents — seems an almost impossible challenge.
+<span class="big-letter">M</span>apping the physical constituents of the brain is hard enough, but modeling the workings of the brain in a way that _includes_ mental properties like thoughts, concepts, and ideas – as well as how such properties could possibly emerge from or interact with the brain’s physical constituents – seems an almost impossible challenge.
 
 Hofstadter spends much of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a> attempting to do so, and so I can’t hope to do him justice in this short article. However, some immediate questions we might have for Hofstadter include: 
 
@@ -100,7 +100,7 @@ There are two very different types of answer we might give here, Hofstadter note
 
 The first type of answer would be to refer to the dominoes themselves and say, well, “because that domino’s predecessor never falls!” 
 
-Of course, while correct, this answer doesn’t take us very far — it just passes the buck to the next domino in the chain. 
+Of course, while correct, this answer doesn’t take us very far – it just passes the buck to the next domino in the chain. 
 
 The second (and much better) type of answer would be, “Because 641 is a prime number.” 
 
@@ -124,7 +124,7 @@ And who shoves whom around inside the human cranium?
 
 >No amount of expertise in car mechanics will help you to grasp the essence of such a situation; what is needed is knowledge of the abstract forces that can act on freeways and traffic. Cars are just pawns in the bigger game and, aside from the fact that they can’t pass through each other and emerge intact post-crossing (as do ripples and other waves), their physical nature plays no significant role in traffic jams.
 
-Indeed, what’s “caused” your car to be immobile are high-level abstractions like “traffic”, “rush hour”, and “population density” — though they make no reference to the individual cars around you, these are the much deeper explanations for why your car is not moving. 
+Indeed, what’s “caused” your car to be immobile are high-level abstractions like “traffic”, “rush hour”, and “population density” – though they make no reference to the individual cars around you, these are the much deeper explanations for why your car is not moving. 
 
 Likewise, we can unpick the nature of the brain’s physical components all we like, but if we pay attention only to such “lower levels”, Hofstadter warns,
 
@@ -134,7 +134,7 @@ The real explanatory power, the real _comprehension_, will come from an understa
 
 ## The causal potency of patterns
 
-<span class="big-letter">H</span>ofstadter’s goal with these analogies is to convey that the brain — understood as a complex, multilevel causal system — requires multiple levels of explanation, but that the “higher” we go with our levels of abstraction (i.e., the more we focus on emergent patterns), the more efficient and insightful our explanations become. He writes:
+<span class="big-letter">H</span>ofstadter’s goal with these analogies is to convey that the brain – understood as a complex, multilevel causal system – requires multiple levels of explanation, but that the “higher” we go with our levels of abstraction (i.e., the more we focus on emergent patterns), the more efficient and insightful our explanations become. He writes:
 
 >Deep understanding of causality sometimes requires the understanding of very large patterns and their abstract relationships and interactions, not just the understanding of microscopic objects interacting in microscopic time intervals.
 
@@ -142,9 +142,9 @@ Indeed, Hofstadter wants us to realize that causal force and explanatory power t
 
 In a combustion engine, for example, we say a gas’s temperature (an emergent high-level abstraction) “causes” the piston to move, even though the lower, fine-grained picture involves billions of individual molecules banging into each other. 
 
-Similarly, 641’s primality “causes” the dominoes to fall or remain standing, rush hour “causes” your car to be immobile, and a thought or belief “causes” us to behave in a certain way — even though the lower, fine-grained picture involves myriad physical components.
+Similarly, 641’s primality “causes” the dominoes to fall or remain standing, rush hour “causes” your car to be immobile, and a thought or belief “causes” us to behave in a certain way – even though the lower, fine-grained picture involves myriad physical components.
 
-It’s important to emphasize that, while Hofstadter attributes causal power to patterns and abstractions, there is no “extra-physical” force here. At the lower levels — the individual dominoes, cars, molecules and indeed the physical components of the brain — the laws of physics take care of everything on their own. 
+It’s important to emphasize that, while Hofstadter attributes causal power to patterns and abstractions, there is no “extra-physical” force here. At the lower levels – the individual dominoes, cars, molecules and indeed the physical components of the brain – the laws of physics take care of everything on their own. 
 
 But it is the global _arrangement_ of these lower levels that actually determines what happens, and it is through explaining and modeling such arrangements with high-level abstractions (like “primality”, “traffic”, “temperature”, and indeed “thoughts” and “ideas”) that we can really attain insight into what’s going on. 
 
@@ -156,9 +156,9 @@ Rather, to get closer to comprehension of such difficult philosophical problems,
 
 For a difficult problem like free will, for example, an explanation at the level of neurons is almost irrelevant, Hofstadter suggests. This would be like trying to explain a domino chain by focusing on individual dominoes, a gridlocked traffic jam by taking apart each individual car, or a combustion engine by looking at individual molecules.
 
-The pertinent question is not, “are our neurons ‘free’?” (this is like asking, “are dominoes bound by the laws of physics?”); no, the real question is, “are our thoughts, ideas, and desires ‘free’?” — this is the level of description, the level of abstraction, the level of _causality_, relevant to macro human behavior.
+The pertinent question is not, “are our neurons ‘free’?” (this is like asking, “are dominoes bound by the laws of physics?”); no, the real question is, “are our thoughts, ideas, and desires ‘free’?” – this is the level of description, the level of abstraction, the level of _causality_, relevant to macro human behavior.
 
-Ultimately, then, Hofstadter thinks research areas like neuroscience won’t help us unlock the philosophical mysteries of the mind until we have a working theory for how to incorporate emergent, high-level abstractions — ideas, beliefs, and concepts — into our models of the brain. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a> is his challenging, impressive, provocative attempt at doing just that.
+Ultimately, then, Hofstadter thinks research areas like neuroscience won’t help us unlock the philosophical mysteries of the mind until we have a working theory for how to incorporate emergent, high-level abstractions – ideas, beliefs, and concepts – into our models of the brain. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8?&linkCode=ll1&tag=philosophybre-20&linkId=314c0f072b74e87523aae41481d83d7c&language=en_US&ref_=as_li_ss_tl">I am a Strange Loop</a> is his challenging, impressive, provocative attempt at doing just that.
 
 ## So, what does Hofstadter think?
 

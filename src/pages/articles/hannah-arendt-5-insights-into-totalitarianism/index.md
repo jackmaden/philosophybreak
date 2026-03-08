@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 That’s exactly what Hannah Arendt did in 1951. Her 500+ page debut immediately became the go-to blueprint for understanding the preconditions, rise, and insidious psychology of totalitarian regimes.
 
-Arendt focused on two genuine forms of totalitarian government from her recent history — Nazi Germany and Stalinist Russia — which she shrewdly established as two sides of the same coin, rather than opposing philosophies of Right and Left.
+Arendt focused on two genuine forms of totalitarian government from her recent history – Nazi Germany and Stalinist Russia – which she shrewdly established as two sides of the same coin, rather than opposing philosophies of Right and Left.
 
 Written with an authoritative timelessness, her insights remain as piercing and relevant today as ever before.
 
@@ -49,7 +49,7 @@ _— <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.t
 
 This is achieved by flooding a lonely society with misinformation, Arendt explains in a related 1967 essay, _Truth and Politics:_
 
->The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world — and the category of truth versus falsehood is among the mental means to this end — is being destroyed.
+>The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world – and the category of truth versus falsehood is among the mental means to this end – is being destroyed.
 ​
 ## 5. When people become cynical of truth, their loyalty goes to whoever can evoke the strongest feelings:
 

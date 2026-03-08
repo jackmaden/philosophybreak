@@ -51,11 +51,11 @@ Indeed, Epicurus taught that the basic constituents of the world are irreducible
     </div>
 </div>
 
-It is with these two Epicurean principles in mind — that being free from pain and anxiety is the highest good, and that reality is fundamentally godless and atomic in nature — that Lucretius thus turns his attention to our biggest fear of all: death. 
+It is with these two Epicurean principles in mind – that being free from pain and anxiety is the highest good, and that reality is fundamentally godless and atomic in nature – that Lucretius thus turns his attention to our biggest fear of all: death. 
 
 ## We all fear death, and material things don't allay that fear
 
-<span class="big-letter">A</span>ccording to Lucretius, our fear of death is buried deep, and not always conscious: its presence “tinges everything we do with death’s blackness, leaving no pleasure clean and pure…” — indeed, try as we might to fill our lives with activity or distract ourselves with material things, nothing truly allays this deep, all-pervasive fear of death. 
+<span class="big-letter">A</span>ccording to Lucretius, our fear of death is buried deep, and not always conscious: its presence “tinges everything we do with death’s blackness, leaving no pleasure clean and pure…” – indeed, try as we might to fill our lives with activity or distract ourselves with material things, nothing truly allays this deep, all-pervasive fear of death. 
 
 For, as Lucretius puts it, death does not discriminate:
 
@@ -65,17 +65,17 @@ We can keep ourselves busy, but as [Kierkegaard also notes in Either/Or](/articl
 
 >Look at the man who keeps leaving his vast mansion because he feels bored at home, and then suddenly decides to come back because he feels no better abroad. He drives full speed to his country retreat… and then rushes back to see the city again. Thus does everyone try to escape from themselves…
 
-So, if we cannot outrun or distract ourselves from it, how can we overcome the fear, anxiety, and self-denial that our mortality causes within us? For Lucretius, the power to banish our fear of death belongs to reason alone — darkness of mind must be dispelled by contemplating nature and understanding its workings:
+So, if we cannot outrun or distract ourselves from it, how can we overcome the fear, anxiety, and self-denial that our mortality causes within us? For Lucretius, the power to banish our fear of death belongs to reason alone – darkness of mind must be dispelled by contemplating nature and understanding its workings:
 
 >We hate ourselves because we are sick, yet we cannot grasp the cause of our sickness; but if we could see it, we would abandon such frantic activity and first try to understand the nature of the universe.
 
 ## The mind depends on the body, so dying is nothing to us
 
-<span class="big-letter">L</span>ucretius’s first step in seeking to dispel our fear of death is to assert that, as we live in an atomic universe, it follows that our minds too must be physical or _bodily_ in nature. From this base — that the mind is part of the physical body — Lucretius says we must therefore conclude that the mind’s existence is linked irretrievably to the fate of the body: 
+<span class="big-letter">L</span>ucretius’s first step in seeking to dispel our fear of death is to assert that, as we live in an atomic universe, it follows that our minds too must be physical or _bodily_ in nature. From this base – that the mind is part of the physical body – Lucretius says we must therefore conclude that the mind’s existence is linked irretrievably to the fate of the body: 
 
 >The mind is but one part of the human being, which occupies a definite location, just like the ears and the eyes and the other senses that guide our life; and since the hands or eyes or nose cannot feel or function when they are separated from us, but soon putrefy and rot, so the soul cannot exist without the body, or without the whole human being…
 
-So, if we acknowledge that our conscious minds depend on our bodies, it follows that as soon as our bodies cease to be alive, our minds will cease to exist: in death, no conscious element of ourselves persists. This leads Lucretius to thus conclude that “death is nothing to us” — because it literally _will_ be nothing to us: there is nothing to experience in death, because the experiencer no longer exists. 
+So, if we acknowledge that our conscious minds depend on our bodies, it follows that as soon as our bodies cease to be alive, our minds will cease to exist: in death, no conscious element of ourselves persists. This leads Lucretius to thus conclude that “death is nothing to us” – because it literally _will_ be nothing to us: there is nothing to experience in death, because the experiencer no longer exists. 
 
 This echoes [the fuller Epicurean slogan: “Death is nothing to us](/articles/epicurus-on-why-death-should-not-concern-us/). When we exist, death is not; and when death exists, we are not. All sensation and consciousness ends with death and therefore in death there is neither pleasure nor pain.”
 
@@ -100,15 +100,15 @@ From this doctrine arose the epitaph: _Non fui, fui, non sum, non curo_ (I was n
 
 To see just how little we need to worry about our own deaths, Lucretius continues:
 
->Consider the time before we were born: we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation — not even if the the earth should collapse in to the sea, or the sea explode in the sky…
+>Consider the time before we were born: we felt no distress when the Carthaginians were attacking Rome on every side; and the whole world was shaken by the frightening tumult of that war… and in the same way in the future, when we shall no longer exist, and the final breaking up occurs for the body and spirit from which we are now compounded into a single unit, nothing whatever will be able to happen to us, or produce any sensation – not even if the the earth should collapse in to the sea, or the sea explode in the sky…
 
-The _act_ of dying, then — and _being_ dead — is nothing to reasonably worry about, because, just like before we were born, there is no part of our consciousness that exists to experience it. 
+The _act_ of dying, then – and _being_ dead – is nothing to reasonably worry about, because, just like before we were born, there is no part of our consciousness that exists to experience it. 
 
 ## But what if it’s not death that concerns us, but a fear of missing out, or leaving our loved ones?
 
 <span class="big-letter">S</span>o far, we might think, yes, Lucretius’s confrontation of our mortality has somewhat revealed death itself to be nothing to _logically_ worry about, because we won’t even consciously experience it. But what if the act of dying is not really what drives our anxiety? What if it’s more worrying about the _life_ we’ll miss out on, the loved ones we’ll leave, everything we didn’t manage to do?
 
-For Lucretius, this is one and the same worry. Our lust for life and our fear of death are the same thought, merely framed differently. By fretting about not having enough time with our loved ones, by not completing what we want to complete in life — we are really fretting about death. And, as Lucretius puts it, “it is this evil and excessive desire for life that makes us tremble with doubts and forebodings”:
+For Lucretius, this is one and the same worry. Our lust for life and our fear of death are the same thought, merely framed differently. By fretting about not having enough time with our loved ones, by not completing what we want to complete in life – we are really fretting about death. And, as Lucretius puts it, “it is this evil and excessive desire for life that makes us tremble with doubts and forebodings”:
 
 >People often feel a weight on their minds that bears down upon them and exhausts them. But if they could only know what are its causes, they would not live their lives in the way we so often observe: no one knowing what they want, everyone wanting to change their position in life, as if they could thereby lay down their burdens…
 
@@ -116,13 +116,13 @@ Indeed, it is this unfocused longing for life, springing from a fear of death, t
 
 As [Seneca also comments in his discussion on the apparent shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/), we are ever preoccupied with the future, and rarely attentive to the present.   
 
-So what’s the solution? We must remember death is nothing to us, and acknowledge that our unfocused craving for life in fact damages the only life we get: it removes us from appreciating what we already have. So, rather than forego current pleasures by worrying about future inevitabilities, we should accept and celebrate our mortality and live simply and authentically in the face of it. We should acknowledge that our time here is limited, but remind ourselves that it’s okay — because we’ll spend the time well, thankful for the present, without trying to control a future that ultimately we cannot escape, a future we won’t even experience.  
+So what’s the solution? We must remember death is nothing to us, and acknowledge that our unfocused craving for life in fact damages the only life we get: it removes us from appreciating what we already have. So, rather than forego current pleasures by worrying about future inevitabilities, we should accept and celebrate our mortality and live simply and authentically in the face of it. We should acknowledge that our time here is limited, but remind ourselves that it’s okay – because we’ll spend the time well, thankful for the present, without trying to control a future that ultimately we cannot escape, a future we won’t even experience.  
 
 Besides, by prolonging life we subtract nothing from the time when we shall be dead. As Lucretius frankly puts it: 
 
 >No matter how many generations you live through, the same eternal death is still waiting, and someone who ends life as the sun goes down today will have just as long a period of non-existence as one who died many months and years before. 
 
-Mortality is part of our nature. We wouldn’t expect a flower to live forever — and in fact its beauty in full-bloom, we might argue, is only magnified by its artful impermanence. 
+Mortality is part of our nature. We wouldn’t expect a flower to live forever – and in fact its beauty in full-bloom, we might argue, is only magnified by its artful impermanence. 
 
 ## Living authentically in the face of death
 

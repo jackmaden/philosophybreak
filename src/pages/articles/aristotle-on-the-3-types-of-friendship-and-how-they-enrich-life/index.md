@@ -1,6 +1,6 @@
 ---
 title: "Aristotle On the 3 Types of Friendship (and How Each Enriches Life)"
-description: "There is not one type of friendship, Aristotle argues, but three. The highest type — the friendship of virtue — contributes most to our pursuit of the good life; but it is difficult to cultivate, and we may only achieve it a few times (if at all) in our lifetimes."
+description: "There is not one type of friendship, Aristotle argues, but three. The highest type – the friendship of virtue – contributes most to our pursuit of the good life; but it is difficult to cultivate, and we may only achieve it a few times (if at all) in our lifetimes."
 image: "./friendship.jpg"
 imageAlt: "Aristotle On the 3 Types of Friendship"
 imageSeo: "./friendship.jpg"
@@ -51,12 +51,12 @@ He then identifies the following ‘species’ of friendship:
 2. **The friendship of _pleasure_.** These are friendships based on enjoyment of a shared activity or the pursuit of fleeting pleasures and emotions. This might be someone you go for drinks with, or join a particular hobby with, and is a common level of association among the young, so Aristotle declared. This type of relationship can again end quickly, dependent as it is on people’s ever-changing likes and dislikes.
 3. **The friendship of _virtue_.** These are the people you like for themselves, who typically influence you positively and push you to be a better person. This kind of relationship, based as it is on the character of two self-sufficient equals, is a lot more stable than the previous two categories. 
 
-Unsurprisingly, it is this final level — the friendship of virtue — that Aristotle lauds. While friendships of utility and pleasure have their place, it is the rare yet pure friendships of virtue that are the greatest contributors to the good life. 
+Unsurprisingly, it is this final level – the friendship of virtue – that Aristotle lauds. While friendships of utility and pleasure have their place, it is the rare yet pure friendships of virtue that are the greatest contributors to the good life. 
 
 
 ## The requirements for close friendship
 
-<span class="big-letter">V</span>irtuous friendship takes time — indeed, the length of a relationship indicates its stability — and requires effort on both sides. 
+<span class="big-letter">V</span>irtuous friendship takes time – indeed, the length of a relationship indicates its stability – and requires effort on both sides. 
 
 “For perfect friendship you must get to know someone thoroughly,” Aristotle says, “and become intimate with them, which is a very difficult thing to do.” It involves honesty, acceptance, and selflessness. It is two equal parties coming together to forge a bond that provides mutual benefit, enjoyment, and appreciation over the course of a lifetime.
 
@@ -83,11 +83,11 @@ Aristotle thinks _loving_ is more the essence of close friendship than _being lo
 
 >for some mothers hand over their children to be brought up, and so long as they know their fate they love them and do not seek to be loved in return (if they cannot have both), but seem to be satisfied if they seem them prospering; and they themselves love their children even if these owing to their ignorance them them nothing of a mother’s due.
 
-Aristotle then connects this kind of selfless love — wishing the best for someone else for _their_ sake — to the best kinds of friendship, writing: 
+Aristotle then connects this kind of selfless love – wishing the best for someone else for _their_ sake – to the best kinds of friendship, writing: 
 
 >Now since friendship depends more on loving, and it is those who love their friends that are praised, loving seems to be the characteristic virtue of friends, so that it is only those in whom this is found in due measure that are lasting friends, and only their friendship that endures.
 
-Aristotle does not limit the formation of such friendships to non-relations; they can take place between spouses and family members, too — though he does add some qualifications for relationships that include inequalities, such as the parent-child relationship (suggesting such imbalances should be taken into consideration when reviewing the contributions of each party). 
+Aristotle does not limit the formation of such friendships to non-relations; they can take place between spouses and family members, too – though he does add some qualifications for relationships that include inequalities, such as the parent-child relationship (suggesting such imbalances should be taken into consideration when reviewing the contributions of each party). 
 
 His one strict limitation is the number of virtuous friendships you can maintain. “To be a friend to many people in the way of perfect friendship is impossible,” he warns:
 
@@ -102,7 +102,7 @@ It would be surprising if anyone could manage more than, say, five of such inten
 
 In forming relationships, he urges us to go beyond utility and pleasure and seek to _fulfill our human potential_ by connecting with others in the most sincere, meaningful, and prosperous way possible: by cultivating mutual love. 
 
-For mutually loving relationships — those in which two people strive to be the best they can be to each other and themselves — are not just key sources of happiness, Aristotle judges, but among the pinnacles of human achievement. 
+For mutually loving relationships – those in which two people strive to be the best they can be to each other and themselves – are not just key sources of happiness, Aristotle judges, but among the pinnacles of human achievement. 
 
 (Contrast this with Schopenhauer, who with his [porcupine dilemma](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/) suggests solitude is a better match for achievement than companionship.)
 
@@ -115,7 +115,7 @@ So a life of excellent activity, bolstered by excellent relationships, is very m
 
 If you’re looking to delve deeper into Aristotle’s teachings, you might enjoy our article on [the ‘golden mean’, Aristotle’s guide to living excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/), as well as our quick explainer on why [Aristotle thinks leisure defines us more than work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/).
 
-You can also further explore Aristotle’s ethics and discuss your thoughts with others in our new course and community, <i>How to Live a Good Life</i>, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. If you’re interested, consider learning more here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
+You can also further explore Aristotle’s ethics and discuss your thoughts with others in our new course and community, <i>How to Live a Good Life</i>, which explores 7 of the world’s most influential philosophies for living – including Aristotelianism, Buddhism, and Existentialism. If you’re interested, consider learning more here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

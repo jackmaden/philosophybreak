@@ -154,7 +154,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">3</span><span>Perspectivism <i>(6 lessons)</i></span></h3>
-                        <p className="spectral">Do human beings have access to objective truth? Chapter 3 considers Nietzsche’s fascinating theory of perspectivism, a highly sophisticated account of what truth is and how we can access it — an account that continues to excite scholars today.</p>
+                        <p className="spectral">Do human beings have access to objective truth? Chapter 3 considers Nietzsche’s fascinating theory of perspectivism, a highly sophisticated account of what truth is and how we can access it – an account that continues to excite scholars today.</p>
                     </div>
                     <div className="mid-mar-top-desktop">
                     <a href={chap3} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
@@ -186,7 +186,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col page-center row-reverse small-top-mar">
                     <div>
                         <h3 className="flex-normal-mob-end-desk"><span className="spectral big-letter">5</span><span>God is Dead, the Eternal Recurrence, & the Übermensch</span></h3>
-                        <p className="spectral">What should we value in a Godless world — and why? Nietzsche’s attempt to provide a ‘revaluation of values’ is discussed in Chapter 5, where we consider his famous ideas that God is Dead, the eternal recurrence, and the Übermensch (superman).</p>
+                        <p className="spectral">What should we value in a Godless world – and why? Nietzsche’s attempt to provide a ‘revaluation of values’ is discussed in Chapter 5, where we consider his famous ideas that God is Dead, the eternal recurrence, and the Übermensch (superman).</p>
                     </div>
                     <div className="mid-mar-top-desktop">
                     <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
@@ -377,13 +377,13 @@ const Page = ({ data, location }) => {
                     </div>
                     <div>
                         <h4>How long does it take to do the course?</h4>
-                        <p className="small-grey-font">The course is broken into six distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each idea sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                        <p className="small-grey-font">The course is broken into six distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each idea sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day – you can take the course at your own pace.</p>
                     </div>
                 </div>
                 <div className="two-col align-top">
                     <div>
                         <h4>How is the course delivered?</h4>
-                        <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device — be it desktop, laptop, tablet, or mobile — and are even printable, so you can consume them however you like.</p>
+                        <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device – be it desktop, laptop, tablet, or mobile – and are even printable, so you can consume them however you like.</p>
                     </div>
                     <div>
                     <h4>Can I take the course on mobile?</h4>

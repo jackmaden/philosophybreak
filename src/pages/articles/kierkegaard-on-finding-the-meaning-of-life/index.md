@@ -13,17 +13,17 @@ authorLink: "/about/"
 
 <span class="big-letter">O</span>ften labeled as the first existentialist philosopher, Danish thinker Søren Kierkegaard was a voracious writer (see our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)). Wittgeinstein described him as the most profound thinker of the 19th century, and his many works are filled with rich nuance and insight on a wide diversity of subjects. 
 
-One of the most prominent themes in Kierkegaard’s work is his critique of the ‘rational detachment’ practiced by the philosophical tradition that came before him — and how such practice fails to provide us with insight into topics like the meaning of life.
+One of the most prominent themes in Kierkegaard’s work is his critique of the ‘rational detachment’ practiced by the philosophical tradition that came before him – and how such practice fails to provide us with insight into topics like the meaning of life.
 
-Kierkegaard especially targets his contemporary, the German philosopher Hegel, whom he saw as continuing this tradition by attempting to write from a ‘view from nowhere’ — attempting to be detached and objective, when of course, writing from a very particular and singular human perspective, Hegel had a claim on neither of those things.
+Kierkegaard especially targets his contemporary, the German philosopher Hegel, whom he saw as continuing this tradition by attempting to write from a ‘view from nowhere’ – attempting to be detached and objective, when of course, writing from a very particular and singular human perspective, Hegel had a claim on neither of those things.
 
 ![Oil painting of Kierkegaard, by Luplau Janssen (1902)](./Kierkegaard.jpg "Oil painting of Kierkegaard, by Luplau Janssen (1902).")
 
 Kierkegaard’s insight is that, by attempting to abstract away our subjectivity, philosophy loses its power to move or be relevant for us. 
 
-Scientific explanations of reality, then, are all well and good; but what about our _actual lived experiences?_ What does rational detachment do for us when we are striving to find meaning and purpose — something to _live for?_ 
+Scientific explanations of reality, then, are all well and good; but what about our _actual lived experiences?_ What does rational detachment do for us when we are striving to find meaning and purpose – something to _live for?_ 
 
-We don’t want mere descriptions, Kierkegaard thinks, and we don’t want mere explanations; rather, we want _reasons for getting out of bed in the morning_ — and we won’t find such reasons by erasing the subjective ‘I’ from our picture of the world. 
+We don’t want mere descriptions, Kierkegaard thinks, and we don’t want mere explanations; rather, we want _reasons for getting out of bed in the morning_ – and we won’t find such reasons by erasing the subjective ‘I’ from our picture of the world. 
 
 As Kierkegaard writes in his journal in 1835:
 
@@ -33,7 +33,7 @@ Even if we had total objective knowledge of the universe, Kierkegaard suggests, 
 
 The upshot from much of Kierkegaard’s work is that, by stripping subjectivity from the world, we strip meaning from the world. If we want to find reasons to live, preserving the first-person perspective is paramount. 
 
-The question, then, is not ‘what is the meaning of life?’ — the question is ‘what is the meaning of life _for me?’_
+The question, then, is not ‘what is the meaning of life?’ – the question is ‘what is the meaning of life _for me?’_
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -64,19 +64,19 @@ As the French philosopher Albert Camus wrote:
 
 >It is legitimate and necessary to wonder whether life has a meaning.
 
-And it is Kierkegaard’s emphasis on the first-person perspective that enables existentialism to _investigate_ such meaning. It informs and lays the conceptual groundwork for finding solutions to the problem of nihilism that — due to their use of ‘objective’ rational detachment — science and traditional philosophy simply cannot offer.
+And it is Kierkegaard’s emphasis on the first-person perspective that enables existentialism to _investigate_ such meaning. It informs and lays the conceptual groundwork for finding solutions to the problem of nihilism that – due to their use of ‘objective’ rational detachment – science and traditional philosophy simply cannot offer.
 
-Friedrich Nietzsche, for instance, though unlikely to have read Kierkegaard directly, is thought to have been familiar with his ideas through secondary literature, and puts forward a similar critique of rational detachment — that it cannot provide us with meaning. After declaring [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/), Nietzsche presents his character of the [Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/) — rather than science — as a replacement source of meaning and value.
+Friedrich Nietzsche, for instance, though unlikely to have read Kierkegaard directly, is thought to have been familiar with his ideas through secondary literature, and puts forward a similar critique of rational detachment – that it cannot provide us with meaning. After declaring [God is dead](/articles/god-is-dead-nietzsche-famous-statement-explained/), Nietzsche presents his character of the [Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/) – rather than science – as a replacement source of meaning and value.
 
 20th-century philosophers Edmund Husserl and Martin Heidegger, meanwhile, build new categories of experience in their phenomenological understanding of reality (see [Heidegger’s discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)), deeply influencing the meaning-making approaches of Jean-Paul Sartre (who sloganized their insights with the pithy statement, [_existence precedes essence_](/articles/existence-precedes-essence-what-sartre-really-meant/)) and Simone de Beauvoir (our quick [existentialism explainer](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/) explores this further); [Camus responds to absurdity](/articles/absurdity-with-camus/) by encouraging us to cultivate a spirit of defiant acceptance; while [Thomas Nagel proposes we approach our existential situation with humor](/articles/thomas-nagel-why-humor-best-stance-towards-life-absurdity/), rather than despair. Even Robert Nozick suggests that by viewing ourselves a certain way, we can [live meaningfully in a vast universe](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/).
 
-Given its far-reaching influence, what do you make of Kierkegaard’s initial analysis? Do you think scientific explanations of reality are capable of providing us with reasons to get out of bed in the morning? Or do you agree with Kierkegaard — that such reasons must come from within? 
+Given its far-reaching influence, what do you make of Kierkegaard’s initial analysis? Do you think scientific explanations of reality are capable of providing us with reasons to get out of bed in the morning? Or do you agree with Kierkegaard – that such reasons must come from within? 
 
 ## Learn more about Kierkegaard and existentialism
 
-<span class="big-letter">I</span>f you’re interested in learning more, you might like our quick articles on [Kierkegaard’s critique of busyness](/articles/kierkegaard-on-why-busy-people-are-ridiculous/) and his observation that [while we understand life backwards, we must live forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/) — as well as our reading lists on [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/) and [existentialism’s best books](/reading-lists/existentialism/). 
+<span class="big-letter">I</span>f you’re interested in learning more, you might like our quick articles on [Kierkegaard’s critique of busyness](/articles/kierkegaard-on-why-busy-people-are-ridiculous/) and his observation that [while we understand life backwards, we must live forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/) – as well as our reading lists on [Kierkegaard’s best books](/reading-lists/soren-kierkegaard-best-books/) and [existentialism’s best books](/reading-lists/existentialism/). 
 
-If you’d like to dive deeper into existentialist (and other philosophical) responses to nihilism, consider signing up for our new guide, [How to Live a Good Life](/how-to-live-a-good-life/), which compares the wisdom of 7 rival philosophies for life — including existentialism, Buddhism, and Stoicism.
+If you’d like to dive deeper into existentialist (and other philosophical) responses to nihilism, consider signing up for our new guide, [How to Live a Good Life](/how-to-live-a-good-life/), which compares the wisdom of 7 rival philosophies for life – including existentialism, Buddhism, and Stoicism.
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

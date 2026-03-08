@@ -17,11 +17,11 @@ Writing in the latter half of the 20th century, the philosopher and novelist Iri
 
 They approach morality by discussing universal principles as guides for _acting_ or _deciding_ in different situations.
 
-But the essence of moral life is not to be found in isolated moments of action or decision, Murdoch suggests — nor can it hope to be captured by the abstract principles guiding them.
+But the essence of moral life is not to be found in isolated moments of action or decision, Murdoch suggests – nor can it hope to be captured by the abstract principles guiding them.
 
-Rather, the bulk of our moral lives take place in our _ongoing reflective activity_ — in how we attend and respond to particular persons and things from moment to moment.
+Rather, the bulk of our moral lives take place in our _ongoing reflective activity_ – in how we attend and respond to particular persons and things from moment to moment.
 
-Murdoch describes this value-laden inner mental activity — how we think about ourselves, how we imagine others — as _attention_, and she offers a now-famous example that brings her idea to life.
+Murdoch describes this value-laden inner mental activity – how we think about ourselves, how we imagine others – as _attention_, and she offers a now-famous example that brings her idea to life.
 
 ## The hostile mother-in-law
 
@@ -29,15 +29,15 @@ Murdoch describes this value-laden inner mental activity — how we think about 
 
 >A mother, whom I shall call M, feels hostility to her daughter-in-law, whom I shall call D. M finds D quite a good-hearted girl, but while not exactly common yet certainly unpolished and lacking in dignity and refinement. D is inclined to be pert and familiar, insufficiently ceremonious, brusque, sometimes positively rude, always tiresomely juvenile. M does not like D’s accent or the way D dresses. M feels that her son has married beneath him.<br/><br/>Let us assume for the purposes of the example that the mother, who is a very ‘correct’ person, behaves beautifully to the girl throughout, not allowing her real opinion to appear in any way…<br/><br/>Thus much for M’s first thoughts about D. Time passes, and it could be that M settles down with a hardened sense of grievance and a fixed picture of D, imprisoned (if I may use a question-begging word) by the cliché: my poor son has married a silly vulgar girl.<br/><br/>However, the M of the example is an intelligent well-intentioned person, capable of self-criticism, capable of giving careful and just _attention_ to an object, which confronts her. M tells herself: ‘I am old-fashioned and conventional. I may be prejudiced and narrow-minded. I may be snobbish. I am certainly jealous. Let me look again…’
 
-So: M builds up a negative picture of D in her mind, and — despite “behaving beautifully” towards D on the outside, her internal perception of D becomes entrenched. 
+So: M builds up a negative picture of D in her mind, and – despite “behaving beautifully” towards D on the outside, her internal perception of D becomes entrenched. 
 
-Time passes, however, and M recognizes that her view of D is perhaps clouded by qualities that aren’t really D’s at all — they are her own.
+Time passes, however, and M recognizes that her view of D is perhaps clouded by qualities that aren’t really D’s at all – they are her own.
 
 Acknowledging that she herself is “old-fashioned and conventional”, “prejudiced and narrow-minded”, and “certainly jealous”, M looks again, Murdoch continues…
 
 >Here I assume that M observes D until gradually her vision of D alters… D is discovered to be not vulgar but refreshingly simple, not undignified but spontaneous, not noisy but gay, not tiresomely juvenile but delightfully youthful, and so on.
 
-M sees D in a new light, free of prejudice, because she has made an effort to alter her inner mental activity — her _attention_. Murdoch writes:
+M sees D in a new light, free of prejudice, because she has made an effort to alter her inner mental activity – her _attention_. Murdoch writes:
 
 >I have used the word ‘attention’, which I borrow from Simone Weil, to express the idea of a just and loving gaze directed upon an individual reality. I believe this to be the characteristic and proper mark of the moral agent.
 
@@ -68,11 +68,11 @@ Moral progress is thus less about seeking fixed, _correct_ answers to open quest
     </div>
 </div>
 
-Murdoch offers hints of how we might cultivate such attention in the quotations above — a “just and loving gaze”, a “decrease in egoism”, an “increased sense of the reality of other people” — but she makes it explicit with her concept of [“unselfing”](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/).
+Murdoch offers hints of how we might cultivate such attention in the quotations above – a “just and loving gaze”, a “decrease in egoism”, an “increased sense of the reality of other people” – but she makes it explicit with her concept of [“unselfing”](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/).
 
 ## Attention involves “unselfing”
 
-<span class="big-letter">O</span>ur inner lives, Murdoch observes, are too often clogged by what she calls the “fat, relentless ego”. The good life becomes available to us, she thinks, when we are able to deflate the brooding, grasping self (“unself”), and open our eyes to reality — an idea perhaps reminiscent of the [Buddhist concept of anātman, or no-self](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/).
+<span class="big-letter">O</span>ur inner lives, Murdoch observes, are too often clogged by what she calls the “fat, relentless ego”. The good life becomes available to us, she thinks, when we are able to deflate the brooding, grasping self (“unself”), and open our eyes to reality – an idea perhaps reminiscent of the [Buddhist concept of anātman, or no-self](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/).
 
 Importantly, then, paying attention in the Murdochian sense does not mean turning a blind eye to people’s faults and weaknesses; it means trying to observe them _without being blinded by our own._
 
@@ -80,7 +80,7 @@ Indeed, M does not change her mind about D on a whim; rather, she changes her mi
 
 >Of course psychic energy flows, and more readily flows, into building up convincingly coherent but false pictures of the world, complete with systematic vocabulary (M seeing D as pert-common juvenile, etc.) Attention is the effort to counteract such states of illusion.
 
-Paying proper attention — i.e. living morally — means trying to view the world without the safety and crutch of our usual prejudices.
+Paying proper attention – i.e. living morally – means trying to view the world without the safety and crutch of our usual prejudices.
 
 It is the difficult, uncomfortable, humbling attempt to deconstruct our own worldviews. For, Murdoch writes,
 
@@ -90,9 +90,9 @@ Deflating our egos in the way Murdoch urges is perhaps synonymous with lowering 
 
 But seeing the world through the moral lens of attention _means_ being vulnerable, Murdoch thinks. 
 
-Through making an effort to remove the barrier that sits between us and others, we express our moral agency — and open ourselves to true connection.
+Through making an effort to remove the barrier that sits between us and others, we express our moral agency – and open ourselves to true connection.
 
-M lets down her mental guard against D, and sees her in a new light. It is not new or more accurate information that has changed her view; it is the detachment of her own ego, the lowering of her defenses — a love that disarms.
+M lets down her mental guard against D, and sees her in a new light. It is not new or more accurate information that has changed her view; it is the detachment of her own ego, the lowering of her defenses – a love that disarms.
 
 Murdoch famously articulates this idea in a passage from her one of her early essays, _The Sublime and the Good_ (later published in the collection, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4h2ZD3p">Existentialists And Mystics: Writings on Philosophy and Literature</a>):
 
@@ -100,7 +100,7 @@ Murdoch famously articulates this idea in a passage from her one of her early es
 
 ## Attention, rather than action, is the locus of morality
 
-<span class="big-letter">M</span>urdoch thus places the locus of morality in our ongoing reflective attention, rather than in our actions or decisions — for, if we get the former right, the latter will naturally follow.
+<span class="big-letter">M</span>urdoch thus places the locus of morality in our ongoing reflective attention, rather than in our actions or decisions – for, if we get the former right, the latter will naturally follow.
 
 As she puts it: cultivating the right kind of attention…
 

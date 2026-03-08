@@ -46,11 +46,11 @@ const ReadingList = ({ data, location }) => {
 
               <p>It’s thought that Aristotle’s surviving works were never intended for general readership: they are lecture notes for his advanced philosophical students. As such, Aristotle has a reputation for being a rather dense and difficult writer.</p>
               
-              <p>This is perhaps a little unfair, for in his lifetime Aristotle produced a number of popular dialogues — <Link to="/reading-lists/plato/">like Plato</Link> — that were famed for their beauty. Indeed, the Roman statesman Cicero speaks of the “golden river” of Aristotle’s prose. Unfortunately, none of these popular works survive, and we are left only with Aristotle’s technical notes.</p> 
+              <p>This is perhaps a little unfair, for in his lifetime Aristotle produced a number of popular dialogues – <Link to="/reading-lists/plato/">like Plato</Link> – that were famed for their beauty. Indeed, the Roman statesman Cicero speaks of the “golden river” of Aristotle’s prose. Unfortunately, none of these popular works survive, and we are left only with Aristotle’s technical notes.</p> 
 
               <p>Nevertheless, the influence of these ‘technical notes’ is difficult to overstate. Aristotle’s physics was not replaced until the Enlightenment, some of his biological insights still astound modern zoologists and researchers, and his ethics (including, for instance, his ideas of <Link to="/articles/the-golden-mean-aristotle-guide-to-living-excellently/">the ‘golden mean’</Link>, his <Link to="/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/">influential views on friendship</Link> and <Link to="/articles/aristotle-vs-the-stoics-what-does-happiness-require/">happiness</Link>, and that <Link to="/articles/aristotle-on-why-leisure-defines-us-more-than-work/">leisure should define us more than work</Link>) remains a rich source for contemporary scholarship and debate to this day. He was revered among medieval Muslim scholars as “The First Teacher”, known by medieval Christians like Thomas Aquinas simply as “The Philosopher”, while the poet Dante called him “the master of those who know”.</p>
 
-              <p>This reading list outlines the best books of and about Aristotle. After reading it, you’ll have a full understanding of exactly why Aristotle’s work has had — and still has — such an influence on Western thought. Let’s dive in!</p>
+              <p>This reading list outlines the best books of and about Aristotle. After reading it, you’ll have a full understanding of exactly why Aristotle’s work has had – and still has – such an influence on Western thought. Let’s dive in!</p>
 
               
               <h2>1. Aristotle’s Way, by Edith Hall</h2>
@@ -86,7 +86,7 @@ const ReadingList = ({ data, location }) => {
                     </Link>
                 </div>
                 <p>If you’re interested in learning not just about Aristotle, but comparing his insights to six rival philosophies for life, look no further than the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link>. This concise online guide is instantly accessible from any device and distills the best and most important wisdom from Aristotle, Stoicism, Buddhism, and more.</p>
-                <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand some of life’s most influential ethical frameworks, examine the pros and cons of each, and discover how they might apply to your own life, then this is the guide for you. <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and might be just what you’re looking for!</p>
+                <p>Of course, we’re a little biased, as we produced this one – but if you’re seeking to understand some of life’s most influential ethical frameworks, examine the pros and cons of each, and discover how they might apply to your own life, then this is the guide for you. <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and might be just what you’re looking for!</p>
               
 
               <h2>5. The Nicomachean Ethics, by Aristotle</h2>

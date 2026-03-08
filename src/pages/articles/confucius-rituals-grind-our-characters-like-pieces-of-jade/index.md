@@ -25,7 +25,7 @@ It is this penchant for tradition that informs one of the most distinctive aspec
 
 ## What does ritual mean for Confucians?
 
-<span class="big-letter">T</span>he word ‘ritual’ may bring to mind rather stuffy or formal ceremonial practices, and while these are definitely included in what Confucians are referring to, ritual also means general day-to-day etiquette and social custom — anything that is a shared human activity, anything that brings people together.
+<span class="big-letter">T</span>he word ‘ritual’ may bring to mind rather stuffy or formal ceremonial practices, and while these are definitely included in what Confucians are referring to, ritual also means general day-to-day etiquette and social custom – anything that is a shared human activity, anything that brings people together.
 
 So, it could be a wedding, or it could be something as simple as a handshake: the Confucian point is that these cultural practices and social customs have a key role to play in shaping our moral lives, for they are the language in which we communicate our shared humanity and respect for one another.
 
@@ -45,7 +45,7 @@ In <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazo
 
 >If you try to guide the common people with coercive regulations and keep them in line with punishments, the common people will become evasive and will have no sense of shame. If, however, you guide them with Virtue, and keep them in line by means of ritual, the people will have a sense of shame and will rectify themselves.
 
-Confucius’s key innovation and insight — one we see utilized by religions, and more nefariously by propagandists and dictatorships — is to recognize that the result of a ritual is not just its promised reward or outcome, but the moral shaping of all its participants.
+Confucius’s key innovation and insight – one we see utilized by religions, and more nefariously by propagandists and dictatorships – is to recognize that the result of a ritual is not just its promised reward or outcome, but the moral shaping of all its participants.
 
 If we are to develop ourselves morally, Confucius says, it is not just our individual habits that matter: our _shared, cultural_ habits play a crucial role.
 
@@ -59,7 +59,7 @@ Funerals encourage us to cultivate an attitude of compassionate respect: we supp
 
 Another example is a regular family dinner, in which different members of the family may wait for one another to sit down before eating, have a rule of ‘no technology at the table’, and so on, creating an atmosphere in which there is more potential for human connection.
 
-Yet another, more everyday example is waiting in line: a queue demonstrates the basic respect each member has for the person in front and behind them, and people who jump the queue are chastised as rude or arrogant for putting their needs before those of others — for setting a poor example, and making the world feel a less respectful and harmonious place.
+Yet another, more everyday example is waiting in line: a queue demonstrates the basic respect each member has for the person in front and behind them, and people who jump the queue are chastised as rude or arrogant for putting their needs before those of others – for setting a poor example, and making the world feel a less respectful and harmonious place.
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -82,7 +82,7 @@ Yet another, more everyday example is waiting in line: a queue demonstrates the 
 
 By encouraging certain behaviors, rituals thus _shape who we are._ They place a check on our own individual desires and needs by demanding instead that we act in a certain way that promotes the harmony of the group.
 
-Once we begin to think about them, we notice rituals everywhere, and recognize the social — and moral — importance of learning the appropriate ways to act in different situations.
+Once we begin to think about them, we notice rituals everywhere, and recognize the social – and moral – importance of learning the appropriate ways to act in different situations.
 
 Of course, not all rituals or shared cultural practices necessarily promote harmony or opportunities for moral development.
 
@@ -97,7 +97,7 @@ The extent to which Confucianism allows for the evolution of the rituals in whic
 
 <span class="big-letter">W</span>hat Confucius really wants us to understand is that rituals form a core part of what it means to be human: we cannot live fully-realized human lives without performance in ritual.
 
-Our approach to ritual, then, shouldn’t be rooted in a cold sense of obligation or a ‘going through the motions’: if we wish to develop morally, the attitude we bring to ritual performance — the amount of ourselves we give to it — is paramount.
+Our approach to ritual, then, shouldn’t be rooted in a cold sense of obligation or a ‘going through the motions’: if we wish to develop morally, the attitude we bring to ritual performance – the amount of ourselves we give to it – is paramount.
 
 In a 2004 essay in _Confucian Ethics_, the scholar Craig K. Ihara helpfully suggests we think of the rituals of everyday life as a ‘dance’ we perform with others.
 
@@ -109,7 +109,7 @@ At its best, ritual is thus a beautiful, graceful, coordinated interaction with 
 
 The quality or _aesthetic_ of our performance is a major part of the resulting _ethic_ it expresses, Confucians think: by performing rituals beautifully and full-heartedly, we demonstrate what it means to be an exemplary person.
 
-So, the next time you find yourself in a ritual situation — be it as a guest at a formal ceremony, or simply as a friend greeting another friend — remember Confucius: our approach to ritual encapsulates our approach to life.
+So, the next time you find yourself in a ritual situation – be it as a guest at a formal ceremony, or simply as a friend greeting another friend – remember Confucius: our approach to ritual encapsulates our approach to life.
 
 ## Learn more about Confucianism
 

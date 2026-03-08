@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 >It is the greatest happiness of the greatest number that is the measure of right and wrong.
 
-With this statement, Bentham — a self-proclaimed atheist, intent on providing a secular basis for ethics — suggests the foundation of morality doesn’t have to be some kind of divine authority, nor must it make any appeal to ‘virtue’ (whatever that may be). 
+With this statement, Bentham – a self-proclaimed atheist, intent on providing a secular basis for ethics – suggests the foundation of morality doesn’t have to be some kind of divine authority, nor must it make any appeal to ‘virtue’ (whatever that may be). 
 
 No: moral acts are simply those that have the highest positive impact on the world.
 
@@ -23,7 +23,7 @@ Writing four years later in his <a href="https://www.amazon.com/Introduction-Pri
 
 >Nature has placed mankind under the governance of two sovereign masters, _pain_ and _pleasure_. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne. They govern us in all we do, in all we say, in all we think: every effort we can make to throw off our subjection, will serve but to demonstrate and confirm it. In words a man may pretend to abjure their empire: but in reality he will remain subject to it all the while. The _principle of utility_ recognises this subjection, and assumes it for the foundation of that system, the object of which is to rear the fabric of felicity by the hands of reason and of law.
 
-In other words, all of human behavior is driven by pain and pleasure — that’s just natural, Bentham says (echoing the [philosophy of ancient Greek philosopher Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)). 
+In other words, all of human behavior is driven by pain and pleasure – that’s just natural, Bentham says (echoing the [philosophy of ancient Greek philosopher Epicurus](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)). 
 
 People might dress it up with words like ‘duty’ or ‘virtue’, but when you get right down to the fundamental _drivers_ of why we act the way we do, ultimately we all want more pleasure, and we all want less pain. Happiness for each of us is simply constituted by the aggregate balance of the former over the latter (for a counterargument to this position, see [Nozick’s Experience Machine](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)).
 
@@ -33,9 +33,9 @@ The strength of his utilitarianism, Bentham thinks, is that it _accepts_ this fa
 
 <span class="big-letter">B</span>entham’s philosophy was built on by the 19th-century thinkers John Stuart Mill and Henry Sidgwick, both of whom developed classical utilitarianism with further clarifications on how we might calculate the right thing to do.
 
-Sidgwick, for instance, emphasized the importance of _impartiality_ in our calculations — and this is where utilitarianism departs from Epicureanism. 
+Sidgwick, for instance, emphasized the importance of _impartiality_ in our calculations – and this is where utilitarianism departs from Epicureanism. 
 
-For, while Epicurus also wants us to weigh pain and pleasure and perform ‘hedonic calculus’, he advises us to do so from our _own_ perspectives — i.e. by asking ‘what acts will lead to the best long-term consequences for _my_ mental health?’ 
+For, while Epicurus also wants us to weigh pain and pleasure and perform ‘hedonic calculus’, he advises us to do so from our _own_ perspectives – i.e. by asking ‘what acts will lead to the best long-term consequences for _my_ mental health?’ 
 
 Utilitarians like Bentham and Sidgwick, by contrast, want us to be as objective as possible: we must dwell on what will lead to optimal happiness not from our own points of view, but, as Sidgwick puts it, 
 
@@ -49,7 +49,7 @@ Some of those branches, for instance, emphasize _preferences_ rather than _pleas
 
 Regardless of the differences in emphasis that can be found in the movement, the important takeaway is that utilitarianism is a philosophy that claims morality depends entirely on _outcomes._
 
-To work out the best path forward, utilitarians say, we must consider not which action we think is ‘inherently’ good or virtuous, but which action will produce the best _results_ — which will lead to more ‘good’ in the world (pleasure, happiness, preference-fulfillment) and less ‘bad’ (pain or suffering). 
+To work out the best path forward, utilitarians say, we must consider not which action we think is ‘inherently’ good or virtuous, but which action will produce the best _results_ – which will lead to more ‘good’ in the world (pleasure, happiness, preference-fulfillment) and less ‘bad’ (pain or suffering). 
 
 ## Consequentialism: morality is determined by consequences
 
@@ -57,11 +57,11 @@ To work out the best path forward, utilitarians say, we must consider not which 
 
 While we won’t get too hung up on meta-ethics here, it’s important to recognize that this way of thinking about morality is quite radically different to that put forward by many major philosophers.
 
-For instance, Aristotle, the Stoics, the Buddha, and Confucius (as I point out in my [How to Live a Good Life guide](/how-to-live-a-good-life/)) all to some extent advocate for a form of _virtue ethics_ — i.e. a good life is one that expresses particular virtues like wisdom, courage, kindness, patience, and so on. 
+For instance, Aristotle, the Stoics, the Buddha, and Confucius (as I point out in my [How to Live a Good Life guide](/how-to-live-a-good-life/)) all to some extent advocate for a form of _virtue ethics_ – i.e. a good life is one that expresses particular virtues like wisdom, courage, kindness, patience, and so on. 
 
-Beyond virtue ethics, another ethical system is _deontology_, which refers to duty- or rule-based ethics. Here morality is determined by adherence to certain rules or principles — think the Ten Commandments, Immanuel Kant’s categorical imperative, or the ‘golden rule’ (treat others as you wish to be treated). 
+Beyond virtue ethics, another ethical system is _deontology_, which refers to duty- or rule-based ethics. Here morality is determined by adherence to certain rules or principles – think the Ten Commandments, Immanuel Kant’s categorical imperative, or the ‘golden rule’ (treat others as you wish to be treated). 
 
-For deontology — as with virtue ethics — consequences are not relevant; the important moral content lies in behavior itself. 
+For deontology – as with virtue ethics – consequences are not relevant; the important moral content lies in behavior itself. 
 
 Consequentialists, by contrast, think rules and virtues play no role in morality: an act should be described as moral or virtuous _only_ if it leads to a good outcome overall, not because it expresses a particular quality or follows a certain rule. 
 
@@ -85,7 +85,7 @@ On the one hand, you have ‘the greatest happiness’, which is a principle tha
 
 On the other, you have ‘of the greatest number’, which is a principle that tells us to _distribute_ happiness as equally as possible. 
 
-Finding ways to simultaneously fulfill both principles is at best challenging — and at worst simply unrealistic.
+Finding ways to simultaneously fulfill both principles is at best challenging – and at worst simply unrealistic.
 
 Bentham might respond that his founding formulation of utilitarianism itself is not intended as a guide for moral action. He writes:
 
@@ -101,7 +101,7 @@ Even if we frame utilitarianism as a ‘criterion of what’s right’ rather th
 
 If utilitarianism cannot determine a consistent system for doing so, then as well as no practical use, surely it has no _theoretical_ use either.
 
-Bentham presented his own formula, which involves working out a consequent pleasure or pain’s “intensity”, “duration”, “certainty or uncertainty”, and its “propinquity or remoteness” — but he recognized the impracticality of performing such a calculation in lived experience. 
+Bentham presented his own formula, which involves working out a consequent pleasure or pain’s “intensity”, “duration”, “certainty or uncertainty”, and its “propinquity or remoteness” – but he recognized the impracticality of performing such a calculation in lived experience. 
 
 Instead, he again recommends it as a model of the _ideal_ calculation, suggesting that
 
@@ -113,7 +113,7 @@ Working out how one might accurately perform such hedonic calculus remains a hot
 
 - Do you think Bentham, in trying to establish a secular basis for morality, is on the right track with his utilitarianism? Do communal pain and pleasure provide a solid foundation for ethics?
 - Do you agree that acting morally means acting in such a way that brings about the maximum happiness for the highest number of people?
-- What do you make of utilitarianism’s consequentialism — i.e. that it is _outcomes_ that matter, and nothing else?
+- What do you make of utilitarianism’s consequentialism – i.e. that it is _outcomes_ that matter, and nothing else?
 - How do you think utilitarians can reconcile maximal demands with distributive demands?
 - Do you think performing impartial ‘hedonic calculus’ is a good guide to living well? Does hedonic calculus feature in your decision making, whether consciously or subconsciously? Or do you prefer a different approach to the good life?
 

@@ -29,7 +29,7 @@ The ruler risks nothing in punishing the powerless, so making an example of them
 
 Catherine’s observations have been echoed and anticipated by thinkers across time. Consider Plato in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3BONOyg">The Republic</a>, written around 375 BCE:
 
->Any ordinary city is in fact two cities, one the city of the poor, the other of the rich, each at war with the other; and in either division there are smaller ones — you would make a great mistake if you treated them as single states.
+>Any ordinary city is in fact two cities, one the city of the poor, the other of the rich, each at war with the other; and in either division there are smaller ones – you would make a great mistake if you treated them as single states.
 
 2,000 years after Plato, here’s George Eliot in her wonderful 1871 novel, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4j7zVfg">Middlemarch</a>:
 

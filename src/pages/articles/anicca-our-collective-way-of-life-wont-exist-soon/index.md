@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 I do not always hear the billions of footsteps that have preceded mine, because historical events can sometimes seem like they took place on an entirely different planet.
 
-Roman times, Medieval times, even Victorian times — all are historically-bounded realms that we can read about, cheerfully imagine ourselves in, and generally _escape_ to. 
+Roman times, Medieval times, even Victorian times – all are historically-bounded realms that we can read about, cheerfully imagine ourselves in, and generally _escape_ to. 
 
 Like tourists, we can safely holiday in them, and treat their major players, thinkers, and events like theme park rides.
 
@@ -25,32 +25,32 @@ They were actually _here,_ in the streets and in the fields.
 
 And as they went about their days, many of them probably felt like their way of life was _modern._ After all, they had their own ancients to escape to. They probably didn’t imagine their entire contemporary worldview, their entire civilization and culture, would one day be reduced to a paragraph in a history book.
 
-We don’t imagine that fate for ourselves, either — though our collective way of life today is just as impermanent as the ways of life that came before it, and will soon morph into something new.
+We don’t imagine that fate for ourselves, either – though our collective way of life today is just as impermanent as the ways of life that came before it, and will soon morph into something new.
 
 Civilization’s rate of change is generally too slow to consciously register, and it is only when we think in decades that the differences reveal themselves: the changes in law, technology, language, values, professions…
 
-For, while we may acknowledge impermanence on an intellectual level — nodding in sage moments of reflection that “nothing lasts” — we do not typically live with this truth at the forefront of our minds.
+For, while we may acknowledge impermanence on an intellectual level – nodding in sage moments of reflection that “nothing lasts” – we do not typically live with this truth at the forefront of our minds.
 
-And, according to Buddhist philosophy — founded over 2,500 years ago, in a time now passed — this is actually the source of much of our suffering. 
+And, according to Buddhist philosophy – founded over 2,500 years ago, in a time now passed – this is actually the source of much of our suffering. 
 
 The existential condition of _everything in our lives is transitory_, yet we form attachments to things as if
 they’ll last forever.
 
 We want things to be a certain way, and then suffer distress when they change, forgetting that change marks the very nature of existence. 
 
-If things in the world were permanent, then viewing those things through the lens of attachment — desiring this and not liking that — might be appropriate; but in a reality where existence is marked by change, all we do through blindly forming attachments is set ourselves up for suffering. 
+If things in the world were permanent, then viewing those things through the lens of attachment – desiring this and not liking that – might be appropriate; but in a reality where existence is marked by change, all we do through blindly forming attachments is set ourselves up for suffering. 
 
 We must work on not just acknowledging but _internalizing_ this truth of reality, argues the Buddha: nothing lasts (captured by the Pali word, _anicca,_ literally: there is no permanence). 
 
 Time is ever marching on.
 
-While we ought to appreciate what we have, we should not expect it to last forever: we must love — and let go — with our eyes wide open.
+While we ought to appreciate what we have, we should not expect it to last forever: we must love – and let go – with our eyes wide open.
 
 The way we live our lives today will not be the way we live our lives tomorrow. Ultimately, our hurried footsteps will join the echoes of the billions preceding them, unheard by future generations, who will live in a different world.
 
 We could feel slightly wistful about this, or we could just recognize it for the fact that it is.
 
-We wouldn’t expect a flower to live forever — and in fact, as the [Japanese idiom _mono no aware_](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/) suggests, its beauty in full-bloom is only magnified by its artful impermanence. 
+We wouldn’t expect a flower to live forever – and in fact, as the [Japanese idiom _mono no aware_](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/) suggests, its beauty in full-bloom is only magnified by its artful impermanence. 
 
 As the Buddha fittingly advises, in what are reported to be his last ever words:
 

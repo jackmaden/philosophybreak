@@ -27,7 +27,7 @@ The story describes an exchange between the Buddha and a monk named Malunkyaputt
 
 Malunkyaputta demands answers to these questions, and threatens to quit Buddhist practice if he doesn’t receive them. The Buddha responds to Malunkyaputta thus:
 
->Suppose, Malunkyaputta, a man were wounded by an arrow thickly smeared with poison and his friends and family brought a surgeon to treat him. The man would say: ‘I will not let the surgeon pull out this arrow that wounded me until I know if the man who wounded me was tall, short, or middle height, dark or brown or golden-skinned, whether the man lived in a village or town or city… until I know whether the bow that wounded me was a long bow or a crossbow, whether the bowstring was made of fiber, reed, sinew, hemp or bark… until I know with what kind of feathers the shaft that wounded me was fitted — whether those of a vulture, a heron, a stork, a hawk, or a peacock…’
+>Suppose, Malunkyaputta, a man were wounded by an arrow thickly smeared with poison and his friends and family brought a surgeon to treat him. The man would say: ‘I will not let the surgeon pull out this arrow that wounded me until I know if the man who wounded me was tall, short, or middle height, dark or brown or golden-skinned, whether the man lived in a village or town or city… until I know whether the bow that wounded me was a long bow or a crossbow, whether the bowstring was made of fiber, reed, sinew, hemp or bark… until I know with what kind of feathers the shaft that wounded me was fitted – whether those of a vulture, a heron, a stork, a hawk, or a peacock…’
 
 The Buddha goes on in this manner, before concluding that the wounded man in the parable would die of poisoning long before he received any answers to such questions. “So, too, Malunkyaputta,” he continues: 
 
@@ -37,7 +37,7 @@ The parable of the poisoned arrow makes clear that the Buddha’s highest priori
 
 Rather than speculate on doctrinal matters, the Buddha wants to play the role of a doctor: he wants to provide practical solutions to real human problems. 
 
-If we are experiencing pain or dissatisfaction in our day-to-day lives, what could be more important than working to fix whatever’s causing it? Buddhist monks advise us to consider the truths of Buddhism as if our hair is on fire — such is the urgency of our task. 
+If we are experiencing pain or dissatisfaction in our day-to-day lives, what could be more important than working to fix whatever’s causing it? Buddhist monks advise us to consider the truths of Buddhism as if our hair is on fire – such is the urgency of our task. 
 
 Buddhist philosophy is thus concerned with extinguishing that background buzz of dissatisfaction many of us carry. 
 
@@ -49,13 +49,13 @@ _‘What are you waiting for?’_ it demands: pull out the poisoned arrow, put o
 
 Another interpretation, however, is that the Buddha does not provide answers to such questions because, unless you yourself are enlightened, _the answers will have no meaning._ 
 
-Attempting to communicate whether the cosmos is infinite, what happens after death, and so on with mere _words_ is futile — especially for people still caught up in the suffering of day-to-day existence.
+Attempting to communicate whether the cosmos is infinite, what happens after death, and so on with mere _words_ is futile – especially for people still caught up in the suffering of day-to-day existence.
 
 Only if you achieve enlightenment and directly experience the true nature of reality yourself will you move closer to answering the more esoteric questions of existence. 
 
 Or, perhaps, you may find that such questions no longer matter.
 
-Either way, the quickest way to attain such insight is to follow the Buddha’s teaching. Thus the Buddha’s impatience with Malunkyaputta — stop dragging your heels on clever-sounding but ineffable questions, and focus on the hard work of achieving enlightenment yourself.
+Either way, the quickest way to attain such insight is to follow the Buddha’s teaching. Thus the Buddha’s impatience with Malunkyaputta – stop dragging your heels on clever-sounding but ineffable questions, and focus on the hard work of achieving enlightenment yourself.
 
 As the late Buddhist monk Thich Nhat Hanh put it while commenting on the parable of the poisoned arrow in his 1971 book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Zen-Keys-Guide-Practice/dp/0385475616?&linkCode=ll1&tag=philosophybre-20&linkId=12f145eef9827cbdb6ad1b574cf6509b&language=en_US&ref_=as_li_ss_tl">Zen Keys: A Guide to Zen Practice</a>:
 
@@ -88,11 +88,11 @@ One of our most prominent and damaging misconceptions about reality is our confu
 
 The Buddha further packages his path to ending suffering with his [Four Noble Truths](/articles/the-buddha-four-noble-truths-the-cure-for-suffering/) and Eightfold Path, which we’ll discuss in upcoming articles.
 
-In the meantime — what do you make of the Buddha’s laser focus on suffering? Should eradicating pain and suffering be philosophy’s primary target? Or can metaphysical speculation be useful?
+In the meantime – what do you make of the Buddha’s laser focus on suffering? Should eradicating pain and suffering be philosophy’s primary target? Or can metaphysical speculation be useful?
 
 ## Learn more about Buddhist philosophy
 
-<span class="big-letter">I</span>f you’d like to learn more about Buddhist philosophy — especially how the Buddha recommends we actually go about _fixing_ suffering — we’ve assembled a list of the [best introductory books on Buddhism here](/reading-lists/buddhist-philosophy/). 
+<span class="big-letter">I</span>f you’d like to learn more about Buddhist philosophy – especially how the Buddha recommends we actually go about _fixing_ suffering – we’ve assembled a list of the [best introductory books on Buddhism here](/reading-lists/buddhist-philosophy/). 
 
 You may also be interested in our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Buddhism to six rival philosophies for life.
 

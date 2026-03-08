@@ -25,11 +25,11 @@ Unlike death, which could come at any point, Beauvoir suggests that “age is re
 
 In fact, given death is synonymous with nothingness, it actually poses less of a threat to our identity than old age does:
 
->This nothingness can bring about a metaphysical vertigo, but in a way it is comforting — it raises no problems. ‘I shall no longer exist.’ In a disappearance of this kind I retain my identity. Thinking of myself as an old person when I am twenty or forty means thinking of myself as someone else, as _another_ than myself.
+>This nothingness can bring about a metaphysical vertigo, but in a way it is comforting – it raises no problems. ‘I shall no longer exist.’ In a disappearance of this kind I retain my identity. Thinking of myself as an old person when I am twenty or forty means thinking of myself as someone else, as _another_ than myself.
 
 Old age thus “looms ahead like a calamity”: it is age that is contrasted with life, not death; age that is treated as life’s parody.
 
-From the perspective of society, the very old attain either the serenity of wizened sages — to be revered as a transcendent spirit between life and death — or, far more typically, they are consigned to the status of doddering old fools. Either way, they stand apart from humanity: they are Othered.
+From the perspective of society, the very old attain either the serenity of wizened sages – to be revered as a transcendent spirit between life and death – or, far more typically, they are consigned to the status of doddering old fools. Either way, they stand apart from humanity: they are Othered.
 
 Beauvoir offers this analysis in her 1970 work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Kw5iDa">The Coming of Age</a>. She studies the oppression of the elderly with the same unflinching rigor with which she evaluates the situation of women in her more famous 1949 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4mtIEJ4">The Second Sex</a>. 
 
@@ -47,7 +47,7 @@ We live in tension between facticity and freedom, and to resolve this tension we
 
 Denying the onset of aging is a facticity-denying form of bad faith. By treating the elderly as a foreign species, by pushing away ‘old age’ as something that only ever happens to others, the not-yet-old slip into an absurd kind of deception and inauthenticity towards their own lives. 
 
-This kind of bad faith can survive for decades — until one day the world forces us to confront it. Maybe it’s a fall, maybe it’s an illness, maybe it’s simply being greeted in the mirror by a wrinkled face.
+This kind of bad faith can survive for decades – until one day the world forces us to confront it. Maybe it’s a fall, maybe it’s an illness, maybe it’s simply being greeted in the mirror by a wrinkled face.
 
 Beauvoir recalls her own shock at how the universal passing of time had been unexpectedly sweeping her along, too:
 
@@ -79,7 +79,7 @@ But then retirement comes with the rude insinuation that it was all for nothing.
 
 >\[A]ll at once a man discovers that he is no longer going anywhere, that his path leads him only to the grave. He has climbed to a peak; and from a peak there can be a fall. ‘Life is a long preparation for something that never happens,’ said Yeats. There comes a moment when one knows that one is no longer getting ready for anything and one understands that the idea of advancing towards a goal was a delusion. Our personal history had assumed that it possessed an end, and now it finds, beyond any sort of doubt, that this finality has been taken from it.
 
-While this realization is often disturbing — even devastating — Beauvoir thinks in the right conditions it can also be a catalyst for longer-term authenticity and joy. Old age has a number of significantly unsung positives.
+While this realization is often disturbing – even devastating – Beauvoir thinks in the right conditions it can also be a catalyst for longer-term authenticity and joy. Old age has a number of significantly unsung positives.
 
 Indeed, even with the backdrop of Othering and ageism, some nevertheless experience retirement as a great liberation. No longer do they have to behave in ways for the sake of climbing a career ladder, improving their reputation with a certain group, or adding more money to their pension pot:
 	
@@ -93,7 +93,7 @@ In other words: cultivating the qualities that make us _human._
 
 “There is only one solution if old age is not to be an absurd parody of our former life,” Beauvoir thus writes, 
 
->and that is to go on pursuing ends that give our existence a meaning — devotion to individuals, to groups or to causes, social, political, intellectual or creative work.
+>and that is to go on pursuing ends that give our existence a meaning – devotion to individuals, to groups or to causes, social, political, intellectual or creative work.
 
 Preparing for retirement, then, is not just a case of ensuring we have enough money, a place to live, and a few hobbies to entertain us. We also need to have a sense of the commitments, pursuits, and projects that will sustain us to the very end of our lives. 
 

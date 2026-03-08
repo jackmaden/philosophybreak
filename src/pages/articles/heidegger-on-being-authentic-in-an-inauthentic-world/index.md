@@ -33,7 +33,7 @@ Wresting ourselves from “everydayness” and the “They” is not easy, but o
 
 Such moments break a link in the chain of shared cultural meanings and values, and we ‘notice’ this chain as if for the first time.
 
-Though such moments aren’t necessarily enjoyable — it might be losing a job, experiencing the end of a relationship, or even reaching a certain age — they signal opportunities to stop and evaluate our situation, consider the networks of meaning we are part of, and liberate ourselves from any patterns of inauthenticity. 
+Though such moments aren’t necessarily enjoyable – it might be losing a job, experiencing the end of a relationship, or even reaching a certain age – they signal opportunities to stop and evaluate our situation, consider the networks of meaning we are part of, and liberate ourselves from any patterns of inauthenticity. 
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -54,13 +54,13 @@ Though such moments aren’t necessarily enjoyable — it might be losing a job,
 
 For Heidegger, then, authenticity requires “anticipation” of the breakdowns or emergencies or crises of life, which grant us opportunities to cultivate…
 
->an impassioned freedom towards death — a freedom which has been released from the illusions of the ‘They’.
+>an impassioned freedom towards death – a freedom which has been released from the illusions of the ‘They’.
 
-In moments of clarity — like when we truly face up to our own mortality — we take stock, create space to forge the most authentic path forward, and free ourselves from anonymous conformity. 
+In moments of clarity – like when we truly face up to our own mortality – we take stock, create space to forge the most authentic path forward, and free ourselves from anonymous conformity. 
 
 ## What does being authentic really mean?
 
-<span class="big-letter">W</span>hile we translate it as ‘authenticity’, the word Heidegger offers in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593?&linkCode=ll1&tag=philosophybre-20&linkId=93371f27f7f4d2c1719338fb4c3f1adb&language=en_US&ref_=as_li_ss_tl">Being and Time</a> is _Eigentlichkeit_, a neologism based on the ordinary term _eigentlich_, the stem of which — _eigen_ — means ‘own’ or ‘proper’. So, a more literal translation of Heidegger’s neologism might be ‘ownedness’ or ‘being owned’. 
+<span class="big-letter">W</span>hile we translate it as ‘authenticity’, the word Heidegger offers in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Being-Harper-Perennial-Modern-Thought/dp/0061575593?&linkCode=ll1&tag=philosophybre-20&linkId=93371f27f7f4d2c1719338fb4c3f1adb&language=en_US&ref_=as_li_ss_tl">Being and Time</a> is _Eigentlichkeit_, a neologism based on the ordinary term _eigentlich_, the stem of which – _eigen_ – means ‘own’ or ‘proper’. So, a more literal translation of Heidegger’s neologism might be ‘ownedness’ or ‘being owned’. 
 
 This perhaps grants more insight into what Heidegger actually means by authenticity.
 
@@ -72,9 +72,9 @@ Not absent-mindedly conforming or ‘falling’ through life via the path of lea
 
 For Heidegger, then, being authentic doesn’t necessarily mean showing off our most unrepressed selves: it’s not simply a case of being selfish or uncompromising.
 
-Rather, it means forging our path through life according to values that we perpetually dissect and affirm — cultivating a sense of _steadfastness_, _integrity_, and _ongoing responsibility_, of intentionally _owning_ what we do.
+Rather, it means forging our path through life according to values that we perpetually dissect and affirm – cultivating a sense of _steadfastness_, _integrity_, and _ongoing responsibility_, of intentionally _owning_ what we do.
 
-Of course, the great irony that perhaps overshadows Heidegger's work on authenticity is his affiliation with the Nazi party in 1930s Germany — he was drawn into the dominant “They” of the time. While he later described his affiliation as the greatest stupidity of his life, he never apologized, leaving a permanent stain on his philosophical life and career.
+Of course, the great irony that perhaps overshadows Heidegger's work on authenticity is his affiliation with the Nazi party in 1930s Germany – he was drawn into the dominant “They” of the time. While he later described his affiliation as the greatest stupidity of his life, he never apologized, leaving a permanent stain on his philosophical life and career.
 
 ## What do you make of Heidegger’s analysis?
 

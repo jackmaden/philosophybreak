@@ -43,9 +43,9 @@ But Cholbi thinks none of these framings is quite right: love, intimacy, and wel
 
 Cholbi thus thinks a better framing here is that we grieve for those in whom our _practical identities have been invested._
 
-Our practical identities consist of our conceptions of the past and future, as well as our values, commitments, and concerns — and these are always intimately bound up with other people. As Cholbi puts it:
+Our practical identities consist of our conceptions of the past and future, as well as our values, commitments, and concerns – and these are always intimately bound up with other people. As Cholbi puts it:
 
->We grieve a person’s death — and it is appropriate that we grieve a person’s death — to the extent that our practical identities are invested in their existence. The more central another person is to our practical identity, the greater cause we have for grieving them upon their deaths.
+>We grieve a person’s death – and it is appropriate that we grieve a person’s death – to the extent that our practical identities are invested in their existence. The more central another person is to our practical identity, the greater cause we have for grieving them upon their deaths.
 
 This explains why we can grieve for people we’ve never met, but whose lives are nevertheless important to our sense of self: their passing forces us to reckon with who we’ve been and who we’ll now be.
 
@@ -61,7 +61,7 @@ So, what kind of process is it? If grief is different for everyone, what’s its
 
 <span class="big-letter">L</span>et us return to the paradigmatic example of grief: the death of someone close to us. Cholbi thinks such grief consists of sustained, questioning attention not to the loss of the deceased but to the _transformation of our relationship_ with the deceased.
 
-It is this transformation — this relationship crisis — that triggers an identity crisis. The relationship cannot continue in the same way: there is now an unprecedented one-sidedness — one that reveals itself, Cholbi observes, in many jarring ways:
+It is this transformation – this relationship crisis – that triggers an identity crisis. The relationship cannot continue in the same way: there is now an unprecedented one-sidedness – one that reveals itself, Cholbi observes, in many jarring ways:
 
 >Conversations, rituals, and activities involving the deceased no longer occur. Some conflicts between the bereaved and the deceased can no longer be brought to light or adjudicated. Other conflicts are such that death seems to bring them out into the open. We no longer harbor hopes for what the deceased might do or become. The bereaved can forgive the deceased, but not vice versa. We cannot plan with or around the deceased as we once did…
 
@@ -107,7 +107,7 @@ In <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/
 
 The value of grief, then, is that it fosters a self-knowledge vital to our attempt to live well in an unavoidably impermanent world. [Nietzsche’s view on suffering](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/) is pertinent here: “I doubt that such pain makes us ‘better’,” he observes; “but I know that it makes us more profound.”
 
-Though it is unbearably painful, we owe it to ourselves to grieve the losses we will inevitably experience — for this agonizing process, Cholbi concludes, is one of our richest, starkest paths to self-understanding:
+Though it is unbearably painful, we owe it to ourselves to grieve the losses we will inevitably experience – for this agonizing process, Cholbi concludes, is one of our richest, starkest paths to self-understanding:
 
 >If the rich self-knowledge grief affords us—the knowledge of the values, commitments, and concerns that make up our practical identities—was easy to attain, then grief would itself be of much less value. But because we are not transparent to ourselves, we need grief to bring that self-knowledge within closer reach… Grief, I have emphasized, cannot be avoided. We can grieve smarter, but ultimately, we cannot outsmart grief. Nor should we wish to.
 

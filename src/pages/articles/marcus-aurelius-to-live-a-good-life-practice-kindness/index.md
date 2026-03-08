@@ -19,11 +19,11 @@ We must not let the poor judgment of others impact “the purity, lucidity, mode
 
 If someone treats you unjustly, do not let that injustice muddy the waters of your mind, Marcus implores; rather, wash it out with kindness.
 
-This doesn’t mean rolling over if people mistreat you — rather, it simply means not stooping to their level. Not seeking revenge, not being blinded by what they have done, but remaining just and true in your thoughts and actions. 
+This doesn’t mean rolling over if people mistreat you – rather, it simply means not stooping to their level. Not seeking revenge, not being blinded by what they have done, but remaining just and true in your thoughts and actions. 
 
 For kindness is not weakness; in fact, it reveals strength of character. Choosing kindness is wholly within your power, Marcus claims, and there’s no better time to start doing so than now:
 
->Try living the life of a good person and see how it too suits you — a person who’s gratified by the lot he’s been assigned by the universe and satisfied with the justice of his acts and the kindness of his character.
+>Try living the life of a good person and see how it too suits you – a person who’s gratified by the lot he’s been assigned by the universe and satisfied with the justice of his acts and the kindness of his character.
 
 Living a good life may not be easy, but it _is_ simple, Marcus thus suggests: keep a steady stream of kindness at the forefront of your thoughts and actions, and the good life will be yours. He concludes:
 

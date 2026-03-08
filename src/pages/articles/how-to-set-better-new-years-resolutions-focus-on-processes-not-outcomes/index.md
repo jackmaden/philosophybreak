@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">A</span>nd so 2025 begins. Happy New Year, philosophers — I wish you all the best for the year ahead. Regardless of whether you’re into making specific resolutions, the beginning of January is a time of reflection, planning, and dreaming for many.
+<span class="big-letter">A</span>nd so 2025 begins. Happy New Year, philosophers – I wish you all the best for the year ahead. Regardless of whether you’re into making specific resolutions, the beginning of January is a time of reflection, planning, and dreaming for many.
 
 Remaining totally unmoved by the seductive New Year promises of rebirth, growth, and possibility is surely a challenge for even the most hardened of cynics... another spring awaits!
 
@@ -27,7 +27,7 @@ In an [interview I conducted with Setiya a year or so ago](/articles/life-is-har
 
 “We tend to be, I think, a little bit too obsessed with project-like structures in our lives,” Setiya remarks:
 
->When you’re focusing on a project, you’re aiming at something in the future, and then as soon as you achieve it, it’s over. What you’re doing is taking this thing that’s structuring your life and attempting to finish it — and thereby getting rid of the source of meaning in your life. The more you focus on things like that, the more you risk setting yourself up for evaluating your life in terms of success and failure. But it’s important to remember that not all activities are like that.
+>When you’re focusing on a project, you’re aiming at something in the future, and then as soon as you achieve it, it’s over. What you’re doing is taking this thing that’s structuring your life and attempting to finish it – and thereby getting rid of the source of meaning in your life. The more you focus on things like that, the more you risk setting yourself up for evaluating your life in terms of success and failure. But it’s important to remember that not all activities are like that.
 
 Setiya draws a distinction between _telic_ activities and _atelic_ activities, terms which originate from the Greek word _telos_, meaning ultimate object or aim:
 
@@ -35,7 +35,7 @@ Setiya draws a distinction between _telic_ activities and _atelic_ activities, t
 
 Many New Year’s resolutions tend to be _telic_ in structure: they aim at a desired future state. Setiya reminds us, however, that it is _atelic_ activities that actually fill our days:
 
->The more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
+>The more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis – like walking, eating, interacting with our loved ones – the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -72,7 +72,7 @@ When setting resolutions, then, we should ask ourselves not just who we want to 
 
 >To some extent you can reframe this in terms of thinking about processes as primary and projects as secondary: that we engage in certain kinds of projects in order to be engaged in certain valuable processes.
 
-In other words, we identify the activity first, and _then_ build a project around it — for the _activity itself_ holds value, not just whether we achieve some kind of result from it.
+In other words, we identify the activity first, and _then_ build a project around it – for the _activity itself_ holds value, not just whether we achieve some kind of result from it.
 
 What kind of activities do you enjoy? Walking? Reading? Learning? Debating? Cooking? Drawing? Painting? Interacting with loved ones? Playing an instrument? Dancing? Being a good friend? Hiking? Gardening? Playing a sport?
 

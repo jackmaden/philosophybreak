@@ -44,7 +44,7 @@ Life is such a miracle – just look at a bird’s nest. We have a brain and ten
 
 ## Linda (USA): The moon returns...
 
-<span class="big-letter">Y</span>esterday I opened my curtains and out there in the clear, early morning sky was the sliver of a waning crescent moon, hanging there, just as we picture a moon in storybooks. I thought about it on and off all day — and now, still, today.​
+<span class="big-letter">Y</span>esterday I opened my curtains and out there in the clear, early morning sky was the sliver of a waning crescent moon, hanging there, just as we picture a moon in storybooks. I thought about it on and off all day – and now, still, today.​
 
 ## Gözde (Turkey): The sky transitions...
 

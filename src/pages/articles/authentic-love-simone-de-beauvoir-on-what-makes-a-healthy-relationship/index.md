@@ -21,7 +21,7 @@ Before we can dive deeper into Beauvoir’s views here, however, we need to brie
 
 ## The importance of freedom in Beauvoir’s philosophy
 
-<span class="big-letter">T</span>hroughout her rich body of work (see my list of [Beauvoir’s best books here](/reading-lists/simone-de-beauvoir-best-books/)), perhaps the key ethical principle upheld by Beauvoir is that it is wrong to interfere with or tyrannize the freedom of others — specifically, the _free choices_ of others.
+<span class="big-letter">T</span>hroughout her rich body of work (see my list of [Beauvoir’s best books here](/reading-lists/simone-de-beauvoir-best-books/)), perhaps the key ethical principle upheld by Beauvoir is that it is wrong to interfere with or tyrannize the freedom of others – specifically, the _free choices_ of others.
 
 Why? Well, as an existentialist, Beauvoir broadly subscribes to the view that [existence precedes essence](/articles/existence-precedes-essence-what-sartre-really-meant/): that we are not born with a fixed ‘essence’, but that we create and recreate ourselves as we move through time.
 
@@ -49,7 +49,7 @@ A narcissistic relationship is characterized by self-interest, Beauvoir writes i
 
 In other words, the narcissistic person loves themselves, and values the other person simply for the love they _also_ have for the narcissist.
 
-On the other side of this coin is the love of devotion, a love of ‘self-abnegation’ in which the devoted person sacrifices everything — their projects, goals, opinions — for the other.
+On the other side of this coin is the love of devotion, a love of ‘self-abnegation’ in which the devoted person sacrifices everything – their projects, goals, opinions – for the other.
 
 Both narcissistic and devotional relationships are problematic, Beauvoir thinks, because they undermine the freedom of those involved. 
 
@@ -57,7 +57,7 @@ The narcissist cares only for their own freedom, and thus denies the other’s; 
 
 By deferring absolutely everything to the other, the devoted person relinquishes control over their own freedom, and thus slips into [what existentialists call ‘bad faith’](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/).
 
-Bad faith means limiting your own freedom — be it consciously or subconsciously ​​— by living according to the opinions of others. Rather than authentically create yourself through free choice, you outsource your decision-making to convention, society, the other...
+Bad faith means limiting your own freedom – be it consciously or subconsciously ​​– by living according to the opinions of others. Rather than authentically create yourself through free choice, you outsource your decision-making to convention, society, the other...
 
 A love of absolute devotion is a particularly subtle form of bad faith, Beauvoir thinks, for it is often dressed up as ‘selflessness’ or ‘duty’.
 
@@ -80,7 +80,7 @@ A love of absolute devotion is a particularly subtle form of bad faith, Beauvoir
 
 ## A woman’s duty
 
-<span class="big-letter">L</span>iving in ‘bad faith’ is not all our own doing: we grow up with cultural narratives that serve to ‘mystify’ us about our own freedom and existential potential, Beauvoir claims — narratives that might even encourage us to think it’s ‘natural’ to play a certain role.
+<span class="big-letter">L</span>iving in ‘bad faith’ is not all our own doing: we grow up with cultural narratives that serve to ‘mystify’ us about our own freedom and existential potential, Beauvoir claims – narratives that might even encourage us to think it’s ‘natural’ to play a certain role.
 
 Writing in the 1940s and 50s, Beauvoir argues that women in particular are subject to such mystification about their own freedom. In her 1949 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Second-Sex-Simone-Beauvoir/dp/030727778X?&linkCode=ll1&tag=philosophybre-20&linkId=c673190abab20483bb6533cfd0317614&language=en_US&ref_=as_li_ss_tl">The Second Sex</a>, she writes:
 
@@ -88,15 +88,15 @@ Writing in the 1940s and 50s, Beauvoir argues that women in particular are subje
 
 The cultural ideal for women, Beauvoir goes on to observe, is to cultivate marriages of _devotion_ and _self-sacrifice_, whereby their individuality is subsumed in favor of fixed, predefined, ‘feminine’ roles like ‘wife’ and ‘mother’. 
 
-But this kind of default blueprint for women — i.e. to become creatures of devotion — is a recipe for creating relationships that foster inauthenticity, resentment, and bad faith, Beauvoir thinks. In a 1950 essay, she asks: 
+But this kind of default blueprint for women – i.e. to become creatures of devotion – is a recipe for creating relationships that foster inauthenticity, resentment, and bad faith, Beauvoir thinks. In a 1950 essay, she asks: 
 
->Is it not possible to conceive a new kind of love in which both partners are equals — one not seeking submission to the other?
+>Is it not possible to conceive a new kind of love in which both partners are equals – one not seeking submission to the other?
 
 Such relationships, she writes in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Second-Sex-Simone-Beauvoir/dp/030727778X?&linkCode=ll1&tag=philosophybre-20&linkId=c673190abab20483bb6533cfd0317614&language=en_US&ref_=as_li_ss_tl">The Second Sex</a>, would form a middle ground between devotion and self-interest: they’d be 
 
 >founded on the mutual recognition of two liberties… \[where] neither would give up transcendence \[and] neither would be mutilated.
 
-Meeting as equals — as unique individuals with their own potential for becoming, self-making, and flourishing — neither party subordinates the other nor allows themselves to be subordinated.
+Meeting as equals – as unique individuals with their own potential for becoming, self-making, and flourishing – neither party subordinates the other nor allows themselves to be subordinated.
 
 ## Towards an authentic love
 
@@ -106,7 +106,7 @@ When it comes to forming healthy, life-enhancing relationships, then, expecting 
 
 To really improve our lives with love, we must approach our connections with others as we approach life: authentically, without slipping into roleplaying or bad faith. 
 
-Not seeking to control one another, not seeking to sacrifice ourselves for one another; but striving to bring out the best in each other — to help each other fulfill our existential potential and freely become who we are.
+Not seeking to control one another, not seeking to sacrifice ourselves for one another; but striving to bring out the best in each other – to help each other fulfill our existential potential and freely become who we are.
 
 ## What do you make of Beauvoir’s analysis?
 

@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">W</span>hat would the best version of ‘you’ be like? And what do you need to do in order to become that version? Furthermore, what does ‘best’ actually mean? By what standards are you judging yourself? Does the best version of you mean the fastest, strongest, kindest, funniest, most intelligent, most artistic, most compassionate, most disciplined version? Or, out of all the possible values you could embody, are some more important or ‘better’ than others?  
 
-It is normative questions such as these that the brilliant 19th-century philosopher [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) investigated throughout his work, particularly with his character of the Übermensch — meaning ‘superman’, ‘overman’, or ‘beyond-man’.
+It is normative questions such as these that the brilliant 19th-century philosopher [Friedrich Nietzsche](/reading-lists/friedrich-nietzsche/) investigated throughout his work, particularly with his character of the Übermensch – meaning ‘superman’, ‘overman’, or ‘beyond-man’.
 
 ## What is the Übermensch?
 
@@ -21,7 +21,7 @@ It is normative questions such as these that the brilliant 19th-century philosop
 
 For Nietzsche, the Übermensch is a being who is able to completely _affirm_ life: someone who says ‘yes’ to everything that comes their way; a being who is able to be their _own_ determiner of value; sculpt their characteristics and circumstances into a beautiful, empowered, ecstatic whole; and fulfill their ultimate potential to _become who they truly are_. 
 
-To fully appreciate the significance of the Übermensch in Nietzsche’s philosophy, we must first understand the context of his thinking — for, writing at the end of the 19th century, Nietzsche repeatedly warns us that modernity is in crisis. 
+To fully appreciate the significance of the Übermensch in Nietzsche’s philosophy, we must first understand the context of his thinking – for, writing at the end of the 19th century, Nietzsche repeatedly warns us that modernity is in crisis. 
 
 ## God is dead
 
@@ -33,7 +33,7 @@ Nietzsche thought these were the wrong reactions.
 
 While Nietzsche is no fan of Christianity, he recognizes that the removal of its values is dangerous. Christianity, flawed though it is, at least provides some structure and meaning to people’s lives. It offers not just a set of values but a coping mechanism for suffering. 
 
-Erode Christian values — erode the coping mechanism — and how will people bear existence? As [Kierkegaard also questions when discussing purpose in life](/articles/kierkegaard-on-finding-the-meaning-of-life/), how will humanity stand the yawning abyss of meaninglessness? How will they deal with the inevitable pain and suffering that all humans, living imperfect mortal lives, must face?
+Erode Christian values – erode the coping mechanism – and how will people bear existence? As [Kierkegaard also questions when discussing purpose in life](/articles/kierkegaard-on-finding-the-meaning-of-life/), how will humanity stand the yawning abyss of meaninglessness? How will they deal with the inevitable pain and suffering that all humans, living imperfect mortal lives, must face?
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -80,15 +80,15 @@ Nietzsche thinks we must thus discard notions of ‘sin’ and asceticism and re
 
 Nietzsche’s Übermensch, by contrast, _does_ ask such questions. And, in his 1882 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0394719859/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0394719859&linkId=56f8e2d8aef7bc2ab60d5aed696e0fdf">The Gay Science</a>, Nietzsche provides an early sketch of how such questions might be answered:
 
->To ‘give style’ to one’s character — a great and rare art! It is practiced by those who survey all the strengths and weaknesses that their nature has to offer and then fit them into an artistic plan until each appears as art and reason and even weaknesses delight the eye. 
+>To ‘give style’ to one’s character – a great and rare art! It is practiced by those who survey all the strengths and weaknesses that their nature has to offer and then fit them into an artistic plan until each appears as art and reason and even weaknesses delight the eye. 
 
 Assess the strengths and weaknesses of your character. Weaknesses need not be hidden or repressed, Nietzsche advises: they are part of _you_, and can appear beautiful if molded according to a particular ‘artistic plan’. He continues: 
 
->Here a great mass of second nature has been added; there a piece of first nature removed — both times through long practice and daily work at it. Here the ugly that could not be removed is concealed; there it is reinterpreted into sublimity. Much that is vague and resisted shaping has been saved and employed for distant views—it is supposed to beckon towards the remote and immense.
+>Here a great mass of second nature has been added; there a piece of first nature removed – both times through long practice and daily work at it. Here the ugly that could not be removed is concealed; there it is reinterpreted into sublimity. Much that is vague and resisted shaping has been saved and employed for distant views—it is supposed to beckon towards the remote and immense.
 
-With work, we can shape ourselves into something beautiful — where even the ugly, undesirable, unchangeable parts of ourselves can be used to lend intrigue, mystique, _depth_. 
+With work, we can shape ourselves into something beautiful – where even the ugly, undesirable, unchangeable parts of ourselves can be used to lend intrigue, mystique, _depth_. 
 
-The target of self-discipline, then, should not be self-castigation or self-loathing or repression — as Nietzsche thinks it often is with ascetic religious traditions — but rather self-stylization and _mastery_. 
+The target of self-discipline, then, should not be self-castigation or self-loathing or repression – as Nietzsche thinks it often is with ascetic religious traditions – but rather self-stylization and _mastery_. 
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -127,7 +127,7 @@ Rather than look externally, the Übermensch is his _own_ determiner of value. H
 <h4>Your Myth-Busting Guide to Nietzsche & His 5 Greatest Ideas</h4><p class="small-grey-font">From God is dead to the Übermensch, learn everything you need to know about Friedrich Nietzsche with our concise online guide.</p><a class="button primary" href="/introduction-to-nietzsche/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>Get Instant Access</a><p class="tiny-mar-top no-mar-bottom review-font"><span style="color: #ffc536">&#9733;&#9733;&#9733;&#9733;&#9733;</span> (100+ reviews for our courses)</p>
 </div>
 
-So, though some popular interpretations of Nietzsche’s concept of the Übermensch say it hints at some sort of superior human _race_ — as the Nazis, for instance, tragically had it — it is more about _self_-overcoming, rather than necessarily overcoming other people. As the philosopher Jacob Golomb puts it in his 2013 essay, _Will to Power_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>): 
+So, though some popular interpretations of Nietzsche’s concept of the Übermensch say it hints at some sort of superior human _race_ – as the Nazis, for instance, tragically had it – it is more about _self_-overcoming, rather than necessarily overcoming other people. As the philosopher Jacob Golomb puts it in his 2013 essay, _Will to Power_ (which features in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Oxford-Handbook-Nietzsche-Handbooks/dp/019877673X?crid=2E7HX4I01D34E&keywords=the+oxford+handbook+of+nietzsche&qid=1656080884&sprefix=the+oxford+handbook+of+nietzsch%2Caps%2C199&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=a9a7719e1842c33076ee84bbf34bcd22&language=en_US&ref_=as_li_ss_tl">The Oxford Handbook of Nietzsche</a>): 
 
 >Nietzsche’s Übermensch is one who has used this power to sublimate his naturally conflicting drives into a unified and authentic whole; he is one who has overcome his own ‘human, all too human’ nature; rather than one who tries to literally overcome other humans, as the most facile interpretations would have it.
 
@@ -135,7 +135,7 @@ So, though some popular interpretations of Nietzsche’s concept of the Übermen
 
 <span class="big-letter">N</span>ietzsche sees the Übermensch as a potential endpoint for humanity. However, becoming Übermensch is far from guaranteed. The much easier, and much more likely, possibility is that following the death of God we give into nihilism and become the Last Man. In the prologue of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> (which features on our list of the [best books by and about Nietzsche](/reading-lists/friedrich-nietzsche/)), Nietzsche thus writes: 
 
->Man is a rope, fastened between animal and _Übermensch_ — a rope over an abyss.
+>Man is a rope, fastened between animal and _Übermensch_ – a rope over an abyss.
 
 So, how can we become Übermensch, rather than succumb to Nietzsche’s Last Man? 
 
@@ -145,7 +145,7 @@ In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amaz
 
 And, considering this is very much a _personal_ project: one where we must determine and affirm our own values and sculpt our own, unique inner drives into something complete in _their own authentic way_, there is no one-size-fits-all solution. 
 
-Not everyone can become Shakespeare, Napoleon, or Wagner — figures who, though not quite ‘Übermensch’ standard, Nietzsche admired and upheld as examples of great individuals who powerfully organized themselves around a single purpose, a single taste, and furthered humanity in some way. Indeed, as Zarathustra advises: 
+Not everyone can become Shakespeare, Napoleon, or Wagner – figures who, though not quite ‘Übermensch’ standard, Nietzsche admired and upheld as examples of great individuals who powerfully organized themselves around a single purpose, a single taste, and furthered humanity in some way. Indeed, as Zarathustra advises: 
 
 >You have your way, I have my way. As for the right way, the correct way, the only way, it does not exist. 
 
@@ -163,7 +163,7 @@ Presumably it was during such a mountainside epiphany that he was inspired to re
 
 >The _Übermensch_ shall be the meaning of the earth! I entreat you my brethren, remain true to the earth, and do not believe those who speak to you of supra-terrestrial hopes! … Behold, I teach you the _Übermensch:_ he is this lightning, he is this madness! … Behold, I am a prophet of the lightning and a heavy drop from the cloud: but this lightning is called _Übermensch_.
 
-There is no life beyond this one on Earth — and according to Zarathustra’s preaching of the _eternal recurrence_ (see our quick [eternal recurrence explainer here](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)), it’s a life that will recur again and again for eternity. 
+There is no life beyond this one on Earth – and according to Zarathustra’s preaching of the _eternal recurrence_ (see our quick [eternal recurrence explainer here](/articles/eternal-recurrence-what-did-nietzsche-really-mean/)), it’s a life that will recur again and again for eternity. 
 
 So what could possibly be advised other than to become the best version of exactly who you are, to embrace all that comes your way, to practice [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/), to take joy in every single moment? 
 
@@ -173,7 +173,7 @@ So what could possibly be advised other than to become the best version of exact
 
 For instance: do you think humanity is capable of what Nietzsche describes as ‘self-overcoming’, of becoming a being resembling the Übermensch? Moreover, what would a world of Übermensch look like? Is a happy society filled with independent, self-determining Übermensch realistic? 
 
-Some scholars point out that Nietzsche never suggests the Übermensch is accessible to all. In fact, the purpose of most people in society is to prepare the conditions that would allow such special individuals to flourish. On this reading, the Übermensch is — like a new and improved Zarathustra — a new prophet, a unique individual that creates value grounded in this world, without appeal to anything transcendent. This individual would lead humanity into the next phase of our psychological growth.
+Some scholars point out that Nietzsche never suggests the Übermensch is accessible to all. In fact, the purpose of most people in society is to prepare the conditions that would allow such special individuals to flourish. On this reading, the Übermensch is – like a new and improved Zarathustra – a new prophet, a unique individual that creates value grounded in this world, without appeal to anything transcendent. This individual would lead humanity into the next phase of our psychological growth.
 
 Regardless of its accessibility, here are some additional questions we might have about the Übermensch project in general: are all human ‘drives’ permissible? What about our drives for cruelty? How can we channel those in positive ways? How can we make cruelty beautiful? Is cultivating our lives and characters so that they’re beautiful as an ‘aesthetic package’ more important than, say, fighting for justice? Should we really aspire to live aesthetically rather than ethically?
 

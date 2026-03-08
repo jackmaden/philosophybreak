@@ -13,9 +13,9 @@ authorLink: "/about/"
 
 <span class="big-letter">K</span>önigsberg, 18th-century Germany: the philosopher Immanuel Kant, back from one of his regular evening walks around the town, is deeply troubled.
 
-That morning, he’d finished reading David Hume’s 1748 work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Enquiry-concerning-Understanding-Oxford-Classics/dp/0199549907?&linkCode=ll1&tag=philosophybre-20&linkId=7fa49b10ee82c066c6a1c3d262123a09&language=en_US&ref_=as_li_ss_tl">An Enquiry Concerning Human Understanding</a> — and his intellectual world had come crumbling down.
+That morning, he’d finished reading David Hume’s 1748 work, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Enquiry-concerning-Understanding-Oxford-Classics/dp/0199549907?&linkCode=ll1&tag=philosophybre-20&linkId=7fa49b10ee82c066c6a1c3d262123a09&language=en_US&ref_=as_li_ss_tl">An Enquiry Concerning Human Understanding</a> – and his intellectual world had come crumbling down.
 
-Hume, philosophy’s great skeptic, had surveyed the field before him and concluded that our lack of progress in metaphysics, epistemology, and philosophy generally shouldn’t really surprise us, for we are fated to never truly understand not just the status of external reality — but virtually _anything_ about life.
+Hume, philosophy’s great skeptic, had surveyed the field before him and concluded that our lack of progress in metaphysics, epistemology, and philosophy generally shouldn’t really surprise us, for we are fated to never truly understand not just the status of external reality – but virtually _anything_ about life.
 
 Indeed, the approaches of rationalism (à la Descartes and Spinoza) and empiricism (à la Locke and Berkeley) fail not only in providing certainty about the external world, Hume argues, but also in establishing truth around causation, inductive logic, and even our own existence as continuous selves. 
 
@@ -31,7 +31,7 @@ Was Hume right? Were all human theories ultimately doomed to groundlessness and 
 
 Kant, thoroughly roused from a self-described “dogmatic slumber”, thus decided that answering the questions Hume posed about the human limits of knowledge was the most important intellectual task of all. 
 
-But where to start? Kant was persuaded by Hume’s critique of both rationalism and empiricism as models for knowledge — so what else was there? 
+But where to start? Kant was persuaded by Hume’s critique of both rationalism and empiricism as models for knowledge – so what else was there? 
 
 Here, after much deliberation, Kant introduces a new model: what he called _transcendental idealism_. 
 
@@ -43,11 +43,11 @@ In other words, Kant is urging us to take a step back here. Let’s not just tak
 
 By conducting an investigation into the _metaphysics of experience_ in this way, Kant thinks, perhaps we’ll get closer to securing the foundations of knowledge.
 
-For instance, the English philosopher [John Locke famously stated that at birth the mind is a _tabula rasa_](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) — a blank slate — and that as we grow our experience of the world furnishes the mind with knowledge. 
+For instance, the English philosopher [John Locke famously stated that at birth the mind is a _tabula rasa_](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) – a blank slate – and that as we grow our experience of the world furnishes the mind with knowledge. 
 
 But for Kant, this cannot be so: the mind cannot be blank. For experience to be possible at all, the mind must be equipped with certain potentialities for understanding. 
 
-Our experience of the world, Kant explains in his 1781 epic <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447474/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447474&linkId=51fb5062b0477e5f7841f91e58584003">Critique of Pure Reason</a>, is determined wholly by the nature of our sensory apparatus and nervous systems: if our eyes or brains were different — like those of a bat or a dolphin, for instance — the world we experience would be different, too. He writes:
+Our experience of the world, Kant explains in his 1781 epic <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140447474/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447474&linkId=51fb5062b0477e5f7841f91e58584003">Critique of Pure Reason</a>, is determined wholly by the nature of our sensory apparatus and nervous systems: if our eyes or brains were different – like those of a bat or a dolphin, for instance – the world we experience would be different, too. He writes:
 
 >it remains completely unknown to us what objects may be by themselves and apart from the receptivity of our senses. We know nothing but our manner of perceiving them; that manner being peculiar to us, and not necessarily shared by every being.
 
@@ -59,7 +59,7 @@ Kant brings this work to its startling conclusion by arguing that not just color
 
 ## Kant’s Copernican Revolution
 
-<span class="big-letter">K</span>ant described this new way of thinking as the “Copernican Revolution” for our theory of knowledge. Just as the 16th-century astronomer Nicolaus Copernicus turned astronomy inside-out by hypothesizing that the earth moved around the sun, rather than the other way round — elegantly solving lots of problems by doing so — Kant turns our theory of knowledge inside-out by theorizing that our minds conform not to reality, but that reality conforms to our minds. 
+<span class="big-letter">K</span>ant described this new way of thinking as the “Copernican Revolution” for our theory of knowledge. Just as the 16th-century astronomer Nicolaus Copernicus turned astronomy inside-out by hypothesizing that the earth moved around the sun, rather than the other way round – elegantly solving lots of problems by doing so – Kant turns our theory of knowledge inside-out by theorizing that our minds conform not to reality, but that reality conforms to our minds. 
 
 In other words, we do not start with reality: we have no choice but to start from where _we_ are, with our brains’ potential for possible experience. Our cognitive systems then structure whatever is ‘out there’ in ways that make it possible for us to experience it.
 
@@ -77,9 +77,9 @@ Rather, they represent _ways in which our cognition is structured:_ they are bui
 
 The upshot of this is two separate realms: the _day-to-day empirical world we all experience_, which Kant calls the ‘phenomenal’ world; and _reality in-itself_, which Kant calls the ‘noumenal’ world. 
 
-While we can explore and analyze the world of ‘phenomena’ — i.e. the day-to-day empirical world that the natural sciences investigate, our world of time, space, matter, and causation — we can never directly access noumenal reality in-itself, because we are forever destined to experience things as determined by our sensory and cognitive apparatus. 
+While we can explore and analyze the world of ‘phenomena’ – i.e. the day-to-day empirical world that the natural sciences investigate, our world of time, space, matter, and causation – we can never directly access noumenal reality in-itself, because we are forever destined to experience things as determined by our sensory and cognitive apparatus. 
 
-Together, Kant says, we live permanently in the phenomenal world, the world of our collective possible experiences — and our collective possible experiences are not reality.
+Together, Kant says, we live permanently in the phenomenal world, the world of our collective possible experiences – and our collective possible experiences are not reality.
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -108,21 +108,21 @@ Not so, says Kant. Reality in-itself is, necessarily, distinctly _different_ fro
 
 This difference is illuminated brilliantly by the late philosopher Bryan Magee, who in his commentary on Kant in his 1999 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0375750363/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375750363&linkId=596dfdfc7e47562aebc7063290597368">Confessions of a Philosopher</a> writes:
 
->What is inside my head is not the Empire State Building but a set of visual data which I interpret as being the Empire State Building. The same is true of tactile data. The process of feeling a physical object — or, even more so, bumping into it — has something especially _thingy_ about it, and can easily tempt us into believing that here is the brute reality of an independently existing world; but of course such feelings of bumpings are as inside the head as visual data are… All our experience of the external world is of this character. The direct and immediate awareness is in our brains, and must take a brain-dependent form to be awareness-material at all…
+>What is inside my head is not the Empire State Building but a set of visual data which I interpret as being the Empire State Building. The same is true of tactile data. The process of feeling a physical object – or, even more so, bumping into it – has something especially _thingy_ about it, and can easily tempt us into believing that here is the brute reality of an independently existing world; but of course such feelings of bumpings are as inside the head as visual data are… All our experience of the external world is of this character. The direct and immediate awareness is in our brains, and must take a brain-dependent form to be awareness-material at all…
 
 Indeed, the world we experience is determined by the possible _forms_ our experiences and perceptions take: they all take place in time and space, are governed by causation, have associated colors, tastes, smells, sounds, and so on. 
 
-Thanks to our apparatus — our senses, nervous systems, and brains — we cannot conceptualize things as appearing in any way _other_ than in such forms. Our cognitive systems impose structures that _must_ be conformed to for experience to be possible at all. 
+Thanks to our apparatus – our senses, nervous systems, and brains – we cannot conceptualize things as appearing in any way _other_ than in such forms. Our cognitive systems impose structures that _must_ be conformed to for experience to be possible at all. 
 
 Reality in-itself, by contrast, has no such restrictions; it exists _apart_ from all these things. It’s what remains when all of these ‘necessary structures for possible experience’ are _stripped away_. 
 
 As Magee continues:
 
->If there is a reality that exists independently of brains (and nearly all of us believe that there is) then it cannot exist in forms that are brain-dependent — despite the fact that these are the only ways in which we can apprehend it or form any notion of it… So as far as knowledge of objects goes there must be at least two realms, one of things as mediated to us by our brain apparatus and the other of whatever actually is, independent of all such brain and body operations…
+>If there is a reality that exists independently of brains (and nearly all of us believe that there is) then it cannot exist in forms that are brain-dependent – despite the fact that these are the only ways in which we can apprehend it or form any notion of it… So as far as knowledge of objects goes there must be at least two realms, one of things as mediated to us by our brain apparatus and the other of whatever actually is, independent of all such brain and body operations…
 
-The point is this: the world that appears to us, the world of phenomena, _necessarily depends_ on the nature of our experiencing apparatus — it exists in terms of certain mind-dependent forms and categories. 
+The point is this: the world that appears to us, the world of phenomena, _necessarily depends_ on the nature of our experiencing apparatus – it exists in terms of certain mind-dependent forms and categories. 
 
-Noumenal reality, by contrast, _does not_ (and _cannot_) depend on our experiencing apparatus for its existence. Rather, noumenal reality exists _independently_, _away_ from our minds — and we can never pierce through the veil of our mind-dependent experiences to determine the true intrinsic nature of mind-independent reality. 
+Noumenal reality, by contrast, _does not_ (and _cannot_) depend on our experiencing apparatus for its existence. Rather, noumenal reality exists _independently_, _away_ from our minds – and we can never pierce through the veil of our mind-dependent experiences to determine the true intrinsic nature of mind-independent reality. 
 
 To adapt a further example from Magee: just as a photograph of a waterfall is not a waterfall, it’s a photograph; and just as a written description of a waterfall is not a waterfall, it’s a written description; and just as a sound recording of a waterfall is not a waterfall, it’s a sound recording: so our experience of reality is not reality, it’s experience. 
 
@@ -132,7 +132,7 @@ Put another way: noumenal reality is _nothing like_ the world we experience, bec
 
 We cannot possibly experience (or know anything about) unstructured noumenal reality, for it exists outside our conception of time, outside our conception of space, colorless, odorless, tasteless, shapeless, formless, _non-conceptual_.
 
-Whatever the apple is in-itself, therefore, as a nonspatial, nontemporal thing, it does not — and necessarily _cannot_ — resemble the apple that we observe and discuss. 
+Whatever the apple is in-itself, therefore, as a nonspatial, nontemporal thing, it does not – and necessarily _cannot_ – resemble the apple that we observe and discuss. 
 
 ## The limits of human knowledge
 
@@ -148,13 +148,13 @@ All we can comment on, Kant says, is the ‘phenomenal’ world of possible huma
 
 ## A world without subjects is a world without objects
 
-<span class="big-letter">A</span> slightly different way to frame Kant’s arguments is the following: there cannot be an ‘object’ without a ‘subject’ — the two are _co-dependent_. 
+<span class="big-letter">A</span> slightly different way to frame Kant’s arguments is the following: there cannot be an ‘object’ without a ‘subject’ – the two are _co-dependent_. 
 
 Take the subject away, and it becomes incoherent to even discuss distinct objects, for a subject is required to make such distinctions in the first place. 
 
-It follows, Kant says, that objects by themselves are _unknowable_. Time, space, causation — these are features of the subject/object interaction. We cannot describe them as features of ‘ultimate reality’, because we can never strip the ‘subject’ (us) from the world. 
+It follows, Kant says, that objects by themselves are _unknowable_. Time, space, causation – these are features of the subject/object interaction. We cannot describe them as features of ‘ultimate reality’, because we can never strip the ‘subject’ (us) from the world. 
 
-Kant’s ultimate noumenal ‘world-in-itself’ — a world without subjects — is forever out of reach.
+Kant’s ultimate noumenal ‘world-in-itself’ – a world without subjects – is forever out of reach.
 
 Kant wasn’t trying to deny that we could master or learn more about our environments, the day-to-day empirical world of our possible experience; he’s just saying that this world is forever entangled with concepts and structures that we, as experiencing subjects, bring to the table. We cannot get _behind_ possible experience and its necessary features to access things in themselves.
 
@@ -166,7 +166,7 @@ We should thus limit our scope of inquiry accordingly: science investigates the 
 
 <span class="big-letter">K</span>ant doesn’t intend to block us from ultimate reality simply for the sake of it; if we recall, he’s searching for a way to improve philosophy, to answer Hume’s skeptical concerns, and ultimately to provide a model for knowledge that reconciles modern science with religion and morality. 
 
-He thinks his Copernican Revolution — placing us as _experiencing beings_ at the center — is the best way for us to move forward, and grants us a number of advantages. 
+He thinks his Copernican Revolution – placing us as _experiencing beings_ at the center – is the best way for us to move forward, and grants us a number of advantages. 
 
 Among these advantages is the grounding of human knowledge on secure, _a priori_ foundations. As Kant writes: 
 
@@ -180,7 +180,7 @@ Well, Hume says, typically we observe that event B always follows event A, and t
 
 But this is a leap. All we can say, Hume points out, is that, _based on our observations so far_, B has always followed A. This is no reason, logically, to believe that B will follow A in future, nor to assert that A _causes_ B.
 
-According to Hume’s analysis, it turns out our entire concept of ‘causation’ is thus grounded not in logical necessity, but in habit and custom — and he applies this kind of skeptical analysis not just to causation but to many other sacred cows of metaphysics.
+According to Hume’s analysis, it turns out our entire concept of ‘causation’ is thus grounded not in logical necessity, but in habit and custom – and he applies this kind of skeptical analysis not just to causation but to many other sacred cows of metaphysics.
 
 For Hume, a lot of our ‘knowledge’ simply has zero basis in logic; we cannot really be said to ‘know’ anything at all.
 
@@ -205,7 +205,7 @@ How, then, does Kant’s system combat Hume on issues like causation? Rather ing
 
 While Hume is trying (and failing) to impose the law of causation onto the world, Kant flips the model on its head: for us to possibly experience it, he says, the world _must_ conform to the law of causation. 
 
-Indeed, the world we experience _must_ conform to certain fundamental laws and structures — causation among them — because _the human mind constructs them according to those laws_. 
+Indeed, the world we experience _must_ conform to certain fundamental laws and structures – causation among them – because _the human mind constructs them according to those laws_. 
 
 In other words: for us to possibly experience it, the world we experience has to be a certain way. Causation is thus a necessary law, Kant says, because experience _would not be possible without it:_ it would be impossible for us to experience a world in which a given event didn’t have a cause.
 
@@ -217,7 +217,7 @@ Such necessary preconditions include time, space, causation, and so on, Kants sa
 
 This is the advantage of Kant’s transcendental idealism: by establishing the _boundaries of possible experience_, Kant in turn establishes some novel _a priori_ metaphysical truths that had eluded the philosophers who came before him. 
 
-Of course, that we cannot then extend the existence of time, space, or causation to ‘ultimate reality’ is regrettable — but it’s an unavoidable consequence of grounding knowledge on the _a priori_ foundations of possible experience, Kant says:
+Of course, that we cannot then extend the existence of time, space, or causation to ‘ultimate reality’ is regrettable – but it’s an unavoidable consequence of grounding knowledge on the _a priori_ foundations of possible experience, Kant says:
 
 >\[F]rom this deduction of our faculty of cognizing _a priori_ \[…] there emerges a very strange result \[…], namely that with this faculty we can never get beyond the boundaries of possible experience, \[…and] that such cognition reaches appearances only, leaving the thing in itself as something actual for itself but uncognized by us.
 

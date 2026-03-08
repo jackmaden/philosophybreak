@@ -150,13 +150,13 @@ export default function Reviews(props) {
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Enjoyable & contemplative</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>Excellent course. An enjoyable, contemplative read. The bite-sized portions allowed me to digest the information, and the content was very interesting and easy to understand — a good survey of philosophical ideas with references to books for digging deeper. I especially enjoyed the chapter on free will. As a financial planner, I’m trying to balance cognitive biases with behavioral change. This chapter provides good food for thought in how I approach my practice. Overall, great work.</span>
+                            <span style={{lineHeight: "1.3"}}>Excellent course. An enjoyable, contemplative read. The bite-sized portions allowed me to digest the information, and the content was very interesting and easy to understand – a good survey of philosophical ideas with references to books for digging deeper. I especially enjoyed the chapter on free will. As a financial planner, I’m trying to balance cognitive biases with behavioral change. This chapter provides good food for thought in how I approach my practice. Overall, great work.</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>David H. on 17 November 2022</span></div>
                         </div>
 
                         <div className="small-mar">
                             <p style={{marginBottom: "0.5em"}}><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span>&nbsp;&nbsp;<span><i>Loved it</i></span></p>
-                            <span style={{lineHeight: "1.3"}}>Thank you very much for giving me something to look forward to each day with the daily chapters — I loved it! Very refreshing to read something this clear and direct about how the great philosophers have approached some of the most difficult and enduring questions we can ask. Some truly interesting ideas I hadn’t encountered before. Thanks!</span>
+                            <span style={{lineHeight: "1.3"}}>Thank you very much for giving me something to look forward to each day with the daily chapters – I loved it! Very refreshing to read something this clear and direct about how the great philosophers have approached some of the most difficult and enduring questions we can ask. Some truly interesting ideas I hadn’t encountered before. Thanks!</span>
                             <div><p className="verified">VERIFIED BUYER</p>&nbsp;&nbsp;<span style={{color: "#737d88"}}>Marie L. on 4 October 2022</span></div>
                         </div>
 

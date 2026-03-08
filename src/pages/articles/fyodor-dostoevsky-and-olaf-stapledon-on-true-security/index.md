@@ -39,7 +39,7 @@ Genuine community, by contrast, celebrates the diversity of existence, and is ba
 
 <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Ql78Xl">Star Maker</a> is Stapledon’s call for the recognition that all of us, no matter how different, share the same basic condition of existence: [we are the cosmos made conscious](/articles/5-existential-problems-all-humans-share/).
 
-If we can recognize this and move beyond the spiritual quagmire of extreme individualism and primitive tribal warfare — if society can move past the manufacture of fear, greed, and hate to instead reward and nurture mutual respect and love — then perhaps we could move towards a more unified place in the universe, and unlock its secrets together.
+If we can recognize this and move beyond the spiritual quagmire of extreme individualism and primitive tribal warfare – if society can move past the manufacture of fear, greed, and hate to instead reward and nurture mutual respect and love – then perhaps we could move towards a more unified place in the universe, and unlock its secrets together.
 
 ## What do you make of such visions?
 

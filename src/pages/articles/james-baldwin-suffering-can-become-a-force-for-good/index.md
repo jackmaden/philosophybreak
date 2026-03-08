@@ -23,7 +23,7 @@ In dark times, Baldwin implores us to keep the faith. Better days lie ahead, and
 
 Emphasizing the attitude he thinks it prudent to adopt, Baldwin draws on a number of great thinkers:
 
->[This is] a time … when something awful is happening to a civilization, when it ceases to produce poets, and, what is even more crucial, when it ceases in any way whatever to believe in the report that only the poets can make. Conrad told us a long time ago..: ‘Woe to that man who does not put his trust in life.’ Henry James said, ‘Live, live all you can. It’s a mistake not to.’ And Shakespeare said — and this is what I take to be the truth about everybody’s life all of the time — ‘Out of this nettle, danger, we pluck this flower, safety.’ Art is here to prove, and to help one bear, the fact that all safety is an illusion…
+>[This is] a time … when something awful is happening to a civilization, when it ceases to produce poets, and, what is even more crucial, when it ceases in any way whatever to believe in the report that only the poets can make. Conrad told us a long time ago..: ‘Woe to that man who does not put his trust in life.’ Henry James said, ‘Live, live all you can. It’s a mistake not to.’ And Shakespeare said – and this is what I take to be the truth about everybody’s life all of the time – ‘Out of this nettle, danger, we pluck this flower, safety.’ Art is here to prove, and to help one bear, the fact that all safety is an illusion…
 
 Advising how indeed we might better bear the uncertainty and instability of the world, Baldwin continues:
 
@@ -31,7 +31,7 @@ Advising how indeed we might better bear the uncertainty and instability of the 
 
 You are alone with your own particular constellation of pain, Baldwin says, but _so is everybody else._
 
-Your friends, your family, members of the community — what lessons has your own pain taught you that might help connect you with theirs? 
+Your friends, your family, members of the community – what lessons has your own pain taught you that might help connect you with theirs? 
 
 Not all of us will liberate private feelings with grand public artworks, but we each impact our own small corners of the world every single day.
 

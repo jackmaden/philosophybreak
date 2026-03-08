@@ -1,6 +1,6 @@
 ---
 title: "What is Consciousness?"
-description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how — or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
+description: "Consciousness is mysterious. Most researchers agree it arises from the brain, but no one is sure how – or why. This article outlines the so-called 'hard problem' of consciousness, as well as leading solutions to it."
 image: "./cucumber.jpg"
 imageAlt: "cucumbers"
 imageSeo: "./cucumber.jpg"
@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">W</span>hat happens when you look at a cucumber? Well, to put it simply, you see a cucumber. You <i>consciously experience</i> the oblong, dark green vegetable in all its glory. But what actually occurs in your eyes and brain to construct this vision? The story starts, as you turn your gaze, with light — light hits the cucumber, some of which is absorbed, and some of which reflects into your cornea. This light passes through your pupil and is focused by your eye's lens onto the retina, a thin, photosensitive tissue that converts light into electrical signals. These electrical signals are then sent to the brain via the optic nerve to be processed in the visual cortex, enabling you to 'see' an oblong, dark green object, which you skilfully classify as a cucumber. 
+<span class="big-letter">W</span>hat happens when you look at a cucumber? Well, to put it simply, you see a cucumber. You <i>consciously experience</i> the oblong, dark green vegetable in all its glory. But what actually occurs in your eyes and brain to construct this vision? The story starts, as you turn your gaze, with light – light hits the cucumber, some of which is absorbed, and some of which reflects into your cornea. This light passes through your pupil and is focused by your eye's lens onto the retina, a thin, photosensitive tissue that converts light into electrical signals. These electrical signals are then sent to the brain via the optic nerve to be processed in the visual cortex, enabling you to 'see' an oblong, dark green object, which you skilfully classify as a cucumber. 
 
 And that, as a very crude summary, is what happens when you look at a cucumber. 
 
@@ -18,9 +18,9 @@ But does this functional, biological story account for _all_ that happens?
 
 If we were to ask what happens, for example, when a _camera_ captures an image of a cucumber, we would tell a very similar functional story as the one we tell about our eyes and brain: the camera focuses light through its lens, processes this light into an image, and stores it in memory.
 
-There is one crucial difference between us and cameras in this example, however: as humans, we _consciously experience_ the images that we capture — we have a felt-experience of _seeing_ the cucumber. And we wouldn't attribute this kind of rich inner experience to a camera: on our terms, when they take photos, cameras experience nothing at all. 
+There is one crucial difference between us and cameras in this example, however: as humans, we _consciously experience_ the images that we capture – we have a felt-experience of _seeing_ the cucumber. And we wouldn't attribute this kind of rich inner experience to a camera: on our terms, when they take photos, cameras experience nothing at all. 
 
-The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, simply an extraneous mental accompaniment — or neither? 
+The story of what happens when we look at cucumbers, therefore, seems incomplete: it explains 'how' the image of the cucumber is physically captured, but misses the crucial point about consciousness. _Why_ is this physical process accompanied by a felt-experience? And _how_ is the nature of this conscious experience determined? Is it part of the physical causal system, simply an extraneous mental accompaniment – or neither? 
 
 These questions represent what philosopher David Chalmers has dubbed the 'hard problem' of consciousness. In his 1995 essay [Facing Up to the Hard Problem of Consciousness](http://www.consc.net/papers/facing.html), he writes:
 
@@ -49,7 +49,7 @@ Solving the problem of consciousness, Chalmers thinks, lies not in simply descri
 
 ## What _is_ conscious experience?
 
-<span class="big-letter">C</span>onsciousness is so intractable, so difficult to pin down, that it's a challenge to supply it with even the most general definition. Is it awakeness? Receptivity? Awareness? Yes, but it also refers to something more: it refers to cognizant, felt-experience — indeed, not just capturing an image of a cucumber, but viscerally _seeing_ it.
+<span class="big-letter">C</span>onsciousness is so intractable, so difficult to pin down, that it's a challenge to supply it with even the most general definition. Is it awakeness? Receptivity? Awareness? Yes, but it also refers to something more: it refers to cognizant, felt-experience – indeed, not just capturing an image of a cucumber, but viscerally _seeing_ it.
 
 So what _is_ this felt-experience, exactly? Perhaps we could say that when we are conscious we sense the subjective qualitative _feel_ of that which is experienced: the vivid _redness_ of ripe tomatoes, the cool _smoothness_ of silk, the sub-bass _boom_ of a thunderclap. But in the literature on consciousness there's a whole host of terminology used to describe it, including subjective conscious experience, qualitative experience, phenomenal experience, ‘raw feels’ and qualia. 
 
@@ -83,7 +83,7 @@ Just like with traditional micro-level physical 'stuff', the basic building bloc
 
 <span class="big-letter">W</span>hile panpsychism is becoming more popular as a theory, consciousness generally remains in its infancy as an area of research, and is fraught with controversy and debate. Some physicalist thinkers like Daniel Dennett deny the hard problem of consciousness even exists, claiming it to be an illusion of our own making (see my list of [Dennett's best books here](/reading-lists/daniel-dennett-best-books/)); while anti-physicalists like Chalmers <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0195117891/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195117891&linkCode=as2&tag=philosophybre-20&linkId=9b047debf3f281fc2994a454aa5c8756">'feel the problem in their bones.'</a> 
 
-Regardless of whether you lean towards physicalism, or a non-physicalist theory like panpsychism, the next time you look at a cucumber, take a moment to think about what's happening in your brain — and how much we all still have to learn. 
+Regardless of whether you lean towards physicalism, or a non-physicalist theory like panpsychism, the next time you look at a cucumber, take a moment to think about what's happening in your brain – and how much we all still have to learn. 
 
 ## Get one famous philosophical idea in your inbox each Sunday
 

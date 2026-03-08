@@ -19,7 +19,7 @@ Together, Scott, Rex, and Hank explore classic and contemporary philosophy, disc
 
 <div class="smaller-h2">
 
-## How did the idea for your book — investigating philosophy with children — come about?
+## How did the idea for your book – investigating philosophy with children – come about?
 
 <span class="big-letter">S</span>o the idea came in stages, actually. Shortly after I had kids, I realized I was talking about them a lot to my students in class. If we were discussing punishment, for example, I’d describe something one of my kids had done and ask my students how they thought I should respond. It was a way of getting a conversation going about the purposes of punishment, without necessarily diving straight into the abstract philosophy I’d prepared for the day. 
 
@@ -34,13 +34,13 @@ So Aaron provided a huge assist, and ever since he said that I was thinking, “
 
 ## What do you think makes children have such an aptitude for philosophy?
 
-<span class="big-letter">I</span> think it’s a couple of things. Firstly, they don’t know a lot about the world: they’re just really puzzled by it. And part of not knowing about the world is not knowing what other people take for granted, or what the standard explanations of things are. They’re constantly seeing things and wondering, for example, why someone gets to tell them what to do, or how big the universe is — whatever it is that pops into their head, they’re curious about it and thinking it through. 
+<span class="big-letter">I</span> think it’s a couple of things. Firstly, they don’t know a lot about the world: they’re just really puzzled by it. And part of not knowing about the world is not knowing what other people take for granted, or what the standard explanations of things are. They’re constantly seeing things and wondering, for example, why someone gets to tell them what to do, or how big the universe is – whatever it is that pops into their head, they’re curious about it and thinking it through. 
 
-And then I think the second thing is they’re just fearless as thinkers, for a variety of reasons. They’re not afraid about being wrong — they’re wrong all the time — and it’s not embarrassing to them that they’re wrong. 
+And then I think the second thing is they’re just fearless as thinkers, for a variety of reasons. They’re not afraid about being wrong – they’re wrong all the time – and it’s not embarrassing to them that they’re wrong. 
 
 >I think there’s this sweet spot for kids, before they are really focused on what other people think of them, when they’re just really willing to share their ideas and questions.
 
-An example in the book is Rex’s argument, when he was seven, about how big the universe is. He argues it must be infinite, because if it was finite, what would happen if he traveled to the edge? Rex suggests if he punches the edge, he’d either punch through it, meaning there’s no edge after all, or something would stop his punch, meaning — again — that there is something beyond the apparent edge.
+An example in the book is Rex’s argument, when he was seven, about how big the universe is. He argues it must be infinite, because if it was finite, what would happen if he traveled to the edge? Rex suggests if he punches the edge, he’d either punch through it, meaning there’s no edge after all, or something would stop his punch, meaning – again – that there is something beyond the apparent edge.
 
 I think if he thought of that argument when he was older, not even that much older, say when he was thirteen rather than seven, he wouldn’t have been so forthcoming with it. Self-consciousness may have held him back: “what makes _you_ think you can figure out how big the universe is?” So, I think there’s this sweet spot for kids, before they are really focused on what other people think of them, when they’re just really willing to share their ideas and questions. 
 
@@ -76,11 +76,11 @@ Ian’s is a fantastic question and is typical of the kind that children ask see
 
 ## Why do you think parents or adults sometimes shut down these kinds of questions? 
 
-<span class="big-letter">I</span> think for a few reasons. One is often they don’t know the answers. I think grown ups are a little bit uncomfortable when they don’t know the answer to kids’ questions — and that’s any question, not just philosophical questions. 
+<span class="big-letter">I</span> think for a few reasons. One is often they don’t know the answers. I think grown ups are a little bit uncomfortable when they don’t know the answer to kids’ questions – and that’s any question, not just philosophical questions. 
 
 >I think what a lot of adults are missing is that philosophy can be fun _because_ you don’t know the answer. 
 
-I remember before my wife and I had kids, a philosophy professor at UCLA, Mark Greenberg, came to visit us along with his wife and daughter. Mark’s daughter asked him a question about some steam coming out of a grate, and Mark actually knew the answer. What I was so struck by, because I hadn’t spent a lot of time around parents or kids, is that he gave a complete scientific answer — he explained exactly where the water vapor was coming from and why it looked the way it did. And I thought, how cool is that? He just treated her like a grown up who didn’t know the explanation, and he gave this girl who was probably three or four at the time the complete answer. And I thought if I have kids, I’m going to do that.
+I remember before my wife and I had kids, a philosophy professor at UCLA, Mark Greenberg, came to visit us along with his wife and daughter. Mark’s daughter asked him a question about some steam coming out of a grate, and Mark actually knew the answer. What I was so struck by, because I hadn’t spent a lot of time around parents or kids, is that he gave a complete scientific answer – he explained exactly where the water vapor was coming from and why it looked the way it did. And I thought, how cool is that? He just treated her like a grown up who didn’t know the explanation, and he gave this girl who was probably three or four at the time the complete answer. And I thought if I have kids, I’m going to do that.
 
 You realize, of course, that you’re limited in your ability. And sometimes you have to say things like “I don’t know” or “here’s a guess. Maybe we’ll go look it up.” But I think what a lot of adults are missing is that philosophy can be fun _because_ you don’t know the answer. 
 
@@ -99,14 +99,14 @@ This is a point that Gareth Mathews makes: that most conversations between adult
 
 ## Your wife Julie is a social worker and features as a harmonious figure in the book. Does she ever become impatient with your philosophical questioning of the children? 
 
-<span class="big-letter">I</span> think she’s more amused than impatient, though I suspect sometimes she might be a little impatient, too! When Rex and Hank first came along, she sometimes commented that she never would have thought to talk to them about, say, infinity, authority, or whether the universe is a simulation — but there’s certainly no tension between us on that.
+<span class="big-letter">I</span> think she’s more amused than impatient, though I suspect sometimes she might be a little impatient, too! When Rex and Hank first came along, she sometimes commented that she never would have thought to talk to them about, say, infinity, authority, or whether the universe is a simulation – but there’s certainly no tension between us on that.
 
 
 ## Why is thinking philosophically something we want to encourage in children?
 
 <span class="big-letter">I</span> think there’s a few reasons. Maybe it’s just the kind of philosopher I am, but I’m committed to thinking having philosophical conversations with your kids is a fun, worthwhile activity that doesn’t have to be instrumentally valuable. So that’s part of what I want to say to parents: your kids are really smart and deep thinkers, and you should appreciate them as they are, not just think of them as a project or runway to someplace else. So partly I just want to say: enjoy this aspect of your kid, and you’ll have fun, too. 
 
-I also hope that by encouraging kids to really think deeply and carefully about things — and be open to questioning things — that they can carry such an attitude into adulthood. 
+I also hope that by encouraging kids to really think deeply and carefully about things – and be open to questioning things – that they can carry such an attitude into adulthood. 
 
 And, to the extent that kids may close down a little bit because they think other people aren’t interested in their ideas, by having these thoughtful conversations with your kids maybe you can help them recognize that their ideas are valuable, and that thinking philosophically is a valuable activity.
 
@@ -155,17 +155,17 @@ I also hope that the book is doing enough new along the way that people who were
 
 ## Speaking of school, would you like to see philosophy on the school curriculum?
 
-<span class="big-letter">I</span> am completely behind that. I think there are lots of benefits, some of which we’ve already spoken about — like raising kids who are willing to challenge things, to question assumptions, to think deeply and carefully about the world, and so on. 
+<span class="big-letter">I</span> am completely behind that. I think there are lots of benefits, some of which we’ve already spoken about – like raising kids who are willing to challenge things, to question assumptions, to think deeply and carefully about the world, and so on. 
 
 But I also think that what you see through the existing programs of philosophy in schools is they’re teaching kids additional skills about how to disagree agreeably: how to have calm conversations with each other about difficult issues.
 
 >My hope would be if this kind of philosophical discussion was a more regular part of our education, then we could have a culture that thought deeper and was more respectful, rather than one side shouting at the other.
 
-For example, I just taught a class to my law students, an older group of course, but it was called Life, Death, Love and the Law. It was about ethical issues that arise at the beginning and end of life, ethical issues about whether you should have kids, ethical questions about abortion, ethical questions about euthanasia. The students in my class had a really wide range of backgrounds — different religious upbringings, different political views, so there were lots of different perspectives in the room on these questions.
+For example, I just taught a class to my law students, an older group of course, but it was called Life, Death, Love and the Law. It was about ethical issues that arise at the beginning and end of life, ethical issues about whether you should have kids, ethical questions about abortion, ethical questions about euthanasia. The students in my class had a really wide range of backgrounds – different religious upbringings, different political views, so there were lots of different perspectives in the room on these questions.
 
 We set a tone early on: we’re going to question each other’s views, we’re going to question our own views, we’re going to be respectful of each other and the fact that many people in the room have personal experience of these issues. If you’re not up for a really deep interrogation of these issues, then you don’t have to be here. You can drop this class. There’s no point in being in this room. 
 
-The semester was phenomenal. People who on the one side, for instance, may have felt that abortion is a kind of murder, and people on the other side who thought that equality absolutely demands the right to terminate a pregnancy — these people had really thoughtful discussions with each other and came to better understand each other’s views. 
+The semester was phenomenal. People who on the one side, for instance, may have felt that abortion is a kind of murder, and people on the other side who thought that equality absolutely demands the right to terminate a pregnancy – these people had really thoughtful discussions with each other and came to better understand each other’s views. 
 
 My hope would be if this kind of philosophical discussion was a more regular part of our education, then we could have a culture that thought deeper and was more respectful, rather than one side shouting at the other. 
 

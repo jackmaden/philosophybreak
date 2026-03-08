@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 Or: is our behavior the result of environmental factors and social conditioning? Is it our upbringing, cultural norms, and social conventions that create who we are?
 
-Such questions are representative of the classic nature vs. nurture debate — and in her 1973 paper [The Concept of Beastliness](https://philpapers.org/rec/MIDTCO-3), the philosopher Mary Midgley expresses her deep impatience with them. 
+Such questions are representative of the classic nature vs. nurture debate – and in her 1973 paper [The Concept of Beastliness](https://philpapers.org/rec/MIDTCO-3), the philosopher Mary Midgley expresses her deep impatience with them. 
 
 Surveying the literature of science, psychology, and philosophy, Midgley notes the formation of two major camps.
 
@@ -31,7 +31,7 @@ Midgley suggests the approach of both camps is wrongheaded, and causes mass conf
 
 ## Against the ‘Nurture’ camp
 
-<span class="big-letter">T</span>o set the scene against the Nurture camp — i.e. the Behaviorists, Existentialists ([“existence precedes essence”](/articles/existence-precedes-essence-what-sartre-really-meant/)), and anyone else who claims there is no such thing as human nature — Midgley poses the following questions:
+<span class="big-letter">T</span>o set the scene against the Nurture camp – i.e. the Behaviorists, Existentialists ([“existence precedes essence”](/articles/existence-precedes-essence-what-sartre-really-meant/)), and anyone else who claims there is no such thing as human nature – Midgley poses the following questions:
 
 >Why do people form families? Why do they mind about their homes and quarrel over boundaries? Why do they own property? Why do they gamble, boast, show off, dress up and fear the unknown? Why do they talk so much, and dance, and sing? Why do children play, and for that matter adults too? Why is nobody living in the Republic of Plato? 
 
@@ -57,7 +57,7 @@ Such jubilation would be premature, however, as Midgley thinks ‘human nature�
 
 ## Against the ‘Nature’ camp
 
-<span class="big-letter">T</span>he trouble with the Nature camp, Midgley suggests, is the sustained misuse of (and confusion around) terms like ‘human nature’ and ‘instinct’, which are wielded reductively as ‘cure-all’, staggeringly simplistic explanations for why humans behave the way we do — inspiring, Midgley writes,
+<span class="big-letter">T</span>he trouble with the Nature camp, Midgley suggests, is the sustained misuse of (and confusion around) terms like ‘human nature’ and ‘instinct’, which are wielded reductively as ‘cure-all’, staggeringly simplistic explanations for why humans behave the way we do – inspiring, Midgley writes,
 
 >sweeping theories that man is Basically Sexual, Basically Selfish or Acquisitive, Basically Evil or Basically Good. 
 
@@ -125,13 +125,13 @@ Instead, Midgley suggests, we’d be much better off viewing the nature of human
 
 <span class="big-letter">W</span>hen we reflect on whether humans are ‘naturally’ aggressive, then, we should not take ‘naturally’ to mean ‘basically’; instead, like good ethologists, we should ask ourselves whether aggression is observable among our natural repertoire of capabilities.
 
-Aggression _is_ observable — so, yes, human beings _are_ naturally aggressive. But that doesn’t mean aggression is an Evil Instinct and that humans are thus Inherently Evil.
+Aggression _is_ observable – so, yes, human beings _are_ naturally aggressive. But that doesn’t mean aggression is an Evil Instinct and that humans are thus Inherently Evil.
 
 The good ethologist views aggression neutrally, Midgley notes:
 
 >Confronted with the habit of slaughter, he is not going to throw up his hands in condemnation… He will study all the related patterns of conduct in order to understand the context.
 
-While in some cases slaughter might appear mindless, in others it can be linked to precious elements in human life, like loyalty and friendship — people killing to defend their own (and stopping once they come to see the enemy as ‘their own’, too).
+While in some cases slaughter might appear mindless, in others it can be linked to precious elements in human life, like loyalty and friendship – people killing to defend their own (and stopping once they come to see the enemy as ‘their own’, too).
 
 Besides, as much as we are capable of aggression, we are also naturally capable of its opposite, Midgley continues:
 
@@ -141,9 +141,9 @@ Human nature, Midgley thus writes, is
 
 >a complex, balanced affair… subject to a lot of laws, and rather more, not less, adaptable than [other animals], because where they grew horns and prickles, we grew an intelligence, which is quite an effective adaptive mechanism.
 
-Indeed, our intelligence makes us relatively adaptable and flexible creatures, and this fools the Nurture camp into thinking that we have _outgrown_ or _transcended_ our animal natures — when really intelligence is itself an evolved product of animal nature, one trait among many in our diverse natural toolkit. 
+Indeed, our intelligence makes us relatively adaptable and flexible creatures, and this fools the Nurture camp into thinking that we have _outgrown_ or _transcended_ our animal natures – when really intelligence is itself an evolved product of animal nature, one trait among many in our diverse natural toolkit. 
 
-So, we are not just one thing, but — importantly — we are not _anything_, either.
+So, we are not just one thing, but – importantly – we are not _anything_, either.
 
 Humanity is endowed with a diverse yet limited range of concerns and capabilities, and social conditioning will interact with our predispositions to bring out different emphases in different cultures.
 
@@ -153,7 +153,7 @@ Humanity is endowed with a diverse yet limited range of concerns and capabilitie
 
 >We are not disembodied intelligences, tentatively considering possible incarnations. We have highly particular, sharply limited needs and possibilities already.
 
-When philosophizing about ourselves and the world, we should not lose sight of the fact that we are primates with a long and storied evolutionary history on Planet Earth — and that _civilization itself_ is rooted in this history.
+When philosophizing about ourselves and the world, we should not lose sight of the fact that we are primates with a long and storied evolutionary history on Planet Earth – and that _civilization itself_ is rooted in this history.
 
 Opposing nature and nurture, Midgley thus suggests, makes no sense; it is far more productive to recognize that _culture itself is a natural phenomenon:_
 
@@ -161,17 +161,17 @@ Opposing nature and nurture, Midgley thus suggests, makes no sense; it is far mo
 
 Civilization is not some ‘add-on’ to our animal natures, Midgley tells us: it’s an expression of it. Just as spiders naturally spin webs, humans naturally produce cultures.
 
-The nature vs nurture debate — i.e. whether it’s genetics or society that makes us who we are — is thus fundamentally misguided.
+The nature vs nurture debate – i.e. whether it’s genetics or society that makes us who we are – is thus fundamentally misguided.
 
 ## Enclosed in a human world
 
-<span class="big-letter">M</span>idgley concludes her reflections by pointing out that every species — _including humanity_ — is enclosed in a world that its own nature makes available to it. 
+<span class="big-letter">M</span>idgley concludes her reflections by pointing out that every species – _including humanity_ – is enclosed in a world that its own nature makes available to it. 
 
 Just as [Kant recognized that the world we experience is contingent on the apparatus we have for experiencing it](/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/), so we should recognize that the general scope of our concerns, interests, and behavior as beings is set by _what we are_. 
 
-The spaces we can navigate — including the spaces we call ‘reason’ and ‘morality’ — are contingent on the _spaces made available to us_ through our nature as primates that have evolved on Planet Earth.
+The spaces we can navigate – including the spaces we call ‘reason’ and ‘morality’ – are contingent on the _spaces made available to us_ through our nature as primates that have evolved on Planet Earth.
 
-To us, operating from _inside the space_, it appears exceedingly open and flexible — host to many different ways of life, diverse cultures, great triumphs, and monstrous atrocities.
+To us, operating from _inside the space_, it appears exceedingly open and flexible – host to many different ways of life, diverse cultures, great triumphs, and monstrous atrocities.
 
 To ethologists from another star system, however, perhaps humans are as neutral, predictable, and documentable as migrating birds.
 

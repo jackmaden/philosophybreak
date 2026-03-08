@@ -1,6 +1,6 @@
 ---
 title: "John Locke’s Empiricism: Why We Are All Tabula Rasas (Blank Slates)"
-description: "17th-century philosopher John Locke’s empirical theory of knowledge had a major impact on the thinkers who followed. This article explores Locke's core arguments — and discusses their profound consequences."
+description: "17th-century philosopher John Locke’s empirical theory of knowledge had a major impact on the thinkers who followed. This article explores Locke's core arguments – and discusses their profound consequences."
 image: "./john-locke-empiricism.jpg"
 imageAlt: "John Locke Empiricism Tabula Rasa"
 imageSeo: "./johnlocke.jpg"
@@ -19,7 +19,7 @@ A philosopher who had particularly influential things to say about these questio
 
 In his brilliant 1689 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/087220216X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=087220216X&linkId=ebfa57e638093b07e7676016415fbb51">An Essay Concerning Human Understanding</a>, Locke argues that, at birth, the mind is a _tabula rasa_ (a blank slate) that we fill with ‘ideas’ as we experience the world through the five senses. 
 
-By ‘idea’, Locke means “whatsoever is the Object of the Understanding, when a person thinks.” In other words, an idea is anything you experience or reflect on — and Locke’s key point is we can only get such ‘ideas’ from the senses. 
+By ‘idea’, Locke means “whatsoever is the Object of the Understanding, when a person thinks.” In other words, an idea is anything you experience or reflect on – and Locke’s key point is we can only get such ‘ideas’ from the senses. 
 
 Our minds cannot _create_ ideas, Locke argues: they can only _combine_ them. Ideas are thus atomic in nature, and can form complex, unique structures: but the constituent parts are all ultimately obtained from sensory experience. As he puts it:
 
@@ -60,9 +60,9 @@ Before Locke, it was not empiricist theories of knowledge but scholastic theorie
     </div>
 </div>
 
-As our experiences sometimes deceive us, the skeptical argument runs, what basis do we have for trusting experience at _all?_ Hallucinations and the unreliability of eyewitness testimony demonstrate that our senses betray us occasionally — so how are we to know they aren’t deceiving us all the time? How can we prove the world around us even _exists?_  
+As our experiences sometimes deceive us, the skeptical argument runs, what basis do we have for trusting experience at _all?_ Hallucinations and the unreliability of eyewitness testimony demonstrate that our senses betray us occasionally – so how are we to know they aren’t deceiving us all the time? How can we prove the world around us even _exists?_  
 
-Descartes’ answer was to appeal to an indubitable starting principle: [_cogito ergo sum_ (I think therefore I am)](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/). From this base, he tries to build up truths, from the fact that he exists as a thinking being, all the way up to the existence of God. He does this purely through recognizing certain beliefs as ‘clear and distinct’ — as having no internal contradiction — and by deducing one after the other to establish a theory of knowledge with no real reliance on sensory experience. 
+Descartes’ answer was to appeal to an indubitable starting principle: [_cogito ergo sum_ (I think therefore I am)](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/). From this base, he tries to build up truths, from the fact that he exists as a thinking being, all the way up to the existence of God. He does this purely through recognizing certain beliefs as ‘clear and distinct’ – as having no internal contradiction – and by deducing one after the other to establish a theory of knowledge with no real reliance on sensory experience. 
 
 But Locke dismisses this rationalist response to skepticism, arguing that reason and logical deduction are mere tools: they cannot be innate _sources_ or _foundations_ of knowledge, Locke insists, as all knowledge is ultimately derived from experience, and rationalists like Descartes are wrong in thinking otherwise. 
 
@@ -135,9 +135,9 @@ As late philosopher Bryan Magee summarizes Locke’s legacy in his philosophical
 
 >If Locke has come to be thought of as something of a plain, commonsensical thinker, perhaps even a bit pedestrian, it is because what he had to say has become so familiar that it may be in danger of seeming obvious to us now; but the truth is that when he put it forward it was profoundly original, and not obvious at all. The fact that it can seem obvious now is a measure of his influence. Indeed, it could be seriously argued that he is the most influential philosopher since Aristotle. 
 
-However, while stimulating and influential, Locke’s views are not without problems — and indeed these problems have been long dissected and discussed by brilliant minds since. 
+However, while stimulating and influential, Locke’s views are not without problems – and indeed these problems have been long dissected and discussed by brilliant minds since. 
 
-If you’re interested in learning more about how Locke’s empiricism developed in the minds of such thinkers, our introductory philosophy course, [Life's Big Questions](/lifes-big-questions/), might be just what you’re looking for. On day two we hone in on the question, [‘is the world around us real?’](/articles/is-the-world-around-us-real/) — discussing Descartes and Locke further, and also considering responses from the philosophical giants who followed, including George Berkeley, David Hume, and Immanuel Kant. Interested in learning more? Explore the full course now! 
+If you’re interested in learning more about how Locke’s empiricism developed in the minds of such thinkers, our introductory philosophy course, [Life's Big Questions](/lifes-big-questions/), might be just what you’re looking for. On day two we hone in on the question, [‘is the world around us real?’](/articles/is-the-world-around-us-real/) – discussing Descartes and Locke further, and also considering responses from the philosophical giants who followed, including George Berkeley, David Hume, and Immanuel Kant. Interested in learning more? Explore the full course now! 
 
 <!--life's big questions-->
 <div class="course-promo darkradial-background subscribe text-center">

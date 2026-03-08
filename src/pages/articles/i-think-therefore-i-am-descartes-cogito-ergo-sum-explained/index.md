@@ -1,6 +1,6 @@
 ---
 title: "I Think Therefore I Am: Descartes’ Cogito Ergo Sum Explained"
-description: "17th-century philosopher Descartes’ exultant declaration — “I think, therefore I am” — is his defining philosophical statement. This article explores its meaning, significance, and how it altered the course of philosophy forever."
+description: "17th-century philosopher Descartes’ exultant declaration – “I think, therefore I am” – is his defining philosophical statement. This article explores its meaning, significance, and how it altered the course of philosophy forever."
 image: "./virtual-reality.jpg"
 imageAlt: "Descartes I think therefore I am"
 imageSeo: "./virtual-reality.jpg"
@@ -19,9 +19,9 @@ Doesn’t it just express something really obvious?
 
 Well, Descartes was not merely conveying a platitude when he coined these famous words. 
 
-For him, “I am thinking, therefore I exist” is a crucial example of a statement which, when thought, _cannot be false_ — and thus a significant step in his search for certain, irrefutable knowledge. 
+For him, “I am thinking, therefore I exist” is a crucial example of a statement which, when thought, _cannot be false_ – and thus a significant step in his search for certain, irrefutable knowledge. 
 
-Indeed, the brilliance of _cogito ergo sum_ — and why it changed Western philosophy forever — really becomes clear once we consider its philosophical background, Descartes’ motivations, and the radical <i>un</i>certainty that brought it about…
+Indeed, the brilliance of _cogito ergo sum_ – and why it changed Western philosophy forever – really becomes clear once we consider its philosophical background, Descartes’ motivations, and the radical <i>un</i>certainty that brought it about…
 
 ## Descartes’ search for certainty, via relentless methodic doubt
 
@@ -33,19 +33,19 @@ But Descartes was not without reason: in his work as a mathematician, he worried
 
 If we want to establish real, irrefutable certainty about reality, Descartes thinks, we must be strict in our approach.
 
-He thus decides that if there is reason to doubt the truth of something — no matter how slim the doubt — then it should be discarded as false.⁣ In his own words:
+He thus decides that if there is reason to doubt the truth of something – no matter how slim the doubt – then it should be discarded as false.⁣ In his own words:
 
 >if I am able to find in each \[aspect of an opinion] some reason to doubt, this will suffice to justify my rejecting the whole.
 
-And with his demolition — or _methodic doubt_, as it’s come to be known — Descartes doesn’t intend to focus on each of his opinions one by one; rather he intends to target the _foundations_ which prop them up: 
+And with his demolition – or _methodic doubt_, as it’s come to be known – Descartes doesn’t intend to focus on each of his opinions one by one; rather he intends to target the _foundations_ which prop them up: 
 
 >for owing to the fact that the destruction of the foundations of necessity brings with it the downfall of the rest of the edifice, I shall only in the first place attack those principles upon which all my former opinions rested.
 
-With this strict criteria for truth in mind, and his targets established, it’s not long before — as depicted with masterful drama in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> — Descartes struggles to feel convinced by the existence or reliability of, well, anything.
+With this strict criteria for truth in mind, and his targets established, it’s not long before – as depicted with masterful drama in his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> – Descartes struggles to feel convinced by the existence or reliability of, well, anything.
 
 Descartes asserts that most if not all of his opinions are based upon his _experiences_ of the world through his five senses. 
 
-His senses, however, are not always trustworthy — when he dreams or hallucinates, for instance, his experiences do not align to reality. 
+His senses, however, are not always trustworthy – when he dreams or hallucinates, for instance, his experiences do not align to reality. 
 
 Reflecting on this point, Descartes wonders if he can be sure he’s even awake _right now_, writing:
 
@@ -55,7 +55,7 @@ Have you ever, like Descartes, woken from a dream and thought, “but my God, th
 
 As Descartes so eloquently describes, when our perception of the world fails us, it can be jarring. 
 
-We take it for granted that our experience is authentic, so when it proves to be false it’s like a bucket of ice water to the face: “oh right,” you think, “my perception is not infallible — maybe I don’t always experience the real, true world.”
+We take it for granted that our experience is authentic, so when it proves to be false it’s like a bucket of ice water to the face: “oh right,” you think, “my perception is not infallible – maybe I don’t always experience the real, true world.”
 
 But, according to Descartes’s strict criteria for truth outlined above, where does that leave us? 
 
@@ -67,7 +67,7 @@ And, if we cannot trust information obtained from our senses, then how can we co
 
 Maybe our brains are just in vats somewhere, hooked up to a load of computers, and all this ‘experience’ is mere simulation. 
 
-Or maybe nothing physical exists at all and this is all just one big hallucination — _everything_ is an illusion, a figment of the mental realm, or even the conjurings of an Evil Demon determined to mislead us about the true nature of reality...
+Or maybe nothing physical exists at all and this is all just one big hallucination – _everything_ is an illusion, a figment of the mental realm, or even the conjurings of an Evil Demon determined to mislead us about the true nature of reality...
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -102,13 +102,13 @@ Poor old Descartes got himself into a right state over all this:
 
 >So serious are the doubts into which I have been thrown as a result of yesterday’s meditations that I can neither put them out of my mind nor see any way of resolving them. It feels as if I have fallen unexpectedly into a deep whirlpool which tumbles me around so that I can neither stand on the bottom nor swim up to the top.
 
-By this point frantic with worry, Descartes seeks to repair some of the damage caused by his relentless doubting by groping around for something — anything — we can be absolutely certain of. 
+By this point frantic with worry, Descartes seeks to repair some of the damage caused by his relentless doubting by groping around for something – anything – we can be absolutely certain of. 
 
 And, after a while, he finds it.
 
 ## I think, therefore I am
 
-<span class="big-letter">A</span>s noted at the beginning, a clearer translation of Descartes’ definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration — _cogito ergo sum!_ — Descartes assures himself of his own existence. 
+<span class="big-letter">A</span>s noted at the beginning, a clearer translation of Descartes’ definitive statement might be, “I am thinking, therefore I exist.” Regardless, in his exultant declaration – _cogito ergo sum!_ – Descartes assures himself of his own existence. 
 
 Phew. Mop that brow, eh René: at last, here is something of which we can be absolutely certain. 
 
@@ -152,7 +152,7 @@ For Descartes’ doubting leaves us with a number of rather alarming concerns: d
 
 The philosophical position of solipsism (see our [solipsism explainer here](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/)) takes Descartes’ skepticism in these areas to their apparent logical conclusion: we cannot have knowledge (or assert the existence) of anything beyond our own minds.
 
-Of course, the solipsist position has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about — including by the 17th-century philosophers John Locke ([see our explainer on Locke’s _tabula rasa_ here](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/)) and George Berkeley ([see our explainer on Berkeley’s subjective idealism here](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)) — which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
+Of course, the solipsist position has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about – including by the 17th-century philosophers John Locke ([see our explainer on Locke’s _tabula rasa_ here](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/)) and George Berkeley ([see our explainer on Berkeley’s subjective idealism here](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)) – which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
 
 Is Descartes’ approach to knowledge-building reasonable? Is certainty actually required for knowledge? How _else_ might knowledge be construed?
 

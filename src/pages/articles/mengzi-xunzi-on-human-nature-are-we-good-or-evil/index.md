@@ -25,7 +25,7 @@ But a deeper look reveals a bit more nuance and complexity.
 
 ## Mengzi on the sprouts of moral goodness 
 
-<span class="big-letter">T</span>he first bond we form in life — that with our parents or primary caregivers — exposes what Mengzi calls our ‘sprouts’ of moral goodness. 
+<span class="big-letter">T</span>he first bond we form in life – that with our parents or primary caregivers – exposes what Mengzi calls our ‘sprouts’ of moral goodness. 
 
 These are our moral intuitions, or our predispositions for being good, compassionate human beings. 
 
@@ -54,7 +54,7 @@ Human nature is actually innately _bad_, Xunzi elaborates:
 
 >People’s nature is such that they are born with a fondness for profit in them. If they follow along with this, then struggle and contention will arise, and yielding and deference will perish therein. They are born with feelings of hate and dislike in them. If they follow along with these, then cruelty and villainy will arise, and loyalty and trustworthiness will perish therein. They are born with desires of the eyes and ears, a fondness for beautiful sights and sounds. If they follow along with these, then lasciviousness and chaos will arise, and ritual and righteousness, proper form and order, will perish therein.
 
-For Xunzi, we have a love of profit and susceptibility to sensory desire that, if left unchecked, will lead us into personal suffering — and society into disarray. 
+For Xunzi, we have a love of profit and susceptibility to sensory desire that, if left unchecked, will lead us into personal suffering – and society into disarray. 
 
 Thankfully, on Xunzi’s view we also have an aptitude for intelligent, intentional action, and so by following the wisdom of the sages (the wisest among us), we can transform our innately bad natures into something good.
 
@@ -81,7 +81,7 @@ Thankfully, on Xunzi’s view we also have an aptitude for intelligent, intentio
 
 <span class="big-letter">I</span>n his instructive essay [Beyond Respecting Mencius and Criticizing Xunzi](https://brill.com/view/journals/joch/6/1/article-p43_4.xml?language=en), the scholar Tao Liang positions Mengzi and Xunzi in relation to two key ideas of Confucianism, _ren_ (commonly translated as benevolence or humaneness) and _li_ (ritual). 
 
-Confucianism requires both _ren_ and _li_, but Mengzi and Xunzi — following their views on human nature — each create a system that emphasizes one over the other, Liang observes. 
+Confucianism requires both _ren_ and _li_, but Mengzi and Xunzi – following their views on human nature – each create a system that emphasizes one over the other, Liang observes. 
 
 Mengzi places emphasis on _ren_, whereby a sage can, as Mengzi puts it,
 
@@ -123,7 +123,7 @@ As Wong summarizes in his 2008 essay, _Chinese Ethics:_
 
 Proceeding along the path of becoming an exemplary person, Mengzi and Xunzi thus agree, means placing great importance on the cultivation of our characters.
 
-Our moral sprouts (be they positive or negative) simply signal our potential for development — and it’s our _development_ that is most important. 
+Our moral sprouts (be they positive or negative) simply signal our potential for development – and it’s our _development_ that is most important. 
 
 So, while they disagree on our initial, innate human nature, Mengzi and Xunzi can be partially reconciled in their agreement that it is the cultivation of character, not its starting place, that matters most.
 
@@ -131,7 +131,7 @@ To answer the question of _how_ we can then actually go about cultivating oursel
 
 ## Xunzi’s influence on Legalism
 
-<span class="big-letter">W</span>hile Xunzi recommends the Confucian route of self-cultivation and ritual learning, his initial views on human nature — that we are naturally bad-natured — informed another important Chinese philosophical tradition, Legalism. 
+<span class="big-letter">W</span>hile Xunzi recommends the Confucian route of self-cultivation and ritual learning, his initial views on human nature – that we are naturally bad-natured – informed another important Chinese philosophical tradition, Legalism. 
 
 Xunzi’s insights into human nature aligned with and influenced those of important Legalist figures like Han Feizi and Li Si, who advocated for strict law and order as the only way to hold people in check. 
 
@@ -147,7 +147,7 @@ Consider, for instance, Confucius’s famous statement in <a target="_blank" rel
 
 You may also be interested in our new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Confucianism to six rival philosophies for life.
 
-In the meantime — what do you make of Mengzi and Xunzi’s positions on human nature? Do you prefer Mengzi’s ‘sprouts’ to Xunzi’s ‘profiteering desires’? Are both of them right? Are both of them wrong? Or is their agreement over the importance of moral development more significant than their disagreement over its starting place?
+In the meantime – what do you make of Mengzi and Xunzi’s positions on human nature? Do you prefer Mengzi’s ‘sprouts’ to Xunzi’s ‘profiteering desires’? Are both of them right? Are both of them wrong? Or is their agreement over the importance of moral development more significant than their disagreement over its starting place?
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

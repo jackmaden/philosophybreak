@@ -29,7 +29,7 @@ While it may be tempting to focus on the outcome of projects, however, contempor
 
 “We tend to be, I think, a little bit too obsessed with project-like structures in our lives,” [Setiya remarks in an interview](/articles/life-is-hard-interview-with-mit-philosophy-professor-kieran-setiya/) I conducted with him a couple of years ago:
 
->When you’re focusing on a project, you’re aiming at something in the future, and then as soon as you achieve it, it’s over. What you’re doing is taking this thing that’s structuring your life and attempting to finish it — and thereby getting rid of the source of meaning in your life. The more you focus on things like that, the more you risk setting yourself up for evaluating your life in terms of success and failure. But it’s important to remember that not all activities are like that.
+>When you’re focusing on a project, you’re aiming at something in the future, and then as soon as you achieve it, it’s over. What you’re doing is taking this thing that’s structuring your life and attempting to finish it – and thereby getting rid of the source of meaning in your life. The more you focus on things like that, the more you risk setting yourself up for evaluating your life in terms of success and failure. But it’s important to remember that not all activities are like that.
 
 Setiya draws a distinction between _telic_ activities and _atelic_ activities, terms which originate from the Greek word telos, meaning ultimate object or aim:
 
@@ -37,7 +37,7 @@ Setiya draws a distinction between _telic_ activities and _atelic_ activities, t
 
 Many New Year’s resolutions tend to be telic in structure: they aim at a desired future state. Setiya reminds us, however, that it is atelic activities that actually fill our days:
 
->The more we recognize the value of the atelic activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
+>The more we recognize the value of the atelic activities we’re engaged in on a daily basis – like walking, eating, interacting with our loved ones – the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
 
 If setting resolutions, then, we should ask ourselves not just who we want to be in the future, but who we want to be day-to-day, on the way to that future. As Setiya puts it:
 
@@ -95,7 +95,7 @@ For our purposes here, however, facing the year ahead: if we long for more meani
 
 19th-century German philosopher Friedrich Nietzsche, for instance, suggests the new year fills him with a spirit of openness. He expresses his wish to live according to amor fati, love of fate:
 
->For the new year. — I still live, I still think: I still have to live, for I still have to think… Today everybody permits himself the expression of his wish and his dearest thought: hence I, too, shall say what it is that I wish from myself… I want to learn to see more and more as beautiful what is necessary in things; then I shall be one of those who makes things beautiful. _Amor fati:_ let that be my love henceforth! I do not want to wage war against what is ugly. I do not want to accuse. Looking away shall be my only negation. And all and all and on the whole: someday I wish to be only a Yes-sayer.
+>For the new year. – I still live, I still think: I still have to live, for I still have to think… Today everybody permits himself the expression of his wish and his dearest thought: hence I, too, shall say what it is that I wish from myself… I want to learn to see more and more as beautiful what is necessary in things; then I shall be one of those who makes things beautiful. _Amor fati:_ let that be my love henceforth! I do not want to wage war against what is ugly. I do not want to accuse. Looking away shall be my only negation. And all and all and on the whole: someday I wish to be only a Yes-sayer.
 
 This famous passage from Nietzsche's 1882 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4qoqVpr">The Gay Science</a> offers an early blueprint for his Übermensch figure, someone who overcomes convention and self-pity to say yes to everything that comes their way.
 

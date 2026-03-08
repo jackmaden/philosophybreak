@@ -27,7 +27,7 @@ Rather than seek short-lived _active_ pleasure, Epicurus is more concerned with 
 
 _This_ is what the good life involves, Epicurus thinks: _ataraxia_, tranquility. 
 
-Dispelling that which disturbs _ataraxia_ — namely fear and anxiety — should thus be one of our chief aims, and something with which philosophy can help us. Through careful and proper use of reason, Epicurus wants to demonstrate that many of our fears and anxieties are baseless. 
+Dispelling that which disturbs _ataraxia_ – namely fear and anxiety – should thus be one of our chief aims, and something with which philosophy can help us. Through careful and proper use of reason, Epicurus wants to demonstrate that many of our fears and anxieties are baseless. 
 
 In other words: we already have everything we need to live happy, tranquil lives, we just make mistakes about what’s important or _real_, and these mistakes lead us astray. 
 
@@ -41,17 +41,17 @@ An important example that Epicurus sets his sights on is our fear that lots of t
 
 >Continuous physical pain does not last long. Instead, extreme pain lasts only a very short time, and even less-extreme pain does not last for many days at once. Even protracted diseases allow periods of physical comfort that exceed feelings of pain.
 
-Physical pain, while not exactly enjoyable, is not _unendurable_, either. When it’s intense, it usually doesn’t last that long, and if it does last a long time, it’s usually not that intense. (If it’s intense _and_ lasts a long time, Epicurus cheerfully adds, it usually leads to [death — which is also nothing to worry about](/articles/epicurus-on-why-death-should-not-concern-us/), as the pain will then cease).
+Physical pain, while not exactly enjoyable, is not _unendurable_, either. When it’s intense, it usually doesn’t last that long, and if it does last a long time, it’s usually not that intense. (If it’s intense _and_ lasts a long time, Epicurus cheerfully adds, it usually leads to [death – which is also nothing to worry about](/articles/epicurus-on-why-death-should-not-concern-us/), as the pain will then cease).
 
 Of course, this doesn’t mean physical pain is welcome in the Epicurean life, nor that it’s not a big deal: the good life is one that maximizes pleasure and minimizes pain. 
 
-All Epicurus is saying is that the reality of physical pain is often radically different to what we imagine — in fact, we actually suffer more _in our imagination_ than we do in reality: our _fear_ of future physical pain causes us more harm than the physical pain itself. 
+All Epicurus is saying is that the reality of physical pain is often radically different to what we imagine – in fact, we actually suffer more _in our imagination_ than we do in reality: our _fear_ of future physical pain causes us more harm than the physical pain itself. 
 
 Physical pain isn’t the only thing we worry about too much, Epicurus thinks. We might worry about harm coming to loved ones, about losing our livelihoods, even relatively small things like saying the wrong thing in a social situation. 
 
 In all these cases, the amount of mental anguish we go through in our imaginations _dwarfs_ the reality of the pain we actually typically face in our day-to-day lives. 
 
-If we want to reduce harm in our lives, then, Epicurus — writing almost 2,500 years ago — warns us that it is on our _minds_ that we must focus most of our efforts.
+If we want to reduce harm in our lives, then, Epicurus – writing almost 2,500 years ago – warns us that it is on our _minds_ that we must focus most of our efforts.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -78,7 +78,7 @@ Consider the Stoic philosopher Seneca, writing a couple of centuries after Epicu
 
 Of course, agreeing with this insight is much easier than doing anything about it: our cunning, survival-tuned brains have ways of conjuring imagined dangers for us whether we like it or not.
 
-Perhaps at times there are advantages to this: we can anticipate and thus mentally prepare ourselves for future difficulty. If we use our imaginations in this reasoned, preparatory fashion — seeing future situations _clearly_, and planning our reactions rationally — then the Epicureans and Stoics are all for it.
+Perhaps at times there are advantages to this: we can anticipate and thus mentally prepare ourselves for future difficulty. If we use our imaginations in this reasoned, preparatory fashion – seeing future situations _clearly_, and planning our reactions rationally – then the Epicureans and Stoics are all for it.
 
 Often, though, the anticipation can run away from us and lead to paralyzing, mind-flaying anxiety. We imagine worst case scenarios, and the resulting emotions we’d experience, rather than the solutions we’d offer. 
 
@@ -96,7 +96,7 @@ This is easier said than done, of course, and by reading ancient Greek philosoph
 
 However, an important marker of progress in doing so is identifying the _source_ of our troubles: the thing causing us harm is not reality, it is the way we are using our imaginations. 
 
-By identifying the culprit — i.e. our undisciplined imaginations — we can better target our efforts in finding solutions. It is _fear_, not fact; it is our _false beliefs_ causing us pain, not reality. By exposing our false beliefs, we can better make progress in achieving _ataraxia_. 
+By identifying the culprit – i.e. our undisciplined imaginations – we can better target our efforts in finding solutions. It is _fear_, not fact; it is our _false beliefs_ causing us pain, not reality. By exposing our false beliefs, we can better make progress in achieving _ataraxia_. 
 
 Perhaps, then, a major stepping stone to the good life isn’t striving for moral or material perfection; perhaps it’s simply taking a breath, going for a walk, and being a bit easier on ourselves in our imaginations.
 
@@ -107,7 +107,7 @@ Perhaps, then, a major stepping stone to the good life isn’t striving for mora
 
 ## Learn more about the Epicurean approach to the good life
 
-<span class="big-letter">I</span>f you’re interested in learning more about Epicurus and six other major philosophical approaches to the good life — including Buddhism, Stoicism, and Existentialism — you might like my [How to Live a Good Life guide](/how-to-live-a-good-life/).
+<span class="big-letter">I</span>f you’re interested in learning more about Epicurus and six other major philosophical approaches to the good life – including Buddhism, Stoicism, and Existentialism – you might like my [How to Live a Good Life guide](/how-to-live-a-good-life/).
 
 You might also enjoy the following related reads:
 

@@ -17,21 +17,21 @@ If we could be certain, for example, that a child would be born into a brief lif
 
 But what about more typical lives? What about existences that contain a mix of happiness and suffering? Surely it’s fine to create more of those?
 
-Antinatalism is a philosophical position that says no, it’s not. Given the amount of suffering even an average life will experience — pain, fear, anxiety, sickness, toil, boredom, exhaustion, loneliness, persecution, grief, insecurity, disease, violence, death — bringing new beings into existence is morally wrong.
+Antinatalism is a philosophical position that says no, it’s not. Given the amount of suffering even an average life will experience – pain, fear, anxiety, sickness, toil, boredom, exhaustion, loneliness, persecution, grief, insecurity, disease, violence, death – bringing new beings into existence is morally wrong.
 
 Of course, life has its moments of happiness, but antinatalists generally think such moments do not justify the otherwise relentless worries, discomforts, and torments to which existence exposes us. It would be better for all of us if we’d never been born.
 
-This may seem an absurdly pessimistic view, but antinatalists claim it’s merely realistic. If we look at existence rationally, away from the biological imperative to survive and multiply — which biases us into thinking life is more sunshine and rainbows than death and taxes — then we will come to recognize that existence itself is a losing game. 
+This may seem an absurdly pessimistic view, but antinatalists claim it’s merely realistic. If we look at existence rationally, away from the biological imperative to survive and multiply – which biases us into thinking life is more sunshine and rainbows than death and taxes – then we will come to recognize that existence itself is a losing game. 
 
 One source of inspiration for antinatalism is the great pessimist of Western philosophy, Arthur Schopenhauer. Though he doesn’t propose antinatalism specifically, Schopenhauer characterizes human existence as a pendulum swinging drearily between boredom and pain.
 
-We spend our days longing (painfully) for things we lack, Schopenhauer observes: food, entertainment, meaning, connection, warmth, solitude, wealth. Such longings are only ever satisfied fleetingly — if at all — before the impotent ache of boredom descends, a new longing consumes our attention, and we set off in painful pursuit once more. 
+We spend our days longing (painfully) for things we lack, Schopenhauer observes: food, entertainment, meaning, connection, warmth, solitude, wealth. Such longings are only ever satisfied fleetingly – if at all – before the impotent ache of boredom descends, a new longing consumes our attention, and we set off in painful pursuit once more. 
 
 “The measures of suffering in human life \[are] out of all proportion to its pleasures,” Schopenhauer declares in his essay <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4luOJVc">On the Sufferings of the World</a>, before asking:
 
 >If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence?
 
-Antinatalists answer Schopenhauer’s first question with a firm no. Given the wretchedness of existence — given the world is a bad place and on course to get worse — the best outcome for humanity would be to cease procreating, and over the next several decades guide ourselves (and ideally all other sentient life) to a painless extinction.
+Antinatalists answer Schopenhauer’s first question with a firm no. Given the wretchedness of existence – given the world is a bad place and on course to get worse – the best outcome for humanity would be to cease procreating, and over the next several decades guide ourselves (and ideally all other sentient life) to a painless extinction.
 
 So far, so cheerful: it’s easy to baulk at this rather extreme conclusion.
 
@@ -82,7 +82,7 @@ From a relatively simple set of premises, Benatar thus draws one of philosophy�
 
 <span class="big-letter">P</span>hilosophers have responded to Benatar’s argument in many different ways. If we recall, Benatar thinks his asymmetry is supported by the fact that it explains some widely-held intuitions around happiness and suffering, such as that pain aversion is more important than benefit accrual. Some philosophers suggest that if Benatar’s argument relies on intuitions, yet leads to a deeply unintuitive conclusion, then it seems unclear why we should trust our intuitions in one case and not the other.
 
-Other philosophers simply reject the asymmetry itself: rather than ‘not bad’, the absence of pleasure — no loving relationships, no sensual joy, no spiritual serenity — is in fact just plain _bad_. A universe lacking such things would be _worse_ than one that has them, and we _do_ lament absent pleasures. 
+Other philosophers simply reject the asymmetry itself: rather than ‘not bad’, the absence of pleasure – no loving relationships, no sensual joy, no spiritual serenity – is in fact just plain _bad_. A universe lacking such things would be _worse_ than one that has them, and we _do_ lament absent pleasures. 
 
 In a [2021 paper](https://link.springer.com/article/10.1007/s10677-021-10186-4), meanwhile, the philosopher Fumitake Yoshizawa suggests that even if we grant Benatar all his intuitions and premises, the antinatalist conclusion still doesn’t follow. Benatar’s asymmetry evaluates _parts_ of a life, like pain and pleasure, while drawing conclusions about life as a whole. If we adapt Benatar’s asymmetry to instead evaluate life as a whole, it runs like this:
 
@@ -93,7 +93,7 @@ In a [2021 paper](https://link.springer.com/article/10.1007/s10677-021-10186-4),
 
 This follows the exact same asymmetrical logic as Benatar’s argument, and it accounts for the other asymmetrical beliefs he draws upon; but here the global antinatalist conclusion doesn’t follow.
 
-Instead, a more limited _local_ antinatalism follows: in some cases — i.e. ones where it’s guaranteed someone will live a miserable life — creating life constitutes a harm. But the creation of happy lives is not impermissible.
+Instead, a more limited _local_ antinatalism follows: in some cases – i.e. ones where it’s guaranteed someone will live a miserable life – creating life constitutes a harm. But the creation of happy lives is not impermissible.
 
 Antinatalists might respond that creating ‘happy lives’ is ultimately impossible. Given the sheer quantity of pain and suffering, the value of life is always a net negative, so procreation remains wrong.
 
@@ -107,11 +107,11 @@ Another response is to look beyond pain and pleasure entirely: to wonder whether
 
 [Virtue ethicists like Aristotle](/articles/the-golden-mean-aristotle-guide-to-living-excellently/), for instance, tell us that the good life isn’t about the balance of pleasure over pain; it’s about expressing excellence. Indeed, [the Stoics go as far to declare](/articles/aristotle-vs-the-stoics-what-does-happiness-require/) that what happens to us is generally an ‘indifferent’; it’s how we respond that matters. Rather than lament that we do not have a perfect, ideal, pain-free existence, our energy would be better directed on cultivating the unique flavor of excellence available to us in _this_ life. 
 
-Antinatalists might say, well, that’s all fine and dandy for justifying the continuation of _your_ life, but it still doesn’t license you to create _new_ life — to expose new beings to the wretched suffering of a limited human existence. 
+Antinatalists might say, well, that’s all fine and dandy for justifying the continuation of _your_ life, but it still doesn’t license you to create _new_ life – to expose new beings to the wretched suffering of a limited human existence. 
 
 But if we don’t value life only as the attempt to secure more pleasure over pain, then this sort of argument against procreation doesn’t really touch us. If we see life also as the pursuit of excellence, or connection, or meaning, then creating and nurturing the next generation can play a fundamental part in that.
 
-This doesn’t necessarily mean it’s a duty to procreate — people can pursue different forms of excellence and fulfill their potential in different ways — but it’s difficult to see how it’s an unforgivable moral sin, especially if we do our best to enhance our children’s experiences, and prepare them for excellence in their own lives.
+This doesn’t necessarily mean it’s a duty to procreate – people can pursue different forms of excellence and fulfill their potential in different ways – but it’s difficult to see how it’s an unforgivable moral sin, especially if we do our best to enhance our children’s experiences, and prepare them for excellence in their own lives.
 
 Indeed, if we commit to raising someone who ends up being thankful they exist, then where’s the harm in that?
 

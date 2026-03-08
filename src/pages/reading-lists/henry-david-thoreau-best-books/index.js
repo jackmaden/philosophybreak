@@ -45,11 +45,11 @@ const ReadingList = ({ data, location }) => {
 
             <p>As the 19th-century Danish philosopher <Link to="/articles/kierkegaard-on-finding-the-meaning-of-life/">Kierkegaard also argues when discussing the meaning of life</Link>, we will not find fulfillment in objectivity or conformity, Thoreau thinks; we must maintain our subjectivity, acknowledge our individuality, and answer the questions life poses <i>for ourselves</i>.</p>
 
-            <p>Thoreau’s work greatly informed <i>Transcendentalism</i>, a 19th-century philosophical movement spearheaded by Emerson and Margaret Fuller that believes in the inherent goodness — even divinity — of nature and humanity.</p>
+            <p>Thoreau’s work greatly informed <i>Transcendentalism</i>, a 19th-century philosophical movement spearheaded by Emerson and Margaret Fuller that believes in the inherent goodness – even divinity – of nature and humanity.</p>
 
             <p>Within this picture, Transcendentalists see society as a corrupting force, as a conspiracy against individuality.</p>
 
-            <p>They believe — as set out with masterful prose in <Link to="/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/">Emerson’s famous essay on self-reliance</Link> — that we are at our best when we are left to our own devices in nature, when we are <i>self-reliant</i>; and that cooperation and morality come naturally, and need not be legislated by the state.</p>
+            <p>They believe – as set out with masterful prose in <Link to="/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/">Emerson’s famous essay on self-reliance</Link> – that we are at our best when we are left to our own devices in nature, when we are <i>self-reliant</i>; and that cooperation and morality come naturally, and need not be legislated by the state.</p>
 
             <p>If the practices of the state come into conflict with our own conscience, Transcendentalists thus advise us to prioritize the needs of our own conscience.</p>
 
@@ -75,7 +75,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>The book we now know and love as <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/0199538069?&linkCode=ll1&tag=philosophybre-20&linkId=b62a1da62168eb739b2378f057473c1d&language=en_US&ref_=as_li_ss_tl">Walden</a> emerges from Thoreau’s initial journal entries upon arriving in the woods.</p>
 
-              <p>Though he was not totally isolated during the two years he spent at Walden Pond — he received visitors, and went home for Sunday dinners — Thoreau created enough space between himself and civilization to expertly dissect the extent to which conformity infects our individuality.</p>
+              <p>Though he was not totally isolated during the two years he spent at Walden Pond – he received visitors, and went home for Sunday dinners – Thoreau created enough space between himself and civilization to expertly dissect the extent to which conformity infects our individuality.</p>
 
               <p>It is this incisive dissection that imbues <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/0199538069?&linkCode=ll1&tag=philosophybre-20&linkId=b62a1da62168eb739b2378f057473c1d&language=en_US&ref_=as_li_ss_tl">Walden</a> with its power: Thoreau meditates beautifully on the power of the natural world, his role within it, and the nefarious ways in which society and the accumulation of wealth alienates us from nature, each other, and ourselves.</p>
 
@@ -87,11 +87,11 @@ const ReadingList = ({ data, location }) => {
 
               <p>Fueled by his outrage at slavery and the American-Mexican war, Thoreau’s essay <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Civil-Disobedience-Henry-David-Thoreau/dp/1619490927?&linkCode=ll1&tag=philosophybre-20&linkId=70bf7c9c66423631756257876ad74550&language=en_US&ref_=as_li_ss_tl ">Civil Disobedience</a> calls for all citizens to value their own conscience above anything legislated by law, and has been highly influential since its publication in 1849.</p>
 
-              <p>Thoreau was aghast that his tax dollars were being used to fund activities — slavery and war — that he vehemently disagreed with.</p>
+              <p>Thoreau was aghast that his tax dollars were being used to fund activities – slavery and war – that he vehemently disagreed with.</p>
 
               <p>Unable to square his financial contribution with his own conscience, he thus stopped paying his taxes, and spent time in prison for doing so.</p>
 
-              <p>For Thoreau, going to prison was a better outcome — a <i>freer</i> outcome — than acting against his own conscience.</p>
+              <p>For Thoreau, going to prison was a better outcome – a <i>freer</i> outcome – than acting against his own conscience.</p>
 
               <p>This episode in Thoreau’s life is a prime example of the non-violent protest he champions throughout <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Civil-Disobedience-Henry-David-Thoreau/dp/1619490927?&linkCode=ll1&tag=philosophybre-20&linkId=70bf7c9c66423631756257876ad74550&language=en_US&ref_=as_li_ss_tl ">Civil Disobedience</a>, and his method inspired later figures like Mahatma Gandhi and Martin Luther King Jr.</p>
 
@@ -101,11 +101,11 @@ const ReadingList = ({ data, location }) => {
 
               <p>But here Thoreau is actually quoting from the masthead of the libertarian publication <i>U.S. Democratic Review</i>.</p>
               
-              <p>He goes on to expand this position, not necessarily calling for no government, but calling for <i>better</i> government — he wants the government to focus on what it is good at, like building infrastructure, and not infiltrate the moral sphere.</p>
+              <p>He goes on to expand this position, not necessarily calling for no government, but calling for <i>better</i> government – he wants the government to focus on what it is good at, like building infrastructure, and not infiltrate the moral sphere.</p>
 
               <p>For, in the realms of morality and living a good life, Thoreau argues, it is <i>self-governance</i> that must take precedence.</p>
 
-              <p>If you’re interested in how Thoreau reconciles his emphasis on individual autonomy with participation in collective society — and in reading an essay that has had huge political influence in the years since it was written — <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Civil-Disobedience-Henry-David-Thoreau/dp/1619490927?&linkCode=ll1&tag=philosophybre-20&linkId=70bf7c9c66423631756257876ad74550&language=en_US&ref_=as_li_ss_tl ">Civil Disobedience</a> is for you.</p>
+              <p>If you’re interested in how Thoreau reconciles his emphasis on individual autonomy with participation in collective society – and in reading an essay that has had huge political influence in the years since it was written – <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Civil-Disobedience-Henry-David-Thoreau/dp/1619490927?&linkCode=ll1&tag=philosophybre-20&linkId=70bf7c9c66423631756257876ad74550&language=en_US&ref_=as_li_ss_tl ">Civil Disobedience</a> is for you.</p>
 
 
               <h2>3. The Journal of Henry David Thoreau, by Henry David Thoreau</h2>
@@ -113,7 +113,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>As we discussed above, Thoreau’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/0199538069?&linkCode=ll1&tag=philosophybre-20&linkId=b62a1da62168eb739b2378f057473c1d&language=en_US&ref_=as_li_ss_tl">Walden</a> emerged from his initial journal entries.</p>
 
-              <p>Fans of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/0199538069?&linkCode=ll1&tag=philosophybre-20&linkId=b62a1da62168eb739b2378f057473c1d&language=en_US&ref_=as_li_ss_tl">Walden</a>, then: rejoice, for Thoreau kept a journal all his life — and the same strong narrative voice speaks from these pages.</p>
+              <p>Fans of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/0199538069?&linkCode=ll1&tag=philosophybre-20&linkId=b62a1da62168eb739b2378f057473c1d&language=en_US&ref_=as_li_ss_tl">Walden</a>, then: rejoice, for Thoreau kept a journal all his life – and the same strong narrative voice speaks from these pages.</p>
 
               <p>We get an insight into Thoreau’s day-to-day existence (which involves a wonderful amount of walking in nature), his sensitivity to the beauty of the natural world, his passion for ecology and plantlife, and of course his nuanced insights into the ways in which society corrupts the purity of natural human life.</p>
 
@@ -143,7 +143,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>If you’re looking to learn more about the life Thoreau lived and the events that shaped his work, Laura Dassow Walls’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/dp/022634469X?&linkCode=ll1&tag=philosophybre-20&linkId=423414af23a8ebb8863c56cebb6578d5&language=en_US&ref_=as_li_ss_tl">Henry David Thoreau: A Life</a> is a luminous biography, excellently researched and engagingly written.</p>
 
-              <p>Walls charts Thoreau’s fascinating life from cradle to grave, and provides exceptional contextual detail throughout — including the untimely death of his brother, his days as a Harvard student, his association with the Transcendentalism and intellectual circle of Ralph Waldo Emerson, his radical politics, his environmentalism, and what his brilliant prose says about America then and now.</p> 
+              <p>Walls charts Thoreau’s fascinating life from cradle to grave, and provides exceptional contextual detail throughout – including the untimely death of his brother, his days as a Harvard student, his association with the Transcendentalism and intellectual circle of Ralph Waldo Emerson, his radical politics, his environmentalism, and what his brilliant prose says about America then and now.</p> 
 
               <p>Walls writes,</p>
 

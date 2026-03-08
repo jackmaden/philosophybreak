@@ -19,9 +19,9 @@ From this point on, Siddhartha was now ‘Buddha’ (literally meaning ‘the aw
 
 The Buddha packaged his core lessons into what’s become known as the ‘Four Noble Truths’.
 
-These truths are recorded in a key sutta entitled (in Pali) _Dhammacakkappavattana Sutta_, meaning ‘The Setting in Motion of the Wheel of Teaching’ — the first sermon given by the Buddha after his enlightenment.
+These truths are recorded in a key sutta entitled (in Pali) _Dhammacakkappavattana Sutta_, meaning ‘The Setting in Motion of the Wheel of Teaching’ – the first sermon given by the Buddha after his enlightenment.
 
-The Buddha speaks to five monks in a place called Deer Park. He first offers his ‘Middle Way’ — his idea that enlightenment is not to be found through extreme indulgence, nor extreme asceticism, but through a middle path of moderation.
+The Buddha speaks to five monks in a place called Deer Park. He first offers his ‘Middle Way’ – his idea that enlightenment is not to be found through extreme indulgence, nor extreme asceticism, but through a middle path of moderation.
 
 In other suttas, this lesson of avoiding extremes is applied not just to lifestyle but to all behavior. 
 
@@ -38,19 +38,19 @@ Let’s consider each in a bit more detail.
 
 <span class="big-letter">T</span>he Pali word _dukkha_ is quite difficult to define: traditionally translated as suffering, some render it as ‘dissatisfaction’ or ‘unease’. 
 
-Essentially, _dukkha_ captures all of life’s disappointment, stress, discomfort, pain, unfulfilled hopes, and unhappiness — from small everyday anxieties to significant loss.
+Essentially, _dukkha_ captures all of life’s disappointment, stress, discomfort, pain, unfulfilled hopes, and unhappiness – from small everyday anxieties to significant loss.
 
 When offering this first of the Four Noble Truths, the Buddha elaborates:
 
 >Birth is suffering, decay is suffering, illness is suffering, death is suffering, to be united with the unpleasant is suffering, to be separated from the pleasant is suffering, not to get what one desires is suffering.
 
-In other words, we suffer often throughout our lives, and rather than pretend otherwise we must frankly face up to this: suffering _exists_ — and comes in many forms.
+In other words, we suffer often throughout our lives, and rather than pretend otherwise we must frankly face up to this: suffering _exists_ – and comes in many forms.
 
 Even if you are happy, this happiness will end. Even if you are full of love for the people in your life, you and those people will one day die. 
 
 While Buddhists work towards ending suffering, the first step is to acknowledge it is there.
 
-Living in denial about the impermanent nature of reality — or seeking to avoid it through temporary solutions — will only create more suffering, which brings us to the second truth.
+Living in denial about the impermanent nature of reality – or seeking to avoid it through temporary solutions – will only create more suffering, which brings us to the second truth.
 
 ## 2. Suffering has a cause
 
@@ -58,9 +58,9 @@ The Buddha elaborates:
 
 >It is craving (_tanha_) which renews being, and is accompanied by desire and lust, desire for this and that. In other words, craving for sensual pleasures, craving to be, craving not to be.
 
-The reason we suffer is because of how attached we are to certain desires. (Some scholars translate ‘tanha’ as ‘desire’ rather than craving, which can be misleading. The Buddha is not saying _all_ desire is the problem — we have natural desires to eat and drink, for instance — just that forming unhealthy attachments to our desires, becoming misled or enchanted by them, is when the problems start).  
+The reason we suffer is because of how attached we are to certain desires. (Some scholars translate ‘tanha’ as ‘desire’ rather than craving, which can be misleading. The Buddha is not saying _all_ desire is the problem – we have natural desires to eat and drink, for instance – just that forming unhealthy attachments to our desires, becoming misled or enchanted by them, is when the problems start).  
 
-Craving the fulfillment of our desires causes suffering. If we feel a _need_ to achieve certain goals, acquire certain items, be popular with certain people, indulge certain pleasures — then we are just setting ourselves up for more suffering. 
+Craving the fulfillment of our desires causes suffering. If we feel a _need_ to achieve certain goals, acquire certain items, be popular with certain people, indulge certain pleasures – then we are just setting ourselves up for more suffering. 
 
 For, even if we obtain everything we want, we’ll soon crave something new, and never quell the background buzz of dissatisfaction brought on by the craving / acquisition cycle. 
 
@@ -103,7 +103,7 @@ The Buddha elaborates:
 
 The constituents of the Eightfold Path encapsulate the ‘Middle Way’ Buddhist guidebook for life, and are often split into three categories: wisdom, ethics, and mental discipline. 
 
-While Buddhism may thus appear to be based on a rather pessimistic premise — i.e. life involves suffering — it offers a hopeful solution: this suffering can be eliminated.
+While Buddhism may thus appear to be based on a rather pessimistic premise – i.e. life involves suffering – it offers a hopeful solution: this suffering can be eliminated.
 
 By tackling our unhealthy desires head on, purging ourselves of ego-based craving, cultivating the central Buddhist virtue of compassion, living with impermanence in mind, and following the Eightfold Path, we can achieve tranquility. 
 
@@ -114,7 +114,7 @@ Part of it, for instance, consists in dismantling our flawed conception of self.
 ## What do you make of the Buddha’s Four Noble Truths?
 
 - Does the Buddha’s diagnosis of why we suffer ring true for you? 
-- Do you think his solution — eliminating craving — provides a path to the tranquil life?
+- Do you think his solution – eliminating craving – provides a path to the tranquil life?
 - Or, by eliminating craving, do we also eliminate a key part of what makes life worth living? (For instance, [Nietzsche suggests suffering is necessary for greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)).
 
 <div id="exclude-scroll-height">

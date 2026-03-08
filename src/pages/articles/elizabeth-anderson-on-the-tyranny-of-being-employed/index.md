@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Anderson on the Tyranny of Being Employed"
-description: "Contemporary philosopher Elizabeth Anderson argues that while we may think of citizens in western liberal democracies as relatively ‘free’, most people are actually subject to ruthless authoritarian government — not from the state, but from their employer."
+description: "Contemporary philosopher Elizabeth Anderson argues that while we may think of citizens in western liberal democracies as relatively ‘free’, most people are actually subject to ruthless authoritarian government – not from the state, but from their employer."
 image: "./ware.jpg"
 imageAlt: "Elizabeth Anderson on the Tyranny of Being Employed"
 imageSeo: "./ware.jpg"
@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">A</span>re you the free citizen of a liberal democracy? Or are you the relatively powerless subject of a ruthless, private dictatorship?
 
-These are the questions posed by contemporary philosopher Elizabeth Anderson in her famous 2014 Tanner Lectures, later compiled into a short but compelling book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Y7rZ5F">Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)</a> — featuring Anderson’s original lectures, critiques from other thinkers, and Anderson’s response to those critiques. 
+These are the questions posed by contemporary philosopher Elizabeth Anderson in her famous 2014 Tanner Lectures, later compiled into a short but compelling book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3Y7rZ5F">Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)</a> – featuring Anderson’s original lectures, critiques from other thinkers, and Anderson’s response to those critiques. 
 
 In her original lectures, Anderson argues that while authoritarianism has seemingly been conquered in the public constitutions of western liberal democracies, it’s alive and well in the private sphere.
 
@@ -25,7 +25,7 @@ Anderson’s claim might seem a bit hyperbolic at first glance, but she asks us 
 
 >Imagine a government that assigns almost everyone a superior whom they must obey. Although superiors give most inferiors a routine to follow, there is no rule of law. Orders may be arbitrary and can change at any time, without prior notice or opportunity to appeal. Superiors are unaccountable to those they order around. They are neither elected nor removable by their inferiors. Inferiors have no right to complain in court about how they are being treated, except in a few narrowly defined cases. They also have no right to be consulted about the orders they are given.
 
-Anderson goes on to describe this fictional society for two full pages — including, for instance, how:
+Anderson goes on to describe this fictional society for two full pages – including, for instance, how:
 
 - The government takes the form of a dictatorship that controls the channels of communication with its own propaganda apparatus.
 - All members of this society live under surveillance, with email and phone conversations tracked and inspected.
@@ -36,17 +36,17 @@ Anderson goes on to describe this fictional society for two full pages — inclu
 
 Would we describe the people living in such a society as _free?_ Anderson thinks: probably not.
 
-In fact, their freedoms seem to resemble those of people living under the communist dictatorships of, say, Soviet Russia — a system of government surely proven inferior to the free market principles of the USA.
+In fact, their freedoms seem to resemble those of people living under the communist dictatorships of, say, Soviet Russia – a system of government surely proven inferior to the free market principles of the USA.
 
 Nevertheless, Anderson maintains, while the American Dream may be celebrated as superior to the communist dictatorship, “Most workers in the United States are governed by communist dictatorships in their work lives”:
 
 >Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is…
 
-## Can workplaces — which we are free to enter and exit as we please — _really_ be compared to authoritarian regimes?
+## Can workplaces – which we are free to enter and exit as we please – _really_ be compared to authoritarian regimes?
 
-<span class="big-letter">D</span>espite Anderson’s vivid illustrations, perhaps we might feel resistant to the strength of her language — and, indeed, Anderson thinks the reason we might struggle to acknowledge the extent of the power dynamic in our working lives is because of ideology.
+<span class="big-letter">D</span>espite Anderson’s vivid illustrations, perhaps we might feel resistant to the strength of her language – and, indeed, Anderson thinks the reason we might struggle to acknowledge the extent of the power dynamic in our working lives is because of ideology.
 
-Rather than see corporations as dictatorships, we learn to see them as the manifestation of _free market ideals_. A business’s hierarchy and chain of command represent _efficiency_ and _productivity_ — sculpted by the invisible hand of the market. 
+Rather than see corporations as dictatorships, we learn to see them as the manifestation of _free market ideals_. A business’s hierarchy and chain of command represent _efficiency_ and _productivity_ – sculpted by the invisible hand of the market. 
 
 Unsurprisingly, Anderson wants to push back on this narrative. She presents a novel history of free market ideals, invoking theorists like Adam Smith, John Locke, and Thomas Paine, to suggest that the original vision of the free market was not one of big international firms; rather, it involved lots of independent, predominantly self-employed individuals coming together to exchange goods.
 
@@ -64,7 +64,7 @@ Employees are independent agents who freely enter contracts with firms for mutua
 
 Accordingly, just as firms compete to attract customers, firms must also compete to attract top talent, driving up the standard of working conditions. The market governs all. Everybody wins.
 
-But this narrative — persuasive as it may be — is _awfully convenient_ for large corporations, Anderson thinks.
+But this narrative – persuasive as it may be – is _awfully convenient_ for large corporations, Anderson thinks.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -87,7 +87,7 @@ Yes, employees freely enter contracts; but those contracts are drawn up and deci
 
 And yes, employees are free to quit; but the freedom to exit does not equate to _actual freedom_.
 
-Because: what happens next? In many cases, stringent non-compete clauses limit the possible options — and, even if a worker is free to join a competitor without the threat of a lawsuit, it’s like telling someone in one dictatorship they are free to migrate to another.
+Because: what happens next? In many cases, stringent non-compete clauses limit the possible options – and, even if a worker is free to join a competitor without the threat of a lawsuit, it’s like telling someone in one dictatorship they are free to migrate to another.
 
 Anderson draws a powerful analogy with the law of coverture here. Under coverture, as soon as a woman marries a man, she loses all rights to own property and make contracts in her own name. Even if we made it easy for women under coverture to divorce their husbands (which, historically, it wasn’t at all), we can see how the institution of marriage would remain fundamentally imbalanced and unjust between men and women. 
 
@@ -103,17 +103,17 @@ Anderson would agree: she recognizes that the hierarchical structure adopted by 
 
 She’s not concerned about that; rather, she simply wants to kickstart a conversation about _corporate overreach_.
 
-Anderson wants us to recognize that firms have far more power over their employees’ lives than can be justified by mere efficiency and productivity — but that we aren’t equipped with the right language to properly scrutinize these problems. She claims that
+Anderson wants us to recognize that firms have far more power over their employees’ lives than can be justified by mere efficiency and productivity – but that we aren’t equipped with the right language to properly scrutinize these problems. She claims that
 
 >we don’t have good ways to talk about the way bosses rule workers’ lives. Instead, we talk as if workers _aren’t_ ruled by their bosses. We are told that unregulated markets make us free, and that the only threat to our liberties is the state. We are told that in the market, all transactions are voluntary. We are told that, since workers freely enter and exit the labor contract, they are perfectly free under it: bosses have no more authority over workers than customers have over their grocer.
 
-Hence Anderson’s introduction of the term _private government_ — a tool for advancing the discussion around worker dignity and autonomy.
+Hence Anderson’s introduction of the term _private government_ – a tool for advancing the discussion around worker dignity and autonomy.
 
-This is how we should view the modern workplace, Anderson argues — not as a manifestation of free market ideals, but as a private and rather ruthless form of government. 
+This is how we should view the modern workplace, Anderson argues – not as a manifestation of free market ideals, but as a private and rather ruthless form of government. 
 
 How can private governments be held to account so that workers are not humiliated, exploited, dominated, inappropriately surveilled, pressured, or abused?
 
-Anderson is not calling for revolution — she just wants us to think carefully about what a free market really looks like.
+Anderson is not calling for revolution – she just wants us to think carefully about what a free market really looks like.
 
 Does a warehouse worker being tracked and monitored constitute freedom?  
 

@@ -57,7 +57,7 @@ I think teachers have incredible power. For good and for bad.
 
 Personally, I never find myself staying long enough with one particular philosopher to find _the_ answer, but I know some people have, and many people will. There’s a great pleasure and power in finding a thought or idea expressed so perfectly it could be ripped from your own soul. And yet, I’m much more of a philosophical magpie. I’ll agree with Montaigne about this and Nietzsche about that. It’s Descartes in the morning, and Lao Tzu at night. I’ll recommend Aristotle to some friends, and then Kierkegaard to others. But the truth is that they’re all important. 
 
-So, having not answered the question at all, I can give the most frustratingly slippery answer there is — you’ve got to try doing philosophy to see what it can give you. It’s a process, an adventure, a therapy, an exploration, and a journey. You’ll find some great things along the way, and some utter bilge, but the gold that you find will make you want to dive straight back in.
+So, having not answered the question at all, I can give the most frustratingly slippery answer there is – you’ve got to try doing philosophy to see what it can give you. It’s a process, an adventure, a therapy, an exploration, and a journey. You’ll find some great things along the way, and some utter bilge, but the gold that you find will make you want to dive straight back in.
 
 I think that’s quite enough mixed metaphors. 
 
@@ -65,7 +65,7 @@ I think that’s quite enough mixed metaphors.
 
 <span class="big-letter">T</span>o be honest, I’d have to say, “fair enough”. Sometimes, philosophy can be boring, outdated, or unimportant. I’ve read stuff which is all three.
 
-But — there’s a _big_ caveat to that. 
+But – there’s a _big_ caveat to that. 
 
 Each of those words is massively context sensitive. What is boring to you now might not be in ten years’ time. What seems outdated, has depths of truth when you come back to it later. And most of all, what seems inconsequential to you in an earlier part of life, will suddenly seem magnificently important later on. 
 

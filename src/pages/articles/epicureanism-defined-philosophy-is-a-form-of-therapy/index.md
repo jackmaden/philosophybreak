@@ -10,11 +10,11 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">T</span>hroughout history, perhaps no philosophy has been slandered as much as Epicureanism. Famous for placing ‘pleasure’ as the highest (and only) good, the teachings of Epicurus drew fierce criticism across the ancient Greco-Roman world from those who saw pleasure as subordinate — as well as subsequently throughout Christian Europe, which connected much pleasure to shame. 
+<span class="big-letter">T</span>hroughout history, perhaps no philosophy has been slandered as much as Epicureanism. Famous for placing ‘pleasure’ as the highest (and only) good, the teachings of Epicurus drew fierce criticism across the ancient Greco-Roman world from those who saw pleasure as subordinate – as well as subsequently throughout Christian Europe, which connected much pleasure to shame. 
 
 The modern English word ‘epicurean’, meanwhile, has come to mean someone devoted to sensual enjoyment, especially from luxurious food and drink. And this is what the word ‘pleasure’ may bring to mind, too: sensory indulgence. 
 
-But this characterization of Epicureanism — that it’s a debaucherous, even debased philosophy — is a grave injustice to Epicurus’s actual teachings. 
+But this characterization of Epicureanism – that it’s a debaucherous, even debased philosophy – is a grave injustice to Epicurus’s actual teachings. 
 
 While Epicurus’s philosophy does champion pleasure, it also places different types of pleasure in a strict hierarchy. And, for Epicureans, by far and away the most important type of pleasure is _ataraxia_, literally meaning ‘not being troubled’, but usually translated as ‘tranquility’.
 
@@ -34,7 +34,7 @@ As the Roman poet Lucretius puts it in his important Epicurean work, <a target="
 
 <span class="big-letter">S</span>o, how _can_ we live lives of tranquility? Well, Epicurus’s answer is that the bulk of our fears, anxieties, worries, and yearnings are caused by false beliefs we have about ourselves and reality. 
 
-Epicurus wants to show us that we already have everything we need to live happy lives, but that our false beliefs about the world cause us anxiety and lead us astray. (In this way, Epicureanism shares much common ground with Stoicism and Buddhism, the top works of which can be explored in our reading lists of [philosophy’s best books](/reading-lists/) — and we outline [the four cardinal virtues of Stoicism here](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/), the [Stoic dichotomy of control here](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), and the [Buddhist concept of anātman (no-self) here](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)). 
+Epicurus wants to show us that we already have everything we need to live happy lives, but that our false beliefs about the world cause us anxiety and lead us astray. (In this way, Epicureanism shares much common ground with Stoicism and Buddhism, the top works of which can be explored in our reading lists of [philosophy’s best books](/reading-lists/) – and we outline [the four cardinal virtues of Stoicism here](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/), the [Stoic dichotomy of control here](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), and the [Buddhist concept of anātman (no-self) here](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)). 
 
 Through careful and proper use of reason, Epicurus wants to demonstrate that many of our fears and worries are baseless. He thinks that by conducting _philosophy as therapy_ in this way, we can relieve ourselves from many of life’s pains.
 
@@ -49,7 +49,7 @@ Follow these four mantras, Epicureans advise, and you’ll be well on your way t
 
 We explore the first two of these in our articles covering [Lucretius on why mortality (and the afterlife) are nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/), as well as [Epicurus on the true nature of death](/articles/epicurus-on-why-death-should-not-concern-us/). 
 
-For the remainder of _this_ article, let’s consider the third mantra — what’s good is easy to get — to see Epicurus’s therapeutic approach to philosophy in action.
+For the remainder of _this_ article, let’s consider the third mantra – what’s good is easy to get – to see Epicurus’s therapeutic approach to philosophy in action.
 
 ## What do we really need to live well?
 
@@ -59,7 +59,7 @@ He begins by questioning: what do we really _need_ for a happy life?
 
 Modernity might very well try to convince us that we need quite a lot: we need a big house, a new car, the latest gadgets, the most fashionable clothes. 
 
-We might feel the need to pack our lives with certain _experiences_, too — the luxury holiday, the fancy restaurant, the unmissable show. And, of course, to pay for all this, we need ever-more money.
+We might feel the need to pack our lives with certain _experiences_, too – the luxury holiday, the fancy restaurant, the unmissable show. And, of course, to pay for all this, we need ever-more money.
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -86,13 +86,13 @@ To help us navigate this whirlpool, Epicurus puts forward a simple system for wo
 
 ## Epicurus: which desires are natural and necessary?
 
-<span class="big-letter">T</span>o start, Epicurus strips things down to the basics. What do we actually need for physical survival? Food, water, shelter — that’s pretty much it. Epicurus calls our desires for these essentials ‘natural and necessary’.  
+<span class="big-letter">T</span>o start, Epicurus strips things down to the basics. What do we actually need for physical survival? Food, water, shelter – that’s pretty much it. Epicurus calls our desires for these essentials ‘natural and necessary’.  
 
 Now, what if beyond a basic range of essentials, we fancy treating ourselves with nicer food, a variety of drinks, and more comfortable, better located shelter? Again, these are perfectly natural and reasonable desires, though not entirely necessary. Epicurus thus buckets these desires as ‘natural but not necessary’. 
 
 Everything else? You guessed it: virtually _every other desire_ is ‘unnatural and unnecessary’. You do not need the latest phone; you do not need a faster car; you do not need a whole new wardrobe. 
 
-That doesn’t necessarily mean you shouldn’t _have_ such things; but by recognizing you don’t need them — and that they serve no natural purpose — you can undercut any anxiety you might feel in _not_ having them. 
+That doesn’t necessarily mean you shouldn’t _have_ such things; but by recognizing you don’t need them – and that they serve no natural purpose – you can undercut any anxiety you might feel in _not_ having them. 
 
 Reflecting on what we really need to live happy lives in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140447962/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140447962&linkId=479a12c489586060bdaa64ed1703fd90">On The Nature of Things</a>, Lucretius puts it poetically:
 
@@ -117,7 +117,7 @@ Ultimately, then, when we expose the true nature of many of our desires, Epicuru
     </div>
 </div>
 
-What we actually need for survival is very little, and — in contrast to our more extravagant desires — relatively easy to secure. As Epicurus puts it:
+What we actually need for survival is very little, and – in contrast to our more extravagant desires – relatively easy to secure. As Epicurus puts it:
 
 >One who understands the limits of the good life knows that what eliminates the pains brought on by need and what makes the whole of life perfect is easily obtained, so that there is no need for enterprises that entail the struggle for success.
   
@@ -129,7 +129,7 @@ Try to identify the unnecessary and unnatural desires in your own life. We all h
 
 No one is immune from this injection of desire, but one way we can limit its impact is to remind ourselves of what we actually _need_.
 
-Treating yourself to that nice new coat should be seen as just that: a treat. It’s not _necessary_ — and in fact those whose lifestyles demand ever finer things will find that the pleasures associated with their acquisitions plummet with time. If you’re experiencing diminishing returns on your pleasure, it means your expectations — your perceived ‘status’ baselines — have been raised to unsustainable, anxiety-inducing levels. As Epicurus puts it: 
+Treating yourself to that nice new coat should be seen as just that: a treat. It’s not _necessary_ – and in fact those whose lifestyles demand ever finer things will find that the pleasures associated with their acquisitions plummet with time. If you’re experiencing diminishing returns on your pleasure, it means your expectations – your perceived ‘status’ baselines – have been raised to unsustainable, anxiety-inducing levels. As Epicurus puts it: 
 
 >Nothing is sufficient for the person who finds sufficiency too little.
 
@@ -137,7 +137,7 @@ By all means enjoy the finer things in life; but _recognize them_ as the finer t
 
 Your long-term mental health should never be sacrificed for the short-term gratification of the consumerist treadmill. Indeed, if he were alive today, Epicurus would be yelling at us all to get off the treadmill, and to free ourselves from such detrimental, unnatural, unnecessary mental disturbances.  
 
-In his therapeutic analysis of desire, Epicurus thus hopes to have revealed to us that we don’t need much to live happy lives. Though we may _believe_ we do, through careful philosophical reasoning we can see that this belief is false. Our actual needs are relatively easily met: as long as we have food, water, and shelter, we can live in tranquility — and, by living simply, we can more fully enjoy the occasional treat.
+In his therapeutic analysis of desire, Epicurus thus hopes to have revealed to us that we don’t need much to live happy lives. Though we may _believe_ we do, through careful philosophical reasoning we can see that this belief is false. Our actual needs are relatively easily met: as long as we have food, water, and shelter, we can live in tranquility – and, by living simply, we can more fully enjoy the occasional treat.
 
 ## Learn more about Epicureanism
 
@@ -145,7 +145,7 @@ In his therapeutic analysis of desire, Epicurus thus hopes to have revealed to u
 
 Indeed, though Epicureanism is typically associated with a debaucherous form of hedonism, the life Epicurus recommends could not be further from this. His main focus is to provide everyone with the tools they need to identify mistakes they make about reality, dispel the anxiety such mistakes cause, [untrouble the mind](/articles/epicurus-on-the-arduous-task-of-untroubling-the-mind/), and live lives free of suffering in the pursuit of ataraxia (to see why some philosophers find even this mitigated form of hedonism troublesome, see [Nozick’s Experience Machine](/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/)).
 
-To further explore Epicureanism and six more hugely influential philosophies for life — including Stoicism, Buddhism, and Existentialism — check out our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
+To further explore Epicureanism and six more hugely influential philosophies for life – including Stoicism, Buddhism, and Existentialism – check out our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">A</span> nice broad distinction between Western and Chinese approaches to philosophy, courtesy of scholars David Hall and Roger Ames, is that while the general character of Western thought is ‘truth-seeking’, Chinese philosophy is ‘way-seeking’.
 
-Rather than obsessively trying to articulate the precise conceptual definitions of how things are, Chinese philosophies — particularly Daoism — recognize the limitations of language, and tend to place more emphasis on the value of _experience_.
+Rather than obsessively trying to articulate the precise conceptual definitions of how things are, Chinese philosophies – particularly Daoism – recognize the limitations of language, and tend to place more emphasis on the value of _experience_.
 
 The ultimate purpose of philosophy is not to logically define life but to help us _experience_ it with greater balance and harmony.
 
@@ -37,7 +37,7 @@ Consider the apparent ‘effortlessness’ of a Simone Biles balance beam flip, 
 
 Ancient Daoist thinker Zhuangzi brings wu wei to life with a famous story about a man named Chef Ding: a lord watches, mesmerized, as Chef Ding carves up an ox. The knife glides effortlessly, never getting stuck, almost like a dance. The lord compliments Chef Ding on his skill. Chef Ding puts down his knife and replies (as told in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/43cxcKv">the Zhuangzi</a>): 
 
->What I care about is the Way (Dao), which goes beyond skill. When I first began cutting up oxen, all I could see was the ox itself. After three years, I no longer saw the whole ox. Now I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants. I follow the natural markings, strike in the big hollows, guide the knife through the openings, and follow things as they are… A good cook changes his knife once a year — he cuts. An ordinary cook changes his knife once a month — he hacks. I’ve had this knife for nineteen years and… [t]he blade is still as good as if it had just come from the grindstone.
+>What I care about is the Way (Dao), which goes beyond skill. When I first began cutting up oxen, all I could see was the ox itself. After three years, I no longer saw the whole ox. Now I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants. I follow the natural markings, strike in the big hollows, guide the knife through the openings, and follow things as they are… A good cook changes his knife once a year – he cuts. An ordinary cook changes his knife once a month – he hacks. I’ve had this knife for nineteen years and… [t]he blade is still as good as if it had just come from the grindstone.
 
 Chef Ding’s abilities might bring to mind a psychological ‘flow state’, when we are so totally immersed in an ongoing process that we remain uninterrupted by intrusive thought or clumsy desire.
 

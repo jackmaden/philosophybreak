@@ -35,7 +35,7 @@ But Singer’s basic insight is that, if you live in an affluent country on a lo
 
 Though we may _feel_ we don’t have enough, people living in poverty _actually_ don’t have enough.
 
-This is not to deny people in affluent countries face genuine difficulties, but the 700 million people living in extreme poverty (i.e. on less than $2.15 a day) suffer daily hardships tied to the most basic of human necessities — like access to food, shelter, clean water, and healthcare.
+This is not to deny people in affluent countries face genuine difficulties, but the 700 million people living in extreme poverty (i.e. on less than $2.15 a day) suffer daily hardships tied to the most basic of human necessities – like access to food, shelter, clean water, and healthcare.
 
 So, why might we still feel unsure about giving our resources away..?
 
@@ -43,7 +43,7 @@ So, why might we still feel unsure about giving our resources away..?
 
 <span class="big-letter">O</span>ne thing that might stop us from enthusiastically donating spare resources right away is _proximity_. Perhaps we feel that a child drowning in front of us is just an entirely different case to the preventable deaths of children elsewhere. We can physically wade in and rescue the child in front of us; the children elsewhere are out of reach.
 
-But Singer pushes back on this point. Why is our geographical location morally relevant? A child’s life ‘over there’ is worth just as much as a child’s life ‘over here’: the morally relevant point is that it’s _within our power_ to save that life — and, through inaction, we are choosing not to.
+But Singer pushes back on this point. Why is our geographical location morally relevant? A child’s life ‘over there’ is worth just as much as a child’s life ‘over here’: the morally relevant point is that it’s _within our power_ to save that life – and, through inaction, we are choosing not to.
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -64,11 +64,11 @@ But Singer pushes back on this point. Why is our geographical location morally r
 
 Another objection we might raise is that there is an issue about responsibility here. For the child in front of us, there is no one else around to rescue them. If we do nothing, the child dies, and the responsibility is ours alone.
 
-However, with children elsewhere, it’s not just us who could rescue them — anyone could. The level of responsibility we have is surely diffused by this.
+However, with children elsewhere, it’s not just us who could rescue them – anyone could. The level of responsibility we have is surely diffused by this.
 
 Again, Singer pushes back on this. Morally, the number of people who _could_ help is of no relevance; the relevant point is that _we_ are deciding not to. 
 
-Perhaps we feel this is unfair — we might think Singer is attacking us personally, when we’ve done absolutely nothing to create the terrible conditions in the world. 
+Perhaps we feel this is unfair – we might think Singer is attacking us personally, when we’ve done absolutely nothing to create the terrible conditions in the world. 
 
 The Canadian philosopher Jan Narveson would agree. In his essay [We Don’t Owe Them a Thing!](https://philpapers.org/rec/NARWDO), he wonders why we have a responsibility to help those we haven’t harmed:
 
@@ -98,7 +98,7 @@ Accordingly, Singer’s practical, ‘public-facing’ answer is that we pledge 
 
 10% is a popular figure, but Singer actually offers an income-adjusted chart that recommends the proportion we should give depending on how much we earn, and it can be as low as 1%.
 
-By keeping the demands reasonable in this way ​​— i.e. by allowing people to generally maintain their lifestyles rather than impose hardship on themselves — Singer recognizes that more people are likely to pledge, and more money will be raised to do good.
+By keeping the demands reasonable in this way – i.e. by allowing people to generally maintain their lifestyles rather than impose hardship on themselves – Singer recognizes that more people are likely to pledge, and more money will be raised to do good.
 
 On this view, then, Singer isn’t saying we should necessarily feel guilty for occasionally treating ourselves or our loved ones rather than donating every spare resource we have to a worthy cause.
 
@@ -108,11 +108,11 @@ And, if occasionally treating ourselves makes us happy, and our happiness sustai
 
 As Singer writes:
 
->An ethical approach to life does not forbid having fun or enjoying food and wine; but it changes our sense of priorities. The effort and expense put into fashion, the endless search for more and more refined gastronomic pleasures, the added expense that marks out the luxury-car market — all these become disproportionate to people who can shift perspective long enough to put themselves in the position of others affected by their actions.
+>An ethical approach to life does not forbid having fun or enjoying food and wine; but it changes our sense of priorities. The effort and expense put into fashion, the endless search for more and more refined gastronomic pleasures, the added expense that marks out the luxury-car market – all these become disproportionate to people who can shift perspective long enough to put themselves in the position of others affected by their actions.
 
 ## What do you make of Singer’s arguments?
 
-<span class="big-letter">S</span>inger’s arguments have been deeply influential in applied ethics, particularly with regards to what philosophers call the _principle of beneficence_ — i.e. the extent to which we should help those in need. 
+<span class="big-letter">S</span>inger’s arguments have been deeply influential in applied ethics, particularly with regards to what philosophers call the _principle of beneficence_ – i.e. the extent to which we should help those in need. 
 
 While Singer suggests we have strong moral obligations to be beneficent, some philosophers find his position far too demanding and disruptive.
 

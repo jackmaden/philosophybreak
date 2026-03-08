@@ -1,6 +1,6 @@
 ---
 title: "Compatibilism: Philosophy’s Favorite Answer to the Free Will Debate"
-description: 'Popular claims that free will is an illusion tend to miss that, within philosophy, the debate hinges not on whether determinism is true, but on whether determinism and free will are compatible — and most philosophers working today think they are.'
+description: 'Popular claims that free will is an illusion tend to miss that, within philosophy, the debate hinges not on whether determinism is true, but on whether determinism and free will are compatible – and most philosophers working today think they are.'
 image: "./puppet.jpg"
 imageAlt: "Compatibilism: Philosophy’s Favorite Answer to the Free Will Debate"
 imageSeo: "./puppet.jpg"
@@ -11,9 +11,9 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">T</span>his morning I drank coffee rather than tea. Why? I don’t know — I just fancied a cup of coffee, so I made one. This might seem innocent enough; but, if you gave them the chance, philosophers could scrawl _hundreds of thousands of words_ about my choice of coffee over tea.
+<span class="big-letter">T</span>his morning I drank coffee rather than tea. Why? I don’t know – I just fancied a cup of coffee, so I made one. This might seem innocent enough; but, if you gave them the chance, philosophers could scrawl _hundreds of thousands of words_ about my choice of coffee over tea.
 
-Some of them — a smaller group in philosophy, but a growing one in neuroscience and popular culture — would say that, actually, any choice I felt was an illusion. 
+Some of them – a smaller group in philosophy, but a growing one in neuroscience and popular culture – would say that, actually, any choice I felt was an illusion. 
 
 Unbeknown to my sleepy self, psycho-biological chains of causality converged in my brain to _fix_ my choice of coffee in place.
 
@@ -90,7 +90,7 @@ Does freedom for the incompatibilist require that I have no background preferenc
 
 As the late philosopher Daniel Dennett puts it in his (also scathing) [review of Harris’s Free Will](https://www.samharris.org/blog/reflections-on-free-will):
 
->I don’t always have to reflect, consciously, on my reasons for my intentions for them to be both mine and free. When I say ‘thank you’ to somebody who gives me something, it is ‘force of habit’ and I am entirely unaware of the events in my brain that cause me to say it — but it is nonetheless a good example of a free action. Had I had a reason to override the habit, I would have overridden it. My not doing so tacitly endorses it as an action of mine. Most of the intentions we frame are like this, to one degree or another: we ‘instinctively’ reach out and pull the pedestrian to safety without time for thinking; we rashly adopt a sarcastic tone when replying to the police officer, we hear the doorbell and jump up to see who’s there. These are all voluntary actions for which we are normally held responsible if anything hinges on them.
+>I don’t always have to reflect, consciously, on my reasons for my intentions for them to be both mine and free. When I say ‘thank you’ to somebody who gives me something, it is ‘force of habit’ and I am entirely unaware of the events in my brain that cause me to say it – but it is nonetheless a good example of a free action. Had I had a reason to override the habit, I would have overridden it. My not doing so tacitly endorses it as an action of mine. Most of the intentions we frame are like this, to one degree or another: we ‘instinctively’ reach out and pull the pedestrian to safety without time for thinking; we rashly adopt a sarcastic tone when replying to the police officer, we hear the doorbell and jump up to see who’s there. These are all voluntary actions for which we are normally held responsible if anything hinges on them.
 
 Compatibilists can also question the second implicit requirement of the popular conception of free will: that, in order to be free, we must have the ability to do otherwise in identical situations.
 
@@ -100,11 +100,11 @@ If everything was exactly the same, obviously we’d act in exactly the same way
 
 Wouldn’t a more reasonable interpretation of the ‘ability to do otherwise’ be that we are able to do so in _similar_ situations? I.e. ‘if I could go back in time, I would act differently, _knowing what I do now…’_
 
-Many compatibilists thus think that the popular conception of free will — the standard _incompatibilist_ understanding of free will — defines freedom in such a way that _no corporeal being_ could possibly ever have it.
+Many compatibilists thus think that the popular conception of free will – the standard _incompatibilist_ understanding of free will – defines freedom in such a way that _no corporeal being_ could possibly ever have it.
 
 Indeed, ‘free will’ for the incompatibilist requires us to be God-like, immune to our histories, able to step outside the laws of nature and create new preferences and desires from moment to moment. 
 
-Obviously we don’t possess this God-like level of freedom, compatibilists think — but isn’t it a bit unreasonable to have an initial definition of free will so extreme that it requires us to literally break the laws of physics merely to regard ourselves as ‘free’?
+Obviously we don’t possess this God-like level of freedom, compatibilists think – but isn’t it a bit unreasonable to have an initial definition of free will so extreme that it requires us to literally break the laws of physics merely to regard ourselves as ‘free’?
 
 We don’t think of ourselves as enslaved by, say, gravity, so why see ourselves as slaves to causality?
 
@@ -152,21 +152,21 @@ While my conscious feelings in each case would certainly differ, ultimately I am
 
 But the compatibilist thinks this is far too extreme a conception of ‘freedom’. _Obviously_ there is a difference in the freedom of my decision between the two cases.
 
-Yes, in the first case, my preference for coffee simply arose for me unbidden, no doubt due to psycho-biological causes I have no idea about — but I freely, happily acted upon it, and had no reason _not_ to...
+Yes, in the first case, my preference for coffee simply arose for me unbidden, no doubt due to psycho-biological causes I have no idea about – but I freely, happily acted upon it, and had no reason _not_ to...
 
 In the second case, however, there is a _clear impediment_ to my ‘free will’... 
 
 And it is precisely in this softer, more nuanced, compatibilist conception of freedom, says Dennett, that we find the ‘elbow room’ needed to secure things like moral and artistic responsibility as we usually understand them. He writes: 
 
->In the end, if we trace back far enough to our infancy or beyond, we arrive at conditions that we were just lucky (or unlucky) to be born with. This undeniable fact is not the disqualifier of responsibility that \[incompatibilists] assume. It disqualifies us for ‘Ultimate’ responsibility, which would require us to be — like God! — _causa sui_, the original cause of ourselves... but this is nonsense. Our lack of Ultimate responsibility is not a moral blemish.... 
+>In the end, if we trace back far enough to our infancy or beyond, we arrive at conditions that we were just lucky (or unlucky) to be born with. This undeniable fact is not the disqualifier of responsibility that \[incompatibilists] assume. It disqualifies us for ‘Ultimate’ responsibility, which would require us to be – like God! – _causa sui_, the original cause of ourselves... but this is nonsense. Our lack of Ultimate responsibility is not a moral blemish.... 
 
 “Any realistic, reasonable account of free will,” Dennett continues, 
 
->acknowledges that we are stuck with some of our desires: for food and comfort and love and absence of pain — and the freedom to do what we want. We can’t not want these... they are the healthy, normal, sound, wise desires on which all others must rest. So banish the fantasy of any account of free will that is screwed so tight it demands that we aren’t free unless all our desires and meta-desires and meta-meta-desires are optional, choosable. Such ‘perfect’ freedom is, of course, an incoherent idea.
+>acknowledges that we are stuck with some of our desires: for food and comfort and love and absence of pain – and the freedom to do what we want. We can’t not want these... they are the healthy, normal, sound, wise desires on which all others must rest. So banish the fantasy of any account of free will that is screwed so tight it demands that we aren’t free unless all our desires and meta-desires and meta-meta-desires are optional, choosable. Such ‘perfect’ freedom is, of course, an incoherent idea.
 
 ## Determinism is the beginning of the discussion around free will, not its end
 
-<span class="big-letter">I</span>ncompatibilists might accuse compatibilists of simply moving the goal posts here, seeking to salvage free will merely by redefining it — conflating freedom of action with freedom of will. Their new definition doesn’t change the fact that determinism ultimately means we have no conscious control over our actions or desires…
+<span class="big-letter">I</span>ncompatibilists might accuse compatibilists of simply moving the goal posts here, seeking to salvage free will merely by redefining it – conflating freedom of action with freedom of will. Their new definition doesn’t change the fact that determinism ultimately means we have no conscious control over our actions or desires…
 
 But compatibilists might respond that the incompatibilist position relies upon a mystical, dualistic, erroneous conception of self, whereby ‘I’ am somehow separate from the processes in my brain and body…
 

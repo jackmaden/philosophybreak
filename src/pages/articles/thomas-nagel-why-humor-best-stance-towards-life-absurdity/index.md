@@ -1,6 +1,6 @@
 ---
 title: "Thomas Nagel On Why Humor is the Best Response to Life's Absurdity"
-description: "Life is absurd — but that's no reason for despair, argues contemporary philosopher Thomas Nagel. This article discusses why he believes humor to be the best way to cope with being human."
+description: "Life is absurd – but that's no reason for despair, argues contemporary philosopher Thomas Nagel. This article discusses why he believes humor to be the best way to cope with being human."
 image: "./nagel-butterfly.jpg"
 imageAlt: "trapped butterfly"
 imageSeo: "./nagel-butterfly.jpg"
@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">T</span>hroughout the history of philosophy, philosophers have been relatively quiet on humor — and the little that has been written has been rather descriptive and surprisingly negative. Plato and Hobbes, for instance, regarded laughter as an expression of superiority — even of scorn. [Kant](/reading-lists/immanuel-kant/) and Schopenhauer, meanwhile, correspond more closely to what is known as ‘Incongruity Theory’ — that laughter is caused by the puncturing of a set up of expectation. 
+<span class="big-letter">T</span>hroughout the history of philosophy, philosophers have been relatively quiet on humor – and the little that has been written has been rather descriptive and surprisingly negative. Plato and Hobbes, for instance, regarded laughter as an expression of superiority – even of scorn. [Kant](/reading-lists/immanuel-kant/) and Schopenhauer, meanwhile, correspond more closely to what is known as ‘Incongruity Theory’ – that laughter is caused by the puncturing of a set up of expectation. 
 
 Contemporary American philosopher Thomas Nagel, however, goes beyond theorizing about why we laugh and places humor as the essential stance to adopt in response to being human. 
 
@@ -26,7 +26,7 @@ In his [1971 essay The Absurd](https://philosophy.as.uky.edu/sites/default/files
 
 “Yet,” he continues, “when we take this view and recognize what we do as arbitrary, it does not disengage us from life, and _there lies our absurdity_: not in the fact that such an external view can be taken of us, but in the fact that we ourselves can take it, without ceasing to be the persons whose ultimate concerns are so coolly regarded.”
 
-We are consumed by the act of living: we follow careers or chase happiness or cultivate a certain lifestyle. But even in the day-to-day heat of this pursuit, we possess a strange ‘meta’ capacity to step back and recognize the highly specific nature of the rituals we follow, the arbitrariness of the goals we have, knowing our purposes would be very different if our circumstances were different — but _continuing to follow and pursue them as if they're all-important anyway_. 
+We are consumed by the act of living: we follow careers or chase happiness or cultivate a certain lifestyle. But even in the day-to-day heat of this pursuit, we possess a strange ‘meta’ capacity to step back and recognize the highly specific nature of the rituals we follow, the arbitrariness of the goals we have, knowing our purposes would be very different if our circumstances were different – but _continuing to follow and pursue them as if they're all-important anyway_. 
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -47,7 +47,7 @@ We are consumed by the act of living: we follow careers or chase happiness or cu
     </div>
 </div>
 
-The inadequate expressions of absurdity mentioned earlier — our insignificance due to small size and short lifespan — are thus revealed to simply be metaphors for this 'meta' perspective: “by feigning a nebula's-eye view,” Nagel explains, “we illustrate the capacity to see ourselves without presuppositions, as arbitrary, idiosyncratic, highly specific occupants of the world, one of countless possible forms of life.”
+The inadequate expressions of absurdity mentioned earlier – our insignificance due to small size and short lifespan – are thus revealed to simply be metaphors for this 'meta' perspective: “by feigning a nebula's-eye view,” Nagel explains, “we illustrate the capacity to see ourselves without presuppositions, as arbitrary, idiosyncratic, highly specific occupants of the world, one of countless possible forms of life.”
 
 Compare our existential situation to that of mice, Nagel advises. Like us, mice have to work to stay alive. But unlike us their existences aren’t absurd. This is because mice lack the required capacity for self-consciousness and self-transcendence that would enable them to see that they’re only mice. 
 
@@ -55,7 +55,7 @@ If a mouse _were_ to suddenly gain such abilities, Nagel writes, “his life _wo
 
 ## What _really_ makes life absurd? How Nagel differs from Camus
 
-<span class="big-letter">N</span>agel’s conception of absurdity — that we take our lives seriously despite recognizing their contingency — subtly differs from the better-known account put forward by the cool chief of absurdism, French philosopher [Albert Camus](/reading-lists/albert-camus/). 
+<span class="big-letter">N</span>agel’s conception of absurdity – that we take our lives seriously despite recognizing their contingency – subtly differs from the better-known account put forward by the cool chief of absurdism, French philosopher [Albert Camus](/reading-lists/albert-camus/). 
 
 [Camus states the absurdity of the human condition](/articles/absurdity-with-camus) arises from our need for meaning in a meaningless world. But for Nagel this doesn’t quite hit the mark. Absurdity arises not from our relationship to the world, he thinks, but from our human capacity to step back and adopt a universe-eye view of our existence. As he clarifies:
 
@@ -63,7 +63,7 @@ If a mouse _were_ to suddenly gain such abilities, Nagel writes, “his life _wo
 
 ## What should we do in the face of absurdity?
 
-<span class="big-letter">A</span>s well as differing to Camus in his conception of the absurd, Nagel also differs in his recommended response to it. While both agree that life’s absurdity cannot be escaped — that we must simply live with it — Camus recommends a stance of _defiance_ to help us cope, which Nagel questions:
+<span class="big-letter">A</span>s well as differing to Camus in his conception of the absurd, Nagel also differs in his recommended response to it. While both agree that life’s absurdity cannot be escaped – that we must simply live with it – Camus recommends a stance of _defiance_ to help us cope, which Nagel questions:
 
 >Camus rejects suicide and the other solutions he regards as escapist. What he recommends is defiance or scorn. We can salvage our dignity, he appears to believe, by shaking a fist at the world which is deaf to our pleas, and continuing to live in spite of it. This will not make our lives un-absurd, but it will lend them a certain nobility. This seems to me romantic and slightly self-pitying.
 
@@ -92,17 +92,17 @@ Indeed, if our sense of the absurd arises as a result of our advanced capability
 
 ## Laughing together in the dark
 
-<span class="big-letter">W</span>hen we step back and see our strivings for what they are — highly specific and without any real universal meaning — the view for Nagel is not heroic nor hopeless, but, as he puts it earlier in his essay, “sobering and comical”. 
+<span class="big-letter">W</span>hen we step back and see our strivings for what they are – highly specific and without any real universal meaning – the view for Nagel is not heroic nor hopeless, but, as he puts it earlier in his essay, “sobering and comical”. 
 
-We are self-aware mice unable to rise above our mousely strivings, and we continue to strive regardless. Does this ironic situation really call for despair? There's no real need for such dramatics, Nagel thinks. To paraphrase Oscar Wilde's quip in the comedy Lady Windermere’s Fan — life is much too important to be taken seriously. The appropriate response to the human condition is a slightly bemused smile — a celebratory laugh that we understand life's absurdity, yet carry on regardless.
+We are self-aware mice unable to rise above our mousely strivings, and we continue to strive regardless. Does this ironic situation really call for despair? There's no real need for such dramatics, Nagel thinks. To paraphrase Oscar Wilde's quip in the comedy Lady Windermere’s Fan – life is much too important to be taken seriously. The appropriate response to the human condition is a slightly bemused smile – a celebratory laugh that we understand life's absurdity, yet carry on regardless.
 
-In summary, then — yes, life is absurd. But hey! — it's interesting, and we can help each other through it by championing our enlightened cognitive condition with an ironical, humorous stance, and let our amused fascination light up the dark. 
+In summary, then – yes, life is absurd. But hey! – it's interesting, and we can help each other through it by championing our enlightened cognitive condition with an ironical, humorous stance, and let our amused fascination light up the dark. 
 
 ## Further reading
 
 <span class="big-letter">I</span>f Nagel’s position on absurdity has stoked your amused fascination for life, his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0195052161/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195052161&linkId=37e9c1b9904009913b6ab114bca378f7">What Does It All Mean?</a> is his brilliant introduction to the questions that have occupied philosophers for millennia. 
 
-If you’re looking for something a bit more controversial, Nagel’s 2012 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0199919755/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199919755&linkId=82242f05868bc9e83a2c9339323acda0">Mind and Cosmos</a> will provoke your thoughts on subjects ranging from evolution to the emergence of consciousness. Highly criticized when first published, Nagel’s book challenges the dominant materialist conception of the universe — and will challenge assumptions you may or may not be aware of making. 
+If you’re looking for something a bit more controversial, Nagel’s 2012 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0199919755/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199919755&linkId=82242f05868bc9e83a2c9339323acda0">Mind and Cosmos</a> will provoke your thoughts on subjects ranging from evolution to the emergence of consciousness. Highly criticized when first published, Nagel’s book challenges the dominant materialist conception of the universe – and will challenge assumptions you may or may not be aware of making. 
 
 ## Get one famous philosophical idea in your inbox each Sunday
 

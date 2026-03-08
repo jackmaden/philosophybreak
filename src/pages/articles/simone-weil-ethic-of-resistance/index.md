@@ -47,7 +47,7 @@ Even the leaders, who viewed themselves as the architects and strategists behind
 
 >Force is as pitiless to the man who possesses it, or thinks he does, as it is to its victims; the second it crushes, the first it intoxicates. The truth is, nobody really possesses it.
 
-Those in charge — and the followers who worship them — may feel immune, untouchable; but it is sheer luck of circumstance that grants them power, and circumstance can quickly change:
+Those in charge – and the followers who worship them – may feel immune, untouchable; but it is sheer luck of circumstance that grants them power, and circumstance can quickly change:
 
 >those who have force on loan from fate count on it too much and are destroyed… But at the time their own destruction seems impossible to them. For they do not see that the force in their possession is only a limited quantity; nor do they see their relations with other human beings as a kind of balance between unequal amounts of force.
 
@@ -77,7 +77,7 @@ Weil’s ethic of resistance is thus twofold. Firstly, we must cultivate clear t
 
 We must resist propaganda and cease viewing the world through the lens of tribal conflict. We must dismiss the rhetoric that places ‘us’ above ‘them’, that renders ‘us’ worthier or more virtuous than ‘them’, that risks chipping away our humanity and reducing us to mere instruments of force.
 
-After all, when a certain group sees itself as the righteous possessor of power, this is when genocides occur. We must instead strive, as difficult and uncomfortable as it may be, to recognize every single human being — including those on ‘the opposing side’ — as a fellow sufferer, subjugated by force, sharing a common human lot, worthy of dignity and deep compassion. 
+After all, when a certain group sees itself as the righteous possessor of power, this is when genocides occur. We must instead strive, as difficult and uncomfortable as it may be, to recognize every single human being – including those on ‘the opposing side’ – as a fellow sufferer, subjugated by force, sharing a common human lot, worthy of dignity and deep compassion. 
 
 Secondly, to complete the ethic of resistance, this clear and compassionate thinking must be paired with direct action. Though Weil dreamt of a world of dignity and justice, this does not mean she was squeamish about harnessing the brutality of force where necessary. In fact, force may be the _only_ effective response to those in its grip, to those who respect, admire, and even worship power.
 
@@ -97,7 +97,7 @@ But Weil thought resistance was morally necessary even if it seemed that success
 
 As a child during World War I, she sent her own share of sugar and chocolate rations to deployed French soldiers; at ten years old she joined her first of hundreds of protest marches; following her education, rather than join soft-handed theorists in writing about the plight of labourers, Weil joined labourers and worked, organized, and protested for years in factories, farms, and fisheries.
 
-When the Spanish Civil War broke out, Weil went to Spain to advance the cause of the Republicans. Her activism continued ceaselessly across Europe, as another World War broke out, all the way to her untimely death in 1943, where she died in a British hospital from complications of tuberculosis — reportedly exacerbated by the scant diet she’d followed in solidarity with soldiers fighting on the front, who had access to only the most meagre of rations.
+When the Spanish Civil War broke out, Weil went to Spain to advance the cause of the Republicans. Her activism continued ceaselessly across Europe, as another World War broke out, all the way to her untimely death in 1943, where she died in a British hospital from complications of tuberculosis – reportedly exacerbated by the scant diet she’d followed in solidarity with soldiers fighting on the front, who had access to only the most meagre of rations.
 
 At the end of her essay <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/44M7oXo">The Iliad, or the Poem of Force</a>, Weil declares the Iliad to be the greatest work of art the West had ever produced, because it so unsparingly and with perfect bitterness depicts how force subjugates the human spirit. No Western writer has since come close, Weil concludes:
 

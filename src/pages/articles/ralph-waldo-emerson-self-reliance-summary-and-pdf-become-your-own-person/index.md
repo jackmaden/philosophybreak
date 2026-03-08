@@ -15,13 +15,13 @@ authorLink: "/about/"
 
 Throughout his work, the philosopher Ralph Waldo Emerson (1803 - 1882) made his answers to such questions clear, spearheading the _Transcendentalist_ movement of mid-19th century America.
 
-One of the key hallmarks of the Transcendentalist movement, which notably included Emerson, Margaret Fuller, and Henry David Thoreau (see our [reading list of Thoreau’s best books here](/reading-lists/henry-david-thoreau-best-books/)), is its celebration of the supremacy — even divinity — of nature.
+One of the key hallmarks of the Transcendentalist movement, which notably included Emerson, Margaret Fuller, and Henry David Thoreau (see our [reading list of Thoreau’s best books here](/reading-lists/henry-david-thoreau-best-books/)), is its celebration of the supremacy – even divinity – of nature.
 
 Divinity is not locked in a distant heaven, say transcendentalists; it is accessible right here in the company of the natural world.
 
-We are thus at our best not when we conform to voices outside ourselves, but when we follow the voice within — the glimmering insight, the “immense intelligence” of our natural intuition and instincts.
+We are thus at our best not when we conform to voices outside ourselves, but when we follow the voice within – the glimmering insight, the “immense intelligence” of our natural intuition and instincts.
 
-Society on this view is seen as a corrupting force — it takes us _away_ from our natural wisdom. 
+Society on this view is seen as a corrupting force – it takes us _away_ from our natural wisdom. 
 
 Emerson offers the beginnings of a path for how we might _resist_ the pressures of society in his famous 1841 essay, _Self-Reliance_ (access the [full text of Self-Reliance as a free PDF here](https://math.dartmouth.edu/~doyle/docs/self/self.pdf)), which features in my [reading list of Emerson’s best books](/reading-lists/ralph-waldo-emerson-best-books/), and is a crucial contribution to Transcendentalist thought. 
 
@@ -39,7 +39,7 @@ Emerson reflects,
 
 >Great works of art have no more affecting lesson for us than this. They teach us to abide by our spontaneous impression with good-humored inflexibility [even] when the whole cry of voices is on the other side.
 
-In other words, if we identify our own buried thoughts and concerns in works of _genius_ — works we celebrate and implore others to read, watch, or listen to — then why, Emerson questions, do we often lack the conviction to express or act on such thoughts _ourselves?_ 
+In other words, if we identify our own buried thoughts and concerns in works of _genius_ – works we celebrate and implore others to read, watch, or listen to – then why, Emerson questions, do we often lack the conviction to express or act on such thoughts _ourselves?_ 
 
 Perhaps, Emerson laments, we push down such thoughts because they go against convention in some way, or because we feel they might embarrass or expose us if spoken aloud.
 
@@ -94,7 +94,7 @@ After all, what but mediocrity awaits us in convention and consistency?
 
 >A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall.
 
-Really living means growing and adapting, Emerson says — even if by growing and adapting we contradict our former selves, or people’s expectations of us:
+Really living means growing and adapting, Emerson says – even if by growing and adapting we contradict our former selves, or people’s expectations of us:
 
 >Suppose you should contradict yourself; what then? …Speak what you think now in hard words, and tomorrow speak what tomorrow thinks in hard words again, though it contradict everything you said today.
 
@@ -102,7 +102,7 @@ Really living means growing and adapting, Emerson says — even if by growing an
 
 ## Being self-reliant: the ineffable intelligence of our inner nature
 
-<span class="big-letter">W</span>e might wonder why Emerson places so much stock on our ‘inner natures’ — what does he really mean by _maintaining our individuality?_ How might we do so? 
+<span class="big-letter">W</span>e might wonder why Emerson places so much stock on our ‘inner natures’ – what does he really mean by _maintaining our individuality?_ How might we do so? 
 
 Well, Emerson thinks we are endowed with intuition from nature, an immense ‘gut’ intelligence that trumps the fleeting fashions of opinion in society. 
 
@@ -122,7 +122,7 @@ We will not be happy or strong until, like the examples in nature all around us,
 
 <span class="big-letter">E</span>merson argues our best acts will never come through imitation, for we will never surpass those on whom we model ourselves. 
 
-It is only through really, truly, authentically _being ourselves_ that we can live lives of which we can be proud — lives that take us beyond dreary mediocrity. Emerson writes:
+It is only through really, truly, authentically _being ourselves_ that we can live lives of which we can be proud – lives that take us beyond dreary mediocrity. Emerson writes:
 
 >Insist on yourself; never imitate. Your own gift you can present every moment with the cumulative force of a whole life’s cultivation; but of the adopted talent of another, you have only an extemporaneous, half possession.
 
@@ -136,11 +136,11 @@ Every great person is _unique_, Emerson thinks. It is through embracing _your_ u
 
 <span class="big-letter">B</span>ut what of others? If living only according to our own intuition for how we should live, does Emerson’s philosophy mean _selfishness?_ 
 
-No, Emerson says, it means _authenticity:_ seeking to bloom into the best versions of _ourselves_ — _not_ what society claims is best for us; seeking to be human beings of _value_ — _not_ creatures of conformity.
+No, Emerson says, it means _authenticity:_ seeking to bloom into the best versions of _ourselves_ – _not_ what society claims is best for us; seeking to be human beings of _value_ – _not_ creatures of conformity.
 
 “Live no longer to the expectation of these deceived and deceiving people with whom we converse,” Emerson writes. “Say to them,
 
->O father, O mother, O wife, O brother, O friend, I have lived with you after appearances hitherto. Henceforward I am the truth’s. Be it known unto you that henceforward I obey no law less than the eternal law... I shall endeavor to nourish my parents, to support my family, to be the chaste husband of one wife, — but these relations I must fill after a new and unprecedented way. I appeal from your customs. I must be myself. I cannot break myself any longer for you, or you. If you can love me for what I am, we shall be the happier. If you cannot, I will still seek to deserve that you should. I will not hide my tastes or aversions…
+>O father, O mother, O wife, O brother, O friend, I have lived with you after appearances hitherto. Henceforward I am the truth’s. Be it known unto you that henceforward I obey no law less than the eternal law... I shall endeavor to nourish my parents, to support my family, to be the chaste husband of one wife, – but these relations I must fill after a new and unprecedented way. I appeal from your customs. I must be myself. I cannot break myself any longer for you, or you. If you can love me for what I am, we shall be the happier. If you cannot, I will still seek to deserve that you should. I will not hide my tastes or aversions…
 
 We still strive to be the best we can be, and to respect and honor our loved ones, but through actions and behaviors that _we_ command, not that are commanded for us. 
 
@@ -189,7 +189,7 @@ So, Emerson commands: do not outsource your share of life to the opinions of oth
 
 <span class="big-letter">W</span>hat do you make of Emerson’s analysis? Do you value self-reliance over conformity? Do you agree that our intuition is often wiser than public opinion? Or is there an extent to which the ‘call’ of conscience we hear internally is actually the voice of society inside us?
 
-If you’d like to explore Emerson’s view further, you can read his _Self-Reliance_ essay in full in [this free PDF](https://math.dartmouth.edu/~doyle/docs/self/self.pdf) (if you have a spare 30-40 minutes, I highly recommend doing so — it’s a fantastic read. Emerson offers powerful critiques of different aspects of society — including the objects of education, travel, and the accumulation of wealth — and treats us to some beautiful natural imagery in his illustration of how we might live happier, more authentic lives.)
+If you’d like to explore Emerson’s view further, you can read his _Self-Reliance_ essay in full in [this free PDF](https://math.dartmouth.edu/~doyle/docs/self/self.pdf) (if you have a spare 30-40 minutes, I highly recommend doing so – it’s a fantastic read. Emerson offers powerful critiques of different aspects of society – including the objects of education, travel, and the accumulation of wealth – and treats us to some beautiful natural imagery in his illustration of how we might live happier, more authentic lives.)
 
 You might also be interested in these related reads which discuss the importance of self-reliance for living well:
 

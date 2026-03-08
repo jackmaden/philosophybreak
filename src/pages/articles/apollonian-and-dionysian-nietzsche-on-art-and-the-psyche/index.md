@@ -1,6 +1,6 @@
 ---
 title: "The Apollonian and Dionysian: Nietzsche On Art and the Psyche"
-description: "Since the time of Socrates, Nietzsche claims that Western culture has generally been too biased towards the ‘Apollonian’ (representing order and rationality) over the ‘Dionysian’ (chaos and vitality) — to the great detriment of art, truth, and the human psyche."
+description: "Since the time of Socrates, Nietzsche claims that Western culture has generally been too biased towards the ‘Apollonian’ (representing order and rationality) over the ‘Dionysian’ (chaos and vitality) – to the great detriment of art, truth, and the human psyche."
 image: "./dionysus.jpeg"
 imageAlt: "Delos Museum Mosaik Dionysos 06"
 imageSeo: "./dionysus.jpeg"
@@ -25,7 +25,7 @@ Whatever it was, when for those moments you let yourself go and became swept up 
 
 In other words: losing all sense of self, unraveling into something unstructured, disordered, perhaps even liberating.
 
-And then, of course — after the wild thrill of _Rausch_ — you return to yourself. Plain old ordered consciousness, predictably (and _individually_) moving through structured time.
+And then, of course – after the wild thrill of _Rausch_ – you return to yourself. Plain old ordered consciousness, predictably (and _individually_) moving through structured time.
 
 But, following Rausch, this refound sense of self is rocked slightly (and not just by the potential accompanying hangover), for we’ve had a taste of what Nietzsche dubs the _Dionysian._
 
@@ -57,7 +57,7 @@ This essay now appears as the preface to most editions of _The Birth of Tragedy_
 
 It should be noted, however, that as harsh as Nietzsche’s self-criticisms may seem, they were perhaps colored by the context as much as the content of his debut book, for _The Birth of Tragedy_ was written at a time when Nietzsche was very close to Richard Wagner and the composer’s soon-to-be wife, Cosima.
 
-The Wagners shared Nietzsche’s view about culture’s decline since the ancient Greeks, and _The Birth of Tragedy_ was in some way Nietzsche’s attempt to provide a philosophical framework for this shared view — and to justify Wagner’s music as a return to form for humanity generally.
+The Wagners shared Nietzsche’s view about culture’s decline since the ancient Greeks, and _The Birth of Tragedy_ was in some way Nietzsche’s attempt to provide a philosophical framework for this shared view – and to justify Wagner’s music as a return to form for humanity generally.
 
 However, as I outline in my overview of [Nietzsche’s life, insanity, and legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/), Nietzsche’s relationship with the Wagners soured dramatically in the years following the publication of _Birth of Tragedy_.
 
@@ -90,7 +90,7 @@ Having read and agreed with much Indian philosophy (he especially admired Hindu 
 
 Be those deficiencies survival-related (i.e. needing food and water), material (wanting a bigger house and nicer things), or existential (longing for meaning and fulfillment), we cannot help but yearn for things we don’t have.
 
-According to Schopenhauer, our default mode of existence is thus _to want_ — and to experience a want (i.e. being thirsty, hungry, anticipatory) is to suffer. 
+According to Schopenhauer, our default mode of existence is thus _to want_ – and to experience a want (i.e. being thirsty, hungry, anticipatory) is to suffer. 
 
 What’s more, even on obtaining our wants, satisfaction is fleeting and does not outweigh the pain the initial wanting caused in the first place, and a new want immediately replaces the old.
 
@@ -118,9 +118,9 @@ Reaching back to the Homeric age of ancient Greece, Nietzsche claims this drive 
 
 >resplendent, dream-born figures of the Olympians.
 
-Rationality is included in the Apollonian toolkit — and, rather strangely, Nietzsche claims another natural expression of the Apollonian is dreaming, because through our dreams we represent the world to ourselves with greater clarity and beauty. (To explain this and other unusual references to dreaming and control throughout his work, some scholars have suggested Nietzsche may have been a lucid dreamer).
+Rationality is included in the Apollonian toolkit – and, rather strangely, Nietzsche claims another natural expression of the Apollonian is dreaming, because through our dreams we represent the world to ourselves with greater clarity and beauty. (To explain this and other unusual references to dreaming and control throughout his work, some scholars have suggested Nietzsche may have been a lucid dreamer).
 
-The Homeric Greeks, meanwhile, expressed the Apollonian through their art. They captured all aspects of human life — even, as Nietzsche says, the “grave, gloomy, sad, and dark” aspects — and _beautified_ them with heroic myths, dramatic sculpture, and epic poetry. 
+The Homeric Greeks, meanwhile, expressed the Apollonian through their art. They captured all aspects of human life – even, as Nietzsche says, the “grave, gloomy, sad, and dark” aspects – and _beautified_ them with heroic myths, dramatic sculpture, and epic poetry. 
 
 These artistic endeavors lent purpose to life and made its otherwise random events seem narrative-led and meaningful: the Greeks could dim or even justify the horror of existence by cultivating it as an _aesthetic experience._
 
@@ -150,7 +150,7 @@ Indeed, following a night of Dionysian _Rausch_, the Apollonian Greek state of m
 
 In other words, following an experience of _Rausch_, the Homeric Greeks saw the pursuit of Apollonian art as no longer enough. 
 
-Its individuation, order, and harmony — once a calming healing balm that lent purpose and meaning to life — had been punctured by the Bacchic cults of Dionysus to reveal the underlying chaos and deindividuation of existence. 
+Its individuation, order, and harmony – once a calming healing balm that lent purpose and meaning to life – had been punctured by the Bacchic cults of Dionysus to reveal the underlying chaos and deindividuation of existence. 
 
 As Nietzsche summarizes: 
 
@@ -170,13 +170,13 @@ The tragic hero struggles to make (Apollonian) order of the unjust and chaotic (
 
 As a medium, too, tragedy combines the epic poetry of the Apollonian with the music of the Dionysian: the Greek tragic chorus is for Nietzsche the classic expression of the Dionysian, for the performers act not individually, but narrate and pass comment on the play in unison, remaining eternally the same, regardless of what comes to pass with the progression of the narrative or of time itself. 
 
-Through tragedy, the Greeks — especially the works of Aeschylus and Sophocles, Nietzsche thinks — managed to _symbolize_ (and thus distance and protect themselves from) the uncaring, timeless, deindividuated chaos of Dionysian reality. 
+Through tragedy, the Greeks – especially the works of Aeschylus and Sophocles, Nietzsche thinks – managed to _symbolize_ (and thus distance and protect themselves from) the uncaring, timeless, deindividuated chaos of Dionysian reality. 
 
 The tragic hero has no rational control over circumstance or narrative, and through watching the events unfold the audience understands this represents the fate of us all. The Dionysian is thus _filtered_ through the healing balm of the Apollonian, and becomes bearable. 
 
-By tempering — even affirming — the absurd, terrifying nature of existence in this way, the tragic worldview gets us closer to the truth of reality than any other artform or act of knowledge creation.
+By tempering – even affirming – the absurd, terrifying nature of existence in this way, the tragic worldview gets us closer to the truth of reality than any other artform or act of knowledge creation.
 
-## The highest art, the purest truth — and its downfall at the hands of Socrates
+## The highest art, the purest truth – and its downfall at the hands of Socrates
 
 <span class="big-letter">I</span>n <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a>, Nietzsche thus presents tragedy as the highest artform, the best way to deal with suffering, and the best characterization of existence. 
 
@@ -219,7 +219,7 @@ But don’t worry: there is a solution at hand, Nietzsche advises.
 
 ## Rescuing modern culture
 
-<span class="big-letter">B</span>y resurrecting the tragic worldview and allowing the Dionysian back in, by accepting and in fact _celebrating_ the mystery of existence as something that may be greater than our rationality can comprehend — thus we can rescue modern culture. 
+<span class="big-letter">B</span>y resurrecting the tragic worldview and allowing the Dionysian back in, by accepting and in fact _celebrating_ the mystery of existence as something that may be greater than our rationality can comprehend – thus we can rescue modern culture. 
 
 As Neitzsche famously declares in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a>, 
 
@@ -249,11 +249,11 @@ Scholars remain in lively discussion on these points. And, while following <a ta
 
 Nietzsche recognizes that the problem is as Schopenhauer put it: life is suffering. 
 
-And the cultural history of humankind thus far — including all art, religion, and science — has been shaped by trying to _respond_ to this suffering. 
+And the cultural history of humankind thus far – including all art, religion, and science – has been shaped by trying to _respond_ to this suffering. 
 
 We distance ourselves from the truth of our existential situation by subscribing to these various belief systems or illusions, Nietzsche thinks. Subconsciously or consciously, we sign up to these _collective coping mechanisms_, for there is only so much truth we can withstand. 
 
-In his later works, Nietzsche goes on to express his view that humanity’s psychological development must involve the ability to withstand _more_ truth — to in fact love and affirm our existential situation, rather than cover it in illusions.
+In his later works, Nietzsche goes on to express his view that humanity’s psychological development must involve the ability to withstand _more_ truth – to in fact love and affirm our existential situation, rather than cover it in illusions.
 
 ## The Birth of Tragedy’s influence
 
@@ -261,15 +261,15 @@ In his later works, Nietzsche goes on to express his view that humanity’s psyc
 
 Additionally, through his distinction between the Apollonian and the Dionysian, Nietzsche foreshadows his idea that the human psyche is constituted by various competing drives, which is the beginnings of his concept of the _will to power_, another point of discussion in my [Introduction to Nietzsche guide](/introduction-to-nietzsche/).
 
-What’s more, the distinction between the Apollonian and the Dionysian has been highly influential — for instance on Freud’s conception of the id and ego, as well as on the works of such thinkers as the anthropologist Ruth Benedict, who uses the terms to distinguish between different cultures.
+What’s more, the distinction between the Apollonian and the Dionysian has been highly influential – for instance on Freud’s conception of the id and ego, as well as on the works of such thinkers as the anthropologist Ruth Benedict, who uses the terms to distinguish between different cultures.
 
-So, while the later Nietzsche wanted to distance himself from much of what he wrote in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a>, we can see that many of the ideas he is most famous for — including [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/), the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/), and the [Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/) — in fact had their germ in his earliest work.
+So, while the later Nietzsche wanted to distance himself from much of what he wrote in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a>, we can see that many of the ideas he is most famous for – including [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/), the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/), and the [Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/) – in fact had their germ in his earliest work.
 
-The tantalizing distinction between the Apollonian and the Dionysian continues to fascinate, as does <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> as a whole, despite Nietzsche’s later partial rejection of it — for what were arguably personal, rather than philosophical, reasons. 
+The tantalizing distinction between the Apollonian and the Dionysian continues to fascinate, as does <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Birth-Tragedy-Spirit-Penguin-Classics/dp/0140433392?&linkCode=ll1&tag=philosophybre-20&linkId=46b3fb5ce95f795e09b414d683d49a59&language=en_US&ref_=as_li_ss_tl">The Birth of Tragedy</a> as a whole, despite Nietzsche’s later partial rejection of it – for what were arguably personal, rather than philosophical, reasons. 
 
 If nothing else, the Apollonian, Dionysian, and especially _Rausch_ provide useful labels for areas otherwise lacking in colloquial terms. 
 
-Next time you lose yourself in the crowd, become part of something larger than you are, or let your sense of self _dissolve..._  dwell on whether your loss of self actually gets you in touch with a deeper, deindividuated reality, whether your Apollonian consciousness is rocked the morning after the night before because your illusions — your everyday coping mechanisms — were shattered in the face of the beauty and horror of our existential situation... or perhaps because you were just very inebriated.
+Next time you lose yourself in the crowd, become part of something larger than you are, or let your sense of self _dissolve..._  dwell on whether your loss of self actually gets you in touch with a deeper, deindividuated reality, whether your Apollonian consciousness is rocked the morning after the night before because your illusions – your everyday coping mechanisms – were shattered in the face of the beauty and horror of our existential situation... or perhaps because you were just very inebriated.
 
 ## What do you make of Nietzsche’s distinction between the Apollonian and the Dionysian?
 

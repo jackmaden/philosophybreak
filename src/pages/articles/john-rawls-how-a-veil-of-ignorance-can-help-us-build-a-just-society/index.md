@@ -13,9 +13,9 @@ authorLink: "/about/"
 
 <span class="big-letter">W</span>hat does a just society look like? How can we best organize ourselves to ensure no one is treated unfairly? How should we distribute power, wealth, and freedom?
 
-These are difficult, complicated questions — and our answers to them are invariably shaped by our own life experiences, beliefs, and values.
+These are difficult, complicated questions – and our answers to them are invariably shaped by our own life experiences, beliefs, and values.
 
-Indeed, when we discuss what’s best for society, we are often at some level discussing what’s best for ourselves and our loved ones — or, at the very least, we are guided by our own conceptions of what ‘goodness’ means.
+Indeed, when we discuss what’s best for society, we are often at some level discussing what’s best for ourselves and our loved ones – or, at the very least, we are guided by our own conceptions of what ‘goodness’ means.
 
 Is there a way, then, to see beyond our own biases, interests, and beliefs? What can we do to establish a _disinterested_ account of justice? 
 
@@ -29,7 +29,7 @@ Rawls asks us to imagine the laws we’d all agree upon if we had no idea who we
 
 Starting from this ‘original position’ of ignorance about our personal characteristics and social circumstances, Rawls thinks most people would see it as rational and reasonable to agree to a certain level of universal welfare, education, opportunity, and the protection of basic rights and liberties.
 
-After all, you could end up being anyone — rich or poor, healthy or sick.
+After all, you could end up being anyone – rich or poor, healthy or sick.
 
 You’re thus unlikely to propose a model where some people receive huge inheritances, and others are born into abject poverty; where some are subject to discrimination due to their race, creed, sexuality, or gender; where those with certain health conditions don’t get the support they need.
 
@@ -50,14 +50,14 @@ You’re thus unlikely to propose a model where some people receive huge inherit
     </div>
 </div>
 
-In fact, Rawls thinks people operating under the veil of ignorance — if we assume they are motivated by rational self-interest — would eventually agree and build on two general principles of justice:
+In fact, Rawls thinks people operating under the veil of ignorance – if we assume they are motivated by rational self-interest – would eventually agree and build on two general principles of justice:
 
 1. **Assigning Equality:** everyone is guaranteed basic liberties including freedom of thought, speech, expression, association, a right to hold property, and so on.
 2. **Handling Inequality:** if everyone receives fair access to education, the opportunity to fully develop their capacities, and the chance to genuinely compete for positions of office, responsibility, trade, etc., then inequalities in wealth and power are permissible so long as they benefit the least advantaged members of society. For example, if someone shows particular talent for leadership, then they can enjoy the social and economic rewards that come with it, as long as this arrangement is structured in such a way that it is of maximal benefit to those lower in the hierarchy (i.e. it does not become harmful or exploitative, but improves the conditions of all, making everyone better off than they would be in any alternative system).
 
 Of course, Rawls is not suggesting we literally implement a veil of ignorance and start society from scratch.
 
-Rather, he proposes the veil of ignorance as a hypothetical thought experiment — something to bear in mind when seeking to establish the fundamental, disinterested principles of justice by which society should be governed.
+Rather, he proposes the veil of ignorance as a hypothetical thought experiment – something to bear in mind when seeking to establish the fundamental, disinterested principles of justice by which society should be governed.
 
 In his 1971 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Theory-Justice-John-Rawls/dp/0674000781?&linkCode=ll1&tag=philosophybre-20&linkId=32f800053d60a9b8127a0026165f8645&language=en_US&ref_=as_li_ss_tl">A Theory of Justice</a>, Rawls uses it as the starting point, the original position, from which he builds his case that societal justice essentially means _fairness_.
 

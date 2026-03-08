@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">S</span>ocrates is philosophy’s martyr. Sentenced to death in 399 BCE Athens for ‘corrupting the minds of the youth,’ Socrates never wrote anything down. We know of his era-defining thinking only through the writings of his contemporaries, particularly his student Plato (as discussed further in our [Socrates reading list](/reading-lists/socrates)). ⁣
 
-[Plato’s Socratic dialogues](/reading-lists/plato/) — some of the most wonderful works in the history of philosophy — feature Socrates in lively conversation on a wide range of subjects, from justice and virtue to art and politics. The central theme in Socrates's thinking, however, concerned the nature of knowledge — specifically, on how none of us really have any. As a statement often attributed to Socrates puts it:
+[Plato’s Socratic dialogues](/reading-lists/plato/) – some of the most wonderful works in the history of philosophy – feature Socrates in lively conversation on a wide range of subjects, from justice and virtue to art and politics. The central theme in Socrates's thinking, however, concerned the nature of knowledge – specifically, on how none of us really have any. As a statement often attributed to Socrates puts it:
 
 >True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.⁣
 
@@ -40,11 +40,11 @@ During Socrates's life, the Oracle of Delphi proclaimed him the wisest of all pe
 
 ## Ruffling influential feathers with the Socratic method
 
-<span class="big-letter">S</span>ocrates approached influential Athenians considered wise by the people of the day — statesmen, poets, and teachers. He conversed with these individuals using what is now known as the [Socratic method](/articles/socratic-method-what-is-it-how-can-you-use-it/), a form of cooperative dialogue that uses incisive questioning to stimulate critical thinking and draw out presuppositions. 
+<span class="big-letter">S</span>ocrates approached influential Athenians considered wise by the people of the day – statesmen, poets, and teachers. He conversed with these individuals using what is now known as the [Socratic method](/articles/socratic-method-what-is-it-how-can-you-use-it/), a form of cooperative dialogue that uses incisive questioning to stimulate critical thinking and draw out presuppositions. 
 
 A more straightforward way to think about the Socratic method is to imagine a relentlessly curious child asking ‘why’ after every single explanation an adult offers, seeking a truly foundational response to a question rather than an endless chain of unsatisfactory causal reasoning. Unfortunately for Socrates, being a quite famously ugly adult male, he was not afforded the same good grace a child might have been.
 
-By using his method of bottomless questioning, Socrates soon discovered that, in fact, nobody really knew anything about anything they claimed to know — be it on art, ethics, politics, justice, the self, or the true nature of the world around us. He thus concludes, as reported in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">Plato's Apology</a>, that the Oracle of Delphi may have been right in her judgement of his wisdom:⁣
+By using his method of bottomless questioning, Socrates soon discovered that, in fact, nobody really knew anything about anything they claimed to know – be it on art, ethics, politics, justice, the self, or the true nature of the world around us. He thus concludes, as reported in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">Plato's Apology</a>, that the Oracle of Delphi may have been right in her judgement of his wisdom:⁣
 
 >For my part, as I went away, I reasoned with regard to myself: I am wiser than this human being. For probably neither of us knows anything noble and good, but he supposes he knows something when he does not know, while I, just as I do not know, do not even suppose that I do. I am likely to be a little bit wiser than he in this very thing: that whatever I do not know, I do not even suppose I know.⁣
 
@@ -54,7 +54,7 @@ In other words, Socrates believes himself to be wiser than those he speaks to be
 
 Known as the Socratic paradox, this phrase is not one that Socrates is recorded as saying, but thought to be derived from the passage in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140449280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140449280&linkCode=as2&tag=philosophybre-20&linkId=816a23479cf93ae4636655c4aa3e6863">Plato's Apology</a> outlined above. 
 
-Regardless, it's a significant statement for [epistemology, the branch of philosophy concerned with the theory of knowledge](/reading-lists/epistemology/). Socrates's discussions over two thousand years ago set in motion the profound doubting, the uncertainty as to what we can know — the uncertainty as to whether the foundations for human knowledge ultimately rest on anything other than tradition and custom — that came to the fore with [17th-century philosopher René Descartes's famous _cogito ergo sum_](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained). 
+Regardless, it's a significant statement for [epistemology, the branch of philosophy concerned with the theory of knowledge](/reading-lists/epistemology/). Socrates's discussions over two thousand years ago set in motion the profound doubting, the uncertainty as to what we can know – the uncertainty as to whether the foundations for human knowledge ultimately rest on anything other than tradition and custom – that came to the fore with [17th-century philosopher René Descartes's famous _cogito ergo sum_](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained). 
 
 ## Annoying people to death
 

@@ -15,13 +15,13 @@ authorLink: "/about/"
 
 How many things have you done for the last ever time, without knowing it was the last ever time?
 
-Of course, we cannot know the future, and so there is often no way of knowing — in the moment — that we might be experiencing something for the final time.
+Of course, we cannot know the future, and so there is often no way of knowing – in the moment – that we might be experiencing something for the final time.
 
 But, if I _had_ known it was going to be my last ever cartwheel, then I’d have made absolutely sure to savor every topsy-turvy second; instead, dizzily preoccupied, I let it pass me by…
 
 Oliver Burkeman writes about this in his 2021 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7?&linkCode=ll1&tag=philosophybre-20&linkId=bdc8e310358edffa63021a8c3b79948f&language=en_US&ref_=as_li_ss_tl">Four Thousand Weeks</a>:
 
->Our lives, thanks to their finitude, are inevitably full of activities that we’re doing for the very last time. Just as there will be a final occasion on which I pick up my son — a thought that appalls me, but one that’s hard to deny, since I surely won’t be doing it when he’s thirty — there will be a last time that you visit your childhood home, or swim in the ocean, or make love, or have a deep conversation with a certain close friend…
+>Our lives, thanks to their finitude, are inevitably full of activities that we’re doing for the very last time. Just as there will be a final occasion on which I pick up my son – a thought that appalls me, but one that’s hard to deny, since I surely won’t be doing it when he’s thirty – there will be a last time that you visit your childhood home, or swim in the ocean, or make love, or have a deep conversation with a certain close friend…
 
 Given the impermanence of our lives and everything in them, however, it is not just ‘big’ activities or events; there is a sense in which _every single moment_ is a ‘last ever time’.
 

@@ -20,15 +20,15 @@ As Stanford University comment in an issue of their Speaking of Teaching newslet
 
 Proponents of the Socratic method argue that, by coming to answers themselves, students better remember both the answer and the logical reasoning that led them there than they would if someone had simply announced a conclusion up front. Furthermore, people are generally more accepting of views they’ve come to based on their own rational workings. 
 
-![The Death of Socrates](./death-of-socrates.jpg "The Death of Socrates, a painting by Jacques-Louis David depicting ancient Greek philosopher Socrates — from whom the Socratic method derives its name — about to drink hemlock in his jail cell, having been sentenced to death by the Athenian authorities.")
+![The Death of Socrates](./death-of-socrates.jpg "The Death of Socrates, a painting by Jacques-Louis David depicting ancient Greek philosopher Socrates – from whom the Socratic method derives its name – about to drink hemlock in his jail cell, having been sentenced to death by the Athenian authorities.")
 
 The great philosopher Bertrand Russell once commented, “As usual in philosophy, the first difficulty is to see that the problem is difficult.” Being an inquisitive dialogue, the Socratic method is particularly effective here, revealing hidden subtleties and complexities in subjects that may otherwise appear obvious or simple, such as [whether the world around us is ‘real’](/articles/is-the-world-around-us-real/). 
 
-Apply the Socratic method to such a subject, and participants quickly discover how difficult it is to establish a solid answer. This is a good outcome, Russell thinks, for informed skepticism has replaced uninformed conviction — or, as he puts it, “the net result is to substitute articulate hesitation for inarticulate certainty.”
+Apply the Socratic method to such a subject, and participants quickly discover how difficult it is to establish a solid answer. This is a good outcome, Russell thinks, for informed skepticism has replaced uninformed conviction – or, as he puts it, “the net result is to substitute articulate hesitation for inarticulate certainty.”
 
 As such, the Socratic method is at its most effective when applied to topics about which people hold deep convictions, such as questions on [ethics](/reading-lists/ethics-and-morality/), value, [politics](/reading-lists/political-philosophy/), and how to live. 
 
-After just a little probing on the foundations of our convictions on such topics, we learn that what may have appeared simple is in fact a very complicated issue mired in difficulty, uncertainty, and nuance — and that our initial convictions might be less justified than we first thought. 
+After just a little probing on the foundations of our convictions on such topics, we learn that what may have appeared simple is in fact a very complicated issue mired in difficulty, uncertainty, and nuance – and that our initial convictions might be less justified than we first thought. 
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -57,7 +57,7 @@ After just a little probing on the foundations of our convictions on such topics
 
 Socrates’s approach of sometimes relentless inquiry differed to the teachers in ancient Athens at the time, known as the Sophists, who went for the more conventional ‘sage on a stage’ educational method, trying to persuade people round to their viewpoints on things through impressive presentation and rhetoric. 
 
-This distinction in approach made Socrates somewhat of a celebrity of contrarian thought. While the Sophists tried to demonstrate their knowledge, Socrates did his best to demonstrate his (and everybody else’s) ignorance. His guiding principle was that we know nothing — and so, as W. K. C. Guthrie argues in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0061310085/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061310085&linkId=989dfd27b4929d53dd18e6e17715c30d">The Greek Philosophers</a>, the Socratic method was for Socrates as much a device for establishing ignorance as it was establishing knowledge. 
+This distinction in approach made Socrates somewhat of a celebrity of contrarian thought. While the Sophists tried to demonstrate their knowledge, Socrates did his best to demonstrate his (and everybody else’s) ignorance. His guiding principle was that we know nothing – and so, as W. K. C. Guthrie argues in <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0061310085/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061310085&linkId=989dfd27b4929d53dd18e6e17715c30d">The Greek Philosophers</a>, the Socratic method was for Socrates as much a device for establishing ignorance as it was establishing knowledge. 
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -86,9 +86,9 @@ Given this consistent outcome of most if not all of [Plato’s dialogues](/readi
 
 <span class="big-letter">T</span>he purpose of Socrates’s questioning was usually to jolt people out of their presuppositions and assumptions, and most of Plato’s dialogues end with Socrates kindly declaring the ignorance or even stupidity of those he spoke to. [The only knowledge available to us, Socrates assures us, is knowing that we know nothing](/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/).
 
-Socrates’s apparent victories in the name of reason and logic, while hugely entertaining and intellectually stimulating for the reader today, led to many important people in ancient Athens getting rather annoyed. Alas, Socrates was sentenced to death for corrupting the minds of the youth — but went on annoying his accusers til the very end with a wondrous exposition on piety and death, as recorded in a collection of Plato’s dialogues, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0872205541/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872205541&linkId=90955dbaab2985a7487b0d2c4ed767a0">The Trial and Death of Socrates</a>.
+Socrates’s apparent victories in the name of reason and logic, while hugely entertaining and intellectually stimulating for the reader today, led to many important people in ancient Athens getting rather annoyed. Alas, Socrates was sentenced to death for corrupting the minds of the youth – but went on annoying his accusers til the very end with a wondrous exposition on piety and death, as recorded in a collection of Plato’s dialogues, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0872205541/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0872205541&linkId=90955dbaab2985a7487b0d2c4ed767a0">The Trial and Death of Socrates</a>.
 
-Following Socrates’s death, Plato continued to write dialogues featuring Socrates as the protagonist in honor of his great teacher. This has led to lively discussion around how much of the Socrates featured in Plato’s dialogues represents Socrates, and how much he represents Plato. Regardless, [Plato’s dialogues](/reading-lists/plato/) — written over 2,000 years ago — are wondrous, and we are lucky to have them. 
+Following Socrates’s death, Plato continued to write dialogues featuring Socrates as the protagonist in honor of his great teacher. This has led to lively discussion around how much of the Socrates featured in Plato’s dialogues represents Socrates, and how much he represents Plato. Regardless, [Plato’s dialogues](/reading-lists/plato/) – written over 2,000 years ago – are wondrous, and we are lucky to have them. 
 
 
 ## How can you use the Socratic method today?

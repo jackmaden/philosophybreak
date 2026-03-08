@@ -12,15 +12,15 @@ authorLink: "/about/"
 ---
 <span class="big-letter">A</span>re you busy today? On your feet? Rushing between appointments? Well, take a moment for this quick passage from the 19th-century Danish philosopher Søren Kierkegaard... 
 
->Of all ridiculous things the most ridiculous seems to me, to be busy — to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
+>Of all ridiculous things the most ridiculous seems to me, to be busy – to be someone who is brisk about their food and work. Therefore, whenever I see a fly settling, in the decisive moment, on the nose of such a person of affairs; or if he is spattered with mud from a carriage which drives past him in still greater haste; or the drawbridge opens up before him; or a tile falls down and knocks him dead, then I laugh heartily.
 
 Kierkegaard wrote these words from the perspective of one of the characters in his 1843 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140445773/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140445773&linkId=736a0a59249ab35f5a8c3dc2d6e0020a">Either/Or</a>. A fascinating work on duality, the book’s first section is written from the perspective of an aesthetic and rather callous young man named simply A; the second from the reasonable, ethical Judge Vilhelm.⁣
 
-The quotation above is taken from the first character, A, who lambasts busyness as a vice — and believes the appropriate response to it is laughter, for it’s the perfect way to undercut the busy person’s self-importance.
+The quotation above is taken from the first character, A, who lambasts busyness as a vice – and believes the appropriate response to it is laughter, for it’s the perfect way to undercut the busy person’s self-importance.
 
-Busy people haughtily fill their time, always finding things to do — ‘I just have _so much on_’ — but this self-generated activity is simply a trivial means of escapism, A thinks.
+Busy people haughtily fill their time, always finding things to do – ‘I just have _so much on_’ – but this self-generated activity is simply a trivial means of escapism, A thinks.
 
-Nowadays, busyness is often worn as a badge of honor. But on A’s view, ‘busy’ people block out their calendars to avoid confronting the general emptiness of their existences — to distract themselves from truly important questions, such as who they are and what their lives are for. 
+Nowadays, busyness is often worn as a badge of honor. But on A’s view, ‘busy’ people block out their calendars to avoid confronting the general emptiness of their existences – to distract themselves from truly important questions, such as who they are and what their lives are for. 
 
 Everything is important but nothing is important. The busy person is thus ridiculous.⁣
 
@@ -53,7 +53,7 @@ But here we must remember Kierkegaard’s diagnosis of ‘the unhappy person’,
 
 This passage suggests investing everything you have in external events, people, or things is a surefire way to unhappiness. 
 
-Instead, it’s crucial to be attentive to yourself, present to your own wants and needs, as understanding what’s important to you is the first step in working out how to make your life a little less ‘busy’ — knowing which things to shed, and which to pay due time, care, and attention to. 
+Instead, it’s crucial to be attentive to yourself, present to your own wants and needs, as understanding what’s important to you is the first step in working out how to make your life a little less ‘busy’ – knowing which things to shed, and which to pay due time, care, and attention to. 
 
 So: who are you and what is your life for?
 

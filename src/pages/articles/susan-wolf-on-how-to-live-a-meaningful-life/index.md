@@ -113,7 +113,7 @@ But if we _do_ long for more meaning in our lives, if we feel a little alienated
 ## What do you make of Wolf’s conception of meaning?
 
 - Do you agree that meaning is a distinctive category of the good life, not reducible to happiness or morality?
-- Does Wolf’s formula for meaning — lovingly engaging in projects of worth — ring true for you?
+- Does Wolf’s formula for meaning – lovingly engaging in projects of worth – ring true for you?
 - What do you think makes an activity objectively ‘worthwhile’?
 - What gives you meaning in life?
 

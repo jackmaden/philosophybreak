@@ -1,6 +1,6 @@
 ---
 title: "5 Existential Problems All Humans Share"
-description: "Though we may all be unique individuals — from different backgrounds, living in different circumstances — we find common ground in the feelings of pain, isolation, and existential angst that structure our shared human condition."
+description: "Though we may all be unique individuals – from different backgrounds, living in different circumstances – we find common ground in the feelings of pain, isolation, and existential angst that structure our shared human condition."
 image: "./picasso-blues.jpeg"
 imageAlt: "The Soup, by Pablo Picasso"
 imageSeo: "./picasso-blues.jpeg"
@@ -15,7 +15,7 @@ authorLink: "/about/"
 
 Specifically, existential philosophers distinguish from mere ‘pain’ forms of suffering that have a more existential coloring.
 
-These include, for instance, feelings like despair, anxiety, angst, as well as sensitivity to the tragic, absurd, or oppressive aspects of existence — anything, in other words, stemming from the fact we are individuals grappling for meaning in an apparently meaningless cosmos.
+These include, for instance, feelings like despair, anxiety, angst, as well as sensitivity to the tragic, absurd, or oppressive aspects of existence – anything, in other words, stemming from the fact we are individuals grappling for meaning in an apparently meaningless cosmos.
 
 As the philosopher Jennifer Gosetti-Ferencei puts it in her book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Being-Becoming-Existentialist-Approach-GUIDES/dp/0190913657?&linkCode=ll1&tag=philosophybre-20&linkId=c3520c06f5dc6eb47cac03b6243ec7c8&language=en_US&ref_=as_li_ss_tl">On Being and Becoming</a>:
 
@@ -27,7 +27,7 @@ Milan Kundera describes this feature of existence succinctly in his 1984 novel <
 
 >Human life occurs only once, and the reason we cannot determine which of our decisions are good and which bad is that in a given situation we can only make one decision; we are not granted a second, third or fourth life in which to compare various decisions.
 
-This lack of knowledge causes anxiety — and all we can do is try to keep our worries at bay as we fall forwards towards an open, unknowable future.
+This lack of knowledge causes anxiety – and all we can do is try to keep our worries at bay as we fall forwards towards an open, unknowable future.
 
 As a paraphrase of Kierkegaard has it, [“Life can only be understood backwards; but it must be lived forwards.”](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 
@@ -56,15 +56,15 @@ Here are some other inescapable features of the human condition that existential
 4. There is no set guidebook for how we should live our lives.
 5. A time limit has been set on our existences: we will all die one day.
 
-These brute facts apply to all humans, claim existentialists, meaning we all qualify for the angst and anxiety they give rise to — even if such suffering usually looms in the background, rather than cutting through to our day-to-day consciousness.
+These brute facts apply to all humans, claim existentialists, meaning we all qualify for the angst and anxiety they give rise to – even if such suffering usually looms in the background, rather than cutting through to our day-to-day consciousness.
 
 Importantly, then, we are all in the same boat here: as mortals unable to predict the future, we all have the same reasons for angst, alienation, anxiety, and despair.
 
 Through engaging with our own existential suffering, we are actually engaging with a type of suffering _all_ human beings are sensitive to.
 
-So, though we may all be unique individuals — often from very different backgrounds and living in very different circumstances — we find common ground in the feelings of pain, isolation, and existential angst that structure our shared human condition.
+So, though we may all be unique individuals – often from very different backgrounds and living in very different circumstances – we find common ground in the feelings of pain, isolation, and existential angst that structure our shared human condition.
 
-Perhaps, then, it is through connecting and embarking on meaning-making projects with one another that we can stand up to — and survive in — the otherwise purposeless cosmos.
+Perhaps, then, it is through connecting and embarking on meaning-making projects with one another that we can stand up to – and survive in – the otherwise purposeless cosmos.
 
 A quotation from the poet Charles Bukowski’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Pleasures-Damned-Poems-1951-1993/dp/0061228443?&linkCode=ll1&tag=philosophybre-20&linkId=7225fa6f3f9c5809ce0c973d88acd4b0&language=en_US&ref_=as_li_ss_tl">Pleasures of the Damned</a> resonates here:
 
@@ -72,7 +72,7 @@ A quotation from the poet Charles Bukowski’s <a target="_blank" rel="noopener 
 
 As does this longer passage from writer James Baldwin’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X?&linkCode=ll1&tag=philosophybre-20&linkId=dded2cb8b7f1cd97e9bcb441a81369ea&language=en_US&ref_=as_li_ss_tl">The Fire Next Time</a>:
 
->Life is tragic simply because the earth turns and the sun inexorably rises and sets, and one day, for each of us, the sun will go down for the last, last time. Perhaps the whole root of our trouble, the human trouble, is that we will sacrifice all the beauty of our lives, will imprison ourselves in totems, taboos, crosses, blood sacrifices, steeples, mosques, races, armies, flags, nations, in order to deny the fact of death, the only fact we have. It seems to me that one ought to rejoice in the fact of death — ought to decide, indeed, to earn one’s death by confronting with passion the conundrum of life. One is responsible for life: It is the small beacon in that terrifying darkness from which we come and to which we shall return.
+>Life is tragic simply because the earth turns and the sun inexorably rises and sets, and one day, for each of us, the sun will go down for the last, last time. Perhaps the whole root of our trouble, the human trouble, is that we will sacrifice all the beauty of our lives, will imprison ourselves in totems, taboos, crosses, blood sacrifices, steeples, mosques, races, armies, flags, nations, in order to deny the fact of death, the only fact we have. It seems to me that one ought to rejoice in the fact of death – ought to decide, indeed, to earn one’s death by confronting with passion the conundrum of life. One is responsible for life: It is the small beacon in that terrifying darkness from which we come and to which we shall return.
 
 ## What do you make of this analysis?
 

@@ -15,9 +15,9 @@ authorLink: "/about/"
 
 Often caricatured as a rather hedonistic, pleasure-obsessed philosophy, Epicureanism (as we outline in our brief [Epicureanism explainer](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)) is actually more about living life free from anxiety and bodily pain, and places a strong emphasis on friendship and community in the search for a meaningful, happy human life. 
 
-The Epicureans have things to say not just about ethics, but also share rich views on [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), [epistemology](/reading-lists/epistemology/), and — more famously — [why mortality is nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/) and [death should not concern us](/articles/epicurus-on-why-death-should-not-concern-us/).
+The Epicureans have things to say not just about ethics, but also share rich views on [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), [epistemology](/reading-lists/epistemology/), and – more famously – [why mortality is nothing to fear](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/) and [death should not concern us](/articles/epicurus-on-why-death-should-not-concern-us/).
 
-Hardly any of Epicurus’s own writings survive — which, considering he wrote over 44 books in his lifetime, is an immense loss. 
+Hardly any of Epicurus’s own writings survive – which, considering he wrote over 44 books in his lifetime, is an immense loss. 
 
 Much of what we know about Epicurus thus comes through the work of his contemporaries, followers, and critics in the ancient Greco-Roman period, as we outline in our [Epicureanism reading list](/reading-lists/epicureanism/). The extent to which each source paints a reliable view of Epicurean thought continues to be debated by scholars.  
 
@@ -77,7 +77,7 @@ As such, each aphorism should be considered carefully: it may hold implications 
 
 2\. _[Don’t fear death]_ [Death is nothing to us](/articles/epicurus-on-why-death-should-not-concern-us/), because a body that has been dispersed into elements experiences no sensations, and the absence of sensation is nothing to us. 
 
-3\. _[Goods are easy to obtain]_ Pleasure reaches its maximum limit at the removal of all sources of pain. When such pleasure is present, for as long as it lasts, there is no cause of physical nor mental pain present — nor of both together. 
+3\. _[Goods are easy to obtain]_ Pleasure reaches its maximum limit at the removal of all sources of pain. When such pleasure is present, for as long as it lasts, there is no cause of physical nor mental pain present – nor of both together. 
 
 4\. _[Evils are easy to endure]_ Continuous physical pain does not last long. Instead, extreme pain lasts only a very short time, and even less-extreme pain does not last for many days at once. Even protracted diseases allow periods of physical comfort that exceed feelings of <span id="group2">pain.</span> 
 
@@ -115,7 +115,7 @@ As such, each aphorism should be considered carefully: it may hold implications 
 
 >17\. The just man is the freest of anyone from anxiety; but the unjust man is perpetually haunted by it. 
 
-18\. When pain arising from need has been removed, bodily pleasure cannot increase — it merely varies. But the limit of mental pleasure is reached after we reflect upon these bodily pleasures and the related mental distress prior to fulfillment. 
+18\. When pain arising from need has been removed, bodily pleasure cannot increase – it merely varies. But the limit of mental pleasure is reached after we reflect upon these bodily pleasures and the related mental distress prior to fulfillment. 
 
 19\. Infinite and finite time afford equal pleasure, if one measures its limits by reason. 
 
@@ -166,7 +166,7 @@ As such, each aphorism should be considered carefully: it may hold implications 
 
 >36\. Justice is essentially the same for all peoples insofar as it benefits human interaction. But the details of how justice is applied in particular countries or circumstances may vary. 
 
-37\. Among actions legally recognized as just, that which is confirmed by experience as mutually beneficial has the virtue of justice, whether it is the same for all peoples or not. But if a law is made which results in no such advantage, then it no longer carries the hallmark of justice. And if something that used to be mutually beneficial changes, though for some time it conformed to our concept of justice, it is still true that it really was just during that time — at least for those who do not fret about technicalities and instead prefer to examine and judge each case for themselves. 
+37\. Among actions legally recognized as just, that which is confirmed by experience as mutually beneficial has the virtue of justice, whether it is the same for all peoples or not. But if a law is made which results in no such advantage, then it no longer carries the hallmark of justice. And if something that used to be mutually beneficial changes, though for some time it conformed to our concept of justice, it is still true that it really was just during that time – at least for those who do not fret about technicalities and instead prefer to examine and judge each case for themselves. 
 
 38\. Where, without any change in circumstances, things held to be just by law are revealed to be in conflict with the essence of justice, such laws were never really just. But wherever or whenever laws have ceased to be advantageous because of a change in circumstances, in that case or time the laws were just when they benefited human interaction, and ceased to be just only when they were no longer <span id="group8">beneficial.</span> 
 

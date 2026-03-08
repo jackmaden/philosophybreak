@@ -25,7 +25,7 @@ In his 2009 book <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 Running from uncomfortable memories is a form of repression. And trying to face them with only our rational intellects can be counterproductive: the intellect can be like a sheet of plastic covering the ground, preventing the rain from nourishing the earth.
 
-While our intellects are right to conclude that the past cannot be changed, the wounds caused by the past are here in the present, Nhat Hanh observes — and it’s these wounds that need our attention. If we only rerun, unpick, reevaluate past events, we ignore the very problem we are trying to solve: how the past makes us feel in the here and now.
+While our intellects are right to conclude that the past cannot be changed, the wounds caused by the past are here in the present, Nhat Hanh observes – and it’s these wounds that need our attention. If we only rerun, unpick, reevaluate past events, we ignore the very problem we are trying to solve: how the past makes us feel in the here and now.
 
 If we want to truly move on from our pasts, we need to stop running, give our intellects a break, and actively engage with our experience of the present moment. 
 
@@ -37,7 +37,7 @@ This is understandable, Nhat Hanh tells us, but wrong. Mindfulness is not escape
 
 When we are engaged in a deep way with our lived experience, we are far more ‘alive’ than when we are ruminating, lost in our thoughts, on autopilot, not really there. As Nhat Hanh puts it:
 
->We move about life in our own corpse because we are not touching life in depth. We live a kind of artificial life, with lots of plans, lots of worries and anger. Never are we able to establish ourselves in the here and now and live our lives deeply. We have to wake up! We have to make it possible for the moment of awareness to manifest. This is the practice that will save us — this is the revolution.
+>We move about life in our own corpse because we are not touching life in depth. We live a kind of artificial life, with lots of plans, lots of worries and anger. Never are we able to establish ourselves in the here and now and live our lives deeply. We have to wake up! We have to make it possible for the moment of awareness to manifest. This is the practice that will save us – this is the revolution.
 
 So how do we attain mindfulness, and the liberation it promises? It starts with building our attentive muscle: with practicing our ability to anchor ourselves in the present moment.
 
@@ -49,13 +49,13 @@ As we breathe in, we might say to ourselves, ‘I know that I am breathing in’
 
 If a thought or feeling arises, we simply notice it without judgement, and experience its passing as we refocus on the breath. I know I’m breathing in; I know I’m breathing out.
 
-Finding a few minutes within each day to follow this exercise builds a muscle of attention — a muscle that grows stronger over weeks, months, years of consistent practice.
+Finding a few minutes within each day to follow this exercise builds a muscle of attention – a muscle that grows stronger over weeks, months, years of consistent practice.
 
 Cultivating this kind of mindfulness, this ability to really live in and _notice_ the present, enhances our life in all sorts of ways, Nhat Hanh tells us. But let’s first consider how he thinks it can help us heal the past.
 
 ## How can being mindful of the present help us deal with the past?
 
-<span class="big-letter">I</span>f an unpleasant memory rears its head, typically we flee from it, or begin an intense intellectual cross-examination — justifying this, evaluating that, swept away by thoughts and images of the past.
+<span class="big-letter">I</span>f an unpleasant memory rears its head, typically we flee from it, or begin an intense intellectual cross-examination – justifying this, evaluating that, swept away by thoughts and images of the past.
 
 Nhat Hanh wants us to instead generate the energy of mindfulness to delve deeper. We follow our breathing, return to the present moment, and pay close attention to the sensations and feelings the memory has caused.
 
@@ -71,7 +71,7 @@ When we tend to ourselves this way, Nhat Hanh says, sometimes we can gain more i
 
 Regret over a past mistake turns out, when we attend closely, to be a deeper fear that we are an irredeemably bad person. Rather than endlessly revisit the memory of what first _caused_ this fear, Nhat Hanh wants us to embrace the fear itself: to promise it that, from now on, we will notice it and care for it, to assure it that it no longer has reason to be afraid.
 
-Breathing in, breathing out, we make a vow, in the living present, to look after our hurting parts, and to move forward with them with compassion. Mistakes, selfish words, thoughtless acts — these all happen; it is how we respond that matters now. With our full selves, we commit to beginning anew with presence and good intention.
+Breathing in, breathing out, we make a vow, in the living present, to look after our hurting parts, and to move forward with them with compassion. Mistakes, selfish words, thoughtless acts – these all happen; it is how we respond that matters now. With our full selves, we commit to beginning anew with presence and good intention.
 
 Of course, this is not a ‘one and done’ exercise. Healing is a gradual process. We may need to weather the storm again and again.
 
@@ -99,7 +99,7 @@ When I read that passage in Nhat Hanh’s book this week, I looked around me. I 
 
 Then suddenly the intrusive thought: ‘This would be great for the newsletter! This would be great for the newsletter! This would be great for the newsletter!’
 
-And immediately my brain was back to planning, plotting, fussing. This sofa is so uncomfortable. You’ve got so much work to do. You haven’t even emptied the dishwasher — and you still need to go to the supermarket. Look lively, Jack! _Wake up!_ 
+And immediately my brain was back to planning, plotting, fussing. This sofa is so uncomfortable. You’ve got so much work to do. You haven’t even emptied the dishwasher – and you still need to go to the supermarket. Look lively, Jack! _Wake up!_ 
 
 Thus the most wonderful moment of my life eluded me. Or rather: I eluded it. It was still lovely, though, and in those few moments of peace I felt truly lucky and grateful to be exactly where I was.
 
@@ -109,7 +109,7 @@ It may seem a tall order to transform any given moment of consciousness into som
 
 Here’s Nhat Hanh eating an orange, for example:
 
->If I am 100 percent there, the orange reveals itself to me 100 percent. As I concentrate on the orange, I get deep insight from it. I can see the sun and the rain that are in it. I can see the flowers of the orange tree. I can see the little sapling sprouting, and then the fruit growing. Then I begin mindfully to peel the fruit. Its presence — its color, its texture, its smell and taste — is a real miracle, and the happiness that comes to me from getting deeply in touch with it can become very, very great. A single orange is enough to give you a great deal of happiness when you are truly there, entirely alive, fully present, getting deeply in touch with one of the miracles of life that surrounds you.
+>If I am 100 percent there, the orange reveals itself to me 100 percent. As I concentrate on the orange, I get deep insight from it. I can see the sun and the rain that are in it. I can see the flowers of the orange tree. I can see the little sapling sprouting, and then the fruit growing. Then I begin mindfully to peel the fruit. Its presence – its color, its texture, its smell and taste – is a real miracle, and the happiness that comes to me from getting deeply in touch with it can become very, very great. A single orange is enough to give you a great deal of happiness when you are truly there, entirely alive, fully present, getting deeply in touch with one of the miracles of life that surrounds you.
 
 Happiness, love, peace: these are not abstract ideas but concrete realities we can see, hear, and touch as soon as we focus our minds.
 
@@ -125,7 +125,7 @@ Our true home is the present moment, Nhat Hanh tells us. Returning to the breath
 
 We cannot love or help ourselves or others if we are perpetually elsewhere. We can only truly heal the past and prepare for the future by noticing where we are right here, right now, by knowing that we are breathing in, knowing that we are breathing out, and understanding that from every prison we have the keys to release ourselves. As Nhat Hanh puts it:
 
->There is a lot that needs to be done in society — work against war, social injustice, and so on. But first we have to come back to our own territory and make sure that peace and harmony are reigning there. Until we do that, we cannot do anything for society. Let us begin immediately. What I recommend for all of us is to come back to ourselves and take care of the little boy or the little girl who inhabits the depths of our wounded souls. Then we will be calmer, more understanding and loving, and the environment will begin to change. Other people will benefit from our presence, and we will be able to influence them and our society.
+>There is a lot that needs to be done in society – work against war, social injustice, and so on. But first we have to come back to our own territory and make sure that peace and harmony are reigning there. Until we do that, we cannot do anything for society. Let us begin immediately. What I recommend for all of us is to come back to ourselves and take care of the little boy or the little girl who inhabits the depths of our wounded souls. Then we will be calmer, more understanding and loving, and the environment will begin to change. Other people will benefit from our presence, and we will be able to influence them and our society.
 
 ## What do you make of Nhat Hanh’s mindfulness practice?
 

@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">I</span>n the 1990s, the American lawyer Mike Godwin observed how common it was for those locked in online arguments to eventually, inevitably — regardless of topic — accuse each other of being Nazis.
+<span class="big-letter">I</span>n the 1990s, the American lawyer Mike Godwin observed how common it was for those locked in online arguments to eventually, inevitably – regardless of topic – accuse each other of being Nazis.
 
 This observation, now referred to as _Godwin’s Law_, has become a cult rule of the internet. Its official formulation, according to Wikipedia, is as follows:
 
@@ -21,7 +21,7 @@ Spend ten minutes perusing social media and you’ll find that, though it was co
 
 Rather than work together to find resolution, it seems many of us online are more interested in ‘winning’ the debate and characterizing our opponents as some catch-all description of evil.
 
-Incentivized by likes and shares, whoever can most succinctly _put down the enemy_ — ideally with a catchy tweet-length hook — gains enthusiastic kudos from their own tribe. 
+Incentivized by likes and shares, whoever can most succinctly _put down the enemy_ – ideally with a catchy tweet-length hook – gains enthusiastic kudos from their own tribe. 
 
 Invoking the Nazis is one route, but other words play a similar role. _Fascist. Communist. Woke._
 
@@ -43,7 +43,7 @@ What, then, can we do? How can we reconcile seemingly unbridgeable gaps in belie
 
 Well, philosophers have been arguing with one another on emotionally-charged topics for millennia: how to organize society, what to believe, how to live…
 
-As a result, some solid ‘rules of engagement’ have emerged to help discussions advance without excess bloodletting — rules that might inform how we approach disagreements elsewhere, be they political, religious, social, economic, or otherwise.
+As a result, some solid ‘rules of engagement’ have emerged to help discussions advance without excess bloodletting – rules that might inform how we approach disagreements elsewhere, be they political, religious, social, economic, or otherwise.
 
 Take this famous passage from John Stuart Mill’s 1859 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3A710h6">On Liberty</a>:
 
@@ -51,7 +51,7 @@ Take this famous passage from John Stuart Mill’s 1859 work <a target="_blank" 
 
 The late philosopher [Daniel Dennett](/reading-lists/daniel-dennett-best-books/) also emphasized the importance of _really, intimately understanding_ the opposing view.
 
-In his 2013 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4hsf85i">Intuition Pumps and Other Tools for Thinking</a>, Dennett distills a list of rules inspired by game theorist Anatol Rapoport — a list that philosophy professors now often share with their first-year students:
+In his 2013 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4hsf85i">Intuition Pumps and Other Tools for Thinking</a>, Dennett distills a list of rules inspired by game theorist Anatol Rapoport – a list that philosophy professors now often share with their first-year students:
 
 >How to compose a successful critical commentary:<br><br>1. You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”<br><br>2. You should list any points of agreement (especially if they are not matters of general or widespread agreement).<br><br>3. You should mention anything you have learned from your target.<br><br>4. Only then are you permitted to say so much as a word of rebuttal or criticism.
 
@@ -59,11 +59,11 @@ Not only does this approach respect your opponent as an actual human being, rath
 
 If someone does their best to fairly understand and articulate your view, it’s immediately disarming. Your perspective has been respected. You’ve been _heard._ And you are now far more likely to work with your interlocutor to find, if not resolution, then at least a civilly agreed point of difference.
 
-But, of course, expecting this level of considered reasonableness in unregulated online spaces is probably naive. Even philosophers don’t stick to it — many famous works are littered with quite extraordinary examples of name calling. Here’s Schopenhauer on Hegel, for instance, from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3CczejE">The World as Will and Representation (Vol. II)</a>, written long before the internet:
+But, of course, expecting this level of considered reasonableness in unregulated online spaces is probably naive. Even philosophers don’t stick to it – many famous works are littered with quite extraordinary examples of name calling. Here’s Schopenhauer on Hegel, for instance, from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3CczejE">The World as Will and Representation (Vol. II)</a>, written long before the internet:
 
 >Hegel, installed from above, by the powers that be, as the certified Great Philosopher, was a flat-headed, insipid, nauseating, illiterate charlatan, who reached the pinnacle of audacity in scribbling together and dishing up the craziest mystifying nonsense. 
 
-Even great icons of ‘rational thinking’ enjoy an impassioned put down. Indeed, we are all human — all with our weaknesses, blind spots, and irritations. Sharing Mill and Dennett’s rules of engagement isn’t going to change that.
+Even great icons of ‘rational thinking’ enjoy an impassioned put down. Indeed, we are all human – all with our weaknesses, blind spots, and irritations. Sharing Mill and Dennett’s rules of engagement isn’t going to change that.
 
 But while the entire internet won’t be fixed by their advice, perhaps by keeping these ‘rules of engagement’ in mind we might make our _own_ disagreements more amicable and productive.
 

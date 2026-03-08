@@ -19,7 +19,7 @@ Industry views the world as something to be packaged for human consumption, and 
 
 >The American attitude (and presumably that of most industrialized nations) toward nature can be expressed as \[these] basic beliefs. 1. Humans are the source of all value. 2. Nature exists only for our use. 3. Our primary purpose is to produce and consume. Success is based on material wealth. 4. Production and consumption must rise endlessly because we have a right to an ever increasing material level of living.
 
-Even if we don’t all personally accept these beliefs, Miller adds, “we act individually, corporately, and governmentally as if we did — and this is what counts.”
+Even if we don’t all personally accept these beliefs, Miller adds, “we act individually, corporately, and governmentally as if we did – and this is what counts.”
 
 Norwegian philosopher Arne Næss spent a lifetime challenging what he saw as the corrosive anthropocentrism at the heart of our modern worldview.
 
@@ -39,9 +39,9 @@ It’s within this context that Næss makes his famous distinction between ‘sh
 
 ## Shallow ecology vs. deep ecology
 
-<span class="big-letter">S</span>hallow ecology is focused on easing environmental destruction within the current paradigm of human dominance. It seeks to do things like reduce air pollution, purify water supplies, and clear plastic from the oceans — all without challenging the fundamental systems governing our use of nature, and usually with the goal of protecting human production and standards of living.
+<span class="big-letter">S</span>hallow ecology is focused on easing environmental destruction within the current paradigm of human dominance. It seeks to do things like reduce air pollution, purify water supplies, and clear plastic from the oceans – all without challenging the fundamental systems governing our use of nature, and usually with the goal of protecting human production and standards of living.
 
-Deep ecology, meanwhile, wants to go deeper in its questioning of our relationship to the environment. It’s not so much a case of solving the technical problems of reducing pollution while maintaining production; it’s a total reconceptualization of humanity’s place in nature — a case of wondering whether boundless production really leads to lives worth wanting.
+Deep ecology, meanwhile, wants to go deeper in its questioning of our relationship to the environment. It’s not so much a case of solving the technical problems of reducing pollution while maintaining production; it’s a total reconceptualization of humanity’s place in nature – a case of wondering whether boundless production really leads to lives worth wanting.
 
 The idea is that, if you can interrogate the _root_ of the ecological crisis, then a lot of the higher-order problems disappear.
 
@@ -67,7 +67,7 @@ Rather than recognize private luxury as life’s ultimate prize, we might try to
 
 If people see it as their ‘duty’ to ‘sacrifice’ their lifestyles for the ‘sake’ of the environment, change will be slow, and heels will be dragged.
 
-Instead, he wants to point out that our current models of ‘self-realization’ — i.e. material success, status, consumption — are ultimately self-defeating, and have led to widespread spiritual alienation. Næss thinks deep ecology offers us all a much surer path to happiness and tranquility.
+Instead, he wants to point out that our current models of ‘self-realization’ – i.e. material success, status, consumption – are ultimately self-defeating, and have led to widespread spiritual alienation. Næss thinks deep ecology offers us all a much surer path to happiness and tranquility.
 
 Why? Well, we fundamentally underestimate ourselves, he argues. Our lives tend to be built around the narrow desires of the ego. We might consider the needs of our friends and family, too.
 
@@ -95,7 +95,7 @@ If people better understood the interrelated character of the biosphere, they to
 
 <span class="big-letter">O</span>ne might think Næss’s worldview is rooted in privilege. Concern for the environment is a luxury for people with the time and capacity required to enjoy nature. 
 
-But self-realization is for all human beings, rich or poor, Næss suggests, and he was very much inspired by the indigenous communities he encountered across the globe — how the Sherpa people discuss the mountains, for instance, or Intuit culture’s harmonious approaches to the Arctic.
+But self-realization is for all human beings, rich or poor, Næss suggests, and he was very much inspired by the indigenous communities he encountered across the globe – how the Sherpa people discuss the mountains, for instance, or Intuit culture’s harmonious approaches to the Arctic.
 
 Late philosopher Helen de Cruz notes another example in her [wonderful essay on Næss and Spinoza](https://aeon.co/essays/how-to-face-the-climate-crisis-with-spinoza-and-self-knowledge): 
 
@@ -105,13 +105,13 @@ Such profound connections to nature may feel a bit beyond our sanitized modern l
 
 Think of the local places that you cherish. It could be a park, a pond, a meadow. I live in London, for instance, but near me is a beautiful grove of trees; on most days I walk among them. Their branches shade me in the summer and shelter me in the winter; I have anxiously marched by them and tranquilly strolled through them.
 
-The trees — as well as the birds nestling in them and the squirrels darting up their trunks — are part of my daily environment, an intimate feature of my lived experience.
+The trees – as well as the birds nestling in them and the squirrels darting up their trunks – are part of my daily environment, an intimate feature of my lived experience.
 
 If the trees were to go, my lived experience would immediately degrade. My relationships to the trees, the animals, as well as the animals’ own relationships: all would disappear. It might seem a small thing, but the world really would feel poorer.
 
 It’s exactly this kind of ‘spiritual’ or ‘essential’ impoverishment that Næss thinks we need to pay more attention to.
 
-Losing the places where we walk, think, reflect, where we get to observe the richness and diversity in the Being of other lifeforms — this profoundly impairs our potential for self-realization.
+Losing the places where we walk, think, reflect, where we get to observe the richness and diversity in the Being of other lifeforms – this profoundly impairs our potential for self-realization.
 
 Yet all over Planet Earth the loss of such natural places, as well as the intimate relationships human and nonhuman beings have to them, is utterly routine.
 
@@ -119,7 +119,7 @@ Such destruction takes place in the name of greater production and consumption, 
 
 We will never realize ourselves through trying to hoard as much stuff and status as possible, Næss suggests, nor through exploiting and homogenizing our environment. We are looking in the wrong places and chasing the wrong things.
 
-Genuine self-realization, a salve for our spiritual alienation, will only come if we each cultivate greater awareness of our place within nature’s totality — and for that we need the totality.
+Genuine self-realization, a salve for our spiritual alienation, will only come if we each cultivate greater awareness of our place within nature’s totality – and for that we need the totality.
 
 ## From ego-centrism to eco-consciousness
 
@@ -133,7 +133,7 @@ Two paths thus lie before us.
 
 We could blindly proceed with growth for growth’s sake, sever the connections that make us who we are, and forever exile ourselves from our own home.
 
-Alternatively, we could reconceptualize our relationship with nature. We could recognize how our fundamental connections to the world anchor our identity. By protecting and nurturing those connections, we could permit the many entities of Being — ourselves included — to unfold and achieve self-realization.
+Alternatively, we could reconceptualize our relationship with nature. We could recognize how our fundamental connections to the world anchor our identity. By protecting and nurturing those connections, we could permit the many entities of Being – ourselves included – to unfold and achieve self-realization.
 
 ## What do you make of Næss’s philosophy?
 

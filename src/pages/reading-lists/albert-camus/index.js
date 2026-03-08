@@ -33,7 +33,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>Camus has instead come to be thought of as an ‘absurdist’, focusing as he does on exposing the absurd nature of the human condition (for more on absurdism, see our short explainer piece on <Link to="/articles/absurdity-with-camus/">how Camus defines absurdity</Link>, as well as <Link to="/articles/thomas-nagel-why-humor-best-stance-towards-life-absurdity/">Thomas Nagel’s critique of Camus’ position</Link>). </p>
 
-              <p>Regardless of the label we use to describe him, there is no question that Camus and his ideas — exploring themes of nihilism, alienation, and the search for meaning — have been deeply influential in the decades since the French writer’s untimely death in 1960.</p>    
+              <p>Regardless of the label we use to describe him, there is no question that Camus and his ideas – exploring themes of nihilism, alienation, and the search for meaning – have been deeply influential in the decades since the French writer’s untimely death in 1960.</p>    
 
               <p>This reading list consists of the best books by Albert Camus. After reading the books listed, you’ll understand exactly why this great thinker was awarded the 1957 Nobel Prize in Literature at the age of just 44 (the second-youngest recpient ever).</p> 
               
@@ -64,7 +64,7 @@ const ReadingList = ({ data, location }) => {
 
               <h2>4. The Rebel, by Albert Camus</h2>
               <BookLink title="The Rebel" author="Albert Camus" link="http://www.amazon.com/Rebel-Essay-Man-Revolt/dp/0679733841?&linkCode=ll1&tag=philosophybre-20&linkId=c94797d7fffc9f15da0848ad0a3c2b12&language=en_US&ref_=as_li_ss_tl" img={data.four.childImageSharp.gatsbyImageData} />
-              <p>Back to non-fiction, and <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Rebel-Essay-Man-Revolt/dp/0679733841?&linkCode=ll1&tag=philosophybre-20&linkId=c94797d7fffc9f15da0848ad0a3c2b12&language=en_US&ref_=as_li_ss_tl">The Rebel</a> — a book-length essay published in 1951 — is Camus’ most academic work. In it, Camus explores the historical, political, and literary influences that shape our world and values.</p>
+              <p>Back to non-fiction, and <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Rebel-Essay-Man-Revolt/dp/0679733841?&linkCode=ll1&tag=philosophybre-20&linkId=c94797d7fffc9f15da0848ad0a3c2b12&language=en_US&ref_=as_li_ss_tl">The Rebel</a> – a book-length essay published in 1951 – is Camus’ most academic work. In it, Camus explores the historical, political, and literary influences that shape our world and values.</p>
               <p>Examining our urge to revolt and laying out his philosophical ideas with force, he declares that “real generosity towards the future lies in giving all to the present, and the task that’s before us is to transcend nihilism and to imbue meaning back into the world. But the challenge is that few of us know that that’s what we’re supposed to be doing.”</p>
               <p>A denser read than his other works, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Rebel-Essay-Man-Revolt/dp/0679733841?&linkCode=ll1&tag=philosophybre-20&linkId=c94797d7fffc9f15da0848ad0a3c2b12&language=en_US&ref_=as_li_ss_tl">The Rebel</a> belongs on the bookshelf of anyone interested in exploring Camus’ philosophical ideas more deeply.</p>
               

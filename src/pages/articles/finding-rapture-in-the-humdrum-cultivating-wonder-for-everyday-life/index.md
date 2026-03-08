@@ -24,7 +24,7 @@ In her 1965 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 >One way to open your eyes is to ask yourself, ‘What if I had never seen this before? What if I knew I would never see it again?’
 ​​Consider the scene before you now. Wherever you are reading these words, be it at home, on a train, in a cafe: this moment has never happened before, and will never happen again.
 
-Reflecting on its impermanence raises the stakes and focuses the attention — and then the power of your attention can do the rest. For, as novelist Henry Miller puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3OHfIim">Black Spring</a>:
+Reflecting on its impermanence raises the stakes and focuses the attention – and then the power of your attention can do the rest. For, as novelist Henry Miller puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3OHfIim">Black Spring</a>:
 
 >I have a theory that the moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. I have tried this experiment a thousand times and I have never been disappointed.
 For the novelty of experience to reveal itself, all we have to do is attend to it.
@@ -35,7 +35,7 @@ Even in situations that seem particularly repetitive, like cleaning our teeth ea
 
 The great 19th-century polymath Goethe baked such attention into his life’s purpose, once exclaiming “I am here, that I may wonder!”
 
-A century later, the writer Hermann Hesse reflected on the merit of such ‘Goethean wonder’, suggesting that truly contemplating the world — truly attending to and feeling wonder for it — can help dissolve the separations we artificially impose upon life.
+A century later, the writer Hermann Hesse reflected on the merit of such ‘Goethean wonder’, suggesting that truly contemplating the world – truly attending to and feeling wonder for it – can help dissolve the separations we artificially impose upon life.
 
 In moments of awe, Hesse writes in a substantial yet bewitching passage from <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4gjQlil">Butterflies: Reflections, Tales, and Verse</a>, we experience the unity of all that exists:
 
@@ -47,7 +47,7 @@ Iris Murdoch, for instance, argues [attention has a moral dimension](/articles/i
 
 Buddhist thinker Thich Nhat Hanh, meanwhile, writes in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/49jnSaf">The Miracle of Mindfulness</a> that
 
->Every day we are engaged in a miracle which we don’t even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child — our own two eyes. All is a miracle.
+>Every day we are engaged in a miracle which we don’t even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child – our own two eyes. All is a miracle.
 
 The greater our awareness of this miraculous present, Hanh suggests, the greater our capacity for gratitude and peace. (I consider Buddhist and Stoic tools for clearing our preoccupied minds in my companion article, [The Last Time Meditation](/articles/the-last-time-meditation-a-stoic-tool-for-living-in-the-present/).)
 

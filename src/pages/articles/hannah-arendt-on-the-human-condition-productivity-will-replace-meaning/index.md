@@ -37,7 +37,7 @@ To shed light here, Arendt distinguishes between three elements that she thinks 
 
 <span class="big-letter">L</span>abor for Arendt consists of what we must do, along with all other animals, simply to meet our biological needs. Gathering resources, consuming resources: labor resembles the cyclical patterns of nature, patterns we are in some sense enslaved by. We eat, but soon become hungry again. Farmers reap their harvest, and must replow their fields.
 
-Exercise, personal hygiene, domestic chores — the efforts of labor must be perpetually renewed because they are canceled out by consumption. While these cycles can be pleasurable, they ultimately lack meaning because they are governed by the necessity of merely _subsisting_. In this respect, all living beings are indistinguishable from one another: we must labor to stay alive.
+Exercise, personal hygiene, domestic chores – the efforts of labor must be perpetually renewed because they are canceled out by consumption. While these cycles can be pleasurable, they ultimately lack meaning because they are governed by the necessity of merely _subsisting_. In this respect, all living beings are indistinguishable from one another: we must labor to stay alive.
 
 ## Work reshapes the world
 
@@ -45,7 +45,7 @@ Exercise, personal hygiene, domestic chores — the efforts of labor must be per
 
 Work for Arendt involves not the repetitive tasks of labor, but goal-directed strategy, calculation, and planning for the future. Time becomes linear, rather than circular.
 
-We don’t just sustain ourselves in the world, we _reshape_ the world: we build infrastructure, we create art, we produce something _new_ and _abiding_ and _useful_ for our fellow humans that changes their experience in some permanent way. Work is thus teleological and world-building — it has a purpose beyond consumption.
+We don’t just sustain ourselves in the world, we _reshape_ the world: we build infrastructure, we create art, we produce something _new_ and _abiding_ and _useful_ for our fellow humans that changes their experience in some permanent way. Work is thus teleological and world-building – it has a purpose beyond consumption.
 
 ## Action announces who we are
 
@@ -78,7 +78,7 @@ We don’t just subsist in the world, and we don’t merely shape it through art
 
 In many respects, for example, work has been reduced to labor. We increasingly produce artifacts designed not to stand the test of time, but to serve the next business cycle.
 
-Our efforts create nothing new or lasting or useful: we perform the same tasks again and again to sustain the market’s insatiable need for more gadgets, clothes, trinkets, information, entertainment — all produced to be consumed and thrown away.
+Our efforts create nothing new or lasting or useful: we perform the same tasks again and again to sustain the market’s insatiable need for more gadgets, clothes, trinkets, information, entertainment – all produced to be consumed and thrown away.
 
 As Arendt puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3MmK1tm">The Human Condition</a>:
 

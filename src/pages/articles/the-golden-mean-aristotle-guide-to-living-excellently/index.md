@@ -1,6 +1,6 @@
 ---
 title: "The ‘Golden Mean’: Aristotle’s Guide to Living Excellently"
-description: "Aristotle’s ‘golden mean’ is his theory that excellence lies in the middle way between two extreme states: excess and deficiency. This article considers the theory — and shares Aristotle’s tips for living in accordance with it."
+description: "Aristotle’s ‘golden mean’ is his theory that excellence lies in the middle way between two extreme states: excess and deficiency. This article considers the theory – and shares Aristotle’s tips for living in accordance with it."
 image: "./aristotle-rembrandt.jpeg"
 imageAlt: "Aristotle with a Bust of Homer, Rembrandt"
 imageSeo: "./aristotle-rembrandt.jpeg"
@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<span class="big-letter">A</span>ristotle’s ethics was centered around the pursuit of _eudaimonia_, meaning happiness or flourishing — and he believed we could achieve _eudaimonia_ by using reason excellently in everything we do. 
+<span class="big-letter">A</span>ristotle’s ethics was centered around the pursuit of _eudaimonia_, meaning happiness or flourishing – and he believed we could achieve _eudaimonia_ by using reason excellently in everything we do. 
 
 However, we might think: it’s all well and good to define happiness as ‘excellent rational activity’. But what does excellence really mean? How _can_ we act excellently? How can we make good choices and deploy our rationality to live happy lives? 
 
@@ -46,7 +46,7 @@ Importantly, identifying the golden mean between excess and deficiency is someth
 
 >It is by taking part in transactions with our fellow men that some of us become fair-minded and others iniquitous; by acting in dangerous situations and forming a habit of fear or of confidence we become courageous or cowardly.
 
-Practical wisdom and the good action following it, then, are things you _attain with practice_. By stepping out into the world and habitually trying to do the right thing — by habitually trying to identify the mean between deficiency and excess in all you do — you can begin improving yourself today.  
+Practical wisdom and the good action following it, then, are things you _attain with practice_. By stepping out into the world and habitually trying to do the right thing – by habitually trying to identify the mean between deficiency and excess in all you do – you can begin improving yourself today.  
 
 This is the rather nice thing about Aristotle: far from labeling particular traits or qualities of character as permanently _good_ or _bad_, he recognizes the nuance that the real world demands. 
 
@@ -56,7 +56,7 @@ Living a full, flourishing life is not a matter of _being born a good person_, b
 
 As Edith Hall candidly puts it in her book, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0735220824/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735220824&linkId=55045c425b70975a8e3a5495365e1574">Aristotle’s Way</a>: 
 
->I don’t think I’m exceptionally worthy or nice. I struggle with some unpleasant character traits. After reading Aristotle on virtues and vices, and talking honestly with people I trust, I believe my own worst faults are impatience, recklessness, excessive bluntness, emotional extremes and vindictiveness. But Aristotle’s idea of the ideal mean between extremes, which we call ‘the golden mean,’ explains that all these are fine in moderation — people who are never impatient don’t get things done; people who never take risks live limited lives; people who evade the truth and do not express pain or joy at all are psychologically and emotionally stunted or deprived; and people who have no desire whatsoever to get even with those who have damaged them are either deluding themselves or have too low an estimate of their own worth.
+>I don’t think I’m exceptionally worthy or nice. I struggle with some unpleasant character traits. After reading Aristotle on virtues and vices, and talking honestly with people I trust, I believe my own worst faults are impatience, recklessness, excessive bluntness, emotional extremes and vindictiveness. But Aristotle’s idea of the ideal mean between extremes, which we call ‘the golden mean,’ explains that all these are fine in moderation – people who are never impatient don’t get things done; people who never take risks live limited lives; people who evade the truth and do not express pain or joy at all are psychologically and emotionally stunted or deprived; and people who have no desire whatsoever to get even with those who have damaged them are either deluding themselves or have too low an estimate of their own worth.
 
 Even if you don’t like particular qualities about yourself, those qualities are probably highly valuable in certain contexts. The trick lies in knowing when and in what proportion to deploy the different behaviors of which we are capable. This is what ‘moderation’ means for Aristotle: not never showing strong feelings, but knowing when it is appropriate to do so. 
 
@@ -117,7 +117,7 @@ The final tip is to not be too hard on yourself: in Aristotle’s project for ha
 
 <span class="big-letter">W</span>hat do you think of Aristotle’s golden mean? Do you find it an accurate characterization of virtue, and a useful guide for human behavior? Or do you find it too general to be of use? 
 
-Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course and community, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living — including Aristotelianism, Buddhism, and Existentialism. 
+Whatever your answers, you can learn more about Aristotle’s ethics and discuss your thoughts with others in our new course and community, How to Live a Good Life, which explores 7 of the world’s most influential philosophies for living – including Aristotelianism, Buddhism, and Existentialism. 
 
 Learn more and sign up here: [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/).
 

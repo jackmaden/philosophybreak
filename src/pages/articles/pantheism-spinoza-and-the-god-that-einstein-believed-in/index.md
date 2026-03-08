@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">A</span>merican architect Frank Lloyd Wright once wrote, “I believe in God, only I spell it Nature.” This, in a nutshell, sums up the philosophical doctrine of _pantheism_, the belief that reality is identical with divinity: that the universe is a manifestation of God.
 
-For pantheists, God is not an anthropomorphic meddler in human affairs, operating outside natural laws — but simply the perpetual _being_, the uncaused cause of all such laws, that lies at the heart of existence. 
+For pantheists, God is not an anthropomorphic meddler in human affairs, operating outside natural laws – but simply the perpetual _being_, the uncaused cause of all such laws, that lies at the heart of existence. 
 
 There is thus no God but the combined substance, forces, and laws manifest in the universe. Existence _itself_ is divine.
 
@@ -45,7 +45,7 @@ On the other hand, 19th-century German philosopher Arthur Schopenhauer complains
 
 - Do you think pantheism is a position worthy of consideration?
 - Does placing God in _this_ reality, and banishing the idea of a transcendent realm, resonate with you? Does it move us closer to, say, understanding why anything exists at all?
-- Or do you agree with Schopenhauer — that pantheism amounts to nothing more than adding the word ‘divine’ in front of the word ‘nature’, in the hope that this somehow explains it?
+- Or do you agree with Schopenhauer – that pantheism amounts to nothing more than adding the word ‘divine’ in front of the word ‘nature’, in the hope that this somehow explains it?
 
 If you’d like to join the conversation, consider subscribing to my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Join 25,000+ subscribers by signing up below:
 

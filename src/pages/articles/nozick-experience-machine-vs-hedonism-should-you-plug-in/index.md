@@ -17,7 +17,7 @@ To answer such questions, a common stance philosophers take is that of _hedonism
 
 Not the kind of folk hedonism whereby someone indulges in endless carnal pleasures, but _prudential hedonism_, the philosophical position which states that, ultimately, when it comes to personal wellbeing, pleasure is the only intrinsic good, and pain the only bad.
 
-While there are different types of hedonism, hedonists generally assert that, when you get right down to it, everything we recognize as ‘good’ — say, friendship, love, kindness, growth, solving problems, high achievement — is underpinned by _feeling_ good. And everything we recognize as ‘bad’ — say, loneliness, vice, fear, shame, failure — is underpinned by _feeling_ bad. 
+While there are different types of hedonism, hedonists generally assert that, when you get right down to it, everything we recognize as ‘good’ – say, friendship, love, kindness, growth, solving problems, high achievement – is underpinned by _feeling_ good. And everything we recognize as ‘bad’ – say, loneliness, vice, fear, shame, failure – is underpinned by _feeling_ bad. 
 
 So, though living a good life can often seem like a very complicated matter, hedonists cut through this complexity to point out that, actually, it’s rather simple: living a good life means _feeling good within ourselves_. ‘Happiness’ is simply the preponderance of pleasure over pain.
 
@@ -53,7 +53,7 @@ But, if the good life is only about _having good experiences_, as hedonists and 
 
 ## What’s stopping us from plugging into the experience machine?
 
-<span class="big-letter">O</span>f course, the simple answer — and the one Nozick wants us to have — is that we don’t want to plug into the experience machine because _there is more to life than pleasurable experiences_. 
+<span class="big-letter">O</span>f course, the simple answer – and the one Nozick wants us to have – is that we don’t want to plug into the experience machine because _there is more to life than pleasurable experiences_. 
 
 In other words, hedonism is false, for the good life is not just about _feeling_ good, Nozick observes: we want to _actually do_ something. We don’t just want to be a free-floating bundle of empty pleasures, we want to _actually be_ a certain type of person. Nozick writes:
 
@@ -67,7 +67,7 @@ As Nozick summarizes:
 
 However, while the experience machine is often taken as a knock-down argument against hedonism, some philosophers point out that the thought experiment exploits a number of psychological biases.
 
-Sure, we might not want to plug into the machine — but that doesn’t mean not plugging in is the right answer, nor that hedonism is false; we are simply clouded by bias.
+Sure, we might not want to plug into the machine – but that doesn’t mean not plugging in is the right answer, nor that hedonism is false; we are simply clouded by bias.
 
 Once we expose that bias, the argument goes, we can see how Nozick’s thought experiment is no threat to hedonism whatsoever.
 
@@ -87,25 +87,25 @@ Empirical studies show that most people, given these circumstances, would choose
 
 >Comparing this result with how people respond to Nozick’s experience machine thought experiment reveals the following: In Nozick’s experience machine thought experiment people tend to choose a real and familiar life over a more pleasurable life, and in the reversed experience machine thought experiment people tend to choose a familiar life over a real life. Familiarity seems to matter more than reality, undermining the strength of Nozick’s original argument.
 
-According to the status quo bias, then, we reject the experience machine not because we reject pleasure for reality, but because we are uncomfortable with such a radical departure from our familiar lives — including the abandonment of all our existing commitments.
+According to the status quo bias, then, we reject the experience machine not because we reject pleasure for reality, but because we are uncomfortable with such a radical departure from our familiar lives – including the abandonment of all our existing commitments.
 
 ## The hedonistic bias
 
 <span class="big-letter">A</span>nother way philosophers defend hedonism from Nozick’s thought experiment is by claiming that, far from counting _against_ hedonism, our aversion to plugging in is in fact _motivated_ by hedonism.
 
-Nozick suggests we have a desire to remain rooted in the real world — but what motivates us to have this desire? Why do we _want_ to remain attached to reality? Might it not be because we think that, by staying attached to the real world, we will ultimately _feel better within ourselves..?_
+Nozick suggests we have a desire to remain rooted in the real world – but what motivates us to have this desire? Why do we _want_ to remain attached to reality? Might it not be because we think that, by staying attached to the real world, we will ultimately _feel better within ourselves..?_
 
 The so-called ‘paradox of hedonism’ is instructive here: pleasure is often best pursued indirectly. 
 
-We rarely set out to simply grant ourselves pleasure; instead, we go for a walk, we spend time with our loved ones, we read a book, we work on a favored project — and thereby obtain pleasure.
+We rarely set out to simply grant ourselves pleasure; instead, we go for a walk, we spend time with our loved ones, we read a book, we work on a favored project – and thereby obtain pleasure.
 
-[As Epicurus observes](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/), going after every single promise of immediate, short-term pleasure is not a good strategy for maximizing our pleasure overall, and so we often forgo short-term pleasures — and even tolerate pain — in order to secure longer-term pleasures like mental tranquility.
+[As Epicurus observes](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/), going after every single promise of immediate, short-term pleasure is not a good strategy for maximizing our pleasure overall, and so we often forgo short-term pleasures – and even tolerate pain – in order to secure longer-term pleasures like mental tranquility.
 
-Nozick’s experience machine exploits this gap between short-term pleasure and longer-term pleasures. We are suspicious, perhaps subconsciously, that it offers pleasures only of the instant gratification kind, and thus reject it because we think that by staying attached to reality we have a better chance of attaining longer-term peace of mind — failing to realize that this longer-term peace of mind _is itself a form of pleasure_.
+Nozick’s experience machine exploits this gap between short-term pleasure and longer-term pleasures. We are suspicious, perhaps subconsciously, that it offers pleasures only of the instant gratification kind, and thus reject it because we think that by staying attached to reality we have a better chance of attaining longer-term peace of mind – failing to realize that this longer-term peace of mind _is itself a form of pleasure_.
 
 The philosopher Matthew Silverstein nicely articulates this view in his 2000 paper, [In Defense of Happiness](https://philarchive.org/rec/SILIDO-2) (note: he uses ‘pleasure’ and ‘happiness’ interchangeably):
 
->\[O]ur experience machine intuitions reflect our desire to remain connected to the real world, to track reality. But… the desire to track reality owes its hold upon us to the role it has played in the creation of happiness…. Our intuitive views about what is prudentially good, the views upon which the experience machine argument relies, owe their existence to happiness. We miss the mark, then, if we take our intuitions about the experience machine as evidence against hedonism…. Even though it leads us away from happiness in the case of the experience machine, our desire to track reality points indirectly to happiness…. The mere existence of our intuitions against the experience machine should not lead us to reject hedonism. Contrary to appearances, those intuitions point — albeit circuitously — to happiness. And as a result, they no longer seem to contradict the claim that happiness is the only thing of intrinsic prudential value.
+>\[O]ur experience machine intuitions reflect our desire to remain connected to the real world, to track reality. But… the desire to track reality owes its hold upon us to the role it has played in the creation of happiness…. Our intuitive views about what is prudentially good, the views upon which the experience machine argument relies, owe their existence to happiness. We miss the mark, then, if we take our intuitions about the experience machine as evidence against hedonism…. Even though it leads us away from happiness in the case of the experience machine, our desire to track reality points indirectly to happiness…. The mere existence of our intuitions against the experience machine should not lead us to reject hedonism. Contrary to appearances, those intuitions point – albeit circuitously – to happiness. And as a result, they no longer seem to contradict the claim that happiness is the only thing of intrinsic prudential value.
 
 So, according to this position, we reject the experience machine _because we think our lives would feel better outside of it._ Far from a rejection of hedonism, then, our response to the experience machine reveals our deep-rooted hedonic motivations.
 
@@ -135,7 +135,7 @@ Who has the better life?
 
 If hedonism is true, then we must answer that the quality of A and B’s lives, the value of their lives, is exactly the same. 
 
-But Lin thinks most of us would say that, in terms of their personal wellbeing, A’s life is better than B’s — because A’s life is _actually happening_. If we had to pick one, we would prefer to live A’s life than B’s.
+But Lin thinks most of us would say that, in terms of their personal wellbeing, A’s life is better than B’s – because A’s life is _actually happening_. If we had to pick one, we would prefer to live A’s life than B’s.
 
 While Lin’s new version of the thought experiment protects against the status quo and hedonistic biases, a hedonist might take issue with it in a different way: it exploits the so-called ‘freebie problem’. 
 

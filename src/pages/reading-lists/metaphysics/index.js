@@ -40,7 +40,7 @@ const ReadingList = ({ data, location }) => {
 
               <BigSubscribe />
 
-              <p>Otherwise, this reading list puts together the top ten books of and about the philosophical branch of metaphysics. It contains a mix of primary and secondary literature — from introductions and anthologies to the original texts of the grand metaphysics figureheads themselves. Let’s jump in!</p> 
+              <p>Otherwise, this reading list puts together the top ten books of and about the philosophical branch of metaphysics. It contains a mix of primary and secondary literature – from introductions and anthologies to the original texts of the grand metaphysics figureheads themselves. Let’s jump in!</p> 
 
               
 
@@ -48,7 +48,7 @@ const ReadingList = ({ data, location }) => {
               <h2>1. Metaphysics: A Very Short Introduction, by Stephen Mumford</h2>
               <BookLink title="Metaphysics: A Very Short Introduction" author="Stephen Mumford" link="http://www.amazon.com/gp/product/0199657122/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199657122&linkId=1da27249a864b2272832270abdc1d20a" img={data.one.childImageSharp.gatsbyImageData} />
               <p>Published in 2012, British philosopher Stephen Mumford’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199657122/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199657122&linkId=1da27249a864b2272832270abdc1d20a">Metaphysics: A Very Short Introduction</a> is a fantastic place to start for anyone with a budding interest in metaphysics.</p>
-              <p>Mumford gets right to the heart of the matter — discussing time, substance, emergentism, and more — providing a clear and simple path through the development of metaphysical thought in the Western tradition.</p>
+              <p>Mumford gets right to the heart of the matter – discussing time, substance, emergentism, and more – providing a clear and simple path through the development of metaphysical thought in the Western tradition.</p>
               <p>Coming in at an accessible 128 pages, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199657122/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199657122&linkId=1da27249a864b2272832270abdc1d20a">Metaphysics: A Very Short Introduction</a> is a very nice entry point to metaphysics.</p>
               
 
@@ -64,7 +64,7 @@ const ReadingList = ({ data, location }) => {
               <p>If you’re seeking a one-stop shop for all things metaphysics, look no further than philosopher Tim Crane’s epic <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199261970/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199261970&linkId=89a1a445813858d647b14db9cfa19618">Metaphysics: A Guide and Anthology</a>, published in 2004.</p>
               
               <p>Crane provides an expertly organized collection of fifty-four of the best metaphysical writings from philosophers old and new, structured into ten sections: God, idealism and realism, being, universals and particulars, necessity and contingency, causation, space and time, identity, mind and body, and free will and determinism. </p>
-              <p>The best thing? Crane offers a substantial general introduction, as well as detailed introductions to each section to guide readers through them. At just under 800 pages, this anthology’s a beast — but you won’t need another.</p>
+              <p>The best thing? Crane offers a substantial general introduction, as well as detailed introductions to each section to guide readers through them. At just under 800 pages, this anthology’s a beast – but you won’t need another.</p>
               
 
               <h2>4. The Metaphysics, by Aristotle</h2>
@@ -78,14 +78,14 @@ const ReadingList = ({ data, location }) => {
               <h2>5. Meditations on First Philosophy, by René Descartes</h2>
               <BookLink title="Meditations on First Philosophy" author="René Descartes" link="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124" img={data.five.childImageSharp.gatsbyImageData} />
               <p>René Descartes’s 1641 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> is perceived to mark the beginning of modern philosophy in the Western tradition, and is still carefully studied in undergraduate philosophy classes as a foundational text to this day.</p>
-              <p>No wonder: in highly accessible, confessional style, Descartes manages to articulate some of the most troubling philosophical problems we face — all in under 100 pages.</p>
+              <p>No wonder: in highly accessible, confessional style, Descartes manages to articulate some of the most troubling philosophical problems we face – all in under 100 pages.</p>
               <p>Descartes's <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1107665736/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107665736&linkId=60e77f9fd4ff3c655b9bed5f1eac5124">Meditations on First Philosophy</a> is often judged to be a work of epistemology, and it does indeed feature on our <Link to="/reading-lists/epistemology">epistemology reading list</Link>; but what Descartes set out to do with this work was establish proofs for the existence of God, as well as for the substance duality of body and soul. This is very much a work of metaphysics as much as it is epistemology, and its ease of digestion renders it essential to this list.</p>
               
 
               <h2>6. Ethics, by Spinoza</h2>
               <BookLink title="Ethics" author="Spinoza" link="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd" img={data.six.childImageSharp.gatsbyImageData} />
-              <p>It’s said that anyone who reads Spinoza’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a> the first time will enjoy it — but when they read it a second, third, and fourth time, they will forever be in love not just with Spinoza but with all things philosophy.</p>
-              <p>Published shortly after his death in 1677, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a> is Spinoza's greatest work — a fully cohesive philosophical system that strives to provide a metaphysical basis for reality, upon which we can comprehend the meaning of an ethical life. It is a wonderful example of genius at work.</p>
+              <p>It’s said that anyone who reads Spinoza’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a> the first time will enjoy it – but when they read it a second, third, and fourth time, they will forever be in love not just with Spinoza but with all things philosophy.</p>
+              <p>Published shortly after his death in 1677, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a> is Spinoza's greatest work – a fully cohesive philosophical system that strives to provide a metaphysical basis for reality, upon which we can comprehend the meaning of an ethical life. It is a wonderful example of genius at work.</p>
               
 
               <h2>7. An Enquiry Concerning Human Understanding, by David Hume</h2>
@@ -106,9 +106,9 @@ const ReadingList = ({ data, location }) => {
 
               <h2>9. Being and Time, by Martin Heidegger</h2>
               <BookLink title="Being and Time" author="Martin Heidegger" link="http://www.amazon.com/gp/product/0061575593/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061575593&linkId=9b6de9fcfa7f580421a8de925fa16d91" img={data.nine.childImageSharp.gatsbyImageData} />
-              <p>Hold your horses, says Martin Heidegger: we’ve all massively missed something. Aristotle led us up the garden path. He created all these metaphysical problems that everyone argues about, when really the <i>actual</i> problem has been <i>ontology</i>, the question of being — and everyone’s skimmed over it!</p>
+              <p>Hold your horses, says Martin Heidegger: we’ve all massively missed something. Aristotle led us up the garden path. He created all these metaphysical problems that everyone argues about, when really the <i>actual</i> problem has been <i>ontology</i>, the question of being – and everyone’s skimmed over it!</p>
               <p>With his landmark 1927 <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0061575593/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061575593&linkId=9b6de9fcfa7f580421a8de925fa16d91">Being and Time</a>, Heidegger seeks to redress the balance by focusing like a laser, for hundreds of pages, on what it means to Be. What is the nature of our existence, as <i>we</i> experience it? Only by paying proper attention to this question, argues Heidegger, can we hope to get anywhere.</p>
-              <p>Not for the faint hearted, this startling book has had a staggering influence on philosophy, art, literature, and existentialism since its publication — and deeply rewards those who tackle it.</p>
+              <p>Not for the faint hearted, this startling book has had a staggering influence on philosophy, art, literature, and existentialism since its publication – and deeply rewards those who tackle it.</p>
               
 
               <h2>10. Sameness and Substance Renewed, by David Wiggins</h2>

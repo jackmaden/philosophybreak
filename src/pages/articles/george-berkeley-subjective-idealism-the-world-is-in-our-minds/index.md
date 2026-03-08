@@ -29,7 +29,7 @@ You might get desperate and try to smell or even taste the device, but if we rem
 
 The device you know and love has been reduced to a colorless, soundless, odorless, tasteless nothingness: there's no sign of the independent lump of matter that common sense initially presumed to exist. It turns out all we ever had access to were our own sensory perceptions, located in our mind. Take those away, and what’s left of the device’s existence? 
 
-The question we're really asking: remove conscious minds — remove our sensory perceptions — and what remains of the universe? 
+The question we're really asking: remove conscious minds – remove our sensory perceptions – and what remains of the universe? 
 
 ## Esse est percipi: to be is to be perceived
 
@@ -39,11 +39,11 @@ The question we're really asking: remove conscious minds — remove our sensory 
 
 You might think: well, take away my sensory perceptions, and of course I won’t be able to detect the existence of anything. This tells us nothing about the status of the world or the objects contained within it, for even if _I_ am no longer able to perceive my device, that doesn’t mean my device has stopped existing. Someone else could perceive it if they were in its presence. 
  
-Well, Berkeley would agree. To be is to be perceived. So, if someone else was in the presence of your device, the device would then exist in the mind of that person. But take away the mind of that person, and again — what remains? As Berkeley states:
+Well, Berkeley would agree. To be is to be perceived. So, if someone else was in the presence of your device, the device would then exist in the mind of that person. But take away the mind of that person, and again – what remains? As Berkeley states:
 
 >It is indeed an opinion strangely prevailing amongst people that houses, mountains, rivers, and in a word all sensible objects, have an existence natural or real, distinct from their being perceived by the understanding… for what are the forementioned objects but things we perceive by sense? And what do we perceive besides our own ideas or sensations? And is it not plainly repugnant that any one of these or any combination of them should exist unperceived? 
 
-The world we tend to think of as existing independently of us, Berkeley points out, is a world of sensory perceptions: a world of colors, smells, textures, tastes, and sounds. Ice cream on a summer’s day. A fire crackling during the night. A rainstorm soaking you to the bone. These sensory experiences may be real and vivid — but they remain sensory experiences, dependent on our sensory apparatus, existent only in the minds of those experiencing them. Where is the mind-independent stuff?
+The world we tend to think of as existing independently of us, Berkeley points out, is a world of sensory perceptions: a world of colors, smells, textures, tastes, and sounds. Ice cream on a summer’s day. A fire crackling during the night. A rainstorm soaking you to the bone. These sensory experiences may be real and vivid – but they remain sensory experiences, dependent on our sensory apparatus, existent only in the minds of those experiencing them. Where is the mind-independent stuff?
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -64,7 +64,7 @@ The world we tend to think of as existing independently of us, Berkeley points o
     </div>
 </div>
 
-We might object by appealing to the fact that it’s perfectly possible to imagine a scene existing — say, a mountain forest, or a faraway planet — without a conscious mind there to experience it. But, of course, in doing the imagining, _we_ would then be the conscious mind experiencing it. As Berkeley comments:
+We might object by appealing to the fact that it’s perfectly possible to imagine a scene existing – say, a mountain forest, or a faraway planet – without a conscious mind there to experience it. But, of course, in doing the imagining, _we_ would then be the conscious mind experiencing it. As Berkeley comments:
 
 >When we do our utmost to conceive the existence of external bodies, we are all the while only contemplating our own ideas. But the mind, taking no notice of itself, is deluded to think it can and does conceive bodies existing unthought of or without the mind; though at the same time they are apprehended by, or exist in, itself. 
 
@@ -74,11 +74,11 @@ It is impossible to imagine any object existing independently from a mind, Berke
 
 <span class="big-letter">P</span>erhaps we might think Berkeley’s argument rests on a conflation between our _perceptions_ of the world, and the world itself. And once we clear away that conflation, all of the strange unintuitive confusion arising from Berkeley’s points will go with it. 
 
-We might grant Berkeley that, if we _were_ to suddenly be deprived of our senses, the world of our experience would vanish. But that doesn’t mean the world _itself_ would stop existing. There would still be underlying ‘stuff’ that endures — i.e. there would still be matter, the stuff that causes our experiences in the first place — even without anyone there to perceive it. 
+We might grant Berkeley that, if we _were_ to suddenly be deprived of our senses, the world of our experience would vanish. But that doesn’t mean the world _itself_ would stop existing. There would still be underlying ‘stuff’ that endures – i.e. there would still be matter, the stuff that causes our experiences in the first place – even without anyone there to perceive it. 
 
 So, our _perceptions_ of the world might be mind-dependent, mental; but that doesn’t mean the world _itself_ is mind-dependent.
 
-But this view — [reminiscent of that put forward by the great empiricist John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) — is mistaken, Berkeley thinks.
+But this view – [reminiscent of that put forward by the great empiricist John Locke](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/) – is mistaken, Berkeley thinks.
 
 Try to imagine a world without your mind, he implores. What would such a world _be_ like? Are we even able to conceptualize it? 
 
@@ -88,7 +88,7 @@ As we saw with your device at the beginning of this article, once we strip objec
 
 So, without our minds, what exactly endures? Are materialists like Locke simply insisting that, as well as our rich sensory perceptions, _there also exists_ this colorless, soundless, odorless, tasteless stuff that we aren’t even able to conceptualize? But what grounds are there for claiming this? What does matter, this inaccessible non-mental alien substance, really add here?
 
-Besides, even if we _did_ grant materialists their precious matter, Berkeley continues, they have absolutely no idea how it could possibly _cause_ conscious, mental experiences within us. As matter is necessarily colorless, soundless, odorless, and tasteless, how could such a non-mental nothingness possibly _cause_ or _give rise_ to colors, sounds, odors, or tastes within our minds — when it itself possesses none of these things? Berkeley writes:
+Besides, even if we _did_ grant materialists their precious matter, Berkeley continues, they have absolutely no idea how it could possibly _cause_ conscious, mental experiences within us. As matter is necessarily colorless, soundless, odorless, and tasteless, how could such a non-mental nothingness possibly _cause_ or _give rise_ to colors, sounds, odors, or tastes within our minds – when it itself possesses none of these things? Berkeley writes:
 
 >By their own confession, [materialists] are never the nearer knowing how our ideas are produced, since they own themselves unable to comprehend in what manner body can act upon spirit, or how it is possible it should imprint any idea in the mind. 
 
@@ -98,7 +98,7 @@ Far simpler, Berkeley thinks, to just say our sensations are the only things tha
 
 >The production of ideas or sensations in our minds can be no reason why we should suppose [the existence of] matter or corporeal substances, since that is acknowledged to remain equally inexplicable, with or without this supposition. If therefore it were possible for bodies to exist without the mind, to hold they do so must needs be a very precarious opinion; since it is to suppose, without any reason at all, that God has created innumerable beings that are entirely useless, and serve… no manner of purpose…
 
-In describing our experiences of the world, we never truly encounter or directly access ‘matter’. We only ever access our perceptions. Our perceptions can be nothing ‘like’ matter, for matter (if it exists) is necessarily colorless, soundless, odorless, and tasteless. Positing matter’s existence thus tells us nothing about why we have the experiences that we do. So matter, Berkeley concludes, is ultimately empty — and we have nothing to gain from thinking this non-mental substance exists independently from our minds.   
+In describing our experiences of the world, we never truly encounter or directly access ‘matter’. We only ever access our perceptions. Our perceptions can be nothing ‘like’ matter, for matter (if it exists) is necessarily colorless, soundless, odorless, and tasteless. Positing matter’s existence thus tells us nothing about why we have the experiences that we do. So matter, Berkeley concludes, is ultimately empty – and we have nothing to gain from thinking this non-mental substance exists independently from our minds.   
 
 
 ## So where do our experiences come from, if not physical objects?
@@ -124,11 +124,11 @@ Say you’re eating a meal with some friends. Presumably everyone sees the same 
     </div>
 </div>
 
-Berkeley agrees that there is an independently existing table, but disagrees that its existence depends on some alien non-mental substance like matter. Non-mental things, Berkeley reminds us, do not have the power to cause ideas in us: only other ideas can do that. So, the source of all ideas — including the source of your shared experience of the table — must be another mind… 
+Berkeley agrees that there is an independently existing table, but disagrees that its existence depends on some alien non-mental substance like matter. Non-mental things, Berkeley reminds us, do not have the power to cause ideas in us: only other ideas can do that. So, the source of all ideas – including the source of your shared experience of the table – must be another mind… 
 
 In fact, not only must the source of our experiences be another mind, Berkeley continues, it must be a mind superior to human minds, for...
 
->the ideas of sense are more strong, lively, and distinct than those of the imagination; they have likewise a steadiness, order, and coherence, and are not excited at random, as those which are the effects of human wills often are, but in a regular train or series — the admirable connection whereof sufficiently testifies the wisdom and benevolence of its Author.
+>the ideas of sense are more strong, lively, and distinct than those of the imagination; they have likewise a steadiness, order, and coherence, and are not excited at random, as those which are the effects of human wills often are, but in a regular train or series – the admirable connection whereof sufficiently testifies the wisdom and benevolence of its Author.
 
 Here the brilliant audacity of Berkeley’s argument is truly revealed: the objects of experience exist independently from us not as lumps of matter, Berkeley argues, but as ideas in the mind of God:
 
@@ -150,9 +150,9 @@ In his 1912 book <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 Indeed, even if we don’t agree with Berkeley’s ultimate conclusions, anyone forming a conception of the world must take seriously his denial of matter, and recognize that the world of our sensory experience cannot possibly be ‘like’ the world as it exists without our minds, for the latter would necessarily be a world without color, sound, taste, or touch. 
 
-The objects of our sensory perception — your device, say — cannot possibly ‘resemble’ or ‘represent’ objects by themselves. Without a conscious mind there to perceive it, your device is something very different (an insight harnessed by [Kant with his transcendental idealism](/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/)). Berkeley thought it was so different, so alien and contradictory and empty, that there was no point entertaining its existence at all: its only ‘real’ existence is as an idea in your mind...
+The objects of our sensory perception – your device, say – cannot possibly ‘resemble’ or ‘represent’ objects by themselves. Without a conscious mind there to perceive it, your device is something very different (an insight harnessed by [Kant with his transcendental idealism](/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/)). Berkeley thought it was so different, so alien and contradictory and empty, that there was no point entertaining its existence at all: its only ‘real’ existence is as an idea in your mind...
 
-So, though we might balk at Berkeley’s positive picture, that does not reduce the power of his arguments against commonsensical conceptions of matter. He makes us question, what does ‘physical’ actually mean? What _is_ matter? What is the boundary between perceiver and perceived? [Is the world around us ‘real’?](/articles/is-the-world-around-us-real/) What is the universe like without conscious minds there to perceive it? And ultimately — [what are the limits of human knowledge?](/reading-lists/epistemology/) 
+So, though we might balk at Berkeley’s positive picture, that does not reduce the power of his arguments against commonsensical conceptions of matter. He makes us question, what does ‘physical’ actually mean? What _is_ matter? What is the boundary between perceiver and perceived? [Is the world around us ‘real’?](/articles/is-the-world-around-us-real/) What is the universe like without conscious minds there to perceive it? And ultimately – [what are the limits of human knowledge?](/reading-lists/epistemology/) 
 
 If you're interested in exploring these questions further, our introductory philosophy course, [Life's Big Questions](/lifes-big-questions/), discusses philosophy's best answers to the question of whether the world of our sensory experience aligns to ‘reality’, outlining [René Descartes](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/), [John Locke](/reading-lists/john-locke/), George Berkeley, David Hume, [Immanuel Kant](/reading-lists/immanuel-kant/) and many other great thinkers. Interested in learning more? Explore the full course now! 
 

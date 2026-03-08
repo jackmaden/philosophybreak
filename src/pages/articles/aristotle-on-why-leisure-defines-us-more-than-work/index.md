@@ -14,7 +14,7 @@ authorLink: "/about/"
 
 Aristotle writes that Sparta, for instance, never flourishes in times of peace because its constitution only trains the Spartans well for combat: it “has not educated them to be able to live in idleness.” 
 
-If we transpose Aristotle’s thought — that we often do not know how to spend our leisure time constructively — to the modern day, at one extreme we can find workaholism, where people let their work absolutely define meaning in their lives. Their leisure time is simply eaten away by more work, or by thinking about work. 
+If we transpose Aristotle’s thought – that we often do not know how to spend our leisure time constructively – to the modern day, at one extreme we can find workaholism, where people let their work absolutely define meaning in their lives. Their leisure time is simply eaten away by more work, or by thinking about work. 
 
 At the other extreme, we find those who want to forget work so thoroughly they spend all their leisure time distracting themselves with physical pleasures or meaningless entertainment. 
 

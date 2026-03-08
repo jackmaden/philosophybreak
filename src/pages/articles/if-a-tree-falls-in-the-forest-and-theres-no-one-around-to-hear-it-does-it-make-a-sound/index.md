@@ -25,7 +25,7 @@ Rather, its point is to draw out the rather strange tension between our two very
 
 On the one hand, we classify sound as a mechanistic process that exists without us, ‘out there’ in the world. On the other, we regard it as a private conscious experience, its existence entirely _dependent_ on us. 
 
-And when you dwell on this latter definition, you realize it doesn’t just extend to sounds. _Everything_ we experience — everything we see, hear, smell, touch, taste — all of it depends on our sensory apparatus, on us. Without us, our experiences would not exist. 
+And when you dwell on this latter definition, you realize it doesn’t just extend to sounds. _Everything_ we experience – everything we see, hear, smell, touch, taste – all of it depends on our sensory apparatus, on us. Without us, our experiences would not exist. 
 
 As the great 16th-century astronomer Galileo Galilei put it: 
 
@@ -33,7 +33,7 @@ As the great 16th-century astronomer Galileo Galilei put it:
 
 Take away our senses, and the world of our experience would be replaced by a colorless, soundless, odorless, tasteless nothingness. Without us, what remains?
 
-The reason our original question — _When a tree falls in the forest, and there’s no one around to hear it, does it make a sound?_ — is such a teaser, is because it hits on a deeper question. Namely: 
+The reason our original question – _When a tree falls in the forest, and there’s no one around to hear it, does it make a sound?_ – is such a teaser, is because it hits on a deeper question. Namely: 
 
 >If there was no conscious life, would the physical universe exist?
 
@@ -70,7 +70,7 @@ On this view, it is absurd to say a lonesome falling tree makes a sound. For Ber
 
 There cannot be an ‘object’ without a ‘subject’, Kant argued: the two are _co-dependent_. Take the subject away, and it becomes incoherent to even discuss distinct objects, for a subject is required to make such distinctions in the first place.
 
-It follows, Kant concluded, that objects by themselves are _unknowable_. Time, space, causation — these are features of the subject/object interaction. We cannot know what they are like ‘in themselves’, because we can never strip the ‘subject’ (us) from the world.
+It follows, Kant concluded, that objects by themselves are _unknowable_. Time, space, causation – these are features of the subject/object interaction. We cannot know what they are like ‘in themselves’, because we can never strip the ‘subject’ (us) from the world.
 
 So, it’s not just whether the falling tree makes a sound that's in question; without a subject in the story, without a conscious being, the coherence of trees, air, and time and space themselves totally breaks down...
 

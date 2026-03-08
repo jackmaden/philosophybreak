@@ -38,7 +38,7 @@ const ReadingList = ({ data, location }) => {
 
             <p><Link to="/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/">Beauvoir’s theory of ‘authentic love’</Link>, for example, typifies her application of existentialist philosophy to concerns around gender, identity, and power relations.</p>
 
-            <p>However, while her contributions to feminist theory are immense, Beauvoir should not be pigeonholed, for she wrote insightfully and compellingly across a whole range of topics and mediums — a celebrated author of novels and memoirs as well as philosophical treatises. For instance, <Link to="/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/">Beauvoir also applies her critical eye to aging, work, and retirement</Link>.</p>
+            <p>However, while her contributions to feminist theory are immense, Beauvoir should not be pigeonholed, for she wrote insightfully and compellingly across a whole range of topics and mediums – a celebrated author of novels and memoirs as well as philosophical treatises. For instance, <Link to="/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/">Beauvoir also applies her critical eye to aging, work, and retirement</Link>.</p>
 
             <BigSubscribe />
 
@@ -113,7 +113,7 @@ const ReadingList = ({ data, location }) => {
             
             <p>One of her most highly-regarded efforts is <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Mandarins-Norton-Paperback-Fiction/dp/0393318834?&linkCode=ll1&tag=philosophybre-20&linkId=1e282cbe995208c51b5a7546bd27c32a&language=en_US&ref_=as_li_ss_tl">The Mandarins</a>, a brilliant novel set in post-war Paris featuring thinly-disguised characterizations of Beauvoir’s intellectual circle, including Camus and Sartre (along with their political conflicts). <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Mandarins-Norton-Paperback-Fiction/dp/0393318834?&linkCode=ll1&tag=philosophybre-20&linkId=1e282cbe995208c51b5a7546bd27c32a&language=en_US&ref_=as_li_ss_tl">The Mandarins</a> won Beauvoir France’s highest literary prize, the <i>Prix Goncourt</i>.</p>
 
-            <p>Special mention, too, must go to Beauvoir’s first novel, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/She-Came-Stay-Simone-Beauvoir/dp/0393318842?&linkCode=ll1&tag=philosophybre-20&linkId=4685af2a4e64d62e4bf604d72be96805&language=en_US&ref_=as_li_ss_tl">She Came to Stay</a>, a vibrant tale of love, jealousy, obsession, revenge — which is generally considered among the classics of 20th-century French literature.</p>
+            <p>Special mention, too, must go to Beauvoir’s first novel, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/She-Came-Stay-Simone-Beauvoir/dp/0393318842?&linkCode=ll1&tag=philosophybre-20&linkId=4685af2a4e64d62e4bf604d72be96805&language=en_US&ref_=as_li_ss_tl">She Came to Stay</a>, a vibrant tale of love, jealousy, obsession, revenge – which is generally considered among the classics of 20th-century French literature.</p>
 
 
 

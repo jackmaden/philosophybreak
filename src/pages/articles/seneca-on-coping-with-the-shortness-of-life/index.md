@@ -23,9 +23,9 @@ So, life itself is not short but we _make_ it short. How so? Well, here Seneca p
 
 ## We do not fully appreciate the preciousness of time
 
-<span class="big-letter">F</span>irstly, Seneca claims we do not fully appreciate the preciousness of time. We attribute value to things like money, belongings, and property, and guard them closely. But when it comes to our time — which, as Seneca puts it, is “the one thing in which it is right to be stingy” — we squander it without thinking. As he explains:
+<span class="big-letter">F</span>irstly, Seneca claims we do not fully appreciate the preciousness of time. We attribute value to things like money, belongings, and property, and guard them closely. But when it comes to our time – which, as Seneca puts it, is “the one thing in which it is right to be stingy” – we squander it without thinking. As he explains:
 
->You are living as if destined to live forever; your own frailty never occurs to you; you don't notice how much time has already passed, but squander it as though you had a full and overflowing supply — though all the while that very day which you are devoting to somebody or something may be your last. You act like mortals in all that you fear, and like immortals in all that you desire.
+>You are living as if destined to live forever; your own frailty never occurs to you; you don't notice how much time has already passed, but squander it as though you had a full and overflowing supply – though all the while that very day which you are devoting to somebody or something may be your last. You act like mortals in all that you fear, and like immortals in all that you desire.
 
 The money, possessions, and status we chase and trade on in our day-to-day lives do not ultimately give us peace of mind or lasting pleasure. When death approaches, Seneca points out, we would exchange them all for a little more time: 
 
@@ -92,13 +92,13 @@ In Seneca’s words, we “lose the day in waiting for the night, and the night 
 
 ## We give away our lives to things that don’t matter
 
-<span class="big-letter">S</span>o far, Seneca has established that we don’t value time, pay too much attention to possessions, and spend much of our lives preoccupied with the future. The next damaging aspect of human attitudes and behavior he targets is our tendency to chase honors and status. We obsess over climbing rank, Seneca argues — be it socially or in our careers. But does acquiring status and honor really add anything of lasting value to our lived experiences?
+<span class="big-letter">S</span>o far, Seneca has established that we don’t value time, pay too much attention to possessions, and spend much of our lives preoccupied with the future. The next damaging aspect of human attitudes and behavior he targets is our tendency to chase honors and status. We obsess over climbing rank, Seneca argues – be it socially or in our careers. But does acquiring status and honor really add anything of lasting value to our lived experiences?
 
 Ambition begets ambition, Seneca explains. What we strive so hard to achieve will, once we achieve it, never be enough:
 
 >It is inevitable that life will be not just very short but very miserable for those who acquire by great toil what they must keep by greater toil. They achieve what they want laboriously; they possess what they have achieved anxiously; and meanwhile they take no account of time that will never more return. New preoccupations take the place of the old, hope excites more hope and ambition more ambition. They do not look for an end to their misery, but simply change the reason for it.
 
-We might delude ourselves into thinking, “once I achieve _this_, I’ll be happy” — but this is just the same poor reasoning of the preoccupied person. Rather than appreciating what we have and being content _now_, we put our happiness off for a later date, attaching it to a thing or circumstance beyond our immediate control. 
+We might delude ourselves into thinking, “once I achieve _this_, I’ll be happy” – but this is just the same poor reasoning of the preoccupied person. Rather than appreciating what we have and being content _now_, we put our happiness off for a later date, attaching it to a thing or circumstance beyond our immediate control. 
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -111,9 +111,9 @@ We might delude ourselves into thinking, “once I achieve _this_, I’ll be hap
 
 In this cycle of fleeting highs and endless desires, as Seneca puts it, “there will always be causes for anxiety, whether due to prosperity or to wretchedness. Life will be driven on through a succession of preoccupations: we shall always long for leisure, but never enjoy it.”
 
-So, when we hear of ‘successful’ people — people of _achievement_ — we should not envy them, for they have sacrificed their precious lives for something fleeting: “In order that one year may be dated from their names,” Seneca says, “they will waste all their own years.” He concludes:
+So, when we hear of ‘successful’ people – people of _achievement_ – we should not envy them, for they have sacrificed their precious lives for something fleeting: “In order that one year may be dated from their names,” Seneca says, “they will waste all their own years.” He concludes:
 
->As they rob and are robbed, as they disturb each other's peace, as they make each other miserable, their lives pass without satisfaction, without pleasure, without mental improvement. No one keeps death in view, no one refrains from hopes that look far ahead; indeed, some people even arrange things that are beyond life — massive tombs, dedications of public buildings, shows for their funerals, and ostentatious burials. But in truth, such people's funerals should be conducted with torches and wax tapers, as though they had lived the shortest of lives.
+>As they rob and are robbed, as they disturb each other's peace, as they make each other miserable, their lives pass without satisfaction, without pleasure, without mental improvement. No one keeps death in view, no one refrains from hopes that look far ahead; indeed, some people even arrange things that are beyond life – massive tombs, dedications of public buildings, shows for their funerals, and ostentatious burials. But in truth, such people's funerals should be conducted with torches and wax tapers, as though they had lived the shortest of lives.
 
 ## So how _should_ we spend our time?
 
@@ -129,7 +129,7 @@ Secondly, we can draw on the rich wisdom of philosophy for guidance on any and a
 
 Instead of chasing the company of those who may waste our time for the sake of status or supposed advancement, we should seek out the writings of humanity’s greatest thinkers instead. “None of these will force you to die,” Seneca notes, “but all will teach you how to die. None of them will exhaust your years, but each will contribute his years to yours. With none of these will conversation be dangerous, or his friendship fatal, or attendance on him expensive… What happiness, what a fine old age awaits the man who has made himself a client of these!”
 
-Lastly, we should study philosophy because the knowledge we obtain — unlike the status or possessions or achievements we chase — is forever. Seneca writes: 
+Lastly, we should study philosophy because the knowledge we obtain – unlike the status or possessions or achievements we chase – is forever. Seneca writes: 
 
 >Honors, monuments, whatever the ambitious have ordered by decrees or raised in public buildings are soon destroyed: there is nothing that the passage of time does not demolish and remove. But it cannot damage the works which philosophy has consecrated: no age will wipe them out, no age diminish them. 
 
@@ -141,7 +141,7 @@ However, for those who have no time for philosophy, life will be very short inde
 
 ## Where do Seneca’s words leave us?
 
-<span class="big-letter">S</span>eneca’s forceful words are intended to jolt us away from living preoccupied lives. He argues that we hustle our lives along, denying the present and longing for the future. But if we recognize the preciousness of time and spend it attending to our own needs rather than chasing fleeting desires, if we organize every day as if it were our last, if we meditate on the wisdom of philosophy and embrace the present, then we can live long, rich, and fulfilling lives — even if their actual duration is short. 
+<span class="big-letter">S</span>eneca’s forceful words are intended to jolt us away from living preoccupied lives. He argues that we hustle our lives along, denying the present and longing for the future. But if we recognize the preciousness of time and spend it attending to our own needs rather than chasing fleeting desires, if we organize every day as if it were our last, if we meditate on the wisdom of philosophy and embrace the present, then we can live long, rich, and fulfilling lives – even if their actual duration is short. 
 
 As Seneca reminds us: 
 
@@ -149,7 +149,7 @@ As Seneca reminds us:
 
 Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143036327&linkId=e31a3b983be0b177d68097379a035cae">On the Shortness of Life</a>, though written almost 2,000 years ago, feels like it could have been written yesterday, so relevant is it to the same fears we live with today. Packed full of timeless wisdom about how to live a good life, it thoroughly rewards close reading. 
 
-Do you agree with Seneca’s arguments throughout? Do you think he’s successful in remedying some of our concerns about the shortness of life? Is it entirely clear that Seneca’s solution — attending to the present and studying philosophy — will help us overcome our preoccupations? Should we only invest our time in ourselves? Is it misguided to dedicate our lives to something other than ourselves? Or do you think Seneca’s point is more about removing inauthentic or fleeting pursuits from our lives, and placing value on things that truly endure and matter instead?
+Do you agree with Seneca’s arguments throughout? Do you think he’s successful in remedying some of our concerns about the shortness of life? Is it entirely clear that Seneca’s solution – attending to the present and studying philosophy – will help us overcome our preoccupations? Should we only invest our time in ourselves? Is it misguided to dedicate our lives to something other than ourselves? Or do you think Seneca’s point is more about removing inauthentic or fleeting pursuits from our lives, and placing value on things that truly endure and matter instead?
 
 If you’d like to explore these questions further or learn more about Stoicism generally, check out our explainers of [the four cardinal virtues of Stoicism](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/), the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/) (a Stoic device for clearing your mind), the [Stoic approach to emotion](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), as well as our [reading list on Stoic philosophy](/reading-lists/stoicism/), which features the best six books of and about Stoicism. Hit the banner below to access it now! 
 

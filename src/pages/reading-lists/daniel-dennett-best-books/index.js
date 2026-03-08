@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
             
             <p>Some of my earliest exposure to the philosophy of consciousness was reading Dennett’s work back when I was an undergraduate, and I have very fond memories of being shocked yet compelled by his audacious theory of eliminative materialism.</p>
 
-            <p>Dennett wrote provocatively and persuasively not just on consciousness, however, but across a whole range of philosophical problems — from philosophy of mind and the ethics of AI (see <Link to="/articles/what-happens-when-machines-become-smarter-than-people/">Dennett on the dangers of AI here</Link>), to free will, religion, and the philosophy of science.</p>
+            <p>Dennett wrote provocatively and persuasively not just on consciousness, however, but across a whole range of philosophical problems – from philosophy of mind and the ethics of AI (see <Link to="/articles/what-happens-when-machines-become-smarter-than-people/">Dennett on the dangers of AI here</Link>), to free will, religion, and the philosophy of science.</p>
 
             <p>One of my favorite lines from Dennett comes from his 2006 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338?&linkCode=ll1&tag=philosophybre-20&linkId=7c3422a26cc9e4abfcbe4b91affcee1c&language=en_US&ref_=as_li_ss_tl">Breaking the Spell: Religion as a Natural Phenomenon</a>:</p>
 
@@ -52,11 +52,11 @@ const ReadingList = ({ data, location }) => {
 
             <p>Published in 1991, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661?&linkCode=ll1&tag=philosophybre-20&linkId=d4df62d2f9ed12737c99e41a5713584c&language=en_US&ref_=as_li_ss_tl">Consciousness Explained</a> is Dennett’s brilliant examination of our theories of mind and consciousness.</p>
 
-            <p>Dennett presents his own stance of eliminative materialism, suggesting that much of what we uncontroversially assume to exist in the mind is in fact a persistent illusion — leading some philosophers to joke that the book would be better titled <i>Consciousness Explained Away</i>.</p>
+            <p>Dennett presents his own stance of eliminative materialism, suggesting that much of what we uncontroversially assume to exist in the mind is in fact a persistent illusion – leading some philosophers to joke that the book would be better titled <i>Consciousness Explained Away</i>.</p>
 
             <p>Nevertheless, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661?&linkCode=ll1&tag=philosophybre-20&linkId=d4df62d2f9ed12737c99e41a5713584c&language=en_US&ref_=as_li_ss_tl">Consciousness Explained</a> is a crucial contribution to the contemporary literature around philosophy of mind, and features on my list of the <Link to="/reading-lists/consciousness/">best books on consciousness</Link>.</p>
             
-            <p>While it can be dense and challenging to read, Dennett’s sharp, penetrating intellect — as well as his talent for drawing and synthesizing knowledge from many different research fields — is on full display.</p>
+            <p>While it can be dense and challenging to read, Dennett’s sharp, penetrating intellect – as well as his talent for drawing and synthesizing knowledge from many different research fields – is on full display.</p>
 
 
 
@@ -67,7 +67,7 @@ const ReadingList = ({ data, location }) => {
               
               <p>Dennett seeks to rectify that by illuminating and discussing the state of play in evolutionary biology, and the consequences it has for our understanding of ourselves and the cosmos generally.</p>
             
-                <p>An accessible whirlwind of a read, some claim this is Dennett’s best book — and given the explanatory power of the prose, it’s difficult to disagree.</p>
+                <p>An accessible whirlwind of a read, some claim this is Dennett’s best book – and given the explanatory power of the prose, it’s difficult to disagree.</p>
                 
                 <p>If you’re interested in reading a brilliantly insightful philosophical exploration of evolution and natural selection, look no further than <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X?&linkCode=ll1&tag=philosophybre-20&linkId=6d9f7c58e74c53c9a60dbe0676fae0fa&language=en_US&ref_=as_li_ss_tl">Darwin’s Dangerous Idea</a>.</p>
 
@@ -81,7 +81,7 @@ const ReadingList = ({ data, location }) => {
             
             <p>Published in 2013, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393348784?&linkCode=ll1&tag=philosophybre-20&linkId=bfbffc0f17a189978e9cec1c017fa175&language=en_US&ref_=as_li_ss_tl">Intuition Pumps And Other Tools for Thinking</a> is Dennett’s excellent, accessible guide on how to think critically and make progress in philosophy. Dennett offers a whole range of tools to be used in any area of life to sharpen one’s analysis and improve one’s decision-making.</p>
 
-            <p>For instance, one of Dennett’s most popularly useful contributions to philosophy is a list of ‘rules of engagement’ for critiquing philosophical arguments — a list seen in many an undergraduate lecture hall.</p>
+            <p>For instance, one of Dennett’s most popularly useful contributions to philosophy is a list of ‘rules of engagement’ for critiquing philosophical arguments – a list seen in many an undergraduate lecture hall.</p>
             
             <p>Dennett adapts and synthesizes a set of principles offered by the game theorist Anatol Rapoport, and presents the following checklist:</p>
 
@@ -103,9 +103,9 @@ const ReadingList = ({ data, location }) => {
 
               <p>Amid all the hype around free will being an illusion, Dennett sets out to rescue a nuanced conception of what freedom even means in his 1984 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Elbow-Room-Varieties-Wanting-Bradford/dp/0262527790?&linkCode=ll1&tag=philosophybre-20&linkId=2525e3dbde6055327ee533297333a67c&language=en_US&ref_=as_li_ss_tl">Elbow Room: The Varieties of Free Will Worth Wanting</a>.</p>
 
-              <p>An often witty and always engaging read, in this landmark book Dennett makes a powerful case for <Link to="/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/">compatibilism</Link>, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience — but rather contextualized by them.</p>
+              <p>An often witty and always engaging read, in this landmark book Dennett makes a powerful case for <Link to="/articles/compatibilism-philosophys-favorite-answer-to-the-free-will-debate/">compatibilism</Link>, arguing that the varieties of free will that underwrite moral and artistic responsibility are not threatened by determinism nor the findings of neuroscience – but rather contextualized by them.</p>
 
-              <p>Disentangling what he thinks are common errors in thinking around free will — particularly the problematic view that freedom requires “an ability to have done otherwise” — Dennett arms his readers with powerful ways to conceptualize the nuances of the debate.</p>
+              <p>Disentangling what he thinks are common errors in thinking around free will – particularly the problematic view that freedom requires “an ability to have done otherwise” – Dennett arms his readers with powerful ways to conceptualize the nuances of the debate.</p>
                 
                 <p>(For a quick insight into Dennett’s position, see my short overview of his response to Sam Harris claiming <Link to="/articles/free-will-illusion-sam-harris/">free will is an illusion</Link>).</p>
 

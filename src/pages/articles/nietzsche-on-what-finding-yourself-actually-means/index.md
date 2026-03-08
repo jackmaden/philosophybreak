@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">T</span>he great Roman Stoic philosopher Epictetus once wrote, “Don’t explain your philosophy. Embody it.” That’s all well and good, we might think — but how do I know what my philosophy is? 
+<span class="big-letter">T</span>he great Roman Stoic philosopher Epictetus once wrote, “Don’t explain your philosophy. Embody it.” That’s all well and good, we might think – but how do I know what my philosophy is? 
 
 How can I tell which values I affirm? How can I be sure that what I want is what I _actually_ want, not just what I think other people want of me?
 
@@ -29,15 +29,15 @@ One way to frame this is to view our lives as an artistic project. We begin as a
 
 Nietzsche asks, what have you “up to now truly loved, what has drawn your soul upward, mastered it and blessed it too?”
 
-We should focus on these, and shape ourselves around them — let our loves and passions create a work of art to which we’d proudly assign our names.
+We should focus on these, and shape ourselves around them – let our loves and passions create a work of art to which we’d proudly assign our names.
 
 ## Authentically creating ourselves
 
 <span class="big-letter">I</span>n his 1882 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4gmyNmC">The Gay Science</a>, Nietzsche further discusses how we might go about creating or ‘styling’ our characters according to our own tastes:
 
->To ‘give style’ to one’s character — a great and rare art! It is practiced by those who survey all the strengths and weaknesses that their nature has to offer and then fit them into an artistic plan until each appears as art and reason and even weaknesses delight the eye. Here a great mass of second nature has been added; there a piece of first nature removed — both times through long practice and daily work at it. Here the ugly that could not be removed is concealed; there it is reinterpreted into sublimity. Much that is vague and resisted shaping has been saved and employed for distant views — it is supposed to beckon towards the remote and immense.
+>To ‘give style’ to one’s character – a great and rare art! It is practiced by those who survey all the strengths and weaknesses that their nature has to offer and then fit them into an artistic plan until each appears as art and reason and even weaknesses delight the eye. Here a great mass of second nature has been added; there a piece of first nature removed – both times through long practice and daily work at it. Here the ugly that could not be removed is concealed; there it is reinterpreted into sublimity. Much that is vague and resisted shaping has been saved and employed for distant views – it is supposed to beckon towards the remote and immense.
 
-With work, we can shape ourselves into something beautiful — where we use even what we regard to be the ugly, undesirable, unchangeable parts of ourselves to lend intrigue, mystique, _depth_ according to a particular “artistic plan.” As Nietzsche finishes the passage:
+With work, we can shape ourselves into something beautiful – where we use even what we regard to be the ugly, undesirable, unchangeable parts of ourselves to lend intrigue, mystique, _depth_ according to a particular “artistic plan.” As Nietzsche finishes the passage:
 
 >In the end, when the work is complete, it becomes clear how it was the force of a _single taste_ that ruled and shaped everything great and small…
 
@@ -60,7 +60,7 @@ Many disagree with Nietzsche’s championing of the ‘aesthetic’ over the ‘
 ## What do you make of Nietzsche’s advice?
 
 - Do you think Nietzsche offers a good way to think about how we might ‘create’ ourselves and our values?
-- Is viewing life as an artistic project — in which we perpetually style and restyle ourselves — helpful?
+- Is viewing life as an artistic project – in which we perpetually style and restyle ourselves – helpful?
 - Is prioritizing the well-being of others more important than this kind of restless self-making?
 - Is there a way of reconciling the two?
 

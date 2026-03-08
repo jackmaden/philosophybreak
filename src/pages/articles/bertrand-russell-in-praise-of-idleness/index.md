@@ -85,7 +85,7 @@ More leisure is crucial not just for our individual happiness, however, but for 
 
 Without leisure, citizens will become increasingly specialized in their own industries, and lose the imaginative capacity needed for progressing society.
 
-New ideas, new values, new philosophies — who will offer them, if climbing the ranks of employment is humanity’s only goal?
+New ideas, new values, new philosophies – who will offer them, if climbing the ranks of employment is humanity’s only goal?
 
 If the vast majority of us focus all our energies on work, in whose hands do we leave our future?
 

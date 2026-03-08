@@ -21,13 +21,13 @@ Chang proposes that what makes these kinds of choices hard is not so much their 
 
 Usually, we compare two options using ‘better’, ‘worse’, or ‘equal to’. If there are better reasons to do X than Y, then the rational thing is to pick X; meanwhile, if X and Y are equal, then it doesn’t matter which one we pick.
 
-But hard choices defy this evaluative framework. They involve cases where choices are no better or worse than each other — yet, crucially, neither are they _equal_ to one another.
+But hard choices defy this evaluative framework. They involve cases where choices are no better or worse than each other – yet, crucially, neither are they _equal_ to one another.
 
 Perhaps this seems strange. Our dilemma surely exists, we might think, because the options are equally good and we can’t decide between them.
 
 But Chang suggests this is a mistake. When we’re stuck in a hard choice, the decision is difficult not because it involves equality, but because it involves _difference._ 
 
-One option is no better or worse than the other, but they lead to different — often mutually exclusive — kinds of futures, and _we cannot decide which kind of future to have._
+One option is no better or worse than the other, but they lead to different – often mutually exclusive – kinds of futures, and _we cannot decide which kind of future to have._
 
 When it comes to hard choices, Chang thus argues, the standard trichotomy of ‘better’, ‘worse’, and ‘equal to’ is insufficient.
 
@@ -45,7 +45,7 @@ But Chang argues that _even if the young person could do this_, it wouldn’t he
 
 Even with the ability to see into various futures, then, the difficult decision of _which future to pick_ would remain.
 
-This is the crux of hard choice: when options are on a par, we hunt for a definitive reason, given to us by the world, for picking one over the other — but no reason presents itself. The way isn’t signposted. External reasons have ‘run out’.
+This is the crux of hard choice: when options are on a par, we hunt for a definitive reason, given to us by the world, for picking one over the other – but no reason presents itself. The way isn’t signposted. External reasons have ‘run out’.
 
 But rather than feel mired in gloom or anxiety by this, Chang notes, we might actually see it as quite powerfully liberating. If external reasons have run out, then perhaps we can choose to be guided by _internal_ ones…
  

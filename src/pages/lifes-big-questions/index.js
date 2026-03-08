@@ -189,7 +189,7 @@ const Page = ({ data, location }) => {
                 <div className="two-col big-2-col row-reverse page-center small-top-mar">
                     <div>
                         <h3 className="flex-end"><span className="spectral big-letter">5</span><span>How Should We Approach Life? <i>(8 lessons)</i></span></h3>
-                        <p className="small-grey-font">In Chapter 5 we turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. We ask if there’s a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius — and consider the three main ethical systems for how we should treat other people.</p>
+                        <p className="small-grey-font">In Chapter 5 we turn from theorizing about the nature of existence and begin to unpack the practical consequences for how we should live our lives. We ask if there’s a <i>right</i> way to live, and consider answers from philosophical favorites Nietzsche, Camus, Lucretius – and consider the three main ethical systems for how we should treat other people.</p>
                     </div>
                     <div className="mid-mar-top-desktop"> 
                     <a href={chap5} className="no-hover no-decoration" target="_blank" rel="noreferrer nofollow">
@@ -262,13 +262,13 @@ const Page = ({ data, location }) => {
                         </div>
                         <div>
                             <h4>How long does it take to do the course?</h4>
-                            <p className="small-grey-font">The course is broken into five distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each idea sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                            <p className="small-grey-font">The course is broken into five distinct chapters, each of which takes about 40 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each idea sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day – you can take the course at your own pace.</p>
                         </div>
                     </div>
                     <div className="two-col align-top">
                         <div>
                             <h4>How is the course delivered?</h4>
-                            <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device — be it desktop, laptop, tablet, or mobile — and are even printable, so you can consume them however you like.</p>
+                            <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device – be it desktop, laptop, tablet, or mobile – and are even printable, so you can consume them however you like.</p>
                         </div>
                         <div>
                             <h4>Can I take the course on mobile?</h4>

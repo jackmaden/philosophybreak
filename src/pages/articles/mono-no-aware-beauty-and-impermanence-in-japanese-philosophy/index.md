@@ -1,6 +1,6 @@
 ---
 title: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
-description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world — and the ephemeral nature of everything in it."
+description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world – and the ephemeral nature of everything in it."
 image: "./cherryb.jpg"
 imageAlt: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
 imageSeo: "./cherryb.jpg"
@@ -23,7 +23,7 @@ This traditional custom of _hanami_ (literally: flower-viewing) celebrates not j
 
 Cherry blossoms tend to fall within a week of appearing. Accordingly, they perfectly encapsulate the Japanese idiom _mono no aware_, which typically translates as ‘the pathos of things’, expressing the power objects have in evoking feelings of impermanence and the passing of time.
 
-In other words: _mono no aware_ denotes an emotional connection to the world — and the ephemeral nature of everything in it.
+In other words: _mono no aware_ denotes an emotional connection to the world – and the ephemeral nature of everything in it.
 
 ## Facing impermanence
 
@@ -33,15 +33,15 @@ The epic <a target="_blank" rel="noopener noreferrer sponsored" href="https://ww
 
 >The sound of the Gion _shōja_ bells echoes the impermanence of all things; the color of the _sōla_ flowers reveals the truth that the prosperous must decline. The proud do not endure, they are like a dream on a spring night; the mighty fall at last, they are as dust before the wind. _(Translation: Helen McCullough, 1988)_
 
-While impermanence may carry negative connotations — making us longing or wistful for times gone by — in classical Japanese culture it’s also an imbuer of _beauty:_ things are beautiful _because_ they won’t be here forever.
+While impermanence may carry negative connotations – making us longing or wistful for times gone by – in classical Japanese culture it’s also an imbuer of _beauty:_ things are beautiful _because_ they won’t be here forever.
 
 As the Japanese monk Kenkō puts it in his <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Essays-Idleness-Hojoki-Penguin-Classics/dp/0141192100?&linkCode=ll1&tag=philosophybre-20&linkId=873d740bf87967724a178bd77f047775&language=en_US&ref_=as_li_ss_tl">Essays in Idleness</a>, written between 1330 and 1332:
 
 >If man were never to fade away like the dews of Adashino, never to vanish like the smoke over Toribeyama, how things would lose their power to move us! The most precious thing in life is its uncertainty. _(Translation: Donald Keene, 1967)_
 
-In another passage — reminiscent of the Roman philosophers [Seneca on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/), and [Lucretius on our fear of death](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/) — Kenkō urges us to comprehend impermanence and live now:
+In another passage – reminiscent of the Roman philosophers [Seneca on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/), and [Lucretius on our fear of death](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/) – Kenkō urges us to comprehend impermanence and live now:
 
->How is it possible for men not to rejoice each day over the pleasure of being alive? Foolish men, forgetting this pleasure, laboriously seek others; forgetting the wealth they possess, they risk their lives in their greed for new wealth. But their desires are never satisfied. While they live they do not rejoice in life, but, when faced with death, they fear it — what could be more illogical?
+>How is it possible for men not to rejoice each day over the pleasure of being alive? Foolish men, forgetting this pleasure, laboriously seek others; forgetting the wealth they possess, they risk their lives in their greed for new wealth. But their desires are never satisfied. While they live they do not rejoice in life, but, when faced with death, they fear it – what could be more illogical?
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -64,13 +64,13 @@ Rather than letting it sink us into despair, then, Kenkō suggests we grasp impe
 
 >It does not matter how young or strong you may be, the hour of death comes sooner than you expect. It is an extraordinary miracle that you should have escaped to this day; do you suppose you have even the briefest respite in which to relax?
 
-The right kind of action is unlikely to occur, however, without proper understanding of impermanence — without a deep sensitivity to _mono no aware._
+The right kind of action is unlikely to occur, however, without proper understanding of impermanence – without a deep sensitivity to _mono no aware._
 
 ## Cultivating mono no aware
 
 <span class="big-letter">T</span>he 18th-century Japanese philosopher and literary critic Motoori Norinaga popularized the phrase _mono no aware_ in his analysis of 11th-century noblewoman Murasaki Shikibu’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Tale-Genji-Penguin-Classics-Deluxe/dp/014243714X?&linkCode=ll1&tag=philosophybre-20&linkId=b8f042505194fcd594d21d6bb987289c&language=en_US&ref_=as_li_ss_tl">The Tale of Genji</a>, thought to be one of the world’s first novels.
 
-Shikibu’s brilliance, Norinaga notes, lies in her evocation of life’s ephemeral nature — her descriptions and characters are centered totally around the theme of impermanence, allowing readers to share in this profound sense of _mono no aware_. 
+Shikibu’s brilliance, Norinaga notes, lies in her evocation of life’s ephemeral nature – her descriptions and characters are centered totally around the theme of impermanence, allowing readers to share in this profound sense of _mono no aware_. 
 
 The more we recognize _mono no aware_ in the world around us, the closer we get to experiencing and developing a shrewd understanding of reality’s true nature.
 
@@ -80,9 +80,9 @@ While great art captures the wistful feeling of _mono no aware_, cultivating a s
 
 Indeed, feeling rueful when the cherry blossoms fall is just the beginning: it evidences our basic emotional connection to the world.
 
-Evolving from there means truly comprehending the flowers’ fate — a sudden arrival, a radiant glow, a disappearance — as the beautiful fate of us all.
+Evolving from there means truly comprehending the flowers’ fate – a sudden arrival, a radiant glow, a disappearance – as the beautiful fate of us all.
 
-As those picnicking under the _sakura_ trees know: the brief glory of life is not to be mourned, alone and in private; rather, in the small window of time we share, it is to be experienced, memorialized, and revered — together.
+As those picnicking under the _sakura_ trees know: the brief glory of life is not to be mourned, alone and in private; rather, in the small window of time we share, it is to be experienced, memorialized, and revered – together.
 
 ## What do you make of this analysis?
 

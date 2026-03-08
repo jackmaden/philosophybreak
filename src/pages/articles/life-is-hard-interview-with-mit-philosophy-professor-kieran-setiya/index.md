@@ -23,9 +23,9 @@ With chapters on infirmity, loneliness, grief, failure, injustice, the absurd, a
 
 <div class="smaller-h2">
 
-## How did the idea for your book — investigating the good life through the lens of adversity — come about?
+## How did the idea for your book – investigating the good life through the lens of adversity – come about?
 
-<span class="big-letter">M</span>y personal way into the book was through my experience of chronic pain — my chapter on infirmity is about that — and I felt like philosophy was helpful in coming to grips with it. 
+<span class="big-letter">M</span>y personal way into the book was through my experience of chronic pain – my chapter on infirmity is about that – and I felt like philosophy was helpful in coming to grips with it. 
 
 For me personally, aiming for some kind of ideal life has a very concrete form of limitation, which is that it’s very unlikely that the condition I have is really curable or treatable. So, the question has to be not _what is the ideal life_, but _what’s a good life in these circumstances?_ 
 
@@ -42,7 +42,7 @@ I think for me that moment crystallized the idea for a book about how philosophy
 
 In political philosophy, for example, there’s been a critique of so-called ‘ideal theory’, where you describe an essentially utopian society. One of the objections is that we can never achieve it _\[here’s [Isaiah Berlin’s argument on why pursuing utopia is dangerous](/articles/isaiah-berlin-on-why-the-pursuit-of-the-ideal-is-harmful/)]_. Another is that describing the utopian society actually doesn’t tell us very much about how to deal with injustice in the world around us. 
 
-And I think something like that is true in the ethics of individual flourishing, too — that even if you’re right about what an ideal life would look like, it won’t include whatever circumstances you’re in right now, and so it won’t give you a guide to it.
+And I think something like that is true in the ethics of individual flourishing, too – that even if you’re right about what an ideal life would look like, it won’t include whatever circumstances you’re in right now, and so it won’t give you a guide to it.
 
 >Living well involves being in touch with reality. We have to live in the world as it is, not the world as we wish it would be.
 
@@ -71,14 +71,14 @@ Suppose, for instance, you’re plugged into a simulation, it’s all completely
 
 That’s an extreme case, but you can see the same contrast in cases of, say, deception, or cases where people’s lives are not in touch with reality.
 
-And what that suggests is that while feeling happy is important, living well involves being in touch with reality. We have to live in the world as it is, not the world as we wish it would be. And once you start thinking about the goal of philosophical self-help as living well, it looks like the only way to do that is to actually take in fully the circumstance you’re in and figure out, okay, if this is really the world I’m dealing with — warts and all — how can I approach it? How _should_ I approach it?
+And what that suggests is that while feeling happy is important, living well involves being in touch with reality. We have to live in the world as it is, not the world as we wish it would be. And once you start thinking about the goal of philosophical self-help as living well, it looks like the only way to do that is to actually take in fully the circumstance you’re in and figure out, okay, if this is really the world I’m dealing with – warts and all – how can I approach it? How _should_ I approach it?
 
 
 ## Is there a balance to be struck in terms of being so remorselessly in touch with reality versus just preserving a sense of well-being? 
 
 <span class="big-letter">W</span>hat I mean by the idea of being connected to reality is that you’re just trying to accurately describe what’s happening. It’s not simply lugubrious or wallowing in hardship. Really, it’s inspired by the novelist philosopher Iris Murdoch, and her idea that attention to reality is a central aspect of ethical thought. 
 
-Murdoch argues that finding the right words to really describe what you’re going through — or in fact even what’s happening in society — is often crucial to figuring out how to feel about it and what to do about it.
+Murdoch argues that finding the right words to really describe what you’re going through – or in fact even what’s happening in society – is often crucial to figuring out how to feel about it and what to do about it.
 
 So the idea is that really attending to reality is not just necessary, but also a step towards partly consolation and partly action.
 
@@ -108,7 +108,7 @@ Then there’s the problem that arises, you know, when you actually do something
 
 I think to some extent it’s consoling just recognizing that in conditions of widespread injustice, a sense of inadequacy is inevitable. And one way this comes out is talking to my friends who really are activists.
 
-Unlike me, they spend their lives working on, say, climate change — and even though they’re doing so much more than I am, they also think “I’m not doing enough.” 
+Unlike me, they spend their lives working on, say, climate change – and even though they’re doing so much more than I am, they also think “I’m not doing enough.” 
 
 We have limits psychologically and emotionally to how much we can do. You don’t always really know if you’re hitting the limits. Maybe you could be doing more. But I think we just have to accept that as a condition of reality: we just have to put up with a certain amount of guilt in an unjust world that we can only do so much to change.
 
@@ -131,7 +131,7 @@ We have limits psychologically and emotionally to how much we can do. You don’
 
 ## So, for instance, there’s an important protest march on Saturday, but a friend you haven’t seen in years is coming into town and wants to catch up. What do you prioritize? The answer is not straightforward.
 
-<span class="big-letter">R</span>ight, there’s no formula. So another aspect of this idea that we’ve got to attend to reality — that ethical thought is as much about attention and description as it is about an abstract theory — is that we can’t just take some template for how to live off the shelf and then just apply it to our lives.
+<span class="big-letter">R</span>ight, there’s no formula. So another aspect of this idea that we’ve got to attend to reality – that ethical thought is as much about attention and description as it is about an abstract theory – is that we can’t just take some template for how to live off the shelf and then just apply it to our lives.
 
 Figuring out what to do involves figuring out the actual circumstance you’re in. And that’s something that at a certain point, only you or your friends and people who know you can really do. 
 
@@ -144,13 +144,13 @@ And then hopefully people can think, “I see how the general framework operates
 
 <span class="big-letter">I</span> hope that’s true, and in some cases it’s really central to my understanding of the topic. One example of this is in the discussion of grief. 
 
-One of the puzzles about grief is if you’re grieving not for the difficulties in your life occasioned by someone’s death, but just thinking about their loss, that they’re just gone, then the fact that they’re gone is just that — a fact. It’s not changing. It’s not like a year later you can say, “well, their nonexistence isn’t such a big deal for them now because a year has passed.” That doesn’t make any sense. The reason for grief on their behalf is just a permanent fact. It never goes away. 
+One of the puzzles about grief is if you’re grieving not for the difficulties in your life occasioned by someone’s death, but just thinking about their loss, that they’re just gone, then the fact that they’re gone is just that – a fact. It’s not changing. It’s not like a year later you can say, “well, their nonexistence isn’t such a big deal for them now because a year has passed.” That doesn’t make any sense. The reason for grief on their behalf is just a permanent fact. It never goes away. 
 
 This leads to a difficult question: why don’t we grieve for them forever? And that’s a case where I think the right response is that reason can only do so much at that point. 
 
 >If someone tried as a philosopher to say, “I’m a philosopher who thinks about grief using pure reason, and I’ve determined that the right way to grieve is _this_” then it would be clear they didn’t know what they were talking about.
 
-Reason can’t dictate how our response to grief should be structured. It might tell us that we have to grieve and that we don’t have to grieve forever, but the exact contours of that are something you can’t legislate — which is where I think practices and rituals of mourning can play a central role, by offering some semblance of structure in lieu of reason. 
+Reason can’t dictate how our response to grief should be structured. It might tell us that we have to grieve and that we don’t have to grieve forever, but the exact contours of that are something you can’t legislate – which is where I think practices and rituals of mourning can play a central role, by offering some semblance of structure in lieu of reason. 
 
 I think grief is a particularly extreme example of why it is the process of philosophical contemplation, rather than just the content of it, that holds practical value. If someone tried as a philosopher to say, “I’m a philosopher who thinks about grief using pure reason, and I’ve determined that the right way to grieve is _this_” then it would be clear they didn’t know what they were talking about. People must work through it themselves.
 
@@ -169,13 +169,13 @@ When you’re focusing on a project, you’re aiming at something in the future,
 
 The more you focus on things like that, the more you risk setting yourself up for evaluating your life in terms of success and failure. But it’s important to remember that not all activities are like that. 
 
->The more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
+>The more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis – like walking, eating, interacting with our loved ones – the less we’re structuring our lives entirely in terms of projects that will succeed or fail.
 
 In the book, I draw a distinction between _telic_ activities and _atelic_ activities. The terminology is from linguistics but originates from the Greek word _telos_, meaning ultimate object or aim. 
 
 So, while there are _telic_ projects which aim at some sort of end state where they’re achieved, there are also _atelic_ activities that don’t aim at a goal in this way. While you’re walking home, for instance, you’re also just _walking_, and there’s pleasure to be found in just walking with no urgent destination in mind.
 
-Having kids is the same: it’s tempting to think you’ve had the baby, what’s the next milestone? Parenting could be viewed as this ongoing activity with lots of projects in it. But the more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis — like walking, eating, interacting with our loved ones — the less we’re structuring our lives entirely in terms of projects that will succeed or fail. So valuing the process is important. 
+Having kids is the same: it’s tempting to think you’ve had the baby, what’s the next milestone? Parenting could be viewed as this ongoing activity with lots of projects in it. But the more we recognize the value of the _atelic_ activities we’re engaged in on a daily basis – like walking, eating, interacting with our loved ones – the less we’re structuring our lives entirely in terms of projects that will succeed or fail. So valuing the process is important. 
 
 _[For more on this topic, see our related article on [How to Set Better New Year’s Resolutions: Focus On Processes, Not Outcomes](/articles/how-to-set-better-new-years-resolutions-focus-on-processes-not-outcomes/)]_
 
@@ -222,11 +222,11 @@ A positive secular answer to the question of the meaning of human life as a whol
 
 Whether or not the arc of human history _does_ bend towards justice depends on what we collectively do and how the future goes. It doesn’t depend entirely on us because there’s a lot that’s out of our control. 
 
-So, I’m not saying life _does_ have meaning, but I do think the story of human life could have meaning if the outcome of that story is that we achieve a just society — and we should strive to behave in ways that could bring that meaningful outcome about. 
+So, I’m not saying life _does_ have meaning, but I do think the story of human life could have meaning if the outcome of that story is that we achieve a just society – and we should strive to behave in ways that could bring that meaningful outcome about. 
 
 I’m less clear on what we could do to give the universe as a whole meaning, but I think it’s a good question.
 
-## Perhaps you could argue the meaning of the universe as a whole is almost irrelevant, in that it doesn’t necessarily have to impact the meaning we create for ourselves. There’s a nice example in your book of the philosopher  Thomas Nagel asking us to imagine if we found out human beings were brought into existence as food for extraterrestrial beings. Or that we’re the mere forgotten plaything of some supreme creator. Just because we have an unglamorous origin story — that doesn’t necessarily trump the meaning we create for ourselves.
+## Perhaps you could argue the meaning of the universe as a whole is almost irrelevant, in that it doesn’t necessarily have to impact the meaning we create for ourselves. There’s a nice example in your book of the philosopher  Thomas Nagel asking us to imagine if we found out human beings were brought into existence as food for extraterrestrial beings. Or that we’re the mere forgotten plaything of some supreme creator. Just because we have an unglamorous origin story – that doesn’t necessarily trump the meaning we create for ourselves.
 
 <span class="big-letter">T</span>hat’s a great argument. So the thought is even if there was a narrative about the universe that made you think, “Wow, I feel kind of sad or angry about why everything exists,” or “I should feel great about why everything exists,” that wouldn’t actually answer this other question, the one that’s humanly pressing, which is: what meaning do I ascribe to _my_ life as I live it? What meaning do we, as humans, ascribe to humanity? I like that idea.
 
@@ -242,9 +242,9 @@ The second was that it’s too big a topic. There was no way to squeeze it into 
 
 In part, I think that’s because philosophy is as much about attentive description as it is about abstract argument and theory, and clear acknowledgment has a powerful consoling role for people. 
 
-For example, people do find it meaningful to have someone just describe what they’re going through in a way that’s accurate, even if after describing it the only possible response is solidarity with the problem — “I hear you” — rather than a solution to it. 
+For example, people do find it meaningful to have someone just describe what they’re going through in a way that’s accurate, even if after describing it the only possible response is solidarity with the problem – “I hear you” – rather than a solution to it. 
 
-And I think this kind of consolation — the consolation of attentive description, which philosophy can provide — is available for all suffering.
+And I think this kind of consolation – the consolation of attentive description, which philosophy can provide – is available for all suffering.
 
 ## Who would you say is the ideal reader for your book?
 

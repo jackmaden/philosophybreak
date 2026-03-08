@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">W</span>hen we’re in the grip of an emotion — say, anger — there is nothing we can do to snap ourselves out of it. We are lost to the emotion, and all we can do is wait for it to pass.
+<span class="big-letter">W</span>hen we’re in the grip of an emotion – say, anger – there is nothing we can do to snap ourselves out of it. We are lost to the emotion, and all we can do is wait for it to pass.
 
 The Stoic philosophers of ancient Greece and Rome knew this well. In his brilliant essay _On Anger_ (which features in Seneca’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Dialogues-Essays-Oxford-Worlds-Classics/dp/0199552401?&linkCode=ll1&tag=philosophybre-20&linkId=b805b2a6cfd8d25eec904043d664b54e&language=en_US&ref_=as_li_ss_tl">Dialogues and Essays</a>), for instance, Seneca describes anger as a temporary madness: 
 
@@ -19,7 +19,7 @@ The Stoic philosophers of ancient Greece and Rome knew this well. In his brillia
 
 Given how destructive they find emotions like anger to be, it is no wonder the Stoics have a reputation for  seeking to repress them.
 
-However, though commonly thought of as a philosophy that tells us to repress our feelings or emotions in this way — _grit your teeth! have a stiff upper lip!_ — the Stoic view is subtly but importantly different. 
+However, though commonly thought of as a philosophy that tells us to repress our feelings or emotions in this way – _grit your teeth! have a stiff upper lip!_ – the Stoic view is subtly but importantly different. 
 
 The Stoic recommendation is not to repress our emotions, but simply not to have them in the first place. 
 
@@ -33,7 +33,7 @@ We might feel shocked, excited, jubilant, scared. These are all natural physiolo
 
 Importantly, these are not emotions for the Stoics: they are initial reactions, ‘first movements’. 
 
-Emotions are what happen if — via poor judgment — we let these first movements run away from us. 
+Emotions are what happen if – via poor judgment – we let these first movements run away from us. 
 
 There are thus three stages to the production of emotions:
 
@@ -45,9 +45,9 @@ We have no control over the first stage. And, if we reach the third stage, we ha
 
 The crucial stage is thus the second stage: judgment. We can use our capacity for judgment to either stop a first movement in its tracks, or let our initial reactions gather momentum and become destructive, uncontrollable emotions. 
 
-For instance, if we initially react in shock and fear to, say, a spider, but then judge that, actually, while it’s perfectly natural to initially jump in fright, really it’s just a tiny little spider that can’t do us any harm, and fetch a glass to trap and free the little critter outside — taking deep breaths to calm ourselves throughout — then we have successfully slowed the release of adrenaline through our bodies, and halted a ‘first movement’ in its tracks (while demonstrating the [cardinal Stoic virtue](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) of courage, well done us). 
+For instance, if we initially react in shock and fear to, say, a spider, but then judge that, actually, while it’s perfectly natural to initially jump in fright, really it’s just a tiny little spider that can’t do us any harm, and fetch a glass to trap and free the little critter outside – taking deep breaths to calm ourselves throughout – then we have successfully slowed the release of adrenaline through our bodies, and halted a ‘first movement’ in its tracks (while demonstrating the [cardinal Stoic virtue](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) of courage, well done us). 
 
-If however we judge that the fear is justified or even an underreaction — ‘oh my God, it’s a _spider_ and I _hate_ spiders, what am I going to do, I am in serious danger here’ — then the ‘first movement’ gathers momentum — our poor judgment causes our physiological responses to intensify — to become a full-blown emotion of fear, and there is nothing we can do but wait until the emotion passes, acting irrationally and out of control in the meantime. 
+If however we judge that the fear is justified or even an underreaction – ‘oh my God, it’s a _spider_ and I _hate_ spiders, what am I going to do, I am in serious danger here’ – then the ‘first movement’ gathers momentum – our poor judgment causes our physiological responses to intensify – to become a full-blown emotion of fear, and there is nothing we can do but wait until the emotion passes, acting irrationally and out of control in the meantime. 
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -68,7 +68,7 @@ If however we judge that the fear is justified or even an underreaction — ‘o
     </div>
 </div>
 
-So, the Stoic advice is not that we should avoid ‘first movements’ — doing so would be impossible. The advice is that we work on using our judgment to avoid letting such movements become destructive emotions. 
+So, the Stoic advice is not that we should avoid ‘first movements’ – doing so would be impossible. The advice is that we work on using our judgment to avoid letting such movements become destructive emotions. 
 
 Feeling scared, nervous, annoyed: this is part of what it means to be human. 
 
@@ -82,11 +82,11 @@ And, importantly, the point of retaining control is not just to make ourselves f
 
 As Seneca writes:
 
->An emotion, then, does not consist in being moved by the appearances of things, but in surrendering to them and following up this casual impulse. For if anyone supposes that turning pale, bursting into tears, sexual arousal, deep sighs, flashing eyes, and anything of that sort are a sign of emotion and mental state, he is mistaken and does not understand that these are merely bodily impulses… A man thinks himself injured, wants to be revenged, and then — being dissuaded for some reason — he quickly calms down again. I don’t call this anger, but a mental impulse yielding to reason. Anger is that which overleaps reason and carries it away.
+>An emotion, then, does not consist in being moved by the appearances of things, but in surrendering to them and following up this casual impulse. For if anyone supposes that turning pale, bursting into tears, sexual arousal, deep sighs, flashing eyes, and anything of that sort are a sign of emotion and mental state, he is mistaken and does not understand that these are merely bodily impulses… A man thinks himself injured, wants to be revenged, and then – being dissuaded for some reason – he quickly calms down again. I don’t call this anger, but a mental impulse yielding to reason. Anger is that which overleaps reason and carries it away.
 
 ## Practicing the Stoic approach to emotion in everyday life
 
-<span class="big-letter">O</span>f course, the Stoics were writing at a time before the physiological underpinnings of conditions like chronic anxiety had been better researched and understood, so their advice — _use your judgment to lend perspective to your situation!_ — may not be sufficient in all cases, and is not a replacement for professional therapeutic care.
+<span class="big-letter">O</span>f course, the Stoics were writing at a time before the physiological underpinnings of conditions like chronic anxiety had been better researched and understood, so their advice – _use your judgment to lend perspective to your situation!_ – may not be sufficient in all cases, and is not a replacement for professional therapeutic care.
 
 Nevertheless, recalling the lessons of Stoicism can still be of real benefit: by attempting to make clearer judgments about our situation, we can protect ourselves from spiraling, destructive emotions, and create room to move forward with virtue.
 
@@ -120,7 +120,7 @@ So: pause, and remember this line from perhaps the most famous Stoic philosopher
 
 <span class="big-letter">W</span>hat if simply waiting doesn’t ease the strength of our feelings? What about cases of outrageous wrongdoing or injustice to a loved one? What should we do when the force of our feelings threatens to overpower whatever sober judgments we attempt to apply to them, and tip us into uncontrollable emotion? 
 
-The recommended Stoic tactic here — if we are simply unable to rationalize the rage of a first movement — is to use our judgment to redirect the force of our feelings into something constructive. 
+The recommended Stoic tactic here – if we are simply unable to rationalize the rage of a first movement – is to use our judgment to redirect the force of our feelings into something constructive. 
 
 So, in the case of a loved one suffering from wrongdoing, rally your ‘first movement’ of passion under the banner not of anger, but of justice. Let your feelings be led by virtue, not uncontrollable vice. 
 
@@ -149,15 +149,15 @@ In summary, then: the Stoics aim to help us deal with destructive emotions by re
 
 We cannot control our initial reactions to situations, but we _can_ control our _judgment_ of such ‘first movements’. 
 
-By training ourselves to pause, reflect, and judge constructively, we can — with practice — stop first movements from gathering momentum, and thus rid ourselves of negative, uncontrollable emotions that have the potential to ruin our lives.
+By training ourselves to pause, reflect, and judge constructively, we can – with practice – stop first movements from gathering momentum, and thus rid ourselves of negative, uncontrollable emotions that have the potential to ruin our lives.
 
 ## How do the Stoics approach positive emotions?
 
 <span class="big-letter">W</span>hat about positive emotions like love? Do the Stoics think we should rationalize and temper those, too? The verdict here tends to be that the Stoics are concerned with emotions that have the potential to ruin the tranquility of our lives. 
 
-A jealous, possessive love, for example, has life-ruining potential, and should be treated like any other negative emotion; but a compassionate love based on our natural need for companionship is perfectly healthy — we must just be mindful that we hold no unrealistic expectations or false beliefs about it that have the potential to shatter us in future.
+A jealous, possessive love, for example, has life-ruining potential, and should be treated like any other negative emotion; but a compassionate love based on our natural need for companionship is perfectly healthy – we must just be mindful that we hold no unrealistic expectations or false beliefs about it that have the potential to shatter us in future.
 
-For instance, if we falsely believe that the love between us and a parent, partner, or our children will last forever, then — given the fact that we are all mortal — we are in for a nasty surprise.  
+For instance, if we falsely believe that the love between us and a parent, partner, or our children will last forever, then – given the fact that we are all mortal – we are in for a nasty surprise.  
 
 We thus shouldn’t repress or temper joyful ‘first movements’, but we should be careful that we don’t let them develop into false hopes or beliefs about what the future might hold. 
 

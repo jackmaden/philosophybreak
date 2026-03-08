@@ -36,7 +36,7 @@ const Page = ({ data, location }) => {
         {/*page content*/}
         <div className="page-center" id="break-start">
         
-            <p><span className="big-letter">P</span>hilosophy essentially involves <i>thinking hard about life’s big questions</i>, including — as we discuss in our article on  <Link to="/what-is-philosophy-definition-4-core-branches/">what philosophy is, how it works, as well as its four core branches</Link> — why we are here, how we can know anything about the world, and what our lives are for.</p>
+            <p><span className="big-letter">P</span>hilosophy essentially involves <i>thinking hard about life’s big questions</i>, including – as we discuss in our article on  <Link to="/what-is-philosophy-definition-4-core-branches/">what philosophy is, how it works, as well as its four core branches</Link> – why we are here, how we can know anything about the world, and what our lives are for.</p>
 
             <p>Here at Philosophy Break, we believe the practice of philosophy is the antidote to a world saturated by information, and the more that people engage with philosophy, the more fulfilling their lives will be.</p>
 
@@ -46,7 +46,7 @@ const Page = ({ data, location }) => {
 
             <blockquote><p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… Life is long if you know how to use it.</p></blockquote>
 
-            <p>Streaming services hook us into one more episode, those of us with smartphones check them without thinking; but the compulsion to watch, to shop, to hit refresh on our newsfeeds — all of it can be reined in by contemplating the world around us, and our place within it.</p>  
+            <p>Streaming services hook us into one more episode, those of us with smartphones check them without thinking; but the compulsion to watch, to shop, to hit refresh on our newsfeeds – all of it can be reined in by contemplating the world around us, and our place within it.</p>  
 
             <p>How can we best spend our lives on earth? What makes you happy? What gives you purpose?</p>
 
@@ -54,7 +54,7 @@ const Page = ({ data, location }) => {
 
             <p>Critically engaging with the enduring wisdom of philosophy is a fantastic way to both inform ourselves about the problems inherent within the human condition, and also face up to those problems and calm our existential fears and anxieties.</p>
 
-            <p>By engaging with the ideas of great thinkers throughout history, we’re empowered to think for ourselves — be it on matters of meaning and existence, how to make a better world, or simply working out what’s worth pursuing in life.</p>
+            <p>By engaging with the ideas of great thinkers throughout history, we’re empowered to think for ourselves – be it on matters of meaning and existence, how to make a better world, or simply working out what’s worth pursuing in life.</p>
 
             <p>For as <Link to="/reading-lists/socrates/">Socrates</Link>, <Link to="/articles/socrates-on-what-we-know/">the famous ancient Greek martyr of philosophy</Link>, declared:</p> 
             <blockquote><p>The unexamined life is not worth living.</p></blockquote>
@@ -64,7 +64,7 @@ const Page = ({ data, location }) => {
             <p>Philosophy opens our eyes to the multitudinous ways we can spend our lives, engendering tolerance for those whose practices differ from our own, and reawakening a childlike wonder and appreciation for the sheer mystery and opportunity lying at the heart of existence.</p>            
 
             <h2>Why is philosophy important today?</h2>
-            <p><span class="big-letter">P</span>hilosophy is sometimes considered outdated — a perception not helped by the subject’s apparent obsession with reaching back over thousands of years to consider the works of ancient figures like <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, <Link to="/reading-lists/aristotle/">Aristotle</Link>, and <Link to="/reading-lists/confucius/">Confucius</Link>.</p>
+            <p><span class="big-letter">P</span>hilosophy is sometimes considered outdated – a perception not helped by the subject’s apparent obsession with reaching back over thousands of years to consider the works of ancient figures like <Link to="/articles/socrates-and-the-socratic-paradox-i-know-that-i-know-nothing/">Socrates</Link>, <Link to="/reading-lists/plato/">Plato</Link>, <Link to="/reading-lists/aristotle/">Aristotle</Link>, and <Link to="/reading-lists/confucius/">Confucius</Link>.</p>
             
             <p>But the point of philosophy in modern times remains the point philosophy has always had: to answer the fundamental questions that lie at the heart of the human condition.</p>
 
@@ -81,13 +81,13 @@ const Page = ({ data, location }) => {
 
             <p>But philosophy is not here to compete with these brilliant, fascinating research projects, but to supplement, clarify, and even unify them.</p>
 
-            <p>For instance, when physicists share their latest mathematical models that predict the behavior of matter, philosophers ask, “okay, so what does this behavior tell us about the intrinsic nature of matter itself? What <i>is</i> matter? Is it physical, is it a manifestation of consciousness? — and <Link to="/articles/why-does-anything-exist/">why does any of this stuff exist</Link> in the first place?”</p>
+            <p>For instance, when physicists share their latest mathematical models that predict the behavior of matter, philosophers ask, “okay, so what does this behavior tell us about the intrinsic nature of matter itself? What <i>is</i> matter? Is it physical, is it a manifestation of consciousness? – and <Link to="/articles/why-does-anything-exist/">why does any of this stuff exist</Link> in the first place?”</p>
 
             <p>Equally, when neuroscientists make progress in mapping the brain, philosophers are on hand to digest the consequences the latest research has for our conceptions of <Link to="/reading-lists/consciousness/">consciousness</Link> and <Link to="/reading-lists/free-will/">free will</Link>.</p>
 
             <p>And, just as pertinently, while computer scientists continue to advance the sophistication of AI, philosophers discuss <Link to="/articles/what-happens-when-machines-become-smarter-than-people/">the implications an ever-growing machine intelligence has for society</Link>, and dissect the urgent <Link to="/reading-lists/ethics-and-morality/">ethical and moral</Link> concerns accompanying them.</p>
 
-            <p>With its focus on argument and clarity, philosophy is particularly good at rooting out the assumptions and contradictions that lie at the core of commonsensical thinking, sharpening our insight into truth, and lending security to the foundations of knowledge in all areas of research — especially the sciences, operating as they do at the frontiers of what we know.</p> 
+            <p>With its focus on argument and clarity, philosophy is particularly good at rooting out the assumptions and contradictions that lie at the core of commonsensical thinking, sharpening our insight into truth, and lending security to the foundations of knowledge in all areas of research – especially the sciences, operating as they do at the frontiers of what we know.</p> 
 
             <h2>The Sleep of Reason Produces Monsters</h2>
 
@@ -97,7 +97,7 @@ const Page = ({ data, location }) => {
 
             <figure className="gatsby-resp-image-figure" style={{margin: "2.2em 0 2em"}}>
               <StaticImage src="../../images/goya.jpg" alt="The Sleep of Reason Produces Monsters" placeholder="blurred" layout="fullWidth" />
-              <figcaption className="gatsby-resp-image-figcaption">Created between 1797 and 1799 for the Diario de Madrid, <i>The Sleep of Reason Produces Monsters</i> is the 43rd of the 80 etchings making up the satirical Los Caprichos, and encapsulates Goya’s belief that many of humanity’s follies result from a ‘sleep of reason’ — a disengagement of our rational, critical faculties.</figcaption>
+              <figcaption className="gatsby-resp-image-figcaption">Created between 1797 and 1799 for the Diario de Madrid, <i>The Sleep of Reason Produces Monsters</i> is the 43rd of the 80 etchings making up the satirical Los Caprichos, and encapsulates Goya’s belief that many of humanity’s follies result from a ‘sleep of reason’ – a disengagement of our rational, critical faculties.</figcaption>
             </figure>
 
             <p>In his analysis of Goya’s etching, contemporary philosopher Simon Blackburn notes in his book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0192854259/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0192854259&linkId=aacd3717b10ac108a1e91a38ee9c8bd1">Think</a> that “there are always people telling us what we want, how they will provide it, and what we should believe”, forcefully continuing:</p>
@@ -108,7 +108,7 @@ const Page = ({ data, location }) => {
               
             <blockquote><p>Reflection enables us to step back, to see our perspective on a situation as perhaps distorted or blind, at the very least to see if there is argument for preferring our ways, or whether it is just subjective.</p></blockquote>
             
-            <p>By deploying critical thinking and the rigor of philosophy, we are less likely to be duped or led by those who — intentionally or unintentionally — malform our thinking.</p> 
+            <p>By deploying critical thinking and the rigor of philosophy, we are less likely to be duped or led by those who – intentionally or unintentionally – malform our thinking.</p> 
             
             <p>Blackburn’s advocacy for critical philosophical reflection can be paired with the full motto of Goya’s etching:</p> 
             
@@ -116,7 +116,7 @@ const Page = ({ data, location }) => {
 
             <h2>Philosophy’s transformative power</h2>
 
-            <p><span class="big-letter">B</span>eyond the clarification of knowledge, the greatest philosophy — like the greatest science — has enormous explanatory power that can transform how we see the world.</p> 
+            <p><span class="big-letter">B</span>eyond the clarification of knowledge, the greatest philosophy – like the greatest science – has enormous explanatory power that can transform how we see the world.</p> 
 
             <p>Just as Albert Einstein’s theory of relativity skewers our everyday notion of time, so <Link to="/reading-lists/friedrich-nietzsche/">Friedrich Nietzsche’s dissection of morality</Link> challenges our everyday notions of ‘good’ and ‘evil’, <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke’s analysis of color</Link> challenges our very idea of whether perception is reality, and <Link to="/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/">Lucretius’s timeless reflection on death</Link> helps us cope with our mortality.</p> 
 
@@ -125,7 +125,7 @@ const Page = ({ data, location }) => {
               <figcaption className="gatsby-resp-image-figcaption"><i>Portrait of Friedrich Nietzsche</i>, by Edvard Munch, c. 1906. The German philosopher Friedrich Nietzsche is among those whose works have the power to transform worldviews. We discuss his profound ideas in detail in our popular 6-day course, <Link to="/introduction-to-nietzsche/">Introduction to Nietzsche and His 5 Greatest Ideas</Link>.</figcaption>
             </figure>
 
-            <p>The world is uncertain, and the value of philosophy lies precisely in facing up to this uncertainty — and in finding footholds for knowledge and progress in spite of it. As the 20th-century philosophical giant Bertrand Russell summarizes in his <Link to="/articles/bertrand-russell-why-philosophy-matters/">wonderful exposition on why philosophy matters</Link>:</p>
+            <p>The world is uncertain, and the value of philosophy lies precisely in facing up to this uncertainty – and in finding footholds for knowledge and progress in spite of it. As the 20th-century philosophical giant Bertrand Russell summarizes in his <Link to="/articles/bertrand-russell-why-philosophy-matters/">wonderful exposition on why philosophy matters</Link>:</p>
 
             <blockquote><p>Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.</p></blockquote>
 

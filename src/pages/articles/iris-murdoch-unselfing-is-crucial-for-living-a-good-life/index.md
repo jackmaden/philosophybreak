@@ -39,11 +39,11 @@ Murdoch’s idea of ‘unselfing’ might bring to mind the [Buddhist concept of
 
 The 20th-century German writer Herman Hesse, in the collection <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Butterflies-Reflections-Tales-Hermann-Hesse/dp/B0BJPFV3YJ?&linkCode=ll1&tag=philosophybre-20&linkId=2116f9e63d0edf451951d893c7cbd388&language=en_US&ref_=as_li_ss_tl">Butterflies: Reflections, Tales, and Verse</a>, also expresses a deep resonance with this idea. 
 
-Reflecting on Goethe’s exclamation, “I am here, that I may wonder!”, Hesse describes how truly contemplating nature — truly _attending to_ and feeling wonder for nature — can help dissolve the separations we artificially impose on the world. 
+Reflecting on Goethe’s exclamation, “I am here, that I may wonder!”, Hesse describes how truly contemplating nature – truly _attending to_ and feeling wonder for nature – can help dissolve the separations we artificially impose on the world. 
 
 In moments of awe, Hesse writes in a substantial yet beautiful passage, we experience the unity of all that exists:
 
->Wonder is where it starts, and though wonder is also where it ends, this is no futile path. Whether admiring a patch of moss, a crystal, flower, or golden beetle, a sky full of clouds, a sea with the serene, vast sigh of its swells, or a butterfly wing with its arrangement of crystalline ribs, contours, and the vibrant bezel of its edges, the diverse scripts and ornamentations of its markings, and the infinite, sweet, delightfully inspired transitions and shadings of its colors — whenever I experience part of nature, whether with my eyes or another of the five senses, whenever I feel drawn in, enchanted, opening myself momentarily to its existence and epiphanies, that very moment allows me to forget the avaricious, blind world of human need, and rather than thinking or issuing orders, rather than acquiring or exploiting, fighting or organizing, all I do in that moment is ‘wonder,’ like Goethe, and not only does this wonderment establish my brotherhood with him, other poets, and sages, it also makes me a brother to those wondrous things I behold and experience as the living world: butterflies and moths, beetles, clouds, rivers and mountains, because while wandering down the path of wonder, I briefly escape the world of separation and enter the world of unity.
+>Wonder is where it starts, and though wonder is also where it ends, this is no futile path. Whether admiring a patch of moss, a crystal, flower, or golden beetle, a sky full of clouds, a sea with the serene, vast sigh of its swells, or a butterfly wing with its arrangement of crystalline ribs, contours, and the vibrant bezel of its edges, the diverse scripts and ornamentations of its markings, and the infinite, sweet, delightfully inspired transitions and shadings of its colors – whenever I experience part of nature, whether with my eyes or another of the five senses, whenever I feel drawn in, enchanted, opening myself momentarily to its existence and epiphanies, that very moment allows me to forget the avaricious, blind world of human need, and rather than thinking or issuing orders, rather than acquiring or exploiting, fighting or organizing, all I do in that moment is ‘wonder,’ like Goethe, and not only does this wonderment establish my brotherhood with him, other poets, and sages, it also makes me a brother to those wondrous things I behold and experience as the living world: butterflies and moths, beetles, clouds, rivers and mountains, because while wandering down the path of wonder, I briefly escape the world of separation and enter the world of unity.
 
 ## Through unselfing, we connect to the Good
 
@@ -51,7 +51,7 @@ In moments of awe, Hesse writes in a substantial yet beautiful passage, we exper
 
 >Both in its genesis and its enjoyment [great art] is a thing totally opposed to selfish obsession. It invigorates our best faculties and, to use Platonic language, inspires love in the highest part of the soul. It is able to do this partly by virtue of something which it shares with nature: a perfection of form which invites unpossessive contemplation and resists absorption into the selfish dream life of the consciousness.
 
-Unselfing through such “unpossessive contemplation” reconnects us to reality as it really is, Murdoch thinks — and there is a moral dimension to this. 
+Unselfing through such “unpossessive contemplation” reconnects us to reality as it really is, Murdoch thinks – and there is a moral dimension to this. 
 
 For, while the existentialist philosophers of the 20th century respond to [Nietzsche’s declaration of the death of God](/articles/god-is-dead-nietzsche-famous-statement-explained/) by claiming we are each responsible for creating our own meaning and values, Murdoch maps a different route.
 
@@ -73,7 +73,7 @@ Of course, while we can aspire to “pierce the veil of selfish consciousness”
 
 The good life for Murdoch is thus a life that attempts to transcend its egoistic concerns. In this way, genuine attentiveness, careful observation, and even the production of art are themselves moral achievements. 
 
-By unselfing, we connect to the Good. Through our patient efforts to see reality and other persons clearly, by paying what [Murdoch calls _attention_](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/), we express virtue — and, ultimately, our capacity for love.
+By unselfing, we connect to the Good. Through our patient efforts to see reality and other persons clearly, by paying what [Murdoch calls _attention_](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/), we express virtue – and, ultimately, our capacity for love.
 
 ## What do you make of Murdoch’s analysis?
 

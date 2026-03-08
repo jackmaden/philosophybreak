@@ -19,13 +19,13 @@ If you maintained such views, you’d be what philosophers call a ‘solipsist�
 
 <span class="big-letter">S</span>olipsists believe in an extreme form of skepticism about the external world: namely, that anything ‘external’ doesn’t exist. _Everything_ is an aspect of their own mind.
 
-Taken at face value, this might seem a ridiculous position. How could a single mind possibly conjure up such a rich and endlessly unfolding tapestry of circumstances involving sight, hearing, taste, smell, touch, other people, international events, scientific discoveries, artistic creations, cosmic exploration — cheese?! 
+Taken at face value, this might seem a ridiculous position. How could a single mind possibly conjure up such a rich and endlessly unfolding tapestry of circumstances involving sight, hearing, taste, smell, touch, other people, international events, scientific discoveries, artistic creations, cosmic exploration – cheese?! 
 
 That the endless variety of existence has its source in a single mind is a bizarre characterization of reality not worthy of consideration, we might think.   
 
 But the solipsist does not appeal to common sense; the solipsist appeals to logic. Consider the following propositions:
 
->1\. The only things I have direct access to are the contents of my own mind — sensory experiences, thoughts, memories, and so on.<br><br>2\. The contents of my own mind are entirely private, and inaccessible to anyone but me.<br><br>3\. I am unable to access the mind of any other being, and so can only infer the existence of other minds indirectly. 
+>1\. The only things I have direct access to are the contents of my own mind – sensory experiences, thoughts, memories, and so on.<br><br>2\. The contents of my own mind are entirely private, and inaccessible to anyone but me.<br><br>3\. I am unable to access the mind of any other being, and so can only infer the existence of other minds indirectly. 
 
 Many people would agree with these propositions (for instance, see [Aldous Huxley on the unknowability of other minds](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)). The solipsist simply takes the implications of them to their extreme logical conclusion: 
 
@@ -35,7 +35,7 @@ In his 1893 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 >I cannot transcend experience, and experience must be my experience. From this it follows that nothing beyond my self exists; for what is experience is its [the self’s] states.
 
-So, though perhaps ridiculous at face value, solipsism actually provides a surprisingly difficult logical puzzle — one which many philosophers throughout history have wrestled with, perhaps most famously René Descartes with his [“I think, therefore I am”](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) statement, which places sustained focus on the problems solipsism raises, as we outline in our short [_cogito ergo sum_ explainer piece](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/).
+So, though perhaps ridiculous at face value, solipsism actually provides a surprisingly difficult logical puzzle – one which many philosophers throughout history have wrestled with, perhaps most famously René Descartes with his [“I think, therefore I am”](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/) statement, which places sustained focus on the problems solipsism raises, as we outline in our short [_cogito ergo sum_ explainer piece](/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/).
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -88,13 +88,13 @@ So, as before, the solipsist can happily retort that solipsism remains a possibi
 
 Berkeley thought the only things in existence were minds and their potential contents (e.g. sensory perceptions, feelings, thoughts, and so on). 
 
-To the question of [whether a falling tree makes a noise when there’s no one around to hear it](/articles/if-a-tree-falls-in-the-forest-and-theres-no-one-around-to-hear-it-does-it-make-a-sound/), for instance, Berkeley answers with a definitive no: things only exist if there is some kind of being there to perceive them — all else is superfluous and nonsensical. 
+To the question of [whether a falling tree makes a noise when there’s no one around to hear it](/articles/if-a-tree-falls-in-the-forest-and-theres-no-one-around-to-hear-it-does-it-make-a-sound/), for instance, Berkeley answers with a definitive no: things only exist if there is some kind of being there to perceive them – all else is superfluous and nonsensical. 
 
 ![George Berkeley](./george-berkeley.jpg "George Berkeley, existing as an idea in your mind.")
 
-Berkeley differs from the solipsist in that — while both deny the world of matter — Berkeley has no issue with _some sort_ of world existing independently of our minds. This world is made up not of physical stuff, Berkeley says, but rather of all the potential ‘mental stuff’ that could fill our minds (sensory perceptions, feelings, thoughts, etc.), and endures only because it is ‘perceived’ by the all-powerful mind of God.
+Berkeley differs from the solipsist in that – while both deny the world of matter – Berkeley has no issue with _some sort_ of world existing independently of our minds. This world is made up not of physical stuff, Berkeley says, but rather of all the potential ‘mental stuff’ that could fill our minds (sensory perceptions, feelings, thoughts, etc.), and endures only because it is ‘perceived’ by the all-powerful mind of God.
 
-On Berkeley’s view of _to be is to be perceived,_ therefore, solipsism is an impossible absurdity. The solipsist, being the only thing in existence, cannot be perceived — the solipsist cannot ‘step outside’ themselves to perceive themselves. And, if they cannot be perceived, the solipsist thus cannot exist. (One could perhaps counter, however, that on Berkeley’s view, God is a kind of solipsist).  
+On Berkeley’s view of _to be is to be perceived,_ therefore, solipsism is an impossible absurdity. The solipsist, being the only thing in existence, cannot be perceived – the solipsist cannot ‘step outside’ themselves to perceive themselves. And, if they cannot be perceived, the solipsist thus cannot exist. (One could perhaps counter, however, that on Berkeley’s view, God is a kind of solipsist).  
 
 Berkeley’s argument against solipsism is perhaps the closest to a logical refutation so far, but accepting it means committing to Berkeley’s metaphysics of _esse est percipi_, which many deem undesirable. 
 
@@ -128,15 +128,15 @@ This acceptance doesn’t mean we must all commit to solipsism.
 
 ## Where does solipsism leave us?
 
-<span class="big-letter">S</span>olipsism raises fundamental issues in [epistemology](/reading-lists/epistemology/), [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), and the philosophy of [consciousness](/reading-lists/consciousness/), and forces us to face up to the limitations of our reasoning — for while solipsism seems utterly absurd, arguably it has never been (and perhaps never could be) unequivocally refuted.
+<span class="big-letter">S</span>olipsism raises fundamental issues in [epistemology](/reading-lists/epistemology/), [metaphysics](/articles/metaphysics-what-is-it-why-is-it-important-today/), and the philosophy of [consciousness](/reading-lists/consciousness/), and forces us to face up to the limitations of our reasoning – for while solipsism seems utterly absurd, arguably it has never been (and perhaps never could be) unequivocally refuted.
 
-But perhaps the most poignant reaction we might have when considering solipsism — bizarre metaphysics aside — is to the unavoidable and rather lonely fact that, when you think about it, we can never escape our own minds. 
+But perhaps the most poignant reaction we might have when considering solipsism – bizarre metaphysics aside – is to the unavoidable and rather lonely fact that, when you think about it, we can never escape our own minds. 
 
 Whatever we do, however vivid our imaginations, however determined our efforts to alter our own minds, we cannot step outside ourselves. We will only ever experience life with the minds we have. We will never directly know what other people think, feel, or experience. 
 
 This might seem a depressing, even terrifying thought. 
 
-But perhaps another view to take would be that the very inescapable nature of our own minds makes any connection we do manage to make to other minds — minds we must believe, rather than know, to exist — ever more precious.
+But perhaps another view to take would be that the very inescapable nature of our own minds makes any connection we do manage to make to other minds – minds we must believe, rather than know, to exist – ever more precious.
 
 ## In just 5 days, you’ll know philosophy’s best answers to life’s big questions
 

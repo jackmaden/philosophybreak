@@ -49,7 +49,7 @@ Licensing would aim to prevent harm taking place in the first place, for it woul
 
 As with a driving test, prospective parents could retake the test as many times as necessary in order to pass, LaFollette suggests, perhaps receiving further support or coaching to remediate any problems in the meantime.
 
-The idea, then, isn’t to standardize ‘good’ parenting according to a set of narrow prescriptions, penalizing anyone who doesn’t live up to them; the idea is to screen out people who’d make _very bad, abusive_ parents — people who simply cannot grasp or demonstrate the basic principles of parenting. The vast majority would, one hopes, be licensed without issue, and be free to raise their children in their own way. 
+The idea, then, isn’t to standardize ‘good’ parenting according to a set of narrow prescriptions, penalizing anyone who doesn’t live up to them; the idea is to screen out people who’d make _very bad, abusive_ parents – people who simply cannot grasp or demonstrate the basic principles of parenting. The vast majority would, one hopes, be licensed without issue, and be free to raise their children in their own way. 
 
 In an ideal world, parental licensing wouldn’t be required at all. Nor would airport security. But we don’t live in an ideal world, and so we must think pragmatically about the best ways we can reduce harm.
 
@@ -71,7 +71,7 @@ And rather than enforced licensing, it could be rolled out as an ‘opt-in’ pr
 
 But if we change the word ‘license’ to ‘certification’, Mangel suggests, and wrap it in a package of knowledge building, childcare networks, tax credits, improved maternity and paternity leave, then immediately we have a much more appealing program.
 
-Perhaps we could sanitize the idea even further. Voluntary parenting classes are already offered by various independent organizations. Certification could just be an added feature of these pre-existing classes — perhaps qualifying alumni for tax breaks if they meet a certain standard set by an independent national body, and informed by the latest in child development research.
+Perhaps we could sanitize the idea even further. Voluntary parenting classes are already offered by various independent organizations. Certification could just be an added feature of these pre-existing classes – perhaps qualifying alumni for tax breaks if they meet a certain standard set by an independent national body, and informed by the latest in child development research.
 
 The emphasis would no longer be on controlling who can and can’t have children, but on incentivizing people to better prepare for the responsibility of parenthood: certifications could unlock resources, help develop confidence, and prove competence.
 
@@ -79,7 +79,7 @@ Thinking this way, the argument begins to shift from the emotive arena of parent
 
 >When assessing parental licensing proposals, ‘Would it violate parental rights?’ is not the only or even most important question. Instead we should focus on the more complex question: ‘Is parental licensing part of the correct set of policies to respond to child abuse and neglect?’
 
-Indeed, while licensing may be controversial, it’s much less so to say that society should take parenting seriously, and that more resources, education, and funding would help. The key question then becomes how better practices can be justly incentivized — and whether licensing and certification would play a useful or harmful role.
+Indeed, while licensing may be controversial, it’s much less so to say that society should take parenting seriously, and that more resources, education, and funding would help. The key question then becomes how better practices can be justly incentivized – and whether licensing and certification would play a useful or harmful role.
 
 ## Rethinking natural sovereignty
 

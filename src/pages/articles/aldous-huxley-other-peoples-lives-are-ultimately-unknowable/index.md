@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">T</span>hink of someone you know very well. It could be a partner, family member, or close friend. You can imagine their behavior in most situations — you know whether they’re good in a crisis, what appeals to their sense of humor, what scares them, and more.
+<span class="big-letter">T</span>hink of someone you know very well. It could be a partner, family member, or close friend. You can imagine their behavior in most situations – you know whether they’re good in a crisis, what appeals to their sense of humor, what scares them, and more.
 
 As much as you might know this person, however, there’s a gap in your knowledge that can never be filled.
 
@@ -27,9 +27,9 @@ Our labels and categories are gross, shallow simplifications; our ideas about ea
 
 For, Huxley continues, though we all live alongside one another, our interior lives are ours alone:
 
->We live together, we act on, and react to, one another; but always and in all circumstances we are by ourselves. The martyrs go hand in hand into the arena; they are crucified alone. Embraced, the lovers desperately try to fuse their insulated ecstasies into a single self-transcendence; in vain. By its very nature every embodied spirit is doomed to suffer and enjoy in solitude. Sensations, feelings, insights, fancies — all these are private and, except through symbols and at second hand, incommunicable. We can pool information about experiences, but never the experiences themselves. From family to nation, every human group is a society of island universes.
+>We live together, we act on, and react to, one another; but always and in all circumstances we are by ourselves. The martyrs go hand in hand into the arena; they are crucified alone. Embraced, the lovers desperately try to fuse their insulated ecstasies into a single self-transcendence; in vain. By its very nature every embodied spirit is doomed to suffer and enjoy in solitude. Sensations, feelings, insights, fancies – all these are private and, except through symbols and at second hand, incommunicable. We can pool information about experiences, but never the experiences themselves. From family to nation, every human group is a society of island universes.
 
-There is of course enough common ground between our ‘island universes’ that we are able to _imagine_ someone else’s perspective; but the depths and textures of our individual realities remain largely — in some cases totally — incommunicable. Huxley writes:
+There is of course enough common ground between our ‘island universes’ that we are able to _imagine_ someone else’s perspective; but the depths and textures of our individual realities remain largely – in some cases totally – incommunicable. Huxley writes:
 
 >Most island universes are sufficiently like one another to permit of inferential understanding or even of mutual empathy or ‘feeling into’. Thus, remembering our own bereavements and humiliations, we can condole with others in analogous circumstances, can put ourselves (always, of course, in a slightly Pickwickian sense) in their places. But in certain cases communication between universes is incomplete or even nonexistent.
 
@@ -39,7 +39,7 @@ The philosopher-novelist Iris Murdoch hits on this in her great 1978 novel <a ta
 
 >We are such inward secret creatures, that inwardness is the most amazing thing about us, even more amazing than our reason. But we cannot just walk into the cavern and look around. Most of what we think we know about our minds is pseudo-knowledge.
 
-Unknown to ourselves, we are hungry to hear how others see us — and it can be a relief to believe them.
+Unknown to ourselves, we are hungry to hear how others see us – and it can be a relief to believe them.
 
 But if we struggle to properly understand or articulate our own feelings and experiences, how could other people possibly have anything other than a surface-level insight?
 

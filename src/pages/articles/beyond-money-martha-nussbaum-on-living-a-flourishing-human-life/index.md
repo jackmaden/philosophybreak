@@ -50,13 +50,13 @@ While her list has evolved throughout her work, we can summarize the capabilitie
 1. **Life.** The ability to live a life of typical human length, without having it cut short or diminished to a state not worth living.
 2. **Bodily Health.** The opportunity to maintain good physical health, including access to reproductive care, adequate nutrition, and safe housing.
 3. **Bodily Integrity.** The freedom to move freely from place to place, and to have control over one’s own body.
-4. **Senses, Imagination, and Thought.** The capacity to use one’s senses, imagination, and intellect in a ‘truly human way’ — supported by adequate education. This includes freedom of expression, religious practice, artistic creation, and the ability to seek meaning and pleasure in life without fear or undue pain.
+4. **Senses, Imagination, and Thought.** The capacity to use one’s senses, imagination, and intellect in a ‘truly human way’ – supported by adequate education. This includes freedom of expression, religious practice, artistic creation, and the ability to seek meaning and pleasure in life without fear or undue pain.
 5. **Emotions.** The ability to form attachments and experience a full range of human emotions: loving others, grieving losses, feeling justifiable anger, etc.
 6. **Practical Reason.** The capacity to form and critically reflect on one’s own values, and to make meaningful life decisions based on that reflection.
-7. **Affiliation.** The ability to engage in loving, meaningful, and respectful relationships — showing empathy, compassion, and a sense of justice and friendship — supported by institutions that foster social connection. 
+7. **Affiliation.** The ability to engage in loving, meaningful, and respectful relationships – showing empathy, compassion, and a sense of justice and friendship – supported by institutions that foster social connection. 
 8. **Other Species.** The capacity to engage with, care for, and live harmoniously alongside animals, plants, and the natural environment.
 9. **Play.** The opportunity to enjoy leisure, have fun, laugh, and participate in recreational activities.
-10. **Control Over One’s Environment.** _Political:_ the ability to actively participate in political life, including the rights to free speech, association, and democratic engagement. _Material:_ the real opportunity to own property, seek employment on equal terms, and be protected from unjust interference — such as unwarranted searches or seizures.
+10. **Control Over One’s Environment.** _Political:_ the ability to actively participate in political life, including the rights to free speech, association, and democratic engagement. _Material:_ the real opportunity to own property, seek employment on equal terms, and be protected from unjust interference – such as unwarranted searches or seizures.
 
 Capabilities might make us think of human rights: basic liberties shared by all. Not imposing a specific vision of the good life, but empowering people to live one of their own choosing. 
 

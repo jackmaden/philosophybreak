@@ -32,11 +32,11 @@ const ReadingList = ({ data, location }) => {
 
               <p><span className="big-letter">N</span>iccolò Machiavelli was an Italian philosopher, historian, and writer who lived from 1469 to 1527. During his lifetime, Machiavelli served as a government official in the Republic of Florence, where he was responsible for diplomacy and military affairs.</p>
 
-              <p>Often associated with the concept of <i>realpolitik</i> — the pursuit of power through practical and pragmatic means, rather than through ideology or moral principles — Machiavelli’s ideas have been highly influential (and controversial) in <Link to="/reading-lists/political-philosophy/">political philosophy</Link> and beyond.</p>
+              <p>Often associated with the concept of <i>realpolitik</i> – the pursuit of power through practical and pragmatic means, rather than through ideology or moral principles – Machiavelli’s ideas have been highly influential (and controversial) in <Link to="/reading-lists/political-philosophy/">political philosophy</Link> and beyond.</p>
 
               <p>Machiavelli is perceived to be interested more in what it means to be an ‘effective’ rather than ‘good’ ruler, arguing that those in power should be willing to use any means necessary to maintain their rule, even if that means resorting to deceit, coercion, and violence. </p>
 
-              <p>This reading list consists of the best books on and by Machiavelli. After reading it, you’ll understand exactly why his political ideas remain so discussed — and whether his rather sinister reputation is deserved. Let’s dive in! </p>
+              <p>This reading list consists of the best books on and by Machiavelli. After reading it, you’ll understand exactly why his political ideas remain so discussed – and whether his rather sinister reputation is deserved. Let’s dive in! </p>
 
               <h2>1. Machiavelli: A Very Short Introduction, by Quentin Skinner</h2>
               <BookLink title="Machiavelli: A Very Short Introduction" author="Quentin Skinner" link="http://www.amazon.com/Machiavelli-Very-Short-Introduction-Introductions/dp/0198837577?&linkCode=ll1&tag=philosophybre-20&linkId=0f0480a7af5f1d421121f8ac8580abcd&language=en_US&ref_=as_li_ss_tl" img={data.one.childImageSharp.gatsbyImageData} />

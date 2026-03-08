@@ -19,25 +19,25 @@ As he puts it in the <a target="_blank" rel="noopener noreferrer sponsored" href
 
 >Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and in, in a word, whatever is not of our own doing.
 
-Now, this list might seem surprising. There might be things we think we have more control over than Epictetus allows — like, say, our bodies or careers. 
+Now, this list might seem surprising. There might be things we think we have more control over than Epictetus allows – like, say, our bodies or careers. 
 
 But this is due to a common error we all make, Epictetus thinks: mistaking control over our _individual contributions_ with control over the _overall outcome_. 
 
-![Epictetus](./epictetus.jpg "Epictetus was a Stoic philosopher who lived just under two thousand years ago. Born a slave, he went on to teach philosophy in Rome, ultimately setting up a school in Epirus, Greece. Epictetus taught that philosophy is not just a theoretical discipline but a way of life. His teachings thus included many no-nonsense lessons on how to live — lessons eagerly written down by his pupil Arrian, and published in the brilliant books ‘Discourses’ and ‘Enchiridion’.")
+![Epictetus](./epictetus.jpg "Epictetus was a Stoic philosopher who lived just under two thousand years ago. Born a slave, he went on to teach philosophy in Rome, ultimately setting up a school in Epirus, Greece. Epictetus taught that philosophy is not just a theoretical discipline but a way of life. His teachings thus included many no-nonsense lessons on how to live – lessons eagerly written down by his pupil Arrian, and published in the brilliant books ‘Discourses’ and ‘Enchiridion’.")
 
 Take your body. Though we may _feel_ like we can control our bodies (through exercise and diet, for instance), we have absolutely no power over our genetics, potential accidents, diseases, or the march of time. 
 
 We will all change as we get older, developing according to biological blueprints that do not care about whatever expectations we impose upon them.
 
-Falsely believing we’re able to exert _absolute_ control over how our bodies end up — or what people think of them — will only end in frustration, insecurity, and anxiety. 
+Falsely believing we’re able to exert _absolute_ control over how our bodies end up – or what people think of them – will only end in frustration, insecurity, and anxiety. 
 
-It’s the same with our careers or relationships, Epictetus says: there are aspects of these that are within our control — i.e. our personal efforts, attitudes, and judgments — but there is also a lot that isn’t.
+It’s the same with our careers or relationships, Epictetus says: there are aspects of these that are within our control – i.e. our personal efforts, attitudes, and judgments – but there is also a lot that isn’t.
 
 The state of the wider economy might put our jobs at risk, a friend might decide to move to another country, there might be a global political situation that impacts us. 
 
 The point, then, is that in virtually every area of our lives, there are variables at play totally out of our control. Anything could happen to us at any moment. We need to recognize this, Epictetus insists, and stop expecting reality to bend to our will.
 
-Instead, he writes, we should practice [_amor fati_ — love of fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/):
+Instead, he writes, we should practice [_amor fati_ – love of fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/):
 
 >Do not seek for things to happen the way you want them to; rather, wish that what happens happens the way it happens: then you will be happy.
 
@@ -60,7 +60,7 @@ Instead, he writes, we should practice [_amor fati_ — love of fate](/articles/
     </div>
 </div>
 
-Ultimately, following any action we might take, we have not one ounce of power over how things will turn out — so why pin our hopes on an unknowable future? Doesn’t that just end in disappointment — expecting the world to play out exactly as it does in our imaginations? 
+Ultimately, following any action we might take, we have not one ounce of power over how things will turn out – so why pin our hopes on an unknowable future? Doesn’t that just end in disappointment – expecting the world to play out exactly as it does in our imaginations? 
 
 We cannot control the future, [we cannot control the world in which we find ourselves](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/). All we can control, Epictetus tells us, is our efforts, attitudes, and judgments in the present.
 
@@ -68,9 +68,9 @@ And, when we focus on just these (and accept all else), we’ll actually find th
 
 >Working within our sphere of control, we are naturally free, independent, and strong. Beyond that sphere, we are weak, limited, and dependent. If you pin your hopes on things outside your control, taking upon yourself things which rightfully belong to others, you are liable to stumble, fall, suffer, and blame both gods and men. But if you focus your attention only on what is truly your own concern, and leave to others what concerns them, then you will be in charge of your interior life. No one will be able to harm or hinder you. You will blame no one, and have no enemies. If you wish to have peace and contentment, release your attachment to all things outside your control. This is the path of freedom and happiness.
 
-By all means strive to be healthy, do well at your job, and have flourishing relationships — but attach happiness to _your efforts_ in realizing these outcomes, say the Stoics, not the outcomes themselves.
+By all means strive to be healthy, do well at your job, and have flourishing relationships – but attach happiness to _your efforts_ in realizing these outcomes, say the Stoics, not the outcomes themselves.
 
-## Do the best you can — and accept everything else
+## Do the best you can – and accept everything else
 
 <span class="big-letter">T</span>he key takeaway from the dichotomy of control thus boils down to this: even if we strive to act as best as we can, we can never completely control the outcome. We therefore shouldn’t attach our happiness to achieving certain outcomes, but instead to our individual efforts along the way.
 
@@ -78,15 +78,15 @@ The contemporary philosopher John Sellars in his 2019 book <a target="_blank" re
 
 >Even an expert archer will sometimes miss the target because the wind might blow his arrow off course. There’s absolutely nothing the archer can do about this.
 
-In all life, we don’t have complete control over what happens. We need to make peace with this and contain our expectations — and thus our happiness — only to our own contributions and attitudes. 
+In all life, we don’t have complete control over what happens. We need to make peace with this and contain our expectations – and thus our happiness – only to our own contributions and attitudes. 
 
 ## Does the dichotomy of control mean we should just ignore larger societal problems? 
 
 <span class="big-letter">I</span>mportantly, the upshot of the dichotomy of control according to the Stoics is not that we’re excused from concerning ourselves with any larger societal problems (like, say, climate change), or that we lack agency. 
 
-The Stoics are not saying ‘sit quietly and accept the outcome’: they’re saying ‘if you’ve done everything within your power to the best of your ability, then be at peace with the outcome — for there is nothing more you could have done to affect it’. 
+The Stoics are not saying ‘sit quietly and accept the outcome’: they’re saying ‘if you’ve done everything within your power to the best of your ability, then be at peace with the outcome – for there is nothing more you could have done to affect it’. 
 
-Of course we should stand up to injustice in society or in our personal lives — we just need to connect our satisfaction to the _act_ of standing up, not the _outcome_ of standing up (we might win justice; we might not — the important thing for the Stoics is that, within a personal capacity, we did the best we possibly could have done).
+Of course we should stand up to injustice in society or in our personal lives – we just need to connect our satisfaction to the _act_ of standing up, not the _outcome_ of standing up (we might win justice; we might not – the important thing for the Stoics is that, within a personal capacity, we did the best we possibly could have done).
 
 The trick, then, lies in attaching our happiness not to achieving a certain outcome (for there lies disappointment), but instead to the quality of our individual contributions. 
 
@@ -105,9 +105,9 @@ Typically we might think our happiness depends on things like:
 
 But all these things are ultimately out of our control, say the Stoics, so attaching our happiness to them is foolish. 
 
-All we have control over is _our_ actions, attitudes, and judgments in the present moment — so it’s by these that we should judge the quality of our lives. 
+All we have control over is _our_ actions, attitudes, and judgments in the present moment – so it’s by these that we should judge the quality of our lives. 
 
-If we shift our perspectives in this way, and attach our happiness only to living up to [Stoicism’s four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) (wisdom, courage, justice, and temperance) as best as we can moment to moment, then we can actually achieve happiness in _any_ circumstances — regardless of what might be happening externally. 
+If we shift our perspectives in this way, and attach our happiness only to living up to [Stoicism’s four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) (wisdom, courage, justice, and temperance) as best as we can moment to moment, then we can actually achieve happiness in _any_ circumstances – regardless of what might be happening externally. 
 
 For, no matter how tough life gets, we retain power over how we judge and endure it. As Epictetus puts it:
 
@@ -115,7 +115,7 @@ For, no matter how tough life gets, we retain power over how we judge and endure
 
 There is a remarkable sense of liberation here. The 20th-century psychiatrist Viktor Frankl summarizes it nicely in his 1946 book about surviving the Nazi concentration camps, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273?&linkCode=ll1&tag=philosophybre-20&linkId=ea04da33293cfff63dc6b3068b594725&language=en_US&ref_=as_li_ss_tl">Man’s Search for Meaning</a>: 
 
->Everything can be taken from a person but one thing: the last of human freedoms — to choose one’s attitude in any given set of circumstances.
+>Everything can be taken from a person but one thing: the last of human freedoms – to choose one’s attitude in any given set of circumstances.
 
 No matter what happens to us, _no one_ can take this freedom from us: choosing our attitude.
 
@@ -136,7 +136,7 @@ No matter what happens to us, _no one_ can take this freedom from us: choosing o
     </div>
 </div>
 
-Simply _choosing_ our attitude is easier said than done, of course. The Stoics thus advise that our attention must at all times be directed to what we can control — our actions, attitudes, and judgments — and we must try to put aside anything beyond this. 
+Simply _choosing_ our attitude is easier said than done, of course. The Stoics thus advise that our attention must at all times be directed to what we can control – our actions, attitudes, and judgments – and we must try to put aside anything beyond this. 
 
 To illustrate just how focused we must be, Epictetus draws an analogy with sailing a ship:
 
@@ -146,7 +146,7 @@ As soon as our focus slips away from what we control [in the present](/articles/
 
 So, all day, every day, we must focus our attention on what we can control: our actions, attitudes, and judgments. This is what will determine the quality of our lives. 
 
-Do the best _you_ can, be the best person _you_ can be moment to moment, and accept everything else — _amor fati_ (love of fate): this is the Stoic way.
+Do the best _you_ can, be the best person _you_ can be moment to moment, and accept everything else – _amor fati_ (love of fate): this is the Stoic way.
 
 ## Learn more about the Stoic philosophy of life
 
@@ -154,7 +154,7 @@ Do the best _you_ can, be the best person _you_ can be moment to moment, and acc
 
 The dichotomy of control is a powerful tool in this regard, but the Stoics knew that implementing it in the face of real emotion or profound adversity is a significant challenge. 
 
-We explore this further in our explainer on [how Stoicism approaches emotion](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), and [the Stoics on what to do when the world feels broken](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/) — but if you’re interested in learning more about how the Stoics approached not just emotion and adversity but the entirety of life (including living up to the [four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and facing up to death, as [Seneca discusses in his essay on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/)), you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
+We explore this further in our explainer on [how Stoicism approaches emotion](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), and [the Stoics on what to do when the world feels broken](/articles/the-stoics-on-what-to-do-when-the-world-feels-broken/) – but if you’re interested in learning more about how the Stoics approached not just emotion and adversity but the entirety of life (including living up to the [four cardinal virtues](/articles/four-cardinal-virtues-stoicism-roadmap-to-the-best-life-possible/) and facing up to death, as [Seneca discusses in his essay on the shortness of life](/articles/seneca-on-coping-with-the-shortness-of-life/)), you might like our new course, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which compares the wisdom of Stoicism to 6 rival philosophical approaches to life. 
 
 In the meantime: what do you make of the dichotomy of control? Do you agree with Epictetus’s advice? Or are there some outcomes we should rail against regardless of our capacity to influence them?
 

@@ -23,13 +23,13 @@ I haven’t been able to feature all responses, nor the entirety of the response
 
 I hope you enjoy reading each other’s brilliant words. If you’re not yet part of the Philosophy Break newsletter community, [you can sign up free here](/weekly-emails/). Thank you for being so thoughtful week after week.
 
-(Some of you requested I share my own personal philosophy, too — I do so, briefly and uncertainly, at the end.)
+(Some of you requested I share my own personal philosophy, too – I do so, briefly and uncertainly, at the end.)
 
 Now, over to you on what makes life worth living!
 
 ## Mary (Netherlands): “To be true to oneself is, for me, the most freeing and exhilarating place to be…”
 
-<span class="big-letter">I</span> have found the Stoic — and Taoist — belief of accepting that which we have no power to change has made life a lot less stressful. It frees me to use energy for the things that matter to me and which I do have agency over.
+<span class="big-letter">I</span> have found the Stoic – and Taoist – belief of accepting that which we have no power to change has made life a lot less stressful. It frees me to use energy for the things that matter to me and which I do have agency over.
 
 When I was diagnosed with cancer, a friend of mine got very distressed on my behalf; she couldn’t understand why I wasn’t scared.
 
@@ -47,7 +47,7 @@ Well, I have learnt not to be overly concerned about the need to please others i
 
 I value space and time on my own but also like being part of small communities, as small communities often ignore the issues that are declared important by ‘those at the top’ and concentrate on the things that do matter. There is real scope to get to know and support each other.
 
-I listen to the feeling that occurs when involved in what gives me joy — and to the feelings that occur when ‘pushed into a corner’ by someone else’s need to control a situation. I trust in these to let me know what I need to attach to and detach from.
+I listen to the feeling that occurs when involved in what gives me joy – and to the feelings that occur when ‘pushed into a corner’ by someone else’s need to control a situation. I trust in these to let me know what I need to attach to and detach from.
 
 All of these things allow for me to live an authentic life, to follow this quote from Cicero: _Esse Quam Videri_ (‘To be rather than seem to be…’)
 
@@ -66,7 +66,7 @@ How to distill this amalgamation into three elements?
 
 I shall try…
 
-**1. The need to create an accurate map of the world**, tested against logic and empirical means — to navigate the uncertain world without the encumbrances of mysticism, and religiosity that has been such a bane to humankind. I seek principles of objective (to the extent humanly possible) truth.
+**1. The need to create an accurate map of the world**, tested against logic and empirical means – to navigate the uncertain world without the encumbrances of mysticism, and religiosity that has been such a bane to humankind. I seek principles of objective (to the extent humanly possible) truth.
 
 And by truth, I mean an accurate map of the world in all its facets, and changing rivulets.
 
@@ -76,9 +76,9 @@ A striving not for a comfortable set of lies, not for a banal set of truths sure
 
 How to live in the midst of extreme uncertainty, after one creates the map from one’s logical empirical quest? And the recognition that that map is always provisional, subject to change? One must have courage, before one can have peace of heart and mind.
 
-…An awake soul must be fully present, here, now, and be willing to accept reality as it is, to the extent that one cannot change it. Death — what do we make of it? _Acceptance._
+…An awake soul must be fully present, here, now, and be willing to accept reality as it is, to the extent that one cannot change it. Death – what do we make of it? _Acceptance._
 
-A striving for the acceptance of all things outside our control — the [_amor fati_ of Nietzsche](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/) — and the peace of mind and peace of heart that come with this acceptance, this gratitude, this focus.
+A striving for the acceptance of all things outside our control – the [_amor fati_ of Nietzsche](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/) – and the peace of mind and peace of heart that come with this acceptance, this gratitude, this focus.
 
 **3. The need to live according to the dictates of one’s conscience, and consciousness**. The word authenticity is overused, as it lacks a precise definition. But to be driven by the excavation of the self, the discovery of the self, the creation of the self-in-becoming, and all that this entails for meaning, purpose, and action.
 
@@ -135,11 +135,11 @@ It only took me 74 years to discover this formula.
 
 <span class="big-letter">A</span>t 28, I’m just beginning to understand that there is more to life than its surface-level mundanities, which have occupied my anxious mind for many a restless night…
 
-…At 28, I’m just beginning to understand that life is lived, not “thought.” Turns out that I spent my adolescence and most of my 20s in my head — which I’d give a rating of a 2/5 on TripAdvisor. At 28, I’m just venturing out into the world…
+…At 28, I’m just beginning to understand that life is lived, not “thought.” Turns out that I spent my adolescence and most of my 20s in my head – which I’d give a rating of a 2/5 on TripAdvisor. At 28, I’m just venturing out into the world…
 
 …I feel happy when I stop fighting existence, when I surrender to reality as it is, and when I get to choose how I respond to the ups and downs of life thanks to the clarity that results from these actions (or non-actions).
 
-I feel happy when I’m not a prisoner of my mind, but just a person with a mind that helps me – for the most part — to navigate life in all its richness, spontaneity, beauty, and awe-inspiring “isness.”
+I feel happy when I’m not a prisoner of my mind, but just a person with a mind that helps me – for the most part – to navigate life in all its richness, spontaneity, beauty, and awe-inspiring “isness.”
 
 I find meaning in appreciating the sublime beauty of a good piece of literature, music, and art. I find meaning in self-reflection because it helps me grow as a person. I find meaning in learning to like myself because, as the saying goes, I can’t expect to love people back the way they deserve to be loved until I learn to like myself…
 
@@ -175,15 +175,15 @@ This cannot be said of everyone. On a spiritual plane could it perhaps be the pa
 
 For me personally I have come to understand that no matter what hardship or personal crisis, there is a point where you go back to the beginning of your essence and then you discover your true name and that will free you of whatever is a burden; and then there is a fulfillment in the knowledge of knowing yourself deeply, on a truthful level. It is an innermost knowledge of self… Knowing therefore fulfilled.
 
-## Patty (USA): “Offer help, accept help, love with your heart — and your mind…”
+## Patty (USA): “Offer help, accept help, love with your heart – and your mind…”
 
-<span class="big-letter">W</span>hen your house is on fire, it’s almost always best to step outside. Here, you can breathe clear air, which helps you make rational decisions while honoring the emotion of a deeply personal experience. Here, you can see the burning house as something to be salvaged — or let go.
+<span class="big-letter">W</span>hen your house is on fire, it’s almost always best to step outside. Here, you can breathe clear air, which helps you make rational decisions while honoring the emotion of a deeply personal experience. Here, you can see the burning house as something to be salvaged – or let go.
 
 Either way, you’ll want to ask for help from experts who will do their best to save the house if salvageable and to guide you against re-entering unless and until this home can provide the safe and welcoming shelter you deserve.
 
 - Offer help
 - Accept help
-- Love with your heart — and your mind
+- Love with your heart – and your mind
 
 ## Ana (Switzerland): “What really has the power to pull me out of the uncharted territory of grief, loss, despair, loss of control, and powerlessness is agency…”
 
@@ -287,7 +287,7 @@ It’s here I look beyond [Epicureanism](/articles/epicureanism-defined-philosop
 - The [Buddha on deflating ego](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Aristotle on putting leisure over work](/articles/aristotle-on-why-leisure-defines-us-more-than-work/)…
 
-If I had to settle on three _structures_ for a fulfilled life (assuming a background of political stability and individual liberty — which is a rather huge assumption), I would actually very much agree with those falsely attributed to Immanuel Kant (the actual source is unclear):
+If I had to settle on three _structures_ for a fulfilled life (assuming a background of political stability and individual liberty – which is a rather huge assumption), I would actually very much agree with those falsely attributed to Immanuel Kant (the actual source is unclear):
 
 >Rules for Happiness: something to do, someone to love, something to hope for.
 
@@ -301,9 +301,9 @@ And if I had to select three _qualities_ for a fulfilled life, I would settle on
 
 But, beyond these tentative suggestions, I know I have much to learn, and much left to experience that will no doubt challenge many of my deep-seated values and assumptions.
 
-Perhaps making a virtue out of uncertainty — being ready and willing to adapt to new information — is a good bet, as is facing up to and _accepting_ impermanence in all its forms.
+Perhaps making a virtue out of uncertainty – being ready and willing to adapt to new information – is a good bet, as is facing up to and _accepting_ impermanence in all its forms.
 
-But one thing I truly cherish, and hope I’ll never lose, is simply having the opportunity to discuss these questions and ideas with others. None of us are alone; we all exist together. Being in perpetual search of the good life with you all is a joy and a privilege — and something that, even if itself will never be fulfilled, makes life feel very fulfilling indeed.
+But one thing I truly cherish, and hope I’ll never lose, is simply having the opportunity to discuss these questions and ideas with others. None of us are alone; we all exist together. Being in perpetual search of the good life with you all is a joy and a privilege – and something that, even if itself will never be fulfilled, makes life feel very fulfilling indeed.
 
 ## Join future conversations by signing up to the Philosophy Break newsletter (free)
 

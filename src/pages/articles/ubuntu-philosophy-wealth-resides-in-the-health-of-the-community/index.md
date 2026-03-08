@@ -27,7 +27,7 @@ This kind of thinking underpins what anthropologists sometimes call ‘gift econ
 
 >\[G]ift economies \[are] an antecedent alternative to market economies, another way of ‘organizing ourselves to sustain life.’ In a gift economy, wealth is understood as having enough to share, and the practice for dealing with abundance is to give it away. In fact, status is determined not by how much one accumulates, but by how much one gives away. The currency in a gift economy is relationship, which is expressed as gratitude, as interdependence and the ongoing cycles of reciprocity. A gift economy nurtures the community bonds that enhance mutual well-being; the economic unit is ‘we’ rather than ‘I’, as all flourishing is mutual.
 
-While Kimmerer’s book is rooted in a North American ecology, it matches a key teaching of the southern African philosophy of Ubuntu: life is best understood — and approached — through the lens of ‘we’ rather than ‘I’.
+While Kimmerer’s book is rooted in a North American ecology, it matches a key teaching of the southern African philosophy of Ubuntu: life is best understood – and approached – through the lens of ‘we’ rather than ‘I’.
 
 ## Ubuntu: a person is a person through other persons
 
@@ -51,7 +51,7 @@ Ubuntu thus reorients our conception of things like health, wealth, and success 
 
 Consider the context of a loving family. If a particular member of the family enters a challenging period, it impacts the lived experience of all other members, who will generally do anything in their power to lend help and support.
 
-Ubuntu extends this natural family-like responsibility and care to the wider community. By exhibiting compassion, generosity, and kindness in our dealings with others — by _identifying with_ and _standing for_ those with whom we live — we cultivate our fundamental humanity. 
+Ubuntu extends this natural family-like responsibility and care to the wider community. By exhibiting compassion, generosity, and kindness in our dealings with others – by _identifying with_ and _standing for_ those with whom we live – we cultivate our fundamental humanity. 
 
 ## What does it mean to be wealthy?
 
@@ -75,7 +75,7 @@ Flourishing only happens to those who uphold and are upheld by others, ubuntu te
 
 After all, we each entered life not as savvy money spinners, but as vulnerable new members of a miraculous human community, in dire need of love, support, and care.
 
-A truly rich life — a life in accord with nature — thus probably isn’t achieved through endless private accumulation. Perhaps the most valuable investment we can possibly make is our investment in others.
+A truly rich life – a life in accord with nature – thus probably isn’t achieved through endless private accumulation. Perhaps the most valuable investment we can possibly make is our investment in others.
 
 Thinking in line with ubuntu helps us see that we ease the problems of self not when we give into its egoistic fears and insecurities, but when we escape its confines, get out into the world, and connect as much as we can to those around us. Just as we were born to do.
 

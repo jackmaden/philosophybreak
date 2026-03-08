@@ -1,23 +1,24 @@
 ---
-title: "The Stoics on What to Do When the World Feels Broken"
+title: "Living When the World Feels Broken: the Stoics and Toni Morrison"
 description: 'The Stoics, Toni Morrison, and Jane Goodall on facing uncertain times with collective strength and understanding, rather than isolated pain and fear…'
-image: "./monet.jpg"
-imageAlt: "Claude Monet, Meules (1890 - 1891)"
-imageSeo: "./monet.jpg"
+image: "./sophia.jpg"
+imageAlt: "St. Sophia the Almighty Wisdom, by Nicholas Roerich (1932)"
+imageSeo: "./sophia.jpg"
 tags: ["Ethics", "Stoicism"]
-date: "2024-11-11"
+date: "2026-03-08"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;St. Sophia the Almighty Wisdom, by Nicholas Roerich (1932), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:St_Sophia_the_Almighty_Wisdom.jpg">via Wikimedia Commons</a></p>
 
 <span class="big-letter">W</span>hatever your politics, wherever you are in the world, perhaps we can all agree that at this moment in time, things feel a little divided and unsettled.
 
-Nations at war, politicians hurling vitriol, citizens snarling at one another online — all against a backdrop of ecosystems quietly disappearing from the planet, never to be seen again.
+Nations at war, politicians hurling vitriol, citizens snarling at one another online – all against a backdrop of ecosystems quietly disappearing from the planet, never to be seen again.
 
 24-hour news cycles only compound the angst such events might cause. Turn on the TV, look at your phone, and you’ll likely find another catastrophe ready and waiting to grip your attention.
 
-The carefully packaged content, incentivized and thus designed to trap your eyeballs, keeps you locked in a perpetual state of anxiety for more information. You consume it like seawater, knowing it will never quite quench your thirst, but unable to control the urge to drink…
+The carefully packaged content, incentivized and thus designed to trap our eyeballs, keeps us locked in a perpetual state of anxiety for more information. We consume it like seawater, knowing it will never quite quench our thirst, but unable to control the urge to drink.
 
 As the 20th-century philosopher Hannah Arendt laments in her collection of essays, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3YGm5qV">Thinking Without A Banister</a>:
 
@@ -33,9 +34,9 @@ But perhaps this seems a little quick: we cannot simply ‘turn off’ our anxie
 
 The Stoics don’t ask us to ignore our feelings, however; they just want us to reframe them constructively.
 
-Our horror towards a catastrophic news story is perfectly natural, Seneca reassures us. In his discussion of [Stoicism and emotions](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), he describes such reactions as ‘first movements’. Shock, fear, angst — these are all natural physiological reactions that simply happen to us, and over which we have no control.
+Our horror towards a catastrophic news story is perfectly natural, Seneca reassures us. In his discussion of [Stoicism and emotions](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/), he describes such reactions as ‘first movements’. Shock, fear, angst: these are all natural physiological reactions that simply happen to us, and over which we have no control.
 
-The crucial point — for both Epictetus and Seneca — is what we do next.
+The crucial point – for both Epictetus and Seneca – is what we do next.
 
 Do we let the ‘first movement’ snowball into an irrational, uncontrollable, life-destroying emotion of hopelessness, rage, despair? Or do we attempt to rally our feelings under the banner of sound judgment?
 
@@ -45,7 +46,7 @@ Marcus Aurelius offers sage advice for how we can temper unsettled feelings, wri
 
 The future might feel dangerous or bleak, but it’s also ultimately unknowable. We’ll handle what happens when it happens; it’s the present that needs us right now.
 
-We can bring our attention back to the present by asking: am I actually in danger _at this moment?_ Do I face a truly insurmountable task _right now?_ Marcus thinks we’ll be “embarrassed” to answer — because, in the majority of cases, we’ll be forced to acknowledge that we’ve been carried off not by reality, but by our untethered, unhelpful, _unnecessary_ imaginings about the future. 
+We can bring our attention back to the present by asking: am I actually in danger _at this moment?_ Do I face a truly insurmountable task _right now?_ Marcus thinks we’ll be “embarrassed” to answer: in the majority of cases, we’ll be forced to acknowledge that we’ve been carried off not by reality, but by our untethered, unhelpful, _unnecessary_ imaginings about the future. 
 
 This sense of _embarrassment_ is echoed by the great writer Toni Morrison, who in a 2015 essay for _The Nation_ urges that our response to crises should have, as the essay’s title has it, [No Place for Self Pity, No Room for Fear](https://www.thenation.com/article/archive/no-place-self-pity-no-room-fear/).
 
@@ -53,9 +54,9 @@ Morrison recalls how her own disillusionment with the world provoked a swift rej
 
 In a rousing series of passages, Morrison writes:
 
->I am staring out of the window in an extremely dark mood, feeling helpless. Then a friend, a fellow artist, calls to wish me happy holidays. He asks, “How are you?” And instead of “Oh, fine — and you?”, I blurt out the truth: “Not well. Not only am I depressed, I can’t seem to work, to write; it’s as though I am paralyzed, unable to write anything more in the novel I’ve begun. I’ve never felt this way before…” I am about to explain with further detail when he interrupts, shouting: “No! No, no, no! This is precisely the time when artists go to work — not when everything is fine, but in times of dread. That’s our job!”<br><br>I felt foolish the rest of the morning, especially when I recalled the artists who had done their work in gulags, prison cells, hospital beds; who did their work while hounded, exiled, reviled, pilloried. And those who were executed…<br><br>…This is precisely the time when artists go to work. There is no time for despair, no place for self-pity, no need for silence, no room for fear. We speak, we write, we do language. That is how civilizations heal.<br><br>I know the world is bruised and bleeding, and though it is important not to ignore its pain, it is also critical to refuse to succumb to its malevolence. Like failure, chaos contains information that can lead to knowledge — even wisdom. Like art.
+>I am staring out of the window in an extremely dark mood, feeling helpless. Then a friend, a fellow artist, calls to wish me happy holidays. He asks, “How are you?” And instead of “Oh, fine – and you?”, I blurt out the truth: “Not well. Not only am I depressed, I can’t seem to work, to write; it’s as though I am paralyzed, unable to write anything more in the novel I’ve begun. I’ve never felt this way before…” I am about to explain with further detail when he interrupts, shouting: “No! No, no, no! This is precisely the time when artists go to work – not when everything is fine, but in times of dread. That’s our job!”<br><br>I felt foolish the rest of the morning, especially when I recalled the artists who had done their work in gulags, prison cells, hospital beds; who did their work while hounded, exiled, reviled, pilloried. And those who were executed…<br><br>…This is precisely the time when artists go to work. There is no time for despair, no place for self-pity, no need for silence, no room for fear. We speak, we write, we do language. That is how civilizations heal.<br><br>I know the world is bruised and bleeding, and though it is important not to ignore its pain, it is also critical to refuse to succumb to its malevolence. Like failure, chaos contains information that can lead to knowledge – even wisdom. Like art.
 
-We may be tempted to shrink from an uncertain, divided world. We may want to retreat to our inner citadels and look after ourselves. But, while self-care is important, we must also recognize — with Morrison — that the greatest liberator of fear and anxiety is _action._
+We may be tempted to shrink from an uncertain, divided world. We may want to retreat to our inner citadels and look after ourselves. But, while self-care is important, we must also recognize – with Morrison – that the greatest liberator of fear and anxiety is _action._
 
 This is often what’s forgotten about Stoic philosophy, too. Yes, we turn inwards first; yes, we release our attachment to everything outside our personal control; yes, we focus on tempering and improving ourselves.
 
@@ -69,7 +70,7 @@ We are all interconnected, say the Stoics, all part of one world community, and 
 
 >Be like a vine that produces grapes without looking for anything in return.
 
-Stoic cosmopolitanism operates on the belief — the hope — that a grand collective of such vines will build a better world, a world more aligned to the rational order of the cosmos (_logos_).
+Stoic cosmopolitanism operates on the belief – the hope – that a grand collective of such vines will build a better world, a world more aligned to the rational order of the cosmos (_logos_).
 
 Describing it as _hope_ might, in a Stoic context, be controversial; but I don’t mean the kind of passive hope that yearns for better times and is devastated if they don’t arrive. Such careless attachment to ‘externals’ is, of course, anathema to the Stoic.
 
@@ -85,7 +86,7 @@ After all, as the 18th-century Irish novelist Maria Edgeworth puts it,
 
 >Those who are animated by hope can perform what would seem impossibilities to those who are under the depressing influence of fear.
 
-Heidegger thought [​personal catastrophe was an opportunity to take stock and return to a more authentic life path](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)​. Perhaps this spirit of renewal applies to society, too…
+Heidegger thought [​personal catastrophe was an opportunity to take stock and return to a more authentic life path](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)​. Perhaps this spirit of renewal applies to society, too.
 
 So take all the time you need. Turn inward. Put down your phone. Collect moments with loved ones. Inhale big lungfuls of air. Recalibrate your wellbeing so that it’s attached less to wider circumstances, and more to _your_ efforts within those circumstances…
 

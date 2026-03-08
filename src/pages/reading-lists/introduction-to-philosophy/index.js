@@ -32,11 +32,11 @@ const ReadingList = ({ data, location }) => {
                 <p><span className="big-letter">P</span>hilosophy literally means ‘love of wisdom’, but defining it beyond this becomes a little tricky. In a nutshell, philosophy concerns itself with deep, fundamental questions: from how best we should live our lives, to the basic nature of the worlds we live in.</p>
                 
                 <p>But within this nutshell resides a whole universe of feeling, reason, and meaning (for a fuller exploration, see our quick explainers on <Link to="/what-is-philosophy-definition-4-core-branches/">what philosophy is</Link> and <Link to="/why-is-philosophy-important-today/">why philosophy is important today</Link>). Considering such mammoth subject matter, it's difficult to know where to start.</p>
-                <p>But fear not! This reading list contains the best general introductions to philosophy. Each book discusses the enduring questions philosophers have tackled throughout history — questions you have probably wondered about yourself. You know the ones. <Link to="/articles/why-does-anything-exist/">Why does anything exist?</Link> What's the right thing to do? <Link to="/articles/is-the-world-around-us-real/">Is the world around us ‘real’?</Link></p>
+                <p>But fear not! This reading list contains the best general introductions to philosophy. Each book discusses the enduring questions philosophers have tackled throughout history – questions you have probably wondered about yourself. You know the ones. <Link to="/articles/why-does-anything-exist/">Why does anything exist?</Link> What's the right thing to do? <Link to="/articles/is-the-world-around-us-real/">Is the world around us ‘real’?</Link></p>
 
                 <BigSubscribe />
 
-                <p>The aim of philosophy is not necessarily to give you the answers to these questions, but rather to equip you with the right tools to perform your own investigation — and discover the answers for yourself. By introducing the approaches of philosophy's best minds, the books on this list set you on that path.</p>
+                <p>The aim of philosophy is not necessarily to give you the answers to these questions, but rather to equip you with the right tools to perform your own investigation – and discover the answers for yourself. By introducing the approaches of philosophy's best minds, the books on this list set you on that path.</p>
 
                 <h2>1. What Does It All Mean? By Thomas Nagel</h2>
                 <BookLink title="What Does It All Mean?" author="Thomas Nagel" link="http://www.amazon.com/gp/product/0195052161/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0195052161&linkId=37e9c1b9904009913b6ab114bca378f7" img={data.one.childImageSharp.gatsbyImageData} />
@@ -61,14 +61,14 @@ const ReadingList = ({ data, location }) => {
                 </div>
                 <p><Link to="/lifes-big-questions/">Life’s Big Questions</Link> distills philosophy’s best answers to some of life’s most troubling questions. Why does anything exist? Is the world around us ‘real’? What makes us conscious? Do we have free will? How should we approach life? Packed full of wisdom from the greatest philosophical minds of the last few millennia, this concise online guide is designed to quickly equip you with philosophy’s most important insights.</p>
                 
-                <p>Of course, we’re a little biased, as we produced this one — but if you’re seeking to understand the fundamentals of philosophy, and obtain a solid grounding for exactly where you can go to learn more, <Link to="/lifes-big-questions/">Life’s Big Questions</Link> gets rave reviews, and might be just what you’re looking for!</p>
+                <p>Of course, we’re a little biased, as we produced this one – but if you’re seeking to understand the fundamentals of philosophy, and obtain a solid grounding for exactly where you can go to learn more, <Link to="/lifes-big-questions/">Life’s Big Questions</Link> gets rave reviews, and might be just what you’re looking for!</p>
                 
 
                 <h2>3. The Problems of Philosophy, by Bertrand Russell</h2>
                 <BookLink title="The Problems of Philosophy" author="Bertrand Russell" link="http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043" img={data.two.childImageSharp.gatsbyImageData} />
                 <p>Bertrand Russell was a towering figure of the 20th century. Though <Link to="/reading-lists/history-of-western-philosophy">The History of Western Philosophy</Link> is perhaps his better-known work for the general reader, Russell wrote <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043">The Problems of Philosophy</a> in 1912 as a short, accessible introduction to the subject. He presents philosophy in engaging and relevant ways that ignite the curiosity of the reader.</p>
                 
-                <p><a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043">The Problems of Philosophy</a> can be enjoyed in an evening, and — spoiler alert — you’ll never look at tables the same way again.</p>
+                <p><a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/1724202359/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1724202359&linkId=fe8466982d5b2c4a09e08c55e2888043">The Problems of Philosophy</a> can be enjoyed in an evening, and – spoiler alert – you’ll never look at tables the same way again.</p>
 
                 <h2>4. How to Live a Good Life (According to 7 of the World’s Wisest Philosophies), by Philosophy Break</h2>
                   <div className="article white">
@@ -82,8 +82,8 @@ const ReadingList = ({ data, location }) => {
                             </div>
                         </Link>
                     </div>
-                    <p>If your interest in philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks — including Buddhism, Stoicism, Existentialism, and more — examine the pros and cons of each, and discover how they might apply to your own life.</p>
-                    <p>Of course, we’re a little biased, as we produced this one, too — but <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and could be just what you’re after!</p>
+                    <p>If your interest in philosophy falls mostly into the more practical ‘how can I live a good life?’ category, then the 2026 <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> is for you. This concise online guide is designed to help you understand some of life’s most influential ethical frameworks – including Buddhism, Stoicism, Existentialism, and more – examine the pros and cons of each, and discover how they might apply to your own life.</p>
+                    <p>Of course, we’re a little biased, as we produced this one, too – but <Link to="/how-to-live-a-good-life/">How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)</Link> gets rave reviews, is better value than buying introductory books for all philosophies covered, and could be just what you’re after!</p>
                 
 
                 <h2>5. Think: A Compelling Introduction to Philosophy, by Simon Blackburn</h2>

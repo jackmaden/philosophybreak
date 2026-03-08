@@ -11,7 +11,7 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">M</span>any philosophies operate under the assumption that _suffering is bad_. The ultimate goal for Buddhism, for instance, as made clear by the [Buddha’s parable of the poisoned arrow](/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/), is the cessation of personal suffering through acceptance and enlightenment. The Stoics, meanwhile, seek to eradicate suffering from our lives through rationalization — particularly the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/).
+<span class="big-letter">M</span>any philosophies operate under the assumption that _suffering is bad_. The ultimate goal for Buddhism, for instance, as made clear by the [Buddha’s parable of the poisoned arrow](/articles/the-buddha-on-ending-suffering-the-parable-of-the-poisoned-arrow/), is the cessation of personal suffering through acceptance and enlightenment. The Stoics, meanwhile, seek to eradicate suffering from our lives through rationalization – particularly the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/).
 	
 19th-century philosopher Friedrich Nietzsche, however, thinks such approaches are wrongheaded: we should reconcile ourselves to suffering not by viewing it as something to transcend, nor as a mistake that can be corrected, but by _affirming_ it as a necessary, indispensable part of a full life.
 
@@ -48,7 +48,7 @@ If there are things in our lives that we value, then Nietzsche wants us to reali
 
 >Suppose that we said yes to a single moment, then we have not only said yes to ourselves, but to the whole of existence. For nothing stands alone, either in ourselves or in things; and if our soul did but once vibrate and resound with a chord of happiness, then all of eternity was necessary to bring forth this one occurrence—and in this single moment when we said yes, all of eternity was embraced, redeemed, justified and affirmed.
 
-Happiness does not exist in isolation; greatness cannot occur without suffering. If we are to affirm life, we must affirm all of it — warts and all. In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Gay-Science-Prelude-Rhymes-Appendix/dp/0394719859?&linkCode=ll1&tag=philosophybre-20&linkId=3c4dafed47ee00e7a6b9e9cfe65378e9&language=en_US&ref_=as_li_ss_tl">The Gay Science</a>, he writes:
+Happiness does not exist in isolation; greatness cannot occur without suffering. If we are to affirm life, we must affirm all of it – warts and all. In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Gay-Science-Prelude-Rhymes-Appendix/dp/0394719859?&linkCode=ll1&tag=philosophybre-20&linkId=3c4dafed47ee00e7a6b9e9cfe65378e9&language=en_US&ref_=as_li_ss_tl">The Gay Science</a>, he writes:
 
 >Only great pain is the ultimate liberator of the spirit…. I doubt that such pain makes us ‘better’; but I know that it makes us more profound.
 

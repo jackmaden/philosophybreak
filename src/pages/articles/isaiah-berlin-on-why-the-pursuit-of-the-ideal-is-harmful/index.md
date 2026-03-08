@@ -17,9 +17,9 @@ Across both ethics and politics, Berlin observes, many people seek to establish 
 
 Berlin argues this approach is misguided: ideals don’t exist. There is not one single way to lead a fully human, fully rational life. 
 
-It is a mistake, for instance, to think of the ‘enlightened’ times across European history — ancient Greece, the Renaissance, the Enlightenment — as representing a common set of values, as resembling a singular thread of reason in the fight against ignorance. 
+It is a mistake, for instance, to think of the ‘enlightened’ times across European history – ancient Greece, the Renaissance, the Enlightenment – as representing a common set of values, as resembling a singular thread of reason in the fight against ignorance. 
 
-For the reality, Berlin argues, is that these ‘enlightened’ times — these bright patches of ‘progress’ — are all fundamentally incompatible with each other. 
+For the reality, Berlin argues, is that these ‘enlightened’ times – these bright patches of ‘progress’ – are all fundamentally incompatible with each other. 
 
 While we may admire the great works of ancient Greece, we cannot compare them to our own, for they were the product of an entirely different set of values, languages, and peoples. 
 
@@ -41,7 +41,7 @@ Acknowledging that we can embody lots of different values, Berlin thinks, is a f
 
 Why? Because every generation of humanity faces a new set of problems, and responds with a new set of values and solutions. Berlin writes:
 
->The children have obtained what their parents and grandparents longed for — greater freedom, greater material welfare, a juster society; but the old ills are forgotten, and the children face new problems, brought about by the very solutions of the old ones, and these, even if they can in turn be solved, generate new situations, and with them new requirements — and so on, for ever — and unpredictably.
+>The children have obtained what their parents and grandparents longed for – greater freedom, greater material welfare, a juster society; but the old ills are forgotten, and the children face new problems, brought about by the very solutions of the old ones, and these, even if they can in turn be solved, generate new situations, and with them new requirements – and so on, for ever – and unpredictably.
 
 Society will constantly have to adapt to new challenges, Berlin thinks. If we enter into a rigid ‘ideal’ state, we will be ill-equipped to respond to such challenges.
 
@@ -66,7 +66,7 @@ Society will constantly have to adapt to new challenges, Berlin thinks. If we en
 
 “Utopias have their value,” Berlin concedes – “nothing so wonderfully expands the imaginative horizons of human potentialities – but as guides to conduct they can prove literally fatal.”
 
-Why fatal? Well, anyone who deludes themselves into thinking there is one ‘final’ version of society that will lead to the flourishing of all — what _won’t_ they do to attain such an end? If the reward is ‘all humans will be happy forever’, what atrocity could _not_ be justified to obtain it? 
+Why fatal? Well, anyone who deludes themselves into thinking there is one ‘final’ version of society that will lead to the flourishing of all – what _won’t_ they do to attain such an end? If the reward is ‘all humans will be happy forever’, what atrocity could _not_ be justified to obtain it? 
 
 The horrors of the 20th century provide their own answers to such questions, Berlin notes.
 
@@ -82,13 +82,13 @@ Commenting on this passage, Berlin starkly adds:
 
 ## How _should_ we organize society?
 
-<span class="big-letter">I</span>f not utopia, then what? Should we cease all idealization? Should we never aspire for more? Berlin thinks the best we can strive for is the maintenance of a somewhat ‘precarious equilibrium’, in which we structure society in ways that help us avoid desperate situations — i.e. in ways that help us ensure one party or person is unable to seize total power and inflict their version of utopia on their citizens.
+<span class="big-letter">I</span>f not utopia, then what? Should we cease all idealization? Should we never aspire for more? Berlin thinks the best we can strive for is the maintenance of a somewhat ‘precarious equilibrium’, in which we structure society in ways that help us avoid desperate situations – i.e. in ways that help us ensure one party or person is unable to seize total power and inflict their version of utopia on their citizens.
 
 This may not seem as exciting a vision as the Perfect State, but Berlin believes it to be an essential precondition for producing a basically decent society and morally acceptable behavior. 
 
-If you’d like to explore Berlin’s view further, you can read his essay in full in <a target="_blank" rel="noopener noreferrer" href="https://isaiah-berlin.wolfson.ox.ac.uk/sites/default/files/2018-09/Bib.196%20-%20Pursuit%20of%20the%20Ideal%20by%20Isaiah%20Berlin_1.pdf">this free PDF</a> (if you have a spare 30-40 minutes, I highly recommend doing so — it’s a fantastic read).
+If you’d like to explore Berlin’s view further, you can read his essay in full in <a target="_blank" rel="noopener noreferrer" href="https://isaiah-berlin.wolfson.ox.ac.uk/sites/default/files/2018-09/Bib.196%20-%20Pursuit%20of%20the%20Ideal%20by%20Isaiah%20Berlin_1.pdf">this free PDF</a> (if you have a spare 30-40 minutes, I highly recommend doing so – it’s a fantastic read).
 
-In the meantime — what do you think of Berlin’s analysis? Do you agree with his ideas around moral pluralism and the dangers of utopia? Or do you think visions of the Ideal provide the impetus for human progress? 
+In the meantime – what do you think of Berlin’s analysis? Do you agree with his ideas around moral pluralism and the dangers of utopia? Or do you think visions of the Ideal provide the impetus for human progress? 
 
 ## Learn more about political philosophy
 

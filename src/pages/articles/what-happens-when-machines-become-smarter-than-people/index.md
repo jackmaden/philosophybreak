@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">W</span>ill machines one day turn on humanity? Will we become slaves, prey, or simply ‘surplus to requirements’ for a superior artificial intelligence?
 
-While such questions may seem to belong to the realm of science fiction, the world-ending potential of AI is becoming an increasingly urgent topic of public and policymaker discussion — mostly due to the rapid ongoing development of popular technologies like ChatGPT.
+While such questions may seem to belong to the realm of science fiction, the world-ending potential of AI is becoming an increasingly urgent topic of public and policymaker discussion – mostly due to the rapid ongoing development of popular technologies like ChatGPT.
 
 The more extreme concerns around AI involve what’s known as the ‘singularity’, a hypothetical point at which the growth of machine intelligence becomes uncontrollable and irreversible.
 
@@ -25,11 +25,11 @@ The more extreme concerns around AI involve what’s known as the ‘singularity
 
 In other words: if we’re capable of creating machines more intelligent than we are, then that generation of machines will in principle be capable of creating machines more intelligent again. 
 
-This could lead to an exponential situation — the singularity — where human intelligence is quickly and irretrievably left far behind by machine intelligence.
+This could lead to an exponential situation – the singularity – where human intelligence is quickly and irretrievably left far behind by machine intelligence.
 
 The main worry is that, if such a singularity event were to occur, we’d no longer have authority or control over what happens in society, for the goals, objectives, and actions of a superintelligent AI would not be predictable by us.
 
-Perhaps the AI would channel all our electricity to power its own intellectual projects. Maybe it would decide to hack our military systems and detonate every single nuclear bomb at once. Vast swathes of humanity could be sacrificed — purposefully or indifferently — in aid of some goal or objective that no human could possibly understand.
+Perhaps the AI would channel all our electricity to power its own intellectual projects. Maybe it would decide to hack our military systems and detonate every single nuclear bomb at once. Vast swathes of humanity could be sacrificed – purposefully or indifferently – in aid of some goal or objective that no human could possibly understand.
 
 While influential figures across AI research and various governments express real concern about the singularity, however, American philosopher Daniel Dennett doesn’t buy it.
 
@@ -92,7 +92,7 @@ So, besides preparing our machines for such space weather, what can we do _cultu
 
 >We should expose and ridicule all gratuitous anthropomorphism in systems, the cute, ever-more-human voices, the perky (but canned) asides. _When you are interacting with a computer, you should know you are interacting with a computer._
 
-We should make it fashionable to identify and point out flaws in systems, Dennett argues. What’s more, we should write it into law that any advertisements for technology must acknowledge all shortcomings in the software — just like healthcare companies are obliged to list side effects.
+We should make it fashionable to identify and point out flaws in systems, Dennett argues. What’s more, we should write it into law that any advertisements for technology must acknowledge all shortcomings in the software – just like healthcare companies are obliged to list side effects.
 
 As Dennett forcefully puts it:
 
@@ -100,7 +100,7 @@ As Dennett forcefully puts it:
 
 This might seem alarmist, but Dennett’s argument should be considered in the context of how societies currently operate.
 
-Comprehension is already spread thinly among various power structures. Politicians know some things; scientists and professors know some things; business leaders know some things; emergency services know some things — but nobody knows everything.
+Comprehension is already spread thinly among various power structures. Politicians know some things; scientists and professors know some things; business leaders know some things; emergency services know some things – but nobody knows everything.
 
 Specialization in society is rife. And if we start ceding that specialist knowledge to machines, then just as society becomes more complex humans will know less about how to deal with it.
 

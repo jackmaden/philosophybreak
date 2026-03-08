@@ -31,19 +31,19 @@ Rather, love seeks possession of the good and the beautiful, Diotima suggests. W
 
 The obvious example is children: through love we procreate and generate lives that survive our own.
 
-But it’s not just through children that we can transmit parts of ourselves into the future, Diotima suggests; it is also through contributions to history, art, poetry, science, and wisdom — great deeds and works, inspired by love and beauty, that echo down the ages.
+But it’s not just through children that we can transmit parts of ourselves into the future, Diotima suggests; it is also through contributions to history, art, poetry, science, and wisdom – great deeds and works, inspired by love and beauty, that echo down the ages.
 
 We might wonder what on earth romantic love has to do with art, science, wisdom, and the accumulation of knowledge.
 
 So, to help expand our vision, Diotima presents us with her famous _scala amoris_, the ladder of love.
 
-By climbing this ladder, we ‘ascend’ from an initially limited appreciation of love and beauty to a sophisticated understanding — one that promises to deepen and enrich our romantic lives.
+By climbing this ladder, we ‘ascend’ from an initially limited appreciation of love and beauty to a sophisticated understanding – one that promises to deepen and enrich our romantic lives.
 
 ## The scala amoris, the ladder of love
 
 <span class="big-letter">A</span>t the ladder’s first rung, Diotima tells us that love begins with erotic desire for the individual: we are drawn to the beauty of someone’s body. From here, we might then extrapolate to a broader ‘type’ of body that we find physically attractive.
 
-But we must soon realize, Diotima observes, that even if we grow to value all kinds of physical beauty, a love based only on bodily beauty — which is neither exclusive nor everlasting — is doomed to be rather shallow and fleeting.
+But we must soon realize, Diotima observes, that even if we grow to value all kinds of physical beauty, a love based only on bodily beauty – which is neither exclusive nor everlasting – is doomed to be rather shallow and fleeting.
 
 Thus our understanding of love matures. We release ourselves from obsessing over the appearance of individual bodies, and climb to the next rung on the ladder: appreciating the beauty in someone’s personality or “soul”.
 
@@ -59,7 +59,7 @@ The discerning lover recognizes that, if we love such qualities, we should reall
 
 Thus we ascend to the next rung: from loving particular personalities, we turn our affectionate gaze to virtuous laws and institutions…
 
-If we’ve been following Diotima up the ladder so far, this might be where our foot begins to hover in midair. _Being in love with laws and institutions — really?_
+If we’ve been following Diotima up the ladder so far, this might be where our foot begins to hover in midair. _Being in love with laws and institutions – really?_
 
 But from virtuous laws and institutions, Diotima beckons us to climb ever further: to a love of the sciences, contemplating “the vast sea of beauty” that is existence, to then revel in a “boundless love of wisdom” more generally, until finally we arrive at the heady heights of the top rung.
 

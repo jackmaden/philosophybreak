@@ -25,7 +25,7 @@ Aristotle acknowledges the contribution of so-called ‘external goods’ like u
 
 As Aristotle puts it in the <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0199213615/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0199213615&linkId=f18186fee7d024481a9574760906cea9">Nicomachean Ethics</a> (which features in my reading list of [Aristotle’s best books](/reading-lists/aristotle/)):
 
->It seems clear that happiness needs the addition of external goods, as we have said; for it is difficult if not impossible to do fine deeds without any resources. Many can be done as it were by instruments — by the help of friends, or wealth, or political influence.
+>It seems clear that happiness needs the addition of external goods, as we have said; for it is difficult if not impossible to do fine deeds without any resources. Many can be done as it were by instruments – by the help of friends, or wealth, or political influence.
 
 Importantly, Aristotle doesn’t think such goods _make_ us happy; only excellent character and activity makes us happy.
 
@@ -41,7 +41,7 @@ So, while Aristotle thinks excellence is necessary but not sufficient for the go
 
 This means that even if you are entirely destitute, friendless, and live in a war zone, happiness is within your power, say the Stoics, for the good life depends only on forming and expressing excellent character.
 
-Live virtuously, live in accordance with your rational nature, practice [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/) and the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), and — regardless of everything else — you will have lived a good life.
+Live virtuously, live in accordance with your rational nature, practice [_amor fati_](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/) and the [dichotomy of control](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/), and – regardless of everything else – you will have lived a good life.
 
 ## Preferred indifferents
 
@@ -66,13 +66,13 @@ The Stoics tackle this concern by introducing the terminology of so-called ‘pr
     </div>
 </div>
 
-Sure, we might prefer to be healthy rather than sick, educated rather than ignorant — but these make no difference to our ability to be good people or live lives of moral integrity, say the Stoics. 
+Sure, we might prefer to be healthy rather than sick, educated rather than ignorant – but these make no difference to our ability to be good people or live lives of moral integrity, say the Stoics. 
 
-Health and wealth are thus _preferred indifferents_. They may be nice on their own terms — i.e. we may ‘prefer’ them to their opposites — but they are in a different category altogether to virtue.
+Health and wealth are thus _preferred indifferents_. They may be nice on their own terms – i.e. we may ‘prefer’ them to their opposites – but they are in a different category altogether to virtue.
 
 Someone who wins a million dollars doesn’t suddenly become a good person; someone whose health suffers doesn’t suddenly lack virtue.
 
-Externals make no difference to the control we have over our characters (save perhaps the extreme case of a brain-debilitating illness) — and it is the quality of our characters, the Stoics say, that determines our happiness. 
+Externals make no difference to the control we have over our characters (save perhaps the extreme case of a brain-debilitating illness) – and it is the quality of our characters, the Stoics say, that determines our happiness. 
 
 Even if we go through a challenging period, that doesn’t give us license to let our characters slip: indeed, the quality of our characters should not depend on the quality of our circumstances. 
 
@@ -82,7 +82,7 @@ As Epictetus puts it in the <a target="_blank" rel="noopener noreferrer sponsore
 
 ## The key difference between Aristotle and the Stoics
 
-<span class="big-letter">T</span>he Stoics thus think happiness is available to all — and that it lies wholly within our power. Live in accordance with your rational nature, demonstrate the excellence of your character whatever your circumstances, and happiness — knowing you’ve done the best you can — will be yours.
+<span class="big-letter">T</span>he Stoics thus think happiness is available to all – and that it lies wholly within our power. Live in accordance with your rational nature, demonstrate the excellence of your character whatever your circumstances, and happiness – knowing you’ve done the best you can – will be yours.
 
 As Epictetus puts it:
 
@@ -94,7 +94,7 @@ For Aristotle, then, the happy person possesses not just excellent character, bu
 
 Perhaps we might find Aristotle’s view a more realistic conception of the good life.
 
-Or perhaps we might agree with the implied Stoic response: that the value of someone’s life — and the limits of their happiness — should not be judged or imposed according to circumstances outside their control.
+Or perhaps we might agree with the implied Stoic response: that the value of someone’s life – and the limits of their happiness – should not be judged or imposed according to circumstances outside their control.
 
 ## What do you think? Do you side with Aristotle or the Stoics?
 
@@ -106,7 +106,7 @@ Or perhaps we might agree with the implied Stoic response: that the value of som
 
 ## Learn more about Aristotle and the Stoics’ approaches to the good life
 
-<span class="big-letter">I</span>f you’re interested in learning more about Aristotle, the Stoics, and five other major philosophical approaches to the good life — including Buddhism, Confucianism, and Existentialism — you might like my [How to Live a Good Life guide](/how-to-live-a-good-life/).
+<span class="big-letter">I</span>f you’re interested in learning more about Aristotle, the Stoics, and five other major philosophical approaches to the good life – including Buddhism, Confucianism, and Existentialism – you might like my [How to Live a Good Life guide](/how-to-live-a-good-life/).
 
 You might also enjoy the following related reads:
 

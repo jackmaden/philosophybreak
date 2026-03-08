@@ -21,7 +21,7 @@ In his 1943 work <a target="_blank" rel="noopener noreferrer sponsored" href="ht
 
 The waiter’s movement, Sartre writes, is “a little too precise, a little too rapid,” and he interacts with customers “a little too eagerly…a little too solicitous.” 
 
-Watching him, we feel a certain uncanniness — that something’s not quite right, Sartre says:
+Watching him, we feel a certain uncanniness – that something’s not quite right, Sartre says:
 
 >We need not watch long before we can explain it: he is playing at being a waiter in a café.
 
@@ -29,7 +29,7 @@ In other words, the waiter is so intent on perfectly acting out the role of wait
 
 As the contemporary philosopher Skye Cleary puts it in a 2020 essay on existentialism:
 
->A waiter can play at it, but to believe that one _is_ a role is bad faith because we are always becoming and growing, and so to view ourselves as some kind of fixed entity is to fool ourselves. It is to be a thing — like a rock — rather than a person with intentions and projects, with a past and a future.
+>A waiter can play at it, but to believe that one _is_ a role is bad faith because we are always becoming and growing, and so to view ourselves as some kind of fixed entity is to fool ourselves. It is to be a thing – like a rock – rather than a person with intentions and projects, with a past and a future.
 
 The waiter, we might think, is just doing his job. But Sartre’s point here is that we must be careful not to collapse our boundless existential potential into things _like_ our jobs. 
 
@@ -39,21 +39,21 @@ Though Sartre’s use of a waiter is often criticized (indeed, there Sartre was 
 
 In fact, we spend far more time living according to (and viewing ourselves in terms of) these kinds of passive, predefined social roles than we might care to admit. 
 
-For it is not just waiters or jobs: anything that boxes us into a particular mode of thinking or behaving, be it a particular label, expectation, or role — all are ways in which, rather than live for ourselves, we imitate something _static_.
+For it is not just waiters or jobs: anything that boxes us into a particular mode of thinking or behaving, be it a particular label, expectation, or role – all are ways in which, rather than live for ourselves, we imitate something _static_.
 
 And to imitate something static is to deny our own freedom as dynamic beings: by succumbing to social pressure and tacitly conforming to fixed, predefined roles, we deny ourselves the possibility of ever actually _using_ our freedom. 
 
-Clothed in garments that are not our own, we live in hiding from ourselves. Playing roles, we are unnatural, inauthentic — or, as Holden Caulfield might put it, _phony_.
+Clothed in garments that are not our own, we live in hiding from ourselves. Playing roles, we are unnatural, inauthentic – or, as Holden Caulfield might put it, _phony_.
 
 ## ‘Bad faith’
 
-<span class="big-letter">S</span>artre thus thinks we must be careful not to spend our whole lives acting out various social roles or fixing our perception of ourselves to certain descriptors — the sporty one, the career-driven one, the funny one, the parent — for doing so leads to suffering. 
+<span class="big-letter">S</span>artre thus thinks we must be careful not to spend our whole lives acting out various social roles or fixing our perception of ourselves to certain descriptors – the sporty one, the career-driven one, the funny one, the parent – for doing so leads to suffering. 
 
-This suffering — felt as angst, anxiety, or as a kind of alienation from ourselves — arises from the fact that we foreclose possibilities to authentically grow and continue becoming. 
+This suffering – felt as angst, anxiety, or as a kind of alienation from ourselves – arises from the fact that we foreclose possibilities to authentically grow and continue becoming. 
 
 By clinging to identity, we shrink and limit ourselves: by denying our existential potential, we live in what Sartre calls ‘bad faith’.
 
-To live in bad faith is to deceive ourselves about the limits of our own freedom: it is to convince ourselves that we have to be a certain way, _or else_ — when really there are far more possibilities available to us.
+To live in bad faith is to deceive ourselves about the limits of our own freedom: it is to convince ourselves that we have to be a certain way, _or else_ – when really there are far more possibilities available to us.
 
 Indeed, as [Heidegger notes in his discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/), though our lives take place in the wider context of society (and everything we must do to forge a life for ourselves and our loved ones), bad faith arises from _self-imposed_ constraints on how we view ourselves or spend our lives: bad faith is the denial of our _own_ freedom.
 
@@ -78,21 +78,21 @@ Indeed, as [Heidegger notes in his discussion of authenticity](/articles/heidegg
 
 <span class="big-letter">T</span>o illuminate this further, Sartre distinguishes between a thing ‘in-itself’ (_en-soi_) and a being ‘for-itself’ (_pour-soi_). Inanimate objects like rocks are the former; intentional beings like humans are the latter. 
 
-The harm of fixed identities is that they reduce our dynamic subjectivity to a static objectivity: we are diminished from _pour-soi_ to _en-soi_ — rather than beings, we become _things_. 
+The harm of fixed identities is that they reduce our dynamic subjectivity to a static objectivity: we are diminished from _pour-soi_ to _en-soi_ – rather than beings, we become _things_. 
 
 Interestingly, Sartre thought a certain ‘look’ from another person could have the same effect: in noticing the look, we see ourselves from the perspective of the ‘other’, and self-consciously collapse from _pour-soi_ (a being) to _en-soi_ (a thing). Hence one interpretation of Sartre’s famous line, “Hell is other people.”
 
-Conforming to socially recognized roles is an understandable — even inevitable — form of self-deception, for it can be comforting to think there is something secure about who we are, that we ‘fit’ in society and that nothing can change us. (In her succinct analysis of [authentic love, Simone de Beauvoir discusses this further](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)).
+Conforming to socially recognized roles is an understandable – even inevitable – form of self-deception, for it can be comforting to think there is something secure about who we are, that we ‘fit’ in society and that nothing can change us. (In her succinct analysis of [authentic love, Simone de Beauvoir discusses this further](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)).
 
-But to be _consumed_ by such roles — to _limit our own view of ourselves_ to such roles — is to live like a _thing_. It is to deny our true humanity, to deny that we are self-making beings who, rather than statically exist in ourselves (_en-soi_), dynamically live _for_ ourselves (_pour-soi_).
+But to be _consumed_ by such roles – to _limit our own view of ourselves_ to such roles – is to live like a _thing_. It is to deny our true humanity, to deny that we are self-making beings who, rather than statically exist in ourselves (_en-soi_), dynamically live _for_ ourselves (_pour-soi_).
 
 ## Living authentically
 
 <span class="big-letter">L</span>iving in bad faith means we have become passively detached from life, ignoring all the freedom at our disposal. In our social lives, jobs, and even at leisure, we ‘switch ourselves off’.
 
-If we want to liberate ourselves from bad faith and live authentically, Sartre says, we must resist the temptation of approaching life via predefined, self-limiting roles — of reducing ourselves down to _things_.
+If we want to liberate ourselves from bad faith and live authentically, Sartre says, we must resist the temptation of approaching life via predefined, self-limiting roles – of reducing ourselves down to _things_.
 
-Instead, though it initially may feel uncomfortable or disruptive, we shouldn’t be afraid to acknowledge and take responsibility for — rather than deny or ignore — our dynamic human freedom, and all the possible ways of becoming available to us.
+Instead, though it initially may feel uncomfortable or disruptive, we shouldn’t be afraid to acknowledge and take responsibility for – rather than deny or ignore – our dynamic human freedom, and all the possible ways of becoming available to us.
 
 ## What do you make of Sartre’s analysis? 
 

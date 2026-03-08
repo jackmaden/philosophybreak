@@ -31,13 +31,13 @@ In his (concisely titled) 1757 treatise, _A Philosophical Enquiry into the Origi
 
 <span class="big-letter">B</span>urke thinks the sublime can rouse our “strongest passion”, holding a transformative power that distinguishes it from mere beauty.
 
-Beauty, Burke writes, typically involves small, delicate, pleasure-inducing phenomena — an orchid, a curved china pot.
+Beauty, Burke writes, typically involves small, delicate, pleasure-inducing phenomena – an orchid, a curved china pot.
 
-The sublime, by contrast, arises from things vast, powerful, threatening — things that could do us real harm.
+The sublime, by contrast, arises from things vast, powerful, threatening – things that could do us real harm.
 
 Crucially, however, while it involves dangerous things, the sublime “should have no idea of danger connected with it.”
 
-In other words, there should be no _imminent_ danger to us — the thrill of the sublime arises when abstract terror occurs within the comfort of personal safety. 
+In other words, there should be no _imminent_ danger to us – the thrill of the sublime arises when abstract terror occurs within the comfort of personal safety. 
 
 So: watching the raging sea from the peace of the shoreline, rather than being thrown among the waves; feeling the relentless enormity and secrecy of the cosmos during a total eclipse, while safely inside Earth’s atmosphere; being _reminded_ of our tiny precarious fragility, without actually having it crushed…
 
@@ -64,21 +64,21 @@ As Burke writes:
 
 Indeed, unlike beauty, the sublime activates something deep in us, a “violent emotion of the nerves”, stemming from a primal need for survival.
 
-Confronted by mind-defying power, shaken out of our puny human complacency, dormant parts of our psyches get a workout — _we feel alive_.
+Confronted by mind-defying power, shaken out of our puny human complacency, dormant parts of our psyches get a workout – _we feel alive_.
 
-This is why infinity itself — something of which we cannot “perceive the bounds” — is perhaps the strongest source of the sublime, Burke writes:
+This is why infinity itself – something of which we cannot “perceive the bounds” – is perhaps the strongest source of the sublime, Burke writes:
 
 >Infinity has a tendency to fill the mind with that sort of delightful horror, which is the most genuine effect, and truest test of the sublime.
 
 ## The sublime’s influence on Romanticism
 
-<span class="big-letter">P</span>erhaps unsurprisingly, the feeling captured by Burke’s concept of the sublime has been a central point of inspiration for poets, painters, and musicians over the centuries — and held particular importance for the artistic movement of Romanticism. 
+<span class="big-letter">P</span>erhaps unsurprisingly, the feeling captured by Burke’s concept of the sublime has been a central point of inspiration for poets, painters, and musicians over the centuries – and held particular importance for the artistic movement of Romanticism. 
 
 In an essay on the sublime, the Romantic poet William Wordsworth writes that 
 
 >the mind \[tries] to grasp at something towards which it can make approaches but which it is incapable of attaining.
 
-Wordsworth evokes this fleeting brush with greatness — the intangibility of the sublime — in his 1798 poem, _Lines Written a Few Miles above Tintern Abbey:_ 
+Wordsworth evokes this fleeting brush with greatness – the intangibility of the sublime – in his 1798 poem, _Lines Written a Few Miles above Tintern Abbey:_ 
 
 >Of aspect more sublime; that blessed mood,<br>In which the burden of the mystery<br>In which the heavy and weary weight<br>Of all this unintelligible world,<br>Is lightened
 

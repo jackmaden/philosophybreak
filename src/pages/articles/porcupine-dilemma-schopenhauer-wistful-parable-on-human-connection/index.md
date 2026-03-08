@@ -35,7 +35,7 @@ Insufferable drawbacks! One gets the sense that Schopenhauer was a very prickly 
 
 But back to the point he is making: while we might seek human connection, trying to be intimate or vulnerable with others often leads to frustration and disappointment. 
 
-We scratch and annoy each other with our varying needs and opinions, before — like the porcupines — settling on a compromise, Schopenhauer writes:
+We scratch and annoy each other with our varying needs and opinions, before – like the porcupines – settling on a compromise, Schopenhauer writes:
 
 >The mean distance which \[people] finally discover, and which enables them to endure being together, is politeness and good manners. Whoever does not keep to this, is told in England to ‘_keep his distance_.’ By virtue thereof, it is true that the need for mutual warmth will be only imperfectly satisfied, but on the other hand, the prick of the quills will not be felt.
 
@@ -47,7 +47,7 @@ Thus the dilemma: we seek out genuine connection, but can often only tolerate a 
 
 <span class="big-letter">I</span>f here we think Schopenhauer will provide us with some interesting strategies for how we might _overcome_ the needles of closeness and go on to forge true intimacy, then unfortunately we will be left bitterly disappointed.
 
-For instead, Schopenhauer — great pessimist that he is — actually goes in the other direction. Rather than put up with people’s infuriating ways, he thinks we should cut our losses and _withdraw altogether into solitude_, and focus on generating some warmth for ourselves. He writes: 
+For instead, Schopenhauer – great pessimist that he is – actually goes in the other direction. Rather than put up with people’s infuriating ways, he thinks we should cut our losses and _withdraw altogether into solitude_, and focus on generating some warmth for ourselves. He writes: 
 
 >Yet whoever has a great deal of internal warmth of his own will prefer to keep away from society in order to avoid giving or receiving trouble or annoyance.
 
@@ -55,7 +55,7 @@ Indeed, who needs the company of others when one can enjoy one’s _own_ company
 
 For, he goes on to write, solitude can be made ever more blissful the more we develop our intellects and deepen our appreciation of art. 
 
-We can spend our time reading, listening to music — appreciating the best cultural achievements of humanity — without ever having to actually contend with or be annoyed by _any other humans themselves._
+We can spend our time reading, listening to music – appreciating the best cultural achievements of humanity – without ever having to actually contend with or be annoyed by _any other humans themselves._
 
 <!--small subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">
@@ -76,9 +76,9 @@ We can spend our time reading, listening to music — appreciating the best cult
 
 In another essay on self-sufficiency, Schopenhauer doubles down on this position, writing:
 
->As a general rule, it may be said that a man’s sociability stands very nearly in inverse ratio to his intellectual value: to say that ‘so and so’ is very unsociable, is almost tantamount to saying that he is a man of great capacity. Solitude is doubly advantageous to such a man. Firstly, it allows him to be with himself, and, secondly, it prevents him being with others — an advantage of great moment; for how much constraint, annoyance, and even danger there is in all intercourse with the world.
+>As a general rule, it may be said that a man’s sociability stands very nearly in inverse ratio to his intellectual value: to say that ‘so and so’ is very unsociable, is almost tantamount to saying that he is a man of great capacity. Solitude is doubly advantageous to such a man. Firstly, it allows him to be with himself, and, secondly, it prevents him being with others – an advantage of great moment; for how much constraint, annoyance, and even danger there is in all intercourse with the world.
 
-Of course, it is rather convenient that Schopenhauer attacks sociability and praises the intellect of those who embrace solitude — for he himself lived a life primarily of isolation (the philosopher never married, had a famously hostile relationship with his mother, and was notoriously bad tempered). 
+Of course, it is rather convenient that Schopenhauer attacks sociability and praises the intellect of those who embrace solitude – for he himself lived a life primarily of isolation (the philosopher never married, had a famously hostile relationship with his mother, and was notoriously bad tempered). 
 
 But however we may feel about Schopenhauer’s own prickliness, his parable lit the imagination of Sigmund Freud, who popularized it as the ‘porcupine dilemma’ (or ‘hedgehog dilemma’, as it’s now sometimes known). 
 
@@ -89,7 +89,7 @@ Remove the guardrails of etiquette and polite society, and we often just end up 
 ## What do you make of Schopenhauer’s parable?
 
 - Do you think the imagery of porcupines seeking to warm themselves aptly reflects the nature of human connection? 
-- Do you agree with Schopenhauer’s recommendation — i.e. that to avoid being annoyed by others, we should renounce sociability and find ways to enjoy our own company?
+- Do you agree with Schopenhauer’s recommendation – i.e. that to avoid being annoyed by others, we should renounce sociability and find ways to enjoy our own company?
 - Or do you think that occasional conflict is a necessary (perhaps indispensable) part of forming genuine connections, and that we can learn to live with (even love) each other’s prickliness?
 
 ## Learn more about Schopenhauer’s philosophy

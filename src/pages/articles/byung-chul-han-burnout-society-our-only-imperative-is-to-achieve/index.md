@@ -11,11 +11,11 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">I</span>n his short but powerful 2015 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Burnout-Society-Byung-Chul-Han/dp/0804795096?&linkCode=ll1&tag=philosophybre-20&linkId=9f144178885e319a1203d054255886e2&language=en_US&ref_=as_li_ss_tl">Burnout Society</a>, the South Korean-born, Berlin-based philosopher Byung-Chul Han suggests that modern society is gripped by an ‘imperative to achieve’ — and that mass burnout and depression is the result.
+<span class="big-letter">I</span>n his short but powerful 2015 work <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Burnout-Society-Byung-Chul-Han/dp/0804795096?&linkCode=ll1&tag=philosophybre-20&linkId=9f144178885e319a1203d054255886e2&language=en_US&ref_=as_li_ss_tl">Burnout Society</a>, the South Korean-born, Berlin-based philosopher Byung-Chul Han suggests that modern society is gripped by an ‘imperative to achieve’ – and that mass burnout and depression is the result.
 
 Han begins his analysis by reflecting on how the norms that govern society have changed in recent decades.
 
-No longer do we live in a society characterized by hard institutional power, a society described by the 20th-century French philosopher Michel Foucault as closed, brutish, oppressive — a “disciplinary world of hospitals, madhouses, prisons, barracks, and factories,” Han writes.
+No longer do we live in a society characterized by hard institutional power, a society described by the 20th-century French philosopher Michel Foucault as closed, brutish, oppressive – a “disciplinary world of hospitals, madhouses, prisons, barracks, and factories,” Han writes.
 
 For, in the 21st-century, such a world has been replaced by… 
 
@@ -27,7 +27,7 @@ And the transition to the modern, 21st-century achievement-society we live in to
 
 One way this changes comes out is that depression, rather than oppression, is now the sickness of the age.
 
-For, while obedience-society was characterized by negativity, by holding people in line with ‘should’, achievement-society is characterized by positivity, and its operative word is ‘can’ — its popular plural: ‘Yes, we can.’
+For, while obedience-society was characterized by negativity, by holding people in line with ‘should’, achievement-society is characterized by positivity, and its operative word is ‘can’ – its popular plural: ‘Yes, we can.’
 
 And it is precisely this insistent, excess positivity that creates conditions ripe for burnout and depression, Han writes:
 
@@ -45,11 +45,11 @@ He compares our situation as modern humans to animals in the wild whose survival
 
 >The attitude toward time and environment known as ‘multitasking’ does not represent civilizational progress. Human beings in the late-modern society of work and information are not the only ones capable of multitasking. Rather, such an aptitude amounts to regression. Multitasking is commonplace among wild animals. It is an attentive technique indispensable for survival in the wilderness.
 
-While eating, for instance, an animal in the wild must remain on constant alert — looking out for threats, mates, rivals, predators, and so on. Han writes:
+While eating, for instance, an animal in the wild must remain on constant alert – looking out for threats, mates, rivals, predators, and so on. Han writes:
 
 >The animal cannot immerse itself contemplatively in what it is facing because it must also process background events.
 
-This reflects our modern mental state — a state Han labels “hyperattention”. 
+This reflects our modern mental state – a state Han labels “hyperattention”. 
 
 Hyperattention, Han tells us, is characterized by “a rash change of focus between different tasks, sources of information, and processes”, where perception becomes “fragmented and scattered.”
 
@@ -67,9 +67,9 @@ For, in a society where _the only imperative is to achieve_, no other constraint
 
 As Han puts it:
 
->\[T]he disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide. Thus, the achievement-subject gives itself over to compulsive freedom — that is, to the free constraint of maximizing achievement. Excess work and performance escalate into auto-exploitation.
+>\[T]he disappearance of domination does not entail freedom. Instead, it makes freedom and constraint coincide. Thus, the achievement-subject gives itself over to compulsive freedom – that is, to the free constraint of maximizing achievement. Excess work and performance escalate into auto-exploitation.
 
-We think that by turning ourselves into performance machines we are exercising our ultimate individual freedom — that it is _our free choice_ to ‘be the best we can be’, to ‘optimize’ ourselves and achieve as much as possible — but really by doing so we rid ourselves of any freedom worth having. Han writes:
+We think that by turning ourselves into performance machines we are exercising our ultimate individual freedom – that it is _our free choice_ to ‘be the best we can be’, to ‘optimize’ ourselves and achieve as much as possible – but really by doing so we rid ourselves of any freedom worth having. Han writes:
 
 >The exhausted, depressive achievement-subject grinds itself down, so to speak. It is tired, exhausted by itself, and at war with itself. Entirely incapable of stepping outward, of standing outside itself, of relying on the Other, on the world, it locks its jaws on itself; paradoxically, this leads the self to hollow and empty out. It wears out in a rat race it runs against itself.
 
@@ -104,7 +104,7 @@ We thus find ourselves in a rather bizarre situation where people are seemingly 
 
 ## How has self-exploitation come about?
 
-<span class="big-letter">H</span>an thinks self-exploitation is simply the latest stage of capitalism — for, from the perspective of the capitalist system, it’s a much more efficient way of doing things. As Han puts it:
+<span class="big-letter">H</span>an thinks self-exploitation is simply the latest stage of capitalism – for, from the perspective of the capitalist system, it’s a much more efficient way of doing things. As Han puts it:
 
 >Auto-exploitation is more efficient than allo-exploitation [i.e. external-exploitation] because a deceptive feeling of freedom accompanies it.
 
@@ -118,7 +118,7 @@ We maximize our own performance because we feel that by doing so we are _effecti
 
 <span class="big-letter">H</span>an is not as detailed in his recommended solution as he is in his diagnosis, but some hints of how we might face up to ‘Burnout Society’ can be drawn together.
 
-For one, Han thinks that the great cultural highpoints of humanity — the hallmarks of _the good life_ — owe their existence not to hyperactivity but to deep, contemplative attention. He writes:
+For one, Han thinks that the great cultural highpoints of humanity – the hallmarks of _the good life_ – owe their existence not to hyperactivity but to deep, contemplative attention. He writes:
 
 >Culture presumes an environment in which deep attention is possible. Increasingly, such immersive reflection is being displaced by an entirely different form of attention: hyperattention.
 
@@ -148,7 +148,7 @@ Rather than see ourselves as the fast-moving entrepreneurs of our own lives, per
 
 All this of course is much easier said than done, but Han thinks accessing the good life means not yielding to the (ultimately passive) hysteria of hyperattention and maximal-production. As Nietzsche’s _Zarathustra_ declares:
 
->All of you who are in love with hectic work and whatever is fast, new, strange — you find it hard to bear yourselves, your diligence is escape and the will to forget yourself. If you believed more in life, you would hurl yourself less into the moment. But you do not have enough content in yourselves for waiting — not even for laziness!
+>All of you who are in love with hectic work and whatever is fast, new, strange – you find it hard to bear yourselves, your diligence is escape and the will to forget yourself. If you believed more in life, you would hurl yourself less into the moment. But you do not have enough content in yourselves for waiting – not even for laziness!
 
 Hyperattention and hyperactivity are forms of escapism that serve only endless production; they dehumanize us. 
 

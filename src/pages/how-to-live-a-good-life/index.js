@@ -25,7 +25,7 @@ const Page = ({ data, location }) => {
     
     return (
     <>
-    <Seo title="How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)" description="Discover practical wisdom from 7 of the world’s most influential philosophies — including Stoicism, Buddhism, and Existentialism — to help you find meaning, purpose, and live a good life." image={imagePath} pathname={location.pathname} />
+    <Seo title="How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)" description="Discover practical wisdom from 7 of the world’s most influential philosophies – including Stoicism, Buddhism, and Existentialism – to help you find meaning, purpose, and live a good life." image={imagePath} pathname={location.pathname} />
     <Layout>
     <NavigationSimple/>
 
@@ -345,13 +345,13 @@ const Page = ({ data, location }) => {
                     </div>
                     <div>
                         <h4>How long does it take to do the course?</h4>
-                        <p className="small-grey-font">The course is broken into seven distinct chapters, each of which takes about 60 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each philosophy sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day — you can take the course at your own pace.</p>
+                        <p className="small-grey-font">The course is broken into seven distinct chapters, each of which takes about 60 minutes to read through. We recommend reading a maximum of one or two chapters per day to let each philosophy sink in. At the end of each chapter, we also present questions to reflect on and a space for community discussion. So, with daily reading, the course may take a week or so to complete. You have access to course materials forever, so don’t worry if you miss a day – you can take the course at your own pace.</p>
                     </div>
                 </div>
                 <div className="two-col align-top">
                     <div>
                         <h4>How is the course delivered?</h4>
-                        <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device — be it desktop, laptop, tablet, or mobile — and are even printable, so you can consume them however you like.</p>
+                        <p className="small-grey-font">Course materials are hosted on our online learning and community platform, Philosophy Break Academy. They are optimized for easy reading on any device – be it desktop, laptop, tablet, or mobile – and are even printable, so you can consume them however you like.</p>
                     </div>
                     <div>
                         <h4>Can I take the course on mobile?</h4>

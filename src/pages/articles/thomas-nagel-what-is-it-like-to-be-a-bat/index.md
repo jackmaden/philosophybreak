@@ -25,7 +25,7 @@ Since its 1974 publication, Nagel’s essay has become a mainstay for syllabuses
 
 “\[A]n organism has conscious mental states,” Nagel writes,
 
->if and only if there is something that it is like to _be_ that organism — something it is like _for_ the organism.
+>if and only if there is something that it is like to _be_ that organism – something it is like _for_ the organism.
 
 Nagel calls this the “subjective character of experience”. It is also known in the philosophical literature as qualitative experience, phenomenal experience, ‘raw feels’ and qualia.
 
@@ -59,7 +59,7 @@ From the brain to consciousness, we have no conceptual bridge, because it seems 
 
 The problem is that this confounds how we typically try to form an objective account of something.
 
-Usually, the direction of travel in our explanations is to move away from higher-level, subjective points of view to consider more fundamental, ‘objective’ viewpoints — as with water to H2O, genes to DNA, and oak trees to hydrocarbons. We ‘reduce’ the higher-order appearance to a lower, more general level.
+Usually, the direction of travel in our explanations is to move away from higher-level, subjective points of view to consider more fundamental, ‘objective’ viewpoints – as with water to H2O, genes to DNA, and oak trees to hydrocarbons. We ‘reduce’ the higher-order appearance to a lower, more general level.
 
 If we do this with conscious experiences, however, then we seem to be abandoning the very thing that we seek to explain:
 

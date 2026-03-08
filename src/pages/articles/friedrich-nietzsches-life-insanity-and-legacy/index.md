@@ -1,6 +1,6 @@
 ---
 title: "Friedrich Nietzsche’s Life, Insanity, and Legacy"
-description: "While Nietzsche was in search of one kind of madness — i.e. the euphoric affirmation of life — he tragically fell victim to another. This article charts the great philosopher’s life, insanity, and legacy."
+description: "While Nietzsche was in search of one kind of madness – i.e. the euphoric affirmation of life – he tragically fell victim to another. This article charts the great philosopher’s life, insanity, and legacy."
 image: "./wenzel-hablik-sunset.jpeg"
 imageAlt: "Mont Blanc Sunset, Wenzel Hablik, oil on canvas, 1906"
 imageSeo: "./wenzel-hablik-sunset.jpeg"
@@ -19,7 +19,7 @@ _This article is a modified extract from my [Introduction to Nietzsche guide](/i
 
 Shortly afterwards, alerted to a public disturbance, two policemen escort Nietzsche away.
 
-Thus marks the beginning of 11 years of incoherent seclusion, during which the great philosopher-poet Friedrich Nietzsche — descended from dizzying intellectual heights to the depths of insanity — never writes another publishable word...
+Thus marks the beginning of 11 years of incoherent seclusion, during which the great philosopher-poet Friedrich Nietzsche – descended from dizzying intellectual heights to the depths of insanity – never writes another publishable word...
 
 ## Not being, but becoming: values shaped by suffering
 
@@ -57,7 +57,7 @@ By 1879, Nietzsche estimated he lost about one-third of each year to such episod
 
 Heunemann goes as far to say that Nietzsche’s 
 
->philosophy as a whole — and his life, come to think of it — were aimed at regaining health after suffering debilitating sickness and finding ways to maintain or enhance one’s health when challenged with injury. 
+>philosophy as a whole – and his life, come to think of it – were aimed at regaining health after suffering debilitating sickness and finding ways to maintain or enhance one’s health when challenged with injury. 
 
 For instance, in his 1882 book <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0394719859/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0394719859&linkId=56f8e2d8aef7bc2ab60d5aed696e0fdf">The Gay Science</a>, Nietzsche writes:
 
@@ -73,7 +73,7 @@ Heunemann argues that Nietzsche’s task, both in his personal life and through 
 
 >compose one’s attitude to make recovery more predominant than resentment.
 
-Nietzsche could not just sit there in his darkened quarters suffering. He needed a framework that lent meaning, even _purpose_, to his suffering — for, as he puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Twilight of the Idols</a>, 
+Nietzsche could not just sit there in his darkened quarters suffering. He needed a framework that lent meaning, even _purpose_, to his suffering – for, as he puts it in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Twilight of the Idols</a>, 
 
 >He who has a why to live can bear almost any how. 
 
@@ -106,7 +106,7 @@ How can the human race emerge stronger from the recognition of its highly limite
 
 As his father had worked for the state, Nietzsche received a scholarship to study at the well-respected boarding school Schulpforta between 1858 to 1864. 
 
-While there, he learned Greek, Latin, Hebrew, and French, and led a music and literature club named ‘Germania’, becoming a highly-skilled piano player, ambitious songwriter, and admirer of the music of German composer Richard Wagner — a figure who would later come to dominate Nietzsche’s social life and philosophy. 
+While there, he learned Greek, Latin, Hebrew, and French, and led a music and literature club named ‘Germania’, becoming a highly-skilled piano player, ambitious songwriter, and admirer of the music of German composer Richard Wagner – a figure who would later come to dominate Nietzsche’s social life and philosophy. 
 
 After graduating from Schulpforta in 1864, Nietzsche began studying theology and classical philology at the University of Bonn, with hopes of following in his father’s footsteps and becoming a minister. 
 
@@ -130,7 +130,7 @@ In Schopenhauer, the 21-year-old Nietzsche found a kindred spirit whose pessimis
 
 <span class="big-letter">I</span>n 1867, Nietzsche enrolled in required military service, but was soon discharged after suffering a serious chest injury attempting to leap-mount a horse. His injury left him unable to walk for months, and continued to ail him throughout his lifetime. 
 
-Obtaining sick leave from military services, he returned to Leipzig to resume his studies, and in 1869 — on the strength of his work and growing academic reputation — received an offer to become a professor of classical philology at the University of Basel in Switzerland. 
+Obtaining sick leave from military services, he returned to Leipzig to resume his studies, and in 1869 – on the strength of his work and growing academic reputation – received an offer to become a professor of classical philology at the University of Basel in Switzerland. 
 
 Aged just 24 at the time, Nietzsche remains one of the youngest ever Classics professors to be awarded tenure on record. 
 
@@ -140,7 +140,7 @@ The two had briefly met at a gathering in 1868, where Nietzsche’s thralldom wi
 
 Nietzsche saw in Wagner a true free spirit. Here was a man who rather than conform to society’s expectations lived by his own values, whose genius at composing music lent meaning to suffering and transcendence to the everyday. 
 
-This man, thought Nietzsche, was humanity’s best hope for restoring art to its glory days of the ancient Greek tragedies. Never since had art met such heights, but with Wagner — who shared Nietzsche’s view — it was possible. 
+This man, thought Nietzsche, was humanity’s best hope for restoring art to its glory days of the ancient Greek tragedies. Never since had art met such heights, but with Wagner – who shared Nietzsche’s view – it was possible. 
 
 That Nietzsche saw not just a genius artist but a potential surrogate father in Wagner was not lost on the composer. The relationship between the two was never that of peers, but of the devoted and the devotee, with Nietzsche craving the approval of and often running errands for Wagner and Cosima. 
 
@@ -162,7 +162,7 @@ On the other hand, Cosima’s intended praise potentially alerted Nietzsche to t
 
 <span class="big-letter">B</span>etween 1873 and 1876 Nietzsche published four long essays which collectively became known as his <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Nietzsche-Untimely-Meditations-Cambridge-Philosophy/dp/0521585848?keywords=untimely+meditations+nietzsche&qid=1650787731&sprefix=untime%2Caps%2C164&sr=8-1&linkCode=ll1&tag=philosophybre-20&linkId=9555cc9495e8057117e7a260abdd6cea&language=en_US&ref_=as_li_ss_tl">Untimely Meditations</a>. Intended for a broad audience, they included reflections on Schopenhauer and Wagner (‘Schopenhauer as Educator’ and ‘Richard Wagner in Bayreuth’) which, though mainly positive, foreshadowed a growing detachment from his idols and independence in Nietzsche’s thought. 
 
-Wagner’s 1876 Bayreuth music festival only accelerated this detachment. While Nietzsche had enthusiastically assisted the Wagners in their planning of the Bayreuth opera house project, he was left disappointed by its opening in 1876, feeling the cultural atmosphere did not meet the artistic aspirations he thought were shared between himself and the Wagners — appealing too much, in Nietzsche’s view, to an unhealthy nationalistic German (and ‘plebeian’) spirit. 
+Wagner’s 1876 Bayreuth music festival only accelerated this detachment. While Nietzsche had enthusiastically assisted the Wagners in their planning of the Bayreuth opera house project, he was left disappointed by its opening in 1876, feeling the cultural atmosphere did not meet the artistic aspirations he thought were shared between himself and the Wagners – appealing too much, in Nietzsche’s view, to an unhealthy nationalistic German (and ‘plebeian’) spirit. 
 
 The Wagners’ perceived use for Nietzsche dwindled, and he was distanced from the inner circle.
 
@@ -170,9 +170,9 @@ The Wagners’ perceived use for Nietzsche dwindled, and he was distanced from t
 
 <span class="big-letter">A</span>s his relationship with the Wagners soured, Nietzsche’s health also took a downward turn, which forced him to take leave from his professorship at Basel. He spent the time developing a naturalistic critique of traditional morality and culture, which resulted in the publication of his second full-length book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Human-All-Too-Spirits-Revised/dp/0803283687?&linkCode=ll1&tag=philosophybre-20&linkId=0b44aea23ad08af64e0b581d3141cdad&language=en_US&ref_=as_li_ss_tl">Human, All Too Human</a> in 1878. 
 
-With this work, Nietzsche established two things that would become recurrent throughout his books. Firstly, his trademark style of writing in short, numbered, explosive paragraphs and pithy aphorisms. Secondly, his sustained attacks on conventions — especially religion and traditional morality. 
+With this work, Nietzsche established two things that would become recurrent throughout his books. Firstly, his trademark style of writing in short, numbered, explosive paragraphs and pithy aphorisms. Secondly, his sustained attacks on conventions – especially religion and traditional morality. 
 
-In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Human-All-Too-Spirits-Revised/dp/0803283687?&linkCode=ll1&tag=philosophybre-20&linkId=0b44aea23ad08af64e0b581d3141cdad&language=en_US&ref_=as_li_ss_tl">Human, All Too Human</a>, Nietzsche also explicitly reacts against the pessimistic philosophy of Schopenhauer and Wagner — crudely cloaking his references to the latter as “the artist” — effectively ending his friendship with the composer. 
+In <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Human-All-Too-Spirits-Revised/dp/0803283687?&linkCode=ll1&tag=philosophybre-20&linkId=0b44aea23ad08af64e0b581d3141cdad&language=en_US&ref_=as_li_ss_tl">Human, All Too Human</a>, Nietzsche also explicitly reacts against the pessimistic philosophy of Schopenhauer and Wagner – crudely cloaking his references to the latter as “the artist” – effectively ending his friendship with the composer. 
 
 Having sent his book to the Wagners and simultaneously receiving from them the libretto for Wagner’s new opera _Parsifal_, Nietzsche later wrote the two works crossed in the mail 
 
@@ -192,7 +192,7 @@ During the summers, and health permitting, Nietzsche hiked in the Swiss Alps alm
 
 Writing later in his philosophical autobiography <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>, Nietzsche draws a comparison between his works and the mountains that characterized them (in a typically compelling statement that features in our list of [Nietzsche’s best quotes](/articles/nietzsche-quotes-97-of-his-cleverest-statements/)):
 
->Those who can breathe the air of my writings know that it is an air of the heights, a strong air. One must be made for it. Otherwise there is no small danger that one might catch cold in it. The ice is near, the solitude tremendous — but how calmly all things lie in the light. How freely one breathes! How much one feels beneath oneself.
+>Those who can breathe the air of my writings know that it is an air of the heights, a strong air. One must be made for it. Otherwise there is no small danger that one might catch cold in it. The ice is near, the solitude tremendous – but how calmly all things lie in the light. How freely one breathes! How much one feels beneath oneself.
 
 Nietzsche’s startling productivity in the 1880s began with the 1881 publication of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Daybreak-Thoughts-Prejudices-Cambridge-Philosophy/dp/0521599636?&linkCode=ll1&tag=philosophybre-20&linkId=8b7424375dc038acace05d69269b4713&language=en_US&ref_=as_li_ss_tl">Daybreak</a>, a work which critically investigates morality and its psychological undercurrents. 
 
@@ -204,9 +204,9 @@ Firstly, <a target="_blank" rel="noopener noreferrer sponsored" href="https://ww
 
 Aping the New Testament in style, it follows the journey of a prophet named Zarathustra who comes down from the mountains to share his “philosophy of the future” (the parallels with Nietzsche’s own life are not, one might suspect, accidental). 
 
-<a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> is a challenging read and widely open to interpretation, with the key theme being that we must overcome all past value systems and cultivate self-affirmation — a theme embodied by [Nietzsche’s character of the Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), as well as his idea of the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/).
+<a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> is a challenging read and widely open to interpretation, with the key theme being that we must overcome all past value systems and cultivate self-affirmation – a theme embodied by [Nietzsche’s character of the Übermensch](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/), as well as his idea of the [eternal recurrence](/articles/eternal-recurrence-what-did-nietzsche-really-mean/).
 
-The second exception to the aphoristic style rule is Nietzsche’s 1887 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0141195371?&linkCode=ll1&tag=philosophybre-20&linkId=5ec5912e78e9d6bbdff90712b3dca5ea&language=en_US&ref_=as_li_ss_tl">On the Genealogy of Morality</a>, which consists of three longer-form essays and is widely considered (alongside <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">Beyond Good and Evil</a>, of which it was planned as an accompaniment) to be one of Nietzsche’s most important works — if not _the_ most important. 
+The second exception to the aphoristic style rule is Nietzsche’s 1887 <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0141195371?&linkCode=ll1&tag=philosophybre-20&linkId=5ec5912e78e9d6bbdff90712b3dca5ea&language=en_US&ref_=as_li_ss_tl">On the Genealogy of Morality</a>, which consists of three longer-form essays and is widely considered (alongside <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">Beyond Good and Evil</a>, of which it was planned as an accompaniment) to be one of Nietzsche’s most important works – if not _the_ most important. 
 
 The Genealogy offers a sustained critique and history of morality, and is among the most studied of Nietzsche’s books today, containing Nietzsche’s discussion of “master” and “slave” morality, and the ascetic ideal.
 
@@ -216,13 +216,13 @@ The Genealogy offers a sustained critique and history of morality, and is among 
 
 The three initially planned to live and work together in an intellectual trinity, but Nietzsche and Rée soon each developed feelings for Salomé. 
 
-Salomé received marriage proposals from both men — and declined both. She wanted instead to pursue the idea of a celibate intellectual trinity.
+Salomé received marriage proposals from both men – and declined both. She wanted instead to pursue the idea of a celibate intellectual trinity.
 
 At first, it seems Nietzsche was able to take this situation rather lightly, as suggested by the following famous photograph of the three of them together in Lucerne:
 
 ![Salomé, Rée and Nietzsche in Lucerne, 1882](./nietzsche-salome.webp "Salomé, Rée and Nietzsche in Lucerne, 1882. The photograph is said to be a comical scene laid out by Nietzsche to acknowledge the recent rejection suffered both by himself and Rée after they each proposed marriage to Salomé (the relentless ‘cart driver’).")
 
-However, jealousies among the group soon reached boiling point, and Salomé eventually left for Berlin — accompanied by Rée. 
+However, jealousies among the group soon reached boiling point, and Salomé eventually left for Berlin – accompanied by Rée. 
 
 Nietzsche was distraught by what he saw as a total rejection from his friends, and some scholars suggest it was the bitterness from this encounter that fueled many of the tirades against women that litter Nietzsche’s works. 
 
@@ -230,7 +230,7 @@ Salomé would later go on to write a short biography of Nietzsche and his philos
 
 Recalling a hike she’d embarked on with Nietzsche, Salomé writes: 
 
->At first, he fashioned the mystical superior-human ideal through self-intoxicated fantasy, dreams, and rapture-like visions; and then, in order to save himself from himself, he sought to identify himself with them through one tremendous leap. Finally, he became a dual figure — half sick and suffering; half saved; a laughing and superior human. The one is like a creature, the other a creator; the one assumes a reality and the other a mystical sur-reality.
+>At first, he fashioned the mystical superior-human ideal through self-intoxicated fantasy, dreams, and rapture-like visions; and then, in order to save himself from himself, he sought to identify himself with them through one tremendous leap. Finally, he became a dual figure – half sick and suffering; half saved; a laughing and superior human. The one is like a creature, the other a creator; the one assumes a reality and the other a mystical sur-reality.
 
 Salomé’s rather disturbing characterization captures the Nietzsche of this period: while his thinking became ever more original and the depths of his insights ever more profound, the _retro-orbital meningioma_ on his brain never stopped growing, and his health never stopped declining.
 
@@ -248,7 +248,7 @@ It is said that Empedocles died by intentionally leaping into a volcano, attempt
 
 “Or perhaps,” Kaag laments, “_Ecce Homo_ is simply Nietzsche’s sandal.” 
 
-Be it on some level willed, or wholly the result of his physical ailments, Nietzsche’s episode with the horse and consequent mental breakdown in Turin in January 1889 marks the end of his productive output — and of his sanity. 
+Be it on some level willed, or wholly the result of his physical ailments, Nietzsche’s episode with the horse and consequent mental breakdown in Turin in January 1889 marks the end of his productive output – and of his sanity. 
 
 “The line between madness and profundity,” Kaag concludes, 
 
@@ -260,13 +260,13 @@ Eventually lapsing entirely into silence, Nietzsche lived on until 1900, when he
 
 ## Nietzsche’s legacy
 
-<span class="big-letter">T</span>hough Nietzsche’s works were hardly read during his own sane lifetime — <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">Beyond Good and Evil</a> sold just a few hundred copies when Nietzsche initially self-published it — he never doubted that he and his ideas would one day become famous. 
+<span class="big-letter">T</span>hough Nietzsche’s works were hardly read during his own sane lifetime – <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0679724656?&linkCode=ll1&tag=philosophybre-20&linkId=5ecc29f1c46a78a5417cf851de9c9757&language=en_US&ref_=as_li_ss_tl">Beyond Good and Evil</a> sold just a few hundred copies when Nietzsche initially self-published it – he never doubted that he and his ideas would one day become famous. 
 
 Writing in <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nietzsche-Anti-Christ-Twilight-Cambridge-Philosophy/dp/0521016886?&linkCode=ll1&tag=philosophybre-20&linkId=87e4680fa2bf9969e82dc6acca3a2266&language=en_US&ref_=as_li_ss_tl">Ecce Homo</a>, he declares:
 
->I know my fate. One day my name will be associated with the memory of something tremendous — a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite.
+>I know my fate. One day my name will be associated with the memory of something tremendous – a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite.
 
-Considering the atrocities that were to follow in the 20th century, these prophetic words were — tragically — fulfilled by a project that would have horrified and appalled Nietzsche: Nazi Germany. 
+Considering the atrocities that were to follow in the 20th century, these prophetic words were – tragically – fulfilled by a project that would have horrified and appalled Nietzsche: Nazi Germany. 
 
 That no one can control their legacy is an especially unfortunate truth in Nietzsche’s case, for during his illness his literary estate fell into the hands of sister, Elisabeth.
 
@@ -299,7 +299,7 @@ With sales of Nietzsche’s earlier works rising quickly, Elisabeth compiled var
 
 This illegitimate publication opened up Nietzsche’s earlier works to misinterpretation after misinterpretation, with passages routinely pulled out of context to justify antisemitism and German nationalism. 
 
-Meanwhile, Nietzsche was fast becoming a household name in Germany — the government even printed 150,000 copies of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> for soldiers to carry into World War I. 
+Meanwhile, Nietzsche was fast becoming a household name in Germany – the government even printed 150,000 copies of <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/gp/product/0140441182?&linkCode=ll1&tag=philosophybre-20&linkId=e08afd371adcb4ca929948fef1ea6124&language=en_US&ref_=as_li_ss_tl">Thus Spoke Zarathustra</a> for soldiers to carry into World War I. 
 
 The lonely, suffering, ignored philosopher of the Swiss Alps had posthumously become a celebrity. 
 
@@ -307,7 +307,7 @@ The lonely, suffering, ignored philosopher of the Swiss Alps had posthumously be
 
 While hugely influential among artists and intellectuals of the time, Elisabeth’s tampering meant that Nietzsche’s nuanced, brilliant writing was butchered in the public consciousness as essentially a bombastic justification of the following creed: ‘might is right’. 
 
-Elisabeth’s close ties to the Nazi party — Hitler attended her funeral in 1935 — ensured that Nietzsche’s name, in the public mind at least, generally lay closely associated to Nazism, and not much else. 
+Elisabeth’s close ties to the Nazi party – Hitler attended her funeral in 1935 – ensured that Nietzsche’s name, in the public mind at least, generally lay closely associated to Nazism, and not much else. 
 
 Thankfully, following the Nazi defeat in World War II, efforts were made to sanitize Nietzsche’s name, not least by the philosopher, translator, and poet Walter Kaufmann.
 
@@ -319,11 +319,11 @@ Nowadays, Nietzsche’s popularity in the English-speaking world is arguably the
 
 Indeed, Nietzsche is celebrated not just as an original and provocative thinker, but as a uniquely brilliant writer. 
 
-Outside philosophy, his style has influenced and been lauded by countless poets, novelists, and essayists. Within philosophy, his literary qualities are arguably unrivaled — and many German critics regard his prose as among the pinnacles of what is possible with the language.
+Outside philosophy, his style has influenced and been lauded by countless poets, novelists, and essayists. Within philosophy, his literary qualities are arguably unrivaled – and many German critics regard his prose as among the pinnacles of what is possible with the language.
 
 However, despite the growing recognition of Nietzsche’s genius as both a thinker and a writer, he remains widely misunderstood, misinterpreted, and misappropriated by people from all over the philosophical and political spectrum, who wish to elevate their particular cause with the power of his rhetoric. 
 
-With a range of thinking so widespread, and a style of writing so stunningly and wickedly provocative, it is perhaps no surprise that Nietzsche’s iconoclastic, hammering utterances — designed to jolt people out of presuppositions — can be so grossly taken out of context.
+With a range of thinking so widespread, and a style of writing so stunningly and wickedly provocative, it is perhaps no surprise that Nietzsche’s iconoclastic, hammering utterances – designed to jolt people out of presuppositions – can be so grossly taken out of context.
 
 Here is a thinker who not only changes his mind on key topics throughout his active philosophical period, but who at times suggests he doesn’t _want_ to be understood, not to be purposefully oblique, but because he thinks his readers are not yet _ready_ for what he has to say.
 
@@ -345,7 +345,7 @@ The task we have in Nietzsche scholarship thus lies in gratefully deciphering ex
 
 <span class="big-letter">T</span>his article is an extract from my online guide, [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/), which consists of 42 self-paced, myth-busting lessons on Nietzsche’s fascinating yet much-misunderstood philosophy.
 
-If you found this brief biological sketch interesting, and are curious to learn more about Nietzsche’s actual philosophy — including his [perspectivism](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/), critique of morality, and ideas like his Übermensch, eternal recurrence, and will to power — then consider exploring the full guide now. [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/) gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!
+If you found this brief biological sketch interesting, and are curious to learn more about Nietzsche’s actual philosophy – including his [perspectivism](/articles/nietzsches-perspectivism-what-does-objective-truth-really-mean/), critique of morality, and ideas like his Übermensch, eternal recurrence, and will to power – then consider exploring the full guide now. [Introduction to Nietzsche and His 5 Greatest Ideas](/introduction-to-nietzsche/) gets rave reviews (one reader describes it as “the best introduction to Nietzsche I’ve come across”), and might be just what you’re looking for!
 
 <!--nietzsche-->
 <div class="course-promo darkradial-background subscribe text-center">

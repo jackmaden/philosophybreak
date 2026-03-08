@@ -13,7 +13,7 @@ authorLink: "/about/"
 
 <span class="big-letter">S</span>øren Kierkegaard (1813 - 1855) was a Danish philosopher whose rich and varied writings have had a profound influence on philosophy, theology, and literature.
 
-Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose — and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century. (See my reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/).)
+Kierkegaard articulates the anxiety, self-consciousness, and fraughtness of daily human existence in often exquisite prose – and it’s this laser focus on what it’s like under our own skin that cemented his reputation as a literary genius, and so inspired the existentialists of the 20th century. (See my reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/).)
 
 ![Oil painting of Kierkegaard, by Luplau Janssen (1902)](./Kierkegaard.jpg "Oil painting of Kierkegaard, by Luplau Janssen (1902).")
 
@@ -39,7 +39,7 @@ We are thus fated to forever live our lives, Kierkegaard tells us, with _incompl
 
 No matter what we _want_ to happen, we cannot ever know what _will_ happen, nor hope to immediately grasp it when it does.
 
-Our future lives may split into various possibilities in our imaginations, but we can only ever live one of them — and even the one we ‘choose’ is unlikely to go as planned.
+Our future lives may split into various possibilities in our imaginations, but we can only ever live one of them – and even the one we ‘choose’ is unlikely to go as planned.
 
 As I discuss in [5 Existential Problems All Humans Share](/articles/5-existential-problems-all-humans-share/), Milan Kundera describes this feature of existence succinctly in his 1984 novel <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Unbearable-Lightness-of-Being-audiobook/dp/B0083EFWA8?&linkCode=ll1&tag=philosophybre-20&linkId=3dd6e74e1c24e80f8e7c7064bceb2452&language=en_US&ref_=as_li_ss_tl">The Unbearable Lightness of Being</a>, writing:
 
@@ -59,9 +59,9 @@ A statement often described as a ‘Kierkegaardian slogan’ (though it doesn’
 
 >Life is not a problem to be solved, but a reality to be experienced.
 
-We do not (and will never) have the information required to forever ‘fix’ our lives — so why approach them as problems that need to be solved at all?
+We do not (and will never) have the information required to forever ‘fix’ our lives – so why approach them as problems that need to be solved at all?
 
-No matter what we do, reality will continually unfold before us. We can fight against this with plans, schemes, narrative arcs; but reality won’t care — for, in-itself, it doesn’t have any problems to solve. Reality invincibly goes on. 
+No matter what we do, reality will continually unfold before us. We can fight against this with plans, schemes, narrative arcs; but reality won’t care – for, in-itself, it doesn’t have any problems to solve. Reality invincibly goes on. 
 
 Perhaps, then, we might adjust our perspectives accordingly: put our energy not into endless reflection whereby we ‘fix’ the past or ‘solve’ the future, but in aligning better with what the very structure of existence demands: _experience the unfolding of reality now._
 
@@ -71,7 +71,7 @@ All else being equal, rather than exhaust ourselves on yet more research, cost-b
 
 After all, life is here to be experienced. What kind of experiences appeal to you? Spending time with loved ones? Expressing your creativity? Feeling the sun on your face?
 
-Perhaps working out how to structure our lives more around such nourishing experiences — making a commitment to really show up for and _live in_ them — is the only real ‘plan’, the only real solution we need. 
+Perhaps working out how to structure our lives more around such nourishing experiences – making a commitment to really show up for and _live in_ them – is the only real ‘plan’, the only real solution we need. 
 
 ## Learn more about Kierkegaard’s philosophy (and the existentialism it inspired)
 

@@ -31,13 +31,13 @@ const ReadingList = ({ data, location }) => {
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
             <p><span className="big-letter">R</span>alph Waldo Emerson (1803 - 1882) was a philosopher and essayist perhaps best known for spearheading American Transcendentalism, a philosophical movement that emphasizes the power of individualism, self-reliance, and the natural world.</p>
 
-            <p>One of the key hallmarks of the Transcendentalist movement, which notably included Emerson, Margaret Fuller, and Henry David Thoreau (see our reading list of <Link to="/reading-lists/henry-david-thoreau-best-books/">Thoreau’s best books here</Link>), is its celebration of the supremacy — even divinity — of nature.</p>
+            <p>One of the key hallmarks of the Transcendentalist movement, which notably included Emerson, Margaret Fuller, and Henry David Thoreau (see our reading list of <Link to="/reading-lists/henry-david-thoreau-best-books/">Thoreau’s best books here</Link>), is its celebration of the supremacy – even divinity – of nature.</p>
 
             <p>Divinity is not locked in a distant heaven, say transcendentalists; it is accessible right here in the company of the natural world.</p>
 
-            <p>We are thus at our best not when we conform to voices outside ourselves, but when we follow the voice within — the glimmering insight, the “immense intelligence” of our natural intuition and instincts.</p>
+            <p>We are thus at our best not when we conform to voices outside ourselves, but when we follow the voice within – the glimmering insight, the “immense intelligence” of our natural intuition and instincts.</p>
 
-            <p>Society on this view is seen as a corrupting force — it takes us <i>away</i> from our natural wisdom.</p>
+            <p>Society on this view is seen as a corrupting force – it takes us <i>away</i> from our natural wisdom.</p>
             
             <p>As unique individuals, we should not conform to generic belief systems or conventions, Emerson writes, but instead “enjoy an original relation to the universe.”</p>
 
@@ -61,7 +61,7 @@ const ReadingList = ({ data, location }) => {
 
             <p><a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nature-Selected-Essays-Penguin-Classics/dp/014243762X?&linkCode=ll1&tag=philosophybre-20&linkId=5fd55b8415cb492e13f48449fb876408&language=en_US&ref_=as_li_ss_tl">Nature</a> was Emerson’s first book, and it set out the core principles for much of his (and Transcendentalist) thought.</p>
             
-            <p>Published in 1836 following the traumatic death of his first wife, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nature-Selected-Essays-Penguin-Classics/dp/014243762X?&linkCode=ll1&tag=philosophybre-20&linkId=5fd55b8415cb492e13f48449fb876408&language=en_US&ref_=as_li_ss_tl">Nature</a> features Emerson at his sermonic best. Having left the Church, Emerson aimed to deliver secular lectures that nevertheless contained an almost religious power of their own. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nature-Selected-Essays-Penguin-Classics/dp/014243762X?&linkCode=ll1&tag=philosophybre-20&linkId=5fd55b8415cb492e13f48449fb876408&language=en_US&ref_=as_li_ss_tl">Nature</a> is his first attempt at doing so with the written word — and in this regard it’s an undisputed success.</p>
+            <p>Published in 1836 following the traumatic death of his first wife, <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nature-Selected-Essays-Penguin-Classics/dp/014243762X?&linkCode=ll1&tag=philosophybre-20&linkId=5fd55b8415cb492e13f48449fb876408&language=en_US&ref_=as_li_ss_tl">Nature</a> features Emerson at his sermonic best. Having left the Church, Emerson aimed to deliver secular lectures that nevertheless contained an almost religious power of their own. <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Nature-Selected-Essays-Penguin-Classics/dp/014243762X?&linkCode=ll1&tag=philosophybre-20&linkId=5fd55b8415cb492e13f48449fb876408&language=en_US&ref_=as_li_ss_tl">Nature</a> is his first attempt at doing so with the written word – and in this regard it’s an undisputed success.</p>
 
             <p>Emerson meditates on the power and beauty of nature and our profound, unbreakable connection to it. He writes:</p>
 
@@ -75,7 +75,7 @@ const ReadingList = ({ data, location }) => {
               <h2>2. The Annotated Emerson, by Ralph Waldo Emerson and David Mikics</h2>
               <BookLink title="The Annotated Emerson" author="Ralph Waldo Emerson" link="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl" img={data.two.childImageSharp.gatsbyImageData} />
 
-            <p>While Emerson is regarded as one of America’s greatest writers, his luxurious 19th-century prose can appear a little dense to the modern eye. Hence <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl">The Annotated Emerson</a>: a brilliant book — published in 2012 — that contextualizes, illustrates, and discusses Emerson’s most important works.</p>
+            <p>While Emerson is regarded as one of America’s greatest writers, his luxurious 19th-century prose can appear a little dense to the modern eye. Hence <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Annotated-Emerson-Ralph-Waldo/dp/0674049233?&linkCode=ll1&tag=philosophybre-20&linkId=861009abb14de501220f22d441434726&language=en_US&ref_=as_li_ss_tl">The Annotated Emerson</a>: a brilliant book – published in 2012 – that contextualizes, illustrates, and discusses Emerson’s most important works.</p>
             
             <p>Presenting some of Emerson’s most significant essays (including Nature, Self-Reliance, and more), the scholar David Mikics provides brilliant commentary throughout, drawing on Emerson’s journal entries and providing biographical details to supplement the work and bring Emerson’s writing to life.</p>
             
@@ -89,7 +89,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>This anthology contains all of Emerson’s essays and lectures, as well as a wealth of helpful contextual and biographical detail.</p>
 
-            <p>At 1150 pages, this anthology’s a beast — but you won’t need another!</p>
+            <p>At 1150 pages, this anthology’s a beast – but you won’t need another!</p>
 
               <h2>4. Emerson: The Mind on Fire, by Robert D. Richardson</h2>
               <BookLink title="Emerson: The Mind on Fire" author="Robert D. Richardson" link="https://www.amazon.com/Emerson-Mind-Fire-Centennial-Books/dp/0520206894?&linkCode=ll1&tag=philosophybre-20&linkId=31ea0a917fa0a15a2a91083b9f3912b5&language=en_US&ref_=as_li_ss_tl" img={data.four.childImageSharp.gatsbyImageData} />
@@ -106,7 +106,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>For much of his long and fascinating life, Emerson kept a detailed journal. In 1984, Emerson scholar Joel Porte edited Emerson’s vast collection of journal entries to produce <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Emerson-His-Journals-Ralph-Waldo/dp/0674248627?&linkCode=ll1&tag=philosophybre-20&linkId=c20750d0cce4f14cf258ab82d0414b09&language=en_US&ref_=as_li_ss_tl">Emerson in His Journals</a>, a book that should delight fans of Emerson and his work.</p>
 
-              <p>In these pages, we are granted intimate access into some of the major events in Emerson’s life — like his complex relationship with fellow Transcendentalist Margaret Fuller — from <i>Emerson’s own perspective</i>.</p>         
+              <p>In these pages, we are granted intimate access into some of the major events in Emerson’s life – like his complex relationship with fellow Transcendentalist Margaret Fuller – from <i>Emerson’s own perspective</i>.</p>         
             
             <p>We see a side to Emerson that he would never expose in his published writings, rendering <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Emerson-His-Journals-Ralph-Waldo/dp/0674248627?&linkCode=ll1&tag=philosophybre-20&linkId=c20750d0cce4f14cf258ab82d0414b09&language=en_US&ref_=as_li_ss_tl">Emerson in His Journals</a> an enthralling addition for hardcore Emerson scholars.</p>
               

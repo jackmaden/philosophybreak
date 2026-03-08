@@ -57,7 +57,7 @@ Yet if we feel bereft of control in navigating the bottomless pit of everyday co
 
 As Schwartz reflected in a recent interview with _The New Philosopher:_ is it any wonder that as people increasingly lack power and certainty in their own lives, they seek more of both from their political leaders?
 
-Ultimately, we mustn’t confuse endless consumer choice with genuine freedom. Instead, we might consider the kind of freedoms worth wanting — not as consumers, but as living, breathing human beings.
+Ultimately, we mustn’t confuse endless consumer choice with genuine freedom. Instead, we might consider the kind of freedoms worth wanting – not as consumers, but as living, breathing human beings.
 
 ## What do you make of Schwartz’s analysis?
 

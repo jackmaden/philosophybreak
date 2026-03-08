@@ -25,17 +25,17 @@ In other words, being conscious of our own existences is the most fundamental th
 
 There is no predefined ‘subject’; there is no fixed identity; there is no pre-ordained path or objective. _Existence precedes essence_, Sartre implores: the very fact of our existence comes first. 
 
-It is then up to us, ever-projecting forward into future possibilities, to use our existences to shape our own natures and values, to create whatever ‘essence’ — whatever human being — we choose to become. 
+It is then up to us, ever-projecting forward into future possibilities, to use our existences to shape our own natures and values, to create whatever ‘essence’ – whatever human being – we choose to become. 
 
 As Sartre puts it in his 1946 lecture, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0300115466/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0300115466&linkId=48977e2babd7ccf367ff6392ae848c8e">Existentialism Is a Humanism</a>:
 
->Man first of all exists, encounters himself, surges up in the world — and defines himself afterwards.
+>Man first of all exists, encounters himself, surges up in the world – and defines himself afterwards.
 
 ## Existence precedes essence: the constraints
 
 <span class="big-letter">W</span>hile they think existence does indeed precede essence, existentialist philosophers do acknowledge that our self-conscious, first-person existences face a number of constraints. 
 
-Namely: we are embodied, replete with appetites and desires, and placed in particular histories and cultural contexts — we are, as the German philosopher Heidegger put it, _being-in-the-world_, enmeshed in networks of meaning. (See [Heidegger’s discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)).
+Namely: we are embodied, replete with appetites and desires, and placed in particular histories and cultural contexts – we are, as the German philosopher Heidegger put it, _being-in-the-world_, enmeshed in networks of meaning. (See [Heidegger’s discussion of authenticity](/articles/heidegger-on-being-authentic-in-an-inauthentic-world/)).
 
 Pre-existing identities and meanings will thus be thrust upon us. French philosopher Simone de Beauvoir notably analyzed this in relation to gender roles with her 1949 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/030727778X/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=030727778X&linkId=9ce86319e788dda05f381207ceabe726">The Second Sex</a>, the second section of which begins with the famous line:
 
@@ -49,7 +49,7 @@ Sartre, too, in his later work, allowed a larger role for social conditioning, w
 
 Around the same time, W. E. B. Du Bois, Frantz Fanon and others applied a similar existential analysis to the construction of racial identity, which we discuss in our [interview with contemporary philosopher of Black Existentialism, Lewis Gordon](/articles/fear-of-black-consciousness-lewis-gordon-interview/).
 
-But what most existentialist thinkers want to argue is that even these inherited qualities — the bodies, families, and societies we are born into — do not have to fix us in place: while we are constrained by them, we simultaneously have the ability to exceed or _transcend_ them, to affirm or deny the cultures we are thrown into, to surpass the identities we are given, and thus to choose our own values and meanings. 
+But what most existentialist thinkers want to argue is that even these inherited qualities – the bodies, families, and societies we are born into – do not have to fix us in place: while we are constrained by them, we simultaneously have the ability to exceed or _transcend_ them, to affirm or deny the cultures we are thrown into, to surpass the identities we are given, and thus to choose our own values and meanings. 
 
 As the 20th-century Spanish philosopher José Ortega y Gasset writes, the human being is
 
@@ -82,7 +82,7 @@ As De Beauvoir puts it in her 1947 work, <a target="_blank" rel="noopener norefe
 
 >To be free is not to have the power to do anything you like; it is to be able to surpass the given towards an open future...
 
-The upshot of _existence precedes essence_ — and the kind of freedom it implies — is well articulated by the contemporary philosopher Kevin Aho in a 2023 essay. Aho writes that
+The upshot of _existence precedes essence_ – and the kind of freedom it implies – is well articulated by the contemporary philosopher Kevin Aho in a 2023 essay. Aho writes that
 
 >existence is structured by our capacity to give meaning to our situation based on the actions and choices we make as our lives unfold. Insofar as we exist, we are envisioning a certain kind of life, assigning a value to our identity, and making ourselves into the kind of person we are.
 
@@ -90,7 +90,7 @@ The upshot of _existence precedes essence_ — and the kind of freedom it implie
 
 <span class="big-letter">T</span>he question, then, boils down to this: how should we _use_ our freedom? What interpretations and choices _should_ we make? If we are free to transcend our constraints, to construct our own ‘essences’, to craft the perspectives we want, then what should we do? 
 
-Writing a century before Sartre, the Danish philosopher Soren Kierkegaard noted that when we look for answers _outside_ our own subjectivity, we suffer alienation, apathy, nihilism — for, as meaning-giving creatures, it is we _ourselves_ who must offer and affirm them (see our brief [explainer of Kierkegaard on the meaning of life here](/articles/kierkegaard-on-finding-the-meaning-of-life/), our article on his observation that [while we understand life backwards we must live it forwards here](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/), and our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)).
+Writing a century before Sartre, the Danish philosopher Soren Kierkegaard noted that when we look for answers _outside_ our own subjectivity, we suffer alienation, apathy, nihilism – for, as meaning-giving creatures, it is we _ourselves_ who must offer and affirm them (see our brief [explainer of Kierkegaard on the meaning of life here](/articles/kierkegaard-on-finding-the-meaning-of-life/), our article on his observation that [while we understand life backwards we must live it forwards here](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/), and our reading list of [Kierkegaard’s best books here](/reading-lists/soren-kierkegaard-best-books/)).
 
 Though we are born into cultures of shared symbols and meanings that impinge on our first-person perspectives, ultimately it is _we_ who are responsible for affirming, rejecting, or creating the values by which we govern our lives. 
 
@@ -100,7 +100,7 @@ Sartre goes as far to say that we are thus in fact ‘condemned’ to be free, w
 
 >Man is condemned to be free. Condemned, because he did not create himself; because, once hurled into the world, he is responsible for everything he does.
 
-Kierkegaard also discusses this thought — that our existential freedom leads to anxiety about the limitless possibilities available to us — in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Concept-Anxiety-Psychologically-Deliberation-Hereditary/dp/1631490044?&linkCode=ll1&tag=philosophybre-20&linkId=84a4c593f9794322bb3f9e82d1abf277&language=en_US&ref_=as_li_ss_tl">The Concept of Anxiety</a>:
+Kierkegaard also discusses this thought – that our existential freedom leads to anxiety about the limitless possibilities available to us – in his 1844 work, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Concept-Anxiety-Psychologically-Deliberation-Hereditary/dp/1631490044?&linkCode=ll1&tag=philosophybre-20&linkId=84a4c593f9794322bb3f9e82d1abf277&language=en_US&ref_=as_li_ss_tl">The Concept of Anxiety</a>:
 
 >Anxiety may be compared with dizziness. He whose eye happens to look down the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eye as in the abyss, for suppose he had not looked down. Hence, anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself.
 
@@ -109,15 +109,15 @@ Every choice we make in life affirms a particular value; anxiety is the dizzines
 
 ## If existence precedes essence, if we are responsible for ourselves, then authenticity should be our guide
 
-<span class="big-letter">G</span>iven the anguish of responsibility, it is tempting to give in and fall back on identities and meanings already assigned to us — to surrender to the idea that there _is_ a human nature and that I _am_ determined by my given body / circumstances / culture. 
+<span class="big-letter">G</span>iven the anguish of responsibility, it is tempting to give in and fall back on identities and meanings already assigned to us – to surrender to the idea that there _is_ a human nature and that I _am_ determined by my given body / circumstances / culture. 
 
 Rather than face up to our freedom, we might find it easier or more comfortable to live according to societal norms and the expectations of others.
 
-Existentialists all agree, however, that we are wrong to do this. Suppressing our own freedom is not how we live good lives; playing a part, not being true to ourselves — this will ultimately make us miserable.
+Existentialists all agree, however, that we are wrong to do this. Suppressing our own freedom is not how we live good lives; playing a part, not being true to ourselves – this will ultimately make us miserable.
 
 While the existentialists present diverse answers to the question of how we should live with radical freedom, the unifying theme of their recommendations is _authenticity:_ to freely do what is valuable not according to external sources or pressures, but according _to you._ 
 
-Inauthenticity — or ‘bad faith’, as Sartre calls it — is when we let our own existential freedom be inhibited through complacency or conformity, when we let other things or people dictate value or define us, when we fix ourselves to static roles or identities rather than recognize ourselves as ever-becoming _beings_. (For more here, see my explainer on [Sartre’s famous discussion of the waiter and bad faith](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/).) 
+Inauthenticity – or ‘bad faith’, as Sartre calls it – is when we let our own existential freedom be inhibited through complacency or conformity, when we let other things or people dictate value or define us, when we fix ourselves to static roles or identities rather than recognize ourselves as ever-becoming _beings_. (For more here, see my explainer on [Sartre’s famous discussion of the waiter and bad faith](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/).) 
 
 If there were an existential imperative for self-governance, it would be this: never deny your own freedom. (Or, indeed, that of others). Life is endlessly unfolding, and so is your being.
 
@@ -133,19 +133,19 @@ Existential heroes serve to inspire us to break out of complacency, resist comfo
 
 There is Kierkegaard’s _Knight of Faith_, someone “willing to be one’s own self”; there is Hedeigger’s _Resolute Dasein_, someone able to “pull themselves together” from being lost and scattered in “the They”; and perhaps most famously there is Nietzsche’s _Übermensch_, a being whose continual becoming depends not on external systems but on their _own_ created values (for more here, check out my [Übermensch explainer](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)). 
 
-And, if these existential heroes don’t do it for us — if, in fact, we harbor suspicions that all our meaning-making projects are ultimately doomed to failure and absurdity — then perhaps it is the absurdist hero of Sisyphus upon whom we might base our approach to authenticity, as suggested by French thinker Albert Camus in his famous 1942 essay, the <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=58906ec1aca7f5cb071dcaadf8a87e94">The Myth of Sisyphus</a>.
+And, if these existential heroes don’t do it for us – if, in fact, we harbor suspicions that all our meaning-making projects are ultimately doomed to failure and absurdity – then perhaps it is the absurdist hero of Sisyphus upon whom we might base our approach to authenticity, as suggested by French thinker Albert Camus in his famous 1942 essay, the <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0525564454/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525564454&linkId=58906ec1aca7f5cb071dcaadf8a87e94">The Myth of Sisyphus</a>.
 
-For, if ultimate meaning remains forever inaccessible to us, Camus posits, perhaps we can nevertheless establish purpose — even happiness — in the mere act of _striving_ (for more here, see my [explainer of Sisyphus, Camus, and his response to absurdity](/articles/absurdity-with-camus/)). 
+For, if ultimate meaning remains forever inaccessible to us, Camus posits, perhaps we can nevertheless establish purpose – even happiness – in the mere act of _striving_ (for more here, see my [explainer of Sisyphus, Camus, and his response to absurdity](/articles/absurdity-with-camus/)). 
 
 ## Are we as free to shape our lives as the existentialists think?
 
-<span class="big-letter">O</span>ne major assumption underlying the existentialist view outlined thus far — i.e. that we are free to perpetually create and recreate ourselves as our lives unfold — is that, well, we are in fact free to do so. 
+<span class="big-letter">O</span>ne major assumption underlying the existentialist view outlined thus far – i.e. that we are free to perpetually create and recreate ourselves as our lives unfold – is that, well, we are in fact free to do so. 
 
 Hard determinists suggest [free will is an illusion](/articles/free-will-illusion-sam-harris/): that though we may _feel_ free, our wills are actually determined by circumstances beyond our control. 
 
 In his 1677 work <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/gp/product/0140435719/ref=as_li_tl?ie=UTF8&tag=philosophybre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140435719&linkId=40b9b0a44d0cbd360115ad7e2861c3bd">Ethics</a>, the philosopher Baruch Spinoza puts this position succinctly: 
 
->There is in the mind no absolute or free will; but the mind is determined in willing this or that by a cause which is determined in its turn by another cause, and this by another, and so on to infinity… People think themselves free because they are conscious of their volitions and desires — but they are ignorant of the causes by which they’re led to wish and desire.
+>There is in the mind no absolute or free will; but the mind is determined in willing this or that by a cause which is determined in its turn by another cause, and this by another, and so on to infinity… People think themselves free because they are conscious of their volitions and desires – but they are ignorant of the causes by which they’re led to wish and desire.
 
 Such a position might seem to be entirely incompatible with the existentialist project, for it suggests we can never transcend the causal chains that constrains us, and thus never really _choose_ anything for ourselves: _everything_ is chosen for us by relentless determinism, regardless of the delusional coping mechanisms we invent to pretend otherwise. 
 
@@ -174,19 +174,19 @@ As he puts it in §21 of his 1886 work <a target="_blank" rel="noopener noreferr
 
 >Suppose someone sees through the boorish naivete of this famous concept of ‘free will’ and manages to get it out of his mind; I would then ask him to carry his ‘enlightenment’ a step further and to rid his mind of the reversal of this misconceived concept of ‘free will’: I mean the ‘un-free will,’ which is basically an abuse of cause and effect. We should not erroneously objectify ‘cause’ and ‘effect’ like the natural scientists do (and whoever else thinks naturalistically these days -) in accordance with the dominant mechanistic stupidity which would have the cause push and shove until it ‘effects’ something; we should use ‘cause’ and ‘effect’ only as pure concepts, which is to say as conventional fictions for the purpose of description and communication, not explanation. In the ‘in-itself’ there is nothing like ‘causal association,’ ‘necessity,’ or ‘psychological un-freedom.’ There, the ‘effect’ does not follow ‘from the cause,’ there is no rule of ‘law.’ We are the ones who invented causation, succession, for-each-other, relativity, compulsion, numbers, law, freedom, grounds, purpose; and if we project and inscribe this symbol world onto things as an ‘in-itself,’ then this is the way we have always done things, namely mythologically. The ‘un-free will’ is mythology; in real life it is only a matter of strong and weak wills.
 
-Following this critique, Nietzsche develops an account of the human being as both “creature and creator” — that a mediated freedom can arise from the ‘drives’ and ‘impulses’ that make us up. 
+Following this critique, Nietzsche develops an account of the human being as both “creature and creator” – that a mediated freedom can arise from the ‘drives’ and ‘impulses’ that make us up. 
 
 While the free will debate rages on, Nietzsche’s approach perhaps provides one option for how existentialist thinkers might defend their projects of self-creation from hard determinism. 
 
 ## Learn more about existentialism
 
-<span class="big-letter">S</span>artre believed the insight captured by his slogan — _existence precedes essence_ — to be of fundamental importance. That we are free to transcend the identities given to us; that there is no human nature, only a human condition; that it is our own subjectivity that must ultimately define meaning and value — these are powerful, if rather audacious, thoughts (indeed, find a defense of human nature in the philosopher [Mary Midgley’s reflections on the nature vs. nurture debate](/articles/why-nature-vs-nurture-is-a-false-dichotomy-mary-midgley/)).
+<span class="big-letter">S</span>artre believed the insight captured by his slogan – _existence precedes essence_ – to be of fundamental importance. That we are free to transcend the identities given to us; that there is no human nature, only a human condition; that it is our own subjectivity that must ultimately define meaning and value – these are powerful, if rather audacious, thoughts (indeed, find a defense of human nature in the philosopher [Mary Midgley’s reflections on the nature vs. nurture debate](/articles/why-nature-vs-nurture-is-a-false-dichotomy-mary-midgley/)).
 
-What do you make of Sartre’s slogan? Do you think the insights of existentialism are true, or that they’re more a coping mechanism for life? Do you agree that existence precedes essence? Or do you think we are born into identities, roles, obligations — even fates — from which we cannot so easily release ourselves?
+What do you make of Sartre’s slogan? Do you think the insights of existentialism are true, or that they’re more a coping mechanism for life? Do you agree that existence precedes essence? Or do you think we are born into identities, roles, obligations – even fates – from which we cannot so easily release ourselves?
 
 If you’re interested in learning more about existentialist philosophy, consider checking out my brief [introduction to existentialism as both a movement and philosophy](/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/). You might also like my reading list of [existentialism’s best books](/reading-lists/existentialism/).
 
-Finally, if you’re interested in comparing existentialism — including its insights on authenticity, freedom, meaning, and the good life — to 6 other philosophical approaches to life, then consider exploring my new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which weighs up the wisdom of 7 rival philosophies for life.
+Finally, if you’re interested in comparing existentialism – including its insights on authenticity, freedom, meaning, and the good life – to 6 other philosophical approaches to life, then consider exploring my new guide, [How to Live a Good Life (According to 7 of the World’s Wisest Philosophies)](/how-to-live-a-good-life/), which weighs up the wisdom of 7 rival philosophies for life.
 
 <!--how to live a good life-->
 <div class="course-promo darkradial-background subscribe text-center">

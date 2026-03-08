@@ -29,11 +29,11 @@ const ReadingList = ({ data, location }) => {
 
           {/*reading list content*/}
           <div id="break-start" className="page-center" style={{marginBottom: 48}}>
-              <p><span className="big-letter">A</span>yn Rand (1905 - 1982) is the pen name of Alice O’Connor, a Russian-born American writer and thinker. Early on in her career, Rand wrote short stories, plays, and screenplays, and in her later novels and essays went on to develop a philosophical system — which she named ‘Objectivism’ — which includes an <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/reading-lists/political-philosophy/">political philosophy</Link>, and a theory of art.</p>
+              <p><span className="big-letter">A</span>yn Rand (1905 - 1982) is the pen name of Alice O’Connor, a Russian-born American writer and thinker. Early on in her career, Rand wrote short stories, plays, and screenplays, and in her later novels and essays went on to develop a philosophical system – which she named ‘Objectivism’ – which includes an <Link to="/reading-lists/epistemology/">epistemology</Link>, <Link to="/reading-lists/political-philosophy/">political philosophy</Link>, and a theory of art.</p>
 
               <p>Rand’s Objectivist movement had a number of devoted followers. Her relationship with philosophy, however, was (and remains) rather controversial in that only a limited number of professional philosophers took her work seriously. This is due to the somewhat polemical style of her writing, and her rather cursory dismissal of other thinkers of the time.</p> 
                   
-              <p>Rand’s perceived lack of methodical rigor and philosophical engagement means her ideas have been rejected by some critics as mere ‘pseudo-philosophy’. Consequently, her influence in philosophy has been rather limited — though her novels, despite mixed critical reviews, continue to attract readers.</p>
+              <p>Rand’s perceived lack of methodical rigor and philosophical engagement means her ideas have been rejected by some critics as mere ‘pseudo-philosophy’. Consequently, her influence in philosophy has been rather limited – though her novels, despite mixed critical reviews, continue to attract readers.</p>
 
               <p>This reading list consists of the best books on and by Ayn Rand. After reading the books on this list, you’ll understand exactly why her ideas (and her presentation of them) continue to generate interest and controversy today. Let’s dive in!</p>
 
@@ -54,7 +54,7 @@ const ReadingList = ({ data, location }) => {
               <h2>3. Atlas Shrugged, by Ayn Rand</h2>
               <BookLink title="Atlas Shrugged" author="Ayn Rand" link="http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0452011876?&linkCode=ll1&tag=philosophybre-20&linkId=ba5fbf7ac92584ef9b8565abbc42ee62&language=en_US&ref_=as_li_ss_tl" img={data.three.childImageSharp.gatsbyImageData} />
               <p>Perhaps the most famous of her fiction, <a target="_blank" rel="noopener noreferrer sponsored" href="http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0452011876?&linkCode=ll1&tag=philosophybre-20&linkId=ba5fbf7ac92584ef9b8565abbc42ee62&language=en_US&ref_=as_li_ss_tl">Atlas Shrugged</a> is commonly perceived to be Rand’s magnum opus, and is the fullest expression of her Objectivist philosophy in fiction. At over 1,000 pages, it is also her longest.</p>
-              <p>Rand imagines what would happen if the ‘brains’ of the world, society’s core individual innovators, went on strike, and tells most of the story — and conveys the bulk of her philosophical ideas — through very long dialogues between characters.</p>
+              <p>Rand imagines what would happen if the ‘brains’ of the world, society’s core individual innovators, went on strike, and tells most of the story – and conveys the bulk of her philosophical ideas – through very long dialogues between characters.</p>
               <p>Published in 1957, this is Rand’s major statement against the communism of Soviet Russia, and a full-blooded defense of capitalism and individualist values. It’s essential reading for anyone looking to fully immerse themselves in Rand’s worldview, though due to its length, not for the faint-hearted.</p>
               
 

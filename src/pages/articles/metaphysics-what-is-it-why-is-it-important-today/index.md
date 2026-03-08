@@ -24,11 +24,11 @@ As 18th-century German philosopher [Immanuel Kant](/reading-lists/immanuel-kant/
 
 ‘Metaphysics’ was actually coined by Andronicus of Rhodes, a bibliographer of [Aristotle’s books](/reading-lists/aristotle/) in the first century BCE. 
 
-Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ — or, ‘Metaphysics’. 
+Andronicus was looking to categorize the works that came after Aristotle’s writings on ‘Physics’, and thus simply grouped them with the title ‘After Physics’ – or, ‘Metaphysics’. 
 
 Putting its rather arbitrary etymological origins to one side, we can say the word ‘metaphysics’ refers to the philosophical study of _reality:_ metaphysics essentially attempts to establish a coherent picture of what reality ultimately _is_ and how reality ultimately _works_. 
 
-In doing so, it explores basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness — most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
+In doing so, it explores basic issues around substance, existence, causality, determinism, modality, ontology, possibility, and nothingness – most of which are [discussed by Aristotle in those initial writings](/reading-lists/metaphysics/) grouped by Andronicus, but also by philosophers throughout history. 
 
 To borrow American philosopher Wilfrid Sellars’s famous definition of philosophy, the aim of metaphysics is essentially...
 
@@ -36,7 +36,7 @@ To borrow American philosopher Wilfrid Sellars’s famous definition of philosop
 
 ## What is the difference between metaphysics and physics?
 
-<span class="big-letter">O</span>f course, there is overlap with the sciences here — notably physics — and we might think that actually physicists, backed by scientific data and experiment, are much better placed to ponder questions on the fundamental nature of reality than metaphysicians, who depend on armchair reasoning and deductive logic to construct their theories.
+<span class="big-letter">O</span>f course, there is overlap with the sciences here – notably physics – and we might think that actually physicists, backed by scientific data and experiment, are much better placed to ponder questions on the fundamental nature of reality than metaphysicians, who depend on armchair reasoning and deductive logic to construct their theories.
 
 But, when it comes to reality, some philosophers argue there are questions that go beyond the scope of physics (after all, physics investigates _what we are able_ to investigate, and philosophers have long suspected that what we are able to investigate may not be all there is). 
 
@@ -68,23 +68,23 @@ For example, physicists may investigate the charge of a particle; a metaphysicia
 
 A physicist may investigate how particles causally interact; a metaphysician attempts to characterize causation itself. 
 
-A physicist may investigate the origins of the universe and theorize about its fundamental laws; a metaphysician asks [_why_ the universe exists](/articles/why-does-anything-exist/) — and _why_ its laws obtain the way they do. 
+A physicist may investigate the origins of the universe and theorize about its fundamental laws; a metaphysician asks [_why_ the universe exists](/articles/why-does-anything-exist/) – and _why_ its laws obtain the way they do. 
 
 A physicist uses mathematics to express theory; a metaphysician asks what numbers are (i.e. whether numbers actually exist, or if they’re just useful fictions). 
 
-Indeed, ontology — the study of being or what it means for something to exist — has been a key battleground for metaphysicians throughout the ages.
+Indeed, ontology – the study of being or what it means for something to exist – has been a key battleground for metaphysicians throughout the ages.
 
 Scientists or mathematicians may very well ask these questions too; but when they do so, it should be recognized that they are making metaphysical inquiries, and metaphysical positions should not be taken for granted. 
 
-For instance, the principle of physicalism — that everything that exists in the universe is either physical or reducible down to physical ‘stuff’ — might seem commonsensical; but it is actually a _metaphysical position_ — one that philosophers have long disputed, from [George Berkeley denying the existence of matter](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/) (and claiming everything is made of ‘mental stuff’ instead) to [philosophers of consciousness today challenging physicalist conceptions](/articles/why-zombies-cause-problems-brain-science-consciousness/) of the mind. 
+For instance, the principle of physicalism – that everything that exists in the universe is either physical or reducible down to physical ‘stuff’ – might seem commonsensical; but it is actually a _metaphysical position_ – one that philosophers have long disputed, from [George Berkeley denying the existence of matter](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/) (and claiming everything is made of ‘mental stuff’ instead) to [philosophers of consciousness today challenging physicalist conceptions](/articles/why-zombies-cause-problems-brain-science-consciousness/) of the mind. 
 
 The point here is not so much about whether physicalism is correct: it’s recognizing that there is a debate to be had in the first place, and in surfacing and examining any and all presuppositions upon which our theories about the world may rest. 
 
-Metaphysics is a rabbit hole about which many disagree. Beyond the general lines of inquiry referenced above, debates abound over what metaphysics even is or should be — especially in its relation to modern science. 
+Metaphysics is a rabbit hole about which many disagree. Beyond the general lines of inquiry referenced above, debates abound over what metaphysics even is or should be – especially in its relation to modern science. 
 
 ## What questions does metaphysics investigate?
 
-<span class="big-letter">W</span>hile the lines between metaphysics and the sciences may seem a little blurred, as a quick summary we can say that, at root, many problems in science and philosophy — including [whether we have free will](/reading-lists/free-will/), whether [consciousness is physical](/reading-lists/consciousness/), and what causation is — are metaphysical in nature.
+<span class="big-letter">W</span>hile the lines between metaphysics and the sciences may seem a little blurred, as a quick summary we can say that, at root, many problems in science and philosophy – including [whether we have free will](/reading-lists/free-will/), whether [consciousness is physical](/reading-lists/consciousness/), and what causation is – are metaphysical in nature.
 
 Here are some further questions metaphysicians might investigate:
 
