@@ -1,6 +1,6 @@
 ---
-title: "Living When the World Feels Broken: the Stoics and Toni Morrison"
-description: 'The Stoics, Toni Morrison, and Jane Goodall on facing uncertain times with collective strength and understanding, rather than isolated pain and fear…'
+title: "How Can We Live When the World Feels Broken? The Stoics: By Carrying On"
+description: 'The Stoics, Toni Morrison, C.S. Lewis, and Jane Goodall on facing uncertain times with collective strength rather than isolated fear.'
 image: "./sophia.jpg"
 imageAlt: "St. Sophia the Almighty Wisdom, by Nicholas Roerich (1932)"
 imageSeo: "./sophia.jpg"
@@ -65,6 +65,10 @@ But that is not the end of the story. Stoic cosmopolitanism demands we work on o
 The dichotomy of control doesn’t mean ignoring the world; it simply means attaching our wellbeing to our own efforts in improving it, by being a good person for ourselves and others.
 
 Rather than feel overwhelmed by unfathomably large and complicated problems, rather than drown in a stream of urgent, turbulent, inexhaustible news, we give ourselves permission to focus our energies on doing what _we_ can to live a good life, here and now.
+
+As C.S. Lewis puts it in a 1948 essay:
+
+>If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things – praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts – not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.
 
 We are all interconnected, say the Stoics, all part of one world community, and so by actively improving ourselves we improve the world. _Action is the great liberator_. That action might be political, it might be artistic, it might just be a small act of kindness each day. As Marcus urges us:
 
