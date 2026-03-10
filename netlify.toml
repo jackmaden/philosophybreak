@@ -6,17 +6,21 @@
   autoLaunch = true
 
 [[edge_functions]]
-  path = "/*"
+  path = "/"
   function = "set-country"
-  excludedPattern = [
-    "/.netlify/*",
-    "/static/*",
-    "/*.js",
-    "/*.json",
-    "/*.css",
-    "/*.png",
-    "/*.jpg",
-    "/*.svg",
-    "/*.webp",
-    "/*.map"
-  ]
+
+[[edge_functions]]
+  path = "/articles/*"
+  function = "set-country"
+
+[[edge_functions]]
+  path = "/how-to-live-a-good-life*"
+  function = "set-country"
+
+[[edge_functions]]
+  path = "/lifes-big-questions*"
+  function = "set-country"
+
+[[edge_functions]]
+  path = "/introduction-to-nietzsche*"
+  function = "set-country"
