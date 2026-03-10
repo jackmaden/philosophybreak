@@ -14,6 +14,14 @@
   function = "set-country"
 
 [[edge_functions]]
+  path = "/reading-lists/*"
+  function = "set-country"
+
+[[edge_functions]]
+  path = "/courses/"
+  function = "set-country"
+
+[[edge_functions]]
   path = "/how-to-live-a-good-life*"
   function = "set-country"
 
