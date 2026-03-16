@@ -97,6 +97,7 @@ In accessible language, Nagel manages to capture the mind-body mystery, the prob
 
 To inform your answers, you might enjoy the following related Philosophy Breaks:
 
+- [Wittgenstein: If a Lion Could Talk, We Could Not Understand Him](/articles/wittgenstein-if-a-lion-could-talk-we-could-not-understand-him/)
 - [Do Neurons Push Thoughts Around? Or Do Thoughts Push Neurons Around?](/articles/do-neurons-push-thoughts-around-or-do-thoughts-push-neurons-around/)
 - [What is Consciousness?](/articles/what-is-consciousness/)
 - [Why ‘Zombies’ Cause Problems for Brain Science and Consciousness](/articles/why-zombies-cause-problems-brain-science-consciousness/)
