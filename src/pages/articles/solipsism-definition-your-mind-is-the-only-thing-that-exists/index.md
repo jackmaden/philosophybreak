@@ -5,7 +5,7 @@ image: "./monk.jpeg"
 imageAlt: "Monk by the Sea, by Caspar David Friedrich (1809)"
 imageSeo: "./monk.jpeg"
 tags: ["Solipsism"]
-date: "2026-03-23"
+date: "2026-03-22"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"

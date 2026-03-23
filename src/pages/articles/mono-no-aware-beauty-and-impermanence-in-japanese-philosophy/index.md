@@ -1,15 +1,16 @@
 ---
-title: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
+title: "Mono No Aware: Blossom, Beauty, and Impermanence in Japanese Philosophy"
 description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world, as well as the ephemeral nature of everything in it."
-image: "./cherryb.jpg"
-imageAlt: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
-imageSeo: "./cherryb.jpg"
+image: "./scherry.jpg"
+imageAlt: "Cherry Blossoms by Night, by Utagawa Kuniyoshi (1798 - 1861)"
+imageSeo: "./scherry.jpg"
 tags: ["Aesthetics", "Buddhism"]
-date: "2024-06-26"
+date: "2026-03-23"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Cherry Blossoms by Night, by Utagawa Kuniyoshi (1798 - 1861), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Yayoi_no_yo-zakura_%E5%BC%A5%E7%94%9F%E4%B9%8B%E5%A4%9C%E6%A1%9C_(Cherry_Blossoms_by_Night_in_the_Third_Month)_(BM_2008,3037.19414_1).jpg">via Wikimedia Commons</a></p>
 
 <span class="big-letter">F</span>or a few short weeks each year, cherry blossoms bloom in Japan. Astonishing pinks burgeon across parks and gardens; admiring picnickers gather in shaded viewing spots; the _sakura_ trees stand glittering and resplendent in the spring sunshine.
 
@@ -51,17 +52,13 @@ The right kind of action is unlikely to occur, however, without proper understan
 
 ## Cultivating mono no aware
 
-<span class="big-letter">T</span>he 18th-century Japanese philosopher and literary critic Motoori Norinaga popularized the phrase _mono no aware_ in his analysis of 11th-century noblewoman Murasaki Shikibu’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Tale-Genji-Penguin-Classics-Deluxe/dp/014243714X?&linkCode=ll1&tag=philosophybre-20&linkId=b8f042505194fcd594d21d6bb987289c&language=en_US&ref_=as_li_ss_tl">The Tale of Genji</a>, thought to be one of the world’s first novels.
+<span class="big-letter">T</span>he more we recognize _mono no aware_ in the world around us, the closer we get to experiencing and developing a shrewd understanding of reality’s true nature.
 
-Shikibu’s brilliance, Norinaga notes, lies in her evocation of life’s ephemeral nature. Her descriptions and characters are centered totally around the theme of impermanence, allowing readers to share in this profound sense of _mono no aware_. 
-
-The more we recognize _mono no aware_ in the world around us, the closer we get to experiencing and developing a shrewd understanding of reality’s true nature.
-
-While great art captures the wistful feeling of _mono no aware_, cultivating a sensitivity to it is up to us. Norinaga writes: 
+As the 18th-century Japanese philosopher Motoori Norinaga puts it:
 
 >To know _mono no aware_ is to discern the power and essence, not just of the moon and the cherry blossoms, but of every single thing existing in this world, and to be stirred by each of them.
 
-Indeed, feeling rueful when the cherry blossoms fall is just the beginning: it evidences our basic emotional connection to the world.
+Feeling rueful when the cherry blossoms fall is just the beginning: it evidences our basic emotional connection to the world.
 
 Evolving from there means truly comprehending the flowers’ fate – a sudden arrival, a radiant glow, a disappearance – as the beautiful fate of us all.
 
