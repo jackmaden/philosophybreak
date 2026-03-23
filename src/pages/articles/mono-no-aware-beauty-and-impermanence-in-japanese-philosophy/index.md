@@ -1,6 +1,6 @@
 ---
 title: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
-description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world – and the ephemeral nature of everything in it."
+description: "The classical Japanese idiom mono no aware denotes an emotional connection to the world, as well as the ephemeral nature of everything in it."
 image: "./cherryb.jpg"
 imageAlt: "Mono No Aware: Beauty and Impermanence in Japanese Philosophy"
 imageSeo: "./cherryb.jpg"
@@ -23,7 +23,7 @@ This traditional custom of _hanami_ (literally: flower-viewing) celebrates not j
 
 Cherry blossoms tend to fall within a week of appearing. Accordingly, they perfectly encapsulate the Japanese idiom _mono no aware_, which typically translates as ‘the pathos of things’, expressing the power objects have in evoking feelings of impermanence and the passing of time.
 
-In other words: _mono no aware_ denotes an emotional connection to the world – and the ephemeral nature of everything in it.
+In other words: _mono no aware_ denotes an emotional connection to the world, as well as the ephemeral nature of everything in it.
 
 ## Facing impermanence
 
@@ -43,23 +43,6 @@ In another passage – reminiscent of the Roman philosophers [Seneca on the shor
 
 >How is it possible for men not to rejoice each day over the pleasure of being alive? Foolish men, forgetting this pleasure, laboriously seek others; forgetting the wealth they possess, they risk their lives in their greed for new wealth. But their desires are never satisfied. While they live they do not rejoice in life, but, when faced with death, they fear it – what could be more illogical?
 
-<!--small subscribe-->
-<div class="course-promo darkradial-background subscribe text-center">
-    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
-    <div class="small-pad-top">
-        <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
-        <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
-            <div>
-                <input name="email_address" aria-label="Your Email Address..." placeholder="Your Email Address..." required type="email" />
-            </div>
-            <button class="button primary" type="submit" data-element="submit"><div><div></div><div></div><div></div></div><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Join 25,000+ Subscribers</span></button>
-            </div>
-            </div>
-        </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
-    </div>
-</div>
-
 Rather than letting it sink us into despair, then, Kenkō suggests we grasp impermanence as a call to action:
 
 >It does not matter how young or strong you may be, the hour of death comes sooner than you expect. It is an extraordinary miracle that you should have escaped to this day; do you suppose you have even the briefest respite in which to relax?
@@ -70,7 +53,7 @@ The right kind of action is unlikely to occur, however, without proper understan
 
 <span class="big-letter">T</span>he 18th-century Japanese philosopher and literary critic Motoori Norinaga popularized the phrase _mono no aware_ in his analysis of 11th-century noblewoman Murasaki Shikibu’s <a target="_blank" rel="noopener noreferrer sponsored" href="https://www.amazon.com/Tale-Genji-Penguin-Classics-Deluxe/dp/014243714X?&linkCode=ll1&tag=philosophybre-20&linkId=b8f042505194fcd594d21d6bb987289c&language=en_US&ref_=as_li_ss_tl">The Tale of Genji</a>, thought to be one of the world’s first novels.
 
-Shikibu’s brilliance, Norinaga notes, lies in her evocation of life’s ephemeral nature – her descriptions and characters are centered totally around the theme of impermanence, allowing readers to share in this profound sense of _mono no aware_. 
+Shikibu’s brilliance, Norinaga notes, lies in her evocation of life’s ephemeral nature. Her descriptions and characters are centered totally around the theme of impermanence, allowing readers to share in this profound sense of _mono no aware_. 
 
 The more we recognize _mono no aware_ in the world around us, the closer we get to experiencing and developing a shrewd understanding of reality’s true nature.
 
