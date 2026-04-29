@@ -22,7 +22,7 @@ So important is friendship, Aristotle declares, that it may even trump justice w
 
 >When men are friends they have no need of justice, while when they are just they need friendship as well, and the truest form of justice is thought to be a friendly quality.
 
-So what makes a friendship? What draws us to some people, and not others?
+So what makes a friendship? What bonds us to some people, and not others?
 
 Aristotle suggests we’re drawn to people for one or a combination of the following reasons: because they are useful to us in some way, because we enjoy their company, or because we approve of or admire their character.
 
