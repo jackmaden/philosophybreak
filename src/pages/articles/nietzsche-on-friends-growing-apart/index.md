@@ -53,6 +53,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)
 - [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)
 - [Aldous Huxley: Other People’s Lives are Ultimately Unknowable](/articles/aldous-huxley-other-peoples-lives-are-ultimately-unknowable/)
+- [The Porcupine’s Dilemma: Schopenhauer’s Wistful Parable On Human Connection](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/)
 - [Friedrich Nietzsche’s Life, Insanity, and Legacy](/articles/friedrich-nietzsches-life-insanity-and-legacy/)
 - [Friedrich Nietzsche: the Best 9 Books to Read](/reading-lists/friedrich-nietzsche/)
 

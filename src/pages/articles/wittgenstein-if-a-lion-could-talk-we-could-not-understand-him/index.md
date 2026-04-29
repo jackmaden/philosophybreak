@@ -125,7 +125,6 @@ The aspiration to find a final set of concepts and words that interrogate and ex
 
 To inform your answers, you might enjoy the following related Philosophy Breaks:
 
-
 - [Thomas Nagel: What is it Like to be a Bat?](/articles/thomas-nagel-what-is-it-like-to-be-a-bat/)
 - [On Reconciling Ourselves to the Vastness of Space: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [Kant’s Transcendental Idealism: the ‘Copernican Revolution’ of Philosophy](http://philosophybreak.com/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/)

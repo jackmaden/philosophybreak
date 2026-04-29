@@ -70,6 +70,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
 - [Nietzsche on Friends Growing Apart](/articles/nietzsche-on-friends-growing-apart/)
+- [The Porcupine’s Dilemma: Schopenhauer’s Wistful Parable On Human Connection](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/)
 - [Ubuntu Philosophy: Wealth Resides in the Health of the Community](/articles/ubuntu-philosophy-wealth-resides-in-the-health-of-the-community/)
 - [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)
 - [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
