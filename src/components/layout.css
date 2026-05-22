@@ -94,6 +94,8 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 .gradient-text {
   background-color: #001d30; background-image: linear-gradient(to right, #001d30, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;
 }
+/*tpp*/
+.tpp-margin {margin: 0 5em 2em !important;}
 
 @media (min-width: 620px) {
   p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
@@ -104,7 +106,8 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .fade-out {height: 200px;}
   .flex-normal-mob-end-desk {align-items: flex-end;}
   .image-caption-tap {font-size: 12px; margin-top:-46px;}
-  
+  /*tpp*/
+.tpp-margin {margin: 0 8em 2em !important;}
 }
 @media (min-width: 1020px) {
   .small-pad-desktop {padding: 24px 0;}
@@ -128,6 +131,9 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.align-top, .three-col.align-top, .four-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
+  .two-col.massive-1-col > div:first-child {width: 30%}
+  .two-col.massive-1-col > div:last-child {width: 62%}
+
   .two-col.big-1-col.about-author > div:first-child {width: 20%}
   .two-col.big-1-col.about-author > div:last-child {width: 74%}
   /*home page special width*/
@@ -136,6 +142,8 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.text > div {width: 48%;}
   .three-col > div {width: 30%;}
   figure.gatsby-resp-image-figure.big-image {margin: 3.2em 0 3em -200px; width: 1000px;}
+    /*tpp*/
+.tpp-margin {margin: 2em 0 !important;}
 }
 @media (min-width: 1120px) {
   figure.gatsby-resp-image-figure.big-image {margin-left: -250px; width: 1100px;}
@@ -614,6 +622,7 @@ div.separator.reading-list {margin: -3px 0 10px; width: 94px;}
 div.separator.reading-list.banner {width: 80px; height: 2px;}
 div.separator.course {margin: -3px 0 10px; width: 94px;}
 div.separator.course.new {margin-top: -9px; margin-left: 45px;}
+div.separator.course.book {width: 52px}
 div.separator.course.wider {width: 110px;}
 div.separator.course.lbq {width: 208px;}
 div.separator.course.pfl {width: 134px;}
@@ -631,6 +640,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   div.separator.reading-list {width: 114px;}
   div.separator.reading-list.banner, #break-start div.separator.reading-list.banner {width: 96px; margin-top: -2px;}
   div.separator.course {width: 112px; margin-top: -5px;}
+  div.separator.course.book {width: 62px}
   div.separator.course.wider {width: 128px;}
   div.separator.course.lbq {width: 250px;}
   div.separator.course.pfl {width: 162px;}
