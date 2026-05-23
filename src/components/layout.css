@@ -464,6 +464,11 @@ div#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   #footer .four-col > div {width: 22.5%;}
 }
 
+/*tpp book-reviews*/
+.heading-lines {line-height: 1.5;}
+.book-review {font-size: 16px;}
+@media (min-width: 620px) {.book-review {font-size: 18px;}}
+
 
 /*different class for WHY IS PHILOSOPHY IMPORTANT page (hero wrapped in featured-image-full) */
 div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% center !important;}
