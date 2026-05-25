@@ -467,7 +467,23 @@ div#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 /*tpp book-reviews*/
 .heading-lines {line-height: 1.5;}
 .book-review {font-size: 16px;}
-@media (min-width: 620px) {.book-review {font-size: 18px;}}
+div.book-format {text-align: justify; text-justify: inter-word;}
+div#break-start.book-format {margin: 0 18px;}
+div#break-start.book-format p {margin: 0; text-indent: 1.2em;}
+div#break-start.book-format p.book-quote {width: 75%; margin-left: 10%; text-indent: 0; text-align: left;}
+div#break-start.book-format h2 {text-align: center; font-family: 'Spectral'; margin-top: 3em; margin-bottom: 1.5em; font-weight: 400; letter-spacing: 0.15em; font-size: 18px;}
+div#break-start.book-format h2.main {text-align: left; font-size: 26px; margin-top: 1em; margin-bottom: 0em;}
+.book-contents h4 {margin-top: 1.5em; letter-spacing: 0.1em;}
+.book-contents h4, .book-contents p {font-family: 'spectral'; line-height: 2;}
+.book-contents p span {display: block; font-style: italic; margin-left: 0.8em;}
+@media (min-width: 620px) {
+  .book-review {font-size: 18px;}
+  div#break-start.book-format {margin: 0 auto;}
+  div#break-start.book-format p.book-quote {width: 55%;}
+  div#break-start.book-format h2 {font-size: 20px;}
+  div#break-start.book-format h2.main {font-size: 32px;}
+}
+
 
 
 /*different class for WHY IS PHILOSOPHY IMPORTANT page (hero wrapped in featured-image-full) */
