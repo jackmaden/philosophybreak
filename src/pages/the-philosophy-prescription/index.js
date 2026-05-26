@@ -30,7 +30,7 @@ const Page = ({ data, location }) => {
             <p className="verified no-mar-top">NEW!</p><span className="tag time new" style={{color: "#001d30"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BOOK</span><div className="separator course new book"></div>
             <h1 id="smaller">The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life</h1>
             <div className="small-mar book-review">By Jack Maden | Released 3rd September 2026</div>
-            <p className="small-grey-font">How might philosophy actually refresh and inform our lives? <i>The Philosophy Prescription</i> matches key thinkers and ideas to 16 common life stages, helping to console, reframe, or challenge our perspectives on everything from being someone’s child and experiencing first love, to navigating friendships, families, careers, money, memory, <i>ennui</i>, grief, and impermanence.</p>
+            <p className="small-grey-font"><b>How might philosophy actually inform our lives?</b> <i>The Philosophy Prescription</i> matches key ideas from ancient and contemporary thinkers to sixteen common life stages. From being someone’s child and experiencing first love, to navigating friendships, families, careers, money, memory, <i>ennui</i>, grief, and impermanence: whatever you’re facing in life, here you’ll find remedies from thousands of years of philosophical thought to challenge, reframe, and enrich your perspective.</p>
             <a target="_blank" rel="noopener noreferrer" className="button primary full-width top-icon-align" href="https://www.penguin.co.uk/books/471237/the-philosophy-prescription-by-maden-jack/9781911742005">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z"/></svg>Pre-order from Penguin</a>
             <AnchorLink className="no-hover" href="#extract"><button className="button secondary full-width top-icon-align"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M143 256.3L7 120.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0L313 86.3c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.4 9.5-24.6 9.5-34 .1zm34 192l136-136c9.4-9.4 9.4-24.6 0-33.9l-22.6-22.6c-9.4-9.4-24.6-9.4-33.9 0L160 352.1l-96.4-96.4c-9.4-9.4-24.6-9.4-33.9 0L7 278.3c-9.4 9.4-9.4 24.6 0 33.9l136 136c9.4 9.5 24.6 9.5 34 .1z"/></svg>View Contents and Read Extract</button></AnchorLink>
@@ -179,7 +179,7 @@ Hannah Arendt (Chapter 7); and we can work through our
 fear of death with classical Japanese sage Kenko (Chapter 16).</p>
 <p>After all, as the Roman philosopher Seneca put it almost
 2,000 years ago, ‘It is not that we have a short time to live,
-but that we waste much of it.’2 Philosophy can be the starting
+but that we waste much of it.’ Philosophy can be the starting
 gun to jolt us out of passing through life as if we’re only going
 through the motions, living only according to the expectations of others, or by norms we’ve never really scrutinised,
 let alone endorsed. Hearing our own half-formed thoughts
@@ -192,13 +192,13 @@ sleep, and Monday Tuesday Wednesday Thursday Friday and
 Saturday according to the same rhythm – this path is easily
 followed most of the time,’ Camus observes. ‘But one day the
 “why” arises and everything begins in that weariness tinged
-with amazement.’3 Hunched in the tube each morning and
+with amazement.’ Hunched in the tube each morning and
 evening, I <i>was</i> weary and amazed. Was there a grander point
 to existence I’d failed to grasp? In Chapter 11, we’ll explore
 Camus’s famous response: that we must perpetually rebel
 against life’s apparent meaninglessness. ‘The realisation that
 life is absurd cannot be an end,’ he assures us, ‘but only a
-beginning . . .’4</p>
+beginning . . .’</p>
 <p>I recall, too, when a few years later I was unsure what to do
 at a major crossroads in my life and career, how the philosopher Laurie Ann Paul provided me with a lightbulb moment.
 If you cannot know the ‘best’ path forward with a major life
@@ -360,7 +360,7 @@ export const query = graphql`{
             gatsbyImageData(layout: CONSTRAINED, placeholder: BLURRED)
         }
     }
-    seo: file(relativePath: {eq: "weekly-break-seo.jpg"}) {
+    seo: file(relativePath: {eq: "tpp-peng-seo.png"}) {
       childImageSharp {
           gatsbyImageData(width: 1200, layout: CONSTRAINED, placeholder: BLURRED)
       }
