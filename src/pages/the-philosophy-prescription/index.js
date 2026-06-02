@@ -360,7 +360,7 @@ export const query = graphql`{
             gatsbyImageData(layout: CONSTRAINED, placeholder: BLURRED)
         }
     }
-    seo: file(relativePath: {eq: "tpp-peng-seo.png"}) {
+    seo: file(relativePath: {eq: "tpp-peng-seo.jpg"}) {
       childImageSharp {
           gatsbyImageData(width: 1200, layout: CONSTRAINED, placeholder: BLURRED)
       }
