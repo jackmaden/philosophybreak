@@ -21,7 +21,7 @@ const AboutAuthor = () => (
             <div>
             <p className="small-grey-font">👋 My name’s Jack, and I’m the Founder and Director of Philosophy Break. I’m the author of <Link to="/the-philosophy-prescription/">The Philosophy Prescription</Link>, which is due for publication by Torva (Penguin Random House) in September 2026. <Link to="/about/">Learn more about me and Philosophy Break here.</Link></p>
             <p className="small-grey-font">If you enjoy learning about humanity’s greatest thinkers, you might like my free Sunday email. I break down one mind-opening idea from philosophy, and invite you to share your view.</p>
-            <p className="small-grey-font"><Link to="/weekly-emails/">Subscribe for free here</Link>, and join 26,000+ philosophers enjoying a nugget of profundity each week (free forever, no spam, unsubscribe any time).</p>
+            <p className="small-grey-font"><Link to="/weekly-emails/">Subscribe for free here</Link>, and join 27,000+ philosophers enjoying a nugget of profundity each week (free forever, no spam, unsubscribe any time).</p>
             </div>
         </div>
         </div>
