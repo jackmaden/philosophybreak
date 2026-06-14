@@ -55,7 +55,7 @@ We don’t just sustain ourselves in the world, we _reshape_ the world: we build
 
 Unlike labor and work, action is not governed by necessity or instrumental calculation, but by freedom and plurality. It’s where we appear before one another as equals to discuss, deliberate, and instigate something unprecedented in the public­ realm – the consequences of which we cannot fully predict or control.
 
-Whether it leads to a new political institution, the advancement of a fresh idea, or simply a local initiative among neighbours, action introduces novelty into the web of human relationships. We don’t just subsist in the world, and we don’t merely shape it with artefacts: through action we _announce who we are._ It is via action that the world is not just constructed, but _changed:_ action brings meaning to the human world.
+Whether it leads to a new political institution, the advancement of a fresh idea, or simply a local initiative among neighbours, action introduces novelty into the web of human relationships. We don’t just subsist in the world, and we don’t merely shape it with artifacts: through action we _announce who we are._ It is via action that the world is not just constructed, but _changed:_ action brings meaning to the human world.
 
 ## Work is degrading into labor, and action is degrading into work
 
@@ -69,7 +69,7 @@ As Arendt puts it in <a target="_blank" rel="noopener noreferrer sponsored" href
 
 >The endlessness of the laboring process is guaranteed by the ever-recurrent needs of consumption; the endlessness of production can be assured only if its products lose their use character and become more and more objects of consumption, or if, to put it another way, the rate of use is so tremendously accelerated that the objective difference between use and consumption, between the relative durability of use objects and the swift coming and going of consumer goods, dwindles to insignificance.
 
-Rather than produce artefacts that matter, we create products to be consumed like food. Work has regressed to a cycle of mere subsistence. In our jobs today we attend meetings that no one needs to be in, to discuss projects we don’t believe in, to sell products that people don’t want.
+Rather than produce artifacts that matter, we create products to be consumed like food. Work has regressed to a cycle of mere subsistence. In our jobs today we attend meetings that no one needs to be in, to discuss projects we don’t believe in, to sell products that people don’t want.
 
 And things don’t fare much better when we’re on the other side of the counter, as consumers. Thanks to the ubiquity of advertising, we buy things we don’t need, to solve problems we don’t have, to appease fears that are as manufactured as their solutions.
 
@@ -95,10 +95,12 @@ Arendt thinks we must somehow cease glorifying labor and return it to its true p
 
 Most importantly, we must reimagine politics and society in such a way that they are released from the dominion of short-term, means-end calculation, and provide scope for human beings to disclose not what they are, but _who_ they are…
 
+## Does labor actually lack significance?
+
 We might find aspects of Arendt’s analysis troubling – particularly her dismissal of labor’s potential for significance. I might not be changing the world or distinguishing myself from others when I wash the dishes, go for a morning walk, or enjoy a cup of coffee, but does that really render
 them the _least meaningful activities_ available to me? Doesn’t meaning also depend on the kind of attention we bring to whatever we engage in, be it mindfully eating our lunch, or cheerfully talking to a colleague?
 
-Maybe to solve the complaint that work is meaningless, we should be focused on our ability to find meaning in the ordinary, rather than require
+Maybe to solve the complaint that life is meaningless, we should be focused on our ability to find meaning in the ordinary, rather than require
 our occupations to be extraordinarily meaningful. ([Thich Nhat Hanh might agree.](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/))
 
 Some feminist thinkers point out that women have traditionally been denied anything beyond the so-called ‘lowest’ tier of the _vita activa_, and are surprised at Arendt’s failure to acknowledge the gendered division between the cyclical labor needed to keep the species alive – like childcare and housework – and what she views as the ‘more meaningful’ higher tiers. What could be more meaningful than preserving the species?
