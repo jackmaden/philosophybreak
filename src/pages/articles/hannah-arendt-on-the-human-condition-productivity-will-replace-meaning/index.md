@@ -5,7 +5,7 @@ image: "./busy.jpg"
 imageAlt: "Hannah Arendt on the Human Condition: Productivity Will Replace Meaning"
 imageSeo: "./busy.jpg"
 tags: ["Political Philosophy", "Ethics"]
-date: "2024-09-02"
+date: "2026-06-14"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
@@ -33,9 +33,11 @@ What _does_ concern her is not only modernity’s total rejection of the _vita c
 
 To shed light here, Arendt distinguishes between three elements that she thinks make for a complete, rounded _vita activa_: labor, work, and action.
 
+Once we appreciate the difference between these elements, we’ll understand why Arendt thinks modernity offers only an impoverished version of the _vita activa_, one that makes life and employment feel meaningless for so many.
+
 ## Labor keeps us alive
 
-<span class="big-letter">L</span>abor for Arendt consists of what we must do, along with all other animals, simply to meet our biological needs. Gathering resources, consuming resources: labor resembles the cyclical patterns of nature, patterns we are in some sense enslaved by. We eat, but soon become hungry again. Farmers reap their harvest, and must replow their fields.
+<span class="big-letter">T</span>he lowest tier in Arendt’s vita activa is _labor_. Labor consists of what we must do, along with all other animals, simply to meet our biological needs. Gathering resources, consuming resources: labor resembles the cyclical patterns of nature, patterns we are in some sense enslaved by. We eat, but soon become hungry again. Farmers reap their harvest, and must replow their fields.
 
 Exercise, personal hygiene, domestic chores – the efforts of labor must be perpetually renewed because they are canceled out by consumption. While these cycles can be pleasurable, they ultimately lack meaning because they are governed by the necessity of merely _subsisting_. In this respect, all living beings are indistinguishable from one another: we must labor to stay alive.
 
@@ -45,32 +47,15 @@ Exercise, personal hygiene, domestic chores – the efforts of labor must be per
 
 Work for Arendt involves not the repetitive tasks of labor, but goal-directed strategy, calculation, and planning for the future. Time becomes linear, rather than circular.
 
-We don’t just sustain ourselves in the world, we _reshape_ the world: we build infrastructure, we create art, we produce something _new_ and _abiding_ and _useful_ for our fellow humans that changes their experience in some permanent way. Work is thus teleological and world-building – it has a purpose beyond consumption.
+We don’t just sustain ourselves in the world, we _reshape_ the world: we build infrastructure, we create art, we produce something _new_ and _abiding_ and _useful_ for our fellow humans that changes their experience in some permanent way. Work is purposeful and world-building: it has an objective beyond consumption.
 
 ## Action announces who we are
 
-<span class="big-letter">A</span>ction is the highest tier in Arendt’s _vita activa_, and the most difficult to concisely capture. Essentially, action is how we disclose to the world _who_, rather than _what_, we are. Inherently political, action consists in the stories and narratives we communicate to our fellow citizens, without goal-directedness or calculation.
+<span class="big-letter">A</span>ction is the highest tier in Arendt’s _vita activa_, and the most difficult to concisely capture. Essentially, action is how we disclose to others _who_, rather than _what_, we are.
 
-Action is the freest and highest expression of the _vita activa_, Arendt thinks, because it transcends both the cyclical nature of labor and the means-end, instrumental calculation of work.
+Unlike labor and work, action is not governed by necessity or instrumental calculation, but by freedom and plurality. It’s where we appear before one another as equals to discuss, deliberate, and instigate something unprecedented in the public­ realm – the consequences of which we cannot fully predict or control.
 
-We don’t just subsist in the world, and we don’t merely shape it through artifacts: through action we _announce who we are_. By inserting something “original and unanticipated” into the public sphere, we meaningfully distinguish ourselves from others. It is through the result of action that the world is not just shaped, but _changed:_ action brings meaning to human life.
-
-<!--small subscribe-->
-<div class="course-promo darkradial-background subscribe text-center">
-    <h4>In one concise email each Sunday, I break down a famous idea from philosophy. You get the distillation straight to your inbox:</h4>
-    <div class="small-pad-top">
-        <form action="https://app.convertkit.com/forms/5812400/subscriptions" method="post" data-sv-form="5812400" data-uid="be0e52d3c0" data-format="inline" data-version="6" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Thank you, philosopher! Your welcome email will land in your inbox shortly.&quot;,&quot;redirect_url&quot;:&quot;https://philosophybreak.com/thank-you/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;6&quot;}" min-width="400 500 600 700 800">
-        <div data-style="clean"><ul data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false">
-            <div>
-                <input name="email_address" aria-label="Your Email Address..." placeholder="Your Email Address..." required type="email" />
-            </div>
-            <button class="button primary" type="submit" data-element="submit"><div><div></div><div></div><div></div></div><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg>Join 27,000+ Subscribers</span></button>
-            </div>
-            </div>
-        </form>
-        <p class="tiny-mar-top no-mar-bottom review-font">💭 One short philosophical email each Sunday. Unsubscribe any time.</p>
-    </div>
-</div>
+Whether it leads to a new political institution, the advancement of a fresh idea, or simply a local initiative among neighbours, action introduces novelty into the web of human relationships. We don’t just subsist in the world, and we don’t merely shape it with artefacts: through action we _announce who we are._ It is via action that the world is not just constructed, but _changed:_ action brings meaning to the human world.
 
 ## Work is degrading into labor, and action is degrading into work
 
@@ -84,15 +69,19 @@ As Arendt puts it in <a target="_blank" rel="noopener noreferrer sponsored" href
 
 >The endlessness of the laboring process is guaranteed by the ever-recurrent needs of consumption; the endlessness of production can be assured only if its products lose their use character and become more and more objects of consumption, or if, to put it another way, the rate of use is so tremendously accelerated that the objective difference between use and consumption, between the relative durability of use objects and the swift coming and going of consumer goods, dwindles to insignificance.
 
-Work has regressed to circular time. Advertising preys on our natural vulnerabilities. Rather than produce artifacts that matter, we create products to be consumed like food. We work to stay alive.
+Rather than produce artefacts that matter, we create products to be consumed like food. Work has regressed to a cycle of mere subsistence. In our jobs today we attend meetings that no one needs to be in, to discuss projects we don’t believe in, to sell products that people don’t want.
+
+And things don’t fare much better when we’re on the other side of the counter, as consumers. Thanks to the ubiquity of advertising, we buy things we don’t need, to solve problems we don’t have, to appease fears that are as manufactured as their solutions.
 
 While work is being reduced to labor, Arendt also warns that action is being reduced to work-like practice. Rather than spontaneously disclose our true selves, our activities are increasingly calculated, goal-directed, and guided by efficiency: individual human beings have fragmented into data points.
 
-But Arendt thinks if we want our lives to be meaningful we need to create space for original _action_, not just calculation.
+Given that tech companies now track everything from our steps and heart rates, to our scrolling habits and purchasing preferences, such analysis may seem remarkably prescient; but Arendt saw the signs decades ago.
 
-Unfortunately, our modern conception of the _vita activa_ de-emphasizes the activities with the highest scope for meaning, and elevates those with the lowest.
+Our modern conception of the _vita activa_, she warned, de-emphasizes the activities with the highest scope for meaning (free original actions) and elevates those with the lowest (labor and work).
 
-We are thus on course to become stuck in accelerating cycles of labor and consumption. We will become exhausted cogs in a punishing machine with nowhere else to go. Free action will be replaced by instrumentalization. Meaning will be replaced by productivity… 
+Due to this flawed conception, politics and wider society increasingly serve private, short-term pleasures, reducing public life to a cost–benefit analysis of personal concerns, rather than a space for meaningful political dialogue, action, and change.
+
+As the cycles of labor and consumption continue to accelerate, we will become exhausted cogs in a punishing machine with nowhere else to go.
 
 ## So, what can we do?
 
@@ -106,6 +95,21 @@ Arendt thinks we must somehow cease glorifying labor and return it to its true p
 
 Most importantly, we must reimagine politics and society in such a way that they are released from the dominion of short-term, means-end calculation, and provide scope for human beings to disclose not what they are, but _who_ they are…
 
+We might find aspects of Arendt’s analysis troubling – particularly her dismissal of labor’s potential for significance. I might not be changing the world or distinguishing myself from others when I wash the dishes, go for a morning walk, or enjoy a cup of coffee, but does that really render
+them the _least meaningful activities_ available to me? Doesn’t meaning also depend on the kind of attention we bring to whatever we engage in, be it mindfully eating our lunch, or cheerfully talking to a colleague?
+
+Maybe to solve the complaint that work is meaningless, we should be focused on our ability to find meaning in the ordinary, rather than require
+our occupations to be extraordinarily meaningful. ([Thich Nhat Hanh might agree.](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/))
+
+Some feminist thinkers point out that women have traditionally been denied anything beyond the so-called ‘lowest’ tier of the _vita activa_, and are surprised at Arendt’s failure to acknowledge the gendered division between the cyclical labor needed to keep the species alive – like childcare and housework – and what she views as the ‘more meaningful’ higher tiers. What could be more meaningful than preserving the species?
+
+Interestingly, however, others find Arendt’s distinction useful for highlighting this very injustice: that women are often confined to never-ending
+labor.
+
+While debate around Arendt’s work continues, it is difficult to deny the originality and fruitfulness of her distinction between labor, work, and action.
+
+That our lives lack meaning because they’ve degraded to a lower tier of human activity is a novel, provocative assessment that might give us pause. What could humanity aspire to beyond its perpetual cycles of labor and consumption?
+
 ## What do you make of Arendt’s analysis?
 
 <span class="big-letter">S</span>ince Arendt’s time, some might argue the machine she warned us about has only accelerated. For example, contemporary philosopher [Byung-Chul Han suggests we now willingly exploit ourselves](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/) in the name of greater productivity and optimal performance. But what do you think?
@@ -116,7 +120,9 @@ Most importantly, we must reimagine politics and society in such a way that they
 
 ## Learn more about Arendt’s critique and related philosophy
 
-<span class="big-letter">I</span>f you’re interested in learning more about her philosophy, you might like my reading list of [Hannah Arendt’s best books](/reading-lists/hannah-arendt/). You might also enjoy the following related articles:
+<span class="big-letter">I</span>f you enjoyed this piece, you might be interested in my book, [The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life](/the-philosophy-prescription/) (Penguin Random House, 2026). Chapter 7 discusses Arendt’s philosophy in the context of working a job, and considers her work alongside other related philosophers.
+
+You might also enjoy the following related articles:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
@@ -125,6 +131,7 @@ Most importantly, we must reimagine politics and society in such a way that they
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)
 - [Hannah Arendt On Standing Up to the Banality of Evil](/articles/hannah-arendt-on-standing-up-to-the-banality-of-evil/)
 - [Hannah Arendt: 5 Insights into Totalitarianism](/articles/hannah-arendt-5-insights-into-totalitarianism/)
+- [Hannah Arendt: the Best 6 Books to Read]((/reading-lists/hannah-arendt/))
 - [Political Philosophy: the Best 14 Books to Read](/reading-lists/political-philosophy/)
 
 Finally, if you enjoyed this article, you might like my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Consider joining 27,000+ subscribers and signing up below:
