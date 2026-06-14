@@ -11,9 +11,9 @@ authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
 
-<span class="big-letter">Y</span>ou begin the task; you complete the task. You begin the task; you complete the task. For Arendt, this is a description not of work but of _labor_. In terms of freedom and meaning, labor is the lowest tier of human activity; unfortunately, it’s also the tier to which most other kinds of human activity are being reduced.
+<span class="big-letter">Y</span>ou begin the task; you complete the task. You begin the task; you complete the task. For 20th-century thinker Hannah Arendt, this is a description not of work but of _labor_. In terms of freedom and meaning, labor is the lowest tier of human activity; unfortunately, it’s also the tier to which most other kinds of human activity are being reduced.
 
-The accelerating cycles of labor and consumption are replacing free human action with instrumentalization, and meaning with productivity…
+The accelerating cycles of labor and consumption are replacing free human action with goal-directed calculation, and swapping meaning for productivity.
 
 Arendt offers this analysis in her prescient 1958 book, <a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/3MmK1tm">The Human Condition</a>, which provides an account of what Arendt calls the _vita activa_, the life of activity. 
 
