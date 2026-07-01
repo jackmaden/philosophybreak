@@ -89,6 +89,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [​Beyond Money: Martha Nussbaum on Living a Flourishing Human Life​](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [​Ralph Waldo Emerson’s Self-Reliance Summary: Become Your Own Person​](/articles/ralph-waldo-emerson-self-reliance-summary-and-pdf-become-your-own-person/)
+- [Sanem Soyarslan: to Alleviate Loneliness, Our Hyperconnected Lives Need Better Quality Solitude](/articles/sanem-soyarslan-to-alleviate-loneliness-our-hyperconnected-lives-need-better-quality-solitude/)
 - [​True Wealth Lies in Friendship: Epicurus and Ho Kepos​](/articles/true-wealth-lies-in-friendship-epicurus-and-ho-kepos/)
 - ​[Fyodor Dostoevsky and Olaf Stapledon on True Security​](/articles/fyodor-dostoevsky-and-olaf-stapledon-on-true-security/)
 - ​[Seneca On Coping with the Shortness of Life](/articles/seneca-on-coping-with-the-shortness-of-life/)

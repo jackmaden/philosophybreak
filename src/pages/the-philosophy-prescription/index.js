@@ -5,7 +5,6 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import Seo from '../../components/SEO'
 import Layout from '../../components/layout'
 import { NavigationSimple } from "../../components/navigationSimple"
-import { WelcomeEmailForm } from "../../components/welcomeEmailForm";
 import Footer from "../../components/footer";
 
 const Page = ({ data, location }) => {

@@ -194,6 +194,7 @@ If you’d like to explore Emerson’s view further, you can read his _Self-Reli
 You might also be interested in these related reads which discuss the importance of self-reliance for living well:
 
 - [The Porcupine’s Dilemma: Schopenhauer’s Wistful Parable on Human Connection](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/)
+- [Sanem Soyarslan: to Alleviate Loneliness, Our Hyperconnected Lives Need Better Quality Solitude](/articles/sanem-soyarslan-to-alleviate-loneliness-our-hyperconnected-lives-need-better-quality-solitude/)
 - [Übermensch Explained: the Meaning of Nietzsche’s ‘Superman’](/articles/ubermensch-explained-the-meaning-of-nietzsches-superman/)
 - [Albert Camus on Coping with Life's Absurdity](/articles/absurdity-with-camus/)
 - [Ubuntu Philosophy: Wealth Resides in the Health of the Community](/articles/ubuntu-philosophy-wealth-resides-in-the-health-of-the-community/)

@@ -72,6 +72,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [Nietzsche on Friends Growing Apart](/articles/nietzsche-on-friends-growing-apart/)
 - [The Porcupine’s Dilemma: Schopenhauer’s Wistful Parable On Human Connection](/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/)
 - [Ubuntu Philosophy: Wealth Resides in the Health of the Community](/articles/ubuntu-philosophy-wealth-resides-in-the-health-of-the-community/)
+- [Sanem Soyarslan: to Alleviate Loneliness, Our Hyperconnected Lives Need Better Quality Solitude](/articles/sanem-soyarslan-to-alleviate-loneliness-our-hyperconnected-lives-need-better-quality-solitude/)
 - [Erich Fromm on Why Love is Not About Finding ‘the One’](/articles/erich-fromm-on-why-love-is-not-about-finding-the-one/)
 - [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
