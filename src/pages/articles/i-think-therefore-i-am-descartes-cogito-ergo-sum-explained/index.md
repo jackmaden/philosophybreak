@@ -132,7 +132,7 @@ Combine that with its highly accessible, dramatized style, and it’s no wonder 
 
 For Descartes’ doubting leaves us with a number of rather alarming concerns: do our senses deceive us? Is any of our knowledge actually valid? Are our reasoning abilities reliable? Is perception reality? How can we bridge the gap between the mental and the physical? What is the self? Is the existence of everything a mere figment of my imagination?
 
-The philosophical position of [solipsism](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/) takes Descartes’ skepticism in these areas to their apparent logical conclusion: we cannot have knowledge (or assert the existence) of anything beyond our own minds.
+The philosophical position of [solipsism](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/) takes Descartes’ skepticism in these areas to their apparent logical conclusion: we cannot have knowledge (or assert the existence) of anything beyond our own minds. (For a counterpoint here, see the [​Buddhist notion of anatman​](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/), which suggests even a persisting self doesn't really exist.)
 
 Of course, the solipsist position has prompted a vast literature on whether the skepticism expressed by Descartes is actually anything to worry about – including by the 17th-century philosophers John Locke (see my article on [Locke’s _tabula rasa_ here](/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/)) and George Berkeley (see my article on [Berkeley’s subjective idealism here](/articles/george-berkeley-subjective-idealism-the-world-is-in-our-minds/)) – which has in turn spawned commentaries on the limits to what we can know, as well as just how our existences are tied to that of the world around us.
 
@@ -149,6 +149,7 @@ Regardless of the fractures, uncertainty, and endless confusion he caused with h
 To inform your reflections on this particular topic, you might enjoy the following related articles:
 
 - [Can You Refute Solipsism, the Theory that Your Mind is the Only thing that Exists?](/articles/solipsism-definition-your-mind-is-the-only-thing-that-exists/)
+- [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)
 - [Is the World Around Us ‘Real’?](/articles/is-the-world-around-us-real/)
 - [If a Tree Falls in the Forest, and There’s No One Around to Hear It, Does It Make a Sound?](/articles/if-a-tree-falls-in-the-forest-and-theres-no-one-around-to-hear-it-does-it-make-a-sound/)
 - [Kant’s Transcendental Idealism: the ‘Copernican Revolution’ of Philosophy](/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/)
