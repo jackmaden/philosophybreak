@@ -18,7 +18,7 @@ Even with a less ambiguous translation, however, we might still wonder why this 
 
 Well, yes and no. Descartes wasn’t aiming to convey a mere platitude when he coined these famous words.
 
-For him, “I am thinking, therefore I exist” is a crucial example of a statement which, when thought, _cannot be false_. It anchors him in the world, marking a vital first step in his search for certain, irrefutable knowledge about reality. 
+For him, “I am thinking, therefore I exist” is a crucial example of a statement which, when thought, _cannot be false_. It marks a vital first step in his search for certain, irrefutable knowledge.
 
 The brilliance of _cogito ergo sum_, and why it changed Western philosophy forever, really becomes clear once we consider its philosophical background, Descartes’ motivations, and the radical <i>un</i>certainty that brought it about…
 
