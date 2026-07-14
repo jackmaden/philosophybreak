@@ -11,8 +11,11 @@ import PanelNietzsche from "../components/panelNietzsche";
 import HomeArticleList from "../components/homeArticleList";
 import WelcomeEmailPanel from "../components/welcomeEmailPanel";
 import PanelPFL from "../components/panelPFL";
+import PanelTPP from "../components/panelTPP";
 import { WelcomeEmailForm } from "../components/welcomeEmailForm";
 import Footer from "../components/footer";
+import PanelAboutUs from "../components/panelAboutUs";
+
 
 const Page = ( {data} ) => {
 
@@ -70,9 +73,11 @@ const Page = ( {data} ) => {
         </div>
 
         <HomeArticleList />
-        <PanelPFL />
-        <PanelReadingList />
+        <PanelTPP />
         
+        <PanelReadingList />
+        <PanelPFL />
+        <PanelAboutUs />
         <PanelLBQ flexdirection="row-reverse" />
         <PanelNietzsche flexdirection="row" />
         

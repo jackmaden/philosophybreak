@@ -4,6 +4,7 @@ import PanelArticleList from "./panelArticleList"
 import WelcomeEmailPanel from "./welcomeEmailPanel"
 import AboutAuthor from "./aboutAuthor"
 import Footer from "./footer"
+import PanelTPP from "./panelTPP"
 
 const PostReadingList = () => (
     <>
@@ -11,6 +12,7 @@ const PostReadingList = () => (
             <AboutAuthor />
             <WelcomeEmailPanel />
             <PanelArticleList />
+            <PanelTPP />
             <Footer />
         </div>
     </>

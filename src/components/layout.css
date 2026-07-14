@@ -131,8 +131,8 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.align-top, .three-col.align-top, .four-col.align-top {align-items: flex-start;}
   .two-col.big-1-col > div:first-child, .two-col.big-2-col > div:last-child {width: 40%}
   .two-col.big-1-col > div:last-child, .two-col.big-2-col > div:first-child {width: 52%}
-  .two-col.massive-1-col > div:first-child {width: 30%}
-  .two-col.massive-1-col > div:last-child {width: 62%}
+  .two-col.massive-1-col > div:first-child, .two-col.massive-2-col > div:last-child {width: 30%}
+  .two-col.massive-1-col > div:last-child, .two-col.massive-2-col > div:first-child {width: 62%}
 
   .two-col.big-1-col.about-author > div:first-child {width: 20%}
   .two-col.big-1-col.about-author > div:last-child {width: 74%}
