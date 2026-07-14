@@ -1,7 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
-import ReviewsLatestPFL from "./reviewsLatestPFL"
 
 export default function PanelTPP(props) {
     const data = useStaticQuery(graphql`
