@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20260707
+# Mediavine Ads.txt v20260716
 managerdomain=mediavine.com
 contact=sales@mediavine.com
 ownerdomain=philosophybreak.com
@@ -82,7 +82,7 @@ openx.com, 540731760, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
 indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
 adform.com, 2657, RESELLER, 9f5210a2f0999e32
-e-planning.net,e4ff9f6416211a05,DIRECT,c1ba615865ed87b2  
+e-planning.net,e4ff9f6416211a05,DIRECT,c1ba615865ed87b2
 connatix.com, 2114078464564569, DIRECT, 2af98acdee0e81ed
 connatix.com, 2122661585266952, RESELLER, 2af98acdee0e81ed
 video.unrulymedia.com, 687806135, RESELLER
