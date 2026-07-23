@@ -154,6 +154,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Laurie Ann Paul on Deciding Whether or Not to Have Children](/articles/laurie-ann-paul-on-how-to-approach-transformative-decisions/)
 - [Should Parenting Require a License?](/articles/should-parenting-require-a-license/)
+- [Jane English: Children Do Not ‘Owe’ their Parents Anything](/articles/jane-english-children-do-not-owe-their-parents-anything/)
 - [Nietzsche On Why Suffering is Necessary for Greatness](/articles/nietzsche-on-why-suffering-is-necessary-for-greatness/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [Finding Rapture in the Humdrum: Cultivating Wonder for Everyday Life](/articles/finding-rapture-in-the-humdrum-cultivating-wonder-for-everyday-life/)
