@@ -5,7 +5,7 @@ import { GatsbyImage } from "gatsby-plugin-image"
 export default function PanelTPP(props) {
     const data = useStaticQuery(graphql`
         query {
-            lbq: file(relativePath: {eq: "tpp-penguin.jpg"}) {
+            lbq: file(relativePath: {eq: "tpp.jpg"}) {
                 childImageSharp {
                   gatsbyImageData(width: 800, quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
                 }
@@ -27,7 +27,7 @@ export default function PanelTPP(props) {
                         </div>
                         <h2>Take the philosophical wisdom offline: Philosophy Break, now in book form!</h2>
                         
-                        <div className="desktop-no-display" style={{width: "50%", margin: "0 auto"}}>
+                        <div className="desktop-no-display">
                         <GatsbyImage
                             image={data.lbq.childImageSharp.gatsbyImageData}
                             alt="The Philosophy Prescription, by Jack Maden" />
