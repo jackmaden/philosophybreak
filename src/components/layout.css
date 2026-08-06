@@ -465,7 +465,8 @@ div#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
 }
 
 /*tpp book-reviews*/
-.heading-lines {line-height: 1.5;}
+h5.heading-lines {line-height: 1.5; position: relative; z-index: 1;}
+h5.heading-lines:before {content: "“"; position: absolute; font-size: 400px; margin-top: -190px; margin-left: -40px; color: #7CCEFF40; z-index: -1;}
 .book-review {font-size: 16px;}
 div.book-format {text-align: justify; text-justify: inter-word;}
 div#break-start.book-format {margin: 0 18px;}
@@ -478,6 +479,7 @@ div#break-start.book-format h2.main {text-align: left; font-size: 26px; margin-t
 .book-contents p span {display: block; font-style: italic; margin-left: 0.8em;}
 @media (min-width: 620px) {
   .book-review {font-size: 18px;}
+  h5.heading-lines:before {font-size: 500px; margin-top: -245px; margin-left: -50px; }
   div#break-start.book-format {margin: 0 auto;}
   div#break-start.book-format p.book-quote {width: 55%;}
   div#break-start.book-format h2 {font-size: 20px;}
@@ -764,6 +766,11 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
   .reading-list:nth-of-type(even) {margin-left: 4%;}
 }
 
+/*book orders*/
+/*div.book-orders {border: solid 2px #36b4ff; padding: 1em; border-radius: 10px;}*/
+div.book-orders p {font-size: 16px;}
+div.book-orders p a {border: solid 1px #36b4ff; border-radius: 8px; padding: 6px 8px; text-decoration: none; margin-right: 8px; margin-top: 8px; display: inline-block;}
+@media (min-width: 620px) {div.book-orders p {font-size: 18px;}}
 
 /***reading list cta***/
 .reading-list.cta .gatsby-resp-image-wrapper, .reading-list.cta .gatsby-resp-image-wrapper .gatsby-resp-image-background-image {height: 220px; overflow:hidden; border-radius: 10px;}

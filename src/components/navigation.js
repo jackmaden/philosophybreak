@@ -59,7 +59,7 @@ export class Navigation extends React.Component {
                                 <Link to="/courses/">Courses</Link>
                                 <Link to="/reading-lists/">Reading Lists</Link>
                                 <Link to="/articles/">Latest Breaks</Link>
-                                <Link to="/about/">About Us</Link>
+                                <Link to="/about/">About</Link>
                                 <a target="_blank" rel="noopener noreferrer" href="https://academy.philosophybreak.com/">Sign In</a>
                             </div>
                             <div id="menu-trigger" onClick={this.toggleMenu} className={this.state.class + " hideForNonSimpleMenu"}>
