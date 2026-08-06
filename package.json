@@ -63,5 +63,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "overrides": {
+    "htmlparser2": "6.1.0"
   }
 }
