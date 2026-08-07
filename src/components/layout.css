@@ -768,6 +768,7 @@ div.separator.chapter {margin: -3px 0 10px; width: 86px;}
 
 /*book orders*/
 /*div.book-orders {border: solid 2px #36b4ff; padding: 1em; border-radius: 10px;}*/
+div.book-orders {position: relative; z-index: 2;}
 div.book-orders p {font-size: 16px;}
 div.book-orders p a {border: solid 1px #36b4ff; border-radius: 8px; padding: 6px 8px; text-decoration: none; margin-right: 8px; margin-top: 8px; display: inline-block;}
 @media (min-width: 620px) {div.book-orders p {font-size: 18px;}}
