@@ -92,6 +92,7 @@ By cultivating our faculty for love, by attempting to tackle our own misconcepti
 To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Authentic Love: Simone de Beauvoir on What Makes a Healthy Relationship](/articles/authentic-love-simone-de-beauvoir-on-what-makes-a-healthy-relationship/)
+- [Simone de Beauvoir: the Best Romantic Partners Celebrate Each Other’s Freedom](/articles/simone-de-beauvoir-the-best-romantic-partners-celebrate-each-others-freedom/)
 - [Plato’s Scala Amoris: the Ladder of Love](/articles/plato-scala-amoris-the-ladder-of-love/)
 - [Aristotle On the 3 Types of Friendship (and How Each Enriches Life)](/articles/aristotle-on-the-3-types-of-friendship-and-how-they-enrich-life/)
 - [True Wealth Lies in Friendship: Epicurus and Ho Kepos](/articles/true-wealth-lies-in-friendship-epicurus-and-ho-kepos/)

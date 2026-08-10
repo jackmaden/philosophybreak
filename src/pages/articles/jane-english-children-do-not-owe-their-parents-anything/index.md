@@ -12,7 +12,7 @@ authorLink: "/about/"
 ---
 <p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;The Bellelli Family, by Edgar Degas (1858), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg">via Wikimedia Commons</a></p>
 
-<i>Note: this is an abridged preview of my upcoming book, </i>[The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life](/the-philosophy-prescription/)<i>, published by Penguin Random House. This article is adapted from Chapter 2, ‘Being Someone’s Child’. If you enjoy it, I’d be honored if you’d consider checking out the book!</i>
+<i>Note: the following article is an abridged extract from my upcoming book, </i>[The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life](/the-philosophy-prescription/)<i>, published by Penguin Random House. It's adapted from Chapter 2, ‘Being Someone’s Child’. If you enjoy it, I’d be honored if you’d consider checking out the book!</i>
 
 \-
 
@@ -120,7 +120,7 @@ So, whether we ground our efforts in a Confucian sense of reverence or a more ge
 
 Or is Jane English right in declaring that, if parents do not foster ongoing love and friendship in the relationship, then children owe them nothing at all?
 
-<i>Note: this is an abridged preview of my upcoming book, </i>[The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life](/the-philosophy-prescription/)<i>, published by Penguin Random House. This article is adapted from Chapter 2, ‘Being Someone’s Child’. If you enjoyed it, I’d be honored if you’d consider checking out the book!</i>
+<i>Note: this article is an abridged extract from my upcoming book, </i>[The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life](/the-philosophy-prescription/)<i>, published by Penguin Random House. It's adapted from Chapter 2, ‘Being Someone’s Child’. If you enjoyed it, I’d be honored if you’d consider checking out the book!</i>
 
 ## What do you make of English’s analysis?
 
