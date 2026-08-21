@@ -110,6 +110,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [The ‘Golden Mean’: Aristotle’s Guide to Living Excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)
 - [The Greatest Happiness of the Greatest Number: What Bentham Really Meant](/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/)
+- [Immanuel Kant: Morality is Not about Making People Happy](/articles/immanuel-kant-morality-is-not-about-making-people-happy/)
 - [God is Dead: Nietzsche’s Most Famous Statement Explained](/articles/god-is-dead-nietzsche-famous-statement-explained/)
 - [Iris Murdoch on the Morality of Attention, and the Hostile Mother-in-Law](/articles/iris-murdoch-on-the-morality-of-attention-and-the-hostile-mother-in-law/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)

@@ -135,6 +135,7 @@ You might also enjoy the following related reads:
 - [The Greatest Happiness of the Greatest Number: What Bentham Really Meant](/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/)
 - [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [The ‘Golden Mean’: Aristotle’s Guide to Living Excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)
+- [Immanuel Kant: Morality is Not about Making People Happy](/articles/immanuel-kant-morality-is-not-about-making-people-happy/)
 - [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)

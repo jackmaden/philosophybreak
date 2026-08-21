@@ -123,6 +123,7 @@ Working out how one might accurately perform such hedonic calculus remains a hot
 
 You might also enjoy the following related reads:
 
+- [Immanuel Kant: Morality is Not about Making People Happy](/articles/immanuel-kant-morality-is-not-about-making-people-happy/)
 - [The ‘Golden Mean’: Aristotle’s Guide to Living Excellently](/articles/the-golden-mean-aristotle-guide-to-living-excellently/)
 - [Confucius: Rituals Grind Our Characters Like Pieces of Jade](/articles/confucius-rituals-grind-our-characters-like-pieces-of-jade/)
 - [Elizabeth Anscombe: ‘Morality’ is a Useless Concept; We Have Better Terms to Guide Us](/articles/elizabeth-anscombe-morality-is-a-useless-concept-we-have-better-terms-to-guide-us/)

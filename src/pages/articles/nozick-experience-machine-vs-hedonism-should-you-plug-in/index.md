@@ -159,6 +159,7 @@ So, in the context of Lin’s thought experiment, we say A has a better life not
 
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [Epicureanism Defined: Philosophy is a Form of Therapy](/articles/epicureanism-defined-philosophy-is-a-form-of-therapy/)
+- [Immanuel Kant: Morality is Not about Making People Happy](/articles/immanuel-kant-morality-is-not-about-making-people-happy/)
 - [The Greatest Happiness of the Greatest Number: What Bentham Really Meant](/articles/the-greatest-happiness-of-the-greatest-number-what-bentham-really-meant/)
 - [Peter Singer On the Life You Can Save](/articles/peter-singer-on-the-life-you-can-save/)
 - [Iris Murdoch: ‘Unselfing’ is Crucial for Living a Good Life](/articles/iris-murdoch-unselfing-is-crucial-for-living-a-good-life/)

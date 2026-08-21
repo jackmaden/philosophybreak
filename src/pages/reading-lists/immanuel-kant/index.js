@@ -35,7 +35,7 @@ const ReadingList = ({ data, location }) => {
 
               <p>Kant is perhaps best known for his synthesis of early modern rationalism (think <Link to="/articles/i-think-therefore-i-am-descartes-cogito-ergo-sum-explained/"><i>Descartes’s cogito ergo sum</i></Link>) and empiricism (think <Link to="/articles/john-lockes-empiricism-why-we-are-all-tabula-rasas-blank-slates/">John Locke’s <i>tablua rasa</i></Link>) with his theory of <i>transcendental idealism</i>. If you’re interested in learning more about this, you might like our explainer of <Link to="/articles/kant-transcendental-idealism-the-copernican-revolution-of-philosophy/">Kant’s transcendental idealism here</Link>.</p>
               
-              <p>Kant also made crucial contributions to moral philosophy, perhaps most famously his <i>categorical imperative</i>, which is commonly formulated as follows:</p>
+              <p>Kant also made crucial contributions to moral philosophy, perhaps most famously his <Link to="/articles/immanuel-kant-morality-is-not-about-making-people-happy/">categorical imperative</Link>, which is commonly formulated as follows:</p>
               
               <blockquote><p>Act only according to that maxim whereby you can at the same time will that it should become a universal law.</p></blockquote>
 
