@@ -9,6 +9,7 @@ import TopTitle from "../../components/topTitle"
 import WatermarkBreak from "../../components/watermarkBreak"
 import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 import Footer from "../../components/footer"
+import BookOffer from "../../components/bookOffer"
 
 const Articles = ({ data, location }) => {
     const { edges } = data.allMarkdownRemark
@@ -20,6 +21,7 @@ const Articles = ({ data, location }) => {
     <Script data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
     
     <Layout>
+    <BookOffer />
     <Navigation bg="light-bg" />
     
         {/*page background color*/}

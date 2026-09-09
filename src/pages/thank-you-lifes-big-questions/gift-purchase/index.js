@@ -17,7 +17,7 @@ const Page = () => {
 
             {/*page background color*/}
             <div className="darkradial-background small-pad-bottom">
-                <div className="top-title text-center">
+                <div className="top-title text-center extra-top">
                     <div className="page-center">
                         <h3 className="mid-width">Thank you for giving the gift of philosophy!</h3>
                         <div className="separator"></div>

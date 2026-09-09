@@ -2,7 +2,7 @@ import React from "react"
 
 const TopTitle = props => (
         <>
-        <div className={props.class + " top-title text-center"}> 
+        <div className={props.class + " top-title text-center extra-top"}> 
             <div className="page-center">
                 <h1>{props.title}</h1>
                 <div className="separator"></div>

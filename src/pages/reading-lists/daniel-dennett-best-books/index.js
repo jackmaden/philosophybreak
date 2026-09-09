@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import { getSrc } from "gatsby-plugin-image"
 
 import Seo from '../../../components/SEO'
 import Layout from '../../../components/layout'
@@ -12,13 +11,14 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import BigSubscribe from "../../../components/bigSubscribe"
 import Sidebar from "../../../components/sidebar"
+import BookOffer from "../../../components/bookOffer"
 
 const ReadingList = ({ data, location }) => {
-  const imagePath = getSrc(data.title)
     return (
     <>
     <Seo title="Daniel Dennett Reading List – The Best 5 Books to Read" description="A curated reading list of the most essential books for getting started with Daniel Dennett." pathname={location.pathname} />
     <Layout>
+<BookOffer />
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}

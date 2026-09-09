@@ -10,6 +10,7 @@ import { WindowHeightWrapper } from '../../components/windowHeightWrapper'
 import { ScrollProgressBar } from "../../components/scrollProgressBar"
 import PanelLBQ from "../../components/panelLBQ"
 import Footer from "../../components/footer";
+import BookOffer from "../../components/bookOffer";
 
 const Page = ({ data, location }) => {
     const imagePath = getSrc(data.default)
@@ -17,6 +18,7 @@ const Page = ({ data, location }) => {
     <>
     <Seo title="Why Is Philosophy Important Today, and How Can It Improve Your Life?" description="Your quick guide to why philosophy is important today, as well as how it can improve your life." image={imagePath} pathname={location.pathname} />
     <Layout>
+    <BookOffer />
     <Navigation />
         <ScrollProgressBar />
         {/*page title*/}

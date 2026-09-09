@@ -12,6 +12,7 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import BigSubscribe from "../../../components/bigSubscribe"
 import Sidebar from "../../../components/sidebar"
+import BookOffer from "../../../components/bookOffer"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -19,6 +20,7 @@ const ReadingList = ({ data, location }) => {
     <>
     <Seo title="Political Philosophy Reading List – The Best 14 Books to Read" description="A curated reading list of the most essential books of and about political philosophy, including the writings of Niccolò Machiavelli, Thomas Hobbes, and Karl Marx." image={imagePath} pathname={location.pathname} />
     <Layout>
+<BookOffer />
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}

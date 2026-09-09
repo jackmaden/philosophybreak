@@ -38,7 +38,7 @@ export class NavigationSimple extends React.Component {
     render() {
         return (
             <div>
-                <div id="nav" className={this.state.class + ' ' + this.props.bg + ' ' + this.state.fontColor} style={{position: "absolute"}}>
+                <div id="nav" className={this.state.class + ' ' + this.props.bg + ' ' + this.state.fontColor + " top"} style={{position: "absolute"}}>
                     <div className="page-center">
                         <Link className="logo" to="/"><svg id="pb-logo" className={this.state.class} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><linearGradient id="a" x1="90.9" y1="409.1" x2="409.1" y2="90.9" gradientUnits="userSpaceOnUse"><stop offset="0.23" stopColor="#1aa9ff"/><stop offset="0.31" stopColor="#22acff"/><stop offset="0.44" stopColor="#37b4ff"/><stop offset="0.59" stopColor="#5ac1ff"/><stop offset="0.72" stopColor="#7cceff"/></linearGradient><linearGradient id="b" x1="131.91" y1="450.27" x2="377.59" y2="204.59" gradientUnits="userSpaceOnUse"><stop offset="0" stopColor="#030810"/><stop offset="0.29" stopColor="#030a13"/><stop offset="0.5" stopColor="#02101c"/><stop offset="0.69" stopColor="#001a2c"/><stop offset="0.72" stopColor="#001d30"/></linearGradient></defs><circle cx="250" cy="250" r="250" fill="#fff"/><circle cx="250" cy="250" r="225" fill="url(#a)"/><path d="M-121.5,179.5" stroke="#000" strokeMiterlimit="10"/><path d="M27.12,281" stroke="#000" strokeMiterlimit="10"/><path d="M453,343"/><path d="M-516.5,142.5" stroke="#000" strokeMiterlimit="10"/><path d="M38,325" fill="#fff"/><polygon points="27 316 108 219.58 148 284 250 103 363 247.69 391 197.72 475 299 27 316" fill="#fff"/><path d="M34,312l74-61.18L148,284,250,148.16,363,251l28-26,79,72c-.91,3.91-1.9,7.92-3,12-1.88,7-2.9,10.68-5,17-.08,0-1.16,3.07-1.24,3.11-32,85.32-114.27,146.05-210.76,146.05-98,0-181.41-62.69-212.25-150.16L34,312" fill="url(#b)"/><path d="M103.5,134.51c.26.33,4.76,5.92,12,5.14a14,14,0,0,0,10.29-6.86" fill="none" stroke="#001d30" strokeMiterlimit="10" strokeWidth="6"/><path d="M134.83,153.38c.26.33,4.76,5.92,12,5.14,6.75-.72,10-6.33,10.29-6.86" fill="none" stroke="#001d30" strokeMiterlimit="10" strokeWidth="6"/><path d="M159.7,124.22c.26.33,4.76,5.91,12,5.14A14,14,0,0,0,182,122.5" fill="none" stroke="#001d30" strokeMiterlimit="10" strokeWidth="6"/></svg>
                         <h3 className={this.state.class}>Philosophy Break<span className={this.state.class}>Your home for learning about philosophy</span></h3>
@@ -115,14 +115,7 @@ export class NavigationSimple extends React.Component {
                                     </div>
                                 </a>
                             </div>
-                            <div className="li">{/*<!--twitter-->*/}
-                                <a target="_blank" aria-label="Twitter" rel="noopener noreferrer" href="https://twitter.com/philosophybreak">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-                                        <h5>Twitter</h5>
-                                    </div>
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

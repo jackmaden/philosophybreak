@@ -5,6 +5,7 @@ import Layout from '../../components/layout'
 import { Navigation } from "../../components/navigation"
 import JackHeadshot from "../../components/jackHeadshot"
 import FooterSimple from "../../components/footerSimple"
+import BookOffer from "../../components/bookOffer"
 
 const Page = () => {
     return (
@@ -13,6 +14,7 @@ const Page = () => {
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>
+            <BookOffer />
         <Navigation bg="light-bg" />
 
          
@@ -20,7 +22,7 @@ const Page = () => {
 
             {/*page background color*/}
             <div className="grey-background small-pad-bottom">
-                <div className="top-title text-center">
+                <div className="top-title extra-top text-center">
                     <div className="page-center">
                         <h3 className="mid-width">Amazon Affiliate Link</h3>
                         <div className="separator"></div>

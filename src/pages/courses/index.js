@@ -8,6 +8,7 @@ import PanelLBQ from "../../components/panelLBQ"
 import PanelNietzsche from "../../components/panelNietzsche";
 import PanelPFL from "../../components/panelPFL";
 import Footer from "../../components/footer"
+import BookOffer from "../../components/bookOffer"
 
 
 const Page = ({ location }) => {
@@ -15,6 +16,7 @@ const Page = ({ location }) => {
     <>
     <Seo title="Online Philosophy Courses – Introductory Philosophy for Beginners" description="Introductory online philosophy courses distilling the subject's greatest wisdom." pathname={location.pathname} />
     <Layout>
+    <BookOffer />
     <Navigation bg="light-bg" />
 
      

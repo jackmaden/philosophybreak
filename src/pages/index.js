@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image";
+import { Link } from "gatsby"
 
 import Seo from '../components/SEO'
 import Layout from '../components/layout'
@@ -15,6 +16,7 @@ import PanelTPP from "../components/panelTPP";
 import { WelcomeEmailForm } from "../components/welcomeEmailForm";
 import Footer from "../components/footer";
 import PanelAboutUs from "../components/panelAboutUs";
+import BookOffer from "../components/bookOffer";
 
 
 const Page = ( {data} ) => {
@@ -43,10 +45,11 @@ const Page = ( {data} ) => {
     <>
     <Seo title="Philosophy Break – Your Home for Learning about Philosophy" description="The home for philosophy's best questions, wisdom, and ideas – from Socrates, Plato, and Aristotle; to Kant, Kierkegaard, and Nietzsche."/>
     <Layout>
+    <BookOffer />
     <Navigation />
 
         {/*page title*/}
-        <div className="darkradial-background top-title home">
+        <div className="darkradial-background top-title home extra-top">
           <div className="two-col big-2-col page-center">
             <div className="mobile-center">
 

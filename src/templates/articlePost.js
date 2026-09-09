@@ -13,6 +13,7 @@ import WelcomeEmailPanel from "../components/welcomeEmailPanel"
 import Sidebar from "../components/sidebar";
 import Footer from "../components/footer";
 import PanelTPP from "../components/panelTPP";
+import BookOffer from "../components/bookOffer";
 
 
 const ArticlePost = ({ data, location }) => {
@@ -34,6 +35,7 @@ const ArticlePost = ({ data, location }) => {
   <Script data-uid="9d4c23bf77" src="https://philosophybreak.ck.page/9d4c23bf77/index.js" />
   
   <Layout>
+  <BookOffer />
   <Navigation />
     <ScrollProgressBar />
     {/*article title*/}

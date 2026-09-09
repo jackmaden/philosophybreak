@@ -12,6 +12,7 @@ import PostReadingList from "../../../components/postReadingList"
 import CtaReadingList from "../../../components/ctaReadingList"
 import BigSubscribe from "../../../components/bigSubscribe"
 import Sidebar from "../../../components/sidebar"
+import BookOffer from "../../../components/bookOffer"
 
 const ReadingList = ({ data, location }) => {
   const imagePath = getSrc(data.title)
@@ -19,6 +20,7 @@ const ReadingList = ({ data, location }) => {
     <>
     <Seo title="Leo Tolstoy Reading List – The Best 5 Books to Read" description="A curated reading list of the best books to get started with Leo Tolstoy." image={imagePath} pathname={location.pathname} />
     <Layout>
+<BookOffer />
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}

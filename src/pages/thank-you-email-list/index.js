@@ -17,7 +17,7 @@ const Page = () => {
 
             {/*page background color*/}
             <div className="grey-background small-pad-bottom">
-                <div className="top-title text-center">
+                <div className="top-title extra-top text-center">
                     <div className="page-center">
                         <h3 className="mid-width">Thank you, philosopher! I’ll keep sending you my Sunday emails</h3>
                         <div className="separator"></div>

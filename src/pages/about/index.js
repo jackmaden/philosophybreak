@@ -9,12 +9,14 @@ import TopTitle from "../../components/topTitle"
 import WelcomeEmailPanel from "../../components/welcomeEmailPanel"
 import JackHeadshot from "../../components/jackHeadshot"
 import Footer from "../../components/footer";
+import BookOffer from "../../components/bookOffer";
 
 const Page = ({ data, location }) => {
     return (
     <>
     <Seo title="About Us – Dedicated to Popularizing Philosophy" description="Philosophy Break is an online social enterprise dedicated to making the wisdom of philosophy instantly accessible (and useful!) for people striving to live happy, meaningful, and fulfilling lives." pathname={location.pathname} />
     <Layout>
+      <BookOffer />
     <Navigation bg="light-bg" />
 
        

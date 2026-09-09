@@ -12,6 +12,7 @@ import CtaReadingList from "../../../components/ctaReadingList"
 import PostReadingList from "../../../components/postReadingList"
 import BigSubscribe from "../../../components/bigSubscribe"
 import Sidebar from "../../../components/sidebar"
+import BookOffer from "../../../components/bookOffer"
 
 
 const ReadingList = ({ data, location }) => {
@@ -20,6 +21,7 @@ const ReadingList = ({ data, location }) => {
     <>
     <Seo title="The History of Western Philosophy – The Best 5 Books to Read" description="A curated reading list of the most essential books on the history of Western philosophy." image={imagePath} pathname={location.pathname} />
     <Layout>
+<BookOffer />
     <Navigation />
         <ScrollProgressBar />
         {/*reading list title*/}

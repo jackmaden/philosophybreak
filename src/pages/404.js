@@ -7,6 +7,7 @@ import { Navigation } from "../components/navigation"
 import TopTitle from '../components/topTitle'
 import WatermarkBreak from "../components/watermarkBreak"
 import Footer from "../components/footer"
+import BookOffer from "../components/bookOffer"
 
 const Page = () => {
     return (
@@ -15,6 +16,7 @@ const Page = () => {
             <meta name="robots" content="noindex" />
         </Helmet>
         <Layout>
+        <BookOffer />
         <Navigation bg="light-bg" />
 
             {/*page background color*/}
