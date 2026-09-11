@@ -24,12 +24,14 @@ const Page = ({ data, location }) => {
               <GatsbyImage
                 image={data.home.childImageSharp.gatsbyImageData} className="tpp-margin"
                 alt="The Philosophy Prescription, by Jack Maden" loading="eager" />
+                <p className="text-center no-mar-top sample" style={{position: "relative", zIndex: "3"}}><AnchorLink className="no-hover no-mar-top" href="#contents"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>&nbsp;Read Sample</AnchorLink></p>
             </div>
             <div>
             <p className="verified no-mar-top">NEW!</p><span className="tag time new" style={{color: "#001d30"}}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>BOOK</span><div className="separator course new book"></div>
             <h1 id="smaller">The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life, by Jack Maden</h1>
 
-            <p>A warm, accessible guide to philosophy for anyone looking for wisdom, consolation, and a better way to live.</p>
+            <p style={{marginBottom: "8px"}}>WINTER 2026 | A warm, accessible guide to philosophy’s best ideas</p>
+            <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(10+ reviews)</span></p>
             
             <div className="book-orders">
               <p className="no-mar-top no-mar-bottom"><b>ORDER IN THE UK:</b></p>
@@ -71,13 +73,13 @@ const Page = ({ data, location }) => {
                   <h2>Whatever you’re facing in life, here you’ll find remedies from thousands of years of philosophical thought to challenge, reframe, and enrich your perspective</h2>
                   <p className="small-grey-font"><i>The Philosophy Prescription</i> matches key ideas from ancient and contemporary thinkers to 16 common life stages. From being someone’s child and experiencing first love, to navigating friendships, families, careers, money, memory, <i>ennui</i>, grief, and impermanence: what guidance can philosophers from Socrates and Confucius, to Nietzsche and Iris Murdoch, offer us?</p>
                   <AnchorLink className="no-hover" href="#top"><button className="button primary full-width top-icon-align"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"/></svg>Order Now</button></AnchorLink>
-                  <AnchorLink className="no-hover" href="#contents"><button className="button secondary full-width top-icon-align"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M143 256.3L7 120.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0L313 86.3c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.4 9.5-24.6 9.5-34 .1zm34 192l136-136c9.4-9.4 9.4-24.6 0-33.9l-22.6-22.6c-9.4-9.4-24.6-9.4-33.9 0L160 352.1l-96.4-96.4c-9.4-9.4-24.6-9.4-33.9 0L7 278.3c-9.4 9.4-9.4 24.6 0 33.9l136 136c9.4 9.5 24.6 9.5 34 .1z"/></svg>Read Contents & Introduction</button></AnchorLink>
+                  <AnchorLink className="no-hover" href="#contents"><button className="button secondary full-width top-icon-align"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M48.336,7.54c-0.701,0-1.359,0.007-2.018,0.024V5.326h-0.734c-14.262,0-19.043,3.411-20.585,5.252 c-1.542-1.841-6.323-5.252-20.585-5.252H3.68v2.237C3.022,7.545,2.364,7.54,1.664,7.54H0V39.89h1.664 c17.595,0,21.186,4.035,21.698,4.784h3.302c0.557-0.784,4.218-4.784,21.673-4.784H50V7.54H48.336z M23.899,38.431 c-2.457-1.812-7.611-3.914-18.383-4.054V7.175c15.087,0.194,18.001,4.327,18.383,5V38.431z M44.484,34.377 c-10.772,0.14-15.926,2.24-18.383,4.054V12.184c0.416-0.737,3.412-4.814,18.383-5.007V34.377z"></path></svg>Read Sample</button></AnchorLink>
                 </div>
                 <div>
                   <GatsbyImage
                     image={data.jack.childImageSharp.gatsbyImageData}
                     alt="The Philosophy Prescription, by Jack Maden" className="no-mar-bottom" />
-                    <p className="small-grey-font text-center tiny-mar-top">See author Jack Maden with <i>The Philosophy Prescription</i> <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/p/Dc1O7U1jJVK/?img_index=1">on Instagram here</a></p>
+                    <p className="text-center tiny-mar-top" style={{fontSize: "16px"}}>View photos of author Jack Maden with <i>The Philosophy Prescription</i> <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/p/Dc1O7U1jJVK/?img_index=1">on Instagram here</a></p>
                 </div>
 
 

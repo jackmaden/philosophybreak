@@ -95,7 +95,13 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   background-color: #001d30; background-image: linear-gradient(to right, #001d30, #3682ff, #7cceff); background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent;
 }
 /*tpp*/
-.tpp-margin {margin: 0 5em 2em !important;}
+.tpp-margin {margin: 0 5em 0.5em !important;}
+
+/*tpp sample*/
+p.sample {margin-top: 0; margin-bottom: 2em; text-align:center; font-size: 14px;}
+p.sample a {text-decoration: none;}
+p.sample a:hover {color: #001d30;}
+p.sample a svg {width: 15px; height: 15px; vertical-align: text-bottom;}
 
 @media (min-width: 620px) {
   p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-col p.small-grey-font, .four-col p.small-grey-font {font-size: 18px;}
@@ -107,9 +113,18 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .flex-normal-mob-end-desk {align-items: flex-end;}
   .image-caption-tap {font-size: 12px; margin-top:-46px;}
   /*tpp*/
-.tpp-margin {margin: 0 8em 2em !important;}
+.tpp-margin {margin: 0 8em 0.5em !important;}
 }
 @media (min-width: 1020px) {
+      /*tpp*/
+    .tpp-margin {margin: 2em 0 0.75em !important;}
+    p.sample {margin-top: 1em; margin-bottom: 2em; font-size: 16px;}
+    p.sample a {text-decoration: none;}
+    p.sample a:hover {color: #001d30;}
+    p.sample a svg {width: 17px; height: 17px; vertical-align: text-bottom;}
+
+    /*general*/
+
   .small-pad-desktop {padding: 24px 0;}
   .small-pad-mob-mid-pad-desk {padding: 48px 0;}
   .small-pad-bottom-mob-mid-pad-bottom-desk {padding-bottom: 48px;}
@@ -142,8 +157,7 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
   .two-col.text > div {width: 48%;}
   .three-col > div {width: 30%;}
   figure.gatsby-resp-image-figure.big-image {margin: 3.2em 0 3em -200px; width: 1000px;}
-    /*tpp*/
-.tpp-margin {margin: 2em 0 !important;}
+
 }
 @media (min-width: 1120px) {
   figure.gatsby-resp-image-figure.big-image {margin-left: -250px; width: 1100px;}
@@ -154,20 +168,21 @@ p.small-grey-font.smaller, #faq .two-col p.small-grey-font, #look-inside .two-co
 
 /*container & sidebar ONLY SHOW ON 1120 DESKTOP */
 
-#sidebar {display: none;}
+#sidebar2 {display: none;}
 
 @media (min-width: 1120px) {
   #container {display: flex; justify-content: space-between; width: 1100px; margin: 24px auto 0;}
   #container #break-start {margin-left: 0;}
   #container #break-start > p:first-of-type {margin-top: 0;} /*this won't work for fade out articles, like why does anything exist or is the world around us real*/
-  #sidebar {display: block; width: 300px;}
+  #sidebar2 {display: block; width: 300px; }
+  #sidebar2 a {text-decoration: none;}
   
   /*sidebar subsscribe*/
-  #sidebar #sidebar-subscribe {border-radius: 20px; padding: 32px 24px;}
-  #sidebar #sidebar-subscribe h5 {margin: 0; font-weight: 600;}
-  #sidebar #sidebar-subscribe input, #sidebar #sidebar-subscribe button {font-size: 14px;}
-  #sidebar #sidebar-subscribe button svg {width: 14px; height: 14px;}
-  #sidebar #sidebar-subscribe p.review-font {font-size: 14px;}
+  #sidebar2 #sidebar-subscribe {border-radius: 20px; padding: 26px 24px; position: sticky; top: 115px;}
+  #sidebar2 #sidebar-subscribe h5 {margin: 0; font-weight: 600; }
+  #sidebar2 #sidebar-subscribe input, #sidebar2 #sidebar-subscribe button {font-size: 14px;}
+  #sidebar2 #sidebar-subscribe button svg {width: 14px; height: 14px;}
+  #sidebar2 #sidebar-subscribe p.review-font {font-size: 14px;}
 }
 
 /*float-left-portrait-images*/
@@ -474,6 +489,7 @@ div#menu p.small-grey-font {font-size: 16px; margin-top: 8px;}
   #footer .four-col > div {width: 22.5%;}
 }
 
+
 /*tpp book-reviews*/
 h5.heading-lines {line-height: 1.5; position: relative; z-index: 1;}
 h5.heading-lines:before {content: "“"; position: absolute; font-size: 400px; margin-top: -190px; margin-left: -40px; color: #7CCEFF40; z-index: -1;}
@@ -504,6 +520,9 @@ div.gatsby-image-wrapper.featured-image-full picture img {object-position: 0% ce
 
 @media (min-width: 1020px) {
   div.gatsby-image-wrapper.featured-image-full picture img {object-position: center 45% !important;}
+
+
+
 }
 
 /*course panel CTAs link headings*/
