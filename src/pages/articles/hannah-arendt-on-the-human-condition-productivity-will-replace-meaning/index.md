@@ -128,6 +128,7 @@ You might also enjoy the following related articles:
 
 - [Byung-Chul Han’s Burnout Society: Our Only Imperative is to Achieve](/articles/byung-chul-han-burnout-society-our-only-imperative-is-to-achieve/)
 - [Elizabeth Anderson on the Tyranny of Being Employed](/articles/elizabeth-anderson-on-the-tyranny-of-being-employed/)
+- [Guy Debord: We Have Been Reduced to Spectators in a Society of Endless Spectacle](/articles/guy-debord-we-have-been-reduced-to-spectators-in-a-society-of-endless-spectacle/)
 - [Simone Weil’s Ethic of Resistance: Resisting Not Just Power, but the Race for Power](/articles/simone-weil-ethic-of-resistance/)
 - [Simone de Beauvoir on the Crisis of Retirement and Facing Old Age](/articles/simone-de-beauvoir-on-the-crisis-of-retirement-and-facing-old-age/)
 - [John Rawls: How a ‘Veil of Ignorance’ Can Help Us Build a Just Society](/articles/john-rawls-how-a-veil-of-ignorance-can-help-us-build-a-just-society/)

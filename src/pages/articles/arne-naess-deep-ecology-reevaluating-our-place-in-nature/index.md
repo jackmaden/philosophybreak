@@ -147,6 +147,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Seneca: To Find Peace, Stop Chasing Unfulfillable Desires](/articles/seneca-to-find-peace-stop-chasing-unfulfillable-desires/)
+- [Guy Debord: We Have Been Reduced to Spectators in a Society of Endless Spectacle](/articles/guy-debord-we-have-been-reduced-to-spectators-in-a-society-of-endless-spectacle/)
 - [Mono No Aware: Beauty and Impermanence in Japanese Philosophy](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/)
 - [Peter Singer On the Life You Can (and Should) Save](/articles/peter-singer-on-the-life-you-can-save/)
 - [Finding Rapture in the Humdrum: Cultivating Wonder for Everyday Life](/articles/finding-rapture-in-the-humdrum-cultivating-wonder-for-everyday-life/)
