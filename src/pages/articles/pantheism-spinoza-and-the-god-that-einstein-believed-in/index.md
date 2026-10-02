@@ -24,7 +24,7 @@ Spinoza suggests we can discover and experience God not through the submissive w
 
 Freedom and enlightenment belong in _this_ reality, not a hidden, imaginary one to which only religious authorities have access. (The religious authorities of Spinoza’s time promptly excommunicated him, following this suggestion.)
 
-While Spinoza is closely associated with pantheism, it should be noted that some scholars argue his philosophy is in fact closer to _panentheism_, the belief the belief that the universe is ‘in’, rather than the same as, God.
+While Spinoza is closely associated with pantheism, it should be noted that some scholars argue his philosophy is in fact closer to _panentheism_, the belief that the universe is ‘in’, rather than the same as, God.
 
 ## Pantheism: a beautiful metaphysics, or an empty one?
 
