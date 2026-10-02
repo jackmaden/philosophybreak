@@ -41,7 +41,7 @@ const Page = ({ data, location }) => {
               <p className="no-mar-top"><a target="_blank" rel="noopener noreferrer sponsored" href="https://amzn.to/4xjTozo">Amazon</a> <i>More options soon</i></p>
 
               <p className="small-mar-top no-mar-bottom"><b>PRE-ORDER GLOBALLY (more soon):</b></p>
-              <p className="no-mar-top"><a target="_blank" rel="noopener noreferrer" href="https://www.penguinrandomhouse.ca/books/852052/the-philosophy-prescription-by-jack-maden/9781911742005">Canada (via Penguin)</a><a target="_blank" rel="noopener noreferrer" href="https://www.penguin.com.au/books/the-philosophy-prescription-9781911742012">Australia (via Penguin)</a><a target="_blank" rel="noopener noreferrer" href="https://www.penguin.co.nz/books/the-philosophy-prescription-9781911742012">New Zealand (via Penguin)</a></p>
+              <p className="no-mar-top"><a target="_blank" rel="noopener noreferrer" href="https://www.penguinrandomhouse.ca/books/852052/the-philosophy-prescription-by-jack-maden/9781911742005">Canada (via Penguin)</a><a target="_blank" rel="noopener noreferrer" href="https://www.penguin.com.au/books/the-philosophy-prescription-9781911742012">Australia (via Penguin)</a><a target="_blank" rel="noopener noreferrer" href="https://www.penguin.co.nz/books/the-philosophy-prescription-9781911742012">New Zealand (via Penguin)</a><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.in/Philosophy-Prescription-Lessons-Thinkers-Every/dp/1911742000/ref=tmm_hrd_swatch_0">India (via Amazon)</a></p>
               </div>
             
             {/*}
