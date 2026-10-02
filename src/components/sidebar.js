@@ -19,7 +19,7 @@ export default function Sidebar() {
         <div id="sidebar2">
             <Link to="/the-philosophy-prescription/">
             <div id="sidebar-subscribe" className="text-center darkradial-background small-mar-bottom" style={{marginTop: '5px'}}>
-                <h5>Explore the new book from the founder of Philosophy Break</h5>
+                <h5>Enjoy Philosophy Break away from your screen</h5>
                  <GatsbyImage
                     image={data.file.childImageSharp.gatsbyImageData}
                     style={{margin: "20px auto 20px", width: "200px"}}
