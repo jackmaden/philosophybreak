@@ -1,15 +1,16 @@
 ---
 title: "Pantheism: Spinoza and the God that Einstein Believed In"
 description: "A quick introduction to the philosophical doctrine of pantheism, and the God that Albert Einstein believed in."
-image: "./pantheism.jpg"
+image: "./spinoz.jpg"
 imageAlt: "Pantheism: Spinoza and the God that Einstein Believed In"
-imageSeo: "./pantheism.jpg"
+imageSeo: "./spinoz.jpg"
 tags: ["Metaphysics", "God"]
-date: "2024-07-05"
+date: "2026-10-02"
 author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;Creation of the World III, by Mikalojus Konstantinas Čiurlionis (1905-6), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Mikalojus_Konstantinas_Ciurlionis_-_CREATION_OF_THE_WORLD_(III)_-_1905_-_6,_Varsuva.jpg">via Wikimedia Commons</a></p>
 
 <span class="big-letter">A</span>merican architect Frank Lloyd Wright once wrote, “I believe in God, only I spell it Nature.” This, in a nutshell, sums up the philosophical doctrine of _pantheism_, the belief that reality is identical with divinity: that the universe is a manifestation of God.
 
@@ -47,7 +48,19 @@ On the other hand, 19th-century German philosopher Arthur Schopenhauer complains
 - Does placing God in _this_ reality, and banishing the idea of a transcendent realm, resonate with you? Does it move us closer to, say, understanding why anything exists at all?
 - Or do you agree with Schopenhauer – that pantheism amounts to nothing more than adding the word ‘divine’ in front of the word ‘nature’, in the hope that this somehow explains it?
 
-If you’d like to join the conversation, consider subscribing to my free Sunday breakdown. I distill one piece of wisdom from philosophy each week; you get the summary delivered straight to your email inbox, and are invited to share your view. Join 28,000+ subscribers by signing up below:
+To inform your answers, you might enjoy the following related Philosophy Breaks:
+
+- [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
+- [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
+- [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
+- [Mono No Aware: Beauty and Impermanence in Japanese Philosophy](/articles/mono-no-aware-beauty-and-impermanence-in-japanese-philosophy/)
+- [Finding Rapture in the Humdrum: Cultivating Wonder for Everyday Life](/articles/finding-rapture-in-the-humdrum-cultivating-wonder-for-everyday-life/)
+
+## Get one mind-opening philosophical idea in your inbox each Sunday
+
+<span class="big-letter">I</span>f you enjoy reflecting on themes like those explored in this article, you might like my free Sunday email. I distill one philosophical idea per week, and invite you to share your view. 
+
+If you’re interested, you can join 28,000+ thinkers and sign up for free below (no spam, and you can unsubscribe any time):
 
 <!--big subscribe-->
 <div class="course-promo darkradial-background subscribe text-center">

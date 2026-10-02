@@ -143,6 +143,7 @@ Alternatively, we could reconceptualize our relationship with nature. We could r
 
 To inform your answers, you might enjoy the following related Philosophy Breaks:
 
+- [Pantheism: Spinoza and the God that Einstein Believed In](/articles/pantheism-spinoza-and-the-god-that-einstein-believed-in/)
 - [Beyond Money: Martha Nussbaum on Living a Flourishing Human Life](/articles/beyond-money-martha-nussbaum-on-living-a-flourishing-human-life/)
 - [On Living Meaningfully in a Vast Universe: Robert Nozick](/articles/on-living-meaningfully-in-a-vast-universe-robert-nozick/)
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
