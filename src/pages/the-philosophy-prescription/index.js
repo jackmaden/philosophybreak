@@ -31,7 +31,7 @@ const Page = ({ data, location }) => {
             <h1 id="smaller">The Philosophy Prescription: Lessons from Big Thinkers for Every Stage of Life, by Jack Maden</h1>
 
             <p style={{marginBottom: "8px"}}>WINTER 2026 | A warm, accessible guide to philosophy’s best ideas</p>
-            <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(10+ reviews)</span></p>
+            <p className="no-mar-top"><span style={{color: "#ffc536"}}>&#9733;&#9733;&#9733;&#9733;&#9733;</span> <span style={{fontSize: "14px"}}>(20+ reviews)</span></p>
             
             <div className="book-orders">
               <p className="no-mar-top no-mar-bottom"><b>ORDER IN THE UK:</b></p>
