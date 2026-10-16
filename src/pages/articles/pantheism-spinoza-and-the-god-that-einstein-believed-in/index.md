@@ -2,7 +2,7 @@
 title: "Pantheism: Spinoza and the God that Einstein Believed In"
 description: "A quick introduction to the philosophical doctrine of pantheism, and the God that Albert Einstein believed in."
 image: "./spinoz.jpg"
-imageAlt: "Pantheism: Spinoza and the God that Einstein Believed In"
+imageAlt: "Creation of the World III, by Mikalojus Konstantinas Čiurlionis (1905-6)"
 imageSeo: "./spinoz.jpg"
 tags: ["Metaphysics", "God"]
 date: "2026-10-02"

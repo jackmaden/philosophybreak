@@ -106,6 +106,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - [Thich Nhat Hanh on Healing the Wounds of the Past](/articles/thich-nhat-hanh-on-healing-the-wounds-of-the-past/)
+- [Manufacturing Nostalgia: Paula Sweeney on Longing for How Life Once Felt](/articles/manufacturing-nostalgia-paula-sweeney-on-longing-for-how-life-once-felt/)
 - ​[Nietzsche On What ‘Finding Yourself’ Actually Means​](/articles/nietzsche-on-what-finding-yourself-actually-means/)
 - [Sartre’s Waiter, ‘Bad Faith’, and the Harms of Inauthenticity​](/articles/sartre-waiter-bad-faith-and-the-harms-of-inauthenticity/)
 - [Anātman, the Buddhist Doctrine of No-Self: Why ‘You’ Do Not Really Exist](/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/)

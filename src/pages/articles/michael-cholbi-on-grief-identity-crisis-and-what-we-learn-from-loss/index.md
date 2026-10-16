@@ -124,6 +124,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [James Baldwin: Suffering Can Become a Force for Good](/articles/james-baldwin-suffering-can-become-a-force-for-good/)
 - [Amor Fati: the Stoics’ and Nietzsche’s Different Takes on Loving Fate](/articles/amor-fati-the-stoics-and-nietzsche-different-takes-on-loving-fate/)
 - [Stoicism and Emotion: Don’t Repress Your Feelings, Reframe Them](/articles/stoicism-and-emotion-dont-repress-your-feelings-reframe-them/)
+- [Manufacturing Nostalgia: Paula Sweeney on Longing for How Life Once Felt](/articles/manufacturing-nostalgia-paula-sweeney-on-longing-for-how-life-once-felt/)
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Why Death is Nothing to Fear: Lucretius and Epicureanism](/articles/why-death-is-nothing-to-fear-lucretius-epicureanism/)
 - [Havi Carel on the Philosophy of Illness: Is Good Health Necessary for a Good Life?](/articles/havi-carel-on-the-philosophy-of-illness-is-good-health-necessary-for-a-good-life/)
