@@ -43,22 +43,17 @@ Marketers exploit nostalgia to sell retro products and experiences: _When did th
 
 Perhaps more worryingly, politicians use it to acquire power: _Remember how good things used to be? I will restore your former glories._
 
-An interesting feature of sentient nostalgia, Sweeney observes, is that it can move us even if we didn’t personally live through the past that’s being evoked. 
+But what exactly are these people stirring up? Is it the past itself we long for, or something else entirely?
 
-Imagine your parents’ homeland was destroyed by war, for example. They raised you in a new country but talked often of their former lives, sculpting temples of memory in your imagination. You might feel nostalgic for a home you never had, longing for a lost childhood that should have been yours, but never will be.
+We tend to think of nostalgia as past-directed, as tied to a particular memory or cluster of memories, and as the longing to return to that former time or place in our minds that – crucially – is now irretrievable.
 
-If we can feel nostalgic for experiences we’ve never actually had, however, then doesn’t that raise questions about the nature of nostalgia itself?
+On this characterization, the wistful pang of nostalgia arises from realizing that _we can never get those times back._
 
-If not _actual events of the past_, then what are we really longing for?
+But Sweeney thinks this conventional picture of nostalgia doesn’t stand up to scrutiny. The object of nostalgia is not the actual history of past times or places, she suggests, but the _feelings we’ve come to associate_ with those times and places. That’s why nostalgia has the power to move us.
+
 
 ## Nostalgia is not a desire to re-live the past, but simply an emotional response to change
-<span class="big-letter">W</span>e tend to think of nostalgia as past-directed, as tied to a particular memory or cluster of memories, and as the longing to return to that former time or place in our minds that – crucially – is now irretrievable. On this characterization, the wistful pang of nostalgia arises from realizing that _we can never get those times back._
-
-But Sweeney thinks this conventional picture of nostalgia doesn’t stand up to scrutiny. The object of nostalgia is not the actual history of past times or places, she suggests, but the _feelings we’ve come to associate_ with those times and places.
-
-Yearning to literally re-experience the past is actually nonsensical, she points out.
-
-Say I feel nostalgia for a particular Christmas morning from childhood. What do I really feel wistful about here? Do I wish to be transported back to that exact time and place? 
+<span class="big-letter">Y</span>earning to literally re-experience the past is nonsensical, Sweeney points out. Say I feel nostalgia for a particular Christmas morning from childhood. What do I really feel wistful about here? Do I wish to be transported back to that exact time and place? 
 
 Let’s play that out. Say I’m thrown back in time and wake up to snow outside, twinkling lights on the street, and presents from Santa Claus under the tree. Would this resolve my feelings of nostalgia?
 
@@ -117,7 +112,6 @@ If someone vows to _actually restore_ us to this golden past, however, and we fe
 ## What do you make of Sweeney’s analysis?
 - Do you think her distinction between ‘sensory’ and ‘sentient’ nostalgia is useful?
 - Do you agree that nostalgia is primarily about recalling prior feelings, rather than wishing to re-live previous events?
-- Do you think it’s possible to feel nostalgia for a past we didn’t personally experience?
 - Where in society do you see nostalgia being used to motivate certain actions?
 - How has nostalgia played a role in your life? Do you often get lost in the past? Or does the past not feature much in your present?
 
