@@ -39,7 +39,7 @@ But not all nostalgia is like this: nostalgia can also be consciously invoked. A
 
 This kind of ‘sentient’ nostalgia is often motivated, Sweeney notes. Invoking nostalgia produces an emotional energy that can then be harnessed as a force for action, and those doing the harnessing aren’t always noble in intent.
 
-Marketers exploit nostalgia to sell retro products and experiences: _When did the world get so complicated! Here, enjoy a little slice of a simpler time._
+Marketers exploit nostalgia to sell retro products and experiences: _When did the world get so complicated! Here, enjoy a slice of a simpler time._
 
 Perhaps more worryingly, politicians use it to acquire power: _Remember how good things used to be? I will restore your former glories._
 
