@@ -55,7 +55,7 @@ But Sweeney thinks this conventional picture of nostalgia doesn’t stand up to 
 ## Nostalgia is not a desire to re-live the past, but simply an emotional response to change
 <span class="big-letter">Y</span>earning to literally re-experience the past is nonsensical, Sweeney points out. Say I feel nostalgia for a particular Christmas morning from childhood. What do I really feel wistful about here? Do I wish to be transported back to that exact time and place? 
 
-Let’s play that out. Say I’m thrown back in time and wake up to snow outside, twinkling lights on the street, and presents from Santa Claus under the tree. Would this resolve my feelings of nostalgia?
+Let’s play that out. Suppose I’m thrown back in time and wake up to snow outside, twinkling lights on the street, and presents from Santa Claus under the tree. Would this resolve my feelings of nostalgia?
 
 Well, if I’m re-living it as my adult self, then that meta-awareness would impact my consciousness in such a way that I wouldn’t really be re-experiencing the feelings of childhood at all. Perhaps it would actually make me feel more nostalgic than ever: so near yet so far.
 
