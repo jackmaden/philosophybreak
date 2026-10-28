@@ -61,7 +61,7 @@ const Page = ({ data, location }) => {
               <div class="separator"></div>
               </div>
             
-                <BannerReadingList title="An Introduction to Philosophy" number="6" link="/reading-lists/introduction-to-philosophy/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
+                <BannerReadingList title="An Introduction to Philosophy" number="5" link="/reading-lists/introduction-to-philosophy/" img={data.rl1.childImageSharp.gatsbyImageData} alt="Book, Pipe and Glasses, by Juan Gris" />
                 
                 <BannerReadingList title="The History of Western Philosophy" number="5" link="/reading-lists/history-of-western-philosophy/" img={data.rl2.childImageSharp.gatsbyImageData} alt="Fruit and Book, by Juan Gris" />
 
