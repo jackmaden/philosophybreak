@@ -137,7 +137,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [What is Philosophy? Definition, How it Works, and 4 Core Branches](/what-is-philosophy-definition-4-core-branches/)
 - [Why Is Philosophy Important Today, and How Can It Improve Your Life?](/why-is-philosophy-important-today/)
 - [Why You Should Care About Philosophy: Jonny Thomson Interview](/articles/why-you-should-care-about-philosophy-jonny-thomson-interview/)
-- [An Introduction to Philosophy: the Best 6 Books to Read](/reading-lists/introduction-to-philosophy/)
+- [An Introduction to Philosophy: the Best 5 Books to Read](/reading-lists/introduction-to-philosophy/)
 - [Life’s Big Questions: Your Concise Guide to Philosophy’s Most Important Wisdom](/lifes-big-questions/)
 
 ## Get one mind-opening philosophical idea in your inbox each Sunday

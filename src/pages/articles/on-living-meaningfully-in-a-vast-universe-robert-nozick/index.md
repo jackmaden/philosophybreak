@@ -79,6 +79,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 - [‘Dao’ in Chinese Philosophy: Harmonizing with the Way](/articles/dao-in-chinese-philosophy-harmonizing-with-the-way/)
 - [Susan Wolf on How to Live a Meaningful Life](/articles/susan-wolf-on-how-to-live-a-meaningful-life/)
 - [Arne Næss’s Deep Ecology: Reevaluating Our Place in Nature](/articles/arne-naess-deep-ecology-reevaluating-our-place-in-nature/)
+- [The Library of Babel: Jorge Luis Borges and the Search for Meaning](/articles/the-library-of-babel-jorge-luis-borges-and-the-search-for-meaning/)
 - [Pantheism: Spinoza and the God that Einstein Believed In](/articles/pantheism-spinoza-and-the-god-that-einstein-believed-in/)
 - [Albert Camus on Coping with Life’s Absurdity](/articles/absurdity-with-camus/)
 - [Kierkegaard On Finding the Meaning of Life](/articles/kierkegaard-on-finding-the-meaning-of-life/)

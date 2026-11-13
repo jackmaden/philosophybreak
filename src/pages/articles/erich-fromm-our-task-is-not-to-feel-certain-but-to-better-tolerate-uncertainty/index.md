@@ -52,6 +52,7 @@ To inform your answers, you might enjoy the following related Philosophy Breaks:
 
 - [​Bertrand Russell On Why Philosophy Matters](/articles/bertrand-russell-why-philosophy-matters/)
 - [​Ruth Chang on Making Difficult Life Decisions​](/articles/ruth-chang-on-making-difficult-life-decisions/)
+- [The Library of Babel: Jorge Luis Borges and the Search for Meaning](/articles/the-library-of-babel-jorge-luis-borges-and-the-search-for-meaning/)
 - [​Kierkegaard: Life Can Only Be Understood Backwards, But It Must Be Lived Forwards](/articles/kierkegaard-life-can-only-be-understood-backwards-but-must-be-lived-forwards/)
 - ​[The Dichotomy of Control: a Stoic Device for a Tranquil Mind](/articles/dichotomy-of-control-a-stoic-device-for-a-tranquil-mind/)
 - [​Albert Camus on Rebelling against Life’s Absurdity](/articles/absurdity-with-camus/)
