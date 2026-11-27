@@ -22,7 +22,7 @@ Lani’s book details the evolutionary history of humanity’s capacity for aski
 
 I hope you enjoy reading mine and Lani’s discussion as much as I enjoyed having it!</i>
 
-<div class="smaller-h2>
+<div class="smaller-h2">
 
 ## You break the evolutionary history of questioning into four broad stages: proto-questioning, private questioning, social questioning, and spoken questioning. Can you speak a little about those?
 
