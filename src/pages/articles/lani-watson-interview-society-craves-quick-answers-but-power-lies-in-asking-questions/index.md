@@ -26,39 +26,61 @@ I hope you enjoy reading mine and Lani’s discussion as much as I enjoyed havin
 
 ## You break the evolutionary history of questioning into four broad stages: proto-questioning, private questioning, social questioning, and spoken questioning. Can you speak a little about those?
 
-When we reflect on the nature of questions, we might think that it’s just something to do with our language. But the actual substance and practice of questioning is so much deeper within our conceptual apparatus and within our evolutionary history. I think what’s fascinating is how far back you have to go to get to the beginning of this evolutionary story: we have to go millions and millions of years further back than language.
+When we reflect on the nature of questions, we might think that it’s just something to do with our language. But the actual substance and practice of questioning is so much deeper within our conceptual apparatus and within our evolutionary history.
+
+I think what’s fascinating is how far back you have to go to get to the beginning of this evolutionary story: we have to go millions and millions of years further back than language.
 
 It starts with what I call proto-questioning, which is the exploratory, information-seeking behaviour found in very basic forms of life, like a nematode worm searching for a food source. This sort of foraging is hardwired and not done intentionally. 
 
-Then comes the evolutionary leap to private questioning, which involves a complex set of abilities that permit an organism to intentionally direct its attention towards the goal of eliciting information. That’s when we get true questioning because that’s when an organism can actually decide that it needs or wants some information and then go out and try and get that information.
+Then comes the evolutionary leap to private questioning, which involves a complex set of abilities that permit an organism to intentionally direct its attention towards the goal of eliciting information.
 
-Once private questioning evolved, it must have quickly expanded throughout the animal kingdom as it’s clearly extremely valuable to basically every species on Earth, aside from those really simple organisms, to acquire information intentionally in this way. It gives them the capacity to problem solve in a much more powerful, deliberate way. New environments, new threats, avoiding the predator coming round the corner, finding the really rich source of food: information gathering is incredibly important. 
+That’s when we get true questioning because that’s when an organism can actually decide that it needs or wants some information and then go out and try and get that information.
 
-And then, what follows is in some ways even more important for humans because we have this amazing leap from private questioning to social questioning, which I argue in the book only humans have made. So this means that humans are the only species that asks each other questions. That may seem surprising, but that’s the conclusion suggested by my research.
+Once private questioning evolved, it must have quickly expanded throughout the animal kingdom as it’s clearly extremely valuable to basically every species on Earth, aside from those really simple organisms, to acquire information intentionally in this way. It gives them the capacity to problem solve in a much more powerful, deliberate way.
 
-Social questioning is incredibly powerful for humans because it allows us to not only intentionally gather information from our environment, but to do so in this very efficient way by getting it from each other. So we don’t all have to start from scratch and literally reinvent the wheel every time. I think that’s essentially the foundation of cultural evolution: our ability to learn in a really, really efficient way from each other and pass down knowledge through generations so that humanity manages to progress.
+New environments, new threats, avoiding the predator coming round the corner, finding the really rich source of food: information gathering is incredibly important. 
+
+And then, what follows is in some ways even more important for humans because we have this amazing leap from private questioning to social questioning, which I argue in the book only humans have made.
+
+So this means that humans are the only species that asks each other questions. That may seem surprising, but that’s the conclusion suggested by my research.
+
+Social questioning is incredibly powerful for humans because it allows us to not only intentionally gather information from our environment, but to do so in this very efficient way by getting it from each other. So we don’t all have to start from scratch and literally reinvent the wheel every time.
+
+I think that’s essentially the foundation of cultural evolution: our ability to learn in a really, really efficient way from each other and pass down knowledge through generations so that humanity manages to progress.
 
 This is unlike, say, chimpanzees who don’t really learn generationally to anything close to that extent. They learn from each other by watching - how to use special tools, for example - and that sometimes gets passed down through generations, but it’s nothing like what we do with our deliberate, purposeful questioning of one another.
 
-The famous primatologist, Jane Goodall actually distinguished humanity on this basis. She said, “What makes us human, I think, is an ability to ask questions.”
+The famous primatologist, Jane Goodall actually distinguished humanity on this basis. She said,
 
-From social questioning you then get to the end of the story, which is advanced spoken questioning via the evolution of language. And we know humans are the only species that does this. But the questions we ask every day using language are all underpinned by these incredible evolutionary advances in our ability to acquire information in new and more efficient, effective, and powerful ways over hundreds of millions of years.
+>“What makes us human, I think, is an ability to ask questions.”
+
+From social questioning you then get to the end of the story, which is advanced spoken questioning via the evolution of language. And we know humans are the only species that does this.
+
+But the questions we ask every day using language are all underpinned by these incredible evolutionary advances in our ability to acquire information in new and more efficient, effective, and powerful ways over hundreds of millions of years.
 
 ## I found it an interesting way to distinguish humanity: to say we are the social questioners of the world, and it’s this ability that’s led to our explosion of knowledge. You discuss how as a species we are naturally disposed and neurochemically rewarded for asking questions, and how this is clearly evidenced in children, who ask questions of the world as soon as they can, and learn incredibly efficiently by doing so. Unfortunately, however, our answer-oriented schooling doesn’t cultivate this questioning mindset. What could our education system do differently? What would question-oriented exams look like?
 
-Whenever I speak to anyone in education they are usually 100% on board with the idea that students should be asking their own questions in the classroom, but they don’t have the opportunity to really facilitate it. Many teachers understand the learning power of questions, not to mention their greater effects on confidence, autonomy, and agency; but their hands are tied by the system, and it frustrates them.
+Whenever I speak to anyone in education they are usually 100% on board with the idea that students should be asking their own questions in the classroom, but they don’t have the opportunity to really facilitate it.
+
+Many teachers understand the learning power of questions, not to mention their greater effects on confidence, autonomy, and agency; but their hands are tied by the system, and it frustrates them.
 
 I don’t think we need a huge revolution to change things, but there does need to be a shift. It can start by understanding, not just at the teaching level but at the curriculum and assessment levels, just how important the power of questions really is.
 
-You just have to look at the neurochemistry to see what a powerful learning tool questions are because questions that spark curiosity actually change the chemistry in our brains and help us to process and remember things. When you think about the learning that we do as young infants, and then all the way through the first years of our lives, you quickly see that we use questions in this extremely efficient and powerful way to learn everything that we can. But as soon as we enter school, that starts to decline.
+You just have to look at the neurochemistry to see what a powerful learning tool questions are because questions that spark curiosity actually change the chemistry in our brains and help us to process and remember things.
 
-That’s partly because the people doing the vast majority of asking in classrooms are teachers, not students. Students quickly transition to being answerers rather than askers when they get to school. But it doesn’t make any sense that you put questions, this extremely powerful learning tool, into the hands of the teachers instead of the students. Because it’s not teachers who need to do the learning. 
+When you think about the learning that we do as young infants, and then all the way through the first years of our lives, you quickly see that we use questions in this extremely efficient and powerful way to learn everything that we can. But as soon as we enter school, that starts to decline.
+
+That’s partly because the people doing the vast majority of asking in classrooms are teachers, not students. Students quickly transition to being answerers rather than askers when they get to school.
+
+But it doesn’t make any sense that you put questions, this extremely powerful learning tool, into the hands of the teachers instead of the students. Because it’s not teachers who need to do the learning. 
 
 Teachers can use questions to facilitate learning, but what we really need is students to be asking the questions for themselves in order to prompt that powerful neurochemical effect that allows them to actually learn in this really, really efficient way.
 
 And then in terms of how we evaluate that, I don’t think it’s actually hard to do when you think about how evaluation already takes place.
 
-When you assess a student’s essay or creative writing story, you’re not assessing a black-and-white factual answer. You’re assessing something more subjective, and we can do the same with questions. It’s about making judgments about whether a question is getting at useful information, whether it’s being asked in the right way and of the right source and so on. We can assess questions the same way we assess any answer that isn’t simply true or false, because we enter into some subjectivity right from the outset.
+When you assess a student’s essay or creative writing story, you’re not assessing a black-and-white factual answer. You’re assessing something more subjective, and we can do the same with questions.
+
+It’s about making judgments about whether a question is getting at useful information, whether it’s being asked in the right way and of the right source and so on. We can assess questions the same way we assess any answer that isn’t simply true or false, because we enter into some subjectivity right from the outset.
 
 ## That makes sense. Two very different essays could both achieve a top mark, because they satisfy certain criteria for excellence in essay writing. The same could be true for assessing the quality of a student’s questions. Now, school isn’t the only place eroding our capacity for questioning. You suggest technology increasingly undermines social questioning because it offers us immediate answers. Instead of asking someone for directions in the street, for example, I’ll just turn to Google Maps.
 
@@ -92,7 +114,9 @@ It is not going to come from building lots of technology that comes up with grea
 
 Right now, individuals can decide what question to ask Google or Claude, or whether to turn to a friend sitting next to them or a colleague across the desk and ask. If we choose the human, we are taking the power of questions and using it to enhance our social connections and continue to build trust in each other, instead of machines.
 
-We have that power all the time. We are constantly making decisions about whom we ask, what questions we ask, and when, how, and why. By more consciously using that power, a shift is possible that no doubt includes this powerful technology, but without being dominated by it and giving up one of the most distinctive things we do as humans.
+We have that power all the time. We are constantly making decisions about whom we ask, what questions we ask, and when, how, and why.
+
+By more consciously using that power, a shift is possible that no doubt includes this powerful technology, but without being dominated by it and giving up one of the most distinctive things we do as humans.
 
 ## If we want to develop more of a questioning mindset in our own lives, what are the key things to remember?
 
@@ -114,17 +138,25 @@ Understanding who you are as a questioner is an important starting point. But to
 
 ## One activity that especially suffers in an answer-oriented world is philosophy, but it’s a natural fit for a more question-oriented world. Why do you think there’s value in reflecting on intractable, potentially unanswerable questions?
 
-Questions are so central to how philosophy operates, and in particular, it is a pursuit of questions and not answers that keeps philosophy alive. We are literally asking the same question, how to live a good life, which is straight out of the playbook of every ancient philosophical tradition you can think of. That question is still one we don't have an answer to, so does that make it not worth asking? Surely not.
+Questions are so central to how philosophy operates, and in particular, it is a pursuit of questions and not answers that keeps philosophy alive.
 
-Part of the reason comes back to this point about power. If you miss the power of questions, if you're rushing past the question in order to get to the answer, you're missing the only opportunity you have to affect what that answer ends up being. You’re missing your chance to change the information you end up with, the knowledge you end up with, the connection you make, and the trust you establish.
+We are literally asking the same question, how to live a good life, which is straight out of the playbook of every ancient philosophical tradition you can think of. That question is still one we don't have an answer to, so does that make it not worth asking? Surely not.
+
+Part of the reason comes back to this point about power. If you miss the power of questions, if you're rushing past the question in order to get to the answer, you're missing the only opportunity you have to affect what that answer ends up being.
+
+You’re missing your chance to change the information you end up with, the knowledge you end up with, the connection you make, and the trust you establish.
 
 All that power to change things comes from asking the questions; it doesn't come from ending up with the answer.
 
-Philosophy, in general, is doing that, but at scale: it’s embracing this opportunity to change so much about the conversation. It might be simply the conversation you're having in your own head – a back-and-forth of questions and answers with yourself – or it might be the conversation you're having with a colleague, a friend, a loved one, a child, a teacher, or a boss.
+Philosophy, in general, is doing that, but at scale: it’s embracing this opportunity to change so much about the conversation. 
+
+It might be simply the conversation you're having in your own head – a back-and-forth of questions and answers with yourself – or it might be the conversation you're having with a colleague, a friend, a loved one, a child, a teacher, or a boss.
 
 All of that is mediated through question-and-answer exchange. If we don't take the opportunity to sit with the questions and think about how we're directing those exchanges and conversations, we're missing the opportunity to actually have an impact on them.
 
-Philosophy gives us that opportunity to sit with questions, to sit with uncertainty, and to sit with doubt – to recognise that others have been sitting with it, and all these generations of thinkers before have also been sitting with it, that as a species we’ve sat with it for thousands of years. It lets us really embrace the lack of answers in a way that can filter out into other parts of your life, if you let it become part of how you approach people and the world. 
+Philosophy gives us that opportunity to sit with questions, to sit with uncertainty, and to sit with doubt – to recognise that others have been sitting with it, and all these generations of thinkers before have also been sitting with it, that as a species we’ve sat with it for thousands of years.
+
+It lets us really embrace the lack of answers in a way that can filter out into other parts of your life, if you let it become part of how you approach people and the world. 
 
 I think of philosophy as training to live with that kind of uncertainty: it encourages you to embrace what’s powerful and important about being in an uncertain world. And that’s exactly a questioning-mindset.
 
