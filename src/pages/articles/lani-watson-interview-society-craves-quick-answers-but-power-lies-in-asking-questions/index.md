@@ -1,9 +1,9 @@
 ---
 title: "Lani Watson Interview: Society Craves Quick Answers, but Power Lies in Asking Questions"
 description: "According to the philosopher Lani Watson, our capacity to ask questions is among humanity’s most distinctive evolutionary superpowers. Rather than cultivate this power, however, today’s world erodes it: education, work, and technology increasingly rush us towards answers."
-image: "./schul.jpeg"
+image: "./soc.jpg"
 imageAlt: "The School Exam, by Albert Spitzweg (1862)"
-imageSeo: "./schul.jpeg"
+imageSeo: "./soc.jpg"
 tags: ["Interview"]
 date: "2026-11-27"
 author: "Jack Maden"
