@@ -44,7 +44,9 @@ The search for wondrous books – books containing solutions to every problem, e
 
 >unbridled hopefulness was succeeded, naturally enough, by a similarly disproportionate depression. The certainty that some bookshelf in some hexagon contained precious books, yet that those precious books were forever out of reach, was almost unbearable.
 
-In its attempts to establish meaning in a world of overwhelming information, humanity increasingly succumbed to disappointment and despair. How to make sense of so much nonsense? What means something? What means nothing?
+In its attempts to establish meaning in a world of overwhelming information, humanity increasingly succumbed to disappointment and despair.
+
+How to make sense of so much nonsense? What means something? What means nothing?
 
 ## Do the works in the library signify anything at all?
 

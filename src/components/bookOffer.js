@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const BookOffer = () => (
   <div id="book-offer">
-    <Link to="/the-philosophy-prescription/">On Sale Now: 📗 The Philosophy Prescription →</Link>
+    <Link to="/the-philosophy-prescription/">Now 20% Off: 📗 The Philosophy Prescription →</Link>
   </div>
 )
 
