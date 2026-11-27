@@ -2,7 +2,7 @@
 title: "Lani Watson Interview: Society Craves Quick Answers, but Power Lies in Asking Questions"
 description: "According to the philosopher Lani Watson, our capacity to ask questions is among humanity’s most distinctive evolutionary superpowers. Rather than cultivate this power, however, today’s world erodes it: education, work, and technology increasingly rush us towards answers."
 image: "./soc.jpg"
-imageAlt: "The School Exam, by Albert Spitzweg (1862)"
+imageAlt: "The Debate Of Socrates And Aspasia, by Nicolas-André Monsiau (1801)"
 imageSeo: "./soc.jpg"
 tags: ["Interview"]
 date: "2026-11-27"
@@ -10,7 +10,7 @@ author: "Jack Maden"
 authorPic: "./philosophybreak.png"
 authorLink: "/about/"
 ---
-<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;The School Exam, by Albert Spitzweg (1862), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Albert_Anker_-_Das_Schulexamen_(1862).jpg">via Wikimedia Commons</a></p>
+<p class="hero-image-attribution"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"/></svg>&nbsp;&nbsp;The Debate Of Socrates And Aspasia, by Nicolas-André Monsiau (1801), <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:The_Debate_Of_Socrates_And_Aspasia.jpg">via Wikimedia Commons</a></p>
 
 <i>[Dr Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson) is an Honorary Fellow at the University of Edinburgh. She is fascinated by questions: what they are, why we ask them, and how we can harness their power for good. Drawing on philosophy and experimental psychology, her research investigates the practice of questioning in everyday life.
 
